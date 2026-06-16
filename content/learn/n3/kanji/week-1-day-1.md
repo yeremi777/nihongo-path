@@ -1,0 +1,337 @@
+---
+title: "Kanji Week 1 Day 1 - 駐車場"
+description: "Belajar kanji N3 yang sering muncul di area parkir, papan larangan, dan informasi fasilitas umum."
+level: "N3"
+category: "kanji"
+topic: "駐車場"
+week: 1
+day: 1
+order: 1
+status: "draft"
+mainReference:
+  - "Soumatome N3 Kanji"
+extraReference:
+  - "JLPT Sensei N3 Kanji List"
+  - "JTest4You N3 Kanji List"
+tags:
+  - "kanji"
+  - "jlpt-n3"
+  - "parkir"
+  - "papan-petunjuk"
+---
+
+## Tujuan
+
+Mengenali delapan kanji N3 yang sering muncul di papan parkir, larangan, dan petunjuk fasilitas umum: 駐, 無, 満, 向, 禁, 関, 係, dan 断.
+
+Di akhir pelajaran ini, kamu diharapkan bisa membaca kata umum seperti 駐車場, 満車, 禁止, 関係, 係員, dan 無断 saat melihat pengumuman pendek. Fokusnya bukan menghafal semua bacaan sekaligus, tetapi mengenali kata yang paling mungkin muncul di papan nyata.
+
+<div class="lesson-callout">
+  <strong>Fokus hari ini:</strong> baca kanji sebagai bagian dari tanda atau kata majemuk. Jangan hafalkan kanji sendirian dulu. Hubungkan bentuk kanji dengan kata yang kemungkinan muncul di tempat umum.
+</div>
+
+## Daftar Kanji
+
+| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
+|---|---|---|---|---|
+| 駐 | チュウ | - | parkir, menetap di suatu tempat | 駐車, 駐車場 |
+| 無 | ム | ない | tidak ada, tanpa | 無料, 無休, 無理, 無い |
+| 満 | マン | - | penuh, puas | 満車, 満員, 不満 |
+| 向 | コウ | むこう, むかう, むき | arah, menghadap | 方向, 向かう, 向こう |
+| 禁 | キン | - | larangan | 禁止, 禁煙 |
+| 関 | カン | - | hubungan, keterkaitan | 関心, 関する, 関係 |
+| 係 | ケイ | かかり | petugas, penanggung jawab, hubungan | 係, 係員, 関係 |
+| 断 | ダン | ことわる | memutus, menolak, tanpa izin dalam kata tertentu | 無断, 断水, 断る |
+
+## Rincian Kanji
+
+Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
+
+<div class="kanji-card-grid">
+  <details class="kanji-card" open>
+    <summary>
+      <span class="kanji-char">駐</span>
+      <span class="kanji-meta">
+        <strong>駐</strong>
+        <small>parkir, menetap</small>
+        <span class="kanji-reading"><span>onyomi: チュウ</span><span>kunyomi: -</span></span>
+      </span>
+    </summary>
+    <p>Dalam topik hari ini, 駐 hampir selalu muncul bersama 車 untuk membentuk kata tentang parkir kendaraan.</p>
+    <ul>
+      <li><span class="ruby-word"><ruby>駐車<rt>ちゅうしゃ</rt></ruby></span> - parkir kendaraan</li>
+      <li><span class="ruby-word"><ruby>駐車場<rt>ちゅうしゃじょう</rt></ruby></span> - tempat parkir</li>
+      <li><span class="ruby-word"><ruby>駐車禁止<rt>ちゅうしゃきんし</rt></ruby></span> - dilarang parkir</li>
+    </ul>
+  </details>
+
+  <details class="kanji-card">
+    <summary>
+      <span class="kanji-char">無</span>
+      <span class="kanji-meta">
+        <strong>無</strong>
+        <small>tidak ada, tanpa</small>
+        <span class="kanji-reading"><span>onyomi: ム</span><span>kunyomi: ない</span></span>
+      </span>
+    </summary>
+    <p>無 memberi rasa “tanpa/tidak ada”. Pada papan umum, kanji ini sering menjelaskan biaya, izin, atau hari libur.</p>
+    <ul>
+      <li><span class="ruby-word"><ruby>無料<rt>むりょう</rt></ruby></span> - gratis</li>
+      <li><span class="ruby-word"><ruby>無休<rt>むきゅう</rt></ruby></span> - tanpa hari libur</li>
+      <li><span class="ruby-word"><ruby>無断<rt>むだん</rt></ruby></span> - tanpa izin</li>
+      <li><span class="ruby-word"><ruby>無い<rt>ない</rt></ruby></span> - tidak ada</li>
+    </ul>
+  </details>
+
+  <details class="kanji-card">
+    <summary>
+      <span class="kanji-char">満</span>
+      <span class="kanji-meta">
+        <strong>満</strong>
+        <small>penuh, puas</small>
+        <span class="kanji-reading"><span>onyomi: マン</span><span>kunyomi: -</span></span>
+      </span>
+    </summary>
+    <p>満 menandai keadaan penuh. Untuk parkir, fokuskan pada apakah masih ada kapasitas atau tidak.</p>
+    <ul>
+      <li><span class="ruby-word"><ruby>満車<rt>まんしゃ</rt></ruby></span> - parkir penuh</li>
+      <li><span class="ruby-word"><ruby>満員<rt>まんいん</rt></ruby></span> - kapasitas penuh orang</li>
+      <li><span class="ruby-word"><ruby>不満<rt>ふまん</rt></ruby></span> - rasa tidak puas</li>
+    </ul>
+  </details>
+
+  <details class="kanji-card">
+    <summary>
+      <span class="kanji-char">向</span>
+      <span class="kanji-meta">
+        <strong>向</strong>
+        <small>arah, menghadap</small>
+        <span class="kanji-reading"><span>onyomi: コウ</span><span>kunyomi: むこう, むかう, むき</span></span>
+      </span>
+    </summary>
+    <p>向 membantu membaca arah. Dalam rambu dan petunjuk, kanji ini biasanya memberi tahu arah hadap atau tujuan.</p>
+    <ul>
+      <li><span class="ruby-word"><ruby>方向<rt>ほうこう</rt></ruby></span> - arah</li>
+      <li><span class="ruby-word"><ruby>向かう<rt>むかう</rt></ruby></span> - menuju</li>
+      <li><span class="ruby-word"><ruby>向こう<rt>むこう</rt></ruby></span> - sebelah sana</li>
+      <li><span class="ruby-word"><ruby>右向き<rt>みぎむき</rt></ruby></span> - menghadap kanan</li>
+    </ul>
+  </details>
+
+  <details class="kanji-card">
+    <summary>
+      <span class="kanji-char">禁</span>
+      <span class="kanji-meta">
+        <strong>禁</strong>
+        <small>larangan</small>
+        <span class="kanji-reading"><span>onyomi: キン</span><span>kunyomi: -</span></span>
+      </span>
+    </summary>
+    <p>禁 adalah penanda larangan yang kuat. Saat melihat kanji ini, cari tindakan apa yang dilarang.</p>
+    <ul>
+      <li><span class="ruby-word"><ruby>禁止<rt>きんし</rt></ruby></span> - larangan</li>
+      <li><span class="ruby-word"><ruby>禁煙<rt>きんえん</rt></ruby></span> - dilarang merokok</li>
+      <li><span class="ruby-word"><ruby>駐車禁止<rt>ちゅうしゃきんし</rt></ruby></span> - dilarang parkir</li>
+    </ul>
+  </details>
+
+  <details class="kanji-card">
+    <summary>
+      <span class="kanji-char">関</span>
+      <span class="kanji-meta">
+        <strong>関</strong>
+        <small>hubungan, keterkaitan</small>
+        <span class="kanji-reading"><span>onyomi: カン</span><span>kunyomi: -</span></span>
+      </span>
+    </summary>
+    <p>関 memberi rasa keterkaitan. Pada papan area terbatas, kanji ini membantu membaca siapa yang termasuk pihak terkait.</p>
+    <ul>
+      <li><span class="ruby-word"><ruby>関心<rt>かんしん</rt></ruby></span> - minat, perhatian</li>
+      <li><span class="ruby-word"><ruby>関する<rt>かんする</rt></ruby></span> - berkaitan dengan</li>
+      <li><span class="ruby-word"><ruby>関係<rt>かんけい</rt></ruby></span> - hubungan</li>
+    </ul>
+  </details>
+
+  <details class="kanji-card">
+    <summary>
+      <span class="kanji-char">係</span>
+      <span class="kanji-meta">
+        <strong>係</strong>
+        <small>petugas, penanggung jawab</small>
+        <span class="kanji-reading"><span>onyomi: ケイ</span><span>kunyomi: かかり</span></span>
+      </span>
+    </summary>
+    <p>係 bisa berarti hubungan, tetapi dalam fasilitas umum sering menunjuk petugas atau penanggung jawab.</p>
+    <ul>
+      <li><span class="ruby-word"><ruby>係<rt>かかり</rt></ruby></span> - petugas, penanggung jawab</li>
+      <li><span class="ruby-word"><ruby>係員<rt>かかりいん</rt></ruby></span> - petugas</li>
+      <li><span class="ruby-word"><ruby>関係<rt>かんけい</rt></ruby></span> - hubungan</li>
+    </ul>
+  </details>
+
+  <details class="kanji-card">
+    <summary>
+      <span class="kanji-char">断</span>
+      <span class="kanji-meta">
+        <strong>断</strong>
+        <small>memutus, menolak</small>
+        <span class="kanji-reading"><span>onyomi: ダン</span><span>kunyomi: ことわる</span></span>
+      </span>
+    </summary>
+    <p>断 punya rasa memutus atau menolak. Dalam 無断, fokusnya adalah tindakan yang dilakukan tanpa izin.</p>
+    <ul>
+      <li><span class="ruby-word"><ruby>無断<rt>むだん</rt></ruby></span> - tanpa izin</li>
+      <li><span class="ruby-word"><ruby>断水<rt>だんすい</rt></ruby></span> - pemutusan air</li>
+      <li><span class="ruby-word"><ruby>断る<rt>ことわる</rt></ruby></span> - menolak</li>
+    </ul>
+  </details>
+</div>
+
+## Peta Kata
+
+Kata utama hari ini adalah 駐車場 yang berarti tempat parkir.
+
+<div class="word-strip">
+  <span>駐車場</span>
+  <span>満車</span>
+  <span>無料</span>
+  <span>禁止</span>
+  <span>駐車禁止</span>
+  <span>無断駐車</span>
+  <span>関係者</span>
+  <span>係員</span>
+</div>
+
+Pada papan petunjuk, kata-kata ini sering muncul tanpa kalimat panjang. Bacalah hubungannya seperti alur informasi: 駐車場 menunjukkan tempat, 満車 menunjukkan status, 無料 menunjukkan biaya, 禁止 dan 無断 menunjukkan aturan, sedangkan 関係者 dan 係員 menunjuk orang yang boleh masuk atau bisa membantu.
+
+## Catatan Pemakaian
+
+### Larangan
+
+- 駐車禁止 berarti dilarang parkir.
+- Kalau ada 禁止, cari tindakan yang dilarang tepat sebelum atau sesudahnya.
+
+### Status
+
+- 満車 menjelaskan kondisi tempat parkir.
+- Artinya tidak ada slot kosong, jadi bukan larangan, melainkan status kapasitas.
+
+### Biaya
+
+- 無料 berarti gratis atau tidak dikenakan biaya.
+- Untuk parkir, 駐車無料 berarti parkir gratis.
+
+### Izin
+
+- 無断 berarti dilakukan tanpa izin.
+- 無断駐車 berarti parkir tanpa izin, meskipun tempatnya terlihat kosong.
+
+### Area terbatas
+
+- 関係者以外 berarti selain pihak terkait atau selain petugas yang berwenang.
+- Bentuk ini sering terlihat di pintu, gerbang, atau area staf.
+
+### Petugas
+
+- 係員 berarti petugas.
+- Jika ada instruksi 係員の案内に従ってください, ikuti arahan petugas.
+
+## Contoh Kalimat
+
+<div class="example-list">
+  <div>
+    <p class="jp">この駐車場は二時間まで無料です。</p>
+    <p>Tempat parkir ini gratis sampai dua jam.</p>
+  </div>
+  <div>
+    <p class="jp">入口に満車と書いてありました。</p>
+    <p>Di pintu masuk tertulis bahwa tempat parkir penuh.</p>
+  </div>
+  <div>
+    <p class="jp">ここは駐車禁止です。</p>
+    <p>Dilarang parkir di sini.</p>
+  </div>
+  <div>
+    <p class="jp">無断駐車はしないでください。</p>
+    <p>Tolong jangan parkir tanpa izin.</p>
+  </div>
+  <div>
+    <p class="jp">係員の案内に従ってください。</p>
+    <p>Harap ikuti arahan petugas.</p>
+  </div>
+</div>
+
+## Hal yang Mudah Tertukar
+
+| Pasangan | Bedanya |
+|---|---|
+| 無料 / 無理 | Lihat kanji kedua: 料 berkaitan dengan biaya, 理 berkaitan dengan alasan atau kewajaran. |
+| 満車 / 満員 | Lihat objek yang penuh: 車 untuk kendaraan/parkir, 員 untuk orang atau kapasitas orang. |
+| 関 / 係 | 関 memberi rasa keterkaitan umum. 係 sering menjadi “petugas” ketika berdiri sendiri atau muncul di 係員. |
+| 禁止 / 無断 | 禁止 berarti tindakannya dilarang. 無断 berarti masalahnya ada pada izin, meskipun tindakannya mungkin terlihat biasa. |
+
+## Kesalahan Umum
+
+Jangan membaca semua kata memakai kunyomi hanya karena kanjinya punya kunyomi.
+
+Contohnya, 向 dibaca むかう pada verba 向かう, tetapi dibaca こう pada kata 方向. Karena itu, biasakan membaca kanji lewat kata utuh. Untuk rambu, kata utuh jauh lebih membantu daripada satu bacaan yang dipaksakan ke semua bentuk.
+
+## Mini Practice
+
+Pilih kata kanji yang paling sesuai dengan arti berikut. Penjelasan baru muncul setelah kamu memilih.
+
+::MiniPractice
+---
+question: "Pilih kata untuk arti: parkir kendaraan."
+optionA: "駐車"
+optionB: "駐車場"
+correct: "駐車"
+explanation: "駐車 benar, dibaca ちゅうしゃ, artinya parkir kendaraan."
+---
+::
+
+::MiniPractice
+---
+question: "Pilih kata untuk arti: tempat parkir."
+optionA: "駐車禁止"
+optionB: "駐車場"
+correct: "駐車場"
+explanation: "駐車場 benar, dibaca ちゅうしゃじょう, artinya tempat parkir."
+---
+::
+
+::MiniPractice
+---
+question: "Pilih kata untuk arti: dilarang parkir."
+optionA: "駐車禁止"
+optionB: "無料"
+correct: "駐車禁止"
+explanation: "駐車禁止 benar, dibaca ちゅうしゃきんし, artinya dilarang parkir."
+---
+::
+
+::MiniPractice
+---
+question: "Pilih kata untuk arti: gratis."
+optionA: "無休"
+optionB: "無料"
+correct: "無料"
+explanation: "無料 benar, dibaca むりょう, artinya gratis."
+---
+::
+
+::MiniPractice
+---
+question: "Pilih kata untuk arti: tanpa izin."
+optionA: "無断"
+optionB: "満車"
+correct: "無断"
+explanation: "無断 benar, dibaca むだん. 満車 adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+---
+::
+
+## Referensi
+
+- Soumatome N3 Kanji, topik Minggu 1 Hari 1: 駐車場
+- JLPT Sensei N3 Kanji List
+- JTest4You N3 Kanji List

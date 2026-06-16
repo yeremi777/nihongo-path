@@ -1,0 +1,42 @@
+# Nuxt dev/build outputs
+.output
+.data
+.nuxt
+.nitro
+.cache
+dist
+
+# Node dependencies
+.pnpm-store
+node_modules
+
+# Logs
+logs
+*.log
+
+# Misc
+.DS_Store
+
+# Local env files
+.env
+.env.*
+!.env.example
+
+# Service Worker (If using Nuxt PWA)
+sw.*
+
+# System / IDE files
+.DS_Store
+.vscode/
+.idea/
+
+# Agents files
+CLAUDE.md
+AGENTS.md
+TASKS.md
+.agents/
+.agent
+.claude
+.codex
+.cursor
+.pi
