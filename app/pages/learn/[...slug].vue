@@ -187,34 +187,15 @@ const defaultOutlines: Record<string, OutlineSection[]> = {
   n3: [
     {
       key: 'kanji',
-      items: [
-        { title: 'Week 1 Day 1 - 駐車場', to: '/learn/n3/kanji/week-1-day-1', week: 1 },
-        { title: 'Week 1 Day 2 - 横断歩道', to: '/learn/n3/kanji/week-1-day-2', week: 1 },
-        { title: 'Week 1 Day 3 - サイン', to: '/learn/n3/kanji/week-1-day-3', week: 1 },
-        { title: 'Week 1 Day 4 - 駅のホーム', to: '/learn/n3/kanji/week-1-day-4', week: 1 },
-        { title: 'Week 1 Day 5 - 特急電車', to: '/learn/n3/kanji/week-1-day-5', week: 1 },
-        { title: 'Week 1 Day 6 - バス', to: '/learn/n3/kanji/week-1-day-6', week: 1 },
-        { title: 'Week 1 Day 7 - クイズ①', to: '/learn/n3/kanji/week-1-day-7', week: 1 }
-      ]
+      items: []
     },
     {
       key: 'vocabulary',
-      items: [
-        { title: 'Week 1 Day 1', to: '/learn/n3/vocabulary/week-1-day-1', week: 1 },
-        { title: 'Abstract nouns', placeholder: true, week: 2 },
-        { title: 'Opinion verbs', placeholder: true, week: 3 }
-      ]
+      items: []
     },
     {
       key: 'grammar',
-      items: [
-        { title: '〜てしまう', to: '/learn/n3/grammar/te-shimau', week: 1 },
-        { title: '〜ように', to: '/learn/n3/grammar/you-ni', week: 1 },
-        { title: '〜わけではない', to: '/learn/n3/grammar/wake-dewa-nai', week: 1 },
-        { title: '〜ばかり', placeholder: true, week: 2 },
-        { title: '〜ほど', placeholder: true, week: 2 },
-        { title: '〜たびに', placeholder: true, week: 3 }
-      ]
+      items: []
     }
   ]
 }
