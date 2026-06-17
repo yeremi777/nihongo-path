@@ -1,9 +1,10 @@
 ---
-title: "Vocabulary Week 6 Day 6 - 意味がたくさんある動詞②"
+title: "意味がたくさんある動詞②"
 description: "Belajar kosakata N3 untuk membedakan makna kata kerja umum dari kolokasi seperti 立つ, 回る, 直す, dan つける."
 level: "N3"
 category: "vocabulary"
 topic: "意味がたくさんある動詞②"
+topicLabel: "Kata kerja bermakna ganda (2)"
 week: 6
 day: 6
 order: 56
@@ -157,6 +158,6 @@ explanation: "予定が立つ berarti rencana tersusun; 旅行の memberi kontek
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, Week 6 Day 6 rows v606-001 sampai v606-028.
+- Soumatome N3 Vocabulary, topik Minggu 6 Hari 6: 意味がたくさんある動詞②
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List

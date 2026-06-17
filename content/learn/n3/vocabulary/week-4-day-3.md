@@ -1,9 +1,10 @@
 ---
-title: "Vocabulary Week 4 Day 3 - 学校へ行きましょう③"
+title: "学校へ行きましょう③"
 description: "Belajar kosakata N3 untuk membaca instruksi ujian, tugas, jawaban, nilai, draf, dan tenggat pengumpulan."
 level: "N3"
 category: "vocabulary"
 topic: "学校へ行きましょう③"
+topicLabel: "Pergi ke sekolah (3)"
 week: 4
 day: 3
 order: 33
@@ -182,6 +183,6 @@ explanation: "問い berarti pertanyaan; 難しい memberi konteks soal yang sul
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, Week 4 Day 3 rows v403-001 sampai v403-032.
+- Soumatome N3 Vocabulary, topik Minggu 4 Hari 3: 学校へ行きましょう③
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List

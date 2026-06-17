@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 1 Day 5 - 医者・歌手"
+title: "医者・歌手"
 description: "Belajar kanji N4 yang sering muncul untuk menyebut pekerjaan, peran orang, keluarga, dan kegiatan kendaraan."
 level: "N4"
 category: "kanji"
 topic: "医者・歌手"
+topicLabel: "Kanji untuk orang"
 week: 1
 day: 5
 order: 5
@@ -136,7 +137,7 @@ explanation: "小説 berarti novel. 家族 berarti keluarga."
 
 ## Referensi
 
-- Soumatome N4 Kanji
+- Soumatome N4 Kanji, topik Minggu 1 Hari 5: 医者・歌手
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List
 

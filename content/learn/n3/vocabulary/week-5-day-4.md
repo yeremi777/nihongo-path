@@ -1,9 +1,10 @@
 ---
-title: "Vocabulary Week 5 Day 4 - 体の調子はどうですか？"
+title: "体の調子はどうですか？"
 description: "Belajar kosakata N3 untuk membaca kondisi tubuh, gejala, pemeriksaan, obat, dan aktivitas menjenguk orang sakit."
 level: "N3"
 category: "vocabulary"
 topic: "体の調子はどうですか？"
+topicLabel: "Kondisi tubuh bagaimana?"
 week: 5
 day: 4
 order: 44
@@ -161,6 +162,6 @@ explanation: "医者 umum dipakai dalam percakapan sehari-hari untuk dokter."
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, Week 5 Day 4 rows v504-001 sampai v504-039.
+- Soumatome N3 Vocabulary, topik Minggu 5 Hari 4: 体の調子はどうですか？
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List

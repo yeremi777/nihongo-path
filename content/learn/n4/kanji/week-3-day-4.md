@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 3 Day 4 - 体・薬"
+title: "体・薬"
 description: "Belajar kanji N4 yang sering muncul di kesehatan, pekerjaan, obat, ujian, keadaan darurat, dan suara."
 level: "N4"
 category: "kanji"
 topic: "体・薬"
+topicLabel: "Pelafalan dan penulisan"
 week: 3
 day: 4
 order: 18
@@ -140,7 +141,7 @@ explanation: "声優 berarti pengisi suara. 安心 berarti tenang."
 
 ## Referensi
 
-- Soumatome N4 Kanji
+- Soumatome N4 Kanji, topik Minggu 3 Hari 4: 体・薬
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List
 

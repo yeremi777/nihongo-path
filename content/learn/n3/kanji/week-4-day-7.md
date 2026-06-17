@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 4 Day 7 - クイズ④"
+title: "クイズ④"
 description: "Belajar kanji tambahan N3 dari minggu keempat yang sering muncul pada benda tipis, pintu rumah, danau, kapal, sudut, keluarga, dan ungkapan sulit."
 level: "N3"
 category: "kanji"
 topic: "クイズ④"
+topicLabel: "Kuis minggu 4"
 week: 4
 day: 7
 order: 28

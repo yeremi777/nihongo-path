@@ -1,9 +1,10 @@
 ---
-title: "Vocabulary Week 1 Day 2 - 料理をしましょう①"
+title: "料理をしましょう①"
 description: "Belajar kosakata N3 untuk membaca bahan, alat, takaran, langkah persiapan, dan instruksi memasak sederhana."
 level: "N3"
 category: "vocabulary"
 topic: "料理をしましょう①"
+topicLabel: "Mari memasak (1)"
 week: 1
 day: 2
 order: 2

@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 1 Day 2 - 横断歩道"
+title: "横断歩道"
 description: "Belajar kanji N3 yang sering muncul di rambu penyeberangan, tombol lalu lintas, dan instruksi keselamatan jalan."
 level: "N3"
 category: "kanji"
 topic: "横断歩道"
+topicLabel: "Penyeberangan pejalan kaki"
 week: 1
 day: 2
 order: 2

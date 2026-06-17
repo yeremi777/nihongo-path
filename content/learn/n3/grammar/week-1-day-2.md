@@ -1,9 +1,10 @@
 ---
-title: "Grammar Week 1 Day 2 - そこに置いといて"
+title: "そこに置いといて"
 description: "Belajar pola grammar N3 untuk kewajiban santai, tindakan yang telanjur selesai, dan persiapan yang dilakukan lebih dulu."
 level: "N3"
 category: "grammar"
 topic: "そこに置いといて"
+topicLabel: "Taruh saja di sana"
 week: 1
 day: 2
 order: 2

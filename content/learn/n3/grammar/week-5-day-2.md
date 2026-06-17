@@ -1,9 +1,10 @@
 ---
-title: "Grammar Week 5 Day 2 - 炊きたて"
+title: "炊きたて"
 description: "Belajar pola grammar N3 untuk menyatakan pekerjaan selesai, tindakan selesai sepenuhnya, pekerjaan setengah jalan, dan hasil yang baru selesai."
 level: "N3"
 category: "grammar"
 topic: "炊きたて"
+topicLabel: "Baru matang"
 week: 5
 day: 2
 order: 42

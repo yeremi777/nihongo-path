@@ -1,9 +1,10 @@
 ---
-title: "Grammar Week 5 Day 6 - ところで..."
+title: "ところで..."
 description: "Belajar pola grammar N3 untuk membedakan kontras biasa, hasil yang tidak terduga, perpindahan topik, dan penghubung alasan ke akibat."
 level: "N3"
 category: "grammar"
 topic: "ところで..."
+topicLabel: "Ngomong-ngomong"
 week: 5
 day: 6
 order: 46

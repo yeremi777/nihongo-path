@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 2 Day 6 - 困ったときは"
+title: "困ったときは"
 description: "Belajar kanji N3 yang sering muncul saat meminta bantuan, membaca informasi darurat, polisi, pemadam, dan laporan gangguan."
 level: "N3"
 category: "kanji"
 topic: "困ったときは"
+topicLabel: "Saat kesulitan"
 week: 2
 day: 6
 order: 13

@@ -1,9 +1,10 @@
 ---
-title: "Vocabulary Week 1 Day 1 - キッチンで／リビングで"
+title: "キッチンで／リビングで"
 description: "Belajar kosakata N3 untuk mengenali benda dapur, alat elektronik rumah, kondisi ruangan, dan tindakan kecil di rumah."
 level: "N3"
 category: "vocabulary"
 topic: "キッチンで／リビングで"
+topicLabel: "Di dapur dan ruang keluarga"
 week: 1
 day: 1
 order: 1

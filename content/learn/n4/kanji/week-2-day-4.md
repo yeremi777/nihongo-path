@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 2 Day 4 - 発音・注意"
+title: "発音・注意"
 description: "Belajar kanji N4 yang sering muncul di sekolah, alamat, penelitian, catatan keselamatan, pengucapan, dan dunia kerja."
 level: "N4"
 category: "kanji"
 topic: "発音・注意"
+topicLabel: "Kanji fokus pelafalan"
 week: 2
 day: 4
 order: 11
@@ -140,7 +141,7 @@ explanation: "工場 berarti pabrik. 工業 berarti industri."
 
 ## Referensi
 
-- Soumatome N4 Kanji
+- Soumatome N4 Kanji, topik Minggu 2 Hari 4: 発音・注意
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List
 

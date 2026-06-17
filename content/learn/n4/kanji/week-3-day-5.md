@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 3 Day 5 - 親切・切手"
+title: "親切・切手"
 description: "Belajar kanji N4 yang sering muncul di kombinasi kata harian, tempat, ruang, tulisan, dan ungkapan sikap."
 level: "N4"
 category: "kanji"
 topic: "親切・切手"
+topicLabel: "Kombinasi kanji"
 week: 3
 day: 5
 order: 19
@@ -136,7 +137,7 @@ explanation: "会議室 berarti ruang rapat. 教室 berarti kelas."
 
 ## Referensi
 
-- Soumatome N4 Kanji
+- Soumatome N4 Kanji, topik Minggu 3 Hari 5: 親切・切手
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List
 

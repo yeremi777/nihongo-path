@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 4 Day 3 - 通信販売"
+title: "通信販売"
 description: "Belajar kanji N3 yang sering muncul di halaman belanja online, katalog produk, pajak, harga, stok, dan ongkos pembelian."
 level: "N3"
 category: "kanji"
 topic: "通信販売"
+topicLabel: "Belanja lewat surat"
 week: 4
 day: 3
 order: 24
@@ -294,6 +295,6 @@ explanation: "小型 benar, dibaca こがた. 消費税 adalah pilihan lain dari
 
 ## Referensi
 
-- Soumatome N3 Kanji
+- Soumatome N3 Kanji, topik Minggu 4 Hari 3: 通信販売
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

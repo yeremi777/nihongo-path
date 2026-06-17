@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 4 Day 4 - 申込書"
+title: "申込書"
 description: "Belajar kanji N3 yang sering muncul di formulir pendaftaran, kolom usia, jenis kelamin, catatan kontak, dan data pribadi."
 level: "N3"
 category: "kanji"
 topic: "申込書"
+topicLabel: "Formulir pendaftaran"
 week: 4
 day: 4
 order: 25
@@ -292,6 +293,6 @@ explanation: "高齢 benar, dibaca こうれい. 二十歳 adalah pilihan lain d
 
 ## Referensi
 
-- Soumatome N3 Kanji
+- Soumatome N3 Kanji, topik Minggu 4 Hari 4: 申込書
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

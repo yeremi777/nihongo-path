@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 4 Day 5 - 注文"
+title: "注文"
 description: "Belajar kanji N3 yang sering muncul di halaman pesanan, pengiriman paket, jumlah pembayaran, dan pilihan tukar atau bayar di tempat."
 level: "N3"
 category: "kanji"
 topic: "注文"
+topicLabel: "Pemesanan"
 week: 4
 day: 5
 order: 26
@@ -293,6 +294,6 @@ explanation: "希少 benar, dibaca きしょう. 荷物 adalah pilihan lain dari
 
 ## Referensi
 
-- Soumatome N3 Kanji
+- Soumatome N3 Kanji, topik Minggu 4 Hari 5: 注文
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

@@ -1,9 +1,10 @@
 ---
-title: "Grammar Week 4 Day 5 - 聞いてみるしかない"
+title: "聞いてみるしかない"
 description: "Belajar pola grammar N3 untuk mengingat kembali informasi, menyatakan satu-satunya pilihan, melaporkan kabar kasual, dan memberi alasan emosional."
 level: "N3"
 category: "grammar"
 topic: "聞いてみるしかない"
+topicLabel: "Tidak ada pilihan selain bertanya"
 week: 4
 day: 5
 order: 35

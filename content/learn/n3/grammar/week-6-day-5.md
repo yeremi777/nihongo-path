@@ -1,9 +1,10 @@
 ---
-title: "Grammar Week 6 Day 5 - めったに行かない"
+title: "めったに行かない"
 description: "Belajar pola grammar N3 untuk memakai adverbia negatif kuat seperti tidak pernah, jarang sekali, sama sekali tidak, dan sedikit pun tidak."
 level: "N3"
 category: "grammar"
 topic: "めったに行かない"
+topicLabel: "Jarang pergi"
 week: 6
 day: 5
 order: 55

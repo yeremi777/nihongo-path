@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 2 Day 5 - 号・番・全"
+title: "号・番・全"
 description: "Belajar kanji N4 yang sering muncul pada nomor, urutan, batas waktu, pakaian, dan keterangan jumlah."
 level: "N4"
 category: "kanji"
 topic: "号・番・全"
+topicLabel: "Kanji untuk membentuk kata"
 week: 2
 day: 5
 order: 12
@@ -136,7 +137,7 @@ explanation: "洋服 berarti pakaian Barat. 和服 berarti pakaian Jepang."
 
 ## Referensi
 
-- Soumatome N4 Kanji
+- Soumatome N4 Kanji, topik Minggu 2 Hari 5: 号・番・全
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List
 

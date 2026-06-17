@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 3 Day 6 - 海・山・空・川"
+title: "海・山・空・川"
 description: "Belajar kanji N4 yang sering muncul di alam, perjalanan pulang, berjalan, berlari, dan fasilitas umum."
 level: "N4"
 category: "kanji"
 topic: "海・山・空・川"
+topicLabel: "Belajar dalam kelompok alam"
 week: 3
 day: 6
 order: 20
@@ -134,7 +135,7 @@ explanation: "帰国 berarti pulang ke negara asal. 帰宅 berarti pulang ke rum
 
 ## Referensi
 
-- Soumatome N4 Kanji
+- Soumatome N4 Kanji, topik Minggu 3 Hari 6: 海・山・空・川
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List
 

@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 2 Day 2 - 大・犬・太"
+title: "大・犬・太"
 description: "Belajar kanji N4 yang sering muncul saat membaca bentuk kanji mirip dalam keluarga, warna, cahaya, dan tempat."
 level: "N4"
 category: "kanji"
 topic: "大・犬・太"
+topicLabel: "Kanji mirip bentuknya"
 week: 2
 day: 2
 order: 9
@@ -142,7 +143,7 @@ explanation: "特別 berarti spesial. 平和 berarti damai."
 
 ## Referensi
 
-- Soumatome N4 Kanji
+- Soumatome N4 Kanji, topik Minggu 2 Hari 2: 大・犬・太
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List
 

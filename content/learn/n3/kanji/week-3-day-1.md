@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 3 Day 1 - 要冷蔵"
+title: "要冷蔵"
 description: "Belajar kanji N3 yang sering muncul pada label makanan, penyimpanan dingin, freezer, dan instruksi konsumsi."
 level: "N3"
 category: "kanji"
 topic: "要冷蔵"
+topicLabel: "Simpan di kulkas"
 week: 3
 day: 1
 order: 15

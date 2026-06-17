@@ -1,9 +1,10 @@
 ---
-title: "Vocabulary Week 3 Day 4 - 食事に行きましょう"
+title: "食事に行きましょう"
 description: "Belajar kosakata N3 untuk membaca reservasi, menu, pesanan, rasa, layanan, dan situasi makan di luar."
 level: "N3"
 category: "vocabulary"
 topic: "食事に行きましょう"
+topicLabel: "Pergi makan"
 week: 3
 day: 4
 order: 24

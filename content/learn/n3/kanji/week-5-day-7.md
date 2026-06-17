@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 5 Day 7 - クイズ⑤"
+title: "クイズ⑤"
 description: "Belajar kanji tambahan N3 dari minggu kelima yang sering muncul pada sifat benda, tangisan, suara, awal kegiatan, menginap, dan kata sehari-hari."
 level: "N3"
 category: "kanji"
 topic: "クイズ⑤"
+topicLabel: "Kuis minggu 5"
 week: 5
 day: 7
 order: 35

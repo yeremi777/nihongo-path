@@ -1,9 +1,10 @@
 ---
-title: "Grammar Week 2 Day 5 - 美人というより"
+title: "美人というより"
 description: "Belajar pola grammar N3 untuk mengoreksi label, membuka asosiasi topik, dan melemahkan ekspektasi dari sebuah sebutan."
 level: "N3"
 category: "grammar"
 topic: "美人というより"
+topicLabel: "Lebih tepat daripada “cantik”"
 week: 2
 day: 5
 order: 15

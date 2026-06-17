@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 3 Day 7 - クイズ③"
+title: "クイズ③"
 description: "Belajar kanji tambahan N3 dari minggu ketiga yang sering muncul pada pendidikan, jenis, pekerjaan profesional, keluarga, hewan, dan bahan."
 level: "N3"
 category: "kanji"
 topic: "クイズ③"
+topicLabel: "Kuis minggu 3"
 week: 3
 day: 7
 order: 21

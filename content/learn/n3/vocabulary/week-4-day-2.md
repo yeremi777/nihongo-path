@@ -1,9 +1,10 @@
 ---
-title: "Vocabulary Week 4 Day 2 - 学校へ行きましょう②"
+title: "学校へ行きましょう②"
 description: "Belajar kosakata N3 untuk membaca jurusan kampus, ujian masuk, biaya kuliah, beasiswa, dan kehidupan akademik."
 level: "N3"
 category: "vocabulary"
 topic: "学校へ行きましょう②"
+topicLabel: "Pergi ke sekolah (2)"
 week: 4
 day: 2
 order: 32
@@ -175,6 +176,6 @@ explanation: "学科 lebih spesifik daripada 学部, seperti jurusan/program stu
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, Week 4 Day 2 rows v402-001 sampai v402-038.
+- Soumatome N3 Vocabulary, topik Minggu 4 Hari 2: 学校へ行きましょう②
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List

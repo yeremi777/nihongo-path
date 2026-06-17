@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 2 Day 6 - 赤・白・黄"
+title: "赤・白・黄"
 description: "Belajar kanji N4 yang sering muncul di warna, anggota keluarga, wajah, kepala, dan deskripsi benda."
 level: "N4"
 category: "kanji"
 topic: "赤・白・黄"
+topicLabel: "Belajar dalam kelompok warna"
 week: 2
 day: 6
 order: 13
@@ -138,7 +139,7 @@ explanation: "首都 berarti ibu kota. 手首 berarti pergelangan tangan."
 
 ## Referensi
 
-- Soumatome N4 Kanji
+- Soumatome N4 Kanji, topik Minggu 2 Hari 6: 赤・白・黄
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List
 

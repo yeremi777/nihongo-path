@@ -1,9 +1,10 @@
 ---
-title: "Vocabulary Week 2 Day 1 - 計画を立てましょう"
+title: "計画を立てましょう"
 description: "Belajar kosakata N3 untuk membaca tanggal, jadwal, rencana perjalanan, reservasi, dan perubahan agenda."
 level: "N3"
 category: "vocabulary"
 topic: "計画を立てましょう"
+topicLabel: "Membuat rencana"
 week: 2
 day: 1
 order: 11

@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 1 Day 3 - 長い ↔ 短い"
+title: "長い ↔ 短い"
 description: "Belajar kanji N4 yang sering muncul saat membandingkan jarak, kekuatan, terang-gelap, dan kondisi benda."
 level: "N4"
 category: "kanji"
 topic: "長い ↔ 短い"
+topicLabel: "Belajar dalam pasangan"
 week: 1
 day: 3
 order: 3
@@ -138,7 +139,7 @@ explanation: "悪天候 berarti cuaca buruk. 強風 berarti angin kencang."
 
 ## Referensi
 
-- Soumatome N4 Kanji
+- Soumatome N4 Kanji, topik Minggu 1 Hari 3: 長い ↔ 短い
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List
 

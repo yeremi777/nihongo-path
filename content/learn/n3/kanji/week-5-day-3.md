@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 5 Day 3 - 日本語クラス"
+title: "日本語クラス"
 description: "Belajar kanji N3 yang sering muncul di kelas bahasa Jepang, latihan, pemilihan jawaban, koreksi, pengulangan, kamus, dan tugas rumah."
 level: "N3"
 category: "kanji"
 topic: "日本語クラス"
+topicLabel: "Kelas bahasa Jepang"
 week: 5
 day: 3
 order: 31
@@ -311,6 +312,6 @@ explanation: "選手 benar, dibaca せんしゅ. 間違い adalah pilihan lain d
 
 ## Referensi
 
-- Soumatome N3 Kanji
+- Soumatome N3 Kanji, topik Minggu 5 Hari 3: 日本語クラス
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

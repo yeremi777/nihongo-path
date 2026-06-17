@@ -1,9 +1,10 @@
 ---
-title: "Vocabulary Week 2 Day 6 - 用事を済ませましょう"
+title: "用事を済ませましょう"
 description: "Belajar kosakata N3 untuk membaca urusan harian, layanan kota, pengiriman, bank, pos, dan dokumen sederhana."
 level: "N3"
 category: "vocabulary"
 topic: "用事を済ませましょう"
+topicLabel: "Menyelesaikan urusan"
 week: 2
 day: 6
 order: 16

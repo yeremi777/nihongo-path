@@ -1,9 +1,10 @@
 ---
-title: "Grammar Week 1 Day 6 - 話を聞こうとしない"
+title: "話を聞こうとしない"
 description: "Belajar pola grammar N3 untuk menyatakan niat, usaha yang hampir dilakukan, dan sikap tidak mau mencoba."
 level: "N3"
 category: "grammar"
 topic: "話を聞こうとしない"
+topicLabel: "Dia bahkan tidak mau mendengarkan"
 week: 1
 day: 6
 order: 6

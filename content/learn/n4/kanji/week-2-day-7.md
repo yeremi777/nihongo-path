@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 2 Day 7 - 建物の中のサイン"
+title: "建物の中のサイン"
 description: "Belajar kanji N4 yang sering muncul pada tanda pintu, tombol, instruksi buka-tutup, dan peringatan di gedung."
 level: "N4"
 category: "kanji"
 topic: "建物の中のサイン"
+topicLabel: "Rambu di dalam gedung"
 week: 2
 day: 7
 order: 14
@@ -130,7 +131,7 @@ explanation: "割引 berarti diskon. 受取 berarti penerimaan."
 
 ## Referensi
 
-- Soumatome N4 Kanji
+- Soumatome N4 Kanji, topik Minggu 2 Hari 7: 建物の中のサイン
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List
 

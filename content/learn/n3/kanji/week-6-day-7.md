@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 6 Day 7 - クイズ⑥"
+title: "クイズ⑥"
 description: "Belajar kanji tambahan N3 dari minggu keenam yang sering muncul di berita, acara sekolah, kesibukan kerja, informasi, perasaan, dan pendapat berlawanan."
 level: "N3"
 category: "kanji"
 topic: "クイズ⑥"
+topicLabel: "Kuis minggu 6"
 week: 6
 day: 7
 order: 42

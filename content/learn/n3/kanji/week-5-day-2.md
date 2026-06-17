@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 5 Day 2 - アンケート"
+title: "アンケート"
 description: "Belajar kanji N3 yang sering muncul di survei, kuesioner, pertanyaan pendapat, tingkat kesulitan, dan kesan setelah layanan."
 level: "N3"
 category: "kanji"
 topic: "アンケート"
+topicLabel: "Kuesioner"
 week: 5
 day: 2
 order: 30
@@ -292,6 +293,6 @@ explanation: "簡単 benar, dibaca かんたん. 簡単な adalah pilihan lain d
 
 ## Referensi
 
-- Soumatome N3 Kanji
+- Soumatome N3 Kanji, topik Minggu 5 Hari 2: アンケート
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

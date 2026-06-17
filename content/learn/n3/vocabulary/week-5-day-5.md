@@ -1,9 +1,10 @@
 ---
-title: "Vocabulary Week 5 Day 5 - どんなようすですか？①"
+title: "どんなようすですか？①"
 description: "Belajar kosakata N3 untuk membaca kondisi tubuh, rasa sakit, bentuk fisik, ekspresi wajah, dan penampilan."
 level: "N3"
 category: "vocabulary"
 topic: "どんなようすですか？①"
+topicLabel: "Seperti apa keadaannya? (1)"
 week: 5
 day: 5
 order: 45
@@ -157,6 +158,6 @@ explanation: "顔色が悪い berarti wajah tampak pucat atau tidak sehat."
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, Week 5 Day 5 rows v505-001 sampai v505-040.
+- Soumatome N3 Vocabulary, topik Minggu 5 Hari 5: どんなようすですか？①
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List

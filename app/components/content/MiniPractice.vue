@@ -66,7 +66,7 @@ const optionClass = (option: string) => {
 
 <template>
   <section
-    class="my-4 rounded-lg border p-4 transition-colors"
+    class="lesson-practice rounded-lg border p-4 transition-colors"
     :class="cardClass"
   >
     <p class="font-bold leading-7">

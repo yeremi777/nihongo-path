@@ -1,9 +1,10 @@
 ---
-title: "Vocabulary Week 1 Day 4 - 掃除をしましょう"
+title: "掃除をしましょう"
 description: "Belajar kosakata N3 untuk membaca alat bersih-bersih, kondisi ruangan, tindakan merapikan, dan pemilahan sampah."
 level: "N3"
 category: "vocabulary"
 topic: "掃除をしましょう"
+topicLabel: "Mari bersih-bersih"
 week: 1
 day: 4
 order: 4

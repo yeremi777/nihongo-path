@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 1 Day 2 - それは何ですか。"
+title: "それは何ですか。"
 description: "Belajar kanji N5 dasar yang sering muncul saat membaca jam, minggu, tahun, dan jadwal harian."
 level: "N5"
 category: "kanji"
 topic: "それは何ですか。"
+topicLabel: "Ungkapan waktu"
 week: 1
 day: 2
 order: 2
@@ -146,6 +147,6 @@ explanation: "午後 berarti setelah tengah hari. 午前 berarti sebelum tengah 
 
 ## Referensi
 
-- Soumatome N5 Kanji
+- Soumatome N5 Kanji, topik Minggu 1 Hari 2: それは何ですか。
 - JLPT Sensei N5 Kanji List
 - JTest4You N5 Kanji List

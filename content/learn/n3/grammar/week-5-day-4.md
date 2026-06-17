@@ -1,9 +1,10 @@
 ---
-title: "Grammar Week 5 Day 4 - 今晩から明日の朝にかけて"
+title: "今晩から明日の朝にかけて"
 description: "Belajar pola grammar N3 untuk membedakan sampai sebagai durasi, sampai sebagai contoh ekstrem, rentang waktu/tempat, dan konteks formal."
 level: "N3"
 category: "grammar"
 topic: "今晩から明日の朝にかけて"
+topicLabel: "Dari malam ini sampai besok pagi"
 week: 5
 day: 4
 order: 44

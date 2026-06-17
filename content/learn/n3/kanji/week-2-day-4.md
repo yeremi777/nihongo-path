@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 2 Day 4 - 街の地図"
+title: "街の地図"
 description: "Belajar kanji N3 yang sering muncul di peta kota, kantor layanan umum, persimpangan, jembatan, dan taman."
 level: "N3"
 category: "kanji"
 topic: "街の地図"
+topicLabel: "Peta kota"
 week: 2
 day: 4
 order: 11

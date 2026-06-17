@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 1 Day 4 - 駅のホーム"
+title: "駅のホーム"
 description: "Belajar kanji N3 yang sering muncul di peron stasiun, papan jalur kereta, arah tujuan, dan informasi layanan."
 level: "N3"
 category: "kanji"
 topic: "駅のホーム"
+topicLabel: "Peron stasiun"
 week: 1
 day: 4
 order: 4

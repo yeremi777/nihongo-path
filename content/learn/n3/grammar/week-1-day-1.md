@@ -1,9 +1,10 @@
 ---
-title: "Grammar Week 1 Day 1 - ぼくにもやらせて"
+title: "ぼくにもやらせて"
 description: "Belajar pola grammar N3 untuk meminta izin, menjelaskan tindakan yang dialami, dan membedakan pasif biasa dari pasif penderitaan."
 level: "N3"
 category: "grammar"
 topic: "ぼくにもやらせて"
+topicLabel: "Izinkan aku juga melakukannya"
 week: 1
 day: 1
 order: 1

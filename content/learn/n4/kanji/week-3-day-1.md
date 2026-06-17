@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 3 Day 1 - 部屋・土産"
+title: "部屋・土産"
 description: "Belajar kanji N4 yang sering muncul di rumah, oleh-oleh, keluarga, dunia, dan informasi tempat."
 level: "N4"
 category: "kanji"
 topic: "部屋・土産"
+topicLabel: "Bacaan khusus"
 week: 3
 day: 1
 order: 15
@@ -132,7 +133,7 @@ explanation: "本屋 berarti toko buku. 花屋 berarti toko bunga."
 
 ## Referensi
 
-- Soumatome N4 Kanji
+- Soumatome N4 Kanji, topik Minggu 3 Hari 1: 部屋・土産
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List
 

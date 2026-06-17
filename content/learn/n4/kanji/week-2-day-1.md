@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 2 Day 1 - 映画・計画"
+title: "映画・計画"
 description: "Belajar kanji N4 yang sering muncul di film, rencana, pekerjaan, peta, fasilitas, dan jalur kereta."
 level: "N4"
 category: "kanji"
 topic: "映画・計画"
+topicLabel: "Belajar bacaan lewat kata"
 week: 2
 day: 1
 order: 8
@@ -136,7 +137,7 @@ explanation: "地下鉄 berarti kereta bawah tanah. 鉄道 berarti jalur kereta.
 
 ## Referensi
 
-- Soumatome N4 Kanji
+- Soumatome N4 Kanji, topik Minggu 2 Hari 1: 映画・計画
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List
 

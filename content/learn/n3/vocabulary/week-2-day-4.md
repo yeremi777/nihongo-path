@@ -1,9 +1,10 @@
 ---
-title: "Vocabulary Week 2 Day 4 - 車に乗りましょう①"
+title: "車に乗りましょう①"
 description: "Belajar kosakata N3 untuk membaca arah jalan, rambu, kondisi lalu lintas, parkir, dan kebiasaan naik mobil."
 level: "N3"
 category: "vocabulary"
 topic: "車に乗りましょう①"
+topicLabel: "Naik mobil (1)"
 week: 2
 day: 4
 order: 14

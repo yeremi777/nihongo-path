@@ -1,9 +1,10 @@
 ---
-title: "Grammar Week 1 Day 4 - できるようになった！"
+title: "できるようになった！"
 description: "Belajar pola grammar N3 untuk membiasakan tindakan, membuat sesuatu menjadi mungkin, dan menjelaskan perubahan kemampuan atau keadaan."
 level: "N3"
 category: "grammar"
 topic: "できるようになった！"
+topicLabel: "Aku sudah mulai bisa!"
 week: 1
 day: 4
 order: 4

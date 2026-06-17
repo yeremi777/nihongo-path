@@ -1,9 +1,10 @@
 ---
-title: "Vocabulary Week 5 Day 2 - あいさつをしましょう"
+title: "あいさつをしましょう"
 description: "Belajar kosakata N3 untuk memakai sapaan, perkenalan, kunjungan, izin, dan ucapan setelah bekerja."
 level: "N3"
 category: "vocabulary"
 topic: "あいさつをしましょう"
+topicLabel: "Memberi salam"
 week: 5
 day: 2
 order: 42
@@ -170,6 +171,6 @@ explanation: "はじめまして dipakai saat perkenalan pertama."
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, Week 5 Day 2 rows v502-001 sampai v502-033.
+- Soumatome N3 Vocabulary, topik Minggu 5 Hari 2: あいさつをしましょう
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List

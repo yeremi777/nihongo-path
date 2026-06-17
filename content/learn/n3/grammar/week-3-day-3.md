@@ -1,9 +1,10 @@
 ---
-title: "Grammar Week 3 Day 3 - 勉強するつもりでしたが…"
+title: "勉強するつもりでしたが…"
 description: "Belajar pola grammar N3 untuk membedakan niat, dugaan logis, kewajiban moral, dan ingatan kebiasaan masa lalu."
 level: "N3"
 category: "grammar"
 topic: "勉強するつもりでしたが…"
+topicLabel: "Saya tadinya berencana belajar, tapi..."
 week: 3
 day: 3
 order: 23

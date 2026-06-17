@@ -5,6 +5,9 @@ type OutlineItem = {
   to?: string
   placeholder?: boolean
   week?: number
+  day?: number
+  topic?: string
+  topicLabel?: string
 }
 
 type OutlineSection = {
@@ -45,6 +48,27 @@ type TocLink = {
 type ContentLessonDoc = {
   path?: string
   title?: string
+  description?: string
+  topic?: string
+  topicLabel?: string
+  week?: number
+  day?: number
+  meta?: Record<string, unknown>
+}
+
+const readLessonField = <K extends 'topic' | 'topicLabel' | 'week' | 'day'>(
+  doc: ContentLessonDoc | null | undefined,
+  key: K
+): ContentLessonDoc[K] | undefined => {
+  if (!doc) return undefined
+
+  const value = doc[key]
+  if (value !== undefined && value !== null) return value
+
+  const metaValue = doc.meta?.[key]
+  if (metaValue === undefined || metaValue === null) return undefined
+
+  return metaValue as ContentLessonDoc[K]
 }
 
 const WEEK_DAY_PATH = /\/week-(\d+)-day-(\d+)$/i
@@ -85,7 +109,6 @@ if (!page.value) {
 const { data: levelDocs } = await useAsyncData(`outline:${rootPath.value}`, () => {
   return queryCollection('content')
     .where('path', 'LIKE', `${rootPath.value}/%`)
-    .select('path', 'title')
     .all()
 })
 
@@ -224,8 +247,11 @@ const contentOutlineBySection = computed<Record<string, OutlineItem[]>>(() => {
 
     result[sectionKey].push({
       title: lesson.title || lessonSlug,
+      topic: readLessonField(lesson, 'topic'),
+      topicLabel: readLessonField(lesson, 'topicLabel'),
+      week: schedule.week ?? readLessonField(lesson, 'week'),
+      day: schedule.day ?? readLessonField(lesson, 'day'),
       to: lesson.path,
-      week: schedule.week,
       sortOrder: schedule.sortOrder
     })
   }
@@ -271,7 +297,9 @@ const sidebarSections = computed(() => {
   }))
 })
 
-const formatSidebarItemTitle = (title: string) => {
+const formatSidebarItemTitle = (title: string, day?: number) => {
+  if (typeof day === 'number') return `Day ${day}`
+
   // Turns:
   // - "Week 1 Day 1 - 駐車場" -> "Day 1"
   // - "Week 1 Day 2" -> "Day 2"
@@ -291,7 +319,7 @@ const sidebarSectionWeekGroups = computed<Record<string, SidebarWeekGroup[]>>(()
       const week = item.week ?? 1
 
       const sidebarItem: SidebarWeekItem = {
-        title: formatSidebarItemTitle(item.title),
+        title: formatSidebarItemTitle(item.title, item.day),
         to: item.to,
         enabled: Boolean(item.to && existingLinks.value.has(item.to))
       }
@@ -559,17 +587,51 @@ const pageTitle = computed(() => {
     if (sectionTitle) return `${levelTitle} - ${sectionTitle}`
   }
 
-  const title = (page.value as any)?.title
+  const doc = page.value as ContentLessonDoc | null
+  if (hasLessonTopic(doc)) return doc!.topic!
+
+  const title = doc?.title
   return typeof title === 'string' ? title : 'Learn'
 })
 
+const lessonTopic = computed(() => {
+  const doc = page.value as ContentLessonDoc | null
+  const topic = readLessonField(doc, 'topic')
+  const topicLabel = readLessonField(doc, 'topicLabel')
+
+  if (!topic || !topicLabel) return null
+
+  return {
+    topic,
+    topicLabel,
+    week: readLessonField(doc, 'week'),
+    day: readLessonField(doc, 'day')
+  }
+})
+
+const sectionWeekHref = computed(() => {
+  if (!activeSectionKey.value || !lessonWeekDay.value) return null
+  return `${sectionPath.value}#week-${lessonWeekDay.value.week}`
+})
+
+const activeSectionLabel = computed(() => {
+  const key = activeSectionKey.value
+  return key ? sidebarSectionLabels[key] : 'Section'
+})
+
+const normalizeDescription = (value: unknown) => {
+  if (typeof value !== 'string') return ''
+
+  return value.replace(/\s+/g, ' ').trim()
+}
+
 const pageDescription = computed(() => {
   if (isLevelRoot.value && levelSummaries[levelKey.value]) {
-    return levelSummaries[levelKey.value].description
+    return normalizeDescription(levelSummaries[levelKey.value].description)
   }
 
   const description = (page.value as any)?.description
-  return typeof description === 'string' ? description : ''
+  return normalizeDescription(description)
 })
 
 const activeTocId = ref('')
@@ -774,9 +836,23 @@ useSeoMeta({
   >
     <div class="article-toolbar px-5 py-3 sm:px-8 lg:px-12">
       <div class="mx-auto flex max-w-[92rem] items-center justify-between gap-6">
-        <NuxtLink :to="sectionPath" class="text-sm font-semibold text-[color:var(--color-muted)] transition hover:text-[color:var(--color-primary)]">
-          ← Back to section
-        </NuxtLink>
+        <nav class="flex min-w-0 flex-wrap items-center gap-2 text-sm font-semibold" aria-label="Lesson breadcrumb">
+          <NuxtLink
+            :to="sectionPath"
+            class="text-[color:var(--color-muted)] transition hover:text-[color:var(--color-primary)]"
+          >
+            ← {{ activeSectionLabel }}
+          </NuxtLink>
+          <template v-if="sectionWeekHref && lessonWeekDay">
+            <span class="text-[color:var(--color-muted)]/50" aria-hidden="true">/</span>
+            <NuxtLink
+              :to="sectionWeekHref"
+              class="text-[color:var(--color-muted)] transition hover:text-[color:var(--color-primary)]"
+            >
+              Week {{ lessonWeekDay.week }}
+            </NuxtLink>
+          </template>
+        </nav>
         <div class="flex items-center gap-2">
           <LessonSearchTrigger variant="compact" />
           <ThemeToggle />
@@ -787,32 +863,42 @@ useSeoMeta({
     <div class="mx-auto max-w-[92rem] px-5 pt-8 sm:px-8 lg:px-12">
       <div class="grid gap-12 lg:grid-cols-[minmax(0,1fr)_17rem]">
         <main class="min-w-0">
-          <header :id="articleTopAnchorId" class="article-top-anchor border-b pb-10" style="border-color: var(--color-border)">
-            <p class="group flex items-center gap-2 text-sm font-bold uppercase tracking-[0.16em] text-[color:var(--color-primary)]">
-              <span>{{ eyebrow }}</span>
-              <NuxtLink
-                :to="levelRootHref"
-                class="opacity-0 transition-opacity group-hover:opacity-100 focus-visible:opacity-100"
-                aria-label="Back to level overview"
+          <header :id="articleTopAnchorId" class="article-top-anchor border-b pb-6 sm:pb-8" style="border-color: var(--color-border)">
+            <p class="text-base font-semibold tracking-wide">
+              <span class="text-[color:var(--color-primary)]">{{ eyebrow }}</span>
+              <span
+                v-if="lessonWeekDay"
+                class="text-[color:var(--color-muted)]"
               >
-                #
-              </NuxtLink>
+                — Week {{ lessonWeekDay.week }} Day {{ lessonWeekDay.day }}
+              </span>
             </p>
-            <h1 class="mt-5 max-w-5xl text-4xl font-semibold leading-tight tracking-normal text-[color:var(--color-text)] sm:text-5xl lg:text-6xl">
+
+            <h1 v-if="!lessonTopic" class="mt-5 max-w-5xl text-4xl font-semibold leading-tight tracking-normal text-[color:var(--color-text)] sm:mt-6 sm:text-5xl lg:text-6xl">
               {{ pageTitle }}
             </h1>
-            <p v-if="pageDescription" class="mt-6 max-w-4xl text-lg leading-8 text-[color:var(--color-muted)] sm:text-xl">
+            <LessonTopicDisplay
+              v-else
+              class="mt-5 sm:mt-6"
+              variant="header"
+              :show-schedule="false"
+              :topic="lessonTopic.topic"
+              :topic-label="lessonTopic.topicLabel"
+              :week="lessonTopic.week"
+              :day="lessonTopic.day"
+            />
+            <p v-if="pageDescription" class="mt-4 max-w-none text-pretty text-sm leading-6 text-[color:var(--color-muted)]/90 sm:mt-5 sm:text-base sm:leading-7">
               {{ pageDescription }}
             </p>
           </header>
 
-          <div class="prose prose-nihongo mt-10 max-w-none">
+          <div class="prose prose-nihongo max-w-none">
             <ContentRenderer :value="page" />
           </div>
 
           <nav
             v-if="previousLesson || nextLesson"
-            class="mt-16 grid gap-4 border-t pt-8 md:grid-cols-2"
+            class="mt-8 grid gap-4 border-t pt-6 sm:pt-8 md:grid-cols-2"
             style="border-color: var(--color-border)"
             aria-label="Lesson navigation"
           >
@@ -824,9 +910,16 @@ useSeoMeta({
               <span class="text-sm font-semibold text-[color:var(--color-muted)]">
                 ← Previous
               </span>
-              <strong class="mt-3 block text-lg font-semibold leading-snug text-[color:var(--color-text)]">
+              <strong v-if="!hasLessonTopic(previousLesson)" class="mt-3 block text-lg font-semibold leading-snug text-[color:var(--color-text)]">
                 {{ previousLesson.title }}
               </strong>
+              <LessonTopicDisplay
+                v-else
+                class="mt-3"
+                variant="nav"
+                :topic="previousLesson.topic!"
+                :topic-label="previousLesson.topicLabel!"
+              />
             </NuxtLink>
 
             <div
@@ -836,9 +929,16 @@ useSeoMeta({
               <span class="text-sm font-semibold text-[color:var(--color-muted)]">
                 ← Previous
               </span>
-              <strong class="mt-3 block text-lg font-semibold leading-snug text-[color:var(--color-text)]">
+              <strong v-if="!hasLessonTopic(previousLesson)" class="mt-3 block text-lg font-semibold leading-snug text-[color:var(--color-text)]">
                 {{ previousLesson.title }}
               </strong>
+              <LessonTopicDisplay
+                v-else
+                class="mt-3"
+                variant="nav"
+                :topic="previousLesson.topic!"
+                :topic-label="previousLesson.topicLabel!"
+              />
               <span class="mt-2 block text-sm text-[color:var(--color-muted)]">
                 Planned
               </span>
@@ -853,9 +953,16 @@ useSeoMeta({
               <span class="text-sm font-semibold text-[color:var(--color-muted)]">
                 Next →
               </span>
-              <strong class="mt-3 block text-lg font-semibold leading-snug text-[color:var(--color-text)]">
+              <strong v-if="!hasLessonTopic(nextLesson)" class="mt-3 block text-lg font-semibold leading-snug text-[color:var(--color-text)]">
                 {{ nextLesson.title }}
               </strong>
+              <LessonTopicDisplay
+                v-else
+                class="mt-3"
+                variant="nav"
+                :topic="nextLesson.topic!"
+                :topic-label="nextLesson.topicLabel!"
+              />
             </NuxtLink>
 
             <div
@@ -866,9 +973,16 @@ useSeoMeta({
               <span class="text-sm font-semibold text-[color:var(--color-muted)]">
                 Next →
               </span>
-              <strong class="mt-3 block text-lg font-semibold leading-snug text-[color:var(--color-text)]">
+              <strong v-if="!hasLessonTopic(nextLesson)" class="mt-3 block text-lg font-semibold leading-snug text-[color:var(--color-text)]">
                 {{ nextLesson.title }}
               </strong>
+              <LessonTopicDisplay
+                v-else
+                class="mt-3"
+                variant="nav"
+                :topic="nextLesson.topic!"
+                :topic-label="nextLesson.topicLabel!"
+              />
               <span class="mt-2 block text-sm text-[color:var(--color-muted)]">
                 Planned
               </span>
@@ -1081,43 +1195,19 @@ useSeoMeta({
               {{ group.title }}
             </h2>
 
-            <div class="mt-6 grid gap-5 xl:grid-cols-2">
-              <template
+            <div class="mt-6 grid gap-4 sm:gap-5 lg:grid-cols-2 2xl:grid-cols-3">
+              <LessonOutlineCard
                 v-for="item in group.items"
                 :key="`week-${group.week}-${item.number}`"
-              >
-                <NuxtLink
-                  v-if="item.enabled"
-                  :to="item.to || '#'"
-                  class="group relative flex min-h-32 flex-col justify-between rounded-lg border border-[color:var(--color-border)] bg-[color:var(--color-surface)] p-6 transition hover:border-[color:var(--color-primary)]"
-                >
-                  <span class="absolute right-6 top-6 text-xl text-[color:var(--color-muted)] transition group-hover:text-[color:var(--color-primary)]" aria-hidden="true">
-                    ↗
-                  </span>
-                  <span class="text-lg font-bold tabular-nums text-[color:var(--color-primary)]">
-                    {{ item.number }}
-                  </span>
-                  <h3 class="mt-6 pr-8 text-xl font-semibold leading-snug text-[color:var(--color-text)]">
-                    {{ item.title }}
-                  </h3>
-                </NuxtLink>
-
-                <div
-                  v-else
-                  class="group relative flex min-h-32 flex-col justify-between rounded-lg border bg-[color:var(--color-surface)] p-6 opacity-70 transition"
-                  style="border-color: var(--color-border)"
-                >
-                  <span class="absolute right-6 top-6 text-xl text-[color:var(--color-muted)]" aria-hidden="true">
-                    ·
-                  </span>
-                  <span class="text-lg font-bold tabular-nums text-[color:var(--color-primary)]">
-                    {{ item.number }}
-                  </span>
-                  <h3 class="mt-6 pr-8 text-xl font-semibold leading-snug text-[color:var(--color-text)]">
-                    {{ item.title }}
-                  </h3>
-                </div>
-              </template>
+                :number="item.number"
+                :title="item.title"
+                :topic="item.topic"
+                :topic-label="item.topicLabel"
+                :week="item.week"
+                :day="item.day"
+                :enabled="item.enabled"
+                :to="item.to"
+              />
             </div>
           </section>
         </div>

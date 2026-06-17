@@ -1,9 +1,10 @@
 ---
-title: "Vocabulary Week 3 Day 6 - お金を払いましょう"
+title: "お金を払いましょう"
 description: "Belajar kosakata N3 untuk membaca uang tunai, kartu, pembayaran, kembalian, dan pembagian biaya."
 level: "N3"
 category: "vocabulary"
 topic: "お金を払いましょう"
+topicLabel: "Membayar"
 week: 3
 day: 6
 order: 26

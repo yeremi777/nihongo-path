@@ -1,9 +1,10 @@
 ---
-title: "Grammar Week 5 Day 3 - 受かっていたらいいなあ"
+title: "受かっていたらいいなあ"
 description: "Belajar pola grammar N3 untuk menyampaikan harapan, keinginan yang belum pasti, penyesalan masa lalu, dan harapan agar sesuatu segera terjadi."
 level: "N3"
 category: "grammar"
 topic: "受かっていたらいいなあ"
+topicLabel: "Semoga aku lulus"
 week: 5
 day: 3
 order: 43

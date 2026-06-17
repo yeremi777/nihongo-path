@@ -1,9 +1,10 @@
 ---
-title: "Grammar Week 4 Day 1 - 子どものくせに"
+title: "子どものくせに"
 description: "Belajar pola grammar N3 untuk menilai dari sudut pandang tertentu, menyebut hasil yang tidak sesuai dugaan, dan memakai kritik dengan hati-hati."
 level: "N3"
 category: "grammar"
 topic: "子どものくせに"
+topicLabel: "Padahal masih anak-anak"
 week: 4
 day: 1
 order: 31

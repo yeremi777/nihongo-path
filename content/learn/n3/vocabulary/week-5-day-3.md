@@ -1,9 +1,10 @@
 ---
-title: "Vocabulary Week 5 Day 3 - どんな人が好き？"
+title: "どんな人が好き？"
 description: "Belajar kosakata N3 untuk membaca sifat orang, reaksi emosional, dan ungkapan penilaian dalam percakapan."
 level: "N3"
 category: "vocabulary"
 topic: "どんな人が好き？"
+topicLabel: "Orang seperti apa yang disukai?"
 week: 5
 day: 3
 order: 43
@@ -166,6 +167,6 @@ explanation: "わがままな人 berarti orang egois/manja; 困ります memberi
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, Week 5 Day 3 rows v503-001 sampai v503-037.
+- Soumatome N3 Vocabulary, topik Minggu 5 Hari 3: どんな人が好き？
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List

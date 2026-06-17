@@ -1,9 +1,10 @@
 ---
-title: "Vocabulary Week 3 Day 5 - お酒を飲みましょう"
+title: "お酒を飲みましょう"
 description: "Belajar kosakata N3 untuk membaca minuman, ajakan minum, kondisi mabuk, dan etika di tempat minum."
 level: "N3"
 category: "vocabulary"
 topic: "お酒を飲みましょう"
+topicLabel: "Minum alkohol"
 week: 3
 day: 5
 order: 25

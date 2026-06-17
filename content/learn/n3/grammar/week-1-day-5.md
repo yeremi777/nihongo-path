@@ -1,9 +1,10 @@
 ---
-title: "Grammar Week 1 Day 5 - 言ったように"
+title: "言ったように"
 description: "Belajar pola grammar N3 untuk mengatakan seperti yang sudah diketahui, memberi instruksi tidak langsung, dan menyampaikan harapan."
 level: "N3"
 category: "grammar"
 topic: "言ったように"
+topicLabel: "Seperti yang dikatakan"
 week: 1
 day: 5
 order: 5

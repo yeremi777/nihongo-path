@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 1 Day 2 - 同・何・回"
+title: "同・何・回"
 description: "Belajar kanji N4 yang sering muncul di jadwal belajar, jumlah kali, tulisan, dan layanan sehari-hari."
 level: "N4"
 category: "kanji"
 topic: "同・何・回"
+topicLabel: "Kanji mirip bentuknya"
 week: 1
 day: 2
 order: 2
@@ -138,7 +139,7 @@ explanation: "勉強 berarti belajar. 集合 berarti berkumpul."
 
 ## Referensi
 
-- Soumatome N4 Kanji
+- Soumatome N4 Kanji, topik Minggu 1 Hari 2: 同・何・回
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List
 

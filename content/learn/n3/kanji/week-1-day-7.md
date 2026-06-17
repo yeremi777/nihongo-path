@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 1 Day 7 - クイズ①"
+title: "クイズ①"
 description: "Review kanji N3 Minggu 1 untuk kata sehari-hari, bentuk yang mirip, waktu, tempat, dan ungkapan pertolongan."
 level: "N3"
 category: "kanji"
 topic: "クイズ①"
+topicLabel: "Kuis minggu 1"
 week: 1
 day: 7
 order: 7

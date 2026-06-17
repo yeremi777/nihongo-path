@@ -1,9 +1,10 @@
 ---
-title: "Vocabulary Week 4 Day 4 - 仕事をしましょう"
+title: "仕事をしましょう"
 description: "Belajar kosakata N3 untuk membaca jenis pekerjaan, lowongan, wawancara, gaji, jam kerja, dan hubungan kerja."
 level: "N3"
 category: "vocabulary"
 topic: "仕事をしましょう"
+topicLabel: "Bekerja"
 week: 4
 day: 4
 order: 34
@@ -178,6 +179,6 @@ explanation: "レストランで memberi tempat kerja, dan バイト／アルバ
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, Week 4 Day 4 rows v404-001 sampai v404-033.
+- Soumatome N3 Vocabulary, topik Minggu 4 Hari 4: 仕事をしましょう
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List

@@ -1,9 +1,10 @@
 ---
-title: "Grammar Week 5 Day 5 - たとえ高くても"
+title: "たとえ高くても"
 description: "Belajar pola grammar N3 untuk menyatakan walaupun dalam kondisi ekstrem, kemungkinan tidak pasti, generalisasi yang belum tentu benar, dan perbandingan seperti metafora."
 level: "N3"
 category: "grammar"
 topic: "たとえ高くても"
+topicLabel: "Walaupun mahal"
 week: 5
 day: 5
 order: 45

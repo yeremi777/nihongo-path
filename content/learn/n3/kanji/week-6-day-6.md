@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 6 Day 6 - 政治"
+title: "政治"
 description: "Belajar kanji N3 yang sering muncul di berita politik, pemerintah, perubahan aturan, penolakan, tujuan kebijakan, fakta, kekurangan, dan bidang khusus."
 level: "N3"
 category: "kanji"
 topic: "政治"
+topicLabel: "Politik"
 week: 6
 day: 6
 order: 41
@@ -297,6 +298,6 @@ explanation: "否定 benar, dibaca ひてい. 否定的 adalah pilihan lain dari
 
 ## Referensi
 
-- Soumatome N3 Kanji
+- Soumatome N3 Kanji, topik Minggu 6 Hari 6: 政治
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

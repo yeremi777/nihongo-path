@@ -1,9 +1,10 @@
 ---
-title: "Grammar Week 4 Day 4 - やってみることだ"
+title: "やってみることだ"
 description: "Belajar pola grammar N3 untuk memberi saran, menenangkan orang lain, merangkum informasi, melaporkan kabar, dan menyatakan emosi kuat."
 level: "N3"
 category: "grammar"
 topic: "やってみることだ"
+topicLabel: "Sebaiknya dicoba"
 week: 4
 day: 4
 order: 34

@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 1 Day 5 - 特急電車"
+title: "特急電車"
 description: "Belajar kanji N3 yang sering muncul saat membeli tiket kereta, memilih kursi, dan membaca nomor atau posisi tempat duduk."
 level: "N3"
 category: "kanji"
 topic: "特急電車"
+topicLabel: "Kereta ekspres"
 week: 1
 day: 5
 order: 5

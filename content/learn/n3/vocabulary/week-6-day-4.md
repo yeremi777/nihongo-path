@@ -1,9 +1,10 @@
 ---
-title: "Vocabulary Week 6 Day 4 - 組み合わせのことば"
+title: "組み合わせのことば"
 description: "Belajar kosakata N3 untuk mengingat kolokasi dari pertemuan, antrean, panggilan, undangan, dan gerakan."
 level: "N3"
 category: "vocabulary"
 topic: "組み合わせのことば"
+topicLabel: "Kombinasi kata"
 week: 6
 day: 4
 order: 54
@@ -155,6 +156,6 @@ explanation: "出会い adalah nomina pertemuan; があった memberi petunjuk k
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, Week 6 Day 4 rows v604-001 sampai v604-023.
+- Soumatome N3 Vocabulary, topik Minggu 6 Hari 4: 組み合わせのことば
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List

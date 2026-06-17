@@ -1,9 +1,10 @@
 ---
-title: "Grammar Week 1 Day 3 - 女らしい"
+title: "女らしい"
 description: "Belajar pola grammar N3 untuk membedakan kesan seperti, ciri yang khas, dan nuansa agak atau cenderung."
 level: "N3"
 category: "grammar"
 topic: "女らしい"
+topicLabel: "Feminin"
 week: 1
 day: 3
 order: 3

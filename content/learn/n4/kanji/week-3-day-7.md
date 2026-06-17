@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 3 Day 7 - 漢字の部分の名前"
+title: "漢字の部分の名前"
 description: "Belajar kanji N4 yang sering muncul saat membaca bahasa, minuman, jawaban, kertas, diri sendiri, dan pengiriman."
 level: "N4"
 category: "kanji"
 topic: "漢字の部分の名前"
+topicLabel: "Nama bagian kanji"
 week: 3
 day: 7
 order: 21
@@ -130,7 +131,7 @@ explanation: "放送 berarti siaran. 郵送 berarti pengiriman pos."
 
 ## Referensi
 
-- Soumatome N4 Kanji
+- Soumatome N4 Kanji, topik Minggu 3 Hari 7: 漢字の部分の名前
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List
 

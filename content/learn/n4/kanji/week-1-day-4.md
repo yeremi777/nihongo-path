@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 1 Day 4 - 旅行・有名"
+title: "旅行・有名"
 description: "Belajar kanji N4 yang sering muncul di perjalanan, penginapan, foto, arah, dan jadwal makan."
 level: "N4"
 category: "kanji"
 topic: "旅行・有名"
+topicLabel: "Kanji fokus pelafalan"
 week: 1
 day: 4
 order: 4
@@ -138,7 +139,7 @@ explanation: "両方 berarti keduanya. 夕方 berarti sore."
 
 ## Referensi
 
-- Soumatome N4 Kanji
+- Soumatome N4 Kanji, topik Minggu 1 Hari 4: 旅行・有名
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List
 

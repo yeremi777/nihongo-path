@@ -1,9 +1,10 @@
 ---
-title: "Grammar Week 3 Day 6 - 教えてほしい"
+title: "教えてほしい"
 description: "Belajar pola grammar N3 untuk membaca perasaan orang lain, menyampaikan keinginan agar orang lain bertindak, dan berpura-pura."
 level: "N3"
 category: "grammar"
 topic: "教えてほしい"
+topicLabel: "Aku ingin kamu mengajariku"
 week: 3
 day: 6
 order: 26

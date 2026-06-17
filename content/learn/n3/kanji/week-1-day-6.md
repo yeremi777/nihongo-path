@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 1 Day 6 - バス"
+title: "バス"
 description: "Belajar kanji N3 yang sering muncul pada halte bus, tiket, pembayaran tunai, kursi prioritas, dan pintu turun."
 level: "N3"
 category: "kanji"
 topic: "バス"
+topicLabel: "Bus"
 week: 1
 day: 6
 order: 6

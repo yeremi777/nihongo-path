@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 5 Day 1 - メールを送る"
+title: "メールを送る"
 description: "Belajar kanji N3 yang sering muncul di email sopan, balasan terlambat, ucapan terima kasih, permintaan maaf, dan ekspresi perasaan."
 level: "N3"
 category: "kanji"
 topic: "メールを送る"
+topicLabel: "Mengirim email"
 week: 5
 day: 1
 order: 29
@@ -291,6 +292,6 @@ explanation: "涙を流す benar, dibaca なみだをながす. 笑顔 adalah pi
 
 ## Referensi
 
-- Soumatome N3 Kanji
+- Soumatome N3 Kanji, topik Minggu 5 Hari 1: メールを送る
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 2 Day 1 - レストラン"
+title: "レストラン"
 description: "Belajar kanji N3 yang sering muncul di restoran, papan jam buka, reservasi, dan informasi layanan."
 level: "N3"
 category: "kanji"
 topic: "レストラン"
+topicLabel: "Restoran"
 week: 2
 day: 1
 order: 8

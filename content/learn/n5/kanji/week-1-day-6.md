@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 1 Day 6 - 手と足"
+title: "手と足"
 description: "Belajar kanji N5 dasar yang sering muncul saat membaca bagian tubuh, cuaca, alam, toko, jalan, dan warna."
 level: "N5"
 category: "kanji"
 topic: "手と足"
+topicLabel: "Tubuh, alam, cuaca, dan toko"
 week: 1
 day: 6
 order: 6
@@ -156,6 +157,6 @@ explanation: "白い berarti putih. 空 berarti langit atau kosong."
 
 ## Referensi
 
-- Soumatome N5 Kanji
+- Soumatome N5 Kanji, topik Minggu 1 Hari 6: 手と足
 - JLPT Sensei N5 Kanji List
 - JTest4You N5 Kanji List

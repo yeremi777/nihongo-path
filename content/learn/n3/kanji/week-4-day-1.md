@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 4 Day 1 - 日用品"
+title: "日用品"
 description: "Belajar kanji N3 yang sering muncul di daftar belanja, label bahan makanan, dan keterangan jumlah barang sehari-hari."
 level: "N3"
 category: "kanji"
 topic: "日用品"
+topicLabel: "Kebutuhan sehari-hari"
 week: 4
 day: 1
 order: 22
@@ -292,6 +293,6 @@ explanation: "一冊 benar, dibaca いっさつ. 冊数 adalah pilihan lain dari
 
 ## Referensi
 
-- Soumatome N3 Kanji
+- Soumatome N3 Kanji, topik Minggu 4 Hari 1: 日用品
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 2 Day 3 - 観光地図"
+title: "観光地図"
 description: "Belajar kanji N3 yang sering muncul di peta wisata, fasilitas rekreasi, museum, kuil, dan pelabuhan."
 level: "N3"
 category: "kanji"
 topic: "観光地図"
+topicLabel: "Peta wisata"
 week: 2
 day: 3
 order: 10

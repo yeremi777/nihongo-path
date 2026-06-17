@@ -1,9 +1,10 @@
 ---
-title: "Grammar Week 6 Day 6 - その上..."
+title: "その上..."
 description: "Belajar pola grammar N3 untuk menambahkan informasi, menambah item dalam percakapan, memilih alternatif, dan memperkuat poin sebelumnya."
 level: "N3"
 category: "grammar"
 topic: "その上..."
+topicLabel: "Selain itu..."
 week: 6
 day: 6
 order: 56

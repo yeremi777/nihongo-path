@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 1 Day 7 - 数字・月・日付・曜日"
+title: "数字・月・日付・曜日"
 description: "Belajar kanji N5 dasar yang sering muncul saat membaca angka, bulan, tanggal, dan hari dalam seminggu."
 level: "N5"
 category: "kanji"
 topic: "数字・月・日付・曜日"
+topicLabel: "Angka, tanggal, dan kalender"
 week: 1
 day: 7
 order: 7
@@ -162,6 +163,6 @@ explanation: "水 berarti air. 火 berarti api."
 
 ## Referensi
 
-- Soumatome N5 Kanji
+- Soumatome N5 Kanji, topik Minggu 1 Hari 7: 数字・月・日付・曜日
 - JLPT Sensei N5 Kanji List
 - JTest4You N5 Kanji List

@@ -1,9 +1,10 @@
 ---
-title: "Grammar Week 2 Day 6 - 食べてごらん"
+title: "食べてごらん"
 description: "Belajar pola grammar N3 untuk memberi saran coba lakukan, melaporkan instruksi, larangan, dan permintaan langsung."
 level: "N3"
 category: "grammar"
 topic: "食べてごらん"
+topicLabel: "Coba makan"
 week: 2
 day: 6
 order: 16

@@ -1,9 +1,10 @@
 ---
-title: "Grammar Week 6 Day 2 - 話せることは話せますが..."
+title: "話せることは話せますが..."
 description: "Belajar pola grammar N3 untuk membedakan keputusan dari luar, aturan pribadi, pengakuan sebagian, dan jawaban ya yang lemah."
 level: "N3"
 category: "grammar"
 topic: "話せることは話せますが..."
+topicLabel: "Bisa bicara, tapi..."
 week: 6
 day: 2
 order: 52

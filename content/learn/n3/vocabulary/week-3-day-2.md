@@ -1,9 +1,10 @@
 ---
-title: "Vocabulary Week 3 Day 2 - したくをしましょう"
+title: "したくをしましょう"
 description: "Belajar kosakata N3 untuk membaca kegiatan bersiap, pakaian, penampilan, dan barang yang dibawa sebelum keluar."
 level: "N3"
 category: "vocabulary"
 topic: "したくをしましょう"
+topicLabel: "Bersiap-siap"
 week: 3
 day: 2
 order: 22

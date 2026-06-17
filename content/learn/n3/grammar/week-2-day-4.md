@@ -1,9 +1,10 @@
 ---
-title: "Grammar Week 2 Day 4 - 省エネというのは・・・"
+title: "省エネというのは・・・"
 description: "Belajar pola grammar N3 untuk memperkenalkan nama/istilah, memberi contoh kelompok, dan menjelaskan arti atau fakta dengan という."
 level: "N3"
 category: "grammar"
 topic: "省エネというのは・・・"
+topicLabel: "Yang dimaksud “hemat energi” adalah..."
 week: 2
 day: 4
 order: 14

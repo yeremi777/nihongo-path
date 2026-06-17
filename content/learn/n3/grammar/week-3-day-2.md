@@ -1,9 +1,10 @@
 ---
-title: "Grammar Week 3 Day 2 - それにしては"
+title: "それにしては"
 description: "Belajar pola grammar N3 untuk menyatakan peran, penilaian untuk ukuran tertentu, konsesi, dan asumsi hipotetis."
 level: "N3"
 category: "grammar"
 topic: "それにしては"
+topicLabel: "Untuk ukuran itu"
 week: 3
 day: 2
 order: 22

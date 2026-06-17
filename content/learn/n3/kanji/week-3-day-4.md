@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 3 Day 4 - レシピ"
+title: "レシピ"
 description: "Belajar kanji N3 yang sering muncul pada resep, bahan makanan, kemasan, cara mencampur, memanggang, dan sisi kemasan."
 level: "N3"
 category: "kanji"
 topic: "レシピ"
+topicLabel: "Resep masakan"
 week: 3
 day: 4
 order: 18

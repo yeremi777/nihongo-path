@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 1 Day 3 - 大きい ↔ 小さい"
+title: "大きい ↔ 小さい"
 description: "Belajar kanji N5 dasar yang sering muncul saat membandingkan ukuran, jumlah, harga, sekolah, dan perusahaan."
 level: "N5"
 category: "kanji"
 topic: "大きい ↔ 小さい"
+topicLabel: "Kanji berpasangan dan adjektiva"
 week: 1
 day: 3
 order: 3
@@ -153,6 +154,6 @@ explanation: "少し berarti sedikit. 多い berarti banyak."
 
 ## Referensi
 
-- Soumatome N5 Kanji
+- Soumatome N5 Kanji, topik Minggu 1 Hari 3: 大きい ↔ 小さい
 - JLPT Sensei N5 Kanji List
 - JTest4You N5 Kanji List

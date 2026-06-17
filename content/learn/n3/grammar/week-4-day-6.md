@@ -1,9 +1,10 @@
 ---
-title: "Grammar Week 4 Day 6 - つまり・・・"
+title: "つまり・・・"
 description: "Belajar pola grammar N3 untuk menyatakan ulang, menunjukkan akibat, menyebut hasil proses, dan menjelaskan alasan setelah kesimpulan."
 level: "N3"
 category: "grammar"
 topic: "つまり・・・"
+topicLabel: "Dengan kata lain..."
 week: 4
 day: 6
 order: 36

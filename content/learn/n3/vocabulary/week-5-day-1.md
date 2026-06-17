@@ -1,9 +1,10 @@
 ---
-title: "Vocabulary Week 5 Day 1 - どういう関係ですか？"
+title: "どういう関係ですか？"
 description: "Belajar kosakata N3 untuk membaca hubungan keluarga, status sekolah, pekerjaan, dan jabatan di tempat kerja."
 level: "N3"
 category: "vocabulary"
 topic: "どういう関係ですか？"
+topicLabel: "Hubungan seperti apa?"
 week: 5
 day: 1
 order: 41
@@ -184,6 +185,6 @@ explanation: "夫婦 berarti pasangan suami-istri; あの menunjuk satu pasangan
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, Week 5 Day 1 rows v501-001 sampai v501-042.
+- Soumatome N3 Vocabulary, topik Minggu 5 Hari 1: どういう関係ですか？
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List

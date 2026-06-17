@@ -48,6 +48,12 @@ body {
 }
 
 .prose-nihongo {
+  --prose-section-rule: 1.25rem;
+  --prose-lead: var(--prose-section-rule);
+  --prose-section: 2rem;
+  --prose-heading-after: 0.625rem;
+  --prose-stack: 1.25rem;
+  padding-top: var(--prose-lead);
   color: var(--color-text);
   font-family: "Plus Jakarta Sans", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
@@ -157,6 +163,10 @@ body {
   content: "";
 }
 
+.prose-nihongo > :last-child {
+  margin-bottom: 0;
+}
+
 .prose-nihongo :where(h1) {
   margin-bottom: 1.25rem;
   font-size: clamp(2rem, 4vw, 3.25rem);
@@ -164,9 +174,10 @@ body {
 }
 
 .prose-nihongo :where(h2) {
-  margin-top: 2.25rem;
-  margin-bottom: 1rem;
+  margin-top: var(--prose-section);
+  margin-bottom: var(--prose-heading-after);
   font-size: 1.5rem;
+  line-height: 1.3;
 }
 
 .prose-nihongo :where(h2:first-of-type) {
@@ -175,23 +186,82 @@ body {
 
 .prose-nihongo :where(h2:not(:first-of-type)) {
   border-top: 1px solid var(--color-border);
-  padding-top: 1.25rem;
+  padding-top: var(--prose-section-rule);
 }
 
 .prose-nihongo :where(h3) {
-  margin-top: 1.5rem;
-  margin-bottom: 0.875rem;
+  margin-top: var(--prose-stack);
+  margin-bottom: var(--prose-heading-after);
   font-size: 1.15rem;
+  line-height: 1.35;
 }
 
 .prose-nihongo :where(h4, h5, h6) {
-  margin-top: 1.25rem;
-  margin-bottom: 0.75rem;
+  margin-top: var(--prose-stack);
+  margin-bottom: var(--prose-heading-after);
+  line-height: 1.35;
+}
+
+.prose-nihongo :where(p) {
+  margin-top: 0;
+  margin-bottom: var(--prose-stack);
+}
+
+.prose-nihongo :where(p:last-child) {
+  margin-bottom: 0;
+}
+
+.prose-nihongo :where(ul, ol) {
+  margin-top: 0;
+  margin-bottom: var(--prose-stack);
+  padding-left: 1.35rem;
+  list-style-position: outside;
+}
+
+.prose-nihongo :where(ul) {
+  list-style-type: disc;
+}
+
+.prose-nihongo :where(ol) {
+  list-style-type: decimal;
+}
+
+.prose-nihongo :where(li) {
+  margin-top: 0;
+}
+
+.prose-nihongo :where(li + li) {
+  margin-top: 0.35em;
+}
+
+.prose-nihongo :where(h2) + :where(ul) :where(li)::marker {
+  color: var(--color-primary);
+}
+
+.prose-nihongo :where(h1, h2, h3, h4, h5, h6) + :where(p, ul, ol, table, blockquote, div, pre) {
+  margin-top: 0;
+}
+
+.prose-nihongo :where(h1, h2, h3, h4, h5, h6) + :is(.lesson-callout, .word-strip, .kanji-card-grid, .example-list, .lesson-practice),
+.prose-nihongo :where(h1, h2, h3, h4, h5, h6) + :where(table) {
+  margin-top: 0;
+}
+
+.prose-nihongo :is(.lesson-callout, .word-strip, .kanji-card-grid, .example-list, .lesson-practice) {
+  margin-top: var(--prose-stack);
+  margin-bottom: var(--prose-stack);
 }
 
 .prose-nihongo :where(p, li) {
   color: var(--color-text);
+  font-size: 1rem;
   line-height: 1.8;
+}
+
+@media (min-width: 640px) {
+  .prose-nihongo :where(p, li) {
+    font-size: 1.0625rem;
+  }
 }
 
 .font-japanese,
@@ -236,6 +306,8 @@ body {
 .prose-nihongo :where(table) {
   display: block;
   width: 100%;
+  margin-top: var(--prose-stack);
+  margin-bottom: var(--prose-stack);
   overflow-x: auto;
   border-collapse: collapse;
 }
@@ -252,12 +324,13 @@ body {
 }
 
 .prose-nihongo :where(blockquote) {
+  margin-top: var(--prose-stack);
+  margin-bottom: var(--prose-stack);
   border-left: 4px solid var(--color-primary);
   color: var(--color-muted);
 }
 
 .prose-nihongo .lesson-callout {
-  margin: 1.5rem 0;
   border: 1px solid var(--color-border);
   border-left: 4px solid var(--color-primary);
   border-radius: 0.75rem;
@@ -270,7 +343,6 @@ body {
   display: flex;
   flex-wrap: wrap;
   gap: 0.55rem;
-  margin: 1.25rem 0 1.5rem;
 }
 
 .prose-nihongo .word-strip span {
@@ -287,7 +359,6 @@ body {
   display: grid;
   grid-template-columns: minmax(0, 1fr);
   gap: 0.85rem;
-  margin: 1.5rem 0 2rem;
 }
 
 .prose-nihongo .kanji-card {
@@ -412,6 +483,7 @@ body {
   display: grid;
   gap: 0.35rem;
   padding-left: 2.2rem;
+  list-style: none;
 }
 
 .prose-nihongo .kanji-card li {
@@ -422,7 +494,6 @@ body {
 .prose-nihongo .example-list {
   display: grid;
   gap: 0.85rem;
-  margin: 1.5rem 0;
 }
 
 .prose-nihongo .example-list > div {

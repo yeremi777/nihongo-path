@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 6 Day 2 - 求人広告"
+title: "求人広告"
 description: "Belajar kanji N3 yang sering muncul di iklan lowongan kerja, syarat posisi, isi pekerjaan, kemampuan teknis, tugas kantor, dan bagian perusahaan."
 level: "N3"
 category: "kanji"
 topic: "求人広告"
+topicLabel: "Iklan lowongan kerja"
 week: 6
 day: 2
 order: 37
@@ -295,6 +296,6 @@ explanation: "内容 benar, dibaca ないよう. 美容院 adalah pilihan lain d
 
 ## Referensi
 
-- Soumatome N3 Kanji
+- Soumatome N3 Kanji, topik Minggu 6 Hari 2: 求人広告
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

@@ -1,9 +1,10 @@
 ---
-title: "Grammar Week 6 Day 3 - もう少しで乗り遅れるところだった"
+title: "もう少しで乗り遅れるところだった"
 description: "Belajar pola grammar N3 untuk menyatakan hasil setelah mencoba/bertanya, hampir terjadi, baru sadar setelah pengalaman, dan bertindak selagi kesempatan masih ada."
 level: "N3"
 category: "grammar"
 topic: "もう少しで乗り遅れるところだった"
+topicLabel: "Hampir ketinggalan kereta"
 week: 6
 day: 3
 order: 53

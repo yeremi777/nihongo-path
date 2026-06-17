@@ -1,9 +1,10 @@
 ---
-title: "Vocabulary Week 4 Day 6 - メールを書きましょう"
+title: "メールを書きましょう"
 description: "Belajar kosakata N3 untuk membaca kotak email, perintah kirim-terima, alamat, lampiran, dan pengaturan teks."
 level: "N3"
 category: "vocabulary"
 topic: "メールを書きましょう"
+topicLabel: "Menulis email"
 week: 4
 day: 6
 order: 36
@@ -183,6 +184,6 @@ explanation: "受信トレイ adalah kotak masuk; に入る memberi petunjuk lok
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, Week 4 Day 6 rows v406-001 sampai v406-039.
+- Soumatome N3 Vocabulary, topik Minggu 4 Hari 6: メールを書きましょう
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List

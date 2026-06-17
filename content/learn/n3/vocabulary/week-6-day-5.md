@@ -1,9 +1,10 @@
 ---
-title: "Vocabulary Week 6 Day 5 - 意味がたくさんある動詞①"
+title: "意味がたくさんある動詞①"
 description: "Belajar kosakata N3 untuk membaca kata kerja bermakna banyak melalui pasangan kata benda dan konteks kalimat."
 level: "N3"
 category: "vocabulary"
 topic: "意味がたくさんある動詞①"
+topicLabel: "Kata kerja bermakna ganda (1)"
 week: 6
 day: 5
 order: 55
@@ -156,6 +157,6 @@ explanation: "会社に入る berarti masuk/bergabung ke perusahaan."
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, Week 6 Day 5 rows v605-001 sampai v605-030.
+- Soumatome N3 Vocabulary, topik Minggu 6 Hari 5: 意味がたくさんある動詞①
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List

@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 1 Day 7 - 料理のレシピ"
+title: "料理のレシピ"
 description: "Belajar kanji N4 yang sering muncul di resep masakan, belanja bahan makanan, dan instruksi dapur."
 level: "N4"
 category: "kanji"
 topic: "料理のレシピ"
+topicLabel: "Resep masakan"
 week: 1
 day: 7
 order: 7
@@ -136,7 +137,7 @@ explanation: "興味 berarti minat. 趣味 berarti hobi."
 
 ## Referensi
 
-- Soumatome N4 Kanji
+- Soumatome N4 Kanji, topik Minggu 1 Hari 7: 料理のレシピ
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List
 

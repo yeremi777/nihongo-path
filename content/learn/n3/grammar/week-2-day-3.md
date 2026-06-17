@@ -1,9 +1,10 @@
 ---
-title: "Grammar Week 2 Day 3 - あなたのこと"
+title: "あなたのこと"
 description: "Belajar pola grammar N3 untuk mengubah adjektiva atau klausa menjadi nomina dan membedakan こと, の, さ, dan み."
 level: "N3"
 category: "grammar"
 topic: "あなたのこと"
+topicLabel: "Tentang kamu"
 week: 2
 day: 3
 order: 13

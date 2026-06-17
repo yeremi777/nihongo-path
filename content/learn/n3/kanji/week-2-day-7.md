@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 2 Day 7 - クイズ②"
+title: "クイズ②"
 description: "Belajar kanji tambahan N3 dari minggu kedua yang sering muncul pada warna, gambar, kelompok, janji, kelas, dan perpindahan."
 level: "N3"
 category: "kanji"
 topic: "クイズ②"
+topicLabel: "Kuis minggu 2"
 week: 2
 day: 7
 order: 14

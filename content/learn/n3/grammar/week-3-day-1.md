@@ -1,9 +1,10 @@
 ---
-title: "Grammar Week 3 Day 1 - いくら安くても"
+title: "いくら安くても"
 description: "Belajar pola grammar N3 untuk menyatakan meskipun, seberapa pun, dan melakukan sesuatu tanpa tindakan tertentu."
 level: "N3"
 category: "grammar"
 topic: "いくら安くても"
+topicLabel: "Semurah apa pun"
 week: 3
 day: 1
 order: 21

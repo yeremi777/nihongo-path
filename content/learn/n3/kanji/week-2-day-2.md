@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 2 Day 2 - 禁煙"
+title: "禁煙"
 description: "Belajar kanji N3 yang sering muncul di area bebas rokok, layanan pelanggan, dan permintaan kerja sama."
 level: "N3"
 category: "kanji"
 topic: "禁煙"
+topicLabel: "Larangan merokok"
 week: 2
 day: 2
 order: 9

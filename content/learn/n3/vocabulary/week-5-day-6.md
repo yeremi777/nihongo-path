@@ -1,9 +1,10 @@
 ---
-title: "Vocabulary Week 5 Day 6 - どんなようすですか？②"
+title: "どんなようすですか？②"
 description: "Belajar kosakata N3 untuk membaca perubahan alam, keadaan benda, bunyi, warna, ukuran, dan cara menjawab."
 level: "N3"
 category: "vocabulary"
 topic: "どんなようすですか？②"
+topicLabel: "Seperti apa keadaannya? (2)"
 week: 5
 day: 6
 order: 46
@@ -157,6 +158,6 @@ explanation: "空が曇る berarti langit menjadi mendung."
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, Week 5 Day 6 rows v506-001 sampai v506-034.
+- Soumatome N3 Vocabulary, topik Minggu 5 Hari 6: どんなようすですか？②
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List

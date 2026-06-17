@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 6 Day 1 - 天気予報"
+title: "天気予報"
 description: "Belajar kanji N3 yang sering muncul di prakiraan cuaca, berita angin, awan, salju, gempa, gelombang, dan peringatan alam."
 level: "N3"
 category: "kanji"
 topic: "天気予報"
+topicLabel: "Prakiraan cuaca"
 week: 6
 day: 1
 order: 36
@@ -296,6 +297,6 @@ explanation: "大雪 benar, dibaca おおゆき. 地震 adalah pilihan lain dari
 
 ## Referensi
 
-- Soumatome N3 Kanji
+- Soumatome N3 Kanji, topik Minggu 6 Hari 1: 天気予報
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 5 Day 4 - 作文"
+title: "作文"
 description: "Belajar kanji N3 yang sering muncul di tulisan pendek tentang pengalaman, keluarga, pernikahan, hari libur, lagu, rumah, dan tidur."
 level: "N3"
 category: "kanji"
 topic: "作文"
+topicLabel: "Karangan"
 week: 5
 day: 4
 order: 32
@@ -290,6 +291,6 @@ explanation: "婚約 benar, dibaca こんやく. 祝日 adalah pilihan lain dari
 
 ## Referensi
 
-- Soumatome N3 Kanji
+- Soumatome N3 Kanji, topik Minggu 5 Hari 4: 作文
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

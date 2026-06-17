@@ -1,9 +1,10 @@
 ---
-title: "Grammar Week 2 Day 2 - 事故などによる渋滞"
+title: "事故などによる渋滞"
 description: "Belajar pola grammar N3 untuk mengatakan tentang, menurut, karena, oleh, dengan cara, dan tergantung pada secara tepat."
 level: "N3"
 category: "grammar"
 topic: "事故などによる渋滞"
+topicLabel: "Kemacetan karena kecelakaan dan kondisi lain"
 week: 2
 day: 2
 order: 12

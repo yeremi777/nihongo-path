@@ -1,9 +1,10 @@
 ---
-title: "Vocabulary Week 3 Day 3 - 買い物をしましょう"
+title: "買い物をしましょう"
 description: "Belajar kosakata N3 untuk membaca toko, ukuran, harga, barang, pilihan, dan percakapan saat berbelanja."
 level: "N3"
 category: "vocabulary"
 topic: "買い物をしましょう"
+topicLabel: "Berbelanja"
 week: 3
 day: 3
 order: 23

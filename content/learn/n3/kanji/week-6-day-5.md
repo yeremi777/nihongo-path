@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 6 Day 5 - 地球温暖化"
+title: "地球温暖化"
 description: "Belajar kanji N3 yang sering muncul di artikel lingkungan, pemanasan global, penyebab, konferensi internasional, aktivitas, dan perubahan iklim."
 level: "N3"
 category: "kanji"
 topic: "地球温暖化"
+topicLabel: "Pemanasan global"
 week: 6
 day: 5
 order: 40
@@ -294,6 +295,6 @@ explanation: "要因 benar, dibaca よういん. 国際 adalah pilihan lain dari
 
 ## Referensi
 
-- Soumatome N3 Kanji
+- Soumatome N3 Kanji, topik Minggu 6 Hari 5: 地球温暖化
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

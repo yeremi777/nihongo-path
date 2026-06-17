@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 5 Day 5 - 問診票ー歯科で"
+title: "問診票ー歯科で"
 description: "Belajar kanji N3 yang sering muncul di formulir klinik gigi, keluhan nyeri, demam, kondisi gigi, perawatan, dan keadaan mulut."
 level: "N3"
 category: "kanji"
 topic: "問診票ー歯科で"
+topicLabel: "Formulir pasien gigi"
 week: 5
 day: 5
 order: 33
@@ -293,6 +294,6 @@ explanation: "治療 benar, dibaca ちりょう. 歯並び adalah pilihan lain d
 
 ## Referensi
 
-- Soumatome N3 Kanji
+- Soumatome N3 Kanji, topik Minggu 5 Hari 5: 問診票ー歯科で
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

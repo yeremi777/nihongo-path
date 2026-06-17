@@ -1,9 +1,10 @@
 ---
-title: "Vocabulary Week 4 Day 1 - 学校へ行きましょう①"
+title: "学校へ行きましょう①"
 description: "Belajar kosakata N3 untuk membaca mata pelajaran, jadwal, semester, kegiatan kelas, dan hitungan dasar."
 level: "N3"
 category: "vocabulary"
 topic: "学校へ行きましょう①"
+topicLabel: "Pergi ke sekolah (1)"
 week: 4
 day: 1
 order: 31
@@ -187,6 +188,6 @@ explanation: "教科 cocok untuk kategori pelajaran dalam kurikulum."
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, Week 4 Day 1 rows v401-001 sampai v401-038.
+- Soumatome N3 Vocabulary, topik Minggu 4 Hari 1: 学校へ行きましょう①
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List

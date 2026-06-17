@@ -1,9 +1,10 @@
 ---
-title: "Grammar Week 6 Day 1 - もし私じゃなかったら"
+title: "もし私じゃなかったら"
 description: "Belajar pola grammar N3 untuk membuat kondisi andaikan, kondisi masa lalu yang tidak terjadi, dan konsesi hipotetis."
 level: "N3"
 category: "grammar"
 topic: "もし私じゃなかったら"
+topicLabel: "Kalau bukan aku"
 week: 6
 day: 1
 order: 51

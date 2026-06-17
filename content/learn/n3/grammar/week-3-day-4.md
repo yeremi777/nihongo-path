@@ -1,9 +1,10 @@
 ---
-title: "Grammar Week 3 Day 4 - 会うたびに"
+title: "会うたびに"
 description: "Belajar pola grammar N3 untuk mengatakan sekalian, setiap kali, tepat sesudah, dan sedang di tengah suatu kegiatan."
 level: "N3"
 category: "grammar"
 topic: "会うたびに"
+topicLabel: "Setiap kali bertemu"
 week: 3
 day: 4
 order: 24

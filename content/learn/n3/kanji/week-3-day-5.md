@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 3 Day 5 - コピー機・留守番電話"
+title: "コピー機・留守番電話"
 description: "Belajar kanji N3 yang sering muncul pada mesin fotokopi, pesan telepon, jumlah salinan, pengaturan warna, dan pemutaran ulang."
 level: "N3"
 category: "kanji"
 topic: "コピー機・留守番電話"
+topicLabel: "Mesin fotokopi dan pesan telepon"
 week: 3
 day: 5
 order: 19

@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 1 Day 5 - 何をしていますか。"
+title: "何をしていますか。"
 description: "Belajar kanji N5 dasar yang sering muncul saat menyebut kegiatan harian seperti pergi, membaca, membeli, makan, dan menelepon."
 level: "N5"
 category: "kanji"
 topic: "何をしていますか。"
+topicLabel: "Kanji tindakan dasar"
 week: 1
 day: 5
 order: 5
@@ -152,6 +153,6 @@ explanation: "会話 berarti percakapan. 会社 berarti perusahaan."
 
 ## Referensi
 
-- Soumatome N5 Kanji
+- Soumatome N5 Kanji, topik Minggu 1 Hari 5: 何をしていますか。
 - JLPT Sensei N5 Kanji List
 - JTest4You N5 Kanji List

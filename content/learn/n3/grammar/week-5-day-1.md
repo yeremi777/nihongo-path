@@ -1,9 +1,10 @@
 ---
-title: "Grammar Week 5 Day 1 - 子どもばかりか"
+title: "子どもばかりか"
 description: "Belajar pola grammar N3 untuk menambahkan informasi kuat, membandingkan dua sisi, dan menyatakan target sikap atau kontras."
 level: "N3"
 category: "grammar"
 topic: "子どもばかりか"
+topicLabel: "Bukan hanya anak-anak..."
 week: 5
 day: 1
 order: 41

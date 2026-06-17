@@ -1,9 +1,10 @@
 ---
-title: "Vocabulary Week 4 Day 5 - パソコンを使いましょう"
+title: "パソコンを使いましょう"
 description: "Belajar kosakata N3 untuk membaca perangkat komputer, operasi dasar, internet, produk baru, dan kegiatan online."
 level: "N3"
 category: "vocabulary"
 topic: "パソコンを使いましょう"
+topicLabel: "Menggunakan komputer"
 week: 4
 day: 5
 order: 35
@@ -172,6 +173,6 @@ explanation: "ノートパソコン adalah laptop; 軽い memberi petunjuk benda
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, Week 4 Day 5 rows v405-001 sampai v405-027.
+- Soumatome N3 Vocabulary, topik Minggu 4 Hari 5: パソコンを使いましょう
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List

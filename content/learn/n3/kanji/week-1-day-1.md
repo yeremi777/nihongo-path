@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 1 Day 1 - 駐車場"
+title: "駐車場"
 description: "Belajar kanji N3 yang sering muncul di area parkir, papan larangan, dan informasi fasilitas umum."
 level: "N3"
 category: "kanji"
 topic: "駐車場"
+topicLabel: "Tempat parkir"
 week: 1
 day: 1
 order: 1

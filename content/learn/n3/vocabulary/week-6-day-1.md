@@ -1,9 +1,10 @@
 ---
-title: "Vocabulary Week 6 Day 1 - かなりがんばっています"
+title: "かなりがんばっています"
 description: "Belajar kosakata N3 untuk membedakan kata keterangan derajat, frekuensi, jumlah, dan kejadian mendadak."
 level: "N3"
 category: "vocabulary"
 topic: "かなりがんばっています"
+topicLabel: "Kata keterangan tingkat intensitas"
 week: 6
 day: 1
 order: 51
@@ -155,6 +156,6 @@ explanation: "しばしば berarti sering kali; 見る memberi konteks frekuensi
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, Week 6 Day 1 rows v601-001 sampai v601-023.
+- Soumatome N3 Vocabulary, topik Minggu 6 Hari 1: かなりがんばっています
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List

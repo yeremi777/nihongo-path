@@ -1,9 +1,10 @@
 ---
-title: "Vocabulary Week 1 Day 5 - 洗濯をしましょう"
+title: "洗濯をしましょう"
 description: "Belajar kosakata N3 untuk membaca cucian, kondisi pakaian, tindakan menjemur, menyetrika, dan noda."
 level: "N3"
 category: "vocabulary"
 topic: "洗濯をしましょう"
+topicLabel: "Mari mencuci"
 week: 1
 day: 5
 order: 5

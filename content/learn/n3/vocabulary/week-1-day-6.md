@@ -1,9 +1,10 @@
 ---
-title: "Vocabulary Week 1 Day 6 - 子どもやペットの世話をしましょう"
+title: "子どもやペットの世話をしましょう"
 description: "Belajar kosakata N3 untuk membaca sifat anak atau hewan peliharaan, tindakan merawat, dan situasi pengasuhan sehari-hari."
 level: "N3"
 category: "vocabulary"
 topic: "子どもやペットの世話をしましょう"
+topicLabel: "Merawat anak dan hewan peliharaan"
 week: 1
 day: 6
 order: 6

@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 2 Day 3 - 起きる ↔ 寝る"
+title: "起きる ↔ 寝る"
 description: "Belajar kanji N4 yang sering muncul untuk membaca kondisi tubuh, ukuran, awal-akhir kegiatan, dan rutinitas harian."
 level: "N4"
 category: "kanji"
 topic: "起きる ↔ 寝る"
+topicLabel: "Belajar dalam pasangan"
 week: 2
 day: 3
 order: 10
@@ -140,7 +141,7 @@ explanation: "終電 berarti kereta terakhir. 終点 berarti titik akhir/stasiun
 
 ## Referensi
 
-- Soumatome N4 Kanji
+- Soumatome N4 Kanji, topik Minggu 2 Hari 3: 起きる ↔ 寝る
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List
 

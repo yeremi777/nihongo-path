@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 1 Day 1 - お名前は？"
+title: "お名前は？"
 description: "Belajar kanji N5 dasar yang sering muncul saat memperkenalkan diri, membaca nama, negara, keluarga, dan bahasa."
 level: "N5"
 category: "kanji"
 topic: "お名前は？"
+topicLabel: "Orang, nama, negara, bahasa"
 week: 1
 day: 1
 order: 1
@@ -153,6 +154,6 @@ explanation: "日本人 berarti orang Jepang. 外国人 berarti orang asing."
 
 ## Referensi
 
-- Soumatome N5 Kanji
+- Soumatome N5 Kanji, topik Minggu 1 Hari 1: お名前は？
 - JLPT Sensei N5 Kanji List
 - JTest4You N5 Kanji List

@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 2 Day 5 - 病院"
+title: "病院"
 description: "Belajar kanji N3 yang sering muncul di rumah sakit, bagian pendaftaran, nama poli, dan petunjuk pemeriksaan."
 level: "N3"
 category: "kanji"
 topic: "病院"
+topicLabel: "Rumah sakit"
 week: 2
 day: 5
 order: 12

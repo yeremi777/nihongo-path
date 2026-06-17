@@ -1,9 +1,10 @@
 ---
-title: "Grammar Week 4 Day 2 - そのかわり"
+title: "そのかわり"
 description: "Belajar pola grammar N3 untuk menyebut sebab baik, sebab buruk, dugaan sebab, dan pengganti tindakan atau peran."
 level: "N3"
 category: "grammar"
 topic: "そのかわり"
+topicLabel: "Sebagai gantinya"
 week: 4
 day: 2
 order: 32

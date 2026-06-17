@@ -1,9 +1,10 @@
 ---
-title: "Vocabulary Week 2 Day 2 - 電車に乗りましょう①"
+title: "電車に乗りましょう①"
 description: "Belajar kosakata N3 untuk membaca arah kereta, tiket, kursi, peron, jadwal, dan pengumuman stasiun."
 level: "N3"
 category: "vocabulary"
 topic: "電車に乗りましょう①"
+topicLabel: "Naik kereta (1)"
 week: 2
 day: 2
 order: 12

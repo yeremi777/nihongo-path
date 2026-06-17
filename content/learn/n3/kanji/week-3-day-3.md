@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 3 Day 3 - 自動販売機"
+title: "自動販売機"
 description: "Belajar kanji N3 yang sering muncul pada mesin penjual otomatis, tombol jumlah, es, air panas, dan pengembalian uang."
 level: "N3"
 category: "kanji"
 topic: "自動販売機"
+topicLabel: "Mesin penjual otomatis"
 week: 3
 day: 3
 order: 17

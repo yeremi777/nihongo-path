@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 4 Day 6 - 不在通知"
+title: "不在通知"
 description: "Belajar kanji N3 yang sering muncul di slip pengiriman gagal, pemberitahuan paket, tempat penitipan, dan informasi waktu penerimaan."
 level: "N3"
 category: "kanji"
 topic: "不在通知"
+topicLabel: "Pemberitahuan tidak ada di rumah"
 week: 4
 day: 6
 order: 27
@@ -292,6 +293,6 @@ explanation: "衣服 benar, dibaca いふく. 参加 adalah pilihan lain dari pe
 
 ## Referensi
 
-- Soumatome N3 Kanji
+- Soumatome N3 Kanji, topik Minggu 4 Hari 6: 不在通知
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

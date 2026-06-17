@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 1 Day 6 - 東・西・南・北"
+title: "東・西・南・北"
 description: "Belajar kanji N4 yang sering muncul di kalender, musim, alamat Jepang, kota, prefektur, dan nama tempat."
 level: "N4"
 category: "kanji"
 topic: "東・西・南・北"
+topicLabel: "Belajar dalam kelompok arah"
 week: 1
 day: 6
 order: 6
@@ -142,6 +143,6 @@ explanation: "市民 berarti warga kota. 県民 berarti warga prefektur."
 
 ## Referensi
 
-- Soumatome N4 Kanji
+- Soumatome N4 Kanji, topik Minggu 1 Hari 6: 東・西・南・北
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List

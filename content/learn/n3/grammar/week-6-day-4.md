@@ -1,9 +1,10 @@
 ---
-title: "Grammar Week 6 Day 4 - できるわけがない"
+title: "できるわけがない"
 description: "Belajar pola grammar N3 untuk menyatakan pantas saja, bukan berarti, tidak mungkin, dan tidak bisa melakukan sesuatu karena tanggung jawab atau situasi sosial."
 level: "N3"
 category: "grammar"
 topic: "できるわけがない"
+topicLabel: "Tidak mungkin bisa"
 week: 6
 day: 4
 order: 54

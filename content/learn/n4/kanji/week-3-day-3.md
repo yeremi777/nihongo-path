@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 3 Day 3 - 習う ↔ 教える"
+title: "習う ↔ 教える"
 description: "Belajar kanji N4 yang sering muncul di kegiatan belajar, jual-beli, pinjam-meminjam, naik kendaraan, dan aturan."
 level: "N4"
 category: "kanji"
 topic: "習う ↔ 教える"
+topicLabel: "Belajar dalam pasangan"
 week: 3
 day: 3
 order: 17
@@ -134,7 +135,7 @@ explanation: "不便 berarti tidak praktis. 不安 berarti cemas."
 
 ## Referensi
 
-- Soumatome N4 Kanji
+- Soumatome N4 Kanji, topik Minggu 3 Hari 3: 習う ↔ 教える
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List
 

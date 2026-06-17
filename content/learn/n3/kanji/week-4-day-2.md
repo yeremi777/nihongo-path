@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 4 Day 2 - 広告メール"
+title: "広告メール"
 description: "Belajar kanji N3 yang sering muncul di email promosi, kupon diskon, harga barang, dan informasi pembayaran toko."
 level: "N3"
 category: "kanji"
 topic: "広告メール"
+topicLabel: "Email iklan"
 week: 4
 day: 2
 order: 23
@@ -293,6 +294,6 @@ explanation: "割合 benar, dibaca わりあい. 二倍 adalah pilihan lain dari
 
 ## Referensi
 
-- Soumatome N3 Kanji
+- Soumatome N3 Kanji, topik Minggu 4 Hari 2: 広告メール
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

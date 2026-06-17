@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 6 Day 3 - スポーツ記事"
+title: "スポーツ記事"
 description: "Belajar kanji N3 yang sering muncul di artikel olahraga, skor pertandingan, kemenangan, kekalahan, lawan, lemparan, dan hasil akhir."
 level: "N3"
 category: "kanji"
 topic: "スポーツ記事"
+topicLabel: "Artikel olahraga"
 week: 6
 day: 3
 order: 38
@@ -296,6 +297,6 @@ explanation: "反対 benar, dibaca はんたい. 勝負 adalah pilihan lain dari
 
 ## Referensi
 
-- Soumatome N3 Kanji
+- Soumatome N3 Kanji, topik Minggu 6 Hari 3: スポーツ記事
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

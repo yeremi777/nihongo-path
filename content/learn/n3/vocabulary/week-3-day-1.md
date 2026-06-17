@@ -1,9 +1,10 @@
 ---
-title: "Vocabulary Week 3 Day 1 - デートにさそいましょう"
+title: "デートにさそいましょう"
 description: "Belajar kosakata N3 untuk membaca ajakan, janji bertemu, respons, dan ungkapan perasaan dalam hubungan sosial."
 level: "N3"
 category: "vocabulary"
 topic: "デートにさそいましょう"
+topicLabel: "Mengajak kencan"
 week: 3
 day: 1
 order: 21

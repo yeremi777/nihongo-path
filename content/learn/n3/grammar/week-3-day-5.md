@@ -1,9 +1,10 @@
 ---
-title: "Grammar Week 3 Day 5 - 一人っきり"
+title: "一人っきり"
 description: "Belajar pola grammar N3 untuk mengikuti instruksi, membiarkan keadaan, menunjukkan kelalaian, dan menyatakan hanya atau sejak itu tidak lagi."
 level: "N3"
 category: "grammar"
 topic: "一人っきり"
+topicLabel: "Hanya sendiri"
 week: 3
 day: 5
 order: 25

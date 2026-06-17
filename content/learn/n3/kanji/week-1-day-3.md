@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 1 Day 3 - サイン"
+title: "サイン"
 description: "Belajar kanji N3 yang sering muncul pada papan darurat, tanda bahaya, petunjuk tangga, dan tempat sampah."
 level: "N3"
 category: "kanji"
 topic: "サイン"
+topicLabel: "Rambu dan tanda"
 week: 1
 day: 3
 order: 3

@@ -1,9 +1,10 @@
 ---
-title: "Grammar Week 2 Day 1 - うそばっかり！"
+title: "うそばっかり！"
 description: "Belajar pola grammar N3 untuk membedakan hanya, bahkan, asalkan, dan penekanan justru dalam kalimat sehari-hari."
 level: "N3"
 category: "grammar"
 topic: "うそばっかり！"
+topicLabel: "Masa sih!"
 week: 2
 day: 1
 order: 11

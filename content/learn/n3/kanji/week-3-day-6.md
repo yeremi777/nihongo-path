@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 3 Day 6 - 携帯電話"
+title: "携帯電話"
 description: "Belajar kanji N3 yang sering muncul pada ponsel, koneksi, layar, tombol kembali, penyelesaian proses, dan pendaftaran akun."
 level: "N3"
 category: "kanji"
 topic: "携帯電話"
+topicLabel: "Ponsel"
 week: 3
 day: 6
 order: 20

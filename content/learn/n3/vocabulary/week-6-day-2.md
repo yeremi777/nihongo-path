@@ -1,9 +1,10 @@
 ---
-title: "Vocabulary Week 6 Day 2 - ちゃんとがんばっています"
+title: "ちゃんとがんばっています"
 description: "Belajar kosakata N3 untuk membedakan kata keterangan cara seperti sengaja, rapi, diam-diam, dan perlahan."
 level: "N3"
 category: "vocabulary"
 topic: "ちゃんとがんばっています"
+topicLabel: "Kata keterangan cara"
 week: 6
 day: 2
 order: 52
@@ -155,6 +156,6 @@ explanation: "つい cocok dengan 言ってしまった untuk tindakan yang terl
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, Week 6 Day 2 rows v602-001 sampai v602-019.
+- Soumatome N3 Vocabulary, topik Minggu 6 Hari 2: ちゃんとがんばっています
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List

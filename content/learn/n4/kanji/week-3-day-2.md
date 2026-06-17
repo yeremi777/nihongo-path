@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 3 Day 2 - 持・待・特"
+title: "持・待・特"
 description: "Belajar kanji N4 yang sering muncul saat membedakan bentuk mirip di jadwal, kualitas, pertanyaan, dan kegiatan cuci."
 level: "N4"
 category: "kanji"
 topic: "持・待・特"
+topicLabel: "Kanji dengan radikal sama"
 week: 3
 day: 2
 order: 16
@@ -140,7 +141,7 @@ explanation: "宿題 berarti PR. 質問 berarti pertanyaan."
 
 ## Referensi
 
-- Soumatome N4 Kanji
+- Soumatome N4 Kanji, topik Minggu 3 Hari 2: 持・待・特
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List
 

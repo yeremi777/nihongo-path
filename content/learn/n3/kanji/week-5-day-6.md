@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 5 Day 6 - 問診票ー健康診断"
+title: "問診票ー健康診断"
 description: "Belajar kanji N3 yang sering muncul di formulir pemeriksaan kesehatan, tinggi badan, alkohol, rokok, nafsu makan, tidur, lelah, dan napas."
 level: "N3"
 category: "kanji"
 topic: "問診票ー健康診断"
+topicLabel: "Formulir cek kesehatan"
 week: 5
 day: 6
 order: 34
@@ -292,6 +293,6 @@ explanation: "睡眠 benar, dibaca すいみん. 息切れ adalah pilihan lain d
 
 ## Referensi
 
-- Soumatome N3 Kanji
+- Soumatome N3 Kanji, topik Minggu 5 Hari 6: 問診票ー健康診断
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

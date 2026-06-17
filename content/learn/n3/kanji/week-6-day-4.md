@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 6 Day 4 - 経済"
+title: "経済"
 description: "Belajar kanji N3 yang sering muncul di berita ekonomi, perdagangan, ekspor-impor, pertumbuhan, pengalaman perusahaan, dan hubungan antarnegara."
 level: "N3"
 category: "kanji"
 topic: "経済"
+topicLabel: "Ekonomi"
 week: 6
 day: 4
 order: 39
@@ -295,6 +296,6 @@ explanation: "貿易 benar, dibaca ぼうえき. 貿易会社 adalah pilihan lai
 
 ## Referensi
 
-- Soumatome N3 Kanji
+- Soumatome N3 Kanji, topik Minggu 6 Hari 4: 経済
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

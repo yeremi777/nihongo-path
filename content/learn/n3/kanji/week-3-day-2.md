@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 3 Day 2 - 消費期限"
+title: "消費期限"
 description: "Belajar kanji N3 yang sering muncul pada tanggal kedaluwarsa, label produksi, biaya, suhu, dan cara penyimpanan makanan."
 level: "N3"
 category: "kanji"
 topic: "消費期限"
+topicLabel: "Tanggal kedaluwarsa"
 week: 3
 day: 2
 order: 16

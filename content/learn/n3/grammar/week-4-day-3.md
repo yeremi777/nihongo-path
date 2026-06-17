@@ -1,9 +1,10 @@
 ---
-title: "Grammar Week 4 Day 3 - 見れば見るほど"
+title: "見れば見るほど"
 description: "Belajar pola grammar N3 untuk menyatakan tingkat, perbandingan semakin, dan superlatif dengan bentuk negatif."
 level: "N3"
 category: "grammar"
 topic: "見れば見るほど"
+topicLabel: "Semakin dilihat, semakin..."
 week: 4
 day: 3
 order: 33

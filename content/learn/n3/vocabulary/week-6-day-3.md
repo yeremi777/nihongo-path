@@ -1,9 +1,10 @@
 ---
-title: "Vocabulary Week 6 Day 3 - ますますがんばります"
+title: "ますますがんばります"
 description: "Belajar kosakata N3 untuk membaca kata keterangan perubahan, perasaan, variasi, dan gerak yang berulang."
 level: "N3"
 category: "vocabulary"
 topic: "ますますがんばります"
+topicLabel: "Kata keterangan perubahan"
 week: 6
 day: 3
 order: 53
@@ -154,6 +155,6 @@ explanation: "わくわくする menunjukkan rasa antusias/bersemangat."
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, Week 6 Day 3 rows v603-001 sampai v603-019.
+- Soumatome N3 Vocabulary, topik Minggu 6 Hari 3: ますますがんばります
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List

@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 1 Day 1 - 通う・通る"
+title: "通う・通る"
 description: "Belajar kanji N4 yang sering muncul di transportasi, kegiatan rutin, barang, bangunan, dan cuaca harian."
 level: "N4"
 category: "kanji"
 topic: "通う・通る"
+topicLabel: "Kanji dengan banyak bacaan"
 week: 1
 day: 1
 order: 1
@@ -138,7 +139,7 @@ explanation: "建物 berarti bangunan. 着物 berarti kimono."
 
 ## Referensi
 
-- Soumatome N4 Kanji
+- Soumatome N4 Kanji, topik Minggu 1 Hari 1: 通う・通る
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List
 

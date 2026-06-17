@@ -1,9 +1,10 @@
 ---
-title: "Kanji Week 1 Day 4 - どこですか。"
+title: "どこですか。"
 description: "Belajar kanji N5 dasar yang sering muncul pada stasiun, pintu masuk-keluar, dan petunjuk arah."
 level: "N5"
 category: "kanji"
 topic: "どこですか。"
+topicLabel: "Tempat dan arah"
 week: 1
 day: 4
 order: 4
@@ -148,6 +149,6 @@ explanation: "外国 berarti luar negeri. 駅前 berarti depan stasiun."
 
 ## Referensi
 
-- Soumatome N5 Kanji
+- Soumatome N5 Kanji, topik Minggu 1 Hari 4: どこですか。
 - JLPT Sensei N5 Kanji List
 - JTest4You N5 Kanji List
