@@ -1,0 +1,217 @@
+---
+title: "Grammar Week 4 Day 4 - やってみることだ"
+description: "Belajar pola grammar N3 untuk memberi saran, menenangkan orang lain, merangkum informasi, melaporkan kabar, dan menyatakan emosi kuat."
+level: "N3"
+category: "grammar"
+topic: "やってみることだ"
+week: 4
+day: 4
+order: 34
+status: "draft"
+mainReference:
+  - "Soumatome N3 Grammar"
+extraReference:
+  - "JLPT Sensei N3 Grammar List"
+  - "Bunpro N3 Grammar"
+tags:
+  - "grammar"
+  - "jlpt-n3"
+---
+
+## Tujuan
+
+Di akhir pelajaran ini, kamu bisa mengenali dan memakai pola pada topik **やってみることだ** dalam konteks bacaan, percakapan, dan penjelasan N3. Fokusnya bukan hanya arti terjemahan, tetapi juga alasan memilih pola yang tepat.
+
+<div class="lesson-callout">
+  <strong>Fokus hari ini:</strong> ことはない dan ことだ sama-sama memakai こと, tetapi arahnya berbeda. ことはない menenangkan bahwa tidak perlu melakukan sesuatu, sedangkan ことだ memberi saran praktis.
+</div>
+
+## Pola Hari Ini
+
+| Fungsi | Pola | Arti praktis | Kapan dipakai |
+|---|---|---|---|
+| Tidak perlu | 〜ことはない | tidak perlu ~ | menenangkan atau mengatakan tindakan tidak diperlukan |
+| Saran | 〜ことだ | sebaiknya ~ | nasihat praktis |
+| Rangkuman arti | 〜ということだ | artinya ~ | menyimpulkan informasi |
+| Laporan | 〜ということだ・〜とのことだ | katanya / terdengar bahwa | kabar atau informasi yang dilaporkan |
+| Seruan emosi | 〜ことか・〜ことだろう | betapa ~ | emosi kuat, sering dengan どんなに atau 何度 |
+
+## Peta Pola
+
+<div class="word-strip">
+  <span>あやまることはない</span>
+  <span>休むことだ</span>
+  <span>合格ということだ</span>
+  <span>遅れるとのことだ</span>
+  <span>どんなにうれしいことか</span>
+</div>
+
+Alurnya: ことはない menghapus kebutuhan tindakan, ことだ memberi saran, ということだ merangkum atau melaporkan isi, dan ことか mengeluarkan emosi yang kuat.
+
+| Fungsi | Kerangka kalimat | Yang perlu dicek |
+|---|---|---|
+| Tidak perlu | （V辞書形）ことはない | Apakah tindakan itu tidak diperlukan? |
+| Saran | （V辞書形）／（Vない）ことだ | Apa nasihat praktisnya? |
+| Artinya | （clause）ということだ | Apakah kalimat merangkum makna? |
+| Katanya | （clause）とのことだ | Apakah sumbernya kabar/laporan? |
+| Betapa | どんなに（Adj）ことか | Apakah ada seruan emosi kuat? |
+
+Di tabel ini, `（A）` dan `（B）` menandai pihak pertama dan pihak kedua dalam hubungan kalimat, `（N）` adalah nomina atau frasa nomina, `（V）` adalah verba, `（Adj）` adalah adjektiva, `（clause）` dan `（plain form）` adalah klausa atau bentuk biasa, `（Sentence A）` dan `（Sentence B）` adalah dua kalimat yang dihubungkan, `（Option A）` dan `（Option B）` adalah dua pilihan, sedangkan `（question）`, `（number）`, `（predicate）`, dan `（result）` menandai slot pertanyaan, angka, predikat, dan hasil.
+
+## Cara Membentuk Pola
+
+### 1. Pilih bentuk sebelum pola
+
+| Tujuan | Bentuk | Contoh bentuk |
+|---|---|---|
+| Tidak perlu minta maaf | （V辞書形）ことはない | あやまることはない |
+| Sebaiknya istirahat | （V辞書形）ことだ | 休むことだ |
+| Sebaiknya jangan memaksa diri | （Vない）ことだ | 無理をしないことだ |
+| Artinya lulus | （N）ということだ | 合格ということだ |
+| Betapa senangnya | どんなに（いAdj）ことか | どんなにうれしいことか |
+
+### 2. Masukkan ke fungsi kalimat
+
+| Bentuk | Fungsi | Contoh pendek |
+|---|---|---|
+| ことはない | tidak perlu | 心配することはない |
+| ことだ | saran | 早く寝ることだ |
+| ということだ | artinya / katanya | 合格ということだ |
+| とのことだ | laporan lebih formal | 休みとのことだ |
+| ことか | emosi kuat | 何度注意したことか |
+
+Sebelum membaca contoh panjang, ambil bagian yang berubah lebih dulu: apakah slotnya `（N）`, `（V辞書形）`, `（V普通形）`, `（Vますstem）`, `（Adj）`, atau satu `（clause）` utuh. Setelah itu baru cek partikel, bentuk negatif, dan hubungan antarbagian kalimat.
+
+## Bangun Kalimat Bertahap
+
+| Target | Bahan | Bentuk pola | Kalimat jadi |
+|---|---|---|---|
+| Tidak perlu minta maaf | あやまる | あやまることはない | 君があやまることはありません。 |
+| Sebaiknya istirahat | ゆっくり休む | 休むことだ | 疲れているなら、ゆっくり休むことです。 |
+| Artinya lulus | 結果は70％・合格 | 合格ということ | 試験の結果は70％、つまり合格ということです。 |
+| Katanya terlambat | 田中さん・遅れる | 遅れるとのこと | 田中さんは少し遅れるとのことです。 |
+| Betapa senangnya | 合格できたら・うれしい | どんなにうれしいことか | 合格できたら、どんなにうれしいことか。 |
+
+Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pecah dulu menjadi bahan, bentuk pola, lalu kalimat jadi.
+
+## Catatan Pemakaian
+
+### Menenangkan vs menyarankan
+
+- ことはない sering dipakai untuk menenangkan: tidak perlu panik, tidak perlu minta maaf.
+- ことだ memberi nasihat langsung, biasanya dalam nada lebih senior atau instruktif.
+
+### Merangkum dan melaporkan
+
+- ということだ bisa berarti artinya atau katanya. Cek apakah kalimatnya menyimpulkan makna atau melaporkan kabar.
+- とのことだ terasa rapi untuk laporan atau pesan.
+
+### Seruan emosi
+
+- ことか biasanya muncul dengan どんなに, どれだけ, 何度, atau 何時間.
+- Tanpa kata pemicu itu, kalimat sering terdengar tidak lengkap.
+
+## Pola yang Sering Muncul
+
+| Pola | Arti praktis | Contoh konteks |
+|---|---|---|
+| （V辞書形）ことはない | tidak perlu （V） | 心配することはない |
+| （V辞書形）ことだ | sebaiknya （V） | 休むことだ |
+| （Vない）ことだ | sebaiknya tidak （V） | 無理をしないことだ |
+| （clause）ということだ | artinya / katanya | 遅れるということだ |
+| （clause）とのことだ | katanya secara rapi | 休みとのことだ |
+| どんなに（Adj）ことか | betapa （Adj） | どんなにうれしいことか |
+
+## Contoh Kalimat
+
+<div class="example-list">
+  <div><p class="jp">まだ時間がありますから、急ぐことはありません。</p><p>Masih ada waktu, jadi tidak perlu buru-buru.</p></div>
+  <div><p class="jp">風邪をひいたなら、暖かくして寝ることです。</p><p>Kalau masuk angin, sebaiknya hangatkan badan dan tidur.</p></div>
+  <div><p class="jp">全員が出席します。つまり、会議は予定通りということです。</p><p>Semua orang hadir. Artinya, rapat berjalan sesuai jadwal.</p></div>
+  <div><p class="jp">先生は今日は来られないとのことです。</p><p>Katanya guru tidak bisa datang hari ini.</p></div>
+  <div><p class="jp">この日をどんなに待っていたことか。</p><p>Betapa saya sudah menunggu hari ini.</p></div>
+</div>
+
+## Hal yang Mudah Tertukar
+
+| Pasangan | Cara membedakan |
+|---|---|
+| ことはない / ことだ | ことはない berarti tidak perlu. ことだ berarti sebaiknya. |
+| ことだ / べきだ | ことだ adalah nasihat praktis. べきだ lebih kuat sebagai kewajiban moral/sosial. |
+| ということだ / つまり | ということだ menyatakan hasil rangkuman. つまり mengantar rangkuman. |
+| ということだ / んだって | ということだ netral/rapi. んだって kasual. |
+| ことか / でしょう | ことか adalah seruan emosi. でしょう hanya dugaan atau pelembut. |
+
+## Kesalahan Umum
+
+| Salah | Benar | Kenapa |
+|---|---|---|
+| 疲れているなら、休むことはありません。 | 疲れているなら、休むことです。 | Jika maksudnya memberi saran, gunakan ことだ, bukan ことはない. |
+| 無理をしないですことだ。 | 無理をしないことだ。 | Sebelum ことだ gunakan bentuk negatif biasa, bukan ないです. |
+| 田中さんは少し遅れることだ。 | 田中さんは少し遅れるということです。 | Laporan atau arti memakai ということだ. |
+| うれしいことか。 | どんなにうれしいことか。 | ことか biasanya perlu kata seperti どんなに untuk seruan emosi. |
+
+## Mini Practice
+
+Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+
+::MiniPractice
+---
+question: "Masih ada waktu, jadi tidak perlu buru-buru."
+sentence: "まだ時間がありますから、急ぐ____。"
+optionA: "ことはありません"
+optionB: "ことです"
+correct: "ことはありません"
+explanation: "ことはありません benar karena kalimatnya mengatakan tindakan buru-buru tidak perlu."
+---
+::
+
+::MiniPractice
+---
+question: "Kalau lelah, sebaiknya istirahat."
+sentence: "疲れているなら、休む____。"
+optionA: "ことです"
+optionB: "ことはありません"
+correct: "ことです"
+explanation: "ことです benar karena pembicara memberi saran praktis."
+---
+::
+
+::MiniPractice
+---
+question: "Sebaiknya jangan memaksakan diri."
+sentence: "無理を____。"
+optionA: "しないことです"
+optionB: "しないですことです"
+correct: "しないことです"
+explanation: "しないことです benar karena ことだ memakai bentuk negatif biasa."
+---
+::
+
+::MiniPractice
+---
+question: "Artinya Tanaka-san akan sedikit terlambat."
+sentence: "田中さんは少し遅れる____。"
+optionA: "ということです"
+optionB: "ことです"
+correct: "ということです"
+explanation: "ということです benar karena kalimatnya merangkum atau melaporkan isi informasi."
+---
+::
+
+::MiniPractice
+---
+question: "Betapa senangnya kalau saya bisa lulus."
+sentence: "合格できたら、____うれしいことか。"
+optionA: "どんなに"
+optionB: "つまり"
+correct: "どんなに"
+explanation: "どんなに benar karena ことか untuk seruan emosi biasanya memakai kata pemicu seperti どんなに."
+---
+::
+
+## Referensi
+
+- Soumatome N3 Grammar, topik Minggu 4 Hari 4: やってみることだ
+- JLPT Sensei N3 Grammar List
+- Bunpro N3 Grammar
