@@ -12,8 +12,8 @@
 ## 📚 Web References
 | Tab | Links |
 |-----|-------|
-| Grammar | JLPT Sensei N5 Grammar · JTest4You N5 Grammar · Bunpro N5 Grammar |
-| Vocabulary | JLPT Sensei N5 Vocabulary · JTest4You N5 Vocabulary · Bunpro N5 Vocab |
+| Grammar | [JLPT Sensei](https://jlptsensei.com/jlpt-n5-grammar-list/) · [JTest4You](https://japanesetest4you.com/jlpt-n5-grammar-list/) · [Bunpro](https://bunpro.jp/decks/nn10ai/Bunpro-N5-Grammar/) |
+| Vocabulary | [JLPT Sensei](https://jlptsensei.com/jlpt-n5-vocabulary-list/) · [JTest4You](https://japanesetest4you.com/jlpt-n5-vocabulary-list/) · [Bunpro](https://bunpro.jp/decks/resqiy/Bunpro-N5-Vocab/) |
 | Kanji | [JLPT Sensei](https://jlptsensei.com/jlpt-n5-kanji-list/) · [JTest4You](https://japanesetest4you.com/jlpt-n5-kanji-list/) |
 | Minna no Nihongo I | 3A Network Minna no Nihongo Shokyu I resource page · Minna no Nihongo Text 1 lessons 1–25 bibliographic reference |
 

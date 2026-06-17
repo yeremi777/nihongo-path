@@ -12,8 +12,8 @@
 ## 📚 Web References
 | Tab | Links |
 |-----|-------|
-| Grammar | JLPT Sensei N4 Grammar · JTest4You N4 Grammar · Bunpro N4 Grammar |
-| Vocabulary | JLPT Sensei N4 Vocabulary · JTest4You N4 Vocabulary · Bunpro N4 Vocab |
+| Grammar | [JLPT Sensei](https://jlptsensei.com/jlpt-n4-grammar-list/) · [JTest4You](https://japanesetest4you.com/jlpt-n4-grammar-list/) · [Bunpro](https://bunpro.jp/decks/m7omkx/bunpro-n4-grammar/) |
+| Vocabulary | [JLPT Sensei](https://jlptsensei.com/jlpt-n4-vocabulary-list/) · [JTest4You](https://japanesetest4you.com/jlpt-n4-vocabulary-list/) · [Bunpro](https://bunpro.jp/decks/lh0vxb/Bunpro-N4-Vocab/) |
 | Kanji | [JLPT Sensei](https://jlptsensei.com/jlpt-n4-kanji-list/) · [JTest4You](https://japanesetest4you.com/jlpt-n4-kanji-list/) |
 | Minna no Nihongo II | 3A Network Minna no Nihongo Shokyu II resource page · Minna no Nihongo Text 2 lessons 26–50 bibliographic reference |
 
