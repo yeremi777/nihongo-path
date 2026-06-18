@@ -4,7 +4,7 @@ description: "Belajar grammar N5 dasar untuk membedakan bentuk sekarang, lampau,
 level: "N5"
 category: "grammar"
 topic: "えいがは おもしろくなかったです。"
-topicLabel: "Bentuk kata sifat dan verba dasar"
+topicLabel: "Filmnya tidak menarik"
 week: 1
 day: 1
 order: 1
