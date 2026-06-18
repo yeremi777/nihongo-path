@@ -151,7 +151,7 @@ Kombinasi khusus untuk kata asing:
 
 ## Vokal Panjang & Konsonan Ganda
 
-**Vokal panjang:** pakai tanda ー. Contoh: コーヒー (kopi), タクシー (taksi), ケーキ (kue).
+**Vokal panjang:** pakai tanda ー. Contoh: コーヒー (kopi), タクシー (taksi), ケーキ (kue).<br><small>Dalam romaji: aa (アー), ii (イー), uu (ウー), ee (エー), oo (オー). Bisa juga pakai garis: ā, ī, ū, ē, ō.</small>
 
 **Konsonan ganda:** pakai ッ kecil. Contoh: サッカー (sepak bola), ベッド (tempat tidur), バッグ (tas).
 
@@ -227,3 +227,4 @@ explanation: "シ = shi (katakana). Bandingkan dengan ツ = tsu."
 
 - NHK Katakana Table
 - Tofugu Katakana Guide
+

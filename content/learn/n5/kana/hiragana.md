@@ -147,7 +147,7 @@ Huruf kecil ゃ, ゅ, ょ setelah karakter berakhiran i menggabung menjadi satu 
 
 **Konsonan ganda:** tulis っ kecil sebelum konsonan. Contoh: きって (perangko), がっこう (sekolah).
 
-**Vokal panjang:** tambah huruf vokal. Contoh: おかあさん (ibu), ありがとう (terima kasih), せんせい (guru).
+**Vokal panjang:** tambah huruf vokal. Contoh: おかあさん (ibu), ありがとう (terima kasih), せんせい (guru).<br><small>Dalam romaji: aa (ああ), ii (いい), uu (うう), ei (えい), ee (ええ), ou (おう), oo (おお). Bisa juga pakai garis: ā, ī, ū, ē, ō.</small>
 
 ## Contoh Kalimat
 
@@ -221,3 +221,4 @@ explanation: "へや = heya (kamar). へ dibaca 'he' saat bagian kata."
 
 - NHK Hiragana Table
 - Tofugu Hiragana Guide
+
