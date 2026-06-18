@@ -179,60 +179,60 @@ Catatan untuk pembelajar Indonesia: Indonesian “hanya” can become **だけ**
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat untuk melengkapi kalimat. Penjelasan baru muncul setelah kamu memilih.
 
 ::MiniPractice
 ---
 question: "Saya hanya bisa menulis sedikit kanji."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "漢字は少ししか書けません。"
-optionB: "漢字は少ししか書けます。"
-correct: "漢字は少ししか書けません。"
-explanation: "Petunjuknya adalah しか requires a negative predicate. Perhatikan partikel, bentuk verba, dan konteks."
----
-::
-
-::MiniPractice
----
-question: "Satu pun tidak ada."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "一つもありません。"
-optionB: "一つありません。"
-correct: "一つもありません。"
-explanation: "Petunjuknya adalah Zero amount uses counter + も + negative. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "漢字は少ししか書けま____。"
+optionA: "せん"
+optionB: "す"
+correct: "せん"
+explanation: "せん benar. しか requires a negative predicate"
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Mau minum teh atau semacamnya?"
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "お茶でも飲みませんか。"
-optionB: "お茶を飲みませんか。"
-correct: "お茶でも飲みませんか。"
-explanation: "Petunjuknya adalah でも can be a soft example. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "お茶____飲みませんか。"
+optionA: "でも"
+optionB: "を"
+correct: "でも"
+explanation: "でも benar. でも can be a soft example"
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Saya makan dengan sumpit."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "はしで食べます。"
-optionB: "はしに食べます。"
-correct: "はしで食べます。"
-explanation: "Petunjuknya adalah Tool atau berarti uses で. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "はし____食べます。"
+optionA: "で"
+optionB: "に"
+correct: "で"
+explanation: "で benar. Tool atau berarti uses で"
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih contoh yang sesuai dengan arti: Bahkan ~; seperti ~; contoh."
-sentence: "Konteks pola: 〜でも"
-optionA: "お茶でも飲みませんか。"
-optionB: "はしで食べます。"
-correct: "お茶でも飲みませんか。"
-explanation: "〜でも dipilih karena fungsinya bahkan ~; seperti ~; contoh. Cek konteks sebelum memilih."
+question: "Pola apa yang dipakai untuk arti: Bahkan ~; seperti ~; contoh?"
+sentence: "例: お茶でも飲みませんか。 ポイント: ____"
+optionA: "〜でも"
+optionB: "〜で"
+correct: "〜でも"
+explanation: "〜でも benar karena kalimat contoh menunjukkan bahkan ~; seperti ~; contoh."
+---
+::
+
+::MiniPractice
+---
+question: "Pola apa yang dipakai untuk arti: Dengan/di/karena/dari ~; cara, cakupan, alasan, bahan?"
+sentence: "例: はしで食べます。 ポイント: ____"
+optionA: "〜で"
+optionB: "〜も"
+correct: "〜で"
+explanation: "〜で benar karena kalimat contoh menunjukkan dengan/di/karena/dari ~; cara, cakupan, alasan, bahan."
 ---
 ::
 

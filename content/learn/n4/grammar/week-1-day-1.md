@@ -215,60 +215,60 @@ Catatan untuk pembelajar Indonesia: In Indonesian, “di” can become either �
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat untuk melengkapi kalimat. Penjelasan baru muncul setelah kamu memilih.
 
 ::MiniPractice
 ---
 question: "Saya belajar di perpustakaan."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "図書館で勉強します。"
-optionB: "図書館に勉強します。"
-correct: "図書館で勉強します。"
-explanation: "Petunjuknya adalah Action place uses で. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "図書館____勉強します。"
+optionA: "で"
+optionB: "に"
+correct: "で"
+explanation: "で benar. Action place uses で"
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Saya bekerja di bank."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "銀行に勤めています。"
-optionB: "銀行で勤めています。"
-correct: "銀行に勤めています。"
-explanation: "Petunjuknya adalah 勤める takes に. Perhatikan partikel, bentuk verba, dan konteks."
----
-::
-
-::MiniPractice
----
-question: "Jepang tidak sepanas Indonesia."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "日本はインドネシアほど暑くないです。"
-optionB: "日本はインドネシアほど暑いです。"
-correct: "日本はインドネシアほど暑くないです。"
-explanation: "Petunjuknya adalah ほど comparison needs negative ending. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "銀行____勤めています。"
+optionA: "に"
+optionB: "で"
+correct: "に"
+explanation: "に benar. 勤める takes に"
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Saya memakai tas yang saya terima dari kakak perempuan saya."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "姉にもらったバッグを使っています。"
-optionB: "バッグ姉にもらったを使っています。"
-correct: "姉にもらったバッグを使っています。"
-explanation: "Petunjuknya adalah Noun modifier comes sebelum the noun. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "____を使っています。"
+optionA: "姉にもらったバッグ"
+optionB: "バッグ姉にもらった"
+correct: "姉にもらったバッグ"
+explanation: "姉にもらったバッグ benar. Noun modifier comes sebelum the noun"
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih contoh yang sesuai dengan arti: Di ~; tempat terjadinya aksi."
-sentence: "Konteks pola: 〜で"
-optionA: "図書館で勉強します。"
-optionB: "父は銀行に勤めています。"
-correct: "図書館で勉強します。"
-explanation: "〜で dipilih karena fungsinya di ~; tempat terjadinya aksi. Cek konteks sebelum memilih."
+question: "Pola apa yang dipakai untuk arti: Di ~; tempat terjadinya aksi?"
+sentence: "例: 図書館で勉強します。 ポイント: ____"
+optionA: "〜で"
+optionB: "〜に勤める"
+correct: "〜で"
+explanation: "〜で benar karena kalimat contoh menunjukkan di ~; tempat terjadinya aksi."
+---
+::
+
+::MiniPractice
+---
+question: "Pola apa yang dipakai untuk arti: Bekerja di/untuk ~?"
+sentence: "例: 父は銀行に勤めています。 ポイント: ____"
+optionA: "〜に勤める"
+optionB: "〜から"
+correct: "〜に勤める"
+explanation: "〜に勤める benar karena kalimat contoh menunjukkan bekerja di/untuk ~."
 ---
 ::
 

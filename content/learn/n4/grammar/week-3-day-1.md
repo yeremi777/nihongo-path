@@ -150,60 +150,60 @@ Catatan untuk pembelajar Indonesia: Indonesian “apakah” can cover both direc
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
-
-::MiniPractice
----
-question: "Apakah kamu tahu apakah besok ada tes atau tidak?"
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "明日テストがあるかどうか知っていますか。"
-optionB: "明日テストがあるか知っていますか。"
-correct: "明日テストがあるかどうか知っていますか。"
-explanation: "Petunjuknya adalah Gunakan 〜かどうか untuk yes/no embedded questions. Perhatikan partikel, bentuk verba, dan konteks."
----
-::
-
-::MiniPractice
----
-question: "Apakah kamu tahu Tanaka-san tinggal di mana?"
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "田中さんがどこに住んでいるか知っていますか。"
-optionB: "田中さんが住んでいるか知っていますか。"
-correct: "田中さんがどこに住んでいるか知っていますか。"
-explanation: "Petunjuknya adalah Gunakan a question word dengan 〜か. Perhatikan partikel, bentuk verba, dan konteks."
----
-::
+Pilih jawaban yang paling tepat untuk melengkapi kalimat. Penjelasan baru muncul setelah kamu memilih.
 
 ::MiniPractice
 ---
 question: "Pulpen ini berguna untuk menulis kanji."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "このペンは漢字を書くのに便利です。"
-optionB: "このペンは漢字を書いたのに便利です。"
-correct: "このペンは漢字を書くのに便利です。"
-explanation: "Petunjuknya adalah Purpose/use のに uses dictionary form. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "このペンは漢字を書____のに便利です。"
+optionA: "く"
+optionB: "いた"
+correct: "く"
+explanation: "く benar. Purpose/use のに uses dictionary form"
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih contoh yang sesuai dengan arti: Apakah ~ atau tidak."
-sentence: "Konteks pola: 〜かどうか"
-optionA: "明日テストがあるかどうか、聞いてみます。"
-optionB: "田中さんがどこに住んでいるか知っていますか。"
-correct: "明日テストがあるかどうか、聞いてみます。"
-explanation: "〜かどうか dipilih karena fungsinya apakah ~ atau tidak. Cek konteks sebelum memilih."
+question: "Pola apa yang dipakai untuk arti: Apakah ~ atau tidak?"
+sentence: "例: 明日テストがあるかどうか、聞いてみます。 ポイント: ____"
+optionA: "〜かどうか"
+optionB: "疑問詞〜か"
+correct: "〜かどうか"
+explanation: "〜かどうか benar karena kalimat contoh menunjukkan apakah ~ atau tidak."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih contoh yang sesuai dengan arti: Pertanyaan tidak langsung dengan siapa, di mana, apa, dll.."
-sentence: "Konteks pola: 疑問詞〜か"
-optionA: "田中さんがどこに住んでいるか知っていますか。"
-optionB: "漢字を覚えるのは大変です。"
-correct: "田中さんがどこに住んでいるか知っていますか。"
-explanation: "疑問詞〜か dipilih karena fungsinya pertanyaan tidak langsung dengan siapa, di mana, apa, dll.. Cek konteks sebelum memilih."
+question: "Pola apa yang dipakai untuk arti: Pertanyaan tidak langsung dengan siapa, di mana, apa, dll.?"
+sentence: "例: 田中さんがどこに住んでいるか知っていますか。 ポイント: ____"
+optionA: "疑問詞〜か"
+optionB: "〜の（名詞化）"
+correct: "疑問詞〜か"
+explanation: "疑問詞〜か benar karena kalimat contoh menunjukkan pertanyaan tidak langsung dengan siapa, di mana, apa, dll.."
+---
+::
+
+::MiniPractice
+---
+question: "Pola apa yang dipakai untuk arti: Nominalisasi; hal melakukan / fakta bahwa ~?"
+sentence: "例: 漢字を覚えるのは大変です。 ポイント: ____"
+optionA: "〜の（名詞化）"
+optionB: "〜のに（用途・目的）"
+correct: "〜の（名詞化）"
+explanation: "〜の（名詞化） benar karena kalimat contoh menunjukkan nominalisasi; hal melakukan / fakta bahwa ~."
+---
+::
+
+::MiniPractice
+---
+question: "Pola apa yang dipakai untuk arti: Untuk; berguna untuk melakukan ~?"
+sentence: "例: このペンは漢字を書くのに便利です。 ポイント: ____"
+optionA: "〜のに（用途・目的）"
+optionB: "〜かどうか"
+correct: "〜のに（用途・目的）"
+explanation: "〜のに（用途・目的） benar karena kalimat contoh menunjukkan untuk; berguna untuk melakukan ~."
 ---
 ::
 

@@ -164,60 +164,60 @@ Catatan untuk pembelajar Indonesia: 自動詞 and 他動詞 are very important f
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat untuk melengkapi kalimat. Penjelasan baru muncul setelah kamu memilih.
 
 ::MiniPractice
 ---
 question: "Pintunya tertutup. / Saya menutup pintu."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "ドアが閉まります。／ドアを閉めます。"
-optionB: "ドアを閉まります。"
-correct: "ドアが閉まります。／ドアを閉めます。"
-explanation: "Petunjuknya adalah 自動詞 uses が, 他動詞 uses を. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "ドア____閉まります。"
+optionA: "が"
+optionB: "を"
+correct: "が"
+explanation: "が benar karena 自動詞 uses が, 他動詞 uses を."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Jendelanya tertutup."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "窓が閉まっています。"
-optionB: "窓が閉めています。"
-correct: "窓が閉まっています。"
-explanation: "Petunjuknya adalah Result state uses 自動詞+ている. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "窓が閉____ています。"
+optionA: "まっ"
+optionB: "め"
+correct: "まっ"
+explanation: "まっ benar. Result state uses 自動詞+ている"
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Bunga sudah dihias/diletakkan di atas meja."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "テーブルの上に花がかざってあります。"
-optionB: "テーブルの上に花がかざっています。"
-correct: "テーブルの上に花がかざってあります。"
-explanation: "Petunjuknya adalah Intentional prepared state uses 他動詞+てある. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "テーブルの上に花がかざって____ます。"
+optionA: "あり"
+optionB: "い"
+correct: "あり"
+explanation: "あり benar. Intentional prepared state uses 他動詞+てある"
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih contoh yang sesuai dengan arti: Kata kerja intransitif dan transitif."
-sentence: "Konteks pola: 自動詞・他動詞"
-optionA: "ドアが閉まります。／ドアを閉めます。"
-optionB: "窓が閉まっています。"
-correct: "ドアが閉まります。／ドアを閉めます。"
-explanation: "自動詞・他動詞 dipilih karena fungsinya kata kerja intransitif dan transitif. Cek konteks sebelum memilih."
+question: "Pola apa yang dipakai untuk arti: Kata kerja intransitif dan transitif?"
+sentence: "例: ドアが閉まります。／ドアを閉めます。 ポイント: ____"
+optionA: "自動詞・他動詞"
+optionB: "〜ている（結果の状態）"
+correct: "自動詞・他動詞"
+explanation: "自動詞・他動詞 benar karena kalimat contoh menunjukkan kata kerja intransitif dan transitif."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih contoh yang sesuai dengan arti: Keadaan hasil; sesuatu dalam kondisi sudah ~."
-sentence: "Konteks pola: 〜ている（結果の状態）"
-optionA: "窓が閉まっています。"
-optionB: "テーブルの上に花がかざってあります。"
-correct: "窓が閉まっています。"
-explanation: "〜ている（結果の状態） dipilih karena fungsinya keadaan hasil; sesuatu dalam kondisi sudah ~. Cek konteks sebelum memilih."
+question: "Pola apa yang dipakai untuk arti: Keadaan hasil; sesuatu dalam kondisi sudah ~?"
+sentence: "例: 窓が閉まっています。 ポイント: ____"
+optionA: "〜ている（結果の状態）"
+optionB: "〜てある"
+correct: "〜ている（結果の状態）"
+explanation: "〜ている（結果の状態） benar karena kalimat contoh menunjukkan keadaan hasil; sesuatu dalam kondisi sudah ~."
 ---
 ::
 

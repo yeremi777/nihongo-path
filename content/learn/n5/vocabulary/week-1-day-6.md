@@ -4,7 +4,7 @@ description: "Belajar kosakata N5 dasar untuk menyebut musim, warna, tempat, ola
 level: "N5"
 category: "vocabulary"
 topic: "すきなもの・ほしいもの"
-topicLabel: "Kategori benda dan hal favorit"
+topicLabel: "Musim, warna, tempat, dan benda"
 week: 1
 day: 6
 order: 6

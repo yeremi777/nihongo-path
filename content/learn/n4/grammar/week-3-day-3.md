@@ -151,60 +151,60 @@ Catatan untuk pembelajar Indonesia: Indonesian “karena,” “meskipun,” and
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
-
-::MiniPractice
----
-question: "Karena hujan, saya tidak akan pergi."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "雨なので、行きません。"
-optionB: "雨ので、行きません。"
-correct: "雨なので、行きません。"
-explanation: "Petunjuknya adalah Noun dan な-adjective gunakan なので. Perhatikan partikel, bentuk verba, dan konteks."
----
-::
+Pilih jawaban yang paling tepat untuk melengkapi kalimat. Penjelasan baru muncul setelah kamu memilih.
 
 ::MiniPractice
 ---
 question: "Padahal saya sudah belajar, tetapi saya lupa."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "勉強したのに、忘れました。"
-optionB: "勉強したので、忘れました。"
-correct: "勉強したのに、忘れました。"
-explanation: "Petunjuknya adalah のに often berarti “padahal”. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "勉強したの____、忘れました。"
+optionA: "に"
+optionB: "で"
+correct: "に"
+explanation: "に benar. のに often berarti “padahal”"
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Saya akan pergi meskipun hujan."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "雨でも行きます。"
-optionB: "雨ても行きます。"
-correct: "雨でも行きます。"
-explanation: "Petunjuknya adalah Noun dan な-adjective gunakan でも. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "雨____も行きます。"
+optionA: "で"
+optionB: "て"
+correct: "で"
+explanation: "で benar. Noun dan な-adjective gunakan でも"
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih contoh yang sesuai dengan arti: Karena; sebab."
-sentence: "Konteks pola: 〜ので"
-optionA: "雨が降っているので、出かけません。"
-optionB: "たくさん勉強したのに、忘れました。"
-correct: "雨が降っているので、出かけません。"
-explanation: "〜ので dipilih karena fungsinya karena; sebab. Cek konteks sebelum memilih."
+question: "Pola apa yang dipakai untuk arti: Karena; sebab?"
+sentence: "例: 雨が降っているので、出かけません。 ポイント: ____"
+optionA: "〜ので"
+optionB: "〜のに（逆接）"
+correct: "〜ので"
+explanation: "〜ので benar karena kalimat contoh menunjukkan karena; sebab."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih contoh yang sesuai dengan arti: Padahal; meskipun begitu."
-sentence: "Konteks pola: 〜のに（逆接）"
-optionA: "たくさん勉強したのに、忘れました。"
-optionB: "雨でも行きます。"
-correct: "たくさん勉強したのに、忘れました。"
-explanation: "〜のに（逆接） dipilih karena fungsinya padahal; meskipun begitu. Cek konteks sebelum memilih."
+question: "Pola apa yang dipakai untuk arti: Padahal; meskipun begitu?"
+sentence: "例: たくさん勉強したのに、忘れました。 ポイント: ____"
+optionA: "〜のに（逆接）"
+optionB: "〜ても・〜でも"
+correct: "〜のに（逆接）"
+explanation: "〜のに（逆接） benar karena kalimat contoh menunjukkan padahal; meskipun begitu."
+---
+::
+
+::MiniPractice
+---
+question: "Pola apa yang dipakai untuk arti: Meskipun; walaupun?"
+sentence: "例: 雨でも行きます。 ポイント: ____"
+optionA: "〜ても・〜でも"
+optionB: "疑問詞〜ても・〜でも"
+correct: "〜ても・〜でも"
+explanation: "〜ても・〜でも benar karena kalimat contoh menunjukkan meskipun; walaupun."
 ---
 ::
 

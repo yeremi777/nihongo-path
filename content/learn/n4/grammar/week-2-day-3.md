@@ -179,60 +179,60 @@ Catatan untuk pembelajar Indonesia: Indonesian “memberi” and “menerima” 
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat untuk melengkapi kalimat. Penjelasan baru muncul setelah kamu memilih.
 
 ::MiniPractice
 ---
 question: "Tanaka-san memberi saya sweater."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "田中さんが私にセーターをくれました。"
-optionB: "田中さんが私にセーターをあげました。"
-correct: "田中さんが私にセーターをくれました。"
-explanation: "Petunjuknya adalah くれる is untuk actions toward me/my side. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "田中さんが私にセーターを____ました。"
+optionA: "くれ"
+optionB: "あげ"
+correct: "くれ"
+explanation: "くれ benar. くれる is untuk actions toward me/my side"
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Saya menerima sweater dari Tanaka-san."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "私は田中さんにセーターをもらいました。"
-optionB: "田中さんは私にセーターをもらいました。"
-correct: "私は田中さんにセーターをもらいました。"
-explanation: "Petunjuknya adalah もらう uses the receiver as subject. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "____にセーターをもらいました。"
+optionA: "私は田中さん"
+optionB: "田中さんは私"
+correct: "私は田中さん"
+explanation: "私は田中さん benar. もらう uses the receiver as subject"
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Terima kasih sudah mengajari saya."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "教えてくれてありがとう。"
-optionB: "教えてあげてありがとう。"
-correct: "教えてくれてありがとう。"
-explanation: "Petunjuknya adalah Thanking someone untuk help uses 〜てくれる. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "教えて____てありがとう。"
+optionA: "くれ"
+optionB: "あげ"
+correct: "くれ"
+explanation: "くれ benar. Thanking someone untuk help uses 〜てくれる"
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Saya mendapat bantuan teman untuk mengantar saya ke Stasiun Tokyo."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "友だちに東京駅まで連れて行ってもらいました。"
-optionB: "友だちを東京駅まで連れて行ってもらいました。"
-correct: "友だちに東京駅まで連れて行ってもらいました。"
-explanation: "Petunjuknya adalah Receiving help uses person に + 〜てもらう. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "友だち____東京駅まで連れて行ってもらいました。"
+optionA: "に"
+optionB: "を"
+correct: "に"
+explanation: "に benar. Receiving help uses person に + 〜てもらう"
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih contoh yang sesuai dengan arti: Memberi / menerima barang."
-sentence: "Konteks pola: 〜をあげる・〜をくれる・〜をもらう"
-optionA: "田中さんが私にセーターをくれました。"
-optionB: "友だちの引っこしを手伝ってあげました。"
-correct: "田中さんが私にセーターをくれました。"
-explanation: "〜をあげる・〜をくれる・〜をもらう dipilih karena fungsinya memberi / menerima barang. Cek konteks sebelum memilih."
+question: "Pola apa yang dipakai untuk arti: Memberi / menerima barang?"
+sentence: "例: 田中さんが私にセーターをくれました。 ポイント: ____"
+optionA: "〜をあげる・〜をくれる・〜をもらう"
+optionB: "〜てあげる"
+correct: "〜をあげる・〜をくれる・〜をもらう"
+explanation: "〜をあげる・〜をくれる・〜をもらう benar karena kalimat contoh menunjukkan memberi / menerima barang."
 ---
 ::
 

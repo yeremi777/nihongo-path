@@ -165,60 +165,60 @@ Catatan untuk pembelajar Indonesia: Indonesian “jadi” can translate both そ
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat untuk melengkapi kalimat. Penjelasan baru muncul setelah kamu memilih.
 
 ::MiniPractice
 ---
 question: "Ada kecelakaan kereta, jadi saya terlambat."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "電車で事故がありました。それで、遅れました。"
-optionB: "電車で事故がありました。それに、遅れました。"
-correct: "電車で事故がありました。それで、遅れました。"
-explanation: "Petunjuknya adalah それで／だから connect reason to result. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "電車で事故がありました。それ____、遅れました。"
+optionA: "で"
+optionB: "に"
+correct: "で"
+explanation: "で benar. それで／だから connect reason to result"
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Hari itu hari ujian. Namun, ternyata saya tidak bisa ikut karena sakit."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "試験の日でした。ところが、病気で受けられませんでした。"
-optionB: "試験の日でした。それで、病気で受けられませんでした。"
-correct: "試験の日でした。ところが、病気で受けられませんでした。"
-explanation: "Petunjuknya adalah ところが menunjukkan an unexpected result. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "試験の日でした。____、病気で受けられませんでした。"
+optionA: "ところが"
+optionB: "それで"
+correct: "ところが"
+explanation: "ところが benar. ところが menunjukkan an unexpected result"
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Tolong beri tahu saya cara membaca kanji ini."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "この漢字の読み方を教えてください。"
-optionB: "この漢字の読む方を教えてください。"
-correct: "この漢字の読み方を教えてください。"
-explanation: "Petunjuknya adalah V方 uses the verb stem. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "この漢字の読____方を教えてください。"
+optionA: "み"
+optionB: "む"
+correct: "み"
+explanation: "み benar. V方 uses the verb stem"
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih contoh yang sesuai dengan arti: Selain itu; terlebih lagi."
-sentence: "Konteks pola: それに・そのうえ"
-optionA: "この店は安いです。それに、おいしいです。"
-optionB: "電車で事故がありました。それで、遅れました。"
-correct: "この店は安いです。それに、おいしいです。"
-explanation: "それに・そのうえ dipilih karena fungsinya selain itu; terlebih lagi. Cek konteks sebelum memilih."
+question: "Pola apa yang dipakai untuk arti: Selain itu; terlebih lagi?"
+sentence: "例: この店は安いです。それに、おいしいです。 ポイント: ____"
+optionA: "それに・そのうえ"
+optionB: "それで・だから"
+correct: "それに・そのうえ"
+explanation: "それに・そのうえ benar karena kalimat contoh menunjukkan selain itu; terlebih lagi."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih contoh yang sesuai dengan arti: Karena itu; jadi."
-sentence: "Konteks pola: それで・だから"
-optionA: "電車で事故がありました。それで、遅れました。"
-optionB: "昨日は試験の日でした。ところが、病気で受けられませんでした。"
-correct: "電車で事故がありました。それで、遅れました。"
-explanation: "それで・だから dipilih karena fungsinya karena itu; jadi. Cek konteks sebelum memilih."
+question: "Pola apa yang dipakai untuk arti: Karena itu; jadi?"
+sentence: "例: 電車で事故がありました。それで、遅れました。 ポイント: ____"
+optionA: "それで・だから"
+optionB: "ところが"
+correct: "それで・だから"
+explanation: "それで・だから benar karena kalimat contoh menunjukkan karena itu; jadi."
 ---
 ::
 

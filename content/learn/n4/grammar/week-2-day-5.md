@@ -167,60 +167,60 @@ Catatan untuk pembelajar Indonesia: Indonesian “begini/begitu/seperti ini/sepe
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
-
-::MiniPractice
----
-question: "Saya ingin tinggal di rumah seperti ini."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "こんな家に住みたいです。"
-optionB: "こんなに家に住みたいです。"
-correct: "こんな家に住みたいです。"
-explanation: "Petunjuknya adalah こんな modifies nouns. Perhatikan partikel, bentuk verba, dan konteks."
----
-::
-
-::MiniPractice
----
-question: "Padahal saya belajar sebanyak ini, nilai saya buruk."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "こんなに勉強しているのに、成績が悪いです。"
-optionB: "こんな勉強しているのに、成績が悪いです。"
-correct: "こんなに勉強しているのに、成績が悪いです。"
-explanation: "Petunjuknya adalah こんなに menunjukkan degree. Perhatikan partikel, bentuk verba, dan konteks."
----
-::
+Pilih jawaban yang paling tepat untuk melengkapi kalimat. Penjelasan baru muncul setelah kamu memilih.
 
 ::MiniPractice
 ---
 question: "Ini ditulis begini dalam kanji."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "これは漢字でこう書きます。"
-optionB: "これは漢字でこんな書きます。"
-correct: "これは漢字でこう書きます。"
-explanation: "Petunjuknya adalah こう modifies how an action is done. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "これは漢字でこ____書きます。"
+optionA: "う"
+optionB: "んな"
+correct: "う"
+explanation: "う benar. こう modifies how an action is done"
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Itu artinya apa?"
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "それはどういう意味ですか。"
-optionB: "それはどう意味ですか。"
-correct: "それはどういう意味ですか。"
-explanation: "Petunjuknya adalah Meaning question uses どういう意味. Perhatikan partikel, bentuk verba, dan konteks."
+question: "Pola apa yang dipakai untuk arti: ~ seperti ini/itu/apa?"
+sentence: "例: 私もこんな家に住みたいです。 ポイント: ____"
+optionA: "こんな・そんな・あんな・どんな + N"
+optionB: "こんなに・そんなに・あんなに・どんなに"
+correct: "こんな・そんな・あんな・どんな + N"
+explanation: "こんな・そんな・あんな・どんな + N benar karena kalimat contoh menunjukkan ~ seperti ini/itu/apa."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih contoh yang sesuai dengan arti: ~ seperti ini/itu/apa."
-sentence: "Konteks pola: こんな・そんな・あんな・どんな + N"
-optionA: "私もこんな家に住みたいです。"
-optionB: "そんなにむずかしかったんですか。"
-correct: "私もこんな家に住みたいです。"
-explanation: "こんな・そんな・あんな・どんな + N dipilih karena fungsinya ~ seperti ini/itu/apa. Cek konteks sebelum memilih."
+question: "Pola apa yang dipakai untuk arti: Sebegini/sebegitu/seberapa ~?"
+sentence: "例: そんなにむずかしかったんですか。 ポイント: ____"
+optionA: "こんなに・そんなに・あんなに・どんなに"
+optionB: "こう・そう・ああ・どう"
+correct: "こんなに・そんなに・あんなに・どんなに"
+explanation: "こんなに・そんなに・あんなに・どんなに benar karena kalimat contoh menunjukkan sebegini/sebegitu/seberapa ~."
+---
+::
+
+::MiniPractice
+---
+question: "Pola apa yang dipakai untuk arti: Begini; begitu; bagaimana?"
+sentence: "例: これは漢字でこう書きます。 ポイント: ____"
+optionA: "こう・そう・ああ・どう"
+optionB: "〜というN・〜っていうN"
+correct: "こう・そう・ああ・どう"
+explanation: "こう・そう・ああ・どう benar karena kalimat contoh menunjukkan begini; begitu; bagaimana."
+---
+::
+
+::MiniPractice
+---
+question: "Pola apa yang dipakai untuk arti: Yang disebut ~; bernama ~?"
+sentence: "例: 目黒というところに住んでいます。 ポイント: ____"
+optionA: "〜というN・〜っていうN"
+optionB: "どういうN"
+correct: "〜というN・〜っていうN"
+explanation: "〜というN・〜っていうN benar karena kalimat contoh menunjukkan yang disebut ~; bernama ~."
 ---
 ::
 

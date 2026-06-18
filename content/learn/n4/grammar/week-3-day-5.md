@@ -214,60 +214,60 @@ Catatan untuk pembelajar Indonesia: Indonesian “tolong” can sound polite in 
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat untuk melengkapi kalimat. Penjelasan baru muncul setelah kamu memilih.
 
 ::MiniPractice
 ---
 question: "Bisakah kamu membantu saya?"
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "手伝ってくれませんか。"
-optionB: "手伝るくれませんか。"
-correct: "手伝ってくれませんか。"
-explanation: "Petunjuknya adalah Polite request uses Vて form. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "手伝____くれませんか。"
+optionA: "って"
+optionB: "る"
+correct: "って"
+explanation: "って benar. Polite request uses Vて form"
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Sensei, bisakah Anda berkenan melihat karangan ini?"
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "先生、この作文を見ていただけませんか。"
-optionB: "先生、この作文を見てくれませんか。"
-correct: "先生、この作文を見ていただけませんか。"
-explanation: "Petunjuknya adalah いただけませんか is very polite. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "先生、この作文を見て____ませんか。"
+optionA: "いただけ"
+optionB: "くれ"
+correct: "いただけ"
+explanation: "いただけ benar. いただけませんか is very polite"
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Saya ingin ayah saya cepat sehat kembali."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "父に早く元気になってほしいです。"
-optionB: "父を早く元気になってほしいです。"
-correct: "父に早く元気になってほしいです。"
-explanation: "Petunjuknya adalah Wanting someone to do something uses に. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "父____早く元気になってほしいです。"
+optionA: "に"
+optionB: "を"
+correct: "に"
+explanation: "に benar. Wanting someone to do something uses に"
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih contoh yang sesuai dengan arti: Bisakah melakukan ~ untuk saya?."
-sentence: "Konteks pola: 〜てくれませんか"
-optionA: "ちょっと手伝ってくれませんか。"
-optionB: "静かにしてもらえませんか。"
-correct: "ちょっと手伝ってくれませんか。"
-explanation: "〜てくれませんか dipilih karena fungsinya bisakah melakukan ~ untuk saya?. Cek konteks sebelum memilih."
+question: "Pola apa yang dipakai untuk arti: Bisakah melakukan ~ untuk saya??"
+sentence: "例: ちょっと手伝ってくれませんか。 ポイント: ____"
+optionA: "〜てくれませんか"
+optionB: "〜てもらえませんか"
+correct: "〜てくれませんか"
+explanation: "〜てくれませんか benar karena kalimat contoh menunjukkan bisakah melakukan ~ untuk saya?."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih contoh yang sesuai dengan arti: Bisakah saya meminta Anda melakukan ~?."
-sentence: "Konteks pola: 〜てもらえませんか"
-optionA: "静かにしてもらえませんか。"
-optionB: "もう一度言ってくださいませんか。"
-correct: "静かにしてもらえませんか。"
-explanation: "〜てもらえませんか dipilih karena fungsinya bisakah saya meminta anda melakukan ~?. Cek konteks sebelum memilih."
+question: "Pola apa yang dipakai untuk arti: Bisakah saya meminta Anda melakukan ~??"
+sentence: "例: 静かにしてもらえませんか。 ポイント: ____"
+optionA: "〜てもらえませんか"
+optionB: "〜てくださいませんか"
+correct: "〜てもらえませんか"
+explanation: "〜てもらえませんか benar karena kalimat contoh menunjukkan bisakah saya meminta anda melakukan ~?."
 ---
 ::
 

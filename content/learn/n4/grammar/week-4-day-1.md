@@ -150,60 +150,60 @@ Catatan untuk pembelajar Indonesia: Indonesian “kalau” can translate 〜た�
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat untuk melengkapi kalimat. Penjelasan baru muncul setelah kamu memilih.
 
 ::MiniPractice
 ---
 question: "Kalau libur musim panas tiba, saya akan pulang ke negara saya."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "夏休みになったら、国に帰ります。"
-optionB: "夏休みになると、国に帰ります。"
-correct: "夏休みになったら、国に帰ります。"
-explanation: "Petunjuknya adalah Personal future action usually uses 〜たら, not 〜と. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "夏休みにな____、国に帰ります。"
+optionA: "ったら"
+optionB: "ると"
+correct: "ったら"
+explanation: "ったら benar. Personal future action usually uses 〜たら, not 〜と"
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Kalau mau ke Stasiun Tokyo, kereta bawah tanah praktis."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "東京駅に行くなら、地下鉄が便利です。"
-optionB: "東京駅に行くと、地下鉄が便利です。"
-correct: "東京駅に行くなら、地下鉄が便利です。"
-explanation: "Petunjuknya adalah Advice based on a topic uses 〜なら. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "東京駅に行く____、地下鉄が便利です。"
+optionA: "なら"
+optionB: "と"
+correct: "なら"
+explanation: "なら benar. Advice based on a topic uses 〜なら"
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Kalau tombol ini ditekan, pintunya terbuka."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "このボタンを押すと、ドアが開きます。"
-optionB: "このボタンを押したら、ドアがいつも開きます。"
-correct: "このボタンを押すと、ドアが開きます。"
-explanation: "Petunjuknya adalah Automatic results gunakan 〜と. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "このボタンを押____開きます。"
+optionA: "すと、ドアが"
+optionB: "したら、ドアがいつも"
+correct: "すと、ドアが"
+explanation: "すと、ドアが benar. Automatic results gunakan 〜と"
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih contoh yang sesuai dengan arti: Kalau/ketika ~; setelah ~ terjadi."
-sentence: "Konteks pola: 〜たら"
-optionA: "雨が降ったら、試合は中止です。"
-optionB: "安ければ、買います。"
-correct: "雨が降ったら、試合は中止です。"
-explanation: "〜たら dipilih karena fungsinya kalau/ketika ~; setelah ~ terjadi. Cek konteks sebelum memilih."
+question: "Pola apa yang dipakai untuk arti: Kalau/ketika ~; setelah ~ terjadi?"
+sentence: "例: 雨が降ったら、試合は中止です。 ポイント: ____"
+optionA: "〜たら"
+optionB: "〜ば"
+correct: "〜たら"
+explanation: "〜たら benar karena kalimat contoh menunjukkan kalau/ketika ~; setelah ~ terjadi."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih contoh yang sesuai dengan arti: Jika ~; kalau ~."
-sentence: "Konteks pola: 〜ば"
-optionA: "安ければ、買います。"
-optionB: "東京駅に行くなら、地下鉄が便利です。"
-correct: "安ければ、買います。"
-explanation: "〜ば dipilih karena fungsinya jika ~; kalau ~. Cek konteks sebelum memilih."
+question: "Pola apa yang dipakai untuk arti: Jika ~; kalau ~?"
+sentence: "例: 安ければ、買います。 ポイント: ____"
+optionA: "〜ば"
+optionB: "〜なら"
+correct: "〜ば"
+explanation: "〜ば benar karena kalimat contoh menunjukkan jika ~; kalau ~."
 ---
 ::
 

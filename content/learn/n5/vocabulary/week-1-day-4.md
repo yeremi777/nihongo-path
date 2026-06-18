@@ -1,10 +1,10 @@
 ---
 title: "ちょっと"
-description: "Belajar kosakata N5 dasar untuk frekuensi, derajat, jumlah, urutan waktu, dan ungkapan sopan sehari-hari."
+description: "Belajar kosakata N5 dasar untuk frekuensi, tingkat, jumlah, urutan waktu, dan ungkapan sopan sehari-hari."
 level: "N5"
 category: "vocabulary"
 topic: "ちょっと"
-topicLabel: "Frekuensi, derajat, dan jumlah"
+topicLabel: "Frekuensi, tingkat, dan jumlah"
 week: 1
 day: 4
 order: 4

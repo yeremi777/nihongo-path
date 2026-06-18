@@ -151,60 +151,60 @@ Catatan untuk pembelajar Indonesia: Indonesian “disuruh” can feel close to b
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
-
-::MiniPractice
----
-question: "Saya dipaksa makan sayur oleh ibu."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "母に野菜を食べさせられました。"
-optionB: "母に野菜を食べられました。"
-correct: "母に野菜を食べさせられました。"
-explanation: "Petunjuknya adalah Being forced to do something uses causative-passive. Perhatikan partikel, bentuk verba, dan konteks."
----
-::
+Pilih jawaban yang paling tepat untuk melengkapi kalimat. Penjelasan baru muncul setelah kamu memilih.
 
 ::MiniPractice
 ---
 question: "Tolong izinkan saya menyalin catatan Anda."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "ノートをコピーさせてください。"
-optionB: "ノートをコピーしてください。"
-correct: "ノートをコピーさせてください。"
-explanation: "Petunjuknya adalah Asking permission uses 〜させてください. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "ノートをコピー____てください。"
+optionA: "させ"
+optionB: "し"
+correct: "させ"
+explanation: "させ benar. Asking permission uses 〜させてください"
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Saya diajak oleh teman, jadi saya pergi ke pesta."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "友だちにさそわれて、パーティーに行きました。"
-optionB: "友だちにさそって、パーティーに行きました。"
-correct: "友だちにさそわれて、パーティーに行きました。"
-explanation: "Petunjuknya adalah Invitation can gunakan passive saat you are invited. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "友だちにさそ____て、パーティーに行きました。"
+optionA: "われ"
+optionB: "っ"
+correct: "われ"
+explanation: "われ benar. Invitation can gunakan passive saat you are invited"
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih contoh yang sesuai dengan arti: Bentuk pasif; dikenai tindakan."
-sentence: "Konteks pola: 受身形"
-optionA: "外国人に道を聞かれました。"
-optionB: "母は子どもに野菜を食べさせました。"
-correct: "外国人に道を聞かれました。"
-explanation: "受身形 dipilih karena fungsinya bentuk pasif; dikenai tindakan. Cek konteks sebelum memilih."
+question: "Pola apa yang dipakai untuk arti: Bentuk pasif; dikenai tindakan?"
+sentence: "例: 外国人に道を聞かれました。 ポイント: ____"
+optionA: "受身形"
+optionB: "〜させる"
+correct: "受身形"
+explanation: "受身形 benar karena kalimat contoh menunjukkan bentuk pasif; dikenai tindakan."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih contoh yang sesuai dengan arti: Menyuruh/membiarkan seseorang melakukan ~."
-sentence: "Konteks pola: 〜させる"
-optionA: "母は子どもに野菜を食べさせました。"
-optionB: "子どものころ、野菜を食べさせられました。"
-correct: "母は子どもに野菜を食べさせました。"
-explanation: "〜させる dipilih karena fungsinya menyuruh/membiarkan seseorang melakukan ~. Cek konteks sebelum memilih."
+question: "Pola apa yang dipakai untuk arti: Menyuruh/membiarkan seseorang melakukan ~?"
+sentence: "例: 母は子どもに野菜を食べさせました。 ポイント: ____"
+optionA: "〜させる"
+optionB: "〜させられる"
+correct: "〜させる"
+explanation: "〜させる benar karena kalimat contoh menunjukkan menyuruh/membiarkan seseorang melakukan ~."
+---
+::
+
+::MiniPractice
+---
+question: "Pola apa yang dipakai untuk arti: Dipaksa/disuruh melakukan ~?"
+sentence: "例: 子どものころ、野菜を食べさせられました。 ポイント: ____"
+optionA: "〜させられる"
+optionB: "〜させてください"
+correct: "〜させられる"
+explanation: "〜させられる benar karena kalimat contoh menunjukkan dipaksa/disuruh melakukan ~."
 ---
 ::
 

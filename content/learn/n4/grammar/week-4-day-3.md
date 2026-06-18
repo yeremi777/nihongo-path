@@ -177,60 +177,60 @@ Catatan untuk pembelajar Indonesia: For Indonesian learners, think of the verb s
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
-
-::MiniPractice
----
-question: "Topi ini terlalu kecil."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "この帽子は小さすぎます。"
-optionB: "この帽子は小さいすぎます。"
-correct: "この帽子は小さすぎます。"
-explanation: "Petunjuknya adalah い-adjective drops い sebelum 〜すぎる. Perhatikan partikel, bentuk verba, dan konteks."
----
-::
+Pilih jawaban yang paling tepat untuk melengkapi kalimat. Penjelasan baru muncul setelah kamu memilih.
 
 ::MiniPractice
 ---
 question: "Pulpen ini mudah dipakai untuk menulis."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "このペンは書きやすいです。"
-optionB: "このペンは書くやすいです。"
-correct: "このペンは書きやすいです。"
-explanation: "Petunjuknya adalah Gunakan verb stem sebelum 〜やすい. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "このペンは書____やすいです。"
+optionA: "き"
+optionB: "く"
+correct: "き"
+explanation: "き benar. Gunakan verb stem sebelum 〜やすい"
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Saya selesai makan."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "ご飯を食べ終わりました。"
-optionB: "ご飯を食べる終わりました。"
-correct: "ご飯を食べ終わりました。"
-explanation: "Petunjuknya adalah Gunakan verb stem sebelum 〜終わる. Perhatikan partikel, bentuk verba, dan konteks."
+question: "Pola apa yang dipakai untuk arti: Terlalu ~?"
+sentence: "例: この帽子は小さすぎます。 ポイント: ____"
+optionA: "〜すぎる"
+optionB: "〜やすい"
+correct: "〜すぎる"
+explanation: "〜すぎる benar karena kalimat contoh menunjukkan terlalu ~."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih contoh yang sesuai dengan arti: Terlalu ~."
-sentence: "Konteks pola: 〜すぎる"
-optionA: "この帽子は小さすぎます。"
-optionB: "このペンは書きやすいです。"
-correct: "この帽子は小さすぎます。"
-explanation: "〜すぎる dipilih karena fungsinya terlalu ~. Cek konteks sebelum memilih."
+question: "Pola apa yang dipakai untuk arti: Mudah untuk ~; cenderung ~?"
+sentence: "例: このペンは書きやすいです。 ポイント: ____"
+optionA: "〜やすい"
+optionB: "〜にくい"
+correct: "〜やすい"
+explanation: "〜やすい benar karena kalimat contoh menunjukkan mudah untuk ~; cenderung ~."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih contoh yang sesuai dengan arti: Mudah untuk ~; cenderung ~."
-sentence: "Konteks pola: 〜やすい"
-optionA: "このペンは書きやすいです。"
-optionB: "この地図はわかりにくいです。"
-correct: "このペンは書きやすいです。"
-explanation: "〜やすい dipilih karena fungsinya mudah untuk ~; cenderung ~. Cek konteks sebelum memilih."
+question: "Pola apa yang dipakai untuk arti: Sulit untuk ~?"
+sentence: "例: この地図はわかりにくいです。 ポイント: ____"
+optionA: "〜にくい"
+optionB: "〜出す"
+correct: "〜にくい"
+explanation: "〜にくい benar karena kalimat contoh menunjukkan sulit untuk ~."
+---
+::
+
+::MiniPractice
+---
+question: "Pola apa yang dipakai untuk arti: Mulai ~ secara tiba-tiba?"
+sentence: "例: 赤ちゃんが急に泣き出しました。 ポイント: ____"
+optionA: "〜出す"
+optionB: "〜終わる"
+correct: "〜出す"
+explanation: "〜出す benar karena kalimat contoh menunjukkan mulai ~ secara tiba-tiba."
 ---
 ::
 

@@ -178,60 +178,60 @@ Catatan untuk pembelajar Indonesia: Indonesian “mau” can translate several J
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat untuk melengkapi kalimat. Penjelasan baru muncul setelah kamu memilih.
 
 ::MiniPractice
 ---
 question: "Tanaka-san berkata bahwa besok dia tidak akan datang."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "田中さんは明日は来ないと言っていました。"
-optionB: "田中さんは明日は来ませんと言っていました。"
-correct: "田中さんは明日は来ないと言っていました。"
-explanation: "Petunjuknya adalah Quotation uses plain form sebelum と. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "田中さんは明日は来____と言っていました。"
+optionA: "ない"
+optionB: "ません"
+correct: "ない"
+explanation: "ない benar. Quotation uses plain form sebelum と"
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Saya sedang berpikir untuk pergi berbelanja besok."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "明日買い物に行こうと思っています。"
-optionB: "明日買い物に行くと思っています。"
-correct: "明日買い物に行こうと思っています。"
-explanation: "Petunjuknya adalah Intention uses volitional + と思う. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "明日買い物に行____と思っています。"
+optionA: "こう"
+optionB: "く"
+correct: "こう"
+explanation: "こう benar. Intention uses volitional + と思う"
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Hari ini saya berniat tidak minum alkohol."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "今日はお酒を飲まないつもりです。"
-optionB: "今日はお酒を飲まないと思うつもりです。"
-correct: "今日はお酒を飲まないつもりです。"
-explanation: "Petunjuknya adalah つもり uses dictionary atau negative form. Perhatikan partikel, bentuk verba, dan konteks."
+question: "Pola apa yang dipakai untuk arti: Mengatakan bahwa ~; kutipan lisan?"
+sentence: "例: 田中さんは明日は来ないと言っていました。 ポイント: ____"
+optionA: "〜と言う・〜って言う"
+optionB: "〜と言われる"
+correct: "〜と言う・〜って言う"
+explanation: "〜と言う・〜って言う benar karena kalimat contoh menunjukkan mengatakan bahwa ~; kutipan lisan."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih contoh yang sesuai dengan arti: Mengatakan bahwa ~; kutipan lisan."
-sentence: "Konteks pola: 〜と言う・〜って言う"
-optionA: "田中さんは明日は来ないと言っていました。"
-optionB: "医者にお酒を飲むなと言われました。"
-correct: "田中さんは明日は来ないと言っていました。"
-explanation: "〜と言う・〜って言う dipilih karena fungsinya mengatakan bahwa ~; kutipan lisan. Cek konteks sebelum memilih."
+question: "Pola apa yang dipakai untuk arti: Diberi tahu bahwa ~; dikatakan bahwa ~?"
+sentence: "例: 医者にお酒を飲むなと言われました。 ポイント: ____"
+optionA: "〜と言われる"
+optionB: "〜と思う"
+correct: "〜と言われる"
+explanation: "〜と言われる benar karena kalimat contoh menunjukkan diberi tahu bahwa ~; dikatakan bahwa ~."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih contoh yang sesuai dengan arti: Diberi tahu bahwa ~; dikatakan bahwa ~."
-sentence: "Konteks pola: 〜と言われる"
-optionA: "医者にお酒を飲むなと言われました。"
-optionB: "明日は雨だと思います。"
-correct: "医者にお酒を飲むなと言われました。"
-explanation: "〜と言われる dipilih karena fungsinya diberi tahu bahwa ~; dikatakan bahwa ~. Cek konteks sebelum memilih."
+question: "Pola apa yang dipakai untuk arti: Saya pikir bahwa ~?"
+sentence: "例: 明日は雨だと思います。 ポイント: ____"
+optionA: "〜と思う"
+optionB: "Vよう"
+correct: "〜と思う"
+explanation: "〜と思う benar karena kalimat contoh menunjukkan saya pikir bahwa ~."
 ---
 ::
 

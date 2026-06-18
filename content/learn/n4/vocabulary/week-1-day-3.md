@@ -4,7 +4,7 @@ description: "Belajar kosakata N4 untuk membicarakan kondisi tubuh, sakit, berga
 level: "N4"
 category: "vocabulary"
 topic: "気分はどう？"
-topicLabel: "Kondisi tubuh dan membawa"
+topicLabel: "Kondisi tubuh dan antar-jemput"
 week: 1
 day: 3
 order: 3

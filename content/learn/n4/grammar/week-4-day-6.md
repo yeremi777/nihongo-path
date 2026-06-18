@@ -165,60 +165,60 @@ Catatan untuk pembelajar Indonesia: Japanese sentence-ending particles often do 
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
-
-::MiniPractice
----
-question: "Kenapa kamu tidak pergi ke pesta?"
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "どうしてパーティーに行かないんですか。"
-optionB: "どうしてパーティーに行かないですか。"
-correct: "どうしてパーティーに行かないんですか。"
-explanation: "Petunjuknya adalah Asking untuk a reason uses 〜んですか. Perhatikan partikel, bentuk verba, dan konteks."
----
-::
+Pilih jawaban yang paling tepat untuk melengkapi kalimat. Penjelasan baru muncul setelah kamu memilih.
 
 ::MiniPractice
 ---
 question: "Tes kanji itu besok, lho."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "漢字のテストは明日ですよ。"
-optionB: "漢字のテストは明日ですね。"
-correct: "漢字のテストは明日ですよ。"
-explanation: "Petunjuknya adalah New information atau reminder uses 〜よ. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "漢字のテストは明日です____。"
+optionA: "よ"
+optionB: "ね"
+correct: "よ"
+explanation: "よ benar. New information atau reminder uses 〜よ"
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kakak perempuan Tom cantik sekali ya."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "トムさんのおねえさん、きれいだなあ。"
-optionB: "トムさんのおねえさん、きれいなあ。"
-correct: "トムさんのおねえさん、きれいだなあ。"
-explanation: "Petunjuknya adalah な-adjective sebelum なあ usually needs だ. Perhatikan partikel, bentuk verba, dan konteks."
+question: "Pola apa yang dipakai untuk arti: Penjelasan/alasan; meminta penjelasan?"
+sentence: "例: どうしてパーティーに行かないんですか。 ポイント: ____"
+optionA: "〜んです・〜のです"
+optionB: "〜なあ"
+correct: "〜んです・〜のです"
+explanation: "〜んです・〜のです benar karena kalimat contoh menunjukkan penjelasan/alasan; meminta penjelasan."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih contoh yang sesuai dengan arti: Penjelasan/alasan; meminta penjelasan."
-sentence: "Konteks pola: 〜んです・〜のです"
-optionA: "どうしてパーティーに行かないんですか。"
-optionB: "試験、むずかしかったなあ。"
-correct: "どうしてパーティーに行かないんですか。"
-explanation: "〜んです・〜のです dipilih karena fungsinya penjelasan/alasan; meminta penjelasan. Cek konteks sebelum memilih."
+question: "Pola apa yang dipakai untuk arti: Perasaan, kekaguman, keterkejutan?"
+sentence: "例: 試験、むずかしかったなあ。 ポイント: ____"
+optionA: "〜なあ"
+optionB: "〜ね"
+correct: "〜なあ"
+explanation: "〜なあ benar karena kalimat contoh menunjukkan perasaan, kekaguman, keterkejutan."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih contoh yang sesuai dengan arti: Perasaan, kekaguman, keterkejutan."
-sentence: "Konteks pola: 〜なあ"
-optionA: "試験、むずかしかったなあ。"
-optionB: "いい天気ですね。"
-correct: "試験、むずかしかったなあ。"
-explanation: "〜なあ dipilih karena fungsinya perasaan, kekaguman, keterkejutan. Cek konteks sebelum memilih."
+question: "Pola apa yang dipakai untuk arti: Konfirmasi/persetujuan?"
+sentence: "例: いい天気ですね。 ポイント: ____"
+optionA: "〜ね"
+optionB: "〜よ"
+correct: "〜ね"
+explanation: "〜ね benar karena kalimat contoh menunjukkan konfirmasi/persetujuan."
+---
+::
+
+::MiniPractice
+---
+question: "Pola apa yang dipakai untuk arti: Penekanan, pengingat, peringatan?"
+sentence: "例: 雨が降っていますよ。 ポイント: ____"
+optionA: "〜よ"
+optionB: "〜かな・〜かしら"
+correct: "〜よ"
+explanation: "〜よ benar karena kalimat contoh menunjukkan penekanan, pengingat, peringatan."
 ---
 ::
 

@@ -177,60 +177,60 @@ Catatan untuk pembelajar Indonesia: In Indonesian, “sepertinya” can cover ma
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat untuk melengkapi kalimat. Penjelasan baru muncul setelah kamu memilih.
 
 ::MiniPractice
 ---
 question: "Kelihatannya akan turun hujan."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "雨が降りそうです。"
-optionB: "雨が降るそうです。"
-correct: "雨が降りそうです。"
-explanation: "Petunjuknya adalah Appearance uses 〜そうだ, not hearsay 〜そうだ. Perhatikan partikel, bentuk verba, dan konteks."
----
-::
-
-::MiniPractice
----
-question: "Katanya ayah Tanaka-san sehat."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "田中さんのお父さんは元気だそうです。"
-optionB: "田中さんのお父さんは元気そうです。"
-correct: "田中さんのお父さんは元気だそうです。"
-explanation: "Petunjuknya adalah Hearsay keeps the plain form sebelum そうだ. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "雨が降____そうです。"
+optionA: "り"
+optionB: "る"
+correct: "り"
+explanation: "り benar. Appearance uses 〜そうだ, not hearsay 〜そうだ"
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Cuaca besok kelihatannya bagus."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "明日は天気がよさそうです。"
-optionB: "明日は天気がいいそうです。"
-correct: "明日は天気がよさそうです。"
-explanation: "Petunjuknya adalah いい becomes よさそう. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "明日は天気が____そうです。"
+optionA: "よさ"
+optionB: "いい"
+correct: "よさ"
+explanation: "よさ benar. いい becomes よさそう"
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih contoh yang sesuai dengan arti: Sepertinya ~."
-sentence: "Konteks pola: 〜ようだ"
-optionA: "主人は疲れているようです。"
-optionB: "このパソコンはこわれているみたいです。"
-correct: "主人は疲れているようです。"
-explanation: "〜ようだ dipilih karena fungsinya sepertinya ~. Cek konteks sebelum memilih."
+question: "Pola apa yang dipakai untuk arti: Sepertinya ~?"
+sentence: "例: 主人は疲れているようです。 ポイント: ____"
+optionA: "〜ようだ"
+optionB: "〜みたいだ"
+correct: "〜ようだ"
+explanation: "〜ようだ benar karena kalimat contoh menunjukkan sepertinya ~."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih contoh yang sesuai dengan arti: Sepertinya ~; seperti ~."
-sentence: "Konteks pola: 〜みたいだ"
-optionA: "このパソコンはこわれているみたいです。"
-optionB: "雨が降りそうです。"
-correct: "このパソコンはこわれているみたいです。"
-explanation: "〜みたいだ dipilih karena fungsinya sepertinya ~; seperti ~. Cek konteks sebelum memilih."
+question: "Pola apa yang dipakai untuk arti: Sepertinya ~; seperti ~?"
+sentence: "例: このパソコンはこわれているみたいです。 ポイント: ____"
+optionA: "〜みたいだ"
+optionB: "〜そうだ（様態）"
+correct: "〜みたいだ"
+explanation: "〜みたいだ benar karena kalimat contoh menunjukkan sepertinya ~; seperti ~."
+---
+::
+
+::MiniPractice
+---
+question: "Pola apa yang dipakai untuk arti: Terlihat/sepertinya ~ dari tampilan?"
+sentence: "例: 雨が降りそうです。 ポイント: ____"
+optionA: "〜そうだ（様態）"
+optionB: "〜そうだ（伝聞）"
+correct: "〜そうだ（様態）"
+explanation: "〜そうだ（様態） benar karena kalimat contoh menunjukkan terlihat/sepertinya ~ dari tampilan."
 ---
 ::
 

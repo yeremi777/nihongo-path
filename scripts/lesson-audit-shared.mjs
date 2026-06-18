@@ -98,13 +98,27 @@ export const auditMiniPractice = (text, push) => {
 
   for (const [index, block] of miniBlocks.entries()) {
     const question = fieldValue(block, 'question')
+    const sentence = fieldValue(block, 'sentence')
     const optionA = fieldValue(block, 'optionA')
     const optionB = fieldValue(block, 'optionB')
     const correct = fieldValue(block, 'correct')
 
-    if (!question || !optionA || !optionB || !correct) {
-      push(`MiniPractice ${index + 1} is missing question, optionA, optionB, or correct`)
+    if (!question || !sentence || !optionA || !optionB || !correct) {
+      push(`MiniPractice ${index + 1} is missing question, sentence, optionA, optionB, or correct`)
       continue
+    }
+
+    if (
+      sentence === '____' ||
+      sentence === '文脈に合う表現を選びましょう。' ||
+      sentence === 'Pilih kalimat Jepang yang tepat untuk konteks ini.' ||
+      sentence.startsWith('Konteks pola:')
+    ) {
+      push(`MiniPractice ${index + 1} uses a weak fallback sentence instead of a concrete prompt`)
+    }
+
+    if (question.startsWith('Pilih contoh yang sesuai')) {
+      push(`MiniPractice ${index + 1} uses a weak generated question`)
     }
 
     if (correct !== optionA && correct !== optionB) {

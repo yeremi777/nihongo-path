@@ -153,60 +153,60 @@ Catatan untuk pembelajar Indonesia: Indonesian “sambil” is often **〜なが
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat untuk melengkapi kalimat. Penjelasan baru muncul setelah kamu memilih.
 
 ::MiniPractice
 ---
 question: "Karena panas, tolong buka jendelanya."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "暑いから、窓を開けてください。"
-optionB: "暑くて、窓を開けてください。"
-correct: "暑いから、窓を開けてください。"
-explanation: "Petunjuknya adalah Gunakan から／ので sebelum requests. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "暑____、窓を開けてください。"
+optionA: "いから"
+optionB: "くて"
+correct: "いから"
+explanation: "いから benar. Gunakan から／ので sebelum requests"
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Saya pergi ke sekolah tanpa sarapan."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "朝ご飯を食べないで学校へ行きました。"
-optionB: "朝ご飯を食べなくて学校へ行きました。"
-correct: "朝ご飯を食べないで学校へ行きました。"
-explanation: "Petunjuknya adalah Without doing uses ないで. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "朝ご飯を食べな____学校へ行きました。"
+optionA: "いで"
+optionB: "くて"
+correct: "いで"
+explanation: "いで benar. Without doing uses ないで"
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Saya tidur dengan jendela tetap terbuka."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "窓を開けたまま寝ました。"
-optionB: "窓を開けながら寝ました。"
-correct: "窓を開けたまま寝ました。"
-explanation: "Petunjuknya adalah まま keeps the state unchanged. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "窓を開け____寝ました。"
+optionA: "たまま"
+optionB: "ながら"
+correct: "たまま"
+explanation: "たまま benar. まま keeps the state unchanged"
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Saya belajar sambil mendengarkan musik."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "音楽を聞きながら勉強しています。"
-optionB: "音楽を聞いてながら勉強しています。"
-correct: "音楽を聞きながら勉強しています。"
-explanation: "Petunjuknya adalah ながら attaches to verb stem. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "音楽を聞____ながら勉強しています。"
+optionA: "き"
+optionB: "いて"
+correct: "き"
+explanation: "き benar. ながら attaches to verb stem"
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih contoh yang sesuai dengan arti: Karena ~; sebab atau alasan."
-sentence: "Konteks pola: 〜て・〜で（原因）"
-optionA: "かぜをひいて、学校を休みました。"
-optionB: "辞書を使って調べました。"
-correct: "かぜをひいて、学校を休みました。"
-explanation: "〜て・〜で（原因） dipilih karena fungsinya karena ~; sebab atau alasan. Cek konteks sebelum memilih."
+question: "Pola apa yang dipakai untuk arti: Karena ~; sebab atau alasan?"
+sentence: "例: かぜをひいて、学校を休みました。 ポイント: ____"
+optionA: "〜て・〜で（原因）"
+optionB: "〜て・〜ないで（方法）"
+correct: "〜て・〜で（原因）"
+explanation: "〜て・〜で（原因） benar karena kalimat contoh menunjukkan karena ~; sebab atau alasan."
 ---
 ::
 

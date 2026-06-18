@@ -135,60 +135,60 @@ Catatan untuk pembelajar Indonesia: Indonesian “coba” often matches **〜て
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat untuk melengkapi kalimat. Penjelasan baru muncul setelah kamu memilih.
 
 ::MiniPractice
 ---
 question: "Saya akan bersih-bersih dulu sebelum tamu datang."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "お客さんが来る前に、そうじしておきます。"
-optionB: "お客さんが来る前に、そうじしてしまいます。"
-correct: "お客さんが来る前に、そうじしておきます。"
-explanation: "Petunjuknya adalah Preparation uses 〜ておく. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "お客さんが来る前に、そうじして____ます。"
+optionA: "おき"
+optionB: "しまい"
+correct: "おき"
+explanation: "おき benar. Preparation uses 〜ておく"
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Saya tidak sengaja meninggalkan payung di dalam kereta."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "電車の中にかさを忘れてしまいました。"
-optionB: "電車の中にかさを忘れておきました。"
-correct: "電車の中にかさを忘れてしまいました。"
-explanation: "Petunjuknya adalah Regrettable accident uses 〜てしまう. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "電車の中にかさを忘れて____ました。"
+optionA: "しまい"
+optionB: "おき"
+correct: "しまい"
+explanation: "しまい benar. Regrettable accident uses 〜てしまう"
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Coba makan masakan ini."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "この料理を食べてみてください。"
-optionB: "この料理を食べるみてください。"
-correct: "この料理を食べてみてください。"
-explanation: "Petunjuknya adalah Trying something uses Vて+みる. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "この料理を食べ____みてください。"
+optionA: "て"
+optionB: "る"
+correct: "て"
+explanation: "て benar. Trying something uses Vて+みる"
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih contoh yang sesuai dengan arti: Melakukan sebagai persiapan; membiarkan tetap begitu."
-sentence: "Konteks pola: 〜ておく"
-optionA: "お客さんが来る前に、そうじしておきます。"
-optionB: "電車の中にかさを忘れてしまいました。"
-correct: "お客さんが来る前に、そうじしておきます。"
-explanation: "〜ておく dipilih karena fungsinya melakukan sebagai persiapan; membiarkan tetap begitu. Cek konteks sebelum memilih."
+question: "Pola apa yang dipakai untuk arti: Melakukan sebagai persiapan; membiarkan tetap begitu?"
+sentence: "例: お客さんが来る前に、そうじしておきます。 ポイント: ____"
+optionA: "〜ておく"
+optionB: "〜てしまう"
+correct: "〜ておく"
+explanation: "〜ておく benar karena kalimat contoh menunjukkan melakukan sebagai persiapan; membiarkan tetap begitu."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih contoh yang sesuai dengan arti: Selesai sepenuhnya; terlanjur / tidak sengaja ~."
-sentence: "Konteks pola: 〜てしまう"
-optionA: "電車の中にかさを忘れてしまいました。"
-optionB: "これ、おいしいですよ。食べてみてください。"
-correct: "電車の中にかさを忘れてしまいました。"
-explanation: "〜てしまう dipilih karena fungsinya selesai sepenuhnya; terlanjur / tidak sengaja ~. Cek konteks sebelum memilih."
+question: "Pola apa yang dipakai untuk arti: Selesai sepenuhnya; terlanjur / tidak sengaja ~?"
+sentence: "例: 電車の中にかさを忘れてしまいました。 ポイント: ____"
+optionA: "〜てしまう"
+optionB: "〜てみる"
+correct: "〜てしまう"
+explanation: "〜てしまう benar karena kalimat contoh menunjukkan selesai sepenuhnya; terlanjur / tidak sengaja ~."
 ---
 ::
 

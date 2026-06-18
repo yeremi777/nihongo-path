@@ -192,60 +192,60 @@ Catatan untuk pembelajar Indonesia: Indonesian “untuk” and “supaya” can 
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat untuk melengkapi kalimat. Penjelasan baru muncul setelah kamu memilih.
 
 ::MiniPractice
 ---
 question: "Saya menabung untuk membeli rumah."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "家を買うために、貯金しています。"
-optionB: "家を買うように、貯金しています。"
-correct: "家を買うために、貯金しています。"
-explanation: "Petunjuknya adalah Direct purpose uses 〜ために. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "家を買う____に、貯金しています。"
+optionA: "ため"
+optionB: "よう"
+correct: "ため"
+explanation: "ため benar. Direct purpose uses 〜ために"
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Saya mencatat supaya tidak lupa."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "忘れないように、メモします。"
-optionB: "忘れないために、メモします。"
-correct: "忘れないように、メモします。"
-explanation: "Petunjuknya adalah Prevention/state goal uses 〜ように. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "忘れない____に、メモします。"
+optionA: "よう"
+optionB: "ため"
+correct: "よう"
+explanation: "よう benar. Prevention/state goal uses 〜ように"
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Saya menjadi bisa berbicara bahasa Jepang."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "日本語が話せるようになりました。"
-optionB: "日本語が話せるようにしました。"
-correct: "日本語が話せるようになりました。"
-explanation: "Petunjuknya adalah Ability change uses 〜ようになる. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "日本語が話せるように____ました。"
+optionA: "なり"
+optionB: "し"
+correct: "なり"
+explanation: "なり benar. Ability change uses 〜ようになる"
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Saya membiasakan untuk menyikat gigi setiap hari."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "毎日、歯をみがくようにしています。"
-optionB: "毎日、歯をみがくようになっています。"
-correct: "毎日、歯をみがくようにしています。"
-explanation: "Petunjuknya adalah Habit/effort uses 〜ようにする. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "毎日、歯をみがくように____ています。"
+optionA: "し"
+optionB: "なっ"
+correct: "し"
+explanation: "し benar. Habit/effort uses 〜ようにする"
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Saya disuruh ibu untuk pulang cepat."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "母から早く帰るように言われました。"
-optionB: "母から早く帰るように言いました。"
-correct: "母から早く帰るように言われました。"
-explanation: "Petunjuknya adalah Passive instruction uses 〜ように言われる. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "母から早く帰るように言____ました。"
+optionA: "われ"
+optionB: "い"
+correct: "われ"
+explanation: "われ benar. Passive instruction uses 〜ように言われる"
 ---
 ::
 

@@ -217,60 +217,60 @@ Catatan untuk pembelajar Indonesia: Indonesian “menjadi” and “membuat menj
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat untuk melengkapi kalimat. Penjelasan baru muncul setelah kamu memilih.
 
 ::MiniPractice
 ---
 question: "Saya pernah mendaki Gunung Fuji."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "富士山に登ったことがあります。"
-optionB: "富士山に登ることがあります。"
-correct: "富士山に登ったことがあります。"
-explanation: "Petunjuknya adalah Past experience uses Vたことがある. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "富士山に登____ことがあります。"
+optionA: "った"
+optionB: "る"
+correct: "った"
+explanation: "った benar. Past experience uses Vたことがある"
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Saya kadang-kadang memasak saat libur."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "休みの日に料理することがあります。"
-optionB: "休みの日に料理したことがあります。"
-correct: "休みの日に料理することがあります。"
-explanation: "Petunjuknya adalah Sometimes uses Vることがある. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "休みの日に料理____ことがあります。"
+optionA: "する"
+optionB: "した"
+correct: "する"
+explanation: "する benar. Sometimes uses Vることがある"
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Saya memutuskan untuk belajar setiap hari."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "毎日勉強することにしました。"
-optionB: "毎日勉強することになります。"
-correct: "毎日勉強することにしました。"
-explanation: "Petunjuknya adalah Personal decision uses ことにする. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "毎日勉強することに____。"
+optionA: "しました"
+optionB: "なります"
+correct: "しました"
+explanation: "しました benar. Personal decision uses ことにする"
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Diputuskan bahwa bulan depan kami akan pergi ke kebun binatang dari sekolah."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "学校で来月、動物園へ行くことになりました。"
-optionB: "学校で来月、動物園へ行くことにしました。"
-correct: "学校で来月、動物園へ行くことになりました。"
-explanation: "Petunjuknya adalah Outside decision uses ことになる. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "学校で来月、動物園へ行くことに____ました。"
+optionA: "なり"
+optionB: "し"
+correct: "なり"
+explanation: "なり benar. Outside decision uses ことになる"
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Saya membuat kamar menjadi terang."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "部屋を明るくしました。"
-optionB: "部屋が明るくしました。"
-correct: "部屋を明るくしました。"
-explanation: "Petunjuknya adalah Object changed by someone takes を dengan 〜くする. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "部屋____明るくしました。"
+optionA: "を"
+optionB: "が"
+correct: "を"
+explanation: "を benar. Object changed by someone takes を dengan 〜くする"
 ---
 ::
 

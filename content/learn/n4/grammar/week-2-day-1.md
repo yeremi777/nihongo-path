@@ -203,60 +203,60 @@ Catatan untuk pembelajar Indonesia: Indonesian “harus” can become several Ja
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat untuk melengkapi kalimat. Penjelasan baru muncul setelah kamu memilih.
 
 ::MiniPractice
 ---
 question: "Saya harus mengerjakan PR."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "宿題をしなければなりません。"
-optionB: "宿題をするなければなりません。"
-correct: "宿題をしなければなりません。"
-explanation: "Petunjuknya adalah Obligation uses the negative base. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "宿題を____なければなりません。"
+optionA: "し"
+optionB: "する"
+correct: "し"
+explanation: "し benar. Obligation uses the negative base"
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Kamu tidak perlu datang besok."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "明日、来なくてもいいです。"
-optionB: "明日、来なくてもいけません。"
-correct: "明日、来なくてもいいです。"
-explanation: "Petunjuknya adalah 〜なくてもいい berarti “do not have to”. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "明日、来なくてもい____。"
+optionA: "いです"
+optionB: "けません"
+correct: "いです"
+explanation: "いです benar. 〜なくてもいい berarti “do not have to”"
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Tidak boleh memakai pena saat ujian."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "テストのとき、ペンを使ってはいけません。"
-optionB: "テストのとき、ペンを使わなくてもいいです。"
-correct: "テストのとき、ペンを使ってはいけません。"
-explanation: "Petunjuknya adalah Prohibition uses Vてはいけない. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "テストのとき、ペンを使____。"
+optionA: "ってはいけません"
+optionB: "わなくてもいいです"
+correct: "ってはいけません"
+explanation: "ってはいけません benar. Prohibition uses Vてはいけない"
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Saya harus mencuci pakaian."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "洗濯しなきゃ。"
-optionB: "洗濯しなきゃいけないです。"
-correct: "洗濯しなきゃ。"
-explanation: "Petunjuknya adalah Casual “must” often omits いけない. Perhatikan partikel, bentuk verba, dan konteks."
+question: "Pola apa yang dipakai untuk arti: Harus; wajib?"
+sentence: "例: 明日は早く起きなければなりません。 ポイント: ____"
+optionA: "〜なければならない"
+optionB: "〜なくてはいけない"
+correct: "〜なければならない"
+explanation: "〜なければならない benar karena kalimat contoh menunjukkan harus; wajib."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih contoh yang sesuai dengan arti: Harus; wajib."
-sentence: "Konteks pola: 〜なければならない"
-optionA: "明日は早く起きなければなりません。"
-optionB: "今週は日曜日も会社に行かなくてはいけません。"
-correct: "明日は早く起きなければなりません。"
-explanation: "〜なければならない dipilih karena fungsinya harus; wajib. Cek konteks sebelum memilih."
+question: "Pola apa yang dipakai untuk arti: Harus; wajib?"
+sentence: "例: 今週は日曜日も会社に行かなくてはいけません。 ポイント: ____"
+optionA: "〜なくてはいけない"
+optionB: "〜ないといけない"
+correct: "〜なくてはいけない"
+explanation: "〜なくてはいけない benar karena kalimat contoh menunjukkan harus; wajib."
 ---
 ::
 

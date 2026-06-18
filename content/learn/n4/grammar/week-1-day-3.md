@@ -167,60 +167,60 @@ Catatan untuk pembelajar Indonesia: Indonesian “sampai” can mean both **ま�
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
-
-::MiniPractice
----
-question: "Tolong datang paling lambat jam 9."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "9時までに来てください。"
-optionB: "9時まで来てください。"
-correct: "9時までに来てください。"
-explanation: "Petunjuknya adalah Deadline uses までに. Perhatikan partikel, bentuk verba, dan konteks."
----
-::
-
-::MiniPractice
----
-question: "Saya akan menunggu sampai jam 5."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "5時まで待ちます。"
-optionB: "5時までに待ちます。"
-correct: "5時まで待ちます。"
-explanation: "Petunjuknya adalah Continuing action uses まで. Perhatikan partikel, bentuk verba, dan konteks."
----
-::
-
-::MiniPractice
----
-question: "Saya melakukan hal seperti pergi belanja dan menonton film."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "買い物に行ったり映画を見たりします。"
-optionB: "買い物に行ったり映画を見ます。"
-correct: "買い物に行ったり映画を見たりします。"
-explanation: "Petunjuknya adalah たり repeats setelah each example verb. Perhatikan partikel, bentuk verba, dan konteks."
----
-::
+Pilih jawaban yang paling tepat untuk melengkapi kalimat. Penjelasan baru muncul setelah kamu memilih.
 
 ::MiniPractice
 ---
 question: "Restoran ini murah dan enak."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "この店は安いし、おいしいです。"
-optionB: "この店は安いしおいしいしです。"
-correct: "この店は安いし、おいしいです。"
-explanation: "Petunjuknya adalah し connects full clauses. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "この店は安いし____です。"
+optionA: "、おいしい"
+optionB: "おいしいし"
+correct: "、おいしい"
+explanation: "、おいしい benar. し connects full clauses"
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih contoh yang sesuai dengan arti: Sampai ~."
-sentence: "Konteks pola: 〜まで"
-optionA: "5時まで勉強します。"
-optionB: "9時までに来てください。"
-correct: "5時まで勉強します。"
-explanation: "〜まで dipilih karena fungsinya sampai ~. Cek konteks sebelum memilih."
+question: "Pola apa yang dipakai untuk arti: Sampai ~?"
+sentence: "例: 5時まで勉強します。 ポイント: ____"
+optionA: "〜まで"
+optionB: "〜までに"
+correct: "〜まで"
+explanation: "〜まで benar karena kalimat contoh menunjukkan sampai ~."
+---
+::
+
+::MiniPractice
+---
+question: "Pola apa yang dipakai untuk arti: Paling lambat ~; sebelum tenggat?"
+sentence: "例: 9時までに来てください。 ポイント: ____"
+optionA: "〜までに"
+optionB: "〜たり〜たりする"
+correct: "〜までに"
+explanation: "〜までに benar karena kalimat contoh menunjukkan paling lambat ~; sebelum tenggat."
+---
+::
+
+::MiniPractice
+---
+question: "Pola apa yang dipakai untuk arti: Melakukan hal seperti ~ dan ~?"
+sentence: "例: 休みの日は買い物に行ったり映画を見たりします。 ポイント: ____"
+optionA: "〜たり〜たりする"
+optionB: "〜し〜し"
+correct: "〜たり〜たりする"
+explanation: "〜たり〜たりする benar karena kalimat contoh menunjukkan melakukan hal seperti ~ dan ~."
+---
+::
+
+::MiniPractice
+---
+question: "Pola apa yang dipakai untuk arti: Dan juga; selain itu; menyebutkan alasan/sifat?"
+sentence: "例: この店は安いし、おいしいです。 ポイント: ____"
+optionA: "〜し〜し"
+optionB: "〜ばかり"
+correct: "〜し〜し"
+explanation: "〜し〜し benar karena kalimat contoh menunjukkan dan juga; selain itu; menyebutkan alasan/sifat."
 ---
 ::
 

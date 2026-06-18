@@ -168,60 +168,60 @@ Catatan untuk pembelajar Indonesia: Indonesian “jangan” can become several J
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat untuk melengkapi kalimat. Penjelasan baru muncul setelah kamu memilih.
 
 ::MiniPractice
 ---
 question: "Kamu sebaiknya belajar lebih banyak."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "もっと勉強したほうがいいです。"
-optionB: "もっと勉強するほうがいいです。"
-correct: "もっと勉強したほうがいいです。"
-explanation: "Petunjuknya adalah Positive advice uses Vた+ほうがいい. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "もっと勉強____ほうがいいです。"
+optionA: "した"
+optionB: "する"
+correct: "した"
+explanation: "した benar. Positive advice uses Vた+ほうがいい"
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Kamu sebaiknya tidak pergi ke tempat berbahaya."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "あぶないところには行かないほうがいいです。"
-optionB: "あぶないところには行ったないほうがいいです。"
-correct: "あぶないところには行かないほうがいいです。"
-explanation: "Petunjuknya adalah Negative advice uses Vない+ほうがいい. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "あぶないところには行____ないほうがいいです。"
+optionA: "か"
+optionB: "った"
+correct: "か"
+explanation: "か benar. Negative advice uses Vない+ほうがいい"
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Jangan mengebut."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "スピードを出すな。"
-optionB: "スピードを出さないな。"
-correct: "スピードを出すな。"
-explanation: "Petunjuknya adalah Prohibition uses dictionary form + な. Perhatikan partikel, bentuk verba, dan konteks."
----
-::
-
-::MiniPractice
----
-question: "Cepat bangun."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "早く起きなさい。"
-optionB: "早く起きるなさい。"
-correct: "早く起きなさい。"
-explanation: "Petunjuknya adalah 〜なさい uses the masu-stem. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "スピードを出____な。"
+optionA: "す"
+optionB: "さない"
+correct: "す"
+explanation: "す benar. Prohibition uses dictionary form + な"
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Saya dilarang dokter untuk minum alkohol."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "医者に酒を飲むなと言われました。"
-optionB: "医者に酒を飲まないと言われました。"
-correct: "医者に酒を飲むなと言われました。"
-explanation: "Petunjuknya adalah Quoted prohibition uses V辞書形+なと言われる. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "医者に酒を飲____と言われました。"
+optionA: "むな"
+optionB: "まない"
+correct: "むな"
+explanation: "むな benar. Quoted prohibition uses V辞書形+なと言われる"
+---
+::
+
+::MiniPractice
+---
+question: "Pola apa yang dipakai untuk arti: Sebaiknya melakukan ~?"
+sentence: "例: わからないところは先生に聞いたほうがいいです。 ポイント: ____"
+optionA: "〜たほうがいい"
+optionB: "〜ないほうがいい"
+correct: "〜たほうがいい"
+explanation: "〜たほうがいい benar karena kalimat contoh menunjukkan sebaiknya melakukan ~."
 ---
 ::
 

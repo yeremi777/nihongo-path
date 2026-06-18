@@ -179,60 +179,60 @@ Catatan untuk pembelajar Indonesia: Indonesian “sedang” often maps to **Vて
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
-
-::MiniPractice
----
-question: "Saya baru akan pergi sekarang."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "今から出かけるところです。"
-optionB: "今から出かけているところです。"
-correct: "今から出かけるところです。"
-explanation: "Petunjuknya adalah About to do uses Vるところ. Perhatikan partikel, bentuk verba, dan konteks."
----
-::
+Pilih jawaban yang paling tepat untuk melengkapi kalimat. Penjelasan baru muncul setelah kamu memilih.
 
 ::MiniPractice
 ---
 question: "Saya baru saja makan siang."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "今、昼ご飯を食べたところです。"
-optionB: "今、昼ご飯を食べるところです。"
-correct: "今、昼ご飯を食べたところです。"
-explanation: "Petunjuknya adalah Just finished uses Vたところ. Perhatikan partikel, bentuk verba, dan konteks."
----
-::
-
-::MiniPractice
----
-question: "Teman datang saat saya sedang tidak di rumah."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "留守の間に、友達が来ました。"
-optionB: "留守間に、友達が来ました。"
-correct: "留守の間に、友達が来ました。"
-explanation: "Petunjuknya adalah Noun sebelum 間に uses の. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "今、昼ご飯を食べ____ところです。"
+optionA: "た"
+optionB: "る"
+correct: "た"
+explanation: "た benar. Just finished uses Vたところ"
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Saya akan membuat paspor saat/sebelum pergi ke Jepang."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "日本へ行くとき、パスポートを取ります。"
-optionB: "日本へ行ったとき、パスポートを取ります。"
-correct: "日本へ行くとき、パスポートを取ります。"
-explanation: "Petunjuknya adalah Vるとき dan Vたとき can change timing. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "日本へ行____とき、パスポートを取ります。"
+optionA: "く"
+optionB: "った"
+correct: "く"
+explanation: "く benar. Vるとき dan Vたとき can change timing"
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih contoh yang sesuai dengan arti: Baru akan melakukan ~."
-sentence: "Konteks pola: 〜ところ"
-optionA: "今から出かけるところです。"
-optionB: "今、勉強しているところです。"
-correct: "今から出かけるところです。"
-explanation: "〜ところ dipilih karena fungsinya baru akan melakukan ~. Cek konteks sebelum memilih."
+question: "Pola apa yang dipakai untuk arti: Baru akan melakukan ~?"
+sentence: "例: 今から出かけるところです。 ポイント: ____"
+optionA: "〜ところ"
+optionB: "〜ているところ"
+correct: "〜ところ"
+explanation: "〜ところ benar karena kalimat contoh menunjukkan baru akan melakukan ~."
+---
+::
+
+::MiniPractice
+---
+question: "Pola apa yang dipakai untuk arti: Sedang melakukan ~?"
+sentence: "例: 今、勉強しているところです。 ポイント: ____"
+optionA: "〜ているところ"
+optionB: "〜たところ"
+correct: "〜ているところ"
+explanation: "〜ているところ benar karena kalimat contoh menunjukkan sedang melakukan ~."
+---
+::
+
+::MiniPractice
+---
+question: "Pola apa yang dipakai untuk arti: Baru saja selesai melakukan ~?"
+sentence: "例: 今、昼ご飯を食べたところです。 ポイント: ____"
+optionA: "〜たところ"
+optionB: "〜間に"
+correct: "〜たところ"
+explanation: "〜たところ benar karena kalimat contoh menunjukkan baru saja selesai melakukan ~."
 ---
 ::
 

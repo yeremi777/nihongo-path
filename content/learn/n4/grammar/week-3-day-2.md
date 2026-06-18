@@ -165,60 +165,60 @@ Catatan untuk pembelajar Indonesia: Indonesian “bisa dengar” and “bisa lih
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat untuk melengkapi kalimat. Penjelasan baru muncul setelah kamu memilih.
 
 ::MiniPractice
 ---
 question: "Terdengar suara dari kamar sebelah."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "隣の部屋から音が聞こえます。"
-optionB: "隣の部屋から音が聞けます。"
-correct: "隣の部屋から音が聞こえます。"
-explanation: "Petunjuknya adalah Natural sound uses 聞こえる. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "隣の部屋から音が聞____ます。"
+optionA: "こえ"
+optionB: "け"
+correct: "こえ"
+explanation: "こえ benar. Natural sound uses 聞こえる"
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Dari jendela ini terlihat gunung."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "この窓から山が見えます。"
-optionB: "この窓から山が見られます。"
-correct: "この窓から山が見えます。"
-explanation: "Petunjuknya adalah Natural visibility uses 見える. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "この窓から山が見____ます。"
+optionA: "え"
+optionB: "られ"
+correct: "え"
+explanation: "え benar. Natural visibility uses 見える"
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Terlihat anak-anak sedang bermain."
-sentence: "Pilih kalimat Jepang yang tepat untuk konteks ini."
-optionA: "子どもが遊んでいるのが見えます。"
-optionB: "子どもが遊んでいることが見えます。"
-correct: "子どもが遊んでいるのが見えます。"
-explanation: "Petunjuknya adalah Perception action uses 〜のが／〜のを. Perhatikan partikel, bentuk verba, dan konteks."
+sentence: "子どもが遊んでいる____が見えます。"
+optionA: "の"
+optionB: "こと"
+correct: "の"
+explanation: "の benar. Perception action uses 〜のが／〜のを"
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih contoh yang sesuai dengan arti: Bentuk potensial; bisa melakukan ~."
-sentence: "Konteks pola: 可能形"
-optionA: "私は日本語が少し話せます。"
-optionB: "隣の部屋から音が聞こえます。"
-correct: "私は日本語が少し話せます。"
-explanation: "可能形 dipilih karena fungsinya bentuk potensial; bisa melakukan ~. Cek konteks sebelum memilih."
+question: "Pola apa yang dipakai untuk arti: Bentuk potensial; bisa melakukan ~?"
+sentence: "例: 私は日本語が少し話せます。 ポイント: ____"
+optionA: "可能形"
+optionB: "聞こえる・聞ける"
+correct: "可能形"
+explanation: "可能形 benar karena kalimat contoh menunjukkan bentuk potensial; bisa melakukan ~."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih contoh yang sesuai dengan arti: Terdengar / bisa mendengar atau mendengarkan."
-sentence: "Konteks pola: 聞こえる・聞ける"
-optionA: "隣の部屋から音が聞こえます。"
-optionB: "ここから海が見えます。"
-correct: "隣の部屋から音が聞こえます。"
-explanation: "聞こえる・聞ける dipilih karena fungsinya terdengar / bisa mendengar atau mendengarkan. Cek konteks sebelum memilih."
+question: "Pola apa yang dipakai untuk arti: Terdengar / bisa mendengar atau mendengarkan?"
+sentence: "例: 隣の部屋から音が聞こえます。 ポイント: ____"
+optionA: "聞こえる・聞ける"
+optionB: "見える・見られる"
+correct: "聞こえる・聞ける"
+explanation: "聞こえる・聞ける benar karena kalimat contoh menunjukkan terdengar / bisa mendengar atau mendengarkan."
 ---
 ::
 
