@@ -28,18 +28,26 @@ export default defineEventHandler(async (event) => {
     })
   }
 
-  const results = await Promise.all(texts.map(async (raw) => {
-    const text = raw.trim()
-    if (!text || !KANJI_RE.test(text) || RUBY_RE.test(text)) {
-      return text
+  try {
+    const results = await Promise.all(texts.map(async (raw) => {
+      const text = raw.trim()
+      if (!text || !KANJI_RE.test(text) || RUBY_RE.test(text)) {
+        return text
+      }
+
+      return convertToFuriganaHtml(text)
+    }))
+
+    if (texts.length === 1) {
+      return { html: results[0] }
     }
 
-    return convertToFuriganaHtml(text)
-  }))
-
-  if (texts.length === 1) {
-    return { html: results[0] }
+    return { html: results }
+  } catch (cause) {
+    console.error('[furigana] conversion failed', cause)
+    throw createError({
+      statusCode: 500,
+      statusMessage: cause instanceof Error ? cause.message : 'Furigana conversion failed'
+    })
   }
-
-  return { html: results }
 })
