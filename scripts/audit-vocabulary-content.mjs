@@ -71,14 +71,25 @@ const auditVocabularyFile = (file, text) => {
     .split("\n")
     .filter((line) => line.trim().startsWith("|") && !line.includes("---"));
 
-  if (lessonMeta?.level === "N5" && wordRows.length > 32) {
-    warn(`N5 vocabulary lesson has ${wordRows.length - 1} table row(s); review whether the beginner load is too dense`);
+  const wordGroups = (daftarKata.match(/^###\s+/gm) ?? []).length;
+  if (lessonMeta?.level === "N5" && wordRows.length > 32 && wordGroups < 3) {
+    warn(
+      `N5 vocabulary lesson has ${wordRows.length} word row(s) but only ${wordGroups} group heading(s); split dense source lists into learner-friendly groups`,
+    );
   }
 
   if (lessonMeta?.level === "N3") {
-    const usageSignals = ["kolokasi", "frasa", "konteks", "nuansa", "sering muncul"];
+    const usageSignals = [
+      "kolokasi",
+      "frasa",
+      "konteks",
+      "nuansa",
+      "sering muncul",
+    ];
     if (!usageSignals.some((signal) => text.toLowerCase().includes(signal))) {
-      warn("N3 vocabulary should usually include collocation, context, or nuance notes");
+      warn(
+        "N3 vocabulary should usually include collocation, context, or nuance notes",
+      );
     }
   }
 
