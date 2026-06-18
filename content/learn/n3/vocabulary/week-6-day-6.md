@@ -81,12 +81,11 @@ Kata kerja hari ini harus dibaca dengan objeknya: 席を立つ bukan hanya "berd
 ## Contoh Kalimat
 
 <div class="example-list">
-
-- 席を立って窓を開けました。
-- 先生が作文を直してくれました。
-- 毎日、日記をつけています。
-- 電気をつけてください。
-- 駅の周りを回りました。
+  <div><p class="jp">席を立って窓を開けました。</p><p>Saya berdiri dari kursi dan membuka jendela.</p></div>
+  <div><p class="jp">先生が作文を直してくれました。</p><p>Guru memperbaiki karangan saya.</p></div>
+  <div><p class="jp">毎日、日記をつけています。</p><p>Saya menulis buku harian setiap hari.</p></div>
+  <div><p class="jp">電気をつけてください。</p><p>Tolong nyalakan lampunya.</p></div>
+  <div><p class="jp">駅の周りを回りました。</p><p>Saya berkeliling di sekitar stasiun.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar

@@ -71,11 +71,13 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 ## Contoh Kalimat
 
-1. 同級生と同時に教室へ入りました。
-2. この文を何回読みましたか。
-3. 毎晩、少し勉強します。
-4. 郵便局で航空便を使います。
-5. 作文を集めて先生に出します。
+<div class="example-list">
+  <div><p class="jp">同級生と同時に教室へ入りました。</p><p>Saya masuk kelas bersamaan dengan teman sekelas.</p></div>
+  <div><p class="jp">この文を何回読みましたか。</p><p>Berapa kali Anda membaca kalimat ini?</p></div>
+  <div><p class="jp">毎晩、少し勉強します。</p><p>Saya belajar sedikit setiap malam.</p></div>
+  <div><p class="jp">郵便局で航空便を使います。</p><p>Saya memakai pos udara di kantor pos.</p></div>
+  <div><p class="jp">作文を集めて先生に出します。</p><p>Saya mengumpulkan karangan lalu menyerahkannya kepada guru.</p></div>
+</div>
 
 ## Hal yang Mudah Tertukar
 

@@ -106,12 +106,11 @@ Alurnya adalah soal -> jawaban -> pengecekan -> perbaikan -> pengumpulan. Untuk 
 ## Contoh Kalimat
 
 <div class="example-list">
-
-- 試験の前にノートを暗記します。
-- 問題用紙に答えを書いてください。
-- レポートの下書きをしてから清書します。
-- 提出期限を守りましょう。
-- 聞き取れなかったので、聞き直しました。
+  <div><p class="jp">試験の前にノートを暗記します。</p><p>Saya menghafal catatan sebelum ujian.</p></div>
+  <div><p class="jp">問題用紙に答えを書いてください。</p><p>Tolong tulis jawaban di lembar soal.</p></div>
+  <div><p class="jp">レポートの下書きをしてから清書します。</p><p>Saya membuat draf laporan, lalu menulis versi rapi.</p></div>
+  <div><p class="jp">提出期限を守りましょう。</p><p>Mari patuhi tenggat pengumpulan.</p></div>
+  <div><p class="jp">聞き取れなかったので、聞き直しました。</p><p>Karena tidak bisa menangkap ucapannya, saya bertanya lagi.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar

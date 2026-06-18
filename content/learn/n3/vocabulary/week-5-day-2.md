@@ -94,12 +94,11 @@ Alurnya bisa berupa perkenalan -> tanya asal/pekerjaan/tempat tinggal -> kunjung
 ## Contoh Kalimat
 
 <div class="example-list">
-
-- はじめまして、どうぞよろしくお願いします。
-- どうぞお上がりください。
-- おじゃまします。
-- 先日はありがとうございました。
-- お先に失礼します。
+  <div><p class="jp">はじめまして、どうぞよろしくお願いします。</p><p>Senang berkenalan dengan Anda.</p></div>
+  <div><p class="jp">どうぞお上がりください。</p><p>Silakan masuk.</p></div>
+  <div><p class="jp">おじゃまします。</p><p>Permisi, saya masuk.</p></div>
+  <div><p class="jp">先日はありがとうございました。</p><p>Terima kasih untuk waktu itu.</p></div>
+  <div><p class="jp">お先に失礼します。</p><p>Saya permisi pulang lebih dulu.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar

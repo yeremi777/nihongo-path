@@ -69,11 +69,13 @@ Untuk angka dan batas, cari 以, 号, 番, dan 度. Untuk ruang, cari 内. Untuk
 
 ## Contoh Kalimat
 
-1. 102号室は三階以内にあります。
-2. 交番で電話番号を聞きました。
-3. 今度、洋服を買いに行きます。
-4. 室内では安全に注意します。
-5. 全部の服をかばんに入れました。
+<div class="example-list">
+  <div><p class="jp">102号室は三階以内にあります。</p><p>Ruang 102 berada paling jauh di lantai tiga.</p></div>
+  <div><p class="jp">交番で電話番号を聞きました。</p><p>Saya menanyakan nomor telepon di pos polisi.</p></div>
+  <div><p class="jp">今度、洋服を買いに行きます。</p><p>Lain kali saya akan pergi membeli pakaian Barat.</p></div>
+  <div><p class="jp">室内では安全に注意します。</p><p>Di dalam ruangan, saya memperhatikan keselamatan.</p></div>
+  <div><p class="jp">全部の服をかばんに入れました。</p><p>Saya memasukkan semua pakaian ke dalam tas.</p></div>
+</div>
 
 ## Hal yang Mudah Tertukar
 

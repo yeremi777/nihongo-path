@@ -85,12 +85,11 @@ Urutan umum teks medis adalah orang/tempat -> gejala -> pemeriksaan -> obat/pera
 ## Contoh Kalimat
 
 <div class="example-list">
-
-- 熱があるので医院へ行きます。
-- 医師に症状を説明しました。
-- 薬を飲んで安静にしてください。
-- 入院した友だちのお見舞いに行きます。
-- 退院してから仕事に戻りました。
+  <div><p class="jp">熱があるので医院へ行きます。</p><p>Karena demam, saya pergi ke klinik.</p></div>
+  <div><p class="jp">医師に症状を説明しました。</p><p>Saya menjelaskan gejala kepada dokter.</p></div>
+  <div><p class="jp">薬を飲んで安静にしてください。</p><p>Minumlah obat dan beristirahatlah.</p></div>
+  <div><p class="jp">入院した友だちのお見舞いに行きます。</p><p>Saya pergi menjenguk teman yang dirawat inap.</p></div>
+  <div><p class="jp">退院してから仕事に戻りました。</p><p>Saya kembali bekerja setelah keluar dari rumah sakit.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar

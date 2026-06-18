@@ -67,11 +67,13 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 ## Contoh Kalimat
 
-1. 食堂の前で小鳥を見ました。
-2. 病院までは徒歩で行けます。
-3. 海岸を散歩しました。
-4. 銀行の近くに大学院があります。
-5. 今年、友だちは帰国します。
+<div class="example-list">
+  <div><p class="jp">食堂の前で小鳥を見ました。</p><p>Saya melihat burung kecil di depan kantin.</p></div>
+  <div><p class="jp">病院までは徒歩で行けます。</p><p>Sampai rumah sakit bisa ditempuh dengan berjalan kaki.</p></div>
+  <div><p class="jp">海岸を散歩しました。</p><p>Saya berjalan-jalan di pantai.</p></div>
+  <div><p class="jp">銀行の近くに大学院があります。</p><p>Ada program pascasarjana dekat bank.</p></div>
+  <div><p class="jp">今年、友だちは帰国します。</p><p>Tahun ini teman saya pulang ke negaranya.</p></div>
+</div>
 
 ## Hal yang Mudah Tertukar
 

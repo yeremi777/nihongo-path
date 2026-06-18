@@ -79,12 +79,11 @@ Adverb hari ini menjelaskan kualitas tindakan. Sebagian menilai kesalahan, sebag
 ## Contoh Kalimat
 
 <div class="example-list">
-
-- うっかり宿題を忘れました。
-- ちゃんと名前を書いてください。
-- 書類をきちんと整理しました。
-- そっとドアを閉めました。
-- わざと間違えたわけではありません。
+  <div><p class="jp">うっかり宿題を忘れました。</p><p>Saya tidak sengaja lupa PR.</p></div>
+  <div><p class="jp">ちゃんと名前を書いてください。</p><p>Tolong tulis nama dengan benar.</p></div>
+  <div><p class="jp">書類をきちんと整理しました。</p><p>Saya merapikan dokumen dengan tertib.</p></div>
+  <div><p class="jp">そっとドアを閉めました。</p><p>Saya menutup pintu pelan-pelan.</p></div>
+  <div><p class="jp">わざと間違えたわけではありません。</p><p>Saya tidak sengaja membuat kesalahan.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar

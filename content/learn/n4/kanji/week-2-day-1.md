@@ -69,11 +69,13 @@ Untuk media visual, cari 映 dan 画. Untuk rencana atau hitungan, cari 計. Unt
 
 ## Contoh Kalimat
 
-1. 映画館で新しい映画を見ました。
-2. 明日の計画を地図で確認します。
-3. 仕事の前に用事があります。
-4. 図書館は地下鉄の駅に近いです。
-5. 時計を見て出発しましょう。
+<div class="example-list">
+  <div><p class="jp">映画館で新しい映画を見ました。</p><p>Saya menonton film baru di bioskop.</p></div>
+  <div><p class="jp">明日の計画を地図で確認します。</p><p>Saya mengecek rencana besok dengan peta.</p></div>
+  <div><p class="jp">仕事の前に用事があります。</p><p>Ada urusan sebelum pekerjaan.</p></div>
+  <div><p class="jp">図書館は地下鉄の駅に近いです。</p><p>Perpustakaan dekat dengan stasiun kereta bawah tanah.</p></div>
+  <div><p class="jp">時計を見て出発しましょう。</p><p>Mari lihat jam lalu berangkat.</p></div>
+</div>
 
 ## Hal yang Mudah Tertukar
 

@@ -67,11 +67,13 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 ## Contoh Kalimat
 
-1. 売店で飲み物を買いました。
-2. 図書館で本を借ります。
-3. 日本語の予習と復習をします。
-4. 乗車前に座席を確認します。
-5. この駅は少し不便です。
+<div class="example-list">
+  <div><p class="jp">売店で飲み物を買いました。</p><p>Saya membeli minuman di kios.</p></div>
+  <div><p class="jp">図書館で本を借ります。</p><p>Saya meminjam buku di perpustakaan.</p></div>
+  <div><p class="jp">日本語の予習と復習をします。</p><p>Saya melakukan persiapan dan pengulangan pelajaran bahasa Jepang.</p></div>
+  <div><p class="jp">乗車前に座席を確認します。</p><p>Saya mengecek kursi sebelum naik kendaraan.</p></div>
+  <div><p class="jp">この駅は少し不便です。</p><p>Stasiun ini agak tidak praktis.</p></div>
+</div>
 
 ## Hal yang Mudah Tertukar
 

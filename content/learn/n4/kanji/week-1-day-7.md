@@ -69,11 +69,13 @@ Untuk bahan, cari 料, 野, 菜, 酒, dan 肉. Untuk tindakan, cari 洗. Untuk r
 
 ## Contoh Kalimat
 
-1. 料理の前に野菜を洗います。
-2. 食料品売り場で牛肉を買いました。
-3. 日本酒は酒屋にあります。
-4. この言葉の意味を調べます。
-5. 米国の料理にも興味があります。
+<div class="example-list">
+  <div><p class="jp">料理の前に野菜を洗います。</p><p>Saya mencuci sayuran sebelum memasak.</p></div>
+  <div><p class="jp">食料品売り場で牛肉を買いました。</p><p>Saya membeli daging sapi di area bahan makanan.</p></div>
+  <div><p class="jp">日本酒は酒屋にあります。</p><p>Sake Jepang ada di toko minuman beralkohol.</p></div>
+  <div><p class="jp">この言葉の意味を調べます。</p><p>Saya mencari arti kata ini.</p></div>
+  <div><p class="jp">米国の料理にも興味があります。</p><p>Saya juga tertarik pada masakan Amerika Serikat.</p></div>
+</div>
 
 ## Hal yang Mudah Tertukar
 

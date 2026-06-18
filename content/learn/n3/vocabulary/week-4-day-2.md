@@ -99,12 +99,11 @@ Kosakata ini tersusun sebagai jalur studi: 受験する -> 合格する -> 学�
 ## Contoh Kalimat
 
 <div class="example-list">
-
-- 経済学部を受験する予定です。
-- 専攻は心理学です。
-- 奨学金をもらって学費を払います。
-- 合格発表を見に行きました。
-- 来年、留学するつもりです。
+  <div><p class="jp">経済学部を受験する予定です。</p><p>Saya berencana mengikuti ujian masuk fakultas ekonomi.</p></div>
+  <div><p class="jp">専攻は心理学です。</p><p>Bidang jurusan saya adalah psikologi.</p></div>
+  <div><p class="jp">奨学金をもらって学費を払います。</p><p>Saya membayar biaya kuliah dengan beasiswa.</p></div>
+  <div><p class="jp">合格発表を見に行きました。</p><p>Saya pergi melihat pengumuman kelulusan.</p></div>
+  <div><p class="jp">来年、留学するつもりです。</p><p>Tahun depan saya berniat belajar di luar negeri.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar

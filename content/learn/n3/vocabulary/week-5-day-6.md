@@ -81,12 +81,11 @@ Kata hari ini menggambarkan keadaan yang terlihat: alam, benda, suara, cahaya, s
 ## Contoh Kalimat
 
 <div class="example-list">
-
-- 庭の花が咲きました。
-- 空が曇ってきました。
-- ガラスが割れてしまいました。
-- 子どもが転んで泣きました。
-- でたらめに答えないでください。
+  <div><p class="jp">庭の花が咲きました。</p><p>Bunga di taman sudah mekar.</p></div>
+  <div><p class="jp">空が曇ってきました。</p><p>Langit mulai mendung.</p></div>
+  <div><p class="jp">ガラスが割れてしまいました。</p><p>Kacanya pecah.</p></div>
+  <div><p class="jp">子どもが転んで泣きました。</p><p>Anak itu jatuh lalu menangis.</p></div>
+  <div><p class="jp">でたらめに答えないでください。</p><p>Tolong jangan menjawab sembarangan.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar

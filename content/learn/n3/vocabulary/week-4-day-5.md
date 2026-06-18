@@ -96,12 +96,11 @@ Kata hari ini dimulai dari perangkat, lalu tindakan dasar, lalu koneksi internet
 ## Contoh Kalimat
 
 <div class="example-list">
-
-- ファイルを開いて画面を見てください。
-- ソフトをインストールしました。
-- ネットにつないで情報を得ます。
-- 中古のノートパソコンを買いました。
-- ブログを始めるつもりです。
+  <div><p class="jp">ファイルを開いて画面を見てください。</p><p>Tolong buka file dan lihat layarnya.</p></div>
+  <div><p class="jp">ソフトをインストールしました。</p><p>Saya sudah memasang perangkat lunaknya.</p></div>
+  <div><p class="jp">ネットにつないで情報を得ます。</p><p>Saya tersambung ke internet dan mendapatkan informasi.</p></div>
+  <div><p class="jp">中古のノートパソコンを買いました。</p><p>Saya membeli laptop bekas.</p></div>
+  <div><p class="jp">ブログを始めるつもりです。</p><p>Saya berniat mulai menulis blog.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar

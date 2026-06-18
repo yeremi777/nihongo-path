@@ -73,11 +73,13 @@ Untuk kondisi tubuh, cari 元 dan 病. Untuk rutinitas pagi-malam, cari 起 dan 
 
 ## Contoh Kalimat
 
-1. 寒中でも元気に起床します。
-2. 暑中は軽食と水を用意します。
-3. 病院の近くに広場があります。
-4. 始業の前に寝室を片づけます。
-5. 終電の時間を確認してください。
+<div class="example-list">
+  <div><p class="jp">寒中でも元気に起床します。</p><p>Saya tetap bangun dengan sehat meski di tengah musim dingin.</p></div>
+  <div><p class="jp">暑中は軽食と水を用意します。</p><p>Saat musim panas terik, saya menyiapkan makanan ringan dan air.</p></div>
+  <div><p class="jp">病院の近くに広場があります。</p><p>Ada lapangan luas dekat rumah sakit.</p></div>
+  <div><p class="jp">始業の前に寝室を片づけます。</p><p>Saya merapikan kamar tidur sebelum mulai bekerja/sekolah.</p></div>
+  <div><p class="jp">終電の時間を確認してください。</p><p>Tolong cek waktu kereta terakhir.</p></div>
+</div>
 
 ## Hal yang Mudah Tertukar
 

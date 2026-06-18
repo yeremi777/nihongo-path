@@ -65,11 +65,13 @@ Untuk bangunan dan toko, cari 屋. Untuk bagian atau departemen, cari 部. Untuk
 
 ## Contoh Kalimat
 
-1. 部屋の近くに本屋があります。
-2. 京都でお土産を買いました。
-3. 兄弟と姉妹で写真を撮ります。
-4. 世界中の人がこの町に来ます。
-5. 部長は産業について話しました。
+<div class="example-list">
+  <div><p class="jp">部屋の近くに本屋があります。</p><p>Ada toko buku dekat kamar.</p></div>
+  <div><p class="jp">京都でお土産を買いました。</p><p>Saya membeli oleh-oleh di Kyoto.</p></div>
+  <div><p class="jp">兄弟と姉妹で写真を撮ります。</p><p>Saudara laki-laki dan perempuan berfoto bersama.</p></div>
+  <div><p class="jp">世界中の人がこの町に来ます。</p><p>Orang dari seluruh dunia datang ke kota ini.</p></div>
+  <div><p class="jp">部長は産業について話しました。</p><p>Manajer departemen berbicara tentang industri.</p></div>
+</div>
 
 ## Hal yang Mudah Tertukar
 

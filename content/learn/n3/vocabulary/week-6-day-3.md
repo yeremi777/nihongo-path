@@ -78,12 +78,11 @@ Kata hari ini menjelaskan dinamika: perasaan di dalam tubuh, perubahan tingkat, 
 ## Contoh Kalimat
 
 <div class="example-list">
-
-- 面接で胸がどきどきしました。
-- 日本語がますますおもしろくなりました。
-- だんだん寒くなってきました。
-- さまざまな意見があります。
-- 涙がぽろぽろ落ちました。
+  <div><p class="jp">面接で胸がどきどきしました。</p><p>Jantung saya berdebar saat wawancara.</p></div>
+  <div><p class="jp">日本語がますますおもしろくなりました。</p><p>Bahasa Jepang menjadi semakin menarik.</p></div>
+  <div><p class="jp">だんだん寒くなってきました。</p><p>Lama-lama cuaca menjadi dingin.</p></div>
+  <div><p class="jp">さまざまな意見があります。</p><p>Ada berbagai macam pendapat.</p></div>
+  <div><p class="jp">涙がぽろぽろ落ちました。</p><p>Air mata jatuh bercucuran.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar

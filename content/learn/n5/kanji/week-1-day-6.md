@@ -90,10 +90,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 ## Contoh Kalimat
 
-1. 今日は天気がいいです。
-2. 魚屋で魚を買います。
-3. 雨の日に店へ行きます。
-4. 白い花があります。
+<div class="example-list">
+  <div><p class="jp">今日は天気がいいです。</p><p>Cuaca hari ini cerah.</p></div>
+  <div><p class="jp">魚屋で魚を買います。</p><p>Saya membeli ikan di toko ikan.</p></div>
+  <div><p class="jp">雨の日に店へ行きます。</p><p>Saya pergi ke toko pada hari hujan.</p></div>
+  <div><p class="jp">白い花があります。</p><p>Ada bunga putih.</p></div>
+</div>
 
 ## Hal yang Mudah Tertukar
 

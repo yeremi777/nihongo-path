@@ -81,12 +81,11 @@ Kata hari ini menghubungkan bagian tubuh -> kondisi -> perubahan. が sering men
 ## Contoh Kalimat
 
 <div class="example-list">
-
-- 虫歯が痛むので歯科へ行きます。
-- 顔色が悪いですね。
-- 背が高くて髪が長い人です。
-- 涙が出そうになりました。
-- 髪をそめるつもりです。
+  <div><p class="jp">虫歯が痛むので歯科へ行きます。</p><p>Karena gigi berlubang terasa sakit, saya pergi ke dokter gigi.</p></div>
+  <div><p class="jp">顔色が悪いですね。</p><p>Wajahmu terlihat pucat.</p></div>
+  <div><p class="jp">背が高くて髪が長い人です。</p><p>Dia orang yang tinggi dan berambut panjang.</p></div>
+  <div><p class="jp">涙が出そうになりました。</p><p>Saya hampir menangis.</p></div>
+  <div><p class="jp">髪をそめるつもりです。</p><p>Saya berniat mewarnai rambut.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar

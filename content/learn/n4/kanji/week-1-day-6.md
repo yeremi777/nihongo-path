@@ -75,11 +75,13 @@ Untuk membaca alamat Jepang, cari urutan besar ke kecil: 都, 府, 県, 市, lal
 
 ## Contoh Kalimat
 
-1. 今朝は朝食を早く食べました。
-2. 夏休みに京都へ行きます。
-3. 東京都と大阪府は名前の最後が違います。
-4. 市役所で住所を聞きました。
-5. 町内の店は昼食の時間に混みます。
+<div class="example-list">
+  <div><p class="jp">今朝は朝食を早く食べました。</p><p>Pagi ini saya sarapan lebih awal.</p></div>
+  <div><p class="jp">夏休みに京都へ行きます。</p><p>Saya pergi ke Kyoto saat liburan musim panas.</p></div>
+  <div><p class="jp">東京都と大阪府は名前の最後が違います。</p><p>Akhir nama Tokyo-to dan Osaka-fu berbeda.</p></div>
+  <div><p class="jp">市役所で住所を聞きました。</p><p>Saya menanyakan alamat di balai kota.</p></div>
+  <div><p class="jp">町内の店は昼食の時間に混みます。</p><p>Toko di lingkungan ini ramai saat waktu makan siang.</p></div>
+</div>
 
 ## Hal yang Mudah Tertukar
 

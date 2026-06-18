@@ -107,12 +107,11 @@ Kata email terbagi menjadi lokasi pesan, kolom informasi, dan perintah tindakan.
 ## Contoh Kalimat
 
 <div class="example-list">
-
-- 件名を入力してからメールを送信します。
-- 写真を添付して返信してください。
-- 受信トレイをチェックしました。
-- 不要なメールを削除します。
-- 送信者のアドレスを登録しました。
+  <div><p class="jp">件名を入力してからメールを送信します。</p><p>Saya memasukkan subjek lalu mengirim email.</p></div>
+  <div><p class="jp">写真を添付して返信してください。</p><p>Tolong lampirkan foto lalu balas emailnya.</p></div>
+  <div><p class="jp">受信トレイをチェックしました。</p><p>Saya sudah mengecek kotak masuk.</p></div>
+  <div><p class="jp">不要なメールを削除します。</p><p>Saya menghapus email yang tidak perlu.</p></div>
+  <div><p class="jp">送信者のアドレスを登録しました。</p><p>Saya mendaftarkan alamat pengirim.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar

@@ -75,11 +75,13 @@ Untuk bentuk mirip, jangan lihat garis besar saja. Cek titik pada 犬 dan 太. U
 
 ## Contoh Kalimat
 
-1. 大学の近くに区役所があります。
-2. 和室で家族の写真を見ました。
-3. 青空と日光がきれいです。
-4. 電池は別の箱に入っています。
-5. この日は特別な思い出です。
+<div class="example-list">
+  <div><p class="jp">大学の近くに区役所があります。</p><p>Ada kantor ward dekat universitas.</p></div>
+  <div><p class="jp">和室で家族の写真を見ました。</p><p>Saya melihat foto keluarga di ruang bergaya Jepang.</p></div>
+  <div><p class="jp">青空と日光がきれいです。</p><p>Langit biru dan sinar matahari terlihat indah.</p></div>
+  <div><p class="jp">電池は別の箱に入っています。</p><p>Baterai ada di kotak yang berbeda.</p></div>
+  <div><p class="jp">この日は特別な思い出です。</p><p>Hari ini adalah kenangan yang istimewa.</p></div>
+</div>
 
 ## Hal yang Mudah Tertukar
 

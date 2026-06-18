@@ -87,10 +87,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 ## Contoh Kalimat
 
-1. 私は日本語を勉強します。
-2. 田中さんは学生です。
-3. 父は本を読みます。
-4. 山田さんは友だちです。
+<div class="example-list">
+  <div><p class="jp">私は日本語を勉強します。</p><p>Saya belajar bahasa Jepang.</p></div>
+  <div><p class="jp">田中さんは学生です。</p><p>Tanaka adalah pelajar.</p></div>
+  <div><p class="jp">父は本を読みます。</p><p>Ayah saya membaca buku.</p></div>
+  <div><p class="jp">山田さんは友だちです。</p><p>Yamada adalah teman saya.</p></div>
+</div>
 
 ## Hal yang Mudah Tertukar
 

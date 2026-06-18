@@ -71,11 +71,13 @@ Untuk tempat, cari 館. Untuk waktu lampau, cari 去. Untuk foto dan gambar, car
 
 ## Contoh Kalimat
 
-1. 去年、有名な旅館に泊まりました。
-2. 美術館で写真を見ました。
-3. 夕方に夕飯を食べます。
-4. 両方の方法を説明してください。
-5. 主人は旅行の写真を見せました。
+<div class="example-list">
+  <div><p class="jp">去年、有名な旅館に泊まりました。</p><p>Tahun lalu saya menginap di ryokan terkenal.</p></div>
+  <div><p class="jp">美術館で写真を見ました。</p><p>Saya melihat foto di museum seni.</p></div>
+  <div><p class="jp">夕方に夕飯を食べます。</p><p>Saya makan malam pada sore menjelang malam.</p></div>
+  <div><p class="jp">両方の方法を説明してください。</p><p>Tolong jelaskan kedua cara itu.</p></div>
+  <div><p class="jp">主人は旅行の写真を見せました。</p><p>Suami saya memperlihatkan foto perjalanan.</p></div>
+</div>
 
 ## Hal yang Mudah Tertukar
 

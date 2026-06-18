@@ -69,11 +69,13 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 ## Contoh Kalimat
 
-1. 漢字の文字を大切に書きます。
-2. 親切な人が場所を教えてくれました。
-3. 会議室で音楽を聞きません。
-4. 切手を買って手紙を送ります。
-5. 自分の教室で試合の話をしました。
+<div class="example-list">
+  <div><p class="jp">漢字の文字を大切に書きます。</p><p>Saya menulis huruf kanji dengan hati-hati.</p></div>
+  <div><p class="jp">親切な人が場所を教えてくれました。</p><p>Orang yang baik hati memberi tahu lokasinya.</p></div>
+  <div><p class="jp">会議室で音楽を聞きません。</p><p>Saya tidak mendengarkan musik di ruang rapat.</p></div>
+  <div><p class="jp">切手を買って手紙を送ります。</p><p>Saya membeli perangko lalu mengirim surat.</p></div>
+  <div><p class="jp">自分の教室で試合の話をしました。</p><p>Saya berbicara tentang pertandingan di kelas sendiri.</p></div>
+</div>
 
 ## Hal yang Mudah Tertukar
 

@@ -79,12 +79,11 @@ Kata keterangan hari ini menjelaskan skala: kapan terjadi, seberapa sering, sebe
 ## Contoh Kalimat
 
 <div class="example-list">
-
-- 突然電話が鳴りました。
-- 宿題をいっぺんに片付けました。
-- かなり難しい問題でした。
-- たいてい朝六時に起きます。
-- ほとんど残っていません。
+  <div><p class="jp">突然電話が鳴りました。</p><p>Telepon tiba-tiba berdering.</p></div>
+  <div><p class="jp">宿題をいっぺんに片付けました。</p><p>Saya menyelesaikan PR sekaligus.</p></div>
+  <div><p class="jp">かなり難しい問題でした。</p><p>Itu soal yang cukup sulit.</p></div>
+  <div><p class="jp">たいてい朝六時に起きます。</p><p>Biasanya saya bangun pukul enam pagi.</p></div>
+  <div><p class="jp">ほとんど残っていません。</p><p>Hampir tidak ada yang tersisa.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar

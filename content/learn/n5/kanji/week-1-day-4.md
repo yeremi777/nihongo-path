@@ -82,10 +82,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 ## Contoh Kalimat
 
-1. 駅は右です。
-2. 出口は左にあります。
-3. 入口は駅前です。
-4. 本は机の上です。
+<div class="example-list">
+  <div><p class="jp">駅は右です。</p><p>Stasiunnya ada di kanan.</p></div>
+  <div><p class="jp">出口は左にあります。</p><p>Pintu keluar ada di kiri.</p></div>
+  <div><p class="jp">入口は駅前です。</p><p>Pintu masuk ada di depan stasiun.</p></div>
+  <div><p class="jp">本は机の上です。</p><p>Buku ada di atas meja.</p></div>
+</div>
 
 ## Hal yang Mudah Tertukar
 

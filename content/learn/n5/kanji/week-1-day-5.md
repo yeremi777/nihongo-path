@@ -86,10 +86,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 ## Contoh Kalimat
 
-1. 私は本を読みます。
-2. 駅で友だちに会います。
-3. 水を飲みます。
-4. 来週、学校へ行きます。
+<div class="example-list">
+  <div><p class="jp">私は本を読みます。</p><p>Saya membaca buku.</p></div>
+  <div><p class="jp">駅で友だちに会います。</p><p>Saya bertemu teman di stasiun.</p></div>
+  <div><p class="jp">水を飲みます。</p><p>Saya minum air.</p></div>
+  <div><p class="jp">来週、学校へ行きます。</p><p>Minggu depan saya pergi ke sekolah.</p></div>
+</div>
 
 ## Hal yang Mudah Tertukar
 

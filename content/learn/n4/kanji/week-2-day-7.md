@@ -63,11 +63,13 @@ Untuk instruksi pintu, cari 押, 引, 開, dan 閉. Untuk pengumuman peringatan,
 
 ## Contoh Kalimat
 
-1. ドアには押すと書いてあります。
-2. 引出しから書類を取ります。
-3. 店の入口に開店時間があります。
-4. 閉店後は入れません。
-5. 雨でイベントは中止です。
+<div class="example-list">
+  <div><p class="jp">ドアには押すと書いてあります。</p><p>Di pintu tertulis "dorong".</p></div>
+  <div><p class="jp">引出しから書類を取ります。</p><p>Saya mengambil dokumen dari laci.</p></div>
+  <div><p class="jp">店の入口に開店時間があります。</p><p>Jam buka ada di pintu masuk toko.</p></div>
+  <div><p class="jp">閉店後は入れません。</p><p>Setelah toko tutup, tidak bisa masuk.</p></div>
+  <div><p class="jp">雨でイベントは中止です。</p><p>Acara dibatalkan karena hujan.</p></div>
+</div>
 
 ## Hal yang Mudah Tertukar
 

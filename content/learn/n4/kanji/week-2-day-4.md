@@ -73,11 +73,13 @@ Untuk lokasi, cari 住 dan 所. Untuk peringatan dan pesanan, cari 注. Untuk se
 
 ## Contoh Kalimat
 
-1. 研究室の住所を確認しました。
-2. 教室で発音を練習します。
-3. 注意の案内を読んでください。
-4. 工場見学の前に音楽の授業があります。
-5. 卒業の日に意見を発表しました。
+<div class="example-list">
+  <div><p class="jp">研究室の住所を確認しました。</p><p>Saya sudah mengecek alamat ruang penelitian.</p></div>
+  <div><p class="jp">教室で発音を練習します。</p><p>Saya berlatih pelafalan di kelas.</p></div>
+  <div><p class="jp">注意の案内を読んでください。</p><p>Tolong baca panduan peringatan.</p></div>
+  <div><p class="jp">工場見学の前に音楽の授業があります。</p><p>Ada pelajaran musik sebelum kunjungan pabrik.</p></div>
+  <div><p class="jp">卒業の日に意見を発表しました。</p><p>Saya menyampaikan pendapat pada hari kelulusan.</p></div>
+</div>
 
 ## Hal yang Mudah Tertukar
 

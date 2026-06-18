@@ -102,12 +102,11 @@ Urutkan kata kerja sebagai proses kerja: 仕事を探す -> 履歴書を書く -
 ## Contoh Kalimat
 
 <div class="example-list">
-
-- コンビニの店員として働いています。
-- 履歴書を書いて面接を受けます。
-- 交通費が出る仕事を探しています。
-- 勤務時間は朝九時からです。
-- 仕事を済ませてから帰ります。
+  <div><p class="jp">コンビニの店員として働いています。</p><p>Saya bekerja sebagai staf minimarket.</p></div>
+  <div><p class="jp">履歴書を書いて面接を受けます。</p><p>Saya menulis CV lalu mengikuti wawancara.</p></div>
+  <div><p class="jp">交通費が出る仕事を探しています。</p><p>Saya mencari pekerjaan yang memberi biaya transportasi.</p></div>
+  <div><p class="jp">勤務時間は朝九時からです。</p><p>Jam kerja dimulai pukul sembilan pagi.</p></div>
+  <div><p class="jp">仕事を済ませてから帰ります。</p><p>Saya pulang setelah menyelesaikan pekerjaan.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar

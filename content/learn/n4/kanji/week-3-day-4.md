@@ -73,11 +73,13 @@ Untuk kesehatan, cari 体 dan 薬. Untuk ujian, cari 試 dan 験. Untuk perasaan
 
 ## Contoh Kalimat
 
-1. 薬局で薬を買いました。
-2. 試験の前に参考書を読みます。
-3. 急行に乗って病院へ行きました。
-4. 体温を見てから働きます。
-5. 声優の声を聞くと安心します。
+<div class="example-list">
+  <div><p class="jp">薬局で薬を買いました。</p><p>Saya membeli obat di apotek.</p></div>
+  <div><p class="jp">試験の前に参考書を読みます。</p><p>Saya membaca buku referensi sebelum ujian.</p></div>
+  <div><p class="jp">急行に乗って病院へ行きました。</p><p>Saya naik kereta cepat ke rumah sakit.</p></div>
+  <div><p class="jp">体温を見てから働きます。</p><p>Saya bekerja setelah mengecek suhu tubuh.</p></div>
+  <div><p class="jp">声優の声を聞くと安心します。</p><p>Saya merasa tenang saat mendengar suara pengisi suara itu.</p></div>
+</div>
 
 ## Hal yang Mudah Tertukar
 

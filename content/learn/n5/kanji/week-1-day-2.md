@@ -80,10 +80,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 ## Contoh Kalimat
 
-1. 今は九時です。
-2. 授業は午前です。
-3. 毎日日本語を読みます。
-4. 来週テストがあります。
+<div class="example-list">
+  <div><p class="jp">今は九時です。</p><p>Sekarang pukul sembilan.</p></div>
+  <div><p class="jp">授業は午前です。</p><p>Kelasnya berlangsung pada pagi hari.</p></div>
+  <div><p class="jp">毎日日本語を読みます。</p><p>Saya membaca bahasa Jepang setiap hari.</p></div>
+  <div><p class="jp">来週テストがあります。</p><p>Minggu depan ada tes.</p></div>
+</div>
 
 ## Hal yang Mudah Tertukar
 

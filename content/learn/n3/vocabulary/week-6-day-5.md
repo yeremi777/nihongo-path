@@ -80,12 +80,11 @@ Makna kata kerja ditentukan oleh pasangan: universitas + 出る, perusahaan + �
 ## Contoh Kalimat
 
 <div class="example-list">
-
-- 兄は大学を出てから会社に入りました。
-- 会議に一時間かかりました。
-- 友だちに心配をかけました。
-- 電話をかけても出ませんでした。
-- 旅行にお金をかけすぎました。
+  <div><p class="jp">兄は大学を出てから会社に入りました。</p><p>Kakak laki-laki saya masuk perusahaan setelah lulus universitas.</p></div>
+  <div><p class="jp">会議に一時間かかりました。</p><p>Rapatnya memakan waktu satu jam.</p></div>
+  <div><p class="jp">友だちに心配をかけました。</p><p>Saya membuat teman khawatir.</p></div>
+  <div><p class="jp">電話をかけても出ませんでした。</p><p>Meski saya menelepon, dia tidak menjawab.</p></div>
+  <div><p class="jp">旅行にお金をかけすぎました。</p><p>Saya menghabiskan terlalu banyak uang untuk perjalanan.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar

@@ -71,11 +71,13 @@ Untuk kondisi benda, cari 低, 短, 弱, 強, 暗, 明, dan 悪. Untuk hubungan 
 
 ## Contoh Kalimat
 
-1. 最近、近所に新しい店ができました。
-2. 遠足の日は短文の日記を書きます。
-3. 暗記だけでなく、説明も読みます。
-4. このアプリは便利なので毎日利用します。
-5. 悪天候の日は強風に注意します。
+<div class="example-list">
+  <div><p class="jp">最近、近所に新しい店ができました。</p><p>Belakangan ini ada toko baru di lingkungan sekitar.</p></div>
+  <div><p class="jp">遠足の日は短文の日記を書きます。</p><p>Pada hari karya wisata, saya menulis buku harian dengan kalimat pendek.</p></div>
+  <div><p class="jp">暗記だけでなく、説明も読みます。</p><p>Saya tidak hanya menghafal, tetapi juga membaca penjelasan.</p></div>
+  <div><p class="jp">このアプリは便利なので毎日利用します。</p><p>Karena aplikasi ini praktis, saya memakainya setiap hari.</p></div>
+  <div><p class="jp">悪天候の日は強風に注意します。</p><p>Pada hari cuaca buruk, saya berhati-hati terhadap angin kencang.</p></div>
+</div>
 
 ## Hal yang Mudah Tertukar
 

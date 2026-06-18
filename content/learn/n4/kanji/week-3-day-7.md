@@ -63,11 +63,13 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 ## Contoh Kalimat
 
-1. 英語の答えを用紙に書きます。
-2. 喫茶店で紅茶を飲みました。
-3. 手紙を郵送します。
-4. 私立の学校で放送を聞きました。
-5. 送別会の案内を読みました。
+<div class="example-list">
+  <div><p class="jp">英語の答えを用紙に書きます。</p><p>Saya menulis jawaban bahasa Inggris di lembar kertas.</p></div>
+  <div><p class="jp">喫茶店で紅茶を飲みました。</p><p>Saya minum teh hitam di kafe.</p></div>
+  <div><p class="jp">手紙を郵送します。</p><p>Saya mengirim surat lewat pos.</p></div>
+  <div><p class="jp">私立の学校で放送を聞きました。</p><p>Saya mendengar siaran di sekolah swasta.</p></div>
+  <div><p class="jp">送別会の案内を読みました。</p><p>Saya membaca pengumuman pesta perpisahan.</p></div>
+</div>
 
 ## Hal yang Mudah Tertukar
 

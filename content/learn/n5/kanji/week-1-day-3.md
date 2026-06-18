@@ -87,10 +87,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 ## Contoh Kalimat
 
-1. この本は大きいです。
-2. この店は安いです。
-3. 私は新聞を読みます。
-4. 学校は駅の近くです。
+<div class="example-list">
+  <div><p class="jp">この本は大きいです。</p><p>Buku ini besar.</p></div>
+  <div><p class="jp">この店は安いです。</p><p>Toko ini murah.</p></div>
+  <div><p class="jp">私は新聞を読みます。</p><p>Saya membaca koran.</p></div>
+  <div><p class="jp">学校は駅の近くです。</p><p>Sekolah berada dekat stasiun.</p></div>
+</div>
 
 ## Hal yang Mudah Tertukar
 

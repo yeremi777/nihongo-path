@@ -108,12 +108,11 @@ Kosakata ini bergerak dari keluarga -> status sekolah -> hubungan kerja -> jabat
 ## Contoh Kalimat
 
 <div class="example-list">
-
-- 父は会社員で、母は教師です。
-- 私は三人兄弟の末っ子です。
-- 職場の上司に相談しました。
-- 部長と課長が会議に出ます。
-- いとこは高校生です。
+  <div><p class="jp">父は会社員で、母は教師です。</p><p>Ayah saya karyawan perusahaan, dan ibu saya guru.</p></div>
+  <div><p class="jp">私は三人兄弟の末っ子です。</p><p>Saya adalah anak bungsu dari tiga bersaudara.</p></div>
+  <div><p class="jp">職場の上司に相談しました。</p><p>Saya berkonsultasi dengan atasan di tempat kerja.</p></div>
+  <div><p class="jp">部長と課長が会議に出ます。</p><p>Manajer departemen dan kepala seksi menghadiri rapat.</p></div>
+  <div><p class="jp">いとこは高校生です。</p><p>Sepupu saya adalah siswa SMA.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar

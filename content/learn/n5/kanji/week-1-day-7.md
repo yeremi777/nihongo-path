@@ -96,10 +96,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 ## Contoh Kalimat
 
-1. 今日は六月十日です。
-2. 月曜日に学校へ行きます。
-3. この本は千円です。
-4. 水曜日は休みです。
+<div class="example-list">
+  <div><p class="jp">今日は六月十日です。</p><p>Hari ini tanggal 10 Juni.</p></div>
+  <div><p class="jp">月曜日に学校へ行きます。</p><p>Saya pergi ke sekolah pada hari Senin.</p></div>
+  <div><p class="jp">この本は千円です。</p><p>Buku ini harganya seribu yen.</p></div>
+  <div><p class="jp">水曜日は休みです。</p><p>Hari Rabu libur.</p></div>
+</div>
 
 ## Hal yang Mudah Tertukar
 

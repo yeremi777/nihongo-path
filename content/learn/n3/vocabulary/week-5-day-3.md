@@ -90,12 +90,11 @@ Kosakata ini berhubungan dengan orang -> sifat -> tindakan -> reaksi perasaan. S
 ## Contoh Kalimat
 
 <div class="example-list">
-
-- 彼はかしこくて頼りになる人です。
-- いいかげんな返事をしないでください。
-- 勝手なことを言わないでください。
-- 試験の前は不安になります。
-- 友だちの話に感動しました。
+  <div><p class="jp">彼はかしこくて頼りになる人です。</p><p>Dia orang yang pintar dan dapat diandalkan.</p></div>
+  <div><p class="jp">いいかげんな返事をしないでください。</p><p>Tolong jangan memberi jawaban asal-asalan.</p></div>
+  <div><p class="jp">勝手なことを言わないでください。</p><p>Tolong jangan mengatakan sesuatu sesuka hati.</p></div>
+  <div><p class="jp">試験の前は不安になります。</p><p>Saya menjadi cemas sebelum ujian.</p></div>
+  <div><p class="jp">友だちの話に感動しました。</p><p>Saya terharu oleh cerita teman saya.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar

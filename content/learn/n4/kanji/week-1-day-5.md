@@ -69,11 +69,13 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 ## Contoh Kalimat
 
-1. 医者と歯医者は仕事が違います。
-2. 兄は会社員で、姉は歌手です。
-3. 駅員に道を聞きました。
-4. 自転車を運転するときは注意します。
-5. 作家の小説を読みました。
+<div class="example-list">
+  <div><p class="jp">医者と歯医者は仕事が違います。</p><p>Dokter dan dokter gigi pekerjaannya berbeda.</p></div>
+  <div><p class="jp">兄は会社員で、姉は歌手です。</p><p>Kakak laki-laki saya karyawan, dan kakak perempuan saya penyanyi.</p></div>
+  <div><p class="jp">駅員に道を聞きました。</p><p>Saya bertanya jalan kepada petugas stasiun.</p></div>
+  <div><p class="jp">自転車を運転するときは注意します。</p><p>Saya berhati-hati saat mengendarai sepeda.</p></div>
+  <div><p class="jp">作家の小説を読みました。</p><p>Saya membaca novel karya seorang penulis.</p></div>
+</div>
 
 ## Hal yang Mudah Tertukar
 

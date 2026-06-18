@@ -73,11 +73,13 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 ## Contoh Kalimat
 
-1. 日曜日に洗濯をします。
-2. 友だちを家に招待しました。
-3. 特急で村の近くまで行きます。
-4. 宿題の問題について質問します。
-5. 森林の中を歩きました。
+<div class="example-list">
+  <div><p class="jp">日曜日に洗濯をします。</p><p>Saya mencuci pakaian pada hari Minggu.</p></div>
+  <div><p class="jp">友だちを家に招待しました。</p><p>Saya mengundang teman ke rumah.</p></div>
+  <div><p class="jp">特急で村の近くまで行きます。</p><p>Saya pergi sampai dekat desa dengan kereta ekspres khusus.</p></div>
+  <div><p class="jp">宿題の問題について質問します。</p><p>Saya bertanya tentang soal PR.</p></div>
+  <div><p class="jp">森林の中を歩きました。</p><p>Saya berjalan di dalam hutan.</p></div>
+</div>
 
 ## Hal yang Mudah Tertukar
 

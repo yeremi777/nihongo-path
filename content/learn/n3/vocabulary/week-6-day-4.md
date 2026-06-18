@@ -79,12 +79,11 @@ Kosakata hari ini adalah peta pasangan: orang + に出会う, orang + を招待�
 ## Contoh Kalimat
 
 <div class="example-list">
-
-- 理想の人に出会いました。
-- 急いで列に並びます。
-- 友だちをパーティーに招待しました。
-- 駅まで迎えに行きます。
-- プールに飛び込みました。
+  <div><p class="jp">理想の人に出会いました。</p><p>Saya bertemu orang yang ideal.</p></div>
+  <div><p class="jp">急いで列に並びます。</p><p>Saya segera antre.</p></div>
+  <div><p class="jp">友だちをパーティーに招待しました。</p><p>Saya mengundang teman ke pesta.</p></div>
+  <div><p class="jp">駅まで迎えに行きます。</p><p>Saya pergi menjemput sampai stasiun.</p></div>
+  <div><p class="jp">プールに飛び込みました。</p><p>Saya melompat masuk ke kolam.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar

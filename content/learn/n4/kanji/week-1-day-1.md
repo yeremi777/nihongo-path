@@ -71,11 +71,13 @@ Untuk tindakan, cari 通, 降, 動, dan 建. Untuk benda atau barang, cari 品 d
 
 ## Contoh Kalimat
 
-1. 駅で降車の案内を見ました。
-2. 台所に食料品を置きます。
-3. この建物は夜も明るいです。
-4. 台風の日は交通が止まることがあります。
-5. 風邪なので運動を休みます。
+<div class="example-list">
+  <div><p class="jp">駅で降車の案内を見ました。</p><p>Saya melihat panduan turun kendaraan di stasiun.</p></div>
+  <div><p class="jp">台所に食料品を置きます。</p><p>Saya meletakkan bahan makanan di dapur.</p></div>
+  <div><p class="jp">この建物は夜も明るいです。</p><p>Bangunan ini tetap terang pada malam hari.</p></div>
+  <div><p class="jp">台風の日は交通が止まることがあります。</p><p>Pada hari topan, lalu lintas bisa berhenti.</p></div>
+  <div><p class="jp">風邪なので運動を休みます。</p><p>Karena masuk angin, saya tidak berolahraga.</p></div>
+</div>
 
 ## Hal yang Mudah Tertukar
 

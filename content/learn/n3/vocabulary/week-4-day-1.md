@@ -111,12 +111,11 @@ Kata hari ini bergerak dari sekolah -> pelajaran -> jadwal -> tindakan kelas -> 
 ## Contoh Kalimat
 
 <div class="example-list">
-
-- 今学期の時間割を確認しました。
-- 苦手な科目は理科です。
-- 昼休みにお弁当を食べます。
-- バスで通学しています。
-- 合計を出してから答えを書きます。
+  <div><p class="jp">今学期の時間割を確認しました。</p><p>Saya sudah mengecek jadwal pelajaran semester ini.</p></div>
+  <div><p class="jp">苦手な科目は理科です。</p><p>Pelajaran yang saya kurang kuasai adalah IPA.</p></div>
+  <div><p class="jp">昼休みにお弁当を食べます。</p><p>Saya makan bekal saat istirahat siang.</p></div>
+  <div><p class="jp">バスで通学しています。</p><p>Saya berangkat sekolah dengan bus.</p></div>
+  <div><p class="jp">合計を出してから答えを書きます。</p><p>Saya menulis jawaban setelah mendapatkan totalnya.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar

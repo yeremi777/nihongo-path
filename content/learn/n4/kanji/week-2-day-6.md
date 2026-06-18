@@ -71,11 +71,13 @@ Untuk keluarga, cari 妹 dan 弟. Untuk warna, cari 赤, 黄, 色, dan 黒. Untu
 
 ## Contoh Kalimat
 
-1. 妹は黄色の服が好きです。
-2. 兄弟で黒板を消しました。
-3. 赤信号では止まります。
-4. 写真の笑顔がきれいです。
-5. 頭痛があるので早く帰ります。
+<div class="example-list">
+  <div><p class="jp">妹は黄色の服が好きです。</p><p>Adik perempuan saya suka pakaian berwarna kuning.</p></div>
+  <div><p class="jp">兄弟で黒板を消しました。</p><p>Kami bersaudara menghapus papan tulis.</p></div>
+  <div><p class="jp">赤信号では止まります。</p><p>Berhentilah saat lampu merah.</p></div>
+  <div><p class="jp">写真の笑顔がきれいです。</p><p>Senyum di foto itu indah.</p></div>
+  <div><p class="jp">頭痛があるので早く帰ります。</p><p>Karena sakit kepala, saya pulang lebih awal.</p></div>
+</div>
 
 ## Hal yang Mudah Tertukar
 
