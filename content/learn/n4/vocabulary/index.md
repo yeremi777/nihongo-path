@@ -4,7 +4,7 @@ description: "Perluas kosakata lewat tema perasaan, rutinitas pagi, kesehatan, d
 level: "N4"
 category: "vocabulary"
 order: 2
-status: "placeholder"
+status: "active"
 mainReference:
   - "Soumatome N4 Vocabulary"
 extraReference:
@@ -18,4 +18,4 @@ tags:
 
 Kosakata N4 membantu kamu berbicara tentang perasaan, rutinitas pagi, kesehatan, cara belajar, jadwal, dan pergaulan sehari-hari.
 
-Pelajaran akan disusun mengikuti topik Soumatome N4, dari kata kerja yang mirip hingga kata keterangan dan bahasa sopan dasar.
+Pelajaran disusun mengikuti topik Soumatome N4, dari kata kerja yang mirip hingga kata keterangan dan bahasa sopan dasar.

@@ -3,7 +3,6 @@ type OutlineItem = {
   title: string
   description?: string
   to?: string
-  placeholder?: boolean
   week?: number
   day?: number
   topic?: string
@@ -149,18 +148,11 @@ const defaultOutlines: Record<string, OutlineSection[]> = {
     },
     {
       key: 'vocabulary',
-      items: [
-        { title: 'Daily nouns', placeholder: true, week: 1 },
-        { title: 'First verbs', placeholder: true, week: 2 }
-      ]
+      items: []
     },
     {
       key: 'grammar',
-      items: [
-        { title: 'Basic sentence order', placeholder: true, week: 1 },
-        { title: 'です / ます basics', placeholder: true, week: 1 },
-        { title: 'Particles は・が・を', placeholder: true, week: 2 }
-      ]
+      items: []
     }
   ],
   n4: [
@@ -170,18 +162,11 @@ const defaultOutlines: Record<string, OutlineSection[]> = {
     },
     {
       key: 'vocabulary',
-      items: [
-        { title: 'Home and routine', placeholder: true, week: 1 },
-        { title: 'Work and school', placeholder: true, week: 2 }
-      ]
+      items: []
     },
     {
       key: 'grammar',
-      items: [
-        { title: 'Longer sentence patterns', placeholder: true, week: 1 },
-        { title: 'Giving reasons', placeholder: true, week: 2 },
-        { title: 'Daily requests', placeholder: true, week: 3 }
-      ]
+      items: []
     }
   ],
   n3: [
@@ -254,10 +239,9 @@ const availableSections = computed(() => {
     const contentItems = contentOutlineBySection.value[section.key]
     if (!contentItems?.length) return section
 
-    const placeholders = section.items.filter((item) => item.placeholder || !item.to)
     return {
       ...section,
-      items: [...contentItems, ...placeholders]
+      items: contentItems
     }
   })
 })

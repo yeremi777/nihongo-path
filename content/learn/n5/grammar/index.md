@@ -4,7 +4,7 @@ description: "Pelajari fondasi awal bahasa Jepang, dari bentuk sopan dasar dan p
 level: "N5"
 category: "grammar"
 order: 3
-status: "placeholder"
+status: "active"
 mainReference:
   - "Soumatome N5 Grammar"
 extraReference:
@@ -19,4 +19,4 @@ tags:
 
 Tata bahasa N5 menjadi fondasi pertama belajar bahasa Jepang, mulai dari bentuk です・ます, partikel dasar, kata sifat, bentuk て, permintaan, keinginan, memberi alasan, hingga perbandingan sederhana.
 
-Pelajaran akan disusun mengikuti pola Soumatome N5 dan dilengkapi referensi Minna no Nihongo I.
+Pelajaran disusun mengikuti pola Soumatome N5 dan dilengkapi referensi Minna no Nihongo I.

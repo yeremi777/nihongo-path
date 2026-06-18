@@ -4,7 +4,7 @@ description: "N5 starts from kana, basic sentence structure, vocabulary, kanji, 
 level: "N5"
 category: "overview"
 order: 1
-status: "placeholder"
+status: "active"
 tags:
   - "jlpt-n5"
   - "foundation"
@@ -16,9 +16,9 @@ N5 is the foundation level.
 
 It starts from hiragana, katakana, basic sentence structure, basic grammar, vocabulary, and kanji.
 
-This section is prepared as a placeholder so the full N5 to N4 to N3 learning path can expand later.
+This track now includes structured grammar, vocabulary, and kanji lessons for the N5 foundation.
 
-## Planned Sections
+## Sections
 
 - Kana Foundation
 - Basic Grammar
