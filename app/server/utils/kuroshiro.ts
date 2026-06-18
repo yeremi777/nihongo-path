@@ -1,6 +1,8 @@
 import { createRequire } from 'node:module'
+import { dirname } from 'node:path'
 
 const require = createRequire(import.meta.url)
+const kuromojiDictPath = dirname(require.resolve('kuromoji/dict/base.dat.gz'))
 
 type KuroshiroInstance = {
   init: (analyzer: unknown) => Promise<void>
@@ -24,7 +26,7 @@ export const getKuroshiro = async () => {
       const KuromojiAnalyzer = resolveDefault(require('kuroshiro-analyzer-kuromoji'))
 
       const kuroshiro = new Kuroshiro() as KuroshiroInstance
-      await kuroshiro.init(new KuromojiAnalyzer())
+      await kuroshiro.init(new KuromojiAnalyzer({ dictPath: kuromojiDictPath }))
       return kuroshiro
     })()
   }
