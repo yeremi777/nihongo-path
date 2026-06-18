@@ -1,0 +1,210 @@
+---
+title: "なくす・さがす・みつける"
+description: "Belajar kosakata N4 untuk kehilangan barang, mencari, menemukan, memungut, dan membedakan kata kerja transitif-intransitif."
+level: "N4"
+category: "vocabulary"
+topic: "なくす・さがす・みつける"
+topicLabel: "Kehilangan dan menemukan"
+week: 2
+day: 6
+order: 16
+status: "draft"
+mainReference:
+  - "Soumatome N4 Vocabulary"
+extraReference:
+  - "JLPT Sensei N4 Vocabulary List"
+  - "JTest4You N4 Vocabulary List"
+  - "Bunpro N4 Vocabulary"
+tags:
+  - "vocabulary"
+  - "jlpt-n4"
+---
+
+## Tujuan
+
+Di akhir pelajaran ini, kamu bisa membedakan tindakan menjatuhkan, rusak, kehilangan, mencari, menemukan, dan memungut barang. Fokus utamanya adalah pasangan 他動詞 dan 自動詞.
+
+Topik ini sering muncul dalam percakapan panik sederhana: dompet hilang, paspor tidak ada, ponsel rusak, atau barang yang dicari akhirnya ketemu.
+
+<div class="lesson-callout">
+  <strong>Fokus hari ini:</strong> cek partikel. 財布を落とす adalah seseorang menjatuhkan dompet, sedangkan 財布が落ちる berarti dompet jatuh.
+</div>
+
+## Daftar Kata
+
+### Jatuh, Rusak, Hilang
+
+| Japanese | Reading | Arti & Catatan |
+|---|---|---|
+| 落とす | おとす | menjatuhkan/membuat jatuh; 他動詞. |
+| 財布を落とす | さいふをおとす | menjatuhkan/kehilangan dompet karena jatuh. |
+| 落ちる | おちる | jatuh; 自動詞. |
+| 財布が落ちる | さいふがおちる | dompet jatuh. |
+| 試験に落ちる | しけんにおちる | gagal ujian. |
+| 壊す | こわす | merusak/memecahkan; 他動詞. |
+| スマホを壊す | スマホをこわす | merusakkan smartphone. |
+| 壊れる | こわれる | rusak/menjadi rusak; 自動詞. |
+| スマホが壊れる | スマホがこわれる | smartphone rusak. |
+| なくす / 無くす | なくす | kehilangan/menghilangkan; 他動詞. |
+| パスポートをなくす | パスポートをなくす | kehilangan paspor. |
+| なくなる / 無くなる | なくなる | hilang/habis/tidak ada lagi; 自動詞. |
+| パスポートがなくなる | パスポートがなくなる | paspor hilang. |
+
+### Mencari dan Menemukan
+
+| Japanese | Reading | Arti & Catatan |
+|---|---|---|
+| 見つける | みつける | menemukan; 他動詞. |
+| 仕事を見つける | しごとをみつける | menemukan pekerjaan. |
+| 見つかる | みつかる | ditemukan/ketemu; 自動詞. |
+| なくした物が見つかる | なくしたものがみつかる | barang hilang ditemukan. |
+| 拾う | ひろう | memungut/mengambil barang yang jatuh. |
+| 落ちている物を拾う | おちているものをひろう | memungut barang yang jatuh. |
+| 探す | さがす | mencari pekerjaan, barang yang diinginkan, orang, atau benda. |
+| 仕事やほしい物を探す | しごとやほしいものをさがす | mencari pekerjaan atau barang yang diinginkan. |
+| 捜す | さがす | mencari orang/barang yang hilang; nuansa pencarian hilang. |
+| なくした物や人を捜す | なくしたものやひとをさがす | mencari barang atau orang yang hilang. |
+
+### Penting dan Ekspresi Panik
+
+| Japanese | Reading | Arti & Catatan |
+|---|---|---|
+| 大切な | たいせつな | penting/berharga/bernilai. |
+| 大切な物 | たいせつなもの | barang penting/berharga. |
+| 大切にする | たいせつにする | menjaga baik-baik/menghargai. |
+| 大変！ | たいへん！ | gawat/celaka. |
+| いけない！ | いけない！ | aduh/tidak boleh/ini tidak baik. |
+| どうしよう！ | どうしよう！ | bagaimana ini? |
+| あ、あった！ | あ、あった！ | ah, ketemu/ada. |
+| よかったね！ | よかったね！ | syukurlah/bagus ya. |
+| すぐ見つかる | すぐみつかる | cepat ditemukan. |
+
+## Peta Kata
+
+<div class="word-strip">
+  <span>落とす・落ちる</span>
+  <span>壊す・壊れる</span>
+  <span>なくす・なくなる</span>
+  <span>探す・捜す</span>
+  <span>見つける・見つかる</span>
+  <span>拾う</span>
+  <span>大切にする</span>
+</div>
+
+Alurnya sering berupa masalah lalu penyelesaian: 財布を落とす, パスポートがなくなる, 大変！と言う, なくした物を捜す, 誰かが拾う, なくした物が見つかる, lalu よかったね！.
+
+## Catatan Pemakaian
+
+### 他動詞 dan 自動詞
+
+- 落とす／壊す／なくす／見つける memakai を karena seseorang melakukan aksi pada objek.
+- 落ちる／壊れる／なくなる／見つかる memakai が karena benda menjadi jatuh, rusak, hilang, atau ditemukan sebagai keadaan.
+
+### Dua さがす
+
+- 探す lebih umum untuk mencari sesuatu yang diinginkan: 仕事を探す.
+- 捜す lebih khusus untuk orang/barang yang hilang: なくした物を捜す.
+
+## Pola yang Sering Muncul
+
+| Pola | Arti praktis | Contoh konteks |
+|---|---|---|
+| （N）を落とす | menjatuhkan/kehilangan （N） | 財布を落とす |
+| （N）が落ちる | （N） jatuh | 財布が落ちる |
+| （N）をなくす | kehilangan （N） | パスポートをなくす |
+| （N）がなくなる | （N） hilang/habis | パスポートがなくなる |
+| （N）を見つける | menemukan （N） | 仕事を見つける |
+| （N）が見つかる | （N） ditemukan | 物が見つかる |
+| （N）を大切にする | menjaga/menghargai （N） | 物を大切にする |
+
+## Contoh Kalimat
+
+<div class="example-list">
+  <div><p class="jp">駅で財布を落としてしまいました。</p><p>Saya kehilangan/menjatuhkan dompet di stasiun.</p></div>
+  <div><p class="jp">スマホが壊れたので、店へ持って行きます。</p><p>Karena ponsel rusak, saya membawanya ke toko.</p></div>
+  <div><p class="jp">パスポートがなくなって、本当に困りました。</p><p>Paspor hilang dan saya benar-benar kesulitan.</p></div>
+  <div><p class="jp">なくしたかぎを一時間捜しました。</p><p>Saya mencari kunci yang hilang selama satu jam.</p></div>
+  <div><p class="jp">大切な物がすぐ見つかって、よかったですね。</p><p>Syukurlah barang pentingnya cepat ditemukan.</p></div>
+</div>
+
+## Hal yang Mudah Tertukar
+
+| Pasangan | Cara membedakan |
+|---|---|
+| 落とす / 落ちる | を menunjukkan 落とす. が menunjukkan 落ちる. |
+| 壊す / 壊れる | 壊す dilakukan seseorang. 壊れる adalah benda menjadi rusak. |
+| なくす / なくなる | なくす adalah kehilangan sesuatu. なくなる berarti sesuatu hilang/habis/tidak ada lagi. |
+| 見つける / 見つかる | 見つける fokus pada orang yang menemukan. 見つかる fokus pada benda yang ditemukan. |
+| 探す / 捜す | 探す untuk pencarian umum/diinginkan. 捜す untuk sesuatu atau seseorang yang hilang. |
+
+## Kesalahan Umum
+
+Jangan memakai 見つける ketika subjeknya benda yang "ketemu". Untuk "barang hilang ditemukan", gunakan なくした物が見つかる.
+
+Saat panik, frasa pendek seperti 大変！, どうしよう！, dan あ、あった！ sangat natural dalam percakapan.
+
+## Mini Practice
+
+Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+
+::MiniPractice
+---
+question: "Saya kehilangan paspor."
+sentence: "パスポートを____。"
+optionA: "なくしました"
+optionB: "なくなりました"
+correct: "なくしました"
+explanation: "パスポートをなくしました benar karena を menandai objek yang hilang karena tindakan/kejadian pada pihak pembicara. パスポートがなくなりました memakai が."
+---
+::
+
+::MiniPractice
+---
+question: "Ponsel saya rusak."
+sentence: "スマホが____。"
+optionA: "<ruby>壊<rt>こわ</rt></ruby>れました"
+optionB: "<ruby>壊<rt>こわ</rt></ruby>しました"
+correct: "<ruby>壊<rt>こわ</rt></ruby>れました"
+explanation: "<ruby>壊<rt>こわ</rt></ruby>れました benar karena benda menjadi rusak dan memakai が. <ruby>壊<rt>こわ</rt></ruby>しました berarti seseorang merusakkan sesuatu."
+---
+::
+
+::MiniPractice
+---
+question: "Barang yang hilang sudah ditemukan."
+sentence: "なくした<ruby>物<rt>もの</rt></ruby>が____。"
+optionA: "<ruby>見<rt>み</rt></ruby>つかりました"
+optionB: "<ruby>見<rt>み</rt></ruby>つけました"
+correct: "<ruby>見<rt>み</rt></ruby>つかりました"
+explanation: "<ruby>見<rt>み</rt></ruby>つかりました benar karena subjeknya barang yang ditemukan. <ruby>見<rt>み</rt></ruby>つけました fokus pada orang yang menemukan."
+---
+::
+
+::MiniPractice
+---
+question: "Saya mencari pekerjaan."
+sentence: "<ruby>仕事<rt>しごと</rt></ruby>を____います。"
+optionA: "<ruby>探<rt>さが</rt></ruby>して"
+optionB: "<ruby>拾<rt>ひろ</rt></ruby>って"
+correct: "<ruby>探<rt>さが</rt></ruby>して"
+explanation: "<ruby>仕事<rt>しごと</rt></ruby>を<ruby>探<rt>さが</rt></ruby>す berarti mencari pekerjaan. <ruby>拾<rt>ひろ</rt></ruby>う berarti memungut barang yang jatuh."
+---
+::
+
+::MiniPractice
+---
+question: "Mari jaga barang penting baik-baik."
+sentence: "<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>物<rt>もの</rt></ruby>を____しましょう。"
+optionA: "<ruby>大切<rt>たいせつ</rt></ruby>に"
+optionB: "<ruby>大変<rt>たいへん</rt></ruby>に"
+correct: "<ruby>大切<rt>たいせつ</rt></ruby>に"
+explanation: "<ruby>大切<rt>たいせつ</rt></ruby>にする berarti menjaga baik-baik atau menghargai. <ruby>大変<rt>たいへん</rt></ruby> berarti gawat/berat."
+---
+::
+
+## Referensi
+
+- Soumatome N4 Vocabulary, topik Minggu 2 Hari 6: なくす・さがす・みつける
+- JLPT Sensei N4 Vocabulary List
+- JTest4You N4 Vocabulary List
+- Bunpro N4 Vocabulary
