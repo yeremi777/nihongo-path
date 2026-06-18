@@ -6,6 +6,9 @@
     "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
+    "audit:kanji": "node scripts/audit-kanji-content.mjs",
+    "audit:vocabulary": "node scripts/audit-vocabulary-content.mjs",
+    "audit:grammar": "node scripts/audit-grammar-content.mjs",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
   },
