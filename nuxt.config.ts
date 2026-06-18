@@ -13,12 +13,6 @@ export default defineNuxtConfig({
     '@nuxtjs/color-mode'
   ],
 
-  nitro: {
-    externals: {
-      traceInclude: ['kuromoji']
-    }
-  },
-
   css: [
     '@fontsource-variable/plus-jakarta-sans',
     '~/assets/css/main.css'
