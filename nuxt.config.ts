@@ -28,6 +28,16 @@ export default defineNuxtConfig({
         })
 
         writeFileSync(
+          join(nitro.options.output.serverDir, '.vc-config.json'),
+          JSON.stringify({
+            runtime: 'nodejs20.x',
+            handler: 'index.mjs',
+            launcherType: 'Nodejs',
+            shouldAddHelpers: true
+          }, null, 2)
+        )
+
+        writeFileSync(
           join(nitro.options.output.dir, 'config.json'),
           JSON.stringify({
             version: 3,
