@@ -155,6 +155,89 @@ body {
   opacity: 1;
 }
 
+.prose-nihongo .prose-section-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem 1rem;
+  flex-wrap: wrap;
+  margin-bottom: var(--prose-heading-after);
+}
+
+.prose-nihongo .prose-section-heading .prose-heading {
+  margin-bottom: 0;
+  flex: 1 1 auto;
+}
+
+.prose-nihongo .prose-section-heading .section-furigana-toggle {
+  flex: 0 0 auto;
+  margin-top: 0.15rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.75rem;
+  height: 2.75rem;
+  border: 1px solid var(--color-border);
+  border-radius: 0.5rem;
+  background: var(--color-surface);
+  color: var(--color-muted);
+  transition: border-color 0.15s ease, background-color 0.15s ease, color 0.15s ease;
+}
+
+.prose-nihongo .prose-section-heading .section-furigana-toggle:hover:not(:disabled) {
+  color: var(--color-text);
+  border-color: color-mix(in srgb, var(--color-primary) 45%, var(--color-border));
+}
+
+.prose-nihongo .prose-section-heading .section-furigana-toggle--on {
+  border-color: var(--color-primary);
+  background: color-mix(in srgb, var(--color-primary) 12%, var(--color-surface));
+  color: var(--color-primary);
+}
+
+.prose-nihongo .prose-section-heading .section-furigana-toggle:disabled {
+  opacity: 0.7;
+  cursor: wait;
+}
+
+.prose-nihongo .prose-section-heading .section-furigana-toggle--placeholder {
+  pointer-events: none;
+}
+
+.section-furigana-toggle__icon {
+  width: 1.1rem;
+  height: 1.1rem;
+}
+
+.section-furigana-toggle__mark {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  line-height: 1;
+  font-family: "Hiragino Sans", "Yu Gothic", "Yu Gothic UI", Meiryo, "Noto Sans JP", sans-serif;
+}
+
+.section-furigana-toggle__ruby {
+  font-size: 0.5rem;
+  font-weight: 500;
+  opacity: 0.85;
+}
+
+.section-furigana-toggle__base {
+  font-size: 1rem;
+  font-weight: 700;
+}
+
+.prose-nihongo .example-list .jp ruby {
+  ruby-position: over;
+}
+
+.prose-nihongo .example-list .jp rt {
+  font-size: 0.55em;
+  font-weight: 500;
+  color: var(--color-muted);
+}
+
 .prose-nihongo details > summary::-webkit-details-marker {
   display: none;
 }
@@ -234,8 +317,8 @@ body {
   margin-top: 0.35em;
 }
 
-.prose-nihongo :where(h2) + :where(ul) :where(li)::marker {
-  color: var(--color-primary);
+.prose-nihongo :where(ul, ol) :where(li)::marker {
+  color: var(--color-muted);
 }
 
 .prose-nihongo :where(h1, h2, h3, h4, h5, h6) + :where(p, ul, ol, table, blockquote, div, pre) {

@@ -1,4 +1,6 @@
 <script setup lang="ts">
+import { decodePracticeHtml, hasJapaneseKanji } from '~/utils/japaneseText'
+
 const props = defineProps<{
   question: string
   sentence?: string
@@ -8,7 +10,14 @@ const props = defineProps<{
   explanation: string
 }>()
 
+const { sectionEnabled, toFuriganaHtml } = useFurigana()
+
+const miniPracticeFurigana = computed(() => sectionEnabled.value['mini-practice'])
+
 const selected = ref<string | null>(null)
+const displaySentence = ref('')
+const displayOptionA = ref('')
+const displayOptionB = ref('')
 
 const displayOptions = computed(() => {
   const seed = [
@@ -30,6 +39,38 @@ const displayOptions = computed(() => {
 
 const isAnswered = computed(() => selected.value !== null)
 const isCorrect = computed(() => selected.value === props.correct)
+
+const renderPlainText = (value: string) => decodePracticeHtml(value)
+
+const renderJapaneseField = async (value: string, target: { value: string }) => {
+  if (!value) {
+    target.value = ''
+    return
+  }
+
+  if (!miniPracticeFurigana.value || !hasJapaneseKanji(value)) {
+    target.value = renderPlainText(value)
+    return
+  }
+
+  target.value = await toFuriganaHtml(value)
+}
+
+const refreshJapaneseFields = async () => {
+  await Promise.all([
+    renderJapaneseField(props.sentence ?? '', displaySentence),
+    renderJapaneseField(props.optionA, displayOptionA),
+    renderJapaneseField(props.optionB, displayOptionB)
+  ])
+}
+
+watch(
+  () => [miniPracticeFurigana.value, props.sentence, props.optionA, props.optionB] as const,
+  () => {
+    refreshJapaneseFields()
+  },
+  { immediate: true }
+)
 
 const cardClass = computed(() => {
   if (!isAnswered.value) {
@@ -62,6 +103,12 @@ const optionClass = (option: string) => {
 
   return `${base} border-[color:var(--color-border)] bg-[color:var(--color-surface)] text-[color:var(--color-muted)] opacity-75`
 }
+
+const optionHtml = (option: string) => {
+  if (option === props.optionA) return displayOptionA.value || renderPlainText(option)
+  if (option === props.optionB) return displayOptionB.value || renderPlainText(option)
+  return renderPlainText(option)
+}
 </script>
 
 <template>
@@ -75,9 +122,8 @@ const optionClass = (option: string) => {
     <p
       v-if="sentence"
       class="mt-2 font-japanese text-lg font-bold leading-8"
-    >
-      {{ sentence }}
-    </p>
+      v-html="displaySentence || renderPlainText(sentence)"
+    />
 
     <div class="mt-4 grid gap-2 sm:grid-cols-2">
       <button
@@ -88,7 +134,7 @@ const optionClass = (option: string) => {
         :aria-pressed="selected === option"
         @click="selected = option"
       >
-        {{ option }}
+        <span v-html="optionHtml(option)" />
       </button>
     </div>
 
