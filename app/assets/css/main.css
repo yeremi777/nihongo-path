@@ -325,12 +325,12 @@ body {
   margin-top: 0;
 }
 
-.prose-nihongo :where(h1, h2, h3, h4, h5, h6) + :is(.lesson-callout, .word-strip, .kanji-card-grid, .example-list, .lesson-practice),
+.prose-nihongo :where(h1, h2, h3, h4, h5, h6) + :is(.lesson-callout, .word-strip, .kanji-card-grid, .kana-card-grid, .example-list, .lesson-practice),
 .prose-nihongo :where(h1, h2, h3, h4, h5, h6) + :where(table) {
   margin-top: 0;
 }
 
-.prose-nihongo :is(.lesson-callout, .word-strip, .kanji-card-grid, .example-list, .lesson-practice) {
+.prose-nihongo :is(.lesson-callout, .word-strip, .kanji-card-grid, .kana-card-grid, .example-list, .lesson-practice) {
   margin-top: var(--prose-stack);
   margin-bottom: var(--prose-stack);
 }
@@ -572,6 +572,138 @@ body {
 .prose-nihongo .kanji-card li {
   margin: 0;
   padding-right: 0.5rem;
+}
+
+/* Kana cards — large character reference cards */
+.prose-nihongo .kana-card-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.75rem;
+}
+
+@media (min-width: 640px) {
+  .prose-nihongo .kana-card-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 1024px) {
+  .prose-nihongo .kana-card-grid {
+    grid-template-columns: repeat(5, minmax(0, 1fr));
+  }
+}
+
+.prose-nihongo .kana-card {
+  overflow: hidden;
+  border: 1px solid var(--color-border);
+  border-radius: 0.9rem;
+  background: color-mix(in srgb, var(--color-surface) 94%, var(--color-bg));
+  transition: border-color 160ms ease, background-color 160ms ease;
+}
+
+.prose-nihongo .kana-card:hover {
+  border-color: color-mix(in srgb, var(--color-primary) 60%, var(--color-border));
+}
+
+.prose-nihongo .kana-card[open] {
+  border-color: color-mix(in srgb, var(--color-primary) 70%, var(--color-border));
+}
+
+.prose-nihongo .kana-card summary {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  cursor: pointer;
+  list-style: none;
+  padding: 1.5rem 1rem 1.2rem;
+  color: var(--color-text);
+  position: relative;
+}
+
+.prose-nihongo .kana-card summary::-webkit-details-marker {
+  display: none;
+}
+
+.prose-nihongo .kana-card summary::after {
+  position: absolute;
+  top: 0.4rem;
+  right: 0.6rem;
+  color: var(--color-muted);
+  content: "+";
+  font-size: 1rem;
+  font-weight: 700;
+  opacity: 0.5;
+  transition: opacity 160ms ease;
+}
+
+.prose-nihongo .kana-card:hover summary::after {
+  opacity: 1;
+}
+
+.prose-nihongo .kana-card[open] summary::after {
+  content: "-";
+}
+
+.prose-nihongo .kana-card .kana-char {
+  display: grid;
+  place-items: center;
+  color: var(--color-primary);
+  font-family: "Hiragino Sans", "Yu Gothic", "Yu Gothic UI", Meiryo, "Noto Sans JP", sans-serif;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.1;
+}
+
+@media (min-width: 640px) {
+  .prose-nihongo .kana-card .kana-char {
+    font-size: 3.8rem;
+  }
+}
+
+.prose-nihongo .kana-card .kana-reading {
+  display: block;
+  margin-top: 0.15rem;
+  color: var(--color-muted);
+  font-size: 0.9rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
+
+.prose-nihongo .kana-card .kana-word {
+  display: block;
+  margin-top: 0.6rem;
+  color: var(--color-text);
+  font-family: "Hiragino Sans", "Yu Gothic", "Yu Gothic UI", Meiryo, "Noto Sans JP", sans-serif;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.prose-nihongo .kana-card .kana-word small {
+  display: block;
+  color: var(--color-muted);
+  font-family: Inter, "Plus Jakarta Sans", system-ui, sans-serif;
+  font-size: 0.78rem;
+  font-weight: 500;
+  margin-top: 0.1rem;
+}
+
+.prose-nihongo .kana-card > p {
+  margin: 0;
+  padding: 0.75rem 1rem 1rem;
+  font-size: 0.88rem;
+  line-height: 1.6;
+  color: var(--color-muted);
+  border-top: 1px solid color-mix(in srgb, var(--color-border) 50%, transparent);
+}
+
+.prose-nihongo .kana-card > p .jp-word {
+  color: var(--color-text);
+  font-family: "Hiragino Sans", "Yu Gothic", "Yu Gothic UI", Meiryo, "Noto Sans JP", sans-serif;
+  font-weight: 600;
+}
+
+.prose-nihongo .kana-card > p .jp-meaning {
+  color: var(--color-muted);
 }
 
 .prose-nihongo .example-list {

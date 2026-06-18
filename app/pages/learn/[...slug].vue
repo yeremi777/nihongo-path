@@ -138,8 +138,8 @@ const defaultOutlines: Record<string, OutlineSection[]> = {
     {
       key: 'kana',
       items: [
-        { title: 'Hiragana', to: '/learn/n5/kana/hiragana', week: 1 },
-        { title: 'Katakana', to: '/learn/n5/kana/katakana', week: 1 }
+        { title: 'Hiragana', to: '/learn/n5/kana/hiragana' },
+        { title: 'Katakana', to: '/learn/n5/kana/katakana' }
       ]
     },
     {
@@ -274,6 +274,9 @@ const formatSidebarItemTitle = (title: string, day?: number) => {
   return title
 }
 
+const sectionHasWeeks = (section: OutlineSection) =>
+  section.items.some((item) => typeof item.week === 'number')
+
 const sidebarSectionWeekGroups = computed<Record<string, SidebarWeekGroup[]>>(() => {
   const result: Record<string, SidebarWeekGroup[]> = {}
 
@@ -297,7 +300,7 @@ const sidebarSectionWeekGroups = computed<Record<string, SidebarWeekGroup[]>>(()
       .sort(([a], [b]) => a - b)
       .map(([week, items]) => ({
         week,
-        title: `Week ${week}`,
+        title: sectionHasWeeks(section) ? `Week ${week}` : '',
         items
       }))
 
@@ -363,7 +366,7 @@ const numberedWeekGroups = computed<WeekGroup[]>(() => {
     .sort(([weekA], [weekB]) => weekA - weekB)
     .map(([week, items]) => ({
       week,
-      title: `Week ${week}`,
+      title: sectionHasWeeks(sections.value[0]) ? `Week ${week}` : '',
       items
     }))
 })
@@ -1056,34 +1059,50 @@ useSeoMeta({
                     :id="`sidebar-${section.key}`"
                     class="mt-3 space-y-2 pl-3"
                   >
-                    <div
-                      v-for="group in (sidebarSectionWeekGroups[section.key] || [])"
-                      :key="`${section.key}-week-${group.week}`"
-                    >
-                      <button
-                        type="button"
-                        class="flex w-full items-center justify-between gap-2 text-left text-sm font-semibold text-[color:var(--color-muted)] transition hover:text-[color:var(--color-text)]"
-                        :aria-expanded="isSidebarWeekOpen(section.key, group.week, section.active)"
-                        :aria-controls="`sidebar-${section.key}-week-${group.week}`"
-                        @click="toggleSidebarWeek(`${section.key}:${group.week}`)"
-                      >
-                        <span>{{ group.title }}</span>
-                        <svg
-                          aria-hidden="true"
-                          class="h-3.5 w-3.5 shrink-0 text-[color:var(--color-muted)] transition-transform"
-                          :class="isSidebarWeekOpen(section.key, group.week, section.active) ? 'rotate-180' : ''"
-                          viewBox="0 0 20 20"
-                          fill="currentColor"
+                    <template v-for="group in (sidebarSectionWeekGroups[section.key] || [])" :key="`${section.key}-week-${group.week}`">
+                      <template v-if="group.title">
+                        <button
+                          type="button"
+                          class="flex w-full items-center justify-between gap-2 text-left text-sm font-semibold text-[color:var(--color-muted)] transition hover:text-[color:var(--color-text)]"
+                          :aria-expanded="isSidebarWeekOpen(section.key, group.week, section.active)"
+                          :aria-controls="`sidebar-${section.key}-week-${group.week}`"
+                          @click="toggleSidebarWeek(`${section.key}:${group.week}`)"
                         >
-                          <path fill-rule="evenodd" d="M5.23 7.21a.75.75 0 0 1 1.06.02L10 11.168l3.71-3.938a.75.75 0 1 1 1.08 1.04l-4.24 4.5a.75.75 0 0 1-1.08 0l-4.24-4.5a.75.75 0 0 1 .02-1.06Z" clip-rule="evenodd" />
-                        </svg>
-                      </button>
+                          <span>{{ group.title }}</span>
+                          <svg
+                            aria-hidden="true"
+                            class="h-3.5 w-3.5 shrink-0 text-[color:var(--color-muted)] transition-transform"
+                            :class="isSidebarWeekOpen(section.key, group.week, section.active) ? 'rotate-180' : ''"
+                            viewBox="0 0 20 20"
+                            fill="currentColor"
+                          >
+                            <path fill-rule="evenodd" d="M5.23 7.21a.75.75 0 0 1 1.06.02L10 11.168l3.71-3.938a.75.75 0 1 1 1.08 1.04l-4.24 4.5a.75.75 0 0 1-1.08 0l-4.24-4.5a.75.75 0 0 1 .02-1.06Z" clip-rule="evenodd" />
+                          </svg>
+                        </button>
 
-                      <div
-                        v-show="isSidebarWeekOpen(section.key, group.week, section.active)"
-                        :id="`sidebar-${section.key}-week-${group.week}`"
-                        class="mt-2 space-y-2 pl-3"
-                      >
+                        <div
+                          v-show="isSidebarWeekOpen(section.key, group.week, section.active)"
+                          :id="`sidebar-${section.key}-week-${group.week}`"
+                          class="mt-2 space-y-2 pl-3"
+                        >
+                          <template v-for="item in group.items" :key="`${section.key}-${group.week}-${item.title}`">
+                            <NuxtLink
+                              v-if="item.enabled && item.to"
+                              :to="item.to"
+                              class="block truncate text-sm font-semibold text-[color:var(--color-text)] hover:text-[color:var(--color-primary)]"
+                            >
+                              {{ item.title }}
+                            </NuxtLink>
+                            <span
+                              v-else
+                              class="block truncate text-sm font-semibold text-[color:var(--color-muted)] opacity-70"
+                            >
+                              {{ item.title }}
+                            </span>
+                          </template>
+                        </div>
+                      </template>
+                      <div v-else class="mt-2 space-y-2 pl-3">
                         <template v-for="item in group.items" :key="`${section.key}-${group.week}-${item.title}`">
                           <NuxtLink
                             v-if="item.enabled && item.to"
@@ -1100,7 +1119,7 @@ useSeoMeta({
                           </span>
                         </template>
                       </div>
-                    </div>
+                    </template>
                   </div>
                 </div>
               </div>
@@ -1156,11 +1175,17 @@ useSeoMeta({
             :id="`week-${group.week}`"
             :key="`week-${group.week}`"
           >
-            <h2 class="text-3xl font-semibold tracking-normal text-[color:var(--color-text)]">
+            <h2
+              v-if="group.title"
+              class="text-3xl font-semibold tracking-normal text-[color:var(--color-text)]"
+            >
               {{ group.title }}
             </h2>
 
-            <div class="mt-6 grid gap-4 sm:gap-5 lg:grid-cols-2 2xl:grid-cols-3">
+            <div
+              class="mt-6 grid gap-4 sm:gap-5 lg:grid-cols-2 2xl:grid-cols-3"
+              :class="group.title ? '' : 'mt-0'"
+            >
               <LessonOutlineCard
                 v-for="item in group.items"
                 :key="`week-${group.week}-${item.number}`"
