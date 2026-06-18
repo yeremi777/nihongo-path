@@ -1,6 +1,5 @@
-import { createRequire } from 'node:module'
-
-const require = createRequire(import.meta.url)
+import KuroshiroModule from 'kuroshiro'
+import KuromojiAnalyzerModule from 'kuroshiro-analyzer-kuromoji'
 
 type KuroshiroInstance = {
   init: (analyzer: unknown) => Promise<void>
@@ -20,8 +19,8 @@ const resolveDefault = <T>(moduleValue: T): T => {
 export const getKuroshiro = async () => {
   if (!kuroshiroPromise) {
     kuroshiroPromise = (async () => {
-      const Kuroshiro = resolveDefault(require('kuroshiro'))
-      const KuromojiAnalyzer = resolveDefault(require('kuroshiro-analyzer-kuromoji'))
+      const Kuroshiro = resolveDefault(KuroshiroModule)
+      const KuromojiAnalyzer = resolveDefault(KuromojiAnalyzerModule)
 
       const kuroshiro = new Kuroshiro() as KuroshiroInstance
       await kuroshiro.init(new KuromojiAnalyzer())
