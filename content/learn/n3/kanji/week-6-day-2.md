@@ -296,6 +296,7 @@ explanation: "内容 benar, dibaca ないよう. 美容院 adalah pilihan lain d
 
 ## Referensi
 
-- Soumatome N3 Kanji, topik Minggu 6 Hari 2: 求人広告
+- Soumatome N3 Kanji, Minggu 6 Hari 2: 求人広告
+- Shinkanzen N3 Kanji sebagai validasi kanji dan perbandingan konteks
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

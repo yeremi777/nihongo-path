@@ -172,6 +172,7 @@ explanation: "各駅停車 benar, dibaca かくえきていしゃ. 各自 adalah
 
 ## Referensi
 
-- Soumatome N3 Kanji, topik Minggu 1 Hari 4: 駅のホーム
+- Soumatome N3 Kanji, Minggu 1 Hari 4: 駅のホーム
+- Shinkanzen N3 Kanji sebagai validasi kanji dan perbandingan konteks
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

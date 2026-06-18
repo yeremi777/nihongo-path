@@ -294,6 +294,7 @@ explanation: "割合 benar, dibaca わりあい. 二倍 adalah pilihan lain dari
 
 ## Referensi
 
-- Soumatome N3 Kanji, topik Minggu 4 Hari 2: 広告メール
+- Soumatome N3 Kanji, Minggu 4 Hari 2: 広告メール
+- Shinkanzen N3 Kanji sebagai validasi kanji dan perbandingan konteks
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

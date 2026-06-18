@@ -262,7 +262,7 @@ explanation: "Botol dan benda panjang memakai 〜ほん. Bentuk satu adalah い�
 
 ## Referensi
 
-- Soumatome N5 Vocabulary, topik Minggu 1 Hari 7: からだ・ふく・かぞえかた
+- Soumatome N5 Vocabulary, Minggu 1 Hari 7: からだ・ふく・かぞえかた
 - JLPT Sensei N5 Vocabulary List
 - JTest4You N5 Vocabulary List
 - Bunpro N5 Vocabulary

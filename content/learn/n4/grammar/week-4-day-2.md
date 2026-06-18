@@ -236,7 +236,8 @@ explanation: "〜そうだ（様態） benar karena kalimat contoh menunjukkan t
 
 ## Referensi
 
-- Soumatome N4 Grammar, topik Minggu 4 Hari 2: 明日は天気がよさそうです。
+- Soumatome N4 Grammar, Minggu 4 Hari 2: 明日は天気がよさそうです。
+- Minna no Nihongo II, pelajaran 32, 43, dan 47 sebagai validasi bentuk dasar
 - JLPT Sensei N4 Grammar List
 - JTest4You N4 Grammar List
 - Bunpro N4 Grammar

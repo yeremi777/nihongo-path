@@ -297,6 +297,7 @@ explanation: "大雪 benar, dibaca おおゆき. 地震 adalah pilihan lain dari
 
 ## Referensi
 
-- Soumatome N3 Kanji, topik Minggu 6 Hari 1: 天気予報
+- Soumatome N3 Kanji, Minggu 6 Hari 1: 天気予報
+- Shinkanzen N3 Kanji sebagai validasi kanji dan perbandingan konteks
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

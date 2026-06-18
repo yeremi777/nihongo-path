@@ -187,6 +187,8 @@ explanation: "教科 cocok untuk kategori pelajaran dalam kurikulum."
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, topik Minggu 4 Hari 1: 学校へ行きましょう①
+- Soumatome N3 Vocabulary, Minggu 4 Hari 1: 学校へ行きましょう①
+- Shinkanzen N3 Vocabulary sebagai validasi kosakata dan perbandingan konteks
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List
+- Bunpro N3 Vocabulary

@@ -309,6 +309,7 @@ explanation: "完全 benar, dibaca かんぜん. 了解 adalah pilihan lain dari
 
 ## Referensi
 
-- Soumatome N3 Kanji, topik Minggu 3 Hari 6: 携帯電話
+- Soumatome N3 Kanji, Minggu 3 Hari 6: 携帯電話
+- Shinkanzen N3 Kanji sebagai validasi kanji dan perbandingan konteks
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

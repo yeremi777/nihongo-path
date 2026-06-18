@@ -166,6 +166,8 @@ explanation: "わがままな人 berarti orang egois/manja; 困ります memberi
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, topik Minggu 5 Hari 3: どんな人が好き？
+- Soumatome N3 Vocabulary, Minggu 5 Hari 3: どんな人が好き？
+- Shinkanzen N3 Vocabulary sebagai validasi kosakata dan perbandingan konteks
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List
+- Bunpro N3 Vocabulary

@@ -200,7 +200,7 @@ explanation: "（Vない）でください cocok karena fungsi kalimatnya adalah
 ## Referensi
 
 - Soumatome N5 Grammar, Minggu 2 Hari 3: しゅくだいをわすれないでください。
-- Minna no Nihongo I sebagai validasi bentuk dasar
+- Minna no Nihongo I, pelajaran 1, 13, 14, 15, dan 17 sebagai validasi bentuk dasar
 - JLPT Sensei N5 Grammar List
 - JTest4You N5 Grammar List
 - Bunpro N5 Grammar

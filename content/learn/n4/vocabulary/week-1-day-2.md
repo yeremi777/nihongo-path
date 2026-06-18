@@ -195,7 +195,7 @@ explanation: "寂しい benar karena konteksnya sendirian. 残念です berarti 
 
 ## Referensi
 
-- Soumatome N4 Vocabulary, topik Minggu 1 Hari 2: どんな気持ち？
+- Soumatome N4 Vocabulary, Minggu 1 Hari 2: どんな気持ち？
 - JLPT Sensei N4 Vocabulary List
 - JTest4You N4 Vocabulary List
 - Bunpro N4 Vocabulary

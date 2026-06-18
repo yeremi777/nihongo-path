@@ -141,7 +141,6 @@ explanation: "勉強 berarti belajar. 集合 berarti berkumpul."
 
 ## Referensi
 
-- Soumatome N4 Kanji, topik Minggu 1 Hari 2: 同・何・回
+- Soumatome N4 Kanji, Minggu 1 Hari 2: 同・何・回
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List
-

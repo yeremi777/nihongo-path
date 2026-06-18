@@ -6,10 +6,16 @@ import {
   auditCommonLessonShell,
   auditContohKalimat,
   auditFuriganaQuality,
+  auditLessonCollection,
+  auditLessonMetadata,
+  auditLevelExampleLength,
   auditNoMarkdownFurigana,
+  auditPlaceholderLanguage,
+  auditReferenceSection,
   auditMiniPractice,
+  createIssueCollector,
   collectLessonFiles,
-  rel,
+  printAuditReport,
   section,
 } from "./lesson-audit-shared.mjs";
 
@@ -73,40 +79,68 @@ const auditGrammarPlaceholders = (text, push) => {
 };
 
 const auditGrammarFile = (file, text) => {
-  const issues = [];
-  const push = (message) => issues.push(`${rel(file)}: ${message}`);
+  const { errors, warnings, error, warn } = createIssueCollector(file);
+  const lessonMeta = auditLessonMetadata(file, text, error, warn, "grammar");
 
-  auditCommonLessonShell(text, push, {
+  auditCommonLessonShell(text, error, {
     requiredSections: REQUIRED_SECTIONS,
     wordStripSection: "Peta Pola",
   });
 
   const polaHariIni = section(text, "Pola Hari Ini");
   if (!/^\|[^\n]+\|\s*$/m.test(polaHariIni)) {
-    push("## Pola Hari Ini must include a pattern summary table");
+    error("## Pola Hari Ini must include a pattern summary table");
   }
 
   const bangunKalimat = section(text, "Bangun Kalimat Bertahap");
   if (!/^\|[^\n]+\|\s*$/m.test(bangunKalimat)) {
-    push("## Bangun Kalimat Bertahap must include a step-build table");
+    error("## Bangun Kalimat Bertahap must include a step-build table");
   }
 
-  auditContohKalimat(section(text, "Contoh Kalimat"), push);
-  auditNoMarkdownFurigana(text, push);
-  auditFuriganaQuality(text, push);
-  auditMiniPractice(text, push);
-  auditGrammarPlaceholders(text, push);
+  auditContohKalimat(section(text, "Contoh Kalimat"), error);
+  auditNoMarkdownFurigana(text, error);
+  auditFuriganaQuality(text, error);
+  auditMiniPractice(text, error);
+  auditGrammarPlaceholders(text, error);
+  auditPlaceholderLanguage(text, error);
+  auditReferenceSection(text, lessonMeta, error, "grammar");
+  auditLevelExampleLength(text, lessonMeta, warn);
 
-  return issues;
+  if (lessonMeta?.level === "N3") {
+    const nuanceSignals = [
+      "ニュアンス",
+      "nuance",
+      "Catatan Pemakaian",
+      "Hal yang Mudah Tertukar",
+      "Kesalahan Umum",
+    ];
+    if (!nuanceSignals.some((signal) => text.includes(signal))) {
+      warn("N3 grammar should include nuance, contrast, or common-mistake guidance");
+    }
+  }
+
+  return { errors, warnings };
 };
 
 export function runGrammarAudit() {
   const lessonFiles = collectGrammarLessonFiles();
-  const issues = lessonFiles.flatMap((file) =>
-    auditGrammarFile(file, fs.readFileSync(file, "utf8")),
+  const issues = [];
+  const warnings = [];
+
+  auditLessonCollection(
+    lessonFiles,
+    (message) => issues.push(message),
+    (message) => warnings.push(message),
+    "grammar",
   );
 
-  return { lessonFiles, issues };
+  for (const file of lessonFiles) {
+    const result = auditGrammarFile(file, fs.readFileSync(file, "utf8"));
+    issues.push(...result.errors);
+    warnings.push(...result.warnings);
+  }
+
+  return { lessonFiles, issues, warnings };
 }
 
 const isMain =
@@ -114,17 +148,8 @@ const isMain =
   path.resolve(process.argv[1]) === fileURLToPath(import.meta.url);
 
 if (isMain) {
-  const { lessonFiles, issues } = runGrammarAudit();
-
-  if (issues.length) {
-    console.error(
-      `Grammar markdown audit failed with ${issues.length} issue(s):`,
-    );
-    for (const issue of issues) console.error(`- ${issue}`);
-    process.exit(1);
-  }
-
-  console.log(
-    `Grammar markdown audit passed for ${lessonFiles.length} grammar lesson file(s).`,
-  );
+  printAuditReport({
+    name: "Grammar",
+    ...runGrammarAudit(),
+  });
 }

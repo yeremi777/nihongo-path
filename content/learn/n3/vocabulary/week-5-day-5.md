@@ -157,6 +157,8 @@ explanation: "顔色が悪い berarti wajah tampak pucat atau tidak sehat."
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, topik Minggu 5 Hari 5: どんなようすですか？①
+- Soumatome N3 Vocabulary, Minggu 5 Hari 5: どんなようすですか？①
+- Shinkanzen N3 Vocabulary sebagai validasi kosakata dan perbandingan konteks
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List
+- Bunpro N3 Vocabulary

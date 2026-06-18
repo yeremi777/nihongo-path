@@ -214,6 +214,8 @@ explanation: "ことになりました benar karena keputusan pekerjaan terasa d
 
 ## Referensi
 
-- Soumatome N3 Grammar, topik Minggu 6 Hari 2: 話せることは話せますが...
+- Soumatome N3 Grammar, Minggu 6 Hari 2: 話せることは話せますが...
+- Shinkanzen N3 Grammar sebagai validasi nuansa dan perbandingan konteks
 - JLPT Sensei N3 Grammar List
+- JTest4You N3 Grammar List
 - Bunpro N3 Grammar

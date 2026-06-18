@@ -202,7 +202,7 @@ explanation: "に benar karena polanya （N）に慣れる, yaitu terbiasa denga
 
 ## Referensi
 
-- Soumatome N4 Vocabulary, topik Minggu 1 Hari 5: はじめ・はじめて・はじめに
+- Soumatome N4 Vocabulary, Minggu 1 Hari 5: はじめ・はじめて・はじめに
 - JLPT Sensei N4 Vocabulary List
 - JTest4You N4 Vocabulary List
 - Bunpro N4 Vocabulary

@@ -157,6 +157,8 @@ explanation: "予定が立つ berarti rencana tersusun; 旅行の memberi kontek
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, topik Minggu 6 Hari 6: 意味がたくさんある動詞②
+- Soumatome N3 Vocabulary, Minggu 6 Hari 6: 意味がたくさんある動詞②
+- Shinkanzen N3 Vocabulary sebagai validasi kosakata dan perbandingan konteks
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List
+- Bunpro N3 Vocabulary

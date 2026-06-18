@@ -175,7 +175,7 @@ explanation: "シャワーをあびる berarti mandi shower. ねる berarti tidu
 
 ## Referensi
 
-- Soumatome N5 Vocabulary, topik Minggu 1 Hari 2: はたらいています
+- Soumatome N5 Vocabulary, Minggu 1 Hari 2: はたらいています
 - JLPT Sensei N5 Vocabulary List
 - JTest4You N5 Vocabulary List
 - Bunpro N5 Vocabulary

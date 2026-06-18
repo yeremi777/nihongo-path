@@ -295,6 +295,7 @@ explanation: "小型 benar, dibaca こがた. 消費税 adalah pilihan lain dari
 
 ## Referensi
 
-- Soumatome N3 Kanji, topik Minggu 4 Hari 3: 通信販売
+- Soumatome N3 Kanji, Minggu 4 Hari 3: 通信販売
+- Shinkanzen N3 Kanji sebagai validasi kanji dan perbandingan konteks
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

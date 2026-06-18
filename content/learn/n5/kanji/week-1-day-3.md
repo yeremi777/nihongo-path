@@ -156,6 +156,6 @@ explanation: "少し berarti sedikit. 多い berarti banyak."
 
 ## Referensi
 
-- Soumatome N5 Kanji, topik Minggu 1 Hari 3: 大きい ↔ 小さい
+- Soumatome N5 Kanji, Minggu 1 Hari 3: 大きい ↔ 小さい
 - JLPT Sensei N5 Kanji List
 - JTest4You N5 Kanji List

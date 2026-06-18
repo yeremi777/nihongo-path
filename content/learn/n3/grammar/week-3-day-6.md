@@ -221,6 +221,8 @@ explanation: "独身のふりをしています benar karena nomina sebelum ふ�
 
 ## Referensi
 
-- Soumatome N3 Grammar, topik Minggu 3 Hari 6: 教えてほしい
+- Soumatome N3 Grammar, Minggu 3 Hari 6: 教えてほしい
+- Shinkanzen N3 Grammar sebagai validasi nuansa dan perbandingan konteks
 - JLPT Sensei N3 Grammar List
+- JTest4You N3 Grammar List
 - Bunpro N3 Grammar

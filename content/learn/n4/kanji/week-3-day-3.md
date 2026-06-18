@@ -137,7 +137,6 @@ explanation: "不便 berarti tidak praktis. 不安 berarti cemas."
 
 ## Referensi
 
-- Soumatome N4 Kanji, topik Minggu 3 Hari 3: 習う ↔ 教える
+- Soumatome N4 Kanji, Minggu 3 Hari 3: 習う ↔ 教える
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List
-

@@ -212,6 +212,8 @@ explanation: "勉強しろと言われました benar karena melaporkan perintah
 
 ## Referensi
 
-- Soumatome N3 Grammar, topik Minggu 2 Hari 6: 食べてごらん
+- Soumatome N3 Grammar, Minggu 2 Hari 6: 食べてごらん
+- Shinkanzen N3 Grammar sebagai validasi nuansa dan perbandingan konteks
 - JLPT Sensei N3 Grammar List
+- JTest4You N3 Grammar List
 - Bunpro N3 Grammar

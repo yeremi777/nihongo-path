@@ -308,6 +308,7 @@ explanation: "薬局 benar, dibaca やっきょく. 交番 adalah pilihan lain d
 
 ## Referensi
 
-- Soumatome N3 Kanji, topik Minggu 2 Hari 4: 街の地図
+- Soumatome N3 Kanji, Minggu 2 Hari 4: 街の地図
+- Shinkanzen N3 Kanji sebagai validasi kanji dan perbandingan konteks
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

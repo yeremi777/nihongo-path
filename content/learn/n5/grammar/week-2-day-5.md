@@ -171,7 +171,7 @@ explanation: "名詞修飾 sesuai dengan pola hari ini."
 ## Referensi
 
 - Soumatome N5 Grammar, Minggu 2 Hari 5: これはともだちにもらったCDです。
-- Minna no Nihongo I sebagai validasi bentuk dasar
+- Minna no Nihongo I, pelajaran 22 sebagai validasi bentuk dasar
 - JLPT Sensei N5 Grammar List
 - JTest4You N5 Grammar List
 - Bunpro N5 Grammar

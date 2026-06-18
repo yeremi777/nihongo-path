@@ -209,7 +209,8 @@ explanation: "〜ば benar karena kalimat contoh menunjukkan jika ~; kalau ~."
 
 ## Referensi
 
-- Soumatome N4 Grammar, topik Minggu 4 Hari 1: 夏休みになったら、国に帰ります。
+- Soumatome N4 Grammar, Minggu 4 Hari 1: 夏休みになったら、国に帰ります。
+- Minna no Nihongo II, pelajaran 35 sebagai validasi bentuk dasar
 - JLPT Sensei N4 Grammar List
 - JTest4You N4 Grammar List
 - Bunpro N4 Grammar

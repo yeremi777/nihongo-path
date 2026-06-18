@@ -333,6 +333,7 @@ explanation: "無断 benar, dibaca むだん. 満車 adalah pilihan lain dari pe
 
 ## Referensi
 
-- Soumatome N3 Kanji, topik Minggu 1 Hari 1: 駐車場
+- Soumatome N3 Kanji, Minggu 1 Hari 1: 駐車場
+- Shinkanzen N3 Kanji sebagai validasi kanji dan perbandingan konteks
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

@@ -237,6 +237,8 @@ explanation: "手伝わせてもらえますか benar karena saya meminta izin a
 
 ## Referensi
 
-- Soumatome N3 Grammar, topik Minggu 1 Hari 1: ぼくにもやらせて
+- Soumatome N3 Grammar, Minggu 1 Hari 1: ぼくにもやらせて
+- Shinkanzen N3 Grammar sebagai validasi nuansa dan perbandingan konteks
 - JLPT Sensei N3 Grammar List
+- JTest4You N3 Grammar List
 - Bunpro N3 Grammar

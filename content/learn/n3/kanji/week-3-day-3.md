@@ -307,6 +307,7 @@ explanation: "減少 benar, dibaca げんしょう. 数量 adalah pilihan lain d
 
 ## Referensi
 
-- Soumatome N3 Kanji, topik Minggu 3 Hari 3: 自動販売機
+- Soumatome N3 Kanji, Minggu 3 Hari 3: 自動販売機
+- Shinkanzen N3 Kanji sebagai validasi kanji dan perbandingan konteks
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

@@ -238,7 +238,8 @@ explanation: "〜をあげる・〜をくれる・〜をもらう benar karena k
 
 ## Referensi
 
-- Soumatome N4 Grammar, topik Minggu 2 Hari 3: 教えてくれてありがとう。
+- Soumatome N4 Grammar, Minggu 2 Hari 3: 教えてくれてありがとう。
+- Minna no Nihongo II, pelajaran 41 sebagai validasi bentuk dasar
 - JLPT Sensei N4 Grammar List
 - JTest4You N4 Grammar List
 - Bunpro N4 Grammar

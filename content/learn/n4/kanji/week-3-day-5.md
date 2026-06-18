@@ -139,7 +139,6 @@ explanation: "会議室 berarti ruang rapat. 教室 berarti kelas."
 
 ## Referensi
 
-- Soumatome N4 Kanji, topik Minggu 3 Hari 5: 親切・切手
+- Soumatome N4 Kanji, Minggu 3 Hari 5: 親切・切手
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List
-

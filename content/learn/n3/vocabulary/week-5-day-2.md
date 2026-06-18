@@ -170,6 +170,8 @@ explanation: "はじめまして dipakai saat perkenalan pertama."
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, topik Minggu 5 Hari 2: あいさつをしましょう
+- Soumatome N3 Vocabulary, Minggu 5 Hari 2: あいさつをしましょう
+- Shinkanzen N3 Vocabulary sebagai validasi kosakata dan perbandingan konteks
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List
+- Bunpro N3 Vocabulary

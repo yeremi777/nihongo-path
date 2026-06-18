@@ -273,7 +273,8 @@ explanation: "〜てもらえませんか benar karena kalimat contoh menunjukka
 
 ## Referensi
 
-- Soumatome N4 Grammar, topik Minggu 3 Hari 5: 手伝ってくださいませんか。
+- Soumatome N4 Grammar, Minggu 3 Hari 5: 手伝ってくださいませんか。
+- Minna no Nihongo II, pelajaran 26 dan 41 sebagai validasi bentuk dasar
 - JLPT Sensei N4 Grammar List
 - JTest4You N4 Grammar List
 - Bunpro N4 Grammar

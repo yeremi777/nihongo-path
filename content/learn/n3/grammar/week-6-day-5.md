@@ -213,6 +213,8 @@ explanation: "ちっともおもしろくありません benar karena gaya kasua
 
 ## Referensi
 
-- Soumatome N3 Grammar, topik Minggu 6 Hari 5: めったに行かない
+- Soumatome N3 Grammar, Minggu 6 Hari 5: めったに行かない
+- Shinkanzen N3 Grammar sebagai validasi nuansa dan perbandingan konteks
 - JLPT Sensei N3 Grammar List
+- JTest4You N3 Grammar List
 - Bunpro N3 Grammar

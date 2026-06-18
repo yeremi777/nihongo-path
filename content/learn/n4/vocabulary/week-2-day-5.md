@@ -197,7 +197,7 @@ explanation: "やっぱり〜にする berarti akhirnya memilih sesuatu setelah 
 
 ## Referensi
 
-- Soumatome N4 Vocabulary, topik Minggu 2 Hari 5: きっと・やっと・ずっと
+- Soumatome N4 Vocabulary, Minggu 2 Hari 5: きっと・やっと・ずっと
 - JLPT Sensei N4 Vocabulary List
 - JTest4You N4 Vocabulary List
 - Bunpro N4 Vocabulary

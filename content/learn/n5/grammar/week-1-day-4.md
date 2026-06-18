@@ -179,7 +179,7 @@ explanation: "〜で（場所・方法・範囲） sesuai dengan pola hari ini."
 ## Referensi
 
 - Soumatome N5 Grammar, Minggu 1 Hari 4: しゅくだいは いえで しましょう。
-- Minna no Nihongo I sebagai validasi bentuk dasar
+- Minna no Nihongo I, pelajaran 1, 4, 5, 6, 7, 10, dan 12 sebagai validasi bentuk dasar
 - JLPT Sensei N5 Grammar List
 - JTest4You N5 Grammar List
 - Bunpro N5 Grammar

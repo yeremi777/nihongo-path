@@ -214,7 +214,7 @@ explanation: "深い benar karena berarti dalam. 浅い berarti dangkal."
 
 ## Referensi
 
-- Soumatome N4 Vocabulary, topik Minggu 1 Hari 6: ふとい ↔ ほそい
+- Soumatome N4 Vocabulary, Minggu 1 Hari 6: ふとい ↔ ほそい
 - JLPT Sensei N4 Vocabulary List
 - JTest4You N4 Vocabulary List
 - Bunpro N4 Vocabulary

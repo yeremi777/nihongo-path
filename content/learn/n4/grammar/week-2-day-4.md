@@ -251,7 +251,8 @@ explanation: "われ benar. Passive instruction uses 〜ように言われる"
 
 ## Referensi
 
-- Soumatome N4 Grammar, topik Minggu 2 Hari 4: 日記を書くようにしましょう。
+- Soumatome N4 Grammar, Minggu 2 Hari 4: 日記を書くようにしましょう。
+- Minna no Nihongo II, pelajaran 36 dan 42 sebagai validasi bentuk dasar
 - JLPT Sensei N4 Grammar List
 - JTest4You N4 Grammar List
 - Bunpro N4 Grammar

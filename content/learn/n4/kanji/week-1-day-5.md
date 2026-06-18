@@ -139,7 +139,6 @@ explanation: "小説 berarti novel. 家族 berarti keluarga."
 
 ## Referensi
 
-- Soumatome N4 Kanji, topik Minggu 1 Hari 5: 医者・歌手
+- Soumatome N4 Kanji, Minggu 1 Hari 5: 医者・歌手
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List
-

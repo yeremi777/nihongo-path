@@ -212,7 +212,8 @@ explanation: "〜て・〜で（原因） benar karena kalimat contoh menunjukka
 
 ## Referensi
 
-- Soumatome N4 Grammar, topik Minggu 1 Hari 5: 音楽を聞きながら勉強しています。
+- Soumatome N4 Grammar, Minggu 1 Hari 5: 音楽を聞きながら勉強しています。
+- Minna no Nihongo II, pelajaran 28, 34, dan 39 sebagai validasi bentuk dasar
 - JLPT Sensei N4 Grammar List
 - JTest4You N4 Grammar List
 - Bunpro N4 Grammar

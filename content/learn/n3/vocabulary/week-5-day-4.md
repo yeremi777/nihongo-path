@@ -161,6 +161,8 @@ explanation: "医者 umum dipakai dalam percakapan sehari-hari untuk dokter."
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, topik Minggu 5 Hari 4: 体の調子はどうですか？
+- Soumatome N3 Vocabulary, Minggu 5 Hari 4: 体の調子はどうですか？
+- Shinkanzen N3 Vocabulary sebagai validasi kosakata dan perbandingan konteks
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List
+- Bunpro N3 Vocabulary

@@ -155,6 +155,6 @@ explanation: "会話 berarti percakapan. 会社 berarti perusahaan."
 
 ## Referensi
 
-- Soumatome N5 Kanji, topik Minggu 1 Hari 5: 何をしていますか。
+- Soumatome N5 Kanji, Minggu 1 Hari 5: 何をしていますか。
 - JLPT Sensei N5 Kanji List
 - JTest4You N5 Kanji List

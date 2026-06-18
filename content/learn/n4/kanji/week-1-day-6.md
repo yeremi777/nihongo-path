@@ -145,6 +145,6 @@ explanation: "市民 berarti warga kota. 県民 berarti warga prefektur."
 
 ## Referensi
 
-- Soumatome N4 Kanji, topik Minggu 1 Hari 6: 東・西・南・北
+- Soumatome N4 Kanji, Minggu 1 Hari 6: 東・西・南・北
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List

@@ -236,7 +236,8 @@ explanation: "〜出す benar karena kalimat contoh menunjukkan mulai ~ secara t
 
 ## Referensi
 
-- Soumatome N4 Grammar, topik Minggu 4 Hari 3: この本は使いやすいです。
+- Soumatome N4 Grammar, Minggu 4 Hari 3: この本は使いやすいです。
+- Minna no Nihongo II, pelajaran 44 sebagai validasi bentuk dasar
 - JLPT Sensei N4 Grammar List
 - JTest4You N4 Grammar List
 - Bunpro N4 Grammar

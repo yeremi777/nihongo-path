@@ -195,7 +195,7 @@ explanation: "こちらでお召し上がりですか berarti apakah makan di si
 
 ## Referensi
 
-- Soumatome N4 Vocabulary, topik Minggu 3 Hari 6: ていねいな話し方
+- Soumatome N4 Vocabulary, Minggu 3 Hari 6: ていねいな話し方
 - JLPT Sensei N4 Vocabulary List
 - JTest4You N4 Vocabulary List
 - Bunpro N4 Vocabulary

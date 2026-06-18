@@ -204,7 +204,7 @@ explanation: "大切にする berarti menjaga baik-baik atau menghargai. 大変 
 
 ## Referensi
 
-- Soumatome N4 Vocabulary, topik Minggu 2 Hari 6: なくす・さがす・みつける
+- Soumatome N4 Vocabulary, Minggu 2 Hari 6: なくす・さがす・みつける
 - JLPT Sensei N4 Vocabulary List
 - JTest4You N4 Vocabulary List
 - Bunpro N4 Vocabulary

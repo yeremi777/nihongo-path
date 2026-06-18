@@ -155,6 +155,8 @@ explanation: "出会い adalah nomina pertemuan; があった memberi petunjuk k
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, topik Minggu 6 Hari 4: 組み合わせのことば
+- Soumatome N3 Vocabulary, Minggu 6 Hari 4: 組み合わせのことば
+- Shinkanzen N3 Vocabulary sebagai validasi kosakata dan perbandingan konteks
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List
+- Bunpro N3 Vocabulary

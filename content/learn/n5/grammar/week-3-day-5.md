@@ -194,7 +194,7 @@ explanation: "〜たり〜たりします cocok karena fungsi kalimatnya adalah 
 ## Referensi
 
 - Soumatome N5 Grammar, Minggu 3 Hari 5: 母は父よりせが高いです。
-- Minna no Nihongo I sebagai validasi bentuk dasar
+- Minna no Nihongo I, pelajaran 12 dan 19 sebagai validasi bentuk dasar
 - JLPT Sensei N5 Grammar List
 - JTest4You N5 Grammar List
 - Bunpro N5 Grammar

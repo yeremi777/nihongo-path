@@ -141,7 +141,6 @@ explanation: "両方 berarti keduanya. 夕方 berarti sore."
 
 ## Referensi
 
-- Soumatome N4 Kanji, topik Minggu 1 Hari 4: 旅行・有名
+- Soumatome N4 Kanji, Minggu 1 Hari 4: 旅行・有名
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List
-

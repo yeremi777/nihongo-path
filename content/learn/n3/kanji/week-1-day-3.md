@@ -231,6 +231,7 @@ explanation: "段差 benar, dibaca だんさ. 危険 adalah pilihan lain dari pe
 
 ## Referensi
 
-- Soumatome N3 Kanji, topik Minggu 1 Hari 3: サイン
+- Soumatome N3 Kanji, Minggu 1 Hari 3: サイン
+- Shinkanzen N3 Kanji sebagai validasi kanji dan perbandingan konteks
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

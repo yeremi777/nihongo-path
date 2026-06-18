@@ -228,6 +228,8 @@ explanation: "肉じゃが benar karena を作る cocok untuk nama masakan yang 
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, topik Minggu 1 Hari 2: 料理をしましょう①
+- Soumatome N3 Vocabulary, Minggu 1 Hari 2: 料理をしましょう①
+- Shinkanzen N3 Vocabulary sebagai validasi kosakata dan perbandingan konteks
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List
+- Bunpro N3 Vocabulary

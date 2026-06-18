@@ -206,6 +206,8 @@ explanation: "運転席 adalah kursi pengemudi. に座った memberi petunjuk te
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, topik Minggu 2 Hari 4: 車に乗りましょう①
+- Soumatome N3 Vocabulary, Minggu 2 Hari 4: 車に乗りましょう①
+- Shinkanzen N3 Vocabulary sebagai validasi kosakata dan perbandingan konteks
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List
+- Bunpro N3 Vocabulary

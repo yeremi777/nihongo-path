@@ -207,7 +207,7 @@ explanation: "どうやって benar karena menanyakan cara atau prosedur. ずっ
 
 ## Referensi
 
-- Soumatome N4 Vocabulary, topik Minggu 2 Hari 3: どうやって？
+- Soumatome N4 Vocabulary, Minggu 2 Hari 3: どうやって？
 - JLPT Sensei N4 Vocabulary List
 - JTest4You N4 Vocabulary List
 - Bunpro N4 Vocabulary

@@ -224,7 +224,8 @@ explanation: "〜よ benar karena kalimat contoh menunjukkan penekanan, penginga
 
 ## Referensi
 
-- Soumatome N4 Grammar, topik Minggu 4 Hari 6: 試験に受からないかなあ。
+- Soumatome N4 Grammar, Minggu 4 Hari 6: 試験に受からないかなあ。
+- Minna no Nihongo II, pelajaran 26 sebagai validasi bentuk dasar
 - JLPT Sensei N4 Grammar List
 - JTest4You N4 Grammar List
 - Bunpro N4 Grammar

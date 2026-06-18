@@ -323,6 +323,7 @@ explanation: "冷凍庫 benar, dibaca れいとうこ. 金庫 adalah pilihan lai
 
 ## Referensi
 
-- Soumatome N3 Kanji, topik Minggu 3 Hari 1: 要冷蔵
+- Soumatome N3 Kanji, Minggu 3 Hari 1: 要冷蔵
+- Shinkanzen N3 Kanji sebagai validasi kanji dan perbandingan konteks
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

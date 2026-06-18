@@ -293,6 +293,7 @@ explanation: "睡眠 benar, dibaca すいみん. 息切れ adalah pilihan lain d
 
 ## Referensi
 
-- Soumatome N3 Kanji, topik Minggu 5 Hari 6: 問診票ー健康診断
+- Soumatome N3 Kanji, Minggu 5 Hari 6: 問診票ー健康診断
+- Shinkanzen N3 Kanji sebagai validasi kanji dan perbandingan konteks
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

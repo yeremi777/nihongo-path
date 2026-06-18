@@ -215,6 +215,8 @@ explanation: "君さえいれば benar karena menunjukkan syarat minimum: cukup 
 
 ## Referensi
 
-- Soumatome N3 Grammar, topik Minggu 2 Hari 1: うそばっかり！
+- Soumatome N3 Grammar, Minggu 2 Hari 1: うそばっかり！
+- Shinkanzen N3 Grammar sebagai validasi nuansa dan perbandingan konteks
 - JLPT Sensei N3 Grammar List
+- JTest4You N3 Grammar List
 - Bunpro N3 Grammar

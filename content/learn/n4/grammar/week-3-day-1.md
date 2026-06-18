@@ -209,7 +209,8 @@ explanation: "〜のに（用途・目的） benar karena kalimat contoh menunju
 
 ## Referensi
 
-- Soumatome N4 Grammar, topik Minggu 3 Hari 1: 漢字を書くのは大変です。
+- Soumatome N4 Grammar, Minggu 3 Hari 1: 漢字を書くのは大変です。
+- Minna no Nihongo II, pelajaran 38, 40, dan 42 sebagai validasi bentuk dasar
 - JLPT Sensei N4 Grammar List
 - JTest4You N4 Grammar List
 - Bunpro N4 Grammar

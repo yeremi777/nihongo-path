@@ -186,7 +186,7 @@ explanation: "まあまあ・ほとんど・だいたい sesuai dengan pola hari
 ## Referensi
 
 - Soumatome N5 Grammar, Minggu 3 Hari 2: まだしゅくだいをしていません。
-- Minna no Nihongo I sebagai validasi bentuk dasar
+- Minna no Nihongo I, pelajaran 7 sebagai validasi bentuk dasar
 - JLPT Sensei N5 Grammar List
 - JTest4You N5 Grammar List
 - Bunpro N5 Grammar

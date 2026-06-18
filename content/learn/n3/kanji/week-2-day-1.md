@@ -305,6 +305,7 @@ explanation: "案内 benar, dibaca あんない. 店内 adalah pilihan lain dari
 
 ## Referensi
 
-- Soumatome N3 Kanji, topik Minggu 2 Hari 1: レストラン
+- Soumatome N3 Kanji, Minggu 2 Hari 1: レストラン
+- Shinkanzen N3 Kanji sebagai validasi kanji dan perbandingan konteks
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

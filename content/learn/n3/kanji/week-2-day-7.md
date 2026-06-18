@@ -288,6 +288,7 @@ explanation: "番組 benar, dibaca ばんぐみ. 約束 adalah pilihan lain dari
 
 ## Referensi
 
-- Soumatome N3 Kanji, topik Minggu 2 Hari 7: クイズ②
+- Soumatome N3 Kanji, Minggu 2 Hari 7: クイズ②
+- Shinkanzen N3 Kanji sebagai validasi kanji dan perbandingan konteks
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

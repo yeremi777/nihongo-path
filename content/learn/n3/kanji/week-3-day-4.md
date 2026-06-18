@@ -324,6 +324,7 @@ explanation: "小麦粉 benar, dibaca こむぎこ. 紙袋 adalah pilihan lain d
 
 ## Referensi
 
-- Soumatome N3 Kanji, topik Minggu 3 Hari 4: レシピ
+- Soumatome N3 Kanji, Minggu 3 Hari 4: レシピ
+- Shinkanzen N3 Kanji sebagai validasi kanji dan perbandingan konteks
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

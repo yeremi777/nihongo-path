@@ -308,6 +308,7 @@ explanation: "定期券 benar, dibaca ていきけん. 期限 adalah pilihan lai
 
 ## Referensi
 
-- Soumatome N3 Kanji, topik Minggu 3 Hari 2: 消費期限
+- Soumatome N3 Kanji, Minggu 3 Hari 2: 消費期限
+- Shinkanzen N3 Kanji sebagai validasi kanji dan perbandingan konteks
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

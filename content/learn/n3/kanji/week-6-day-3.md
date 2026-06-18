@@ -297,6 +297,7 @@ explanation: "反対 benar, dibaca はんたい. 勝負 adalah pilihan lain dari
 
 ## Referensi
 
-- Soumatome N3 Kanji, topik Minggu 6 Hari 3: スポーツ記事
+- Soumatome N3 Kanji, Minggu 6 Hari 3: スポーツ記事
+- Shinkanzen N3 Kanji sebagai validasi kanji dan perbandingan konteks
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

@@ -200,6 +200,8 @@ explanation: "話したように benar karena merujuk pada hal yang sudah dikata
 
 ## Referensi
 
-- Soumatome N3 Grammar, topik Minggu 1 Hari 5: 言ったように
+- Soumatome N3 Grammar, Minggu 1 Hari 5: 言ったように
+- Shinkanzen N3 Grammar sebagai validasi nuansa dan perbandingan konteks
 - JLPT Sensei N3 Grammar List
+- JTest4You N3 Grammar List
 - Bunpro N3 Grammar

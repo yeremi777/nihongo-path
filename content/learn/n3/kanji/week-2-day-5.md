@@ -308,6 +308,7 @@ explanation: "外科 benar, dibaca げか. 教科書 adalah pilihan lain dari pe
 
 ## Referensi
 
-- Soumatome N3 Kanji, topik Minggu 2 Hari 5: 病院
+- Soumatome N3 Kanji, Minggu 2 Hari 5: 病院
+- Shinkanzen N3 Kanji sebagai validasi kanji dan perbandingan konteks
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

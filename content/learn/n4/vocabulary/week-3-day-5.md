@@ -199,7 +199,7 @@ explanation: "けっこうです dalam penolakan berarti tidak perlu/sudah cukup
 
 ## Referensi
 
-- Soumatome N4 Vocabulary, topik Minggu 3 Hari 5: おいわい・おみまい・あんない
+- Soumatome N4 Vocabulary, Minggu 3 Hari 5: おいわい・おみまい・あんない
 - JLPT Sensei N4 Vocabulary List
 - JTest4You N4 Vocabulary List
 - Bunpro N4 Vocabulary

@@ -224,7 +224,8 @@ explanation: "それで・だから benar karena kalimat contoh menunjukkan kare
 
 ## Referensi
 
-- Soumatome N4 Grammar, topik Minggu 3 Hari 4: この漢字の読み方はむずかしいです。
+- Soumatome N4 Grammar, Minggu 3 Hari 4: この漢字の読み方はむずかしいです。
+- Minna no Nihongo II sebagai validasi bentuk dasar
 - JLPT Sensei N4 Grammar List
 - JTest4You N4 Grammar List
 - Bunpro N4 Grammar

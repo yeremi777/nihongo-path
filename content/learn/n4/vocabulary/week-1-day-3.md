@@ -198,7 +198,7 @@ explanation: "に benar karena （Clothes）に着替える menandai pakaian has
 
 ## Referensi
 
-- Soumatome N4 Vocabulary, topik Minggu 1 Hari 3: 気分はどう？
+- Soumatome N4 Vocabulary, Minggu 1 Hari 3: 気分はどう？
 - JLPT Sensei N4 Vocabulary List
 - JTest4You N4 Vocabulary List
 - Bunpro N4 Vocabulary

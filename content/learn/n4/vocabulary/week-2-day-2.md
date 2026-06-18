@@ -204,7 +204,7 @@ explanation: "を benar karena 公園を走る menunjukkan area/rute yang dilalu
 
 ## Referensi
 
-- Soumatome N4 Vocabulary, topik Minggu 2 Hari 2: どの人？
+- Soumatome N4 Vocabulary, Minggu 2 Hari 2: どの人？
 - JLPT Sensei N4 Vocabulary List
 - JTest4You N4 Vocabulary List
 - Bunpro N4 Vocabulary

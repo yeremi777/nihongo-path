@@ -302,6 +302,7 @@ explanation: "信用 benar, dibaca しんよう. 一号車 adalah pilihan lain d
 
 ## Referensi
 
-- Soumatome N3 Kanji, topik Minggu 1 Hari 2: 横断歩道
+- Soumatome N3 Kanji, Minggu 1 Hari 2: 横断歩道
+- Shinkanzen N3 Kanji sebagai validasi kanji dan perbandingan konteks
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

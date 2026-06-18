@@ -139,7 +139,6 @@ explanation: "洋服 berarti pakaian Barat. 和服 berarti pakaian Jepang."
 
 ## Referensi
 
-- Soumatome N4 Kanji, topik Minggu 2 Hari 5: 号・番・全
+- Soumatome N4 Kanji, Minggu 2 Hari 5: 号・番・全
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List
-

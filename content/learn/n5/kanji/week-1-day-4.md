@@ -151,6 +151,6 @@ explanation: "外国 berarti luar negeri. 駅前 berarti depan stasiun."
 
 ## Referensi
 
-- Soumatome N5 Kanji, topik Minggu 1 Hari 4: どこですか。
+- Soumatome N5 Kanji, Minggu 1 Hari 4: どこですか。
 - JLPT Sensei N5 Kanji List
 - JTest4You N5 Kanji List

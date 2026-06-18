@@ -212,6 +212,8 @@ explanation: "としても benar karena hasilnya tetap tidak berubah walau kondi
 
 ## Referensi
 
-- Soumatome N3 Grammar, topik Minggu 6 Hari 1: もし私じゃなかったら
+- Soumatome N3 Grammar, Minggu 6 Hari 1: もし私じゃなかったら
+- Shinkanzen N3 Grammar sebagai validasi nuansa dan perbandingan konteks
 - JLPT Sensei N3 Grammar List
+- JTest4You N3 Grammar List
 - Bunpro N3 Grammar

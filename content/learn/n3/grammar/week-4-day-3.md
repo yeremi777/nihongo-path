@@ -213,6 +213,8 @@ explanation: "安ければ安いほど benar karena 安い adalah adjektiva-i da
 
 ## Referensi
 
-- Soumatome N3 Grammar, topik Minggu 4 Hari 3: 見れば見るほど
+- Soumatome N3 Grammar, Minggu 4 Hari 3: 見れば見るほど
+- Shinkanzen N3 Grammar sebagai validasi nuansa dan perbandingan konteks
 - JLPT Sensei N3 Grammar List
+- JTest4You N3 Grammar List
 - Bunpro N3 Grammar

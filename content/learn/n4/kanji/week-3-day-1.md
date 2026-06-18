@@ -135,7 +135,6 @@ explanation: "本屋 berarti toko buku. 花屋 berarti toko bunga."
 
 ## Referensi
 
-- Soumatome N4 Kanji, topik Minggu 3 Hari 1: 部屋・土産
+- Soumatome N4 Kanji, Minggu 3 Hari 1: 部屋・土産
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List
-

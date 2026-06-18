@@ -228,6 +228,8 @@ explanation: "掃除をする berarti bersih-bersih. 部屋の memberi konteks a
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, topik Minggu 1 Hari 4: 掃除をしましょう
+- Soumatome N3 Vocabulary, Minggu 1 Hari 4: 掃除をしましょう
+- Shinkanzen N3 Vocabulary sebagai validasi kosakata dan perbandingan konteks
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List
+- Bunpro N3 Vocabulary

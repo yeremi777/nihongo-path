@@ -198,7 +198,7 @@ explanation: "可能形 cocok karena fungsi kalimatnya adalah bentuk potensial; 
 ## Referensi
 
 - Soumatome N5 Grammar, Minggu 3 Hari 6: かんじを書くのはむずかしいです。
-- Minna no Nihongo I sebagai validasi bentuk dasar
+- Minna no Nihongo I, pelajaran 18 sebagai validasi bentuk dasar
 - JLPT Sensei N5 Grammar List
 - JTest4You N5 Grammar List
 - Bunpro N5 Grammar

@@ -227,7 +227,8 @@ explanation: "〜たほうがいい benar karena kalimat contoh menunjukkan seba
 
 ## Referensi
 
-- Soumatome N4 Grammar, topik Minggu 2 Hari 6: もっと勉強したほうがいいですよ。
+- Soumatome N4 Grammar, Minggu 2 Hari 6: もっと勉強したほうがいいですよ。
+- Minna no Nihongo II, pelajaran 32 dan 33 sebagai validasi bentuk dasar
 - JLPT Sensei N4 Grammar List
 - JTest4You N4 Grammar List
 - Bunpro N4 Grammar

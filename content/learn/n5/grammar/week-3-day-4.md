@@ -190,7 +190,7 @@ explanation: "〜とき sesuai dengan pola hari ini."
 ## Referensi
 
 - Soumatome N5 Grammar, Minggu 3 Hari 4: ひまなとき、何をしていますか。
-- Minna no Nihongo I sebagai validasi bentuk dasar
+- Minna no Nihongo I, pelajaran 13, 18, dan 23 sebagai validasi bentuk dasar
 - JLPT Sensei N5 Grammar List
 - JTest4You N5 Grammar List
 - Bunpro N5 Grammar

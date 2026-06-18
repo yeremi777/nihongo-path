@@ -210,7 +210,7 @@ explanation: "おいくつですか berarti umur berapa. いらっしゃいま�
 
 ## Referensi
 
-- Soumatome N5 Vocabulary, topik Minggu 1 Hari 5: かぞく
+- Soumatome N5 Vocabulary, Minggu 1 Hari 5: かぞく
 - JLPT Sensei N5 Vocabulary List
 - JTest4You N5 Vocabulary List
 - Bunpro N5 Vocabulary

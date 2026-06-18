@@ -189,7 +189,7 @@ explanation: "いAdjくV・なAdjにV sesuai dengan pola hari ini."
 ## Referensi
 
 - Soumatome N5 Grammar, Minggu 3 Hari 3: あさは早くおきましょう。
-- Minna no Nihongo I sebagai validasi bentuk dasar
+- Minna no Nihongo I, pelajaran 19 dan 21 sebagai validasi bentuk dasar
 - JLPT Sensei N5 Grammar List
 - JTest4You N5 Grammar List
 - Bunpro N5 Grammar

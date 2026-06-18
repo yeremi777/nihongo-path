@@ -210,7 +210,8 @@ explanation: "〜させられる benar karena kalimat contoh menunjukkan dipaksa
 
 ## Referensi
 
-- Soumatome N4 Grammar, topik Minggu 4 Hari 4: 会社をやめさせられました。
+- Soumatome N4 Grammar, Minggu 4 Hari 4: 会社をやめさせられました。
+- Minna no Nihongo II, pelajaran 37 dan 48 sebagai validasi bentuk dasar
 - JLPT Sensei N4 Grammar List
 - JTest4You N4 Grammar List
 - Bunpro N4 Grammar

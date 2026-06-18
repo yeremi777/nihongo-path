@@ -212,6 +212,8 @@ explanation: "あと3個 benar karena あと + jumlah berarti tambahan tiga lagi
 
 ## Referensi
 
-- Soumatome N3 Grammar, topik Minggu 6 Hari 6: その上...
+- Soumatome N3 Grammar, Minggu 6 Hari 6: その上...
+- Shinkanzen N3 Grammar sebagai validasi nuansa dan perbandingan konteks
 - JLPT Sensei N3 Grammar List
+- JTest4You N3 Grammar List
 - Bunpro N3 Grammar

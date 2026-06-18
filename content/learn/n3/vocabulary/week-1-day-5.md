@@ -213,6 +213,8 @@ explanation: "洗濯する benar karena objeknya 汚れた服. たまる berarti
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, topik Minggu 1 Hari 5: 洗濯をしましょう
+- Soumatome N3 Vocabulary, Minggu 1 Hari 5: 洗濯をしましょう
+- Shinkanzen N3 Vocabulary sebagai validasi kosakata dan perbandingan konteks
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List
+- Bunpro N3 Vocabulary

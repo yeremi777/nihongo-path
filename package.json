@@ -6,6 +6,7 @@
     "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
+    "audit:content": "pnpm audit:grammar && pnpm audit:vocabulary && pnpm audit:kanji",
     "audit:kanji": "node scripts/audit-kanji-content.mjs",
     "audit:vocabulary": "node scripts/audit-vocabulary-content.mjs",
     "audit:grammar": "node scripts/audit-grammar-content.mjs",

@@ -213,6 +213,8 @@ explanation: "行けないかもしれません benar karena もしかしたら 
 
 ## Referensi
 
-- Soumatome N3 Grammar, topik Minggu 5 Hari 5: たとえ高くても
+- Soumatome N3 Grammar, Minggu 5 Hari 5: たとえ高くても
+- Shinkanzen N3 Grammar sebagai validasi nuansa dan perbandingan konteks
 - JLPT Sensei N3 Grammar List
+- JTest4You N3 Grammar List
 - Bunpro N3 Grammar

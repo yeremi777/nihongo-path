@@ -133,7 +133,6 @@ explanation: "放送 berarti siaran. 郵送 berarti pengiriman pos."
 
 ## Referensi
 
-- Soumatome N4 Kanji, topik Minggu 3 Hari 7: 漢字の部分の名前
+- Soumatome N4 Kanji, Minggu 3 Hari 7: 漢字の部分の名前
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List
-

@@ -178,6 +178,8 @@ explanation: "レストランで memberi tempat kerja, dan バイト／アルバ
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, topik Minggu 4 Hari 4: 仕事をしましょう
+- Soumatome N3 Vocabulary, Minggu 4 Hari 4: 仕事をしましょう
+- Shinkanzen N3 Vocabulary sebagai validasi kosakata dan perbandingan konteks
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List
+- Bunpro N3 Vocabulary

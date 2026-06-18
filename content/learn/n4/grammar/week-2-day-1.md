@@ -262,7 +262,8 @@ explanation: "〜なくてはいけない benar karena kalimat contoh menunjukka
 
 ## Referensi
 
-- Soumatome N4 Grammar, topik Minggu 2 Hari 1: 宿題をしなければいけません。
+- Soumatome N4 Grammar, Minggu 2 Hari 1: 宿題をしなければいけません。
+- Minna no Nihongo II, pelajaran 26 dan 35 sebagai validasi bentuk dasar
 - JLPT Sensei N4 Grammar List
 - JTest4You N4 Grammar List
 - Bunpro N4 Grammar

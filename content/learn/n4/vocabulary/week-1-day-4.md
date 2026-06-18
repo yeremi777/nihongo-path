@@ -204,7 +204,7 @@ explanation: "拭きます benar karena テーブルを拭く berarti mengelap m
 
 ## Referensi
 
-- Soumatome N4 Vocabulary, topik Minggu 1 Hari 4: 朝の支度
+- Soumatome N4 Vocabulary, Minggu 1 Hari 4: 朝の支度
 - JLPT Sensei N4 Vocabulary List
 - JTest4You N4 Vocabulary List
 - Bunpro N4 Vocabulary

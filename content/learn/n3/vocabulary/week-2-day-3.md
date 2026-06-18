@@ -221,6 +221,8 @@ explanation: "混雑している menunjukkan kondisi ramai/padat. 黄色い線 a
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, topik Minggu 2 Hari 3: 電車に乗りましょう②
+- Soumatome N3 Vocabulary, Minggu 2 Hari 3: 電車に乗りましょう②
+- Shinkanzen N3 Vocabulary sebagai validasi kosakata dan perbandingan konteks
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List
+- Bunpro N3 Vocabulary

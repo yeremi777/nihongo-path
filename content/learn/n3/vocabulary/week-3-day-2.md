@@ -208,6 +208,8 @@ explanation: "額 berarti dahi. に menunjukkan bagian tempat keringat muncul."
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, topik Minggu 3 Hari 2: したくをしましょう
+- Soumatome N3 Vocabulary, Minggu 3 Hari 2: したくをしましょう
+- Shinkanzen N3 Vocabulary sebagai validasi kosakata dan perbandingan konteks
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List
+- Bunpro N3 Vocabulary

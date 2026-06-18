@@ -226,7 +226,8 @@ explanation: "〜というN・〜っていうN benar karena kalimat contoh menun
 
 ## Referensi
 
-- Soumatome N4 Grammar, topik Minggu 2 Hari 5: 日本語でどう言いますか。
+- Soumatome N4 Grammar, Minggu 2 Hari 5: 日本語でどう言いますか。
+- Minna no Nihongo II, pelajaran 33 sebagai validasi bentuk dasar
 - JLPT Sensei N4 Grammar List
 - JTest4You N4 Grammar List
 - Bunpro N4 Grammar

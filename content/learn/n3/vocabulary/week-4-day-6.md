@@ -183,6 +183,8 @@ explanation: "受信トレイ adalah kotak masuk; に入る memberi petunjuk lok
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, topik Minggu 4 Hari 6: メールを書きましょう
+- Soumatome N3 Vocabulary, Minggu 4 Hari 6: メールを書きましょう
+- Shinkanzen N3 Vocabulary sebagai validasi kosakata dan perbandingan konteks
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List
+- Bunpro N3 Vocabulary

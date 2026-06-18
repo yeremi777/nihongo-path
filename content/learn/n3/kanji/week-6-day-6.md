@@ -298,6 +298,7 @@ explanation: "否定 benar, dibaca ひてい. 否定的 adalah pilihan lain dari
 
 ## Referensi
 
-- Soumatome N3 Kanji, topik Minggu 6 Hari 6: 政治
+- Soumatome N3 Kanji, Minggu 6 Hari 6: 政治
+- Shinkanzen N3 Kanji sebagai validasi kanji dan perbandingan konteks
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

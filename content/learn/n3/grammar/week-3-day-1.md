@@ -216,6 +216,8 @@ explanation: "安くても benar karena 安い adalah adjektiva-i; bentuk konses
 
 ## Referensi
 
-- Soumatome N3 Grammar, topik Minggu 3 Hari 1: いくら安くても
+- Soumatome N3 Grammar, Minggu 3 Hari 1: いくら安くても
+- Shinkanzen N3 Grammar sebagai validasi nuansa dan perbandingan konteks
 - JLPT Sensei N3 Grammar List
+- JTest4You N3 Grammar List
 - Bunpro N3 Grammar

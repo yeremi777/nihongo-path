@@ -188,7 +188,7 @@ explanation: "やさしい bisa berarti mudah atau baik hati. Dalam konteks し�
 
 ## Referensi
 
-- Soumatome N5 Vocabulary, topik Minggu 1 Hari 1: つめたい飲みもの
+- Soumatome N5 Vocabulary, Minggu 1 Hari 1: つめたい飲みもの
 - JLPT Sensei N5 Vocabulary List
 - JTest4You N5 Vocabulary List
 - Bunpro N5 Vocabulary

@@ -156,6 +156,6 @@ explanation: "日本人 berarti orang Jepang. 外国人 berarti orang asing."
 
 ## Referensi
 
-- Soumatome N5 Kanji, topik Minggu 1 Hari 1: お名前は？
+- Soumatome N5 Kanji, Minggu 1 Hari 1: お名前は？
 - JLPT Sensei N5 Kanji List
 - JTest4You N5 Kanji List

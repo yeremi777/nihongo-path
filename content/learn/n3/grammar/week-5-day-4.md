@@ -213,6 +213,8 @@ explanation: "における benar karena pola ini menerangkan nomina 問題."
 
 ## Referensi
 
-- Soumatome N3 Grammar, topik Minggu 5 Hari 4: 今晩から明日の朝にかけて
+- Soumatome N3 Grammar, Minggu 5 Hari 4: 今晩から明日の朝にかけて
+- Shinkanzen N3 Grammar sebagai validasi nuansa dan perbandingan konteks
 - JLPT Sensei N3 Grammar List
+- JTest4You N3 Grammar List
 - Bunpro N3 Grammar

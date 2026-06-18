@@ -143,7 +143,6 @@ explanation: "宿題 berarti PR. 質問 berarti pertanyaan."
 
 ## Referensi
 
-- Soumatome N4 Kanji, topik Minggu 3 Hari 2: 持・待・特
+- Soumatome N4 Kanji, Minggu 3 Hari 2: 持・待・特
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List
-

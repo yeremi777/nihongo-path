@@ -312,6 +312,7 @@ explanation: "選手 benar, dibaca せんしゅ. 間違い adalah pilihan lain d
 
 ## Referensi
 
-- Soumatome N3 Kanji, topik Minggu 5 Hari 3: 日本語クラス
+- Soumatome N3 Kanji, Minggu 5 Hari 3: 日本語クラス
+- Shinkanzen N3 Kanji sebagai validasi kanji dan perbandingan konteks
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

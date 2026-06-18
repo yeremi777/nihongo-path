@@ -139,7 +139,6 @@ explanation: "地下鉄 berarti kereta bawah tanah. 鉄道 berarti jalur kereta.
 
 ## Referensi
 
-- Soumatome N4 Kanji, topik Minggu 2 Hari 1: 映画・計画
+- Soumatome N4 Kanji, Minggu 2 Hari 1: 映画・計画
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List
-

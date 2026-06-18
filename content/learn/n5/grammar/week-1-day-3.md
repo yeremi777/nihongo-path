@@ -199,7 +199,7 @@ explanation: "〜を（対象 cocok karena fungsi kalimatnya adalah penanda obje
 ## Referensi
 
 - Soumatome N5 Grammar, Minggu 1 Hari 3: あには せが 高いです。
-- Minna no Nihongo I sebagai validasi bentuk dasar
+- Minna no Nihongo I, pelajaran 1, 5, 6, 9, 10, dan 16 sebagai validasi bentuk dasar
 - JLPT Sensei N5 Grammar List
 - JTest4You N5 Grammar List
 - Bunpro N5 Grammar

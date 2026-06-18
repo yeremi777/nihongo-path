@@ -224,7 +224,8 @@ explanation: "聞こえる・聞ける benar karena kalimat contoh menunjukkan t
 
 ## Referensi
 
-- Soumatome N4 Grammar, topik Minggu 3 Hari 2: このまどから山が見えます。
+- Soumatome N4 Grammar, Minggu 3 Hari 2: このまどから山が見えます。
+- Minna no Nihongo II, pelajaran 27 dan 38 sebagai validasi bentuk dasar
 - JLPT Sensei N4 Grammar List
 - JTest4You N4 Grammar List
 - Bunpro N4 Grammar

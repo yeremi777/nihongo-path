@@ -238,7 +238,8 @@ explanation: "〜で benar karena kalimat contoh menunjukkan dengan/di/karena/da
 
 ## Referensi
 
-- Soumatome N4 Grammar, topik Minggu 1 Hari 2: 漢字は少ししか書けません。
+- Soumatome N4 Grammar, Minggu 1 Hari 2: 漢字は少ししか書けません。
+- Minna no Nihongo II, pelajaran 27 dan 39 sebagai validasi bentuk dasar
 - JLPT Sensei N4 Grammar List
 - JTest4You N4 Grammar List
 - Bunpro N4 Grammar

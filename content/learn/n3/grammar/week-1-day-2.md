@@ -206,6 +206,8 @@ explanation: "しなくちゃ benar karena kalimatnya menyatakan kewajiban santa
 
 ## Referensi
 
-- Soumatome N3 Grammar, topik Minggu 1 Hari 2: そこに置いといて
+- Soumatome N3 Grammar, Minggu 1 Hari 2: そこに置いといて
+- Shinkanzen N3 Grammar sebagai validasi nuansa dan perbandingan konteks
 - JLPT Sensei N3 Grammar List
+- JTest4You N3 Grammar List
 - Bunpro N3 Grammar

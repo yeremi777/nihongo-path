@@ -199,7 +199,7 @@ explanation: "三角の benar untuk menerangkan kata benda. Bentuk standar yang 
 
 ## Referensi
 
-- Soumatome N4 Vocabulary, topik Minggu 3 Hari 4: 計画と準備
+- Soumatome N4 Vocabulary, Minggu 3 Hari 4: 計画と準備
 - JLPT Sensei N4 Vocabulary List
 - JTest4You N4 Vocabulary List
 - Bunpro N4 Vocabulary

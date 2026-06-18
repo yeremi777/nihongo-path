@@ -137,7 +137,6 @@ explanation: "帰国 berarti pulang ke negara asal. 帰宅 berarti pulang ke rum
 
 ## Referensi
 
-- Soumatome N4 Kanji, topik Minggu 3 Hari 6: 海・山・空・川
+- Soumatome N4 Kanji, Minggu 3 Hari 6: 海・山・空・川
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List
-

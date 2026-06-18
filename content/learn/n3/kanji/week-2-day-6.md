@@ -307,6 +307,7 @@ explanation: "警官 benar, dibaca けいかん. 警察 adalah pilihan lain dari
 
 ## Referensi
 
-- Soumatome N3 Kanji, topik Minggu 2 Hari 6: 困ったときは
+- Soumatome N3 Kanji, Minggu 2 Hari 6: 困ったときは
+- Shinkanzen N3 Kanji sebagai validasi kanji dan perbandingan konteks
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

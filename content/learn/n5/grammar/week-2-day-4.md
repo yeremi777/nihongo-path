@@ -199,7 +199,7 @@ explanation: "Vましょうか cocok karena fungsi kalimatnya adalah mau saya/ki
 ## Referensi
 
 - Soumatome N5 Grammar, Minggu 2 Hari 4: こうえんをさんぽしませんか。
-- Minna no Nihongo I sebagai validasi bentuk dasar
+- Minna no Nihongo I, pelajaran 6, 7, 14, dan 24 sebagai validasi bentuk dasar
 - JLPT Sensei N5 Grammar List
 - JTest4You N5 Grammar List
 - Bunpro N5 Grammar

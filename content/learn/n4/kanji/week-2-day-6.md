@@ -141,7 +141,6 @@ explanation: "首都 berarti ibu kota. 手首 berarti pergelangan tangan."
 
 ## Referensi
 
-- Soumatome N4 Kanji, topik Minggu 2 Hari 6: 赤・白・黄
+- Soumatome N4 Kanji, Minggu 2 Hari 6: 赤・白・黄
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List
-

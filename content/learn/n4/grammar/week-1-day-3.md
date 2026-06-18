@@ -226,7 +226,8 @@ explanation: "〜し〜し benar karena kalimat contoh menunjukkan dan juga; sel
 
 ## Referensi
 
-- Soumatome N4 Grammar, topik Minggu 1 Hari 3: 9時までに来てください。
+- Soumatome N4 Grammar, Minggu 1 Hari 3: 9時までに来てください。
+- Minna no Nihongo II, pelajaran 28 sebagai validasi bentuk dasar
 - JLPT Sensei N4 Grammar List
 - JTest4You N4 Grammar List
 - Bunpro N4 Grammar

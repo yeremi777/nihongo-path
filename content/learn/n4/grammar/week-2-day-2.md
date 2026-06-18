@@ -194,7 +194,8 @@ explanation: "〜てしまう benar karena kalimat contoh menunjukkan selesai se
 
 ## Referensi
 
-- Soumatome N4 Grammar, topik Minggu 2 Hari 2: 習ったことを忘れてしまいました。
+- Soumatome N4 Grammar, Minggu 2 Hari 2: 習ったことを忘れてしまいました。
+- Minna no Nihongo II, pelajaran 29, 30, dan 40 sebagai validasi bentuk dasar
 - JLPT Sensei N4 Grammar List
 - JTest4You N4 Grammar List
 - Bunpro N4 Grammar

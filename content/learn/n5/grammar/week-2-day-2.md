@@ -187,7 +187,7 @@ explanation: "形容詞・名詞のて形接続 sesuai dengan pola hari ini."
 ## Referensi
 
 - Soumatome N5 Grammar, Minggu 2 Hari 2: 先生はきれいで、やさしいです。
-- Minna no Nihongo I sebagai validasi bentuk dasar
+- Minna no Nihongo I, pelajaran 14 dan 16 sebagai validasi bentuk dasar
 - JLPT Sensei N5 Grammar List
 - JTest4You N5 Grammar List
 - Bunpro N5 Grammar

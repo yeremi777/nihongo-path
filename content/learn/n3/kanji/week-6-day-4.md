@@ -296,6 +296,7 @@ explanation: "貿易 benar, dibaca ぼうえき. 貿易会社 adalah pilihan lai
 
 ## Referensi
 
-- Soumatome N3 Kanji, topik Minggu 6 Hari 4: 経済
+- Soumatome N3 Kanji, Minggu 6 Hari 4: 経済
+- Shinkanzen N3 Kanji sebagai validasi kanji dan perbandingan konteks
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

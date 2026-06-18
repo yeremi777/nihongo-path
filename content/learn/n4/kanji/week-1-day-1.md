@@ -141,7 +141,6 @@ explanation: "建物 berarti bangunan. 着物 berarti kimono."
 
 ## Referensi
 
-- Soumatome N4 Kanji, topik Minggu 1 Hari 1: 通う・通る
+- Soumatome N4 Kanji, Minggu 1 Hari 1: 通う・通る
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List
-

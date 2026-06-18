@@ -282,6 +282,7 @@ explanation: "紅葉 benar, dibaca こうよう. 言葉 adalah pilihan lain dari
 
 ## Referensi
 
-- Soumatome N3 Kanji, topik Minggu 5 Hari 7: クイズ⑤
+- Soumatome N3 Kanji, Minggu 5 Hari 7: クイズ⑤
+- Shinkanzen N3 Kanji sebagai validasi kanji dan perbandingan konteks
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

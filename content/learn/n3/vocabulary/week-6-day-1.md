@@ -155,6 +155,8 @@ explanation: "しばしば berarti sering kali; 見る memberi konteks frekuensi
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, topik Minggu 6 Hari 1: かなりがんばっています
+- Soumatome N3 Vocabulary, Minggu 6 Hari 1: かなりがんばっています
+- Shinkanzen N3 Vocabulary sebagai validasi kosakata dan perbandingan konteks
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List
+- Bunpro N3 Vocabulary

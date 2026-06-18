@@ -242,7 +242,7 @@ explanation: "はれ berarti cerah. ふね berarti kapal."
 
 ## Referensi
 
-- Soumatome N5 Vocabulary, topik Minggu 1 Hari 6: すきなもの・ほしいもの
+- Soumatome N5 Vocabulary, Minggu 1 Hari 6: すきなもの・ほしいもの
 - JLPT Sensei N5 Vocabulary List
 - JTest4You N5 Vocabulary List
 - Bunpro N5 Vocabulary

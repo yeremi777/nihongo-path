@@ -165,6 +165,6 @@ explanation: "水 berarti air. 火 berarti api."
 
 ## Referensi
 
-- Soumatome N5 Kanji, topik Minggu 1 Hari 7: 数字・月・日付・曜日
+- Soumatome N5 Kanji, Minggu 1 Hari 7: 数字・月・日付・曜日
 - JLPT Sensei N5 Kanji List
 - JTest4You N5 Kanji List

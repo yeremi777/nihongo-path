@@ -143,7 +143,6 @@ explanation: "工場 berarti pabrik. 工業 berarti industri."
 
 ## Referensi
 
-- Soumatome N4 Kanji, topik Minggu 2 Hari 4: 発音・注意
+- Soumatome N4 Kanji, Minggu 2 Hari 4: 発音・注意
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List
-

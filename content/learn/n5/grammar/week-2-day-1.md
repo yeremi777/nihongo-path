@@ -186,7 +186,7 @@ explanation: "何か・だれか・どこか・いつか sesuai dengan pola hari
 ## Referensi
 
 - Soumatome N5 Grammar, Minggu 2 Hari 1: コーヒーはいかがですか。
-- Minna no Nihongo I sebagai validasi bentuk dasar
+- Minna no Nihongo I, pelajaran 5, 8, 10, 13, dan 21 sebagai validasi bentuk dasar
 - JLPT Sensei N5 Grammar List
 - JTest4You N5 Grammar List
 - Bunpro N5 Grammar

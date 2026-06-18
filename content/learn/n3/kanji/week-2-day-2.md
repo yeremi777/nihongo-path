@@ -305,6 +305,7 @@ explanation: "安全 benar, dibaca あんぜん. お客様 adalah pilihan lain d
 
 ## Referensi
 
-- Soumatome N3 Kanji, topik Minggu 2 Hari 2: 禁煙
+- Soumatome N3 Kanji, Minggu 2 Hari 2: 禁煙
+- Shinkanzen N3 Kanji sebagai validasi kanji dan perbandingan konteks
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

@@ -184,6 +184,8 @@ explanation: "夫婦 berarti pasangan suami-istri; あの menunjuk satu pasangan
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, topik Minggu 5 Hari 1: どういう関係ですか？
+- Soumatome N3 Vocabulary, Minggu 5 Hari 1: どういう関係ですか？
+- Shinkanzen N3 Vocabulary sebagai validasi kosakata dan perbandingan konteks
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List
+- Bunpro N3 Vocabulary

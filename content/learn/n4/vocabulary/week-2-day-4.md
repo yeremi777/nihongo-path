@@ -206,7 +206,7 @@ explanation: "色を塗る berarti mewarnai. 貼る berarti menempelkan."
 
 ## Referensi
 
-- Soumatome N4 Vocabulary, topik Minggu 2 Hari 4: 試験の勉強
+- Soumatome N4 Vocabulary, Minggu 2 Hari 4: 試験の勉強
 - JLPT Sensei N4 Vocabulary List
 - JTest4You N4 Vocabulary List
 - Bunpro N4 Vocabulary

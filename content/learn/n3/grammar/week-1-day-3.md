@@ -203,6 +203,8 @@ explanation: "子どもっぽい benar karena menerangkan kata benda 話し方 d
 
 ## Referensi
 
-- Soumatome N3 Grammar, topik Minggu 1 Hari 3: 女らしい
+- Soumatome N3 Grammar, Minggu 1 Hari 3: 女らしい
+- Shinkanzen N3 Grammar sebagai validasi nuansa dan perbandingan konteks
 - JLPT Sensei N3 Grammar List
+- JTest4You N3 Grammar List
 - Bunpro N3 Grammar

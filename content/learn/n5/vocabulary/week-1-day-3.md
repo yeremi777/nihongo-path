@@ -178,7 +178,7 @@ explanation: "おなかがすく berarti lapar. のどがかわく berarti haus.
 
 ## Referensi
 
-- Soumatome N5 Vocabulary, topik Minggu 1 Hari 3: どのぐらい？
+- Soumatome N5 Vocabulary, Minggu 1 Hari 3: どのぐらい？
 - JLPT Sensei N5 Vocabulary List
 - JTest4You N5 Vocabulary List
 - Bunpro N5 Vocabulary

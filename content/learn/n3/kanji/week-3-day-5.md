@@ -308,6 +308,7 @@ explanation: "部分 benar, dibaca ぶぶん. 部長 adalah pilihan lain dari pe
 
 ## Referensi
 
-- Soumatome N3 Kanji, topik Minggu 3 Hari 5: コピー機・留守番電話
+- Soumatome N3 Kanji, Minggu 3 Hari 5: コピー機・留守番電話
+- Shinkanzen N3 Kanji sebagai validasi kanji dan perbandingan konteks
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

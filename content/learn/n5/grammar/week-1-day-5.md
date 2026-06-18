@@ -198,7 +198,7 @@ explanation: "〜くらい cocok karena fungsi kalimatnya adalah kira-kira; seki
 ## Referensi
 
 - Soumatome N5 Grammar, Minggu 1 Hari 5: ここまで あるいて 来ました。
-- Minna no Nihongo I sebagai validasi bentuk dasar
+- Minna no Nihongo I, pelajaran 2, 4, 6, 10, dan 11 sebagai validasi bentuk dasar
 - JLPT Sensei N5 Grammar List
 - JTest4You N5 Grammar List
 - Bunpro N5 Grammar

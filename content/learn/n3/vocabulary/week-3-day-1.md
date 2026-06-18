@@ -222,6 +222,8 @@ explanation: "交際する berarti berpacaran/menjalin hubungan. けんかする
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, topik Minggu 3 Hari 1: デートにさそいましょう
+- Soumatome N3 Vocabulary, Minggu 3 Hari 1: デートにさそいましょう
+- Shinkanzen N3 Vocabulary sebagai validasi kosakata dan perbandingan konteks
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List
+- Bunpro N3 Vocabulary

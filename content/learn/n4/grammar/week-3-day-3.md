@@ -210,7 +210,8 @@ explanation: "〜ても・〜でも benar karena kalimat contoh menunjukkan mesk
 
 ## Referensi
 
-- Soumatome N4 Grammar, topik Minggu 3 Hari 3: 雨でも行きましょう。
+- Soumatome N4 Grammar, Minggu 3 Hari 3: 雨でも行きましょう。
+- Minna no Nihongo II, pelajaran 35, 39, dan 45 sebagai validasi bentuk dasar
 - JLPT Sensei N4 Grammar List
 - JTest4You N4 Grammar List
 - Bunpro N4 Grammar

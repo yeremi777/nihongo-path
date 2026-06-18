@@ -293,6 +293,7 @@ explanation: "一冊 benar, dibaca いっさつ. 冊数 adalah pilihan lain dari
 
 ## Referensi
 
-- Soumatome N3 Kanji, topik Minggu 4 Hari 1: 日用品
+- Soumatome N3 Kanji, Minggu 4 Hari 1: 日用品
+- Shinkanzen N3 Kanji sebagai validasi kanji dan perbandingan konteks
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

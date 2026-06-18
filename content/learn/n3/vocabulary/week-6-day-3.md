@@ -154,6 +154,8 @@ explanation: "わくわくする menunjukkan rasa antusias/bersemangat."
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, topik Minggu 6 Hari 3: ますますがんばります
+- Soumatome N3 Vocabulary, Minggu 6 Hari 3: ますますがんばります
+- Shinkanzen N3 Vocabulary sebagai validasi kosakata dan perbandingan konteks
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List
+- Bunpro N3 Vocabulary

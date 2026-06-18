@@ -6,10 +6,16 @@ import {
   auditCommonLessonShell,
   auditContohKalimat,
   auditFuriganaQuality,
+  auditLessonCollection,
+  auditLessonMetadata,
+  auditLevelExampleLength,
   auditNoMarkdownFurigana,
+  auditPlaceholderLanguage,
+  auditReferenceSection,
   auditMiniPractice,
   collectLessonFiles,
-  rel,
+  createIssueCollector,
+  printAuditReport,
   section,
 } from "./lesson-audit-shared.mjs";
 
@@ -38,36 +44,66 @@ const collectVocabularyLessonFiles = () =>
   VOCABULARY_DIRS.flatMap(collectLessonFiles);
 
 const auditVocabularyFile = (file, text) => {
-  const issues = [];
-  const push = (message) => issues.push(`${rel(file)}: ${message}`);
+  const { errors, warnings, error, warn } = createIssueCollector(file);
+  const lessonMeta = auditLessonMetadata(file, text, error, warn, "vocabulary");
 
-  auditCommonLessonShell(text, push, {
+  auditCommonLessonShell(text, error, {
     requiredSections: REQUIRED_SECTIONS,
     wordStripSection: "Peta Kata",
   });
 
   const daftarKata = section(text, "Daftar Kata");
   if (!daftarKata.includes(WORD_LIST_TABLE_HEADER)) {
-    push(
+    error(
       "## Daftar Kata must use word tables with Japanese, Reading, and Arti & Catatan columns",
     );
   }
 
-  auditContohKalimat(section(text, "Contoh Kalimat"), push);
-  auditNoMarkdownFurigana(text, push);
-  auditFuriganaQuality(text, push);
-  auditMiniPractice(text, push);
+  auditContohKalimat(section(text, "Contoh Kalimat"), error);
+  auditNoMarkdownFurigana(text, error);
+  auditFuriganaQuality(text, error);
+  auditMiniPractice(text, error);
+  auditPlaceholderLanguage(text, error);
+  auditReferenceSection(text, lessonMeta, error, "vocabulary");
+  auditLevelExampleLength(text, lessonMeta, warn);
 
-  return issues;
+  const wordRows = daftarKata
+    .split("\n")
+    .filter((line) => line.trim().startsWith("|") && !line.includes("---"));
+
+  if (lessonMeta?.level === "N5" && wordRows.length > 32) {
+    warn(`N5 vocabulary lesson has ${wordRows.length - 1} table row(s); review whether the beginner load is too dense`);
+  }
+
+  if (lessonMeta?.level === "N3") {
+    const usageSignals = ["kolokasi", "frasa", "konteks", "nuansa", "sering muncul"];
+    if (!usageSignals.some((signal) => text.toLowerCase().includes(signal))) {
+      warn("N3 vocabulary should usually include collocation, context, or nuance notes");
+    }
+  }
+
+  return { errors, warnings };
 };
 
 export function runVocabularyAudit() {
   const lessonFiles = collectVocabularyLessonFiles();
-  const issues = lessonFiles.flatMap((file) =>
-    auditVocabularyFile(file, fs.readFileSync(file, "utf8")),
+  const issues = [];
+  const warnings = [];
+
+  auditLessonCollection(
+    lessonFiles,
+    (message) => issues.push(message),
+    (message) => warnings.push(message),
+    "vocabulary",
   );
 
-  return { lessonFiles, issues };
+  for (const file of lessonFiles) {
+    const result = auditVocabularyFile(file, fs.readFileSync(file, "utf8"));
+    issues.push(...result.errors);
+    warnings.push(...result.warnings);
+  }
+
+  return { lessonFiles, issues, warnings };
 }
 
 const isMain =
@@ -75,17 +111,8 @@ const isMain =
   path.resolve(process.argv[1]) === fileURLToPath(import.meta.url);
 
 if (isMain) {
-  const { lessonFiles, issues } = runVocabularyAudit();
-
-  if (issues.length) {
-    console.error(
-      `Vocabulary markdown audit failed with ${issues.length} issue(s):`,
-    );
-    for (const issue of issues) console.error(`- ${issue}`);
-    process.exit(1);
-  }
-
-  console.log(
-    `Vocabulary markdown audit passed for ${lessonFiles.length} lesson file(s) across N5/N4/N3 vocabulary.`,
-  );
+  printAuditReport({
+    name: "Vocabulary",
+    ...runVocabularyAudit(),
+  });
 }

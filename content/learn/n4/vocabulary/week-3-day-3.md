@@ -207,7 +207,7 @@ explanation: "濡れている berarti basah dalam keadaan sekarang. 騒いでい
 
 ## Referensi
 
-- Soumatome N4 Vocabulary, topik Minggu 3 Hari 3: どうしたの？
+- Soumatome N4 Vocabulary, Minggu 3 Hari 3: どうしたの？
 - JLPT Sensei N4 Vocabulary List
 - JTest4You N4 Vocabulary List
 - Bunpro N4 Vocabulary

@@ -294,6 +294,7 @@ explanation: "希少 benar, dibaca きしょう. 荷物 adalah pilihan lain dari
 
 ## Referensi
 
-- Soumatome N3 Kanji, topik Minggu 4 Hari 5: 注文
+- Soumatome N3 Kanji, Minggu 4 Hari 5: 注文
+- Shinkanzen N3 Kanji sebagai validasi kanji dan perbandingan konteks
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

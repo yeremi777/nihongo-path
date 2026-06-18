@@ -219,6 +219,8 @@ explanation: "会ったきり benar karena Vたきり menunjukkan setelah tindak
 
 ## Referensi
 
-- Soumatome N3 Grammar, topik Minggu 3 Hari 5: 一人っきり
+- Soumatome N3 Grammar, Minggu 3 Hari 5: 一人っきり
+- Shinkanzen N3 Grammar sebagai validasi nuansa dan perbandingan konteks
 - JLPT Sensei N3 Grammar List
+- JTest4You N3 Grammar List
 - Bunpro N3 Grammar

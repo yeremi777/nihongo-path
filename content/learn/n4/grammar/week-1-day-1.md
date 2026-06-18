@@ -274,7 +274,8 @@ explanation: "〜に勤める benar karena kalimat contoh menunjukkan bekerja di
 
 ## Referensi
 
-- Soumatome N4 Grammar, topik Minggu 1 Hari 1: 一日に二回、歯をみがきます。
+- Soumatome N4 Grammar, Minggu 1 Hari 1: 一日に二回、歯をみがきます。
+- Minna no Nihongo II sebagai validasi bentuk dasar
 - JLPT Sensei N4 Grammar List
 - JTest4You N4 Grammar List
 - Bunpro N4 Grammar

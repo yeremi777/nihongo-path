@@ -143,7 +143,6 @@ explanation: "終電 berarti kereta terakhir. 終点 berarti titik akhir/stasiun
 
 ## Referensi
 
-- Soumatome N4 Kanji, topik Minggu 2 Hari 3: 起きる ↔ 寝る
+- Soumatome N4 Kanji, Minggu 2 Hari 3: 起きる ↔ 寝る
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List
-

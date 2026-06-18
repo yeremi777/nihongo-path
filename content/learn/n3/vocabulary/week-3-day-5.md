@@ -217,6 +217,8 @@ explanation: "宴会を開く berarti mengadakan pesta/jamuan. 会社で memberi
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, topik Minggu 3 Hari 5: お酒を飲みましょう
+- Soumatome N3 Vocabulary, Minggu 3 Hari 5: お酒を飲みましょう
+- Shinkanzen N3 Vocabulary sebagai validasi kosakata dan perbandingan konteks
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List
+- Bunpro N3 Vocabulary

@@ -202,6 +202,8 @@ explanation: "忘れないように benar karena kalimatnya bertujuan mencegah k
 
 ## Referensi
 
-- Soumatome N3 Grammar, topik Minggu 1 Hari 4: できるようになった！
+- Soumatome N3 Grammar, Minggu 1 Hari 4: できるようになった！
+- Shinkanzen N3 Grammar sebagai validasi nuansa dan perbandingan konteks
 - JLPT Sensei N3 Grammar List
+- JTest4You N3 Grammar List
 - Bunpro N3 Grammar

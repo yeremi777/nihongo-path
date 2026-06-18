@@ -192,7 +192,7 @@ explanation: "場所に〜があります cocok karena fungsi kalimatnya adalah 
 ## Referensi
 
 - Soumatome N5 Grammar, Minggu 1 Hari 2: きょうだいが いますか。
-- Minna no Nihongo I sebagai validasi bentuk dasar
+- Minna no Nihongo I, pelajaran 1, 2, 8, 9, dan 10 sebagai validasi bentuk dasar
 - JLPT Sensei N5 Grammar List
 - JTest4You N5 Grammar List
 - Bunpro N5 Grammar

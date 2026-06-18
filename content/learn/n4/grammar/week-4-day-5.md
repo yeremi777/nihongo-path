@@ -223,7 +223,8 @@ explanation: "〜ている（結果の状態） benar karena kalimat contoh menu
 
 ## Referensi
 
-- Soumatome N4 Grammar, topik Minggu 4 Hari 5: かぎがかかっています。
+- Soumatome N4 Grammar, Minggu 4 Hari 5: かぎがかかっています。
+- Minna no Nihongo II, pelajaran 29, 30, dan 43 sebagai validasi bentuk dasar
 - JLPT Sensei N4 Grammar List
 - JTest4You N4 Grammar List
 - Bunpro N4 Grammar

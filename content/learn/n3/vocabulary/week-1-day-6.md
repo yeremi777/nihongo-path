@@ -225,6 +225,8 @@ explanation: "世話をする berarti merawat atau mengurus. 子どもの menjad
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, topik Minggu 1 Hari 6: 子どもやペットの世話をしましょう
+- Soumatome N3 Vocabulary, Minggu 1 Hari 6: 子どもやペットの世話をしましょう
+- Shinkanzen N3 Vocabulary sebagai validasi kosakata dan perbandingan konteks
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List
+- Bunpro N3 Vocabulary

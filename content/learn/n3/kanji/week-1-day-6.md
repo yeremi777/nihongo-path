@@ -170,6 +170,7 @@ explanation: "現金 benar, dibaca げんきん. 現在 adalah pilihan lain dari
 
 ## Referensi
 
-- Soumatome N3 Kanji, topik Minggu 1 Hari 6: バス
+- Soumatome N3 Kanji, Minggu 1 Hari 6: バス
+- Shinkanzen N3 Kanji sebagai validasi kanji dan perbandingan konteks
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

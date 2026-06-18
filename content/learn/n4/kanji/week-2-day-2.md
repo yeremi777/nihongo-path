@@ -145,7 +145,6 @@ explanation: "特別 berarti spesial. 平和 berarti damai."
 
 ## Referensi
 
-- Soumatome N4 Kanji, topik Minggu 2 Hari 2: 大・犬・太
+- Soumatome N4 Kanji, Minggu 2 Hari 2: 大・犬・太
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List
-

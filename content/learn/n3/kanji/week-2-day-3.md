@@ -307,6 +307,7 @@ explanation: "神戸港 benar, dibaca こうべこう. 美術館 adalah pilihan 
 
 ## Referensi
 
-- Soumatome N3 Kanji, topik Minggu 2 Hari 3: 観光地図
+- Soumatome N3 Kanji, Minggu 2 Hari 3: 観光地図
+- Shinkanzen N3 Kanji sebagai validasi kanji dan perbandingan konteks
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

@@ -227,6 +227,8 @@ explanation: "通帳 adalah buku tabungan. を持って行く menunjukkan benda 
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, topik Minggu 2 Hari 6: 用事を済ませましょう
+- Soumatome N3 Vocabulary, Minggu 2 Hari 6: 用事を済ませましょう
+- Shinkanzen N3 Vocabulary sebagai validasi kosakata dan perbandingan konteks
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List
+- Bunpro N3 Vocabulary

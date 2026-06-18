@@ -293,6 +293,7 @@ explanation: "衣服 benar, dibaca いふく. 参加 adalah pilihan lain dari pe
 
 ## Referensi
 
-- Soumatome N3 Kanji, topik Minggu 4 Hari 6: 不在通知
+- Soumatome N3 Kanji, Minggu 4 Hari 6: 不在通知
+- Shinkanzen N3 Kanji sebagai validasi kanji dan perbandingan konteks
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

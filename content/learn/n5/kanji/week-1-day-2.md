@@ -149,6 +149,6 @@ explanation: "午後 berarti setelah tengah hari. 午前 berarti sebelum tengah 
 
 ## Referensi
 
-- Soumatome N5 Kanji, topik Minggu 1 Hari 2: それは何ですか。
+- Soumatome N5 Kanji, Minggu 1 Hari 2: それは何ですか。
 - JLPT Sensei N5 Kanji List
 - JTest4You N5 Kanji List

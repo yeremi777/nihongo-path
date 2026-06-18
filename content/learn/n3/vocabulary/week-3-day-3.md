@@ -216,6 +216,8 @@ explanation: "そでなし berarti tanpa lengan. 半そで berarti lengan pendek
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, topik Minggu 3 Hari 3: 買い物をしましょう
+- Soumatome N3 Vocabulary, Minggu 3 Hari 3: 買い物をしましょう
+- Shinkanzen N3 Vocabulary sebagai validasi kosakata dan perbandingan konteks
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List
+- Bunpro N3 Vocabulary

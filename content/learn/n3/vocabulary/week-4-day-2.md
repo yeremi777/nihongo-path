@@ -175,6 +175,8 @@ explanation: "学科 lebih spesifik daripada 学部, seperti jurusan/program stu
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, topik Minggu 4 Hari 2: 学校へ行きましょう②
+- Soumatome N3 Vocabulary, Minggu 4 Hari 2: 学校へ行きましょう②
+- Shinkanzen N3 Vocabulary sebagai validasi kosakata dan perbandingan konteks
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List
+- Bunpro N3 Vocabulary

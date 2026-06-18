@@ -292,6 +292,7 @@ explanation: "教師 benar, dibaca きょうし. 医師 adalah pilihan lain dari
 
 ## Referensi
 
-- Soumatome N3 Kanji, topik Minggu 3 Hari 7: クイズ③
+- Soumatome N3 Kanji, Minggu 3 Hari 7: クイズ③
+- Shinkanzen N3 Kanji sebagai validasi kanji dan perbandingan konteks
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

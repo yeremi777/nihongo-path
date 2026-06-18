@@ -164,7 +164,7 @@ explanation: "疑問詞 sesuai dengan pola hari ini."
 ## Referensi
 
 - Soumatome N5 Grammar, Minggu 1 Hari 6: お国は どちらですか。
-- Minna no Nihongo I sebagai validasi bentuk dasar
+- Minna no Nihongo I, pelajaran 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, dan 11 sebagai validasi bentuk dasar
 - JLPT Sensei N5 Grammar List
 - JTest4You N5 Grammar List
 - Bunpro N5 Grammar

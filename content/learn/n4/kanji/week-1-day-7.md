@@ -139,7 +139,6 @@ explanation: "興味 berarti minat. 趣味 berarti hobi."
 
 ## Referensi
 
-- Soumatome N4 Kanji, topik Minggu 1 Hari 7: 料理のレシピ
+- Soumatome N4 Kanji, Minggu 1 Hari 7: 料理のレシピ
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List
-

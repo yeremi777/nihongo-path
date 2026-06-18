@@ -238,7 +238,8 @@ explanation: "〜たところ benar karena kalimat contoh menunjukkan baru saja 
 
 ## Referensi
 
-- Soumatome N4 Grammar, topik Minggu 1 Hari 4: 今、勉強しているところです。
+- Soumatome N4 Grammar, Minggu 1 Hari 4: 今、勉強しているところです。
+- Minna no Nihongo II, pelajaran 46 sebagai validasi bentuk dasar
 - JLPT Sensei N4 Grammar List
 - JTest4You N4 Grammar List
 - Bunpro N4 Grammar

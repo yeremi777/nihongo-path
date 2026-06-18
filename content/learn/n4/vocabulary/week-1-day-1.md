@@ -216,7 +216,7 @@ explanation: "着きました benar karena （Place）に着く berarti tiba di 
 
 ## Referensi
 
-- Soumatome N4 Vocabulary, topik Minggu 1 Hari 1: ひく・ふく・はく
+- Soumatome N4 Vocabulary, Minggu 1 Hari 1: ひく・ふく・はく
 - JLPT Sensei N4 Vocabulary List
 - JTest4You N4 Vocabulary List
 - Bunpro N4 Vocabulary

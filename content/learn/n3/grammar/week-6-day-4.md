@@ -214,6 +214,8 @@ explanation: "従わないわけにはいきません benar karena tidak bisa me
 
 ## Referensi
 
-- Soumatome N3 Grammar, topik Minggu 6 Hari 4: できるわけがない
+- Soumatome N3 Grammar, Minggu 6 Hari 4: できるわけがない
+- Shinkanzen N3 Grammar sebagai validasi nuansa dan perbandingan konteks
 - JLPT Sensei N3 Grammar List
+- JTest4You N3 Grammar List
 - Bunpro N3 Grammar

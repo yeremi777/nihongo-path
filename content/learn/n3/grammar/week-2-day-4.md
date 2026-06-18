@@ -208,6 +208,8 @@ explanation: "尺八という楽器 benar karena memperkenalkan nama alat musik.
 
 ## Referensi
 
-- Soumatome N3 Grammar, topik Minggu 2 Hari 4: 省エネというのは・・・
+- Soumatome N3 Grammar, Minggu 2 Hari 4: 省エネというのは・・・
+- Shinkanzen N3 Grammar sebagai validasi nuansa dan perbandingan konteks
 - JLPT Sensei N3 Grammar List
+- JTest4You N3 Grammar List
 - Bunpro N3 Grammar

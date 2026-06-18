@@ -172,6 +172,8 @@ explanation: "ノートパソコン adalah laptop; 軽い memberi petunjuk benda
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, topik Minggu 4 Hari 5: パソコンを使いましょう
+- Soumatome N3 Vocabulary, Minggu 4 Hari 5: パソコンを使いましょう
+- Shinkanzen N3 Vocabulary sebagai validasi kosakata dan perbandingan konteks
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List
+- Bunpro N3 Vocabulary

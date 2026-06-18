@@ -292,6 +292,7 @@ explanation: "涙を流す benar, dibaca なみだをながす. 笑顔 adalah pi
 
 ## Referensi
 
-- Soumatome N3 Kanji, topik Minggu 5 Hari 1: メールを送る
+- Soumatome N3 Kanji, Minggu 5 Hari 1: メールを送る
+- Shinkanzen N3 Kanji sebagai validasi kanji dan perbandingan konteks
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

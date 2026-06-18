@@ -293,6 +293,7 @@ explanation: "高齢 benar, dibaca こうれい. 二十歳 adalah pilihan lain d
 
 ## Referensi
 
-- Soumatome N3 Kanji, topik Minggu 4 Hari 4: 申込書
+- Soumatome N3 Kanji, Minggu 4 Hari 4: 申込書
+- Shinkanzen N3 Kanji sebagai validasi kanji dan perbandingan konteks
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

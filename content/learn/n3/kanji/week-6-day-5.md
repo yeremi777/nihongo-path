@@ -295,6 +295,7 @@ explanation: "要因 benar, dibaca よういん. 国際 adalah pilihan lain dari
 
 ## Referensi
 
-- Soumatome N3 Kanji, topik Minggu 6 Hari 5: 地球温暖化
+- Soumatome N3 Kanji, Minggu 6 Hari 5: 地球温暖化
+- Shinkanzen N3 Kanji sebagai validasi kanji dan perbandingan konteks
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

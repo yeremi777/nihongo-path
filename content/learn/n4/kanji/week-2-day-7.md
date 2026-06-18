@@ -133,7 +133,6 @@ explanation: "割引 berarti diskon. 受取 berarti penerimaan."
 
 ## Referensi
 
-- Soumatome N4 Kanji, topik Minggu 2 Hari 7: 建物の中のサイン
+- Soumatome N4 Kanji, Minggu 2 Hari 7: 建物の中のサイン
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List
-

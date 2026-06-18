@@ -237,7 +237,8 @@ explanation: "〜と思う benar karena kalimat contoh menunjukkan saya pikir ba
 
 ## Referensi
 
-- Soumatome N4 Grammar, topik Minggu 3 Hari 6: 今日はお酒を飲まないつもりです。
+- Soumatome N4 Grammar, Minggu 3 Hari 6: 今日はお酒を飲まないつもりです。
+- Minna no Nihongo II, pelajaran 31 dan 33 sebagai validasi bentuk dasar
 - JLPT Sensei N4 Grammar List
 - JTest4You N4 Grammar List
 - Bunpro N4 Grammar

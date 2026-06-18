@@ -310,6 +310,7 @@ explanation: "苦労 benar, dibaca くろう. 労働者 adalah pilihan lain dari
 
 ## Referensi
 
-- Soumatome N3 Kanji, topik Minggu 6 Hari 7: クイズ⑥
+- Soumatome N3 Kanji, Minggu 6 Hari 7: クイズ⑥
+- Shinkanzen N3 Kanji sebagai validasi kanji dan perbandingan konteks
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

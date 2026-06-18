@@ -143,7 +143,6 @@ explanation: "声優 berarti pengisi suara. 安心 berarti tenang."
 
 ## Referensi
 
-- Soumatome N4 Kanji, topik Minggu 3 Hari 4: 体・薬
+- Soumatome N4 Kanji, Minggu 3 Hari 4: 体・薬
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List
-

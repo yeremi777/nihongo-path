@@ -157,6 +157,8 @@ explanation: "空が曇る berarti langit menjadi mendung."
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, topik Minggu 5 Hari 6: どんなようすですか？②
+- Soumatome N3 Vocabulary, Minggu 5 Hari 6: どんなようすですか？②
+- Shinkanzen N3 Vocabulary sebagai validasi kosakata dan perbandingan konteks
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List
+- Bunpro N3 Vocabulary

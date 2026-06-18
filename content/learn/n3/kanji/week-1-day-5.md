@@ -170,6 +170,7 @@ explanation: "理由 benar, dibaca りゆう. 番号 adalah pilihan lain dari pe
 
 ## Referensi
 
-- Soumatome N3 Kanji, topik Minggu 1 Hari 5: 特急電車
+- Soumatome N3 Kanji, Minggu 1 Hari 5: 特急電車
+- Shinkanzen N3 Kanji sebagai validasi kanji dan perbandingan konteks
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

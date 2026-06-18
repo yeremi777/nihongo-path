@@ -217,6 +217,8 @@ explanation: "ウエートレス adalah pelayan perempuan; ウエーター pelay
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, topik Minggu 3 Hari 4: 食事に行きましょう
+- Soumatome N3 Vocabulary, Minggu 3 Hari 4: 食事に行きましょう
+- Shinkanzen N3 Vocabulary sebagai validasi kosakata dan perbandingan konteks
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List
+- Bunpro N3 Vocabulary

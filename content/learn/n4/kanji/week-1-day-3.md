@@ -141,7 +141,6 @@ explanation: "悪天候 berarti cuaca buruk. 強風 berarti angin kencang."
 
 ## Referensi
 
-- Soumatome N4 Kanji, topik Minggu 1 Hari 3: 長い ↔ 短い
+- Soumatome N4 Kanji, Minggu 1 Hari 3: 長い ↔ 短い
 - JLPT Sensei N4 Kanji List
 - JTest4You N4 Kanji List
-

@@ -204,7 +204,7 @@ explanation: "に benar dalam pola （Event/Target）に間に合う. Artinya se
 
 ## Referensi
 
-- Soumatome N4 Vocabulary, topik Minggu 2 Hari 1: さがる・さげる・おりる
+- Soumatome N4 Vocabulary, Minggu 2 Hari 1: さがる・さげる・おりる
 - JLPT Sensei N4 Vocabulary List
 - JTest4You N4 Vocabulary List
 - Bunpro N4 Vocabulary

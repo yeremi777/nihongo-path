@@ -213,6 +213,8 @@ explanation: "んだもん benar karena pembicara memberi alasan kasual dan emos
 
 ## Referensi
 
-- Soumatome N3 Grammar, topik Minggu 4 Hari 5: 聞いてみるしかない
+- Soumatome N3 Grammar, Minggu 4 Hari 5: 聞いてみるしかない
+- Shinkanzen N3 Grammar sebagai validasi nuansa dan perbandingan konteks
 - JLPT Sensei N3 Grammar List
+- JTest4You N3 Grammar List
 - Bunpro N3 Grammar

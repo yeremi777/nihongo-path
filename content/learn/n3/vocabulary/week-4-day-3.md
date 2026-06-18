@@ -182,6 +182,8 @@ explanation: "問い berarti pertanyaan; 難しい memberi konteks soal yang sul
 
 ## Referensi
 
-- Soumatome N3 Vocabulary, topik Minggu 4 Hari 3: 学校へ行きましょう③
+- Soumatome N3 Vocabulary, Minggu 4 Hari 3: 学校へ行きましょう③
+- Shinkanzen N3 Vocabulary sebagai validasi kosakata dan perbandingan konteks
 - JLPT Sensei N3 Vocabulary List
 - JTest4You N3 Vocabulary List
+- Bunpro N3 Vocabulary

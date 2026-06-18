@@ -216,6 +216,8 @@ explanation: "焼きたての benar karena roti baru selesai dipanggang dan masi
 
 ## Referensi
 
-- Soumatome N3 Grammar, topik Minggu 5 Hari 2: 炊きたて
+- Soumatome N3 Grammar, Minggu 5 Hari 2: 炊きたて
+- Shinkanzen N3 Grammar sebagai validasi nuansa dan perbandingan konteks
 - JLPT Sensei N3 Grammar List
+- JTest4You N3 Grammar List
 - Bunpro N3 Grammar

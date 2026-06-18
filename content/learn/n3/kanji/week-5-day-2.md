@@ -293,6 +293,7 @@ explanation: "簡単 benar, dibaca かんたん. 簡単な adalah pilihan lain d
 
 ## Referensi
 
-- Soumatome N3 Kanji, topik Minggu 5 Hari 2: アンケート
+- Soumatome N3 Kanji, Minggu 5 Hari 2: アンケート
+- Shinkanzen N3 Kanji sebagai validasi kanji dan perbandingan konteks
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

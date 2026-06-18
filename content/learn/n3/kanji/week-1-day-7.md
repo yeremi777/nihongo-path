@@ -170,6 +170,7 @@ explanation: "毎晩 benar, dibaca まいばん. 広島 adalah pilihan lain dari
 
 ## Referensi
 
-- Soumatome N3 Kanji, topik Minggu 1 Hari 7: クイズ①
+- Soumatome N3 Kanji, Minggu 1 Hari 7: クイズ①
+- Shinkanzen N3 Kanji sebagai validasi kanji dan perbandingan konteks
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List

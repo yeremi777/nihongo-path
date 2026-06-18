@@ -298,6 +298,7 @@ explanation: "四角い benar, dibaca しかくい. 夫婦 adalah pilihan lain d
 
 ## Referensi
 
-- Soumatome N3 Kanji, topik Minggu 4 Hari 7: クイズ④
+- Soumatome N3 Kanji, Minggu 4 Hari 7: クイズ④
+- Shinkanzen N3 Kanji sebagai validasi kanji dan perbandingan konteks
 - JLPT Sensei N3 Kanji List
 - JTest4You N3 Kanji List
