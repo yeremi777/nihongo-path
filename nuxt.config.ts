@@ -1,4 +1,4 @@
-import { cpSync } from 'node:fs'
+import { cpSync, writeFileSync } from 'node:fs'
 import { createRequire } from 'node:module'
 import { dirname, join, resolve } from 'node:path'
 
@@ -26,6 +26,17 @@ export default defineNuxtConfig({
         cpSync(kuromojiDictSource, join(nitro.options.output.serverDir, 'node_modules/kuromoji/dict'), {
           recursive: true
         })
+
+        writeFileSync(
+          join(nitro.options.output.dir, 'config.json'),
+          JSON.stringify({
+            version: 3,
+            routes: [
+              { handle: 'filesystem' },
+              { src: '/(.*)', dest: '/__fallback' }
+            ]
+          }, null, 2)
+        )
       }
     }
   },
