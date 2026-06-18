@@ -14,6 +14,7 @@ import {
 } from "./lesson-audit-shared.mjs";
 
 const GRAMMAR_DIRS = [
+  path.join(ROOT, "content/learn/n5/grammar"),
   path.join(ROOT, "content/learn/n3/grammar"),
   path.join(ROOT, "content/learn/n4/grammar"),
 ];
@@ -33,8 +34,43 @@ const REQUIRED_SECTIONS = [
   "Referensi",
 ];
 
+const PLACEHOLDER_SECTIONS = [
+  "Pola Hari Ini",
+  "Peta Pola",
+  "Cara Membentuk Pola",
+  "Bangun Kalimat Bertahap",
+  "Pola yang Sering Muncul",
+  "Hal yang Mudah Tertukar",
+];
+
+const UNPARENTHESIZED_PLACEHOLDER_RE =
+  /(?<![（(])\b(?:N|V|Adj|いAdj|なAdj|Person|Place|Time|Clause)\b(?![）)])/;
+
 const collectGrammarLessonFiles = () =>
   GRAMMAR_DIRS.flatMap(collectLessonFiles);
+
+const auditGrammarPlaceholders = (text, push) => {
+  for (const heading of PLACEHOLDER_SECTIONS) {
+    const block = section(text, heading);
+    if (!block) continue;
+
+    const tableLines = block
+      .split("\n")
+      .filter((line) => line.trim().startsWith("|"));
+
+    for (const line of tableLines) {
+      const lineWithoutParentheticalGroups = line.replace(
+        /（[^）]*）|\([^)]*\)/g,
+        "",
+      );
+      if (UNPARENTHESIZED_PLACEHOLDER_RE.test(lineWithoutParentheticalGroups)) {
+        push(
+          `## ${heading} table has an unparenthesized grammar placeholder: ${line.trim()}`,
+        );
+      }
+    }
+  }
+};
 
 const auditGrammarFile = (file, text) => {
   const issues = [];
@@ -59,6 +95,7 @@ const auditGrammarFile = (file, text) => {
   auditNoMarkdownFurigana(text, push);
   auditFuriganaQuality(text, push);
   auditMiniPractice(text, push);
+  auditGrammarPlaceholders(text, push);
 
   return issues;
 };
@@ -88,6 +125,6 @@ if (isMain) {
   }
 
   console.log(
-    `Grammar markdown audit passed for ${lessonFiles.length} N3/N4 grammar lesson file(s).`,
+    `Grammar markdown audit passed for ${lessonFiles.length} grammar lesson file(s).`,
   );
 }

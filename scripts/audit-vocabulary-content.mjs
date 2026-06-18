@@ -14,6 +14,7 @@ import {
 } from "./lesson-audit-shared.mjs";
 
 const VOCABULARY_DIRS = [
+  path.join(ROOT, "content/learn/n5/vocabulary"),
   path.join(ROOT, "content/learn/n3/vocabulary"),
   path.join(ROOT, "content/learn/n4/vocabulary"),
 ];
@@ -85,6 +86,6 @@ if (isMain) {
   }
 
   console.log(
-    `Vocabulary markdown audit passed for ${lessonFiles.length} lesson file(s) across N3/N4 vocabulary.`,
+    `Vocabulary markdown audit passed for ${lessonFiles.length} lesson file(s) across N5/N4/N3 vocabulary.`,
   );
 }
