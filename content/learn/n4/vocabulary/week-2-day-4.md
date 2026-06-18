@@ -152,29 +152,29 @@ Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
 ::MiniPractice
 ---
 question: "Waktu ujian tidak cukup."
-sentence: "<ruby>試験<rt>しけん</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>が____。"
-optionA: "<ruby>足<rt>た</rt></ruby>りませんでした"
-optionB: "<ruby>余<rt>あま</rt></ruby>りました"
-correct: "<ruby>足<rt>た</rt></ruby>りませんでした"
-explanation: "<ruby>足<rt>た</rt></ruby>りませんでした benar karena berarti tidak cukup. <ruby>余<rt>あま</rt></ruby>りました berarti tersisa/berlebih."
+sentence: "試験の時間が____。"
+optionA: "足りませんでした"
+optionB: "余りました"
+correct: "足りませんでした"
+explanation: "足りませんでした benar karena berarti tidak cukup. 余りました berarti tersisa/berlebih."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Tolong tanyakan kepada guru."
-sentence: "<ruby>先生<rt>せんせい</rt></ruby>____<ruby>質問<rt>しつもん</rt></ruby>してください。"
+sentence: "先生____質問してください。"
 optionA: "に"
 optionB: "を"
 correct: "に"
-explanation: "に benar karena orang yang ditanya memakai に: （Person）に<ruby>質問<rt>しつもん</rt></ruby>する."
+explanation: "に benar karena orang yang ditanya memakai に: （Person）に質問する."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Saya menempelkan poster di dinding."
-sentence: "<ruby>壁<rt>かべ</rt></ruby>____ポスターを<ruby>貼<rt>は</rt></ruby>りました。"
+sentence: "壁____ポスターを貼りました。"
 optionA: "に"
 optionB: "を"
 correct: "に"
@@ -187,20 +187,20 @@ explanation: "に benar karena permukaan tempat menempel memakai に. Objek yang
 question: "Makanan sudah siap."
 sentence: "ごはんが____。"
 optionA: "できました"
-optionB: "<ruby>残<rt>のこ</rt></ruby>りました"
+optionB: "残りました"
 correct: "できました"
-explanation: "ごはんができました berarti makanan sudah siap. <ruby>残<rt>のこ</rt></ruby>りました berarti tersisa."
+explanation: "ごはんができました berarti makanan sudah siap. 残りました berarti tersisa."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Saya mewarnai kata-kata yang berguna."
-sentence: "<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>つ<ruby>言葉<rt>ことば</rt></ruby>に<ruby>色<rt>いろ</rt></ruby>を____。"
-optionA: "<ruby>塗<rt>ぬ</rt></ruby>りました"
-optionB: "<ruby>貼<rt>は</rt></ruby>りました"
-correct: "<ruby>塗<rt>ぬ</rt></ruby>りました"
-explanation: "<ruby>色<rt>いろ</rt></ruby>を<ruby>塗<rt>ぬ</rt></ruby>る berarti mewarnai. <ruby>貼<rt>は</rt></ruby>る berarti menempelkan."
+sentence: "役に立つ言葉に色を____。"
+optionA: "塗りました"
+optionB: "貼りました"
+correct: "塗りました"
+explanation: "色を塗る berarti mewarnai. 貼る berarti menempelkan."
 ---
 ::
 

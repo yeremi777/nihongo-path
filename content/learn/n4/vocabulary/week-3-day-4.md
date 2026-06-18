@@ -145,44 +145,44 @@ Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
 ::MiniPractice
 ---
 question: "Mari membuat rencana perjalanan."
-sentence: "<ruby>旅行<rt>りょこう</rt></ruby>の<ruby>計画<rt>けいかく</rt></ruby>を____ましょう。"
-optionA: "<ruby>立<rt>た</rt></ruby>て"
-optionB: "<ruby>植<rt>う</rt></ruby>え"
-correct: "<ruby>立<rt>た</rt></ruby>て"
-explanation: "<ruby>計画<rt>けいかく</rt></ruby>を<ruby>立<rt>た</rt></ruby>てる berarti membuat rencana. <ruby>植<rt>う</rt></ruby>える berarti menanam."
+sentence: "旅行の計画を____ましょう。"
+optionA: "立て"
+optionB: "植え"
+correct: "立て"
+explanation: "計画を立てる berarti membuat rencana. 植える berarti menanam."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Tolong susun kursi."
-sentence: "<ruby>椅子<rt>いす</rt></ruby>を____ください。"
-optionA: "<ruby>並<rt>なら</rt></ruby>べて"
-optionB: "<ruby>並<rt>なら</rt></ruby>んで"
-correct: "<ruby>並<rt>なら</rt></ruby>べて"
-explanation: "<ruby>並<rt>なら</rt></ruby>べて benar karena seseorang menyusun kursi sebagai objek. <ruby>並<rt>なら</rt></ruby>ぶ berarti berjajar atau mengantre."
+sentence: "椅子を____ください。"
+optionA: "並べて"
+optionB: "並んで"
+correct: "並べて"
+explanation: "並べて benar karena seseorang menyusun kursi sebagai objek. 並ぶ berarti berjajar atau mengantre."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Pohon itu tumbuh besar."
-sentence: "<ruby>木<rt>き</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きく____。"
-optionA: "<ruby>育<rt>そだ</rt></ruby>ちました"
-optionB: "<ruby>育<rt>そだ</rt></ruby>てました"
-correct: "<ruby>育<rt>そだ</rt></ruby>ちました"
-explanation: "<ruby>木<rt>き</rt></ruby>が<ruby>育<rt>そだ</rt></ruby>つ adalah 自動詞: pohon tumbuh. <ruby>育<rt>そだ</rt></ruby>てる memakai を saat seseorang menumbuhkan/merawat."
+sentence: "木が大きく____。"
+optionA: "育ちました"
+optionB: "育てました"
+correct: "育ちました"
+explanation: "木が育つ adalah 自動詞: pohon tumbuh. 育てる memakai を saat seseorang menumbuhkan/merawat."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Pindahkan kursi ke kamar sebelah."
-sentence: "<ruby>椅子<rt>いす</rt></ruby>を<ruby>隣<rt>となり</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>____<ruby>移<rt>うつ</rt></ruby>してください。"
+sentence: "椅子を隣の部屋____移してください。"
 optionA: "に"
 optionB: "を"
 correct: "に"
-explanation: "に benar karena tujuan perpindahan memakai に: （N）を（Place）に<ruby>移<rt>うつ</rt></ruby>す."
+explanation: "に benar karena tujuan perpindahan memakai に: （N）を（Place）に移す."
 ---
 ::
 
@@ -190,10 +190,10 @@ explanation: "に benar karena tujuan perpindahan memakai に: （N）を（Plac
 ---
 question: "Ini meja berbentuk segitiga."
 sentence: "これは____テーブルです。"
-optionA: "<ruby>三角<rt>さんかく</rt></ruby>の"
-optionB: "<ruby>三角<rt>さんかく</rt></ruby>い"
-correct: "<ruby>三角<rt>さんかく</rt></ruby>の"
-explanation: "<ruby>三角<rt>さんかく</rt></ruby>の benar untuk menerangkan kata benda. Bentuk standar yang dipakai di referensi adalah 三角の, bukan 三角い."
+optionA: "三角の"
+optionB: "三角い"
+correct: "三角の"
+explanation: "三角の benar untuk menerangkan kata benda. Bentuk standar yang dipakai di referensi adalah 三角の, bukan 三角い."
 ---
 ::
 

@@ -154,50 +154,50 @@ Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
 ---
 question: "Tolong tekan tombol ini."
 sentence: "このボタンを____ください。"
-optionA: "<ruby>押<rt>お</rt></ruby>して"
-optionB: "<ruby>引<rt>ひ</rt></ruby>いて"
-correct: "<ruby>押<rt>お</rt></ruby>して"
-explanation: "ボタンを<ruby>押<rt>お</rt></ruby>す berarti menekan tombol. <ruby>引<rt>ひ</rt></ruby>く berarti menarik."
+optionA: "押して"
+optionB: "引いて"
+correct: "押して"
+explanation: "ボタンを押す berarti menekan tombol. 引く berarti menarik."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Lampu kelas padam."
-sentence: "<ruby>教室<rt>きょうしつ</rt></ruby>の<ruby>電気<rt>でんき</rt></ruby>が____。"
-optionA: "<ruby>消<rt>き</rt></ruby>えました"
-optionB: "<ruby>消<rt>け</rt></ruby>しました"
-correct: "<ruby>消<rt>き</rt></ruby>えました"
-explanation: "<ruby>消<rt>き</rt></ruby>えました benar karena lampu menjadi padam sendiri dan memakai が. <ruby>消<rt>け</rt></ruby>しました dipakai saat seseorang mematikan sesuatu."
+sentence: "教室の電気が____。"
+optionA: "消えました"
+optionB: "消しました"
+correct: "消えました"
+explanation: "消えました benar karena lampu menjadi padam sendiri dan memakai が. 消しました dipakai saat seseorang mematikan sesuatu."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Tolong matikan api."
-sentence: "<ruby>火<rt>ひ</rt></ruby>を____ください。"
-optionA: "<ruby>消<rt>け</rt></ruby>して"
-optionB: "<ruby>消<rt>き</rt></ruby>えて"
-correct: "<ruby>消<rt>け</rt></ruby>して"
-explanation: "<ruby>火<rt>ひ</rt></ruby>を<ruby>消<rt>け</rt></ruby>す berarti memadamkan api. を menjadi petunjuk 他動詞."
+sentence: "火を____ください。"
+optionA: "消して"
+optionB: "消えて"
+correct: "消して"
+explanation: "火を消す berarti memadamkan api. を menjadi petunjuk 他動詞."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Mari menyeberang jalan setelah lampu hijau."
-sentence: "<ruby>信号<rt>しんごう</rt></ruby>が<ruby>青<rt>あお</rt></ruby>になってから、<ruby>道路<rt>どうろ</rt></ruby>を____。"
-optionA: "<ruby>渡<rt>わた</rt></ruby>りましょう"
-optionB: "<ruby>止<rt>と</rt></ruby>まりましょう"
-correct: "<ruby>渡<rt>わた</rt></ruby>りましょう"
-explanation: "<ruby>道路<rt>どうろ</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>る berarti menyeberang jalan. <ruby>止<rt>と</rt></ruby>まる berarti berhenti."
+sentence: "信号が青になってから、道路を____。"
+optionA: "渡りましょう"
+optionB: "止まりましょう"
+correct: "渡りましょう"
+explanation: "道路を渡る berarti menyeberang jalan. 止まる berarti berhenti."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Bagaimana cara membuka file ini?"
-sentence: "このファイルは____<ruby>開<rt>ひら</rt></ruby>きますか。"
+sentence: "このファイルは____開きますか。"
 optionA: "どうやって"
 optionB: "ずっと"
 correct: "どうやって"

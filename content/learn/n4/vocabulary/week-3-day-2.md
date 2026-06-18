@@ -157,7 +157,7 @@ Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
 ::MiniPractice
 ---
 question: "Kira-kira perlu berapa lama sampai stasiun?"
-sentence: "<ruby>駅<rt>えき</rt></ruby>まで____かかりますか。"
+sentence: "駅まで____かかりますか。"
 optionA: "どのぐらい"
 optionB: "やっと"
 correct: "どのぐらい"
@@ -168,44 +168,44 @@ explanation: "どのぐらい benar karena menanyakan perkiraan durasi. やっ�
 ::MiniPractice
 ---
 question: "Salju menumpuk."
-sentence: "<ruby>雪<rt>ゆき</rt></ruby>が____。"
-optionA: "<ruby>積<rt>つ</rt></ruby>もりました"
-optionB: "<ruby>払<rt>はら</rt></ruby>いました"
-correct: "<ruby>積<rt>つ</rt></ruby>もりました"
-explanation: "<ruby>雪<rt>ゆき</rt></ruby>が<ruby>積<rt>つ</rt></ruby>もる berarti salju menumpuk. <ruby>払<rt>はら</rt></ruby>う berarti membayar."
+sentence: "雪が____。"
+optionA: "積もりました"
+optionB: "払いました"
+correct: "積もりました"
+explanation: "雪が積もる berarti salju menumpuk. 払う berarti membayar."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Saya mendidihkan air panas."
-sentence: "お<ruby>湯<rt>ゆ</rt></ruby>を____。"
-optionA: "<ruby>沸<rt>わ</rt></ruby>かします"
-optionB: "<ruby>沸<rt>わ</rt></ruby>きます"
-correct: "<ruby>沸<rt>わ</rt></ruby>かします"
-explanation: "お<ruby>湯<rt>ゆ</rt></ruby>を<ruby>沸<rt>わ</rt></ruby>かす berarti mendidihkan air. お<ruby>湯<rt>ゆ</rt></ruby>が<ruby>沸<rt>わ</rt></ruby>く berarti air mendidih."
+sentence: "お湯を____。"
+optionA: "沸かします"
+optionB: "沸きます"
+correct: "沸かします"
+explanation: "お湯を沸かす berarti mendidihkan air. お湯が沸く berarti air mendidih."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Rumah baru berdiri."
-sentence: "<ruby>新<rt>あたら</rt></ruby>しい<ruby>家<rt>いえ</rt></ruby>が____。"
-optionA: "<ruby>建<rt>た</rt></ruby>ちました"
-optionB: "<ruby>建<rt>た</rt></ruby>てました"
-correct: "<ruby>建<rt>た</rt></ruby>ちました"
-explanation: "<ruby>家<rt>いえ</rt></ruby>が<ruby>建<rt>た</rt></ruby>つ adalah 自動詞: rumah berdiri/terbangun. <ruby>家<rt>いえ</rt></ruby>を<ruby>建<rt>た</rt></ruby>てる berarti membangun rumah."
+sentence: "新しい家が____。"
+optionA: "建ちました"
+optionB: "建てました"
+correct: "建ちました"
+explanation: "家が建つ adalah 自動詞: rumah berdiri/terbangun. 家を建てる berarti membangun rumah."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Berapa kilo jaraknya?"
-sentence: "<ruby>駅<rt>えき</rt></ruby>まで____ですか。"
-optionA: "<ruby>何<rt>なん</rt></ruby>キロ"
-optionB: "<ruby>何時間<rt>なんじかん</rt></ruby>"
-correct: "<ruby>何<rt>なん</rt></ruby>キロ"
-explanation: "<ruby>何<rt>なん</rt></ruby>キロ benar untuk jarak atau berat sesuai konteks. <ruby>何時間<rt>なんじかん</rt></ruby> menanyakan berapa jam."
+sentence: "駅まで____ですか。"
+optionA: "何キロ"
+optionB: "何時間"
+correct: "何キロ"
+explanation: "何キロ benar untuk jarak atau berat sesuai konteks. 何時間 menanyakan berapa jam."
 ---
 ::
 

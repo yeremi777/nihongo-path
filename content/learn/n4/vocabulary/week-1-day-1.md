@@ -162,11 +162,11 @@ Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
 ::MiniPractice
 ---
 question: "Angin sedang bertiup kencang."
-sentence: "<ruby>強<rt>つよ</rt></ruby>い<ruby>風<rt>かぜ</rt></ruby>が____。"
-optionA: "<ruby>吹<rt>ふ</rt></ruby>いています"
-optionB: "<ruby>拭<rt>ふ</rt></ruby>いています"
-correct: "<ruby>吹<rt>ふ</rt></ruby>いています"
-explanation: "<ruby>吹<rt>ふ</rt></ruby>いています benar karena <ruby>風<rt>かぜ</rt></ruby>が<ruby>吹<rt>ふ</rt></ruby>く berarti angin bertiup. <ruby>拭<rt>ふ</rt></ruby>く berarti mengelap sesuatu."
+sentence: "強い風が____。"
+optionA: "吹いています"
+optionB: "拭いています"
+correct: "吹いています"
+explanation: "吹いています benar karena 風が吹く berarti angin bertiup. 拭く berarti mengelap sesuatu."
 ---
 ::
 
@@ -174,43 +174,43 @@ explanation: "<ruby>吹<rt>ふ</rt></ruby>いています benar karena <ruby>風
 ---
 question: "Saya memainkan gitar."
 sentence: "ギターを____。"
-optionA: "<ruby>弾<rt>ひ</rt></ruby>きます"
-optionB: "<ruby>引<rt>ひ</rt></ruby>きます"
-correct: "<ruby>弾<rt>ひ</rt></ruby>きます"
-explanation: "<ruby>弾<rt>ひ</rt></ruby>きます benar karena alat musik seperti gitar dan piano memakai <ruby>弾<rt>ひ</rt></ruby>く. <ruby>引<rt>ひ</rt></ruby>く berarti menarik atau mencari di referensi."
+optionA: "弾きます"
+optionB: "引きます"
+correct: "弾きます"
+explanation: "弾きます benar karena alat musik seperti gitar dan piano memakai 弾く. 引く berarti menarik atau mencari di referensi."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Sebelum keluar, saya memakai sepatu."
-sentence: "<ruby>出<rt>で</rt></ruby>かける<ruby>前<rt>まえ</rt></ruby>に、<ruby>靴<rt>くつ</rt></ruby>を____。"
-optionA: "<ruby>履<rt>は</rt></ruby>きます"
-optionB: "<ruby>掃<rt>は</rt></ruby>きます"
-correct: "<ruby>履<rt>は</rt></ruby>きます"
-explanation: "<ruby>履<rt>は</rt></ruby>きます benar karena <ruby>靴<rt>くつ</rt></ruby>を<ruby>履<rt>は</rt></ruby>く berarti memakai sepatu. <ruby>掃<rt>は</rt></ruby>く berarti menyapu."
+sentence: "出かける前に、靴を____。"
+optionA: "履きます"
+optionB: "掃きます"
+correct: "履きます"
+explanation: "履きます benar karena 靴を履く berarti memakai sepatu. 掃く berarti menyapu."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Toko itu tidak ramai sekarang."
-sentence: "<ruby>今<rt>いま</rt></ruby>、その<ruby>店<rt>みせ</rt></ruby>は____。"
-optionA: "<ruby>空<rt>す</rt></ruby>いています"
-optionB: "<ruby>込<rt>こ</rt></ruby>んでいます"
-correct: "<ruby>空<rt>す</rt></ruby>いています"
-explanation: "<ruby>空<rt>す</rt></ruby>いています benar karena <ruby>店<rt>みせ</rt></ruby>が<ruby>空<rt>す</rt></ruby>いている berarti toko sedang sepi/tidak ramai. <ruby>込<rt>こ</rt></ruby>んでいます berarti ramai atau padat."
+sentence: "今、その店は____。"
+optionA: "空いています"
+optionB: "込んでいます"
+correct: "空いています"
+explanation: "空いています benar karena 店が空いている berarti toko sedang sepi/tidak ramai. 込んでいます berarti ramai atau padat."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Kami tiba di stasiun pukul tujuh."
-sentence: "<ruby>七時<rt>しちじ</rt></ruby>に<ruby>駅<rt>えき</rt></ruby>に____。"
-optionA: "<ruby>着<rt>つ</rt></ruby>きました"
-optionB: "<ruby>履<rt>は</rt></ruby>きました"
-correct: "<ruby>着<rt>つ</rt></ruby>きました"
-explanation: "<ruby>着<rt>つ</rt></ruby>きました benar karena （Place）に<ruby>着<rt>つ</rt></ruby>く berarti tiba di tempat. <ruby>履<rt>は</rt></ruby>きました berarti memakai sepatu atau pakaian bawah."
+sentence: "七時に駅に____。"
+optionA: "着きました"
+optionB: "履きました"
+correct: "着きました"
+explanation: "着きました benar karena （Place）に着く berarti tiba di tempat. 履きました berarti memakai sepatu atau pakaian bawah."
 ---
 ::
 

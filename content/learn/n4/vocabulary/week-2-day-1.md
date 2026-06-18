@@ -150,55 +150,55 @@ Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
 ::MiniPractice
 ---
 question: "Harga komputer itu turun."
-sentence: "パソコンの<ruby>値段<rt>ねだん</rt></ruby>が____。"
-optionA: "<ruby>下<rt>さ</rt></ruby>がりました"
-optionB: "<ruby>下<rt>さ</rt></ruby>げました"
-correct: "<ruby>下<rt>さ</rt></ruby>がりました"
-explanation: "<ruby>下<rt>さ</rt></ruby>がりました benar karena <ruby>値段<rt>ねだん</rt></ruby>が menjadi subjek yang turun sendiri. <ruby>下<rt>さ</rt></ruby>げました membutuhkan objek dengan を."
+sentence: "パソコンの値段が____。"
+optionA: "下がりました"
+optionB: "下げました"
+correct: "下がりました"
+explanation: "下がりました benar karena 値段が menjadi subjek yang turun sendiri. 下げました membutuhkan objek dengan を."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Saya turun dari kereta di stasiun ini."
-sentence: "この<ruby>駅<rt>えき</rt></ruby>で<ruby>電車<rt>でんしゃ</rt></ruby>____<ruby>降<rt>お</rt></ruby>ります。"
+sentence: "この駅で電車____降ります。"
 optionA: "を"
 optionB: "に"
 correct: "を"
-explanation: "を benar dalam pola （Vehicle）を<ruby>降<rt>お</rt></ruby>りる. Naik kendaraan memakai に: <ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>乗<rt>の</rt></ruby>る."
+explanation: "を benar dalam pola （Vehicle）を降りる. Naik kendaraan memakai に: 電車に乗る."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Masukkan buku ke tas."
-sentence: "かばん____<ruby>本<rt>ほん</rt></ruby>を<ruby>入<rt>い</rt></ruby>れてください。"
+sentence: "かばん____本を入れてください。"
 optionA: "に"
 optionB: "から"
 correct: "に"
-explanation: "に benar karena pola （A）に（B）を<ruby>入<rt>い</rt></ruby>れる berarti memasukkan B ke A. から dipakai dengan <ruby>出<rt>だ</rt></ruby>す."
+explanation: "に benar karena pola （A）に（B）を入れる berarti memasukkan B ke A. から dipakai dengan 出す."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Jumlah siswa bertambah."
-sentence: "<ruby>学生<rt>がくせい</rt></ruby>が____。"
-optionA: "<ruby>増<rt>ふ</rt></ruby>えました"
-optionB: "<ruby>減<rt>へ</rt></ruby>りました"
-correct: "<ruby>増<rt>ふ</rt></ruby>えました"
-explanation: "<ruby>増<rt>ふ</rt></ruby>えました benar karena berarti bertambah. <ruby>減<rt>へ</rt></ruby>りました berarti berkurang."
+sentence: "学生が____。"
+optionA: "増えました"
+optionB: "減りました"
+correct: "増えました"
+explanation: "増えました benar karena berarti bertambah. 減りました berarti berkurang."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Saya sempat naik kereta."
-sentence: "<ruby>電車<rt>でんしゃ</rt></ruby>____<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いました。"
+sentence: "電車____間に合いました。"
 optionA: "に"
 optionB: "を"
 correct: "に"
-explanation: "に benar dalam pola （Event/Target）に<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>う. Artinya sempat atau tepat waktu untuk target itu."
+explanation: "に benar dalam pola （Event/Target）に間に合う. Artinya sempat atau tepat waktu untuk target itu."
 ---
 ::
 

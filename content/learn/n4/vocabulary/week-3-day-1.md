@@ -148,11 +148,11 @@ Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
 ::MiniPractice
 ---
 question: "Apakah hari Sabtu waktunya cocok?"
-sentence: "<ruby>土曜日<rt>どようび</rt></ruby>は____がいいですか。"
-optionA: "<ruby>都合<rt>つごう</rt></ruby>"
-optionB: "<ruby>予定<rt>よてい</rt></ruby>"
-correct: "<ruby>都合<rt>つごう</rt></ruby>"
-explanation: "<ruby>都合<rt>つごう</rt></ruby>がいい berarti waktunya cocok. <ruby>予定<rt>よてい</rt></ruby> adalah jadwal atau rencana."
+sentence: "土曜日は____がいいですか。"
+optionA: "都合"
+optionB: "予定"
+correct: "都合"
+explanation: "都合がいい berarti waktunya cocok. 予定 adalah jadwal atau rencana."
 ---
 ::
 
@@ -160,39 +160,39 @@ explanation: "<ruby>都合<rt>つごう</rt></ruby>がいい berarti waktunya co
 ---
 question: "Saya memesan hotel."
 sentence: "ホテルを____。"
-optionA: "<ruby>予約<rt>よやく</rt></ruby>しました"
-optionB: "<ruby>予定<rt>よてい</rt></ruby>しました"
-correct: "<ruby>予約<rt>よやく</rt></ruby>しました"
-explanation: "ホテルを<ruby>予約<rt>よやく</rt></ruby>する berarti memesan hotel. <ruby>予定<rt>よてい</rt></ruby> adalah kata benda jadwal/rencana."
+optionA: "予約しました"
+optionB: "予定しました"
+correct: "予約しました"
+explanation: "ホテルを予約する berarti memesan hotel. 予定 adalah kata benda jadwal/rencana."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Saya menginap di hotel."
-sentence: "ホテル____<ruby>泊<rt>と</rt></ruby>まりました。"
+sentence: "ホテル____泊まりました。"
 optionA: "に"
 optionB: "を"
 correct: "に"
-explanation: "に benar dalam pola （Place）に<ruby>泊<rt>と</rt></ruby>まる, yaitu menginap di tempat."
+explanation: "に benar dalam pola （Place）に泊まる, yaitu menginap di tempat."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Mobil berhenti di depan toko."
-sentence: "<ruby>車<rt>くるま</rt></ruby>が<ruby>店<rt>みせ</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>で____。"
-optionA: "<ruby>止<rt>と</rt></ruby>まりました"
-optionB: "<ruby>泊<rt>と</rt></ruby>まりました"
-correct: "<ruby>止<rt>と</rt></ruby>まりました"
-explanation: "<ruby>止<rt>と</rt></ruby>まりました benar karena mobil berhenti. <ruby>泊<rt>と</rt></ruby>まりました berarti menginap."
+sentence: "車が店の前で____。"
+optionA: "止まりました"
+optionB: "泊まりました"
+correct: "止まりました"
+explanation: "止まりました benar karena mobil berhenti. 泊まりました berarti menginap."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Mari janjian bertemu di stasiun."
-sentence: "<ruby>駅<rt>えき</rt></ruby>____<ruby>待<rt>ま</rt></ruby>ち<ruby>合<rt>あ</rt></ruby>わせましょう。"
+sentence: "駅____待ち合わせましょう。"
 optionA: "で"
 optionB: "に"
 correct: "で"

@@ -150,22 +150,22 @@ Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
 ::MiniPractice
 ---
 question: "Saya menyikat gigi setelah sarapan."
-sentence: "<ruby>朝<rt>あさ</rt></ruby>ごはんのあとで、<ruby>歯<rt>は</rt></ruby>を____。"
-optionA: "<ruby>磨<rt>みが</rt></ruby>きます"
-optionB: "<ruby>洗<rt>あら</rt></ruby>います"
-correct: "<ruby>磨<rt>みが</rt></ruby>きます"
-explanation: "<ruby>歯<rt>は</rt></ruby>を<ruby>磨<rt>みが</rt></ruby>く berarti menyikat gigi. <ruby>洗<rt>あら</rt></ruby>う dipakai untuk mencuci dengan air."
+sentence: "朝ごはんのあとで、歯を____。"
+optionA: "磨きます"
+optionB: "洗います"
+correct: "磨きます"
+explanation: "歯を磨く berarti menyikat gigi. 洗う dipakai untuk mencuci dengan air."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Tolong bangunkan adik pukul tujuh."
-sentence: "<ruby>七時<rt>しちじ</rt></ruby>に<ruby>弟<rt>おとうと</rt></ruby>を____ください。"
-optionA: "<ruby>起<rt>お</rt></ruby>こして"
-optionB: "<ruby>覚<rt>さ</rt></ruby>めて"
-correct: "<ruby>起<rt>お</rt></ruby>こして"
-explanation: "<ruby>起<rt>お</rt></ruby>こして benar karena ada objek orang dengan を. <ruby>目<rt>め</rt></ruby>が<ruby>覚<rt>さ</rt></ruby>める berarti terbangun sendiri."
+sentence: "七時に弟を____ください。"
+optionA: "起こして"
+optionB: "覚めて"
+correct: "起こして"
+explanation: "起こして benar karena ada objek orang dengan を. 目が覚める berarti terbangun sendiri."
 ---
 ::
 
@@ -183,22 +183,22 @@ explanation: "に benar dalam pola （Clothes）にアイロンをかける. ア
 ::MiniPractice
 ---
 question: "Sebelum keluar, saya membuang sampah."
-sentence: "<ruby>出<rt>で</rt></ruby>かける<ruby>前<rt>まえ</rt></ruby>に、ゴミを____。"
-optionA: "<ruby>捨<rt>す</rt></ruby>てます"
-optionB: "<ruby>拾<rt>ひろ</rt></ruby>います"
-correct: "<ruby>捨<rt>す</rt></ruby>てます"
-explanation: "<ruby>捨<rt>す</rt></ruby>てます benar karena ゴミを<ruby>捨<rt>す</rt></ruby>てる berarti membuang sampah. <ruby>拾<rt>ひろ</rt></ruby>う berarti memungut."
+sentence: "出かける前に、ゴミを____。"
+optionA: "捨てます"
+optionB: "拾います"
+correct: "捨てます"
+explanation: "捨てます benar karena ゴミを捨てる berarti membuang sampah. 拾う berarti memungut."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Saya mengelap meja sebelum makan."
-sentence: "<ruby>食<rt>た</rt></ruby>べる<ruby>前<rt>まえ</rt></ruby>に、テーブルを____。"
-optionA: "<ruby>拭<rt>ふ</rt></ruby>きます"
-optionB: "<ruby>浴<rt>あ</rt></ruby>びます"
-correct: "<ruby>拭<rt>ふ</rt></ruby>きます"
-explanation: "<ruby>拭<rt>ふ</rt></ruby>きます benar karena テーブルを<ruby>拭<rt>ふ</rt></ruby>く berarti mengelap meja. <ruby>浴<rt>あ</rt></ruby>びる dipakai untuk シャワーを浴びる."
+sentence: "食べる前に、テーブルを____。"
+optionA: "拭きます"
+optionB: "浴びます"
+correct: "拭きます"
+explanation: "拭きます benar karena テーブルを拭く berarti mengelap meja. 浴びる dipakai untuk シャワーを浴びる."
 ---
 ::
 

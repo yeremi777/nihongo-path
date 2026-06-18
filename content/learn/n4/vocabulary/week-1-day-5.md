@@ -148,55 +148,55 @@ Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
 ::MiniPractice
 ---
 question: "Ini pertama kali saya pergi ke Jepang."
-sentence: "____<ruby>日本<rt>にほん</rt></ruby>へ<ruby>行<rt>い</rt></ruby>きました。"
-optionA: "<ruby>初<rt>はじ</rt></ruby>めて"
-optionB: "<ruby>初<rt>はじ</rt></ruby>めに"
-correct: "<ruby>初<rt>はじ</rt></ruby>めて"
-explanation: "<ruby>初<rt>はじ</rt></ruby>めて benar karena menunjukkan pengalaman pertama kali. <ruby>初<rt>はじ</rt></ruby>めに berarti pertama-tama dalam urutan."
+sentence: "____日本へ行きました。"
+optionA: "初めて"
+optionB: "初めに"
+correct: "初めて"
+explanation: "初めて benar karena menunjukkan pengalaman pertama kali. 初めに berarti pertama-tama dalam urutan."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Pertama-tama, tulis nama."
-sentence: "____、<ruby>名前<rt>なまえ</rt></ruby>を<ruby>書<rt>か</rt></ruby>いてください。"
-optionA: "<ruby>初<rt>はじ</rt></ruby>めに"
-optionB: "<ruby>初<rt>はじ</rt></ruby>めは"
-correct: "<ruby>初<rt>はじ</rt></ruby>めに"
-explanation: "<ruby>初<rt>はじ</rt></ruby>めに benar karena kalimat memberi langkah pertama. <ruby>初<rt>はじ</rt></ruby>めは berarti awalnya."
+sentence: "____、名前を書いてください。"
+optionA: "初めに"
+optionB: "初めは"
+correct: "初めに"
+explanation: "初めに benar karena kalimat memberi langkah pertama. 初めは berarti awalnya."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Saya pikir cara ini bagus."
-sentence: "この<ruby>方法<rt>ほうほう</rt></ruby>はいい____。"
-optionA: "と<ruby>思<rt>おも</rt></ruby>います"
-optionB: "を<ruby>考<rt>かんが</rt></ruby>えます"
-correct: "と<ruby>思<rt>おも</rt></ruby>います"
-explanation: "と<ruby>思<rt>おも</rt></ruby>います benar karena と menandai isi pendapat. <ruby>考<rt>かんが</rt></ruby>える berarti mempertimbangkan atau memikirkan."
+sentence: "この方法はいい____。"
+optionA: "と思います"
+optionB: "を考えます"
+correct: "と思います"
+explanation: "と思います benar karena と menandai isi pendapat. 考える berarti mempertimbangkan atau memikirkan."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Belok kanan di sudut itu."
-sentence: "あの<ruby>角<rt>かど</rt></ruby>____<ruby>右<rt>みぎ</rt></ruby>に<ruby>曲<rt>ま</rt></ruby>がってください。"
+sentence: "あの角____右に曲がってください。"
 optionA: "を"
 optionB: "に"
 correct: "を"
-explanation: "を benar dalam frasa <ruby>角<rt>かど</rt></ruby>を<ruby>右<rt>みぎ</rt></ruby>に<ruby>曲<rt>ま</rt></ruby>がる. Pada kata kerja gerak, を bisa menandai titik/rute yang dilewati."
+explanation: "を benar dalam frasa 角を右に曲がる. Pada kata kerja gerak, を bisa menandai titik/rute yang dilewati."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Saya sudah terbiasa dengan kehidupan di Jepang."
-sentence: "<ruby>日本<rt>にほん</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>____<ruby>慣<rt>な</rt></ruby>れました。"
+sentence: "日本の生活____慣れました。"
 optionA: "に"
 optionB: "を"
 correct: "に"
-explanation: "に benar karena polanya （N）に<ruby>慣<rt>な</rt></ruby>れる, yaitu terbiasa dengan sesuatu."
+explanation: "に benar karena polanya （N）に慣れる, yaitu terbiasa dengan sesuatu."
 ---
 ::
 

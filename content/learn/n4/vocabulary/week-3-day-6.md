@@ -141,22 +141,22 @@ Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
 ::MiniPractice
 ---
 question: "Guru sudah melihat dokumen itu."
-sentence: "<ruby>先生<rt>せんせい</rt></ruby>はもう<ruby>資料<rt>しりょう</rt></ruby>を____。"
-optionA: "ご<ruby>覧<rt>らん</rt></ruby>になりました"
-optionB: "<ruby>拝見<rt>はいけん</rt></ruby>しました"
-correct: "ご<ruby>覧<rt>らん</rt></ruby>になりました"
-explanation: "ご<ruby>覧<rt>らん</rt></ruby>になる benar untuk tindakan orang lain yang dihormati. <ruby>拝見<rt>はいけん</rt></ruby>する dipakai untuk tindakan diri sendiri."
+sentence: "先生はもう資料を____。"
+optionA: "ご覧になりました"
+optionB: "拝見しました"
+correct: "ご覧になりました"
+explanation: "ご覧になる benar untuk tindakan orang lain yang dihormati. 拝見する dipakai untuk tindakan diri sendiri."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Nama saya Tanaka."
-sentence: "<ruby>田中<rt>たなか</rt></ruby>と____。"
-optionA: "<ruby>申<rt>もう</rt></ruby>します"
+sentence: "田中と____。"
+optionA: "申します"
 optionB: "おっしゃいます"
-correct: "<ruby>申<rt>もう</rt></ruby>します"
-explanation: "<ruby>申<rt>もう</rt></ruby>します benar untuk memperkenalkan nama diri sendiri dengan rendah hati. おっしゃいます untuk orang lain berkata."
+correct: "申します"
+explanation: "申します benar untuk memperkenalkan nama diri sendiri dengan rendah hati. おっしゃいます untuk orang lain berkata."
 ---
 ::
 
@@ -164,21 +164,21 @@ explanation: "<ruby>申<rt>もう</rt></ruby>します benar untuk memperkenalka
 ---
 question: "Silakan makan yang banyak."
 sentence: "たくさん____ください。"
-optionA: "<ruby>召<rt>め</rt></ruby>し<ruby>上<rt>あ</rt></ruby>がって"
-optionB: "<ruby>頂<rt>いただ</rt></ruby>いて"
-correct: "<ruby>召<rt>め</rt></ruby>し<ruby>上<rt>あ</rt></ruby>がって"
-explanation: "<ruby>召<rt>め</rt></ruby>し<ruby>上<rt>あ</rt></ruby>がってください benar karena menghormati tindakan makan orang lain. <ruby>頂<rt>いただ</rt></ruby>く dipakai untuk tindakan diri sendiri."
+optionA: "召し上がって"
+optionB: "頂いて"
+correct: "召し上がって"
+explanation: "召し上がってください benar karena menghormati tindakan makan orang lain. 頂く dipakai untuk tindakan diri sendiri."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Besok saya akan berkunjung ke kantor."
-sentence: "<ruby>明日<rt>あした</rt></ruby>、<ruby>会社<rt>かいしゃ</rt></ruby>へ____。"
-optionA: "<ruby>伺<rt>うかが</rt></ruby>います"
+sentence: "明日、会社へ____。"
+optionA: "伺います"
 optionB: "おいでになります"
-correct: "<ruby>伺<rt>うかが</rt></ruby>います"
-explanation: "<ruby>伺<rt>うかが</rt></ruby>います benar untuk tindakan pembicara berkunjung dengan rendah hati. おいでになります untuk tindakan orang lain."
+correct: "伺います"
+explanation: "伺います benar untuk tindakan pembicara berkunjung dengan rendah hati. おいでになります untuk tindakan orang lain."
 ---
 ::
 
@@ -186,10 +186,10 @@ explanation: "<ruby>伺<rt>うかが</rt></ruby>います benar untuk tindakan p
 ---
 question: "Di restoran: makan di sini?"
 sentence: "こちらで____ですか。"
-optionA: "お<ruby>召<rt>め</rt></ruby>し<ruby>上<rt>あ</rt></ruby>がり"
-optionB: "お<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り"
-correct: "お<ruby>召<rt>め</rt></ruby>し<ruby>上<rt>あ</rt></ruby>がり"
-explanation: "こちらでお<ruby>召<rt>め</rt></ruby>し<ruby>上<rt>あ</rt></ruby>がりですか berarti apakah makan di sini. お<ruby>持<rt>も</rt></ruby>ち<ruby>帰<rt>かえ</rt></ruby>り adalah dibawa pulang."
+optionA: "お召し上がり"
+optionB: "お持ち帰り"
+correct: "お召し上がり"
+explanation: "こちらでお召し上がりですか berarti apakah makan di sini. お持ち帰り adalah dibawa pulang."
 ---
 ::
 

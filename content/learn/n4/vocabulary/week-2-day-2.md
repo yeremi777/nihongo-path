@@ -150,7 +150,7 @@ Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
 ::MiniPractice
 ---
 question: "Orang yang memakai kacamata itu adalah guru saya."
-sentence: "めがねを____いる<ruby>人<rt>ひと</rt></ruby>は<ruby>先生<rt>せんせい</rt></ruby>です。"
+sentence: "めがねを____いる人は先生です。"
 optionA: "かけて"
 optionB: "かぶって"
 correct: "かけて"
@@ -161,7 +161,7 @@ explanation: "めがねをかける adalah kolokasi untuk memakai kacamata. か�
 ::MiniPractice
 ---
 question: "Anak itu memakai topi merah."
-sentence: "<ruby>赤<rt>あか</rt></ruby>いぼうしを____います。"
+sentence: "赤いぼうしを____います。"
 optionA: "かぶって"
 optionB: "さして"
 correct: "かぶって"
@@ -172,33 +172,33 @@ explanation: "ぼうしをかぶる berarti memakai topi. かさをさす berart
 ::MiniPractice
 ---
 question: "Adik perempuan saya mirip ibu."
-sentence: "<ruby>妹<rt>いもうと</rt></ruby>は<ruby>母<rt>はは</rt></ruby>____<ruby>似<rt>に</rt></ruby>ています。"
+sentence: "妹は母____似ています。"
 optionA: "に"
 optionB: "を"
 correct: "に"
-explanation: "に benar karena pola （Person）に<ruby>似<rt>に</rt></ruby>ている berarti mirip dengan orang itu."
+explanation: "に benar karena pola （Person）に似ている berarti mirip dengan orang itu."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Ruangan ini sedang dipakai."
-sentence: "この<ruby>部屋<rt>へや</rt></ruby>は____です。"
-optionA: "<ruby>使用中<rt>しようちゅう</rt></ruby>"
-optionB: "<ruby>食事中<rt>しょくじちゅう</rt></ruby>"
-correct: "<ruby>使用中<rt>しようちゅう</rt></ruby>"
-explanation: "<ruby>使用中<rt>しようちゅう</rt></ruby> berarti sedang dipakai. <ruby>食事中<rt>しょくじちゅう</rt></ruby> berarti sedang makan."
+sentence: "この部屋は____です。"
+optionA: "使用中"
+optionB: "食事中"
+correct: "使用中"
+explanation: "使用中 berarti sedang dipakai. 食事中 berarti sedang makan."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Anak-anak berlari di taman."
-sentence: "<ruby>子<rt>こ</rt></ruby>どもたちは<ruby>公園<rt>こうえん</rt></ruby>____<ruby>走<rt>はし</rt></ruby>っています。"
+sentence: "子どもたちは公園____走っています。"
 optionA: "を"
 optionB: "に"
 correct: "を"
-explanation: "を benar karena <ruby>公園<rt>こうえん</rt></ruby>を<ruby>走<rt>はし</rt></ruby>る menunjukkan area/rute yang dilalui saat berlari."
+explanation: "を benar karena 公園を走る menunjukkan area/rute yang dilalui saat berlari."
 ---
 ::
 

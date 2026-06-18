@@ -153,55 +153,55 @@ Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
 ::MiniPractice
 ---
 question: "Ada bau aneh dari kamar."
-sentence: "<ruby>部屋<rt>へや</rt></ruby>から<ruby>変<rt>へん</rt></ruby>な____がします。"
+sentence: "部屋から変な____がします。"
 optionA: "におい"
-optionB: "<ruby>味<rt>あじ</rt></ruby>"
+optionB: "味"
 correct: "におい"
-explanation: "においがする berarti ada bau. <ruby>味<rt>あじ</rt></ruby>がする berarti ada rasa/terasa."
+explanation: "においがする berarti ada bau. 味がする berarti ada rasa/terasa."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Kaca jendela pecah."
-sentence: "<ruby>窓<rt>まど</rt></ruby>ガラスが____います。"
-optionA: "<ruby>割<rt>わ</rt></ruby>れて"
-optionB: "<ruby>折<rt>お</rt></ruby>れて"
-correct: "<ruby>割<rt>わ</rt></ruby>れて"
-explanation: "<ruby>割<rt>わ</rt></ruby>れている benar untuk kaca/piring/cermin yang pecah. <ruby>折<rt>お</rt></ruby>れている lebih cocok untuk ranting atau benda panjang."
+sentence: "窓ガラスが____います。"
+optionA: "割れて"
+optionB: "折れて"
+correct: "割れて"
+explanation: "割れている benar untuk kaca/piring/cermin yang pecah. 折れている lebih cocok untuk ranting atau benda panjang."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Pencuri itu kabur."
-sentence: "<ruby>泥棒<rt>どろぼう</rt></ruby>が____。"
-optionA: "<ruby>逃<rt>に</rt></ruby>げました"
-optionB: "<ruby>捕<rt>つか</rt></ruby>まりました"
-correct: "<ruby>逃<rt>に</rt></ruby>げました"
-explanation: "<ruby>逃<rt>に</rt></ruby>げました berarti kabur. <ruby>捕<rt>つか</rt></ruby>まりました berarti tertangkap."
+sentence: "泥棒が____。"
+optionA: "逃げました"
+optionB: "捕まりました"
+correct: "逃げました"
+explanation: "逃げました berarti kabur. 捕まりました berarti tertangkap."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Tolong bunyikan bel darurat."
-sentence: "<ruby>非常<rt>ひじょう</rt></ruby>ベルを____ください。"
-optionA: "<ruby>鳴<rt>な</rt></ruby>らして"
-optionB: "<ruby>信<rt>しん</rt></ruby>じて"
-correct: "<ruby>鳴<rt>な</rt></ruby>らして"
-explanation: "ベルを<ruby>鳴<rt>な</rt></ruby>らす berarti membunyikan bel. <ruby>信<rt>しん</rt></ruby>じる berarti percaya."
+sentence: "非常ベルを____ください。"
+optionA: "鳴らして"
+optionB: "信じて"
+correct: "鳴らして"
+explanation: "ベルを鳴らす berarti membunyikan bel. 信じる berarti percaya."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Jalan basah karena hujan."
-sentence: "<ruby>雨<rt>あめ</rt></ruby>で<ruby>道<rt>みち</rt></ruby>が____います。"
-optionA: "<ruby>濡<rt>ぬ</rt></ruby>れて"
-optionB: "<ruby>騒<rt>さわ</rt></ruby>いで"
-correct: "<ruby>濡<rt>ぬ</rt></ruby>れて"
-explanation: "<ruby>濡<rt>ぬ</rt></ruby>れている berarti basah dalam keadaan sekarang. <ruby>騒<rt>さわ</rt></ruby>いでいる berarti sedang ribut."
+sentence: "雨で道が____います。"
+optionA: "濡れて"
+optionB: "騒いで"
+correct: "濡れて"
+explanation: "濡れている berarti basah dalam keadaan sekarang. 騒いでいる berarti sedang ribut."
 ---
 ::
 

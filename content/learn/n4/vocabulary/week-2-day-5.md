@@ -143,7 +143,7 @@ Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
 ::MiniPractice
 ---
 question: "Bus akhirnya datang setelah menunggu lama."
-sentence: "バスが____<ruby>来<rt>き</rt></ruby>ました。"
+sentence: "バスが____来ました。"
 optionA: "やっと"
 optionB: "もうすぐ"
 correct: "やっと"
@@ -154,18 +154,18 @@ explanation: "やっと benar karena ada rasa menunggu sampai akhirnya terjadi. 
 ::MiniPractice
 ---
 question: "Besok harus datang tanpa gagal."
-sentence: "<ruby>明日<rt>あした</rt></ruby>____<ruby>来<rt>き</rt></ruby>てください。"
-optionA: "<ruby>必<rt>かなら</rt></ruby>ず"
+sentence: "明日____来てください。"
+optionA: "必ず"
 optionB: "さっき"
-correct: "<ruby>必<rt>かなら</rt></ruby>ず"
-explanation: "<ruby>必<rt>かなら</rt></ruby>ず benar karena instruksi ini berarti harus datang tanpa gagal. さっき berarti tadi/barusan."
+correct: "必ず"
+explanation: "必ず benar karena instruksi ini berarti harus datang tanpa gagal. さっき berarti tadi/barusan."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Saya terus belajar sejak pagi."
-sentence: "<ruby>朝<rt>あさ</rt></ruby>から____<ruby>勉強<rt>べんきょう</rt></ruby>しています。"
+sentence: "朝から____勉強しています。"
 optionA: "ずっと"
 optionB: "やっぱり"
 correct: "ずっと"
@@ -176,7 +176,7 @@ explanation: "ずっと benar karena menunjukkan durasi terus-menerus sejak pagi
 ::MiniPractice
 ---
 question: "Sebentar lagi saya pulang ke negara asal."
-sentence: "____<ruby>国<rt>くに</rt></ruby>へ<ruby>帰<rt>かえ</rt></ruby>ります。"
+sentence: "____国へ帰ります。"
 optionA: "もうすぐ"
 optionB: "やっと"
 correct: "もうすぐ"
@@ -189,9 +189,9 @@ explanation: "もうすぐ benar karena kejadian akan terjadi dalam waktu dekat.
 question: "Akhirnya saya pilih kue saja."
 sentence: "____ケーキにします。"
 optionA: "やっぱり"
-optionB: "<ruby>最近<rt>さいきん</rt></ruby>"
+optionB: "最近"
 correct: "やっぱり"
-explanation: "やっぱり〜にする berarti akhirnya memilih sesuatu setelah mempertimbangkan ulang. <ruby>最近<rt>さいきん</rt></ruby> berarti akhir-akhir ini."
+explanation: "やっぱり〜にする berarti akhirnya memilih sesuatu setelah mempertimbangkan ulang. 最近 berarti akhir-akhir ini."
 ---
 ::
 

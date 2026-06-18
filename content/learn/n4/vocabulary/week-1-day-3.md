@@ -144,11 +144,11 @@ Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
 ::MiniPractice
 ---
 question: "Saya tidak enak badan hari ini."
-sentence: "<ruby>今日<rt>きょう</rt></ruby>は____が<ruby>悪<rt>わる</rt></ruby>いです。"
-optionA: "<ruby>気分<rt>きぶん</rt></ruby>"
-optionB: "<ruby>予定<rt>よてい</rt></ruby>"
-correct: "<ruby>気分<rt>きぶん</rt></ruby>"
-explanation: "<ruby>気分<rt>きぶん</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>い berarti kondisi badan atau perasaan tidak enak. <ruby>予定<rt>よてい</rt></ruby> berarti jadwal."
+sentence: "今日は____が悪いです。"
+optionA: "気分"
+optionB: "予定"
+correct: "気分"
+explanation: "気分が悪い berarti kondisi badan atau perasaan tidak enak. 予定 berarti jadwal."
 ---
 ::
 
@@ -156,43 +156,43 @@ explanation: "<ruby>気分<rt>きぶん</rt></ruby>が<ruby>悪<rt>わる</rt></
 ---
 question: "Tolong jangan memaksakan diri."
 sentence: "____をしないでください。"
-optionA: "<ruby>無理<rt>むり</rt></ruby>"
-optionB: "<ruby>安心<rt>あんしん</rt></ruby>"
-correct: "<ruby>無理<rt>むり</rt></ruby>"
-explanation: "<ruby>無理<rt>むり</rt></ruby>をする berarti memaksakan diri. <ruby>安心<rt>あんしん</rt></ruby>する berarti merasa lega."
+optionA: "無理"
+optionB: "安心"
+correct: "無理"
+explanation: "無理をする berarti memaksakan diri. 安心する berarti merasa lega."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Saya membawa adik pergi ke rumah sakit."
-sentence: "<ruby>弟<rt>おとうと</rt></ruby>を<ruby>病院<rt>びょういん</rt></ruby>へ____。"
-optionA: "<ruby>連<rt>つ</rt></ruby>れて<ruby>行<rt>い</rt></ruby>きました"
-optionB: "<ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>きました"
-correct: "<ruby>連<rt>つ</rt></ruby>れて<ruby>行<rt>い</rt></ruby>きました"
-explanation: "<ruby>連<rt>つ</rt></ruby>れて<ruby>行<rt>い</rt></ruby>きました benar karena objeknya orang. <ruby>持<rt>も</rt></ruby>って<ruby>行<rt>い</rt></ruby>く dipakai untuk barang."
+sentence: "弟を病院へ____。"
+optionA: "連れて行きました"
+optionB: "持って行きました"
+correct: "連れて行きました"
+explanation: "連れて行きました benar karena objeknya orang. 持って行く dipakai untuk barang."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Besok tolong bawa bekal ke sini."
-sentence: "<ruby>明日<rt>あした</rt></ruby>、お<ruby>弁当<rt>べんとう</rt></ruby>を____ください。"
-optionA: "<ruby>持<rt>も</rt></ruby>って<ruby>来<rt>き</rt></ruby>て"
-optionB: "<ruby>迎<rt>むか</rt></ruby>えに<ruby>来<rt>き</rt></ruby>て"
-correct: "<ruby>持<rt>も</rt></ruby>って<ruby>来<rt>き</rt></ruby>て"
-explanation: "<ruby>持<rt>も</rt></ruby>って<ruby>来<rt>き</rt></ruby>て benar karena membawa barang ke arah tempat pembicara. <ruby>迎<rt>むか</rt></ruby>えに<ruby>来<rt>き</rt></ruby>て berarti datang menjemput."
+sentence: "明日、お弁当を____ください。"
+optionA: "持って来て"
+optionB: "迎えに来て"
+correct: "持って来て"
+explanation: "持って来て benar karena membawa barang ke arah tempat pembicara. 迎えに来て berarti datang menjemput."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Saya berganti memakai piyama."
-sentence: "パジャマ____<ruby>着替<rt>きが</rt></ruby>えました。"
+sentence: "パジャマ____着替えました。"
 optionA: "に"
 optionB: "を"
 correct: "に"
-explanation: "に benar karena （Clothes）に<ruby>着替<rt>きが</rt></ruby>える menandai pakaian hasil setelah berganti."
+explanation: "に benar karena （Clothes）に着替える menandai pakaian hasil setelah berganti."
 ---
 ::
 

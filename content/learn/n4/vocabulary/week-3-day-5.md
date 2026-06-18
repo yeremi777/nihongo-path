@@ -145,44 +145,44 @@ Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
 ::MiniPractice
 ---
 question: "Saya pergi menjenguk teman yang sakit."
-sentence: "<ruby>友<rt>とも</rt></ruby>だちの____に<ruby>行<rt>い</rt></ruby>きました。"
-optionA: "お<ruby>見舞<rt>みま</rt></ruby>い"
-optionB: "お<ruby>祝<rt>いわ</rt></ruby>い"
-correct: "お<ruby>見舞<rt>みま</rt></ruby>い"
-explanation: "お<ruby>見舞<rt>みま</rt></ruby>いに<ruby>行<rt>い</rt></ruby>く berarti pergi menjenguk orang sakit. お<ruby>祝<rt>いわ</rt></ruby>い untuk perayaan."
+sentence: "友だちの____に行きました。"
+optionA: "お見舞い"
+optionB: "お祝い"
+correct: "お見舞い"
+explanation: "お見舞いに行く berarti pergi menjenguk orang sakit. お祝い untuk perayaan."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Paket sudah sampai."
-sentence: "<ruby>荷物<rt>にもつ</rt></ruby>が____。"
-optionA: "<ruby>届<rt>とど</rt></ruby>きました"
-optionB: "<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>しました"
-correct: "<ruby>届<rt>とど</rt></ruby>きました"
-explanation: "<ruby>荷物<rt>にもつ</rt></ruby>が<ruby>届<rt>とど</rt></ruby>く berarti paket/barang sampai. <ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>す berarti pindah rumah."
+sentence: "荷物が____。"
+optionA: "届きました"
+optionB: "引っ越しました"
+correct: "届きました"
+explanation: "荷物が届く berarti paket/barang sampai. 引っ越す berarti pindah rumah."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Saya bekerja di perusahaan Jepang."
-sentence: "<ruby>日本<rt>にほん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>____<ruby>勤<rt>つと</rt></ruby>めています。"
+sentence: "日本の会社____勤めています。"
 optionA: "に"
 optionB: "を"
 correct: "に"
-explanation: "に benar karena pola （Company）に<ruby>勤<rt>つと</rt></ruby>める berarti bekerja di/untuk perusahaan."
+explanation: "に benar karena pola （Company）に勤める berarti bekerja di/untuk perusahaan."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Gunakan ungkapan yang lebih halus untuk meninggal dunia."
-sentence: "<ruby>祖父<rt>そふ</rt></ruby>は<ruby>去年<rt>きょねん</rt></ruby>____。"
-optionA: "<ruby>亡<rt>な</rt></ruby>くなりました"
-optionB: "<ruby>死<rt>し</rt></ruby>にました"
-correct: "<ruby>亡<rt>な</rt></ruby>くなりました"
-explanation: "<ruby>亡<rt>な</rt></ruby>くなりました lebih halus untuk kabar duka. <ruby>死<rt>し</rt></ruby>にました benar secara arti, tetapi lebih langsung."
+sentence: "祖父は去年____。"
+optionA: "亡くなりました"
+optionB: "死にました"
+correct: "亡くなりました"
+explanation: "亡くなりました lebih halus untuk kabar duka. 死にました benar secara arti, tetapi lebih langsung."
 ---
 ::
 
@@ -191,9 +191,9 @@ explanation: "<ruby>亡<rt>な</rt></ruby>くなりました lebih halus untuk k
 question: "Saat menolak tawaran dengan sopan: tidak perlu, sudah cukup."
 sentence: "いいえ、____。"
 optionA: "けっこうです"
-optionB: "<ruby>喜<rt>よろこ</rt></ruby>んで"
+optionB: "喜んで"
 correct: "けっこうです"
-explanation: "けっこうです dalam penolakan berarti tidak perlu/sudah cukup. <ruby>喜<rt>よろこ</rt></ruby>んで berarti dengan senang hati."
+explanation: "けっこうです dalam penolakan berarti tidak perlu/sudah cukup. 喜んで berarti dengan senang hati."
 ---
 ::
 

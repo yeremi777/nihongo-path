@@ -162,43 +162,43 @@ explanation: "パスポートをなくしました benar karena を menandai obj
 ---
 question: "Ponsel saya rusak."
 sentence: "スマホが____。"
-optionA: "<ruby>壊<rt>こわ</rt></ruby>れました"
-optionB: "<ruby>壊<rt>こわ</rt></ruby>しました"
-correct: "<ruby>壊<rt>こわ</rt></ruby>れました"
-explanation: "<ruby>壊<rt>こわ</rt></ruby>れました benar karena benda menjadi rusak dan memakai が. <ruby>壊<rt>こわ</rt></ruby>しました berarti seseorang merusakkan sesuatu."
+optionA: "壊れました"
+optionB: "壊しました"
+correct: "壊れました"
+explanation: "壊れました benar karena benda menjadi rusak dan memakai が. 壊しました berarti seseorang merusakkan sesuatu."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Barang yang hilang sudah ditemukan."
-sentence: "なくした<ruby>物<rt>もの</rt></ruby>が____。"
-optionA: "<ruby>見<rt>み</rt></ruby>つかりました"
-optionB: "<ruby>見<rt>み</rt></ruby>つけました"
-correct: "<ruby>見<rt>み</rt></ruby>つかりました"
-explanation: "<ruby>見<rt>み</rt></ruby>つかりました benar karena subjeknya barang yang ditemukan. <ruby>見<rt>み</rt></ruby>つけました fokus pada orang yang menemukan."
+sentence: "なくした物が____。"
+optionA: "見つかりました"
+optionB: "見つけました"
+correct: "見つかりました"
+explanation: "見つかりました benar karena subjeknya barang yang ditemukan. 見つけました fokus pada orang yang menemukan."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Saya mencari pekerjaan."
-sentence: "<ruby>仕事<rt>しごと</rt></ruby>を____います。"
-optionA: "<ruby>探<rt>さが</rt></ruby>して"
-optionB: "<ruby>拾<rt>ひろ</rt></ruby>って"
-correct: "<ruby>探<rt>さが</rt></ruby>して"
-explanation: "<ruby>仕事<rt>しごと</rt></ruby>を<ruby>探<rt>さが</rt></ruby>す berarti mencari pekerjaan. <ruby>拾<rt>ひろ</rt></ruby>う berarti memungut barang yang jatuh."
+sentence: "仕事を____います。"
+optionA: "探して"
+optionB: "拾って"
+correct: "探して"
+explanation: "仕事を探す berarti mencari pekerjaan. 拾う berarti memungut barang yang jatuh."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Mari jaga barang penting baik-baik."
-sentence: "<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>物<rt>もの</rt></ruby>を____しましょう。"
-optionA: "<ruby>大切<rt>たいせつ</rt></ruby>に"
-optionB: "<ruby>大変<rt>たいへん</rt></ruby>に"
-correct: "<ruby>大切<rt>たいせつ</rt></ruby>に"
-explanation: "<ruby>大切<rt>たいせつ</rt></ruby>にする berarti menjaga baik-baik atau menghargai. <ruby>大変<rt>たいへん</rt></ruby> berarti gawat/berat."
+sentence: "大切な物を____しましょう。"
+optionA: "大切に"
+optionB: "大変に"
+correct: "大切に"
+explanation: "大切にする berarti menjaga baik-baik atau menghargai. 大変 berarti gawat/berat."
 ---
 ::
 

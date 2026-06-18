@@ -141,55 +141,55 @@ Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
 ::MiniPractice
 ---
 question: "Saya lega setelah menerima kabar dari teman."
-sentence: "<ruby>友<rt>とも</rt></ruby>だちから<ruby>連絡<rt>れんらく</rt></ruby>があって、____。"
-optionA: "<ruby>安心<rt>あんしん</rt></ruby>しました"
-optionB: "<ruby>心配<rt>しんぱい</rt></ruby>しました"
-correct: "<ruby>安心<rt>あんしん</rt></ruby>しました"
-explanation: "<ruby>安心<rt>あんしん</rt></ruby>しました benar karena kabar sudah datang sehingga rasa khawatir hilang. <ruby>心配<rt>しんぱい</rt></ruby>しました dipakai saat masih khawatir."
+sentence: "友だちから連絡があって、____。"
+optionA: "安心しました"
+optionB: "心配しました"
+correct: "安心しました"
+explanation: "安心しました benar karena kabar sudah datang sehingga rasa khawatir hilang. 心配しました dipakai saat masih khawatir."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Film ini membosankan."
-sentence: "この<ruby>映画<rt>えいが</rt></ruby>は____です。"
+sentence: "この映画は____です。"
 optionA: "つまらない"
-optionB: "<ruby>面白<rt>おもしろ</rt></ruby>い"
+optionB: "面白い"
 correct: "つまらない"
-explanation: "つまらない benar karena berarti membosankan. <ruby>面白<rt>おもしろ</rt></ruby>い adalah lawannya: menarik atau seru."
+explanation: "つまらない benar karena berarti membosankan. 面白い adalah lawannya: menarik atau seru."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Saya merasa mual."
-sentence: "<ruby>少<rt>すこ</rt></ruby>し____です。"
-optionA: "<ruby>気持<rt>きも</rt></ruby>ち<ruby>悪<rt>わる</rt></ruby>い"
+sentence: "少し____です。"
+optionA: "気持ち悪い"
 optionB: "うれしい"
-correct: "<ruby>気持<rt>きも</rt></ruby>ち<ruby>悪<rt>わる</rt></ruby>い"
-explanation: "<ruby>気持<rt>きも</rt></ruby>ち<ruby>悪<rt>わる</rt></ruby>い benar karena bisa berarti merasa mual. うれしい berarti senang."
+correct: "気持ち悪い"
+explanation: "気持ち悪い benar karena bisa berarti merasa mual. うれしい berarti senang."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Saya kaget karena suara besar."
-sentence: "<ruby>大<rt>おお</rt></ruby>きな<ruby>音<rt>おと</rt></ruby>に____。"
+sentence: "大きな音に____。"
 optionA: "びっくりしました"
 optionB: "がっかりしました"
 correct: "びっくりしました"
-explanation: "びっくりしました benar karena petunjuknya adalah <ruby>大<rt>おお</rt></ruby>きな<ruby>音<rt>おと</rt></ruby>. がっかりしました berarti kecewa."
+explanation: "びっくりしました benar karena petunjuknya adalah 大きな音. がっかりしました berarti kecewa."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Awalnya saya sedih karena tinggal sendirian."
-sentence: "<ruby>一人<rt>ひとり</rt></ruby>で<ruby>住<rt>す</rt></ruby>んでいて、____です。"
-optionA: "<ruby>寂<rt>さび</rt></ruby>しい"
-optionB: "<ruby>残念<rt>ざんねん</rt></ruby>"
-correct: "<ruby>寂<rt>さび</rt></ruby>しい"
-explanation: "<ruby>寂<rt>さび</rt></ruby>しい benar karena konteksnya sendirian. <ruby>残念<rt>ざんねん</rt></ruby>です berarti sayang sekali atau disayangkan."
+sentence: "一人で住んでいて、____です。"
+optionA: "寂しい"
+optionB: "残念"
+correct: "寂しい"
+explanation: "寂しい benar karena konteksnya sendirian. 残念です berarti sayang sekali atau disayangkan."
 ---
 ::
 

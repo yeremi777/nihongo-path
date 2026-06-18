@@ -160,22 +160,22 @@ Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
 ::MiniPractice
 ---
 question: "Saya suka kopi yang pekat."
-sentence: "____コーヒーが<ruby>好<rt>す</rt></ruby>きです。"
-optionA: "<ruby>濃<rt>こ</rt></ruby>い"
-optionB: "<ruby>強<rt>つよ</rt></ruby>い"
-correct: "<ruby>濃<rt>こ</rt></ruby>い"
-explanation: "<ruby>濃<rt>こ</rt></ruby>い benar untuk rasa kopi yang pekat. <ruby>強<rt>つよ</rt></ruby>い berarti kuat secara umum, tetapi bukan kolokasi natural untuk kopi."
+sentence: "____コーヒーが好きです。"
+optionA: "濃い"
+optionB: "強い"
+correct: "濃い"
+explanation: "濃い benar untuk rasa kopi yang pekat. 強い berarti kuat secara umum, tetapi bukan kolokasi natural untuk kopi."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Hari ini cuacanya panas."
-sentence: "<ruby>今日<rt>きょう</rt></ruby>は____です。"
-optionA: "<ruby>暑<rt>あつ</rt></ruby>い"
-optionB: "<ruby>熱<rt>あつ</rt></ruby>い"
-correct: "<ruby>暑<rt>あつ</rt></ruby>い"
-explanation: "<ruby>暑<rt>あつ</rt></ruby>い benar karena cuaca memakai kanji 暑い. <ruby>熱<rt>あつ</rt></ruby>い dipakai untuk benda, makanan, atau minuman panas."
+sentence: "今日は____です。"
+optionA: "暑い"
+optionB: "熱い"
+correct: "暑い"
+explanation: "暑い benar karena cuaca memakai kanji 暑い. 熱い dipakai untuk benda, makanan, atau minuman panas."
 ---
 ::
 
@@ -183,17 +183,17 @@ explanation: "<ruby>暑<rt>あつ</rt></ruby>い benar karena cuaca memakai kanj
 ---
 question: "Pena ini terlalu besar/tebal diameternya."
 sentence: "このペンは____です。"
-optionA: "<ruby>太<rt>ふと</rt></ruby>い"
-optionB: "<ruby>厚<rt>あつ</rt></ruby>い"
-correct: "<ruby>太<rt>ふと</rt></ruby>い"
-explanation: "<ruby>太<rt>ふと</rt></ruby>い benar untuk diameter pena. <ruby>厚<rt>あつ</rt></ruby>い dipakai untuk ketebalan benda datar seperti kertas."
+optionA: "太い"
+optionB: "厚い"
+correct: "太い"
+explanation: "太い benar untuk diameter pena. 厚い dipakai untuk ketebalan benda datar seperti kertas."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Jalan di depan stasiun ramai dan hidup."
-sentence: "<ruby>駅<rt>えき</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>は____<ruby>通<rt>とお</rt></ruby>りです。"
+sentence: "駅の前は____通りです。"
 optionA: "にぎやかな"
 optionB: "うるさい"
 correct: "にぎやかな"
@@ -204,11 +204,11 @@ explanation: "にぎやかな benar untuk suasana ramai/meriah secara netral ata
 ::MiniPractice
 ---
 question: "Sungai itu dalam, jadi hati-hati."
-sentence: "その<ruby>川<rt>かわ</rt></ruby>は____から、<ruby>気<rt>き</rt></ruby>をつけてください。"
-optionA: "<ruby>深<rt>ふか</rt></ruby>い"
-optionB: "<ruby>浅<rt>あさ</rt></ruby>い"
-correct: "<ruby>深<rt>ふか</rt></ruby>い"
-explanation: "<ruby>深<rt>ふか</rt></ruby>い benar karena berarti dalam. <ruby>浅<rt>あさ</rt></ruby>い berarti dangkal."
+sentence: "その川は____から、気をつけてください。"
+optionA: "深い"
+optionB: "浅い"
+correct: "深い"
+explanation: "深い benar karena berarti dalam. 浅い berarti dangkal."
 ---
 ::
 
