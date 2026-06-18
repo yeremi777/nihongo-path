@@ -15,20 +15,7 @@ export default defineNuxtConfig({
 
   nitro: {
     externals: {
-      traceInclude: [
-        'kuromoji/dict/base.dat.gz',
-        'kuromoji/dict/cc.dat.gz',
-        'kuromoji/dict/check.dat.gz',
-        'kuromoji/dict/tid.dat.gz',
-        'kuromoji/dict/tid_map.dat.gz',
-        'kuromoji/dict/tid_pos.dat.gz',
-        'kuromoji/dict/unk.dat.gz',
-        'kuromoji/dict/unk_char.dat.gz',
-        'kuromoji/dict/unk_compat.dat.gz',
-        'kuromoji/dict/unk_invoke.dat.gz',
-        'kuromoji/dict/unk_map.dat.gz',
-        'kuromoji/dict/unk_pos.dat.gz'
-      ]
+      traceInclude: ['kuromoji']
     }
   },
 
