@@ -24,6 +24,7 @@ logs
 
 # Service Worker (If using Nuxt PWA)
 sw.*
+!app/server/routes/sw.js.ts
 
 # System / IDE files
 .DS_Store

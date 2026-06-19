@@ -102,6 +102,10 @@ const slug = computed(() => normalizeSlugParam(route.params.slug))
 const contentPath = computed(() => `/learn/${slug.value.join('/')}`)
 const rootPath = computed(() => `/learn/${slug.value[0]}`)
 const sectionPath = computed(() => contentPath.value.split('/').slice(0, -1).join('/'))
+const levelKey = computed(() => slug.value[0]?.toLowerCase() || 'n3')
+const activeSectionKey = computed(() => slug.value[1]?.toLowerCase())
+const isLevelRoot = computed(() => slug.value.length === 1)
+const isArticlePage = computed(() => slug.value.length > 2)
 
 const contentPathCandidates = computed(() => {
   const normalizedPath = contentPath.value.replace(/\/+$/, '')
@@ -119,7 +123,10 @@ const contentStemCandidates = computed(() => {
   ])
 })
 
-const { data: page } = await useAsyncData(`content:${route.path}`, async () => {
+const pageDataKey = computed(() => `learn-page:${contentPath.value}`)
+const outlineDataKey = computed(() => `learn-outline:${rootPath.value}`)
+
+const { data: page } = await useAsyncData(pageDataKey, async () => {
   for (const path of contentPathCandidates.value) {
     const doc = await queryCollection('content').path(path).first()
     if (doc) return doc
@@ -131,16 +138,29 @@ const { data: page } = await useAsyncData(`content:${route.path}`, async () => {
   }
 
   return null
+}, {
+  default: () => null,
+  watch: [contentPath]
 })
 
-if (!page.value) {
+const isKnownOutlineRoute = computed(() => {
+  const validLevels = ['n5', 'n4', 'n3']
+  const validSections = ['kana', 'grammar', 'vocabulary', 'kanji']
+  const section = activeSectionKey.value
+
+  return validLevels.includes(levelKey.value) &&
+    !isArticlePage.value &&
+    (!section || validSections.includes(section))
+})
+
+if (!page.value && !isKnownOutlineRoute.value && !import.meta.dev) {
   throw createError({
     statusCode: 404,
     statusMessage: 'Lesson not found'
   })
 }
 
-const { data: levelDocs } = await useAsyncData(`outline:${rootPath.value}`, () => {
+const { data: levelDocs } = await useAsyncData(outlineDataKey, () => {
   return queryCollection('content')
     .where('path', 'LIKE', `${rootPath.value}/%`)
     .all()
@@ -158,6 +178,9 @@ const { data: levelDocs } = await useAsyncData(`outline:${rootPath.value}`, () =
         meta: lesson.meta
       }
     }))
+}, {
+  default: () => [],
+  watch: [rootPath]
 })
 
 const sidebarSectionLabels: Record<string, string> = {
@@ -233,11 +256,6 @@ const defaultOutlines: Record<string, OutlineSection[]> = {
     }
   ]
 }
-
-const levelKey = computed(() => slug.value[0]?.toLowerCase() || 'n3')
-const activeSectionKey = computed(() => slug.value[1]?.toLowerCase())
-const isLevelRoot = computed(() => slug.value.length === 1)
-const isArticlePage = computed(() => slug.value.length > 2)
 
 watch(isArticlePage, (value) => {
   setFallbackPlacement(value ? 'toolbar' : 'sidebar')

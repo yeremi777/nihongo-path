@@ -4,6 +4,7 @@ import { dirname, isAbsolute, join, relative, resolve } from 'node:path'
 
 const require = createRequire(import.meta.url)
 const kuromojiDictSource = resolve(dirname(require.resolve('kuromoji')), '../dict')
+const isDevelopment = process.env.NODE_ENV === 'development'
 
 const collectContentRoutes = (dir: string, prefix = ''): string[] => {
   if (!existsSync(dir)) return []
@@ -41,7 +42,7 @@ export default defineNuxtConfig({
     '@nuxt/content',
     '@nuxtjs/tailwindcss',
     '@nuxtjs/color-mode',
-    '@vite-pwa/nuxt'
+    ...(isDevelopment ? [] : ['@vite-pwa/nuxt'])
   ],
 
   nitro: {
