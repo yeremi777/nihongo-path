@@ -114,7 +114,7 @@ export default defineNuxtConfig({
   },
 
   pwa: {
-    registerType: 'autoUpdate',
+    registerType: 'prompt',
     manifest: {
       name: 'Nihongo Path',
       short_name: 'Nihongo',
@@ -141,6 +141,9 @@ export default defineNuxtConfig({
     workbox: {
       navigateFallback: '/offline',
       navigateFallbackDenylist: [/^\/api\//],
+      ignoreURLParametersMatching: [
+        /^.*/
+      ],
       globPatterns: [
         '**/*.{js,css,html,json,ico,png,svg,webp,woff,woff2,txt}'
       ],
@@ -164,7 +167,7 @@ export default defineNuxtConfig({
           }
         },
         {
-          urlPattern: /^\/(?:api\/_content|_payload|search-data|__nuxt_content)\//,
+          urlPattern: /^\/(?:.*\/)?_payload\.json(?:\?.*)?$|^\/(?:api\/_content|search-data|__nuxt_content)\//,
           handler: 'StaleWhileRevalidate',
           options: {
             cacheName: 'content-payloads',
@@ -177,6 +180,7 @@ export default defineNuxtConfig({
       ]
     },
     client: {
+      registerPlugin: process.env.NODE_ENV !== 'development',
       installPrompt: false
     },
     devOptions: {
