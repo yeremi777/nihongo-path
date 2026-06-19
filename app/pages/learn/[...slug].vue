@@ -138,8 +138,8 @@ const defaultOutlines: Record<string, OutlineSection[]> = {
     {
       key: 'kana',
       items: [
-        { title: 'Hiragana', to: '/learn/n5/kana/hiragana' },
-        { title: 'Katakana', to: '/learn/n5/kana/katakana' }
+        { title: 'Hiragana', topic: 'ひらがな', topicLabel: 'Hiragana', to: '/learn/n5/kana/hiragana' },
+        { title: 'Katakana', topic: 'カタカナ', topicLabel: 'Katakana', to: '/learn/n5/kana/katakana' }
       ]
     },
     {

@@ -4,7 +4,7 @@ description: "46 karakter dasar hiragana, bunyi bersuara, kontraksi, dan latihan
 level: "N5"
 category: "kana"
 topic: "ひらがな"
-topicLabel: "Dasar membaca dan menulis Jepang"
+topicLabel: "Hiragana — Dasar membaca dan menulis Jepang"
 order: 1
 status: "active"
 tags:
@@ -67,7 +67,7 @@ Hiragana adalah aksara fonetik dasar bahasa Jepang. Klik setiap kartu untuk meli
   <details class="kana-card"><summary><span class="kana-char">れ</span><span class="kana-reading">re</span></summary><p>れきし (rekishi)<br>れい (rei)<br>れんらく (renraku)<br>れいぞうこ (reizouko)</p></details>
   <details class="kana-card"><summary><span class="kana-char">ろ</span><span class="kana-reading">ro</span></summary><p>ろく (roku)<br>ろじ (roji)<br>ろうか (rouka)<br>ろせん (rosen)</p></details>
   <details class="kana-card"><summary><span class="kana-char">わ</span><span class="kana-reading">wa</span></summary><p>わたし (watashi)<br>わに (wani)<br>わすれる (wasureru)<br>わかい (wakai)</p></details>
-  <details class="kana-card"><summary><span class="kana-char">を</span><span class="kana-reading">o</span></summary><p>を (o) u2014 particle</p></details>
+  <details class="kana-card"><summary><span class="kana-char">を</span><span class="kana-reading">o</span></summary><p>を (o) - particle</p></details>
   <details class="kana-card"><summary><span class="kana-char">ん</span><span class="kana-reading">n</span></summary><p>にほん (nihon)<br>てんき (tenki)<br>ほん (hon)<br>のむ (nomu)</p></details>
 </div>
 
@@ -221,4 +221,3 @@ explanation: "へや = heya (kamar). へ dibaca 'he' saat bagian kata."
 
 - NHK Hiragana Table
 - Tofugu Hiragana Guide
-

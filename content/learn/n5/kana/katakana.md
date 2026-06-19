@@ -4,7 +4,7 @@ description: "46 karakter dasar katakana, bunyi bersuara, kontraksi, vokal panja
 level: "N5"
 category: "kana"
 topic: "カタカナ"
-topicLabel: "Aksara untuk kata serapan dan nama asing"
+topicLabel: "Katakana — Aksara untuk kata serapan dan nama asing"
 order: 2
 status: "active"
 tags:
@@ -49,7 +49,7 @@ Katakana dipakai untuk kata serapan asing, nama, dan penekanan. Klik setiap kart
   <details class="kana-card"><summary><span class="kana-char">ネ</span><span class="kana-reading">ne</span></summary><p>ネクタイ (nekutai)<br>ネーム (neemu)<br>ネット (netto)<br>ネガ (nega)</p></details>
   <details class="kana-card"><summary><span class="kana-char">ノ</span><span class="kana-reading">no</span></summary><p>ノート (nooto)<br>ノイズ (noizu)<br>ノック (nokku)<br>ノルマ (noruma)</p></details>
   <details class="kana-card"><summary><span class="kana-char">ハ</span><span class="kana-reading">ha</span></summary><p>ハンバーガー (hanbaagaa)<br>ハイキング (haikingu)<br>ハウス (hausu)<br>ハンカチ (hankachi)</p></details>
-  <details class="kana-card"><summary><span class="kana-char">ヒ</span><span class="kana-reading">hi</span></summary><p>ヒーター (hiitaa)<br>ビルの隣 (biruno隣)<br>ヒント (hinto)<br>ヒーロー (hiiroo)</p></details>
+  <details class="kana-card"><summary><span class="kana-char">ヒ</span><span class="kana-reading">hi</span></summary><p>ヒーター (hiitaa)<br>ヒール (hiiru)<br>ヒント (hinto)<br>ヒーロー (hiiroo)</p></details>
   <details class="kana-card"><summary><span class="kana-char">フ</span><span class="kana-reading">fu</span></summary><p>フランス (furansu)<br>フォーク (fooku)<br>フライド (furaido)<br>フルーツ (furuutsu)</p></details>
   <details class="kana-card"><summary><span class="kana-char">ヘ</span><span class="kana-reading">he</span></summary><p>ヘルメット (herumetto)<br>ヘア (hea)<br>ヘルプ (herupu)<br>ヘッド (heddo)</p></details>
   <details class="kana-card"><summary><span class="kana-char">ホ</span><span class="kana-reading">ho</span></summary><p>ホテル (hoteru)<br>ホーム (hoomu)<br>ホワイト (howaito)<br>ホット (hotto)</p></details>
@@ -67,7 +67,7 @@ Katakana dipakai untuk kata serapan asing, nama, dan penekanan. Klik setiap kart
   <details class="kana-card"><summary><span class="kana-char">レ</span><span class="kana-reading">re</span></summary><p>レストラン (resutoran)<br>レポート (repooto)<br>レジ (reji)<br>レンタル (rentaru)</p></details>
   <details class="kana-card"><summary><span class="kana-char">ロ</span><span class="kana-reading">ro</span></summary><p>ロボット (robotto)<br>ロマンス (romansu)<br>ロッカー (rokkaa)<br>ローン (roon)</p></details>
   <details class="kana-card"><summary><span class="kana-char">ワ</span><span class="kana-reading">wa</span></summary><p>ワイン (wain)<br>ワールド (waarudo)<br>ワット (watto)<br>ワゴン (wagon)</p></details>
-  <details class="kana-card"><summary><span class="kana-char">ヲ</span><span class="kana-reading">o</span></summary><p>ヲ (o) u2014 rarely used in modern katakana</p></details>
+  <details class="kana-card"><summary><span class="kana-char">ヲ</span><span class="kana-reading">o</span></summary><p>ヲ (o) - rarely used in modern katakana</p></details>
   <details class="kana-card"><summary><span class="kana-char">ン</span><span class="kana-reading">n</span></summary><p>パン (pan)<br>テンキ (tenki)<br>デンキ (denki)<br>ベンリ (benri)</p></details>
 </div>
 
@@ -149,11 +149,11 @@ Kombinasi khusus untuk kata asing:
 | フェ | fe | フェリー (feri) |
 | フォ | fo | フォーク (garpu) |
 
-## Vokal Panjang & Konsonan Ganda
-
-**Vokal panjang:** pakai tanda ー. Contoh: コーヒー (kopi), タクシー (taksi), ケーキ (kue).<br><small>Dalam romaji: aa (アー), ii (イー), uu (ウー), ee (エー), oo (オー). Bisa juga pakai garis: ā, ī, ū, ē, ō.</small>
+## Konsonan Ganda & Vokal Panjang
 
 **Konsonan ganda:** pakai ッ kecil. Contoh: サッカー (sepak bola), ベッド (tempat tidur), バッグ (tas).
+
+**Vokal panjang:** pakai tanda ー. Contoh: コーヒー (kopi), タクシー (taksi), ケーキ (kue).<br><small>Dalam romaji: aa (アー), ii (イー), uu (ウー), ee (エー), oo (オー). Bisa juga pakai garis: ā, ī, ū, ē, ō.</small>
 
 ## Contoh Kalimat
 
@@ -227,4 +227,3 @@ explanation: "シ = shi (katakana). Bandingkan dengan ツ = tsu."
 
 - NHK Katakana Table
 - Tofugu Katakana Guide
-
