@@ -1,6 +1,6 @@
 import { cpSync, existsSync, mkdirSync, rmSync, writeFileSync } from 'node:fs'
 import { createRequire } from 'node:module'
-import { dirname, join, resolve } from 'node:path'
+import { dirname, isAbsolute, join, relative, resolve } from 'node:path'
 
 const require = createRequire(import.meta.url)
 const kuromojiDictSource = resolve(dirname(require.resolve('kuromoji')), '../dict')
@@ -33,34 +33,42 @@ export default defineNuxtConfig({
           recursive: true
         })
 
-        const fallbackFunctionDir = join(nitro.options.output.dir, 'functions/__fallback.func')
-        rmSync(fallbackFunctionDir, { recursive: true, force: true })
-        mkdirSync(dirname(fallbackFunctionDir), { recursive: true })
-        cpSync(nitro.options.output.serverDir, fallbackFunctionDir, {
-          recursive: true
-        })
+        const serverDir = resolve(nitro.options.output.serverDir)
+        const fallbackFunctionDir = resolve(nitro.options.output.dir, 'functions/__fallback.func')
+        const fallbackRelativeToServer = relative(serverDir, fallbackFunctionDir)
+        const fallbackIsInsideServer =
+          fallbackRelativeToServer === '' ||
+          (!fallbackRelativeToServer.startsWith('..') && !isAbsolute(fallbackRelativeToServer))
 
-        writeFileSync(
-          join(fallbackFunctionDir, '.vc-config.json'),
-          JSON.stringify({
-            runtime: 'nodejs20.x',
-            handler: 'index.mjs',
-            launcherType: 'Nodejs',
-            shouldAddHelpers: false,
-            supportsResponseStreaming: true
-          }, null, 2)
-        )
+        if (!fallbackIsInsideServer) {
+          rmSync(fallbackFunctionDir, { recursive: true, force: true })
+          mkdirSync(dirname(fallbackFunctionDir), { recursive: true })
+          cpSync(serverDir, fallbackFunctionDir, {
+            recursive: true
+          })
 
-        writeFileSync(
-          join(nitro.options.output.dir, 'config.json'),
-          JSON.stringify({
-            version: 3,
-            routes: [
-              { handle: 'filesystem' },
-              { src: '/(.*)', dest: '/__fallback' }
-            ]
-          }, null, 2)
-        )
+          writeFileSync(
+            join(fallbackFunctionDir, '.vc-config.json'),
+            JSON.stringify({
+              runtime: 'nodejs20.x',
+              handler: 'index.mjs',
+              launcherType: 'Nodejs',
+              shouldAddHelpers: false,
+              supportsResponseStreaming: true
+            }, null, 2)
+          )
+
+          writeFileSync(
+            join(nitro.options.output.dir, 'config.json'),
+            JSON.stringify({
+              version: 3,
+              routes: [
+                { handle: 'filesystem' },
+                { src: '/(.*)', dest: '/__fallback' }
+              ]
+            }, null, 2)
+          )
+        }
       }
     }
   },
