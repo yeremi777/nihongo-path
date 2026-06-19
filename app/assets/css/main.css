@@ -79,6 +79,39 @@ body {
   -webkit-backdrop-filter: blur(10px);
 }
 
+.mobile-drawer-close {
+  display: inline-flex;
+  width: 2.75rem;
+  height: 2.75rem;
+  flex-shrink: 0;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid transparent;
+  border-radius: 0.5rem;
+  background: transparent;
+  color: var(--color-muted);
+  transition:
+    transform 0.15s ease,
+    border-color 0.15s ease,
+    background-color 0.15s ease,
+    color 0.15s ease;
+}
+
+.mobile-drawer-close:hover {
+  border-color: var(--color-border);
+  background: color-mix(in srgb, var(--color-surface) 72%, var(--color-bg));
+  color: var(--color-text);
+}
+
+.mobile-drawer-close:active {
+  transform: translateY(1px) scale(0.98);
+}
+
+.mobile-drawer-close:focus-visible {
+  outline: 2px solid var(--color-primary);
+  outline-offset: 2px;
+}
+
 .toc-rail {
   position: relative;
 }
@@ -694,6 +727,7 @@ body {
   line-height: 1.6;
   color: var(--color-muted);
   border-top: 1px solid color-mix(in srgb, var(--color-border) 50%, transparent);
+  overflow-wrap: anywhere;
 }
 
 .prose-nihongo .kana-card > p .jp-word {
@@ -727,4 +761,8 @@ body {
   font-family: "Hiragino Sans", "Yu Gothic", "Yu Gothic UI", Meiryo, "Noto Sans JP", sans-serif;
   font-size: 1.12rem;
   font-weight: 700;
+}
+
+.lesson-search-result {
+  overflow-wrap: anywhere;
 }

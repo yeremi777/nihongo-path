@@ -89,13 +89,48 @@ const parseWeekDayLesson = (path: string) => {
 
 const route = useRoute()
 const { setFallbackPlacement } = useLessonSearch()
-const slug = computed(() => route.params.slug as string[])
+
+const normalizeSlugParam = (value: unknown) => {
+  if (Array.isArray(value)) return value.filter((segment): segment is string => typeof segment === 'string' && Boolean(segment))
+  if (typeof value === 'string' && value) return [value]
+  return []
+}
+
+const uniqueValues = (values: string[]) => [...new Set(values.filter(Boolean))]
+
+const slug = computed(() => normalizeSlugParam(route.params.slug))
 const contentPath = computed(() => `/learn/${slug.value.join('/')}`)
 const rootPath = computed(() => `/learn/${slug.value[0]}`)
 const sectionPath = computed(() => contentPath.value.split('/').slice(0, -1).join('/'))
 
-const { data: page } = await useAsyncData(`content:${route.path}`, () => {
-  return queryCollection('content').path(contentPath.value).first()
+const contentPathCandidates = computed(() => {
+  const normalizedPath = contentPath.value.replace(/\/+$/, '')
+  return uniqueValues([
+    normalizedPath,
+    `${normalizedPath}/index`
+  ])
+})
+
+const contentStemCandidates = computed(() => {
+  const normalizedStem = contentPath.value.replace(/^\/+|\/+$/g, '')
+  return uniqueValues([
+    normalizedStem,
+    `${normalizedStem}/index`
+  ])
+})
+
+const { data: page } = await useAsyncData(`content:${route.path}`, async () => {
+  for (const path of contentPathCandidates.value) {
+    const doc = await queryCollection('content').path(path).first()
+    if (doc) return doc
+  }
+
+  for (const stem of contentStemCandidates.value) {
+    const doc = await queryCollection('content').where('stem', '=', stem).first()
+    if (doc) return doc
+  }
+
+  return null
 })
 
 if (!page.value) {
@@ -371,6 +406,13 @@ const numberedWeekGroups = computed<WeekGroup[]>(() => {
     }))
 })
 
+const activeMobileWeekGroups = computed(() => {
+  const key = activeSectionKey.value
+  if (!key) return []
+
+  return (sidebarSectionWeekGroups.value[key] || []).filter((group) => group.title)
+})
+
 const activeSectionItems = computed<NumberedOutlineItem[]>(() => {
   return numberedSections.value[0]?.items || []
 })
@@ -406,6 +448,10 @@ const articleToc = computed<TocLink[]>(() => {
   ]
 })
 
+const mobileArticleToc = computed(() => {
+  return articleToc.value
+})
+
 const eyebrow = computed(() => {
   const doc = page.value as any
   const sectionKey = activeSectionKey.value || doc.category?.toLowerCase()
@@ -417,6 +463,9 @@ const levelRootHref = computed(() => rootPath.value)
 
 const openSidebarSections = ref<Record<string, boolean>>({})
 const openSidebarWeeks = ref<Record<string, boolean>>({})
+const mobileSidebarOpen = ref(false)
+const mobileTocOpen = ref(false)
+const openMobileContentWeeks = ref<Record<string, boolean>>({})
 
 const currentLessonWeek = computed(() => {
   const doc = page.value as { week?: number } | null
@@ -509,6 +558,19 @@ const scrollToWeekContent = async (sectionKey: string, week: number) => {
   }
 
   await navigateTo(`${rootPath.value}/${sectionKey}#${weekId}`)
+}
+
+const isMobileContentWeekOpen = (week: number) => {
+  const sectionKey = activeSectionKey.value || 'section'
+  return Boolean(openMobileContentWeeks.value[`${sectionKey}:${week}`])
+}
+
+const toggleMobileContentWeek = (week: number) => {
+  const sectionKey = activeSectionKey.value
+  if (!sectionKey) return
+
+  const key = `${sectionKey}:${week}`
+  openMobileContentWeeks.value[key] = !openMobileContentWeeks.value[key]
 }
 
 const syncWeekFromHash = async () => {
@@ -732,6 +794,11 @@ const onTocLinkClick = (id: string) => {
   scrollToTocTarget(id)
 }
 
+const onMobileTocLinkClick = (id: string) => {
+  mobileTocOpen.value = false
+  onTocLinkClick(id)
+}
+
 const initTocSpy = async () => {
   if (!isArticlePage.value || typeof document === 'undefined') return
 
@@ -763,6 +830,8 @@ onMounted(() => {
 })
 
 watch(() => route.fullPath, () => {
+  mobileSidebarOpen.value = false
+  mobileTocOpen.value = false
   closeOpenKanjiCards()
   const hashId = route.hash?.replace('#', '')
   activeTocId.value = hashId || articleTopAnchorId.value
@@ -822,11 +891,108 @@ useSeoMeta({
           </template>
         </nav>
         <div class="flex items-center gap-2">
+          <button
+            v-if="mobileArticleToc.length"
+            type="button"
+            class="inline-flex h-11 w-11 items-center justify-center rounded-md border border-[color:var(--color-border)] bg-[color:var(--color-surface)] text-[color:var(--color-muted)] transition hover:text-[color:var(--color-text)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[color:var(--color-primary)] lg:hidden"
+            :aria-expanded="mobileTocOpen"
+            aria-controls="mobile-article-toc"
+            aria-label="Open contents"
+            title="Contents"
+            @click="mobileTocOpen = true"
+          >
+            <svg
+              aria-hidden="true"
+              class="h-5 w-5"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <path d="M8 6h13" />
+              <path d="M8 12h13" />
+              <path d="M8 18h13" />
+              <path d="M3 6h.01" />
+              <path d="M3 12h.01" />
+              <path d="M3 18h.01" />
+            </svg>
+          </button>
           <LessonSearchTrigger variant="compact" />
           <ThemeToggle />
         </div>
       </div>
     </div>
+
+    <Teleport to="body">
+      <div
+        v-if="mobileTocOpen && mobileArticleToc.length"
+        class="fixed inset-0 z-50 lg:hidden"
+        role="dialog"
+        aria-modal="true"
+        aria-labelledby="mobile-article-toc-title"
+      >
+        <button
+          type="button"
+          class="absolute inset-0 bg-black/45"
+          aria-label="Close contents"
+          @click="mobileTocOpen = false"
+        />
+
+        <aside
+          id="mobile-article-toc"
+          class="absolute right-0 top-0 flex h-full w-[min(20rem,calc(100vw-2rem))] flex-col border-l bg-[color:var(--color-surface)] shadow-2xl"
+          style="border-color: var(--color-border)"
+        >
+          <div class="flex items-center justify-between gap-4 border-b px-5 py-2.5" style="border-color: var(--color-border)">
+            <div class="min-w-0">
+              <p id="mobile-article-toc-title" class="text-xs font-bold uppercase tracking-[0.16em] text-[color:var(--color-muted)]">
+                On This Page
+              </p>
+            </div>
+            <button
+              type="button"
+              class="mobile-drawer-close"
+              aria-label="Close contents"
+              @click="mobileTocOpen = false"
+            >
+              <svg
+                aria-hidden="true"
+                class="h-5 w-5"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              >
+                <path d="M18 6 6 18" />
+                <path d="m6 6 12 12" />
+              </svg>
+            </button>
+          </div>
+
+          <nav class="min-h-0 flex-1 overflow-y-auto px-5 pb-4 pt-1.5" aria-label="Article contents">
+            <NuxtLink
+              v-for="link in mobileArticleToc"
+              :key="link.id"
+              :to="`${contentPath}#${link.id}`"
+              class="block rounded-md py-3 text-sm font-semibold leading-5 transition"
+              :class="[
+                link.id === articleTopAnchorId ? 'px-3' : link.depth && link.depth > 2 ? 'ml-6 px-3' : 'ml-3 px-3',
+                link.id === activeTocId
+                  ? 'bg-[color:var(--color-primary-soft)] text-[color:var(--color-text)]'
+                  : 'text-[color:var(--color-muted)] hover:bg-[color:var(--color-bg)] hover:text-[color:var(--color-text)]'
+              ]"
+              @click="onMobileTocLinkClick(link.id)"
+            >
+              {{ link.text }}
+            </NuxtLink>
+          </nav>
+        </aside>
+      </div>
+    </Teleport>
 
     <div class="mx-auto max-w-[92rem] px-5 pt-8 sm:px-8 lg:px-12">
       <div class="grid gap-12 lg:grid-cols-[minmax(0,1fr)_17rem]">
@@ -988,7 +1154,203 @@ useSeoMeta({
   </article>
 
   <section v-else class="min-h-screen lg:grid lg:grid-cols-[20rem_minmax(0,1fr)]">
-    <aside class="border-b bg-[color:var(--color-surface)]/55 lg:sticky lg:top-0 lg:h-screen lg:border-b-0 lg:border-r" style="border-color: var(--color-border)">
+    <div class="article-toolbar px-5 py-3 sm:px-8 lg:hidden">
+      <div class="flex items-center justify-between gap-4">
+        <div class="flex min-w-0 items-center gap-2">
+          <button
+            type="button"
+            class="inline-flex h-11 w-11 shrink-0 items-center justify-center rounded-md border border-[color:var(--color-border)] bg-[color:var(--color-surface)] text-[color:var(--color-muted)] transition hover:text-[color:var(--color-text)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[color:var(--color-primary)]"
+            :aria-expanded="mobileSidebarOpen"
+            aria-controls="mobile-section-panel"
+            aria-label="Open sections"
+            title="Sections"
+            @click="mobileSidebarOpen = true"
+          >
+            <svg
+              aria-hidden="true"
+              class="h-5 w-5"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <path d="M4 6h16" />
+              <path d="M4 12h16" />
+              <path d="M4 18h16" />
+            </svg>
+          </button>
+          <p class="font-japanese text-base font-semibold text-[color:var(--color-primary)]">日本語の道</p>
+        </div>
+
+        <div class="flex shrink-0 items-center gap-2">
+          <LessonSearchTrigger variant="compact" />
+          <ThemeToggle />
+        </div>
+      </div>
+    </div>
+
+    <header class="border-b px-5 py-8 sm:px-8 lg:hidden" style="border-color: var(--color-border)">
+      <div>
+        <h1 class="max-w-4xl text-4xl font-semibold leading-tight tracking-normal text-[color:var(--color-text)] sm:text-5xl">
+          {{ pageTitle }}
+        </h1>
+        <p v-if="pageDescription" class="mt-4 max-w-4xl text-base leading-7 text-[color:var(--color-muted)] sm:text-lg sm:leading-8">
+          {{ pageDescription }}
+        </p>
+      </div>
+    </header>
+
+    <div
+      v-if="mobileSidebarOpen"
+      class="fixed inset-0 z-50 lg:hidden"
+      role="dialog"
+      aria-modal="true"
+      aria-label="Sections"
+    >
+      <button
+        type="button"
+        class="absolute inset-0 bg-black/45"
+        aria-label="Close sections"
+        @click="mobileSidebarOpen = false"
+      />
+
+      <aside
+        id="mobile-section-panel"
+        class="relative flex h-full flex-col border-r bg-[color:var(--color-surface)] shadow-2xl"
+        style="border-color: var(--color-border); width: min(20rem, calc(100vw - 3rem))"
+      >
+        <div class="border-b px-5 py-5" style="border-color: var(--color-border)">
+          <div class="flex items-start justify-between gap-4">
+            <div>
+              <p class="font-japanese text-base font-semibold text-[color:var(--color-primary)]">日本語の道</p>
+              <h2 class="mt-3 text-xl font-semibold leading-tight text-[color:var(--color-text)]">
+                {{ levelSummaries[levelKey]?.title || levelKey.toUpperCase() }}
+              </h2>
+            </div>
+
+            <button
+              type="button"
+              class="mobile-drawer-close"
+              aria-label="Close sections"
+              @click="mobileSidebarOpen = false"
+            >
+              <svg
+                aria-hidden="true"
+                class="h-5 w-5"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              >
+                <path d="M18 6 6 18" />
+                <path d="m6 6 12 12" />
+              </svg>
+            </button>
+          </div>
+        </div>
+
+        <nav class="flex-1 overflow-y-auto px-5 py-6" aria-label="Mobile section navigation">
+          <NuxtLink
+            to="/learn"
+            class="text-base font-semibold text-[color:var(--color-text)] hover:text-[color:var(--color-primary)]"
+            @click="mobileSidebarOpen = false"
+          >
+            ← All tracks
+          </NuxtLink>
+
+          <div class="mt-8">
+            <p class="text-xs font-bold uppercase tracking-[0.14em] text-[color:var(--color-muted)]">
+              Sections
+            </p>
+            <div class="mt-4 grid gap-2">
+              <NuxtLink
+                v-for="section in sidebarSections"
+                :key="`mobile-section-${section.key}`"
+                :to="section.href"
+                class="rounded-md border px-3 py-3 text-sm font-bold transition"
+                :class="section.active
+                  ? 'border-[color:var(--color-primary)] bg-[color:var(--color-primary-soft)] text-[color:var(--color-primary)]'
+                  : 'border-[color:var(--color-border)] bg-[color:var(--color-surface)] text-[color:var(--color-text)] hover:border-[color:var(--color-primary)]'"
+                @click="mobileSidebarOpen = false"
+              >
+                {{ section.sidebarTitle }}
+              </NuxtLink>
+            </div>
+          </div>
+
+          <div
+            v-if="activeMobileWeekGroups.length"
+            class="mt-8"
+          >
+            <p class="text-xs font-bold uppercase tracking-[0.14em] text-[color:var(--color-muted)]">
+              Jump to Content
+            </p>
+
+            <div class="mt-4 space-y-5">
+              <section
+                v-for="group in activeMobileWeekGroups"
+                :key="`mobile-week-${group.week}`"
+              >
+                <button
+                  type="button"
+                  class="flex w-full items-center justify-between gap-3 rounded-md border border-[color:var(--color-border)] bg-[color:var(--color-bg)] px-3 py-3 text-left text-sm font-bold text-[color:var(--color-text)] transition hover:border-[color:var(--color-primary)] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[color:var(--color-primary)]"
+                  :aria-expanded="isMobileContentWeekOpen(group.week)"
+                  @click="toggleMobileContentWeek(group.week)"
+                >
+                  <span>{{ group.title }}</span>
+                  <svg
+                    aria-hidden="true"
+                    class="h-4 w-4 shrink-0 transition-transform"
+                    :class="isMobileContentWeekOpen(group.week) ? 'rotate-180' : ''"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="2"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  >
+                    <path d="m6 9 6 6 6-6" />
+                  </svg>
+                </button>
+
+                <div
+                  v-if="isMobileContentWeekOpen(group.week)"
+                  class="mt-2 grid gap-1"
+                >
+                  <template
+                    v-for="item in group.items"
+                    :key="`mobile-week-${group.week}-${item.title}`"
+                  >
+                    <NuxtLink
+                      v-if="item.enabled && item.to"
+                      :to="item.to"
+                      class="rounded-md px-3 py-2.5 text-sm font-semibold text-[color:var(--color-muted)] transition hover:bg-[color:var(--color-bg)] hover:text-[color:var(--color-text)]"
+                      :class="item.to === contentPath ? 'bg-[color:var(--color-primary-soft)] text-[color:var(--color-text)]' : ''"
+                      @click="mobileSidebarOpen = false"
+                    >
+                      {{ item.title }}
+                    </NuxtLink>
+
+                    <span
+                      v-else
+                      class="rounded-md px-3 py-2.5 text-sm font-semibold text-[color:var(--color-muted)]/65"
+                    >
+                      {{ item.title }}
+                    </span>
+                  </template>
+                </div>
+              </section>
+            </div>
+          </div>
+        </nav>
+      </aside>
+    </div>
+
+    <aside class="hidden border-b bg-[color:var(--color-surface)]/55 lg:sticky lg:top-0 lg:block lg:h-screen lg:border-b-0 lg:border-r" style="border-color: var(--color-border)">
       <div class="flex h-full flex-col">
         <div class="border-b px-6 py-6" style="border-color: var(--color-border)">
           <p class="font-japanese text-lg font-semibold text-[color:var(--color-primary)]">日本語の道</p>
@@ -1134,35 +1496,35 @@ useSeoMeta({
       </div>
     </aside>
 
-    <main class="px-5 py-10 sm:px-8 lg:px-12">
+    <main class="px-5 pb-10 pt-8 sm:px-8 lg:px-12 lg:py-10">
       <div class="mx-auto max-w-7xl">
-        <h1 class="max-w-5xl text-5xl font-semibold leading-tight tracking-normal text-[color:var(--color-text)] sm:text-6xl">
+        <h1 class="hidden max-w-5xl text-5xl font-semibold leading-tight tracking-normal text-[color:var(--color-text)] sm:text-6xl lg:block">
           {{ pageTitle }}
         </h1>
-        <p v-if="pageDescription" class="mt-6 max-w-5xl text-xl leading-8 text-[color:var(--color-muted)]">
+        <p v-if="pageDescription" class="mt-6 hidden max-w-5xl text-xl leading-8 text-[color:var(--color-muted)] lg:block">
           {{ pageDescription }}
         </p>
 
-        <div class="mt-14 space-y-16">
+        <div class="space-y-12 lg:mt-14 lg:space-y-16">
           <section v-if="isLevelRoot">
-            <h2 class="text-3xl font-semibold tracking-normal text-[color:var(--color-text)]">
+            <h2 class="text-2xl font-semibold tracking-normal text-[color:var(--color-text)] sm:text-3xl">
               Bagian Utama
             </h2>
 
-            <div class="mt-6 grid gap-5 xl:grid-cols-2">
+            <div class="mt-5 grid gap-4 sm:gap-5 xl:grid-cols-2">
               <NuxtLink
                 v-for="section in levelSectionCards"
                 :key="section.key"
                 :to="section.to"
-                class="group relative flex min-h-32 flex-col justify-between rounded-lg border border-[color:var(--color-border)] bg-[color:var(--color-surface)] p-6 transition hover:border-[color:var(--color-primary)]"
+                class="group relative flex min-h-28 flex-col justify-between rounded-lg border border-[color:var(--color-border)] bg-[color:var(--color-surface)] p-5 transition hover:border-[color:var(--color-primary)] sm:min-h-32 sm:p-6"
               >
-                <span class="absolute right-6 top-6 text-xl text-[color:var(--color-muted)] transition group-hover:text-[color:var(--color-primary)]" aria-hidden="true">
+                <span class="absolute right-5 top-5 text-xl text-[color:var(--color-muted)] transition group-hover:text-[color:var(--color-primary)] sm:right-6 sm:top-6" aria-hidden="true">
                   ↗
                 </span>
-                <span class="text-lg font-bold tabular-nums text-[color:var(--color-primary)]">
+                <span class="text-base font-bold tabular-nums text-[color:var(--color-primary)] sm:text-lg">
                   {{ section.number }}
                 </span>
-                <h3 class="mt-6 pr-8 text-2xl font-semibold leading-snug text-[color:var(--color-text)]">
+                <h3 class="mt-5 pr-8 text-xl font-semibold leading-snug text-[color:var(--color-text)] sm:mt-6 sm:text-2xl">
                   {{ section.title }}
                 </h3>
               </NuxtLink>
