@@ -1,9 +1,32 @@
-import { cpSync, existsSync, mkdirSync, rmSync, writeFileSync } from 'node:fs'
+import { cpSync, existsSync, mkdirSync, readdirSync, rmSync, statSync, writeFileSync } from 'node:fs'
 import { createRequire } from 'node:module'
 import { dirname, isAbsolute, join, relative, resolve } from 'node:path'
 
 const require = createRequire(import.meta.url)
 const kuromojiDictSource = resolve(dirname(require.resolve('kuromoji')), '../dict')
+
+const collectContentRoutes = (dir: string, prefix = ''): string[] => {
+  if (!existsSync(dir)) return []
+
+  return readdirSync(dir).flatMap((entry) => {
+    const fullPath = join(dir, entry)
+    const routePart = entry.replace(/\.md$/, '')
+
+    if (statSync(fullPath).isDirectory()) {
+      return collectContentRoutes(fullPath, `${prefix}/${entry}`)
+    }
+
+    if (!entry.endsWith('.md')) return []
+
+    const route = routePart === 'index'
+      ? prefix || '/'
+      : `${prefix}/${routePart}`
+
+    return route === '/' ? ['/learn'] : [`/learn${route}`]
+  })
+}
+
+const contentRoutes = collectContentRoutes(resolve('content/learn'))
 
 export default defineNuxtConfig({
   srcDir: 'app',
@@ -17,14 +40,20 @@ export default defineNuxtConfig({
   modules: [
     '@nuxt/content',
     '@nuxtjs/tailwindcss',
-    '@nuxtjs/color-mode'
+    '@nuxtjs/color-mode',
+    '@vite-pwa/nuxt'
   ],
 
   nitro: {
+    prerender: {
+      crawlLinks: true,
+      routes: contentRoutes
+    },
+
     hooks: {
       compiled(nitro) {
         const publicDir = nitro.options.output.publicDir
-        for (const name of ['favicon.ico', 'favicon.png']) {
+        for (const name of ['favicon.ico', 'favicon.png', 'offline.html']) {
           const src = resolve('public/' + name)
           if (existsSync(src)) cpSync(src, join(publicDir, name))
         }
@@ -84,6 +113,77 @@ export default defineNuxtConfig({
     classSuffix: ''
   },
 
+  pwa: {
+    registerType: 'autoUpdate',
+    manifest: {
+      name: 'Nihongo Path',
+      short_name: 'Nihongo',
+      description: 'A structured JLPT learning path from N5 foundation to N3 intermediate study.',
+      theme_color: '#b91c1c',
+      background_color: '#faf7f2',
+      display: 'standalone',
+      start_url: '/',
+      scope: '/',
+      icons: [
+        {
+          src: '/favicon.png',
+          sizes: '512x512',
+          type: 'image/png',
+          purpose: 'any maskable'
+        },
+        {
+          src: '/favicon.ico',
+          sizes: '48x48',
+          type: 'image/x-icon'
+        }
+      ]
+    },
+    workbox: {
+      navigateFallback: '/offline',
+      navigateFallbackDenylist: [/^\/api\//],
+      globPatterns: [
+        '**/*.{js,css,html,json,ico,png,svg,webp,woff,woff2,txt}'
+      ],
+      runtimeCaching: [
+        {
+          urlPattern: /^\/api\/furigana(?:\/.*)?$/,
+          handler: 'NetworkOnly',
+          options: {
+            cacheName: 'furigana-network-only'
+          }
+        },
+        {
+          urlPattern: /^\/_nuxt\/.*$/,
+          handler: 'CacheFirst',
+          options: {
+            cacheName: 'nuxt-assets',
+            expiration: {
+              maxEntries: 120,
+              maxAgeSeconds: 60 * 60 * 24 * 30
+            }
+          }
+        },
+        {
+          urlPattern: /^\/(?:api\/_content|_payload|search-data|__nuxt_content)\//,
+          handler: 'StaleWhileRevalidate',
+          options: {
+            cacheName: 'content-payloads',
+            expiration: {
+              maxEntries: 240,
+              maxAgeSeconds: 60 * 60 * 24 * 7
+            }
+          }
+        }
+      ]
+    },
+    client: {
+      installPrompt: false
+    },
+    devOptions: {
+      enabled: false
+    }
+  },
+
   app: {
     head: {
       titleTemplate: '%s · Nihongo Path',
@@ -94,6 +194,10 @@ export default defineNuxtConfig({
         { rel: 'icon', href: '/favicon.ico' }
       ],
       meta: [
+        {
+          name: 'theme-color',
+          content: '#b91c1c'
+        },
         {
           name: 'description',
           content: 'A structured JLPT learning path from N5 foundation to N3 intermediate study.'

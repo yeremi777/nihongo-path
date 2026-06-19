@@ -21,6 +21,7 @@
     "@nuxt/content": "latest",
     "@nuxtjs/color-mode": "latest",
     "@nuxtjs/tailwindcss": "latest",
+    "@vite-pwa/nuxt": "^1.1.1",
     "better-sqlite3": "latest",
     "kuromoji": "0.1.2",
     "kuroshiro": "^1.2.0",

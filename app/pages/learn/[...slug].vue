@@ -144,6 +144,20 @@ const { data: levelDocs } = await useAsyncData(`outline:${rootPath.value}`, () =
   return queryCollection('content')
     .where('path', 'LIKE', `${rootPath.value}/%`)
     .all()
+    .then((docs) => docs.map((doc) => {
+      const lesson = doc as ContentLessonDoc
+
+      return {
+        path: lesson.path,
+        title: lesson.title,
+        description: lesson.description,
+        topic: readLessonField(lesson, 'topic'),
+        topicLabel: readLessonField(lesson, 'topicLabel'),
+        week: readLessonField(lesson, 'week'),
+        day: readLessonField(lesson, 'day'),
+        meta: lesson.meta
+      }
+    }))
 })
 
 const sidebarSectionLabels: Record<string, string> = {
