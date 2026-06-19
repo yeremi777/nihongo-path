@@ -1,4 +1,4 @@
-import { cpSync, existsSync, writeFileSync } from 'node:fs'
+import { cpSync, existsSync, mkdirSync, rmSync, writeFileSync } from 'node:fs'
 import { createRequire } from 'node:module'
 import { dirname, join, resolve } from 'node:path'
 
@@ -33,13 +33,21 @@ export default defineNuxtConfig({
           recursive: true
         })
 
+        const fallbackFunctionDir = join(nitro.options.output.dir, 'functions/__fallback.func')
+        rmSync(fallbackFunctionDir, { recursive: true, force: true })
+        mkdirSync(dirname(fallbackFunctionDir), { recursive: true })
+        cpSync(nitro.options.output.serverDir, fallbackFunctionDir, {
+          recursive: true
+        })
+
         writeFileSync(
-          join(nitro.options.output.serverDir, '.vc-config.json'),
+          join(fallbackFunctionDir, '.vc-config.json'),
           JSON.stringify({
             runtime: 'nodejs20.x',
             handler: 'index.mjs',
             launcherType: 'Nodejs',
-            shouldAddHelpers: true
+            shouldAddHelpers: false,
+            supportsResponseStreaming: true
           }, null, 2)
         )
 
