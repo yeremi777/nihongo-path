@@ -46,6 +46,17 @@ export default defineNuxtConfig({
   ],
 
   nitro: {
+    handlers: [
+      ...(isDevelopment
+        ? [
+            {
+              route: '/_payload.json',
+              handler: '~/server/dev/empty-payload.ts'
+            }
+          ]
+        : [])
+    ],
+
     prerender: {
       crawlLinks: true,
       routes: contentRoutes
@@ -146,7 +157,7 @@ export default defineNuxtConfig({
         /^.*/
       ],
       globPatterns: [
-        '**/*.{js,css,html,json,ico,png,svg,webp,woff,woff2,txt}'
+        '**/*.{js,css,html,json,ico,png,svg,webp,woff,woff2,wasm,txt}'
       ],
       runtimeCaching: [
         {
