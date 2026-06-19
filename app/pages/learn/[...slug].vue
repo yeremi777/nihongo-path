@@ -139,8 +139,7 @@ const { data: page } = await useAsyncData(pageDataKey, async () => {
 
   return null
 }, {
-  default: () => null,
-  watch: [contentPath]
+  default: () => null
 })
 
 const isKnownOutlineRoute = computed(() => {
@@ -179,8 +178,7 @@ const { data: levelDocs } = await useAsyncData(outlineDataKey, () => {
       }
     }))
 }, {
-  default: () => [],
-  watch: [rootPath]
+  default: () => []
 })
 
 const sidebarSectionLabels: Record<string, string> = {
