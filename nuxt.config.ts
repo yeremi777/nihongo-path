@@ -126,7 +126,7 @@ export default defineNuxtConfig({
   },
 
   pwa: {
-    registerType: 'prompt',
+    registerType: 'autoUpdate',
     manifest: {
       name: 'Nihongo Path',
       short_name: 'Nihongo',
@@ -180,13 +180,14 @@ export default defineNuxtConfig({
         },
         {
           urlPattern: /^\/(?:.*\/)?_payload\.json(?:\?.*)?$|^\/(?:api\/_content|search-data|__nuxt_content)\//,
-          handler: 'StaleWhileRevalidate',
+          handler: 'NetworkFirst',
           options: {
             cacheName: 'content-payloads',
             expiration: {
               maxEntries: 240,
-              maxAgeSeconds: 60 * 60 * 24 * 7
-            }
+              maxAgeSeconds: 60 * 60 * 24
+            },
+            networkTimeoutSeconds: 3
           }
         }
       ]
