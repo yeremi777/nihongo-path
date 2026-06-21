@@ -48,18 +48,148 @@ Target akhir: bisa membaca informasi jalur, jenis kereta, dan status berhenti-le
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-<details class="kanji-card" open><summary><span class="kanji-char">線</span><span class="kanji-meta"><strong>線</strong><small>jalur, garis</small><span class="kanji-reading"><span>onyomi: セン</span><span>kunyomi: -</span></span></span></summary><p>線 adalah kanji inti untuk membaca nama jalur dan nomor peron. Di stasiun, cari kanji ini sebelum mengecek tujuan.</p><ul><li><span class="ruby-word"><ruby>山手線<rt>やまのてせん</rt></ruby></span> - Jalur Yamanote</li><li><span class="ruby-word"><ruby>三番線<rt>さんばんせん</rt></ruby></span> - peron jalur 3</li></ul></details>
-<details class="kanji-card"><summary><span class="kanji-char">面</span><span class="kanji-meta"><strong>面</strong><small>sisi, arah</small><span class="kanji-reading"><span>onyomi: メン</span><span>kunyomi: -</span></span></span></summary><p>面 membantu membaca arah tujuan dalam 方面. Kata ini memberi tahu sisi atau arah perjalanan, bukan jenis kereta.</p><ul><li><span class="ruby-word"><ruby>方面<rt>ほうめん</rt></ruby></span> - arah tujuan</li><li><span class="ruby-word"><ruby>画面<rt>がめん</rt></ruby></span> - layar</li></ul></details>
-<details class="kanji-card"><summary><span class="kanji-char">普</span><span class="kanji-meta"><strong>普</strong><small>umum, lokal</small><span class="kanji-reading"><span>onyomi: フ</span><span>kunyomi: -</span></span></span></summary><p>普 muncul dalam 普通, jenis layanan biasa/lokal. Ini biasanya berarti kereta berhenti lebih banyak.</p><ul><li><span class="ruby-word"><ruby>普通<rt>ふつう</rt></ruby></span> - kereta lokal/biasa</li></ul></details>
-<details class="kanji-card"><summary><span class="kanji-char">各</span><span class="kanji-meta"><strong>各</strong><small>masing-masing</small><span class="kanji-reading"><span>onyomi: カク</span><span>kunyomi: -</span></span></span></summary><p>各 memberi rasa “setiap”. Dalam 各駅停車, ini adalah petunjuk kuat bahwa kereta berhenti di semua stasiun.</p><ul><li><span class="ruby-word"><ruby>各駅停車<rt>かくえきていしゃ</rt></ruby></span> - berhenti di setiap stasiun</li><li><span class="ruby-word"><ruby>各自<rt>かくじ</rt></ruby></span> - masing-masing orang</li></ul></details>
-<details class="kanji-card"><summary><span class="kanji-char">次</span><span class="kanji-meta"><strong>次</strong><small>berikutnya</small><span class="kanji-reading"><span>onyomi: ジ</span><span>kunyomi: つぎ</span></span></span></summary><p>次 membantu membaca informasi “berikutnya” pada papan elektronik atau pengumuman kereta.</p><ul><li><span class="ruby-word"><ruby>次<rt>つぎ</rt></ruby></span> - selanjutnya</li><li><span class="ruby-word"><ruby>次回<rt>じかい</rt></ruby></span> - kesempatan berikutnya</li></ul></details>
-<details class="kanji-card"><summary><span class="kanji-char">快</span><span class="kanji-meta"><strong>快</strong><small>cepat, nyaman</small><span class="kanji-reading"><span>onyomi: カイ</span><span>kunyomi: -</span></span></span></summary><p>快 memberi rasa cepat/nyaman dalam 快速. Saat melihatnya, cek apakah tujuanmu dilewati atau tidak.</p><ul><li><span class="ruby-word"><ruby>快速<rt>かいそく</rt></ruby></span> - rapid train</li></ul></details>
-<details class="kanji-card"><summary><span class="kanji-char">速</span><span class="kanji-meta"><strong>速</strong><small>cepat</small><span class="kanji-reading"><span>onyomi: ソク</span><span>kunyomi: はやい</span></span></span></summary><p>速 menyatakan kecepatan. Dalam 快速, kanji ini membantu menandai layanan yang lebih cepat dari kereta biasa.</p><ul><li><span class="ruby-word"><ruby>速い<rt>はやい</rt></ruby></span> - cepat</li><li><span class="ruby-word"><ruby>速度<rt>そくど</rt></ruby></span> - kecepatan</li></ul></details>
-<details class="kanji-card"><summary><span class="kanji-char">過</span><span class="kanji-meta"><strong>過</strong><small>melewati, berlebihan</small><span class="kanji-reading"><span>onyomi: カ</span><span>kunyomi: すぎる</span></span></span></summary><p>過 penting untuk membaca status kereta yang lewat tanpa berhenti. Pada peron, 通過 adalah informasi keselamatan juga.</p><ul><li><span class="ruby-word"><ruby>通過<rt>つうか</rt></ruby></span> - lewat tanpa berhenti</li><li><span class="ruby-word"><ruby>過ぎる<rt>すぎる</rt></ruby></span> - terlalu / melewati</li></ul></details>
-<details class="kanji-card"><summary><span class="kanji-char">鉄</span><span class="kanji-meta"><strong>鉄</strong><small>besi, kereta</small><span class="kanji-reading"><span>onyomi: テツ</span><span>kunyomi: -</span></span></span></summary><p>鉄 secara dasar berarti besi, tetapi dalam transportasi sering menunjuk sistem kereta atau rel.</p><ul><li><span class="ruby-word"><ruby>鉄道<rt>てつどう</rt></ruby></span> - jalur kereta</li><li><span class="ruby-word"><ruby>地下鉄<rt>ちかてつ</rt></ruby></span> - kereta bawah tanah</li></ul></details>
+<details class="kanji-card" open>
+  <summary>
+    <span class="kanji-char">線</span>
+    <span class="kanji-meta">
+      <strong>線</strong>
+      <small>jalur, garis</small>
+      <span class="kanji-reading"><span>onyomi: セン</span>
+    </span>
+  </summary>
+  <p>線 adalah kanji inti untuk membaca nama jalur dan nomor peron. Di stasiun, cari kanji ini sebelum mengecek tujuan.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>山手線<rt>やまのてせん</rt></ruby></span> - Jalur Yamanote</li>
+    <li><span class="ruby-word"><ruby>三番線<rt>さんばんせん</rt></ruby></span> - peron jalur 3</li>
+  </ul>
+</details>
 
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">面</span>
+    <span class="kanji-meta">
+      <strong>面</strong>
+      <small>sisi, arah</small>
+      <span class="kanji-reading"><span>onyomi: メン</span>
+    </span>
+  </summary>
+  <p>面 membantu membaca arah tujuan dalam 方面. Kata ini memberi tahu sisi atau arah perjalanan, bukan jenis kereta.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>方面<rt>ほうめん</rt></ruby></span> - arah tujuan</li>
+    <li><span class="ruby-word"><ruby>画面<rt>がめん</rt></ruby></span> - layar</li>
+  </ul>
+</details>
+
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">普</span>
+    <span class="kanji-meta">
+      <strong>普</strong>
+      <small>umum, lokal</small>
+      <span class="kanji-reading"><span>onyomi: フ</span>
+    </span>
+  </summary>
+  <p>普 muncul dalam 普通, jenis layanan biasa/lokal. Ini biasanya berarti kereta berhenti lebih banyak.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>普通<rt>ふつう</rt></ruby></span> - kereta lokal/biasa</li>
+  </ul>
+</details>
+
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">各</span>
+    <span class="kanji-meta">
+      <strong>各</strong>
+      <small>masing-masing</small>
+      <span class="kanji-reading"><span>onyomi: カク</span>
+    </span>
+  </summary>
+  <p>各 memberi rasa “setiap”. Dalam 各駅停車, ini adalah petunjuk kuat bahwa kereta berhenti di semua stasiun.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>各駅停車<rt>かくえきていしゃ</rt></ruby></span> - berhenti di setiap stasiun</li>
+    <li><span class="ruby-word"><ruby>各自<rt>かくじ</rt></ruby></span> - masing-masing orang</li>
+  </ul>
+</details>
+
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">次</span>
+    <span class="kanji-meta">
+      <strong>次</strong>
+      <small>berikutnya</small>
+      <span class="kanji-reading"><span>onyomi: ジ</span>
+    </span>
+  </summary>
+  <p>次 membantu membaca informasi “berikutnya” pada papan elektronik atau pengumuman kereta.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>次<rt>つぎ</rt></ruby></span> - selanjutnya</li>
+    <li><span class="ruby-word"><ruby>次回<rt>じかい</rt></ruby></span> - kesempatan berikutnya</li>
+  </ul>
+</details>
+
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">快</span>
+    <span class="kanji-meta">
+      <strong>快</strong>
+      <small>cepat, nyaman</small>
+      <span class="kanji-reading"><span>onyomi: カイ</span>
+    </span>
+  </summary>
+  <p>快 memberi rasa cepat/nyaman dalam 快速. Saat melihatnya, cek apakah tujuanmu dilewati atau tidak.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>快速<rt>かいそく</rt></ruby></span> - rapid train</li>
+  </ul>
+</details>
+
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">速</span>
+    <span class="kanji-meta">
+      <strong>速</strong>
+      <small>cepat</small>
+      <span class="kanji-reading"><span>onyomi: ソク</span>
+    </span>
+  </summary>
+  <p>速 menyatakan kecepatan. Dalam 快速, kanji ini membantu menandai layanan yang lebih cepat dari kereta biasa.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>速い<rt>はやい</rt></ruby></span> - cepat</li>
+    <li><span class="ruby-word"><ruby>速度<rt>そくど</rt></ruby></span> - kecepatan</li>
+  </ul>
+</details>
+
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">過</span>
+    <span class="kanji-meta">
+      <strong>過</strong>
+      <small>melewati, berlebihan</small>
+      <span class="kanji-reading"><span>onyomi: カ</span>
+    </span>
+  </summary>
+  <p>過 penting untuk membaca status kereta yang lewat tanpa berhenti. Pada peron, 通過 adalah informasi keselamatan juga.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>通過<rt>つうか</rt></ruby></span> - lewat tanpa berhenti</li>
+    <li><span class="ruby-word"><ruby>過ぎる<rt>すぎる</rt></ruby></span> - terlalu / melewati</li>
+  </ul>
+</details>
+
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">鉄</span>
+    <span class="kanji-meta">
+      <strong>鉄</strong>
+      <small>besi, kereta</small>
+      <span class="kanji-reading"><span>onyomi: テツ</span>
+    </span>
+  </summary>
+  <p>鉄 secara dasar berarti besi, tetapi dalam transportasi sering menunjuk sistem kereta atau rel.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>鉄道<rt>てつどう</rt></ruby></span> - jalur kereta</li>
+    <li><span class="ruby-word"><ruby>地下鉄<rt>ちかてつ</rt></ruby></span> - kereta bawah tanah</li>
+  </ul>
+</details>
 </div>
-
 ## Peta Kata
 
 <div class="word-strip">

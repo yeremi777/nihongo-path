@@ -47,135 +47,134 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 野球、地�
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open>
-    <summary>
-      <span class="kanji-char">球</span>
-      <span class="kanji-meta">
-        <strong>球</strong>
-        <small>bola</small>
-        <span class="kanji-reading"><span>onyomi: キュウ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam artikel olahraga dan laporan pertandingan, 球 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>野球<rt>やきゅう</rt></ruby></span> - bisbol</li>
-      <li><span class="ruby-word"><ruby>地球<rt>ちきゅう</rt></ruby></span> - bumi</li>
-    </ul>
-  </details>
+<details class="kanji-card" open>
+  <summary>
+    <span class="kanji-char">球</span>
+    <span class="kanji-meta">
+      <strong>球</strong>
+      <small>bola</small>
+      <span class="kanji-reading"><span>onyomi: キュウ</span>
+    </span>
+  </summary>
+  <p>Dalam artikel olahraga dan laporan pertandingan, 球 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>野球<rt>やきゅう</rt></ruby></span> - bisbol</li>
+    <li><span class="ruby-word"><ruby>地球<rt>ちきゅう</rt></ruby></span> - bumi</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">決</span>
-      <span class="kanji-meta">
-        <strong>決</strong>
-        <small>memutuskan</small>
-        <span class="kanji-reading"><span>onyomi: ケツ</span><span>kunyomi: きめる, きまる</span></span>
-      </span>
-    </summary>
-    <p>Dalam artikel olahraga dan laporan pertandingan, 決 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>決勝<rt>けっしょう</rt></ruby></span> - final</li>
-      <li><span class="ruby-word"><ruby>決める<rt>きめる</rt></ruby></span> - memutuskan</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">決</span>
+    <span class="kanji-meta">
+      <strong>決</strong>
+      <small>memutuskan</small>
+      <span class="kanji-reading"><span>onyomi: ケツ</span>
+    </span>
+  </summary>
+  <p>Dalam artikel olahraga dan laporan pertandingan, 決 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>決勝<rt>けっしょう</rt></ruby></span> - final</li>
+    <li><span class="ruby-word"><ruby>決める<rt>きめる</rt></ruby></span> - memutuskan</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">勝</span>
-      <span class="kanji-meta">
-        <strong>勝</strong>
-        <small>menang</small>
-        <span class="kanji-reading"><span>onyomi: ショウ</span><span>kunyomi: かつ</span></span>
-      </span>
-    </summary>
-    <p>Dalam artikel olahraga dan laporan pertandingan, 勝 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>勝つ<rt>かつ</rt></ruby></span> - menang</li>
-      <li><span class="ruby-word"><ruby>優勝<rt>ゆうしょう</rt></ruby></span> - juara</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">勝</span>
+    <span class="kanji-meta">
+      <strong>勝</strong>
+      <small>menang</small>
+      <span class="kanji-reading"><span>onyomi: ショウ</span>
+    </span>
+  </summary>
+  <p>Dalam artikel olahraga dan laporan pertandingan, 勝 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>勝つ<rt>かつ</rt></ruby></span> - menang</li>
+    <li><span class="ruby-word"><ruby>優勝<rt>ゆうしょう</rt></ruby></span> - juara</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">対</span>
-      <span class="kanji-meta">
-        <strong>対</strong>
-        <small>melawan, versus</small>
-        <span class="kanji-reading"><span>onyomi: タイ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam artikel olahraga dan laporan pertandingan, 対 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>一対二<rt>いちたいに</rt></ruby></span> - 1 lawan 2</li>
-      <li><span class="ruby-word"><ruby>反対<rt>はんたい</rt></ruby></span> - berlawanan</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">対</span>
+    <span class="kanji-meta">
+      <strong>対</strong>
+      <small>melawan, versus</small>
+      <span class="kanji-reading"><span>onyomi: タイ</span>
+    </span>
+  </summary>
+  <p>Dalam artikel olahraga dan laporan pertandingan, 対 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>一対二<rt>いちたいに</rt></ruby></span> - 1 lawan 2</li>
+    <li><span class="ruby-word"><ruby>反対<rt>はんたい</rt></ruby></span> - berlawanan</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">流</span>
-      <span class="kanji-meta">
-        <strong>流</strong>
-        <small>mengalir</small>
-        <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: ながれる, ながす</span></span>
-      </span>
-    </summary>
-    <p>Dalam artikel olahraga dan laporan pertandingan, 流 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>流れる<rt>ながれる</rt></ruby></span> - mengalir</li>
-      <li><span class="ruby-word"><ruby>流す<rt>ながす</rt></ruby></span> - mengalirkan</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">流</span>
+    <span class="kanji-meta">
+      <strong>流</strong>
+      <small>mengalir</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>Dalam artikel olahraga dan laporan pertandingan, 流 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>流れる<rt>ながれる</rt></ruby></span> - mengalir</li>
+    <li><span class="ruby-word"><ruby>流す<rt>ながす</rt></ruby></span> - mengalirkan</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">負</span>
-      <span class="kanji-meta">
-        <strong>負</strong>
-        <small>kalah</small>
-        <span class="kanji-reading"><span>onyomi: フ</span><span>kunyomi: まける</span></span>
-      </span>
-    </summary>
-    <p>Dalam artikel olahraga dan laporan pertandingan, 負 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>負ける<rt>まける</rt></ruby></span> - kalah</li>
-      <li><span class="ruby-word"><ruby>勝負<rt>しょうぶ</rt></ruby></span> - pertandingan</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">負</span>
+    <span class="kanji-meta">
+      <strong>負</strong>
+      <small>kalah</small>
+      <span class="kanji-reading"><span>onyomi: フ</span>
+    </span>
+  </summary>
+  <p>Dalam artikel olahraga dan laporan pertandingan, 負 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>負ける<rt>まける</rt></ruby></span> - kalah</li>
+    <li><span class="ruby-word"><ruby>勝負<rt>しょうぶ</rt></ruby></span> - pertandingan</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">投</span>
-      <span class="kanji-meta">
-        <strong>投</strong>
-        <small>melempar</small>
-        <span class="kanji-reading"><span>onyomi: トウ</span><span>kunyomi: なげる</span></span>
-      </span>
-    </summary>
-    <p>Dalam artikel olahraga dan laporan pertandingan, 投 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>投手<rt>とうしゅ</rt></ruby></span> - pitcher</li>
-      <li><span class="ruby-word"><ruby>投げる<rt>なげる</rt></ruby></span> - melempar</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">投</span>
+    <span class="kanji-meta">
+      <strong>投</strong>
+      <small>melempar</small>
+      <span class="kanji-reading"><span>onyomi: トウ</span>
+    </span>
+  </summary>
+  <p>Dalam artikel olahraga dan laporan pertandingan, 投 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>投手<rt>とうしゅ</rt></ruby></span> - pitcher</li>
+    <li><span class="ruby-word"><ruby>投げる<rt>なげる</rt></ruby></span> - melempar</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">果</span>
-      <span class="kanji-meta">
-        <strong>果</strong>
-        <small>hasil, buah</small>
-        <span class="kanji-reading"><span>onyomi: カ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam artikel olahraga dan laporan pertandingan, 果 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>結果<rt>けっか</rt></ruby></span> - hasil</li>
-      <li><span class="ruby-word"><ruby>果物<rt>くだもの</rt></ruby></span> - buah</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">果</span>
+    <span class="kanji-meta">
+      <strong>果</strong>
+      <small>hasil, buah</small>
+      <span class="kanji-reading"><span>onyomi: カ</span>
+    </span>
+  </summary>
+  <p>Dalam artikel olahraga dan laporan pertandingan, 果 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>結果<rt>けっか</rt></ruby></span> - hasil</li>
+    <li><span class="ruby-word"><ruby>果物<rt>くだもの</rt></ruby></span> - buah</li>
+  </ul>
+</details>
 </div>
-
 ## Peta Kata
 
 <div class="word-strip">

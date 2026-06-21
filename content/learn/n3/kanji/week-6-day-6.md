@@ -47,135 +47,134 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 政治、政�
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open>
-    <summary>
-      <span class="kanji-char">政</span>
-      <span class="kanji-meta">
-        <strong>政</strong>
-        <small>politik, pemerintahan</small>
-        <span class="kanji-reading"><span>onyomi: セイ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam berita politik dan kebijakan, 政 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>政治<rt>せいじ</rt></ruby></span> - politik</li>
-      <li><span class="ruby-word"><ruby>政治家<rt>せいじか</rt></ruby></span> - politikus</li>
-    </ul>
-  </details>
+<details class="kanji-card" open>
+  <summary>
+    <span class="kanji-char">政</span>
+    <span class="kanji-meta">
+      <strong>政</strong>
+      <small>politik, pemerintahan</small>
+      <span class="kanji-reading"><span>onyomi: セイ</span>
+    </span>
+  </summary>
+  <p>Dalam berita politik dan kebijakan, 政 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>政治<rt>せいじ</rt></ruby></span> - politik</li>
+    <li><span class="ruby-word"><ruby>政治家<rt>せいじか</rt></ruby></span> - politikus</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">府</span>
-      <span class="kanji-meta">
-        <strong>府</strong>
-        <small>pemerintah, prefektur</small>
-        <span class="kanji-reading"><span>onyomi: フ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam berita politik dan kebijakan, 府 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>政府<rt>せいふ</rt></ruby></span> - pemerintah</li>
-      <li><span class="ruby-word"><ruby>都道府県<rt>とどうふけん</rt></ruby></span> - prefektur Jepang</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">府</span>
+    <span class="kanji-meta">
+      <strong>府</strong>
+      <small>pemerintah, prefektur</small>
+      <span class="kanji-reading"><span>onyomi: フ</span>
+    </span>
+  </summary>
+  <p>Dalam berita politik dan kebijakan, 府 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>政府<rt>せいふ</rt></ruby></span> - pemerintah</li>
+    <li><span class="ruby-word"><ruby>都道府県<rt>とどうふけん</rt></ruby></span> - prefektur Jepang</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">改</span>
-      <span class="kanji-meta">
-        <strong>改</strong>
-        <small>mengubah, merevisi</small>
-        <span class="kanji-reading"><span>onyomi: カイ</span><span>kunyomi: あらためる</span></span>
-      </span>
-    </summary>
-    <p>Dalam berita politik dan kebijakan, 改 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>改正<rt>かいせい</rt></ruby></span> - revisi hukum</li>
-      <li><span class="ruby-word"><ruby>改める<rt>あらためる</rt></ruby></span> - memperbarui</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">改</span>
+    <span class="kanji-meta">
+      <strong>改</strong>
+      <small>mengubah, merevisi</small>
+      <span class="kanji-reading"><span>onyomi: カイ</span>
+    </span>
+  </summary>
+  <p>Dalam berita politik dan kebijakan, 改 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>改正<rt>かいせい</rt></ruby></span> - revisi hukum</li>
+    <li><span class="ruby-word"><ruby>改める<rt>あらためる</rt></ruby></span> - memperbarui</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">否</span>
-      <span class="kanji-meta">
-        <strong>否</strong>
-        <small>menolak, menyangkal</small>
-        <span class="kanji-reading"><span>onyomi: ヒ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam berita politik dan kebijakan, 否 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>否定<rt>ひてい</rt></ruby></span> - penyangkalan</li>
-      <li><span class="ruby-word"><ruby>否定的<rt>ひていてき</rt></ruby></span> - negatif</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">否</span>
+    <span class="kanji-meta">
+      <strong>否</strong>
+      <small>menolak, menyangkal</small>
+      <span class="kanji-reading"><span>onyomi: ヒ</span>
+    </span>
+  </summary>
+  <p>Dalam berita politik dan kebijakan, 否 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>否定<rt>ひてい</rt></ruby></span> - penyangkalan</li>
+    <li><span class="ruby-word"><ruby>否定的<rt>ひていてき</rt></ruby></span> - negatif</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">的</span>
-      <span class="kanji-meta">
-        <strong>的</strong>
-        <small>-is, sasaran</small>
-        <span class="kanji-reading"><span>onyomi: テキ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam berita politik dan kebijakan, 的 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>目的<rt>もくてき</rt></ruby></span> - tujuan</li>
-      <li><span class="ruby-word"><ruby>国際的<rt>こくさいてき</rt></ruby></span> - internasional</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">的</span>
+    <span class="kanji-meta">
+      <strong>的</strong>
+      <small>-is, sasaran</small>
+      <span class="kanji-reading"><span>onyomi: テキ</span>
+    </span>
+  </summary>
+  <p>Dalam berita politik dan kebijakan, 的 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>目的<rt>もくてき</rt></ruby></span> - tujuan</li>
+    <li><span class="ruby-word"><ruby>国際的<rt>こくさいてき</rt></ruby></span> - internasional</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">実</span>
-      <span class="kanji-meta">
-        <strong>実</strong>
-        <small>kenyataan, sebenarnya</small>
-        <span class="kanji-reading"><span>onyomi: ジツ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam berita politik dan kebijakan, 実 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>実際<rt>じっさい</rt></ruby></span> - kenyataannya</li>
-      <li><span class="ruby-word"><ruby>実は<rt>じつは</rt></ruby></span> - sebenarnya</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">実</span>
+    <span class="kanji-meta">
+      <strong>実</strong>
+      <small>kenyataan, sebenarnya</small>
+      <span class="kanji-reading"><span>onyomi: ジツ</span>
+    </span>
+  </summary>
+  <p>Dalam berita politik dan kebijakan, 実 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>実際<rt>じっさい</rt></ruby></span> - kenyataannya</li>
+    <li><span class="ruby-word"><ruby>実は<rt>じつは</rt></ruby></span> - sebenarnya</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">欠</span>
-      <span class="kanji-meta">
-        <strong>欠</strong>
-        <small>kurang, absen</small>
-        <span class="kanji-reading"><span>onyomi: ケツ</span><span>kunyomi: かける</span></span>
-      </span>
-    </summary>
-    <p>Dalam berita politik dan kebijakan, 欠 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>欠点<rt>けってん</rt></ruby></span> - kekurangan</li>
-      <li><span class="ruby-word"><ruby>欠席<rt>けっせき</rt></ruby></span> - absen</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">欠</span>
+    <span class="kanji-meta">
+      <strong>欠</strong>
+      <small>kurang, absen</small>
+      <span class="kanji-reading"><span>onyomi: ケツ</span>
+    </span>
+  </summary>
+  <p>Dalam berita politik dan kebijakan, 欠 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>欠点<rt>けってん</rt></ruby></span> - kekurangan</li>
+    <li><span class="ruby-word"><ruby>欠席<rt>けっせき</rt></ruby></span> - absen</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">専</span>
-      <span class="kanji-meta">
-        <strong>専</strong>
-        <small>khusus, spesialis</small>
-        <span class="kanji-reading"><span>onyomi: セン</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam berita politik dan kebijakan, 専 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>専門<rt>せんもん</rt></ruby></span> - spesialisasi</li>
-      <li><span class="ruby-word"><ruby>専門家<rt>せんもんか</rt></ruby></span> - ahli</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">専</span>
+    <span class="kanji-meta">
+      <strong>専</strong>
+      <small>khusus, spesialis</small>
+      <span class="kanji-reading"><span>onyomi: セン</span>
+    </span>
+  </summary>
+  <p>Dalam berita politik dan kebijakan, 専 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>専門<rt>せんもん</rt></ruby></span> - spesialisasi</li>
+    <li><span class="ruby-word"><ruby>専門家<rt>せんもんか</rt></ruby></span> - ahli</li>
+  </ul>
+</details>
 </div>
-
 ## Peta Kata
 
 <div class="word-strip">

@@ -51,18 +51,65 @@ Di akhir pelajaran ini, kamu bisa membaca informasi waktu seperti 何時, 五分
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open><summary><span class="kanji-char">何</span><span class="kanji-meta"><strong>何</strong><small>apa</small><span class="kanji-reading"><span>onyomi: カ</span><span>kunyomi: なに、なん</span></span></span></summary><p>何 dipakai untuk bertanya apa, termasuk jam dan bahasa.</p><ul><li>何</li><li>何時</li><li>何時間</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">時</span><span class="kanji-meta"><strong>時</strong><small>waktu, jam</small><span class="kanji-reading"><span>onyomi: ジ</span><span>kunyomi: とき</span></span></span></summary><p>時 dipakai untuk waktu dan jam.</p><ul><li>九時</li><li>四時間</li><li>時計</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">分</span><span class="kanji-meta"><strong>分</strong><small>menit, bagian</small><span class="kanji-reading"><span>onyomi: フン、ブン、ブ</span><span>kunyomi: わける、わかる</span></span></span></summary><p>分 sering muncul untuk menit dan bagian dari sesuatu.</p><ul><li>五分</li><li>三十分</li><li>半分</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">間</span><span class="kanji-meta"><strong>間</strong><small>rentang, antara</small><span class="kanji-reading"><span>onyomi: カン、ケン</span><span>kunyomi: あいだ、ま</span></span></span></summary><p>間 dipakai untuk rentang waktu atau posisi di antara dua hal.</p><ul><li>時間</li><li>一週間</li><li>AとBの間</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">半</span><span class="kanji-meta"><strong>半</strong><small>setengah</small><span class="kanji-reading"><span>onyomi: ハン</span><span>kunyomi: なかば</span></span></span></summary><p>半 berarti setengah, sering dipakai pada jam dan durasi.</p><ul><li>七時半</li><li>一時間半</li><li>半分</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">午</span><span class="kanji-meta"><strong>午</strong><small>tengah hari</small><span class="kanji-reading"><span>onyomi: ゴ</span><span>kunyomi: —</span></span></span></summary><p>午 muncul pada pembagian waktu sebelum dan sesudah tengah hari.</p><ul><li>午前</li><li>午後</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">前</span><span class="kanji-meta"><strong>前</strong><small>sebelum, depan</small><span class="kanji-reading"><span>onyomi: ゼン</span><span>kunyomi: まえ</span></span></span></summary><p>前 berarti sebelum atau depan, tergantung kata lengkapnya.</p><ul><li>午前</li><li>前</li><li>名前</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">後</span><span class="kanji-meta"><strong>後</strong><small>setelah, belakang</small><span class="kanji-reading"><span>onyomi: ゴ、コウ</span><span>kunyomi: あと、うしろ</span></span></span></summary><p>後 berarti setelah atau belakang.</p><ul><li>午後</li><li>後で</li><li>後ろ</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">今</span><span class="kanji-meta"><strong>今</strong><small>sekarang, ini</small><span class="kanji-reading"><span>onyomi: コン、キン</span><span>kunyomi: いま</span></span></span></summary><p>今 dipakai untuk sekarang dan periode yang sedang berjalan.</p><ul><li>今月</li><li>今週</li><li>今</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">週</span><span class="kanji-meta"><strong>週</strong><small>minggu</small><span class="kanji-reading"><span>onyomi: シュウ</span><span>kunyomi: —</span></span></span></summary><p>週 dipakai untuk minggu dalam kalender.</p><ul><li>先週</li><li>来週</li><li>一週間</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">年</span><span class="kanji-meta"><strong>年</strong><small>tahun</small><span class="kanji-reading"><span>onyomi: ネン</span><span>kunyomi: とし</span></span></span></summary><p>年 dipakai untuk tahun dan periode tahunan.</p><ul><li>一年</li><li>去年</li><li>来年</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">毎</span><span class="kanji-meta"><strong>毎</strong><small>setiap</small><span class="kanji-reading"><span>onyomi: マイ</span><span>kunyomi: —</span></span></span></summary><p>毎 berarti setiap dan sering muncul pada rutinitas.</p><ul><li>毎日</li><li>毎月</li><li>毎年</li></ul></details>
+  <details class="kanji-card" open><summary><span class="kanji-char">何</span><span class="kanji-meta"><strong>何</strong><small>apa</small><span class="kanji-reading"><span>onyomi: カ</span><span>kunyomi: なに、なん</span></span></span></summary><p>何 dipakai untuk bertanya apa, termasuk jam berapa atau berapa lama dalam jadwal sederhana.</p><ul>
+    <li><span class="ruby-word"><ruby>何<rt>なに</rt></ruby></span> - apa</li>
+    <li><span class="ruby-word"><ruby>何時<rt>なんじ</rt></ruby></span> - jam berapa</li>
+    <li><span class="ruby-word"><ruby>何時間<rt>なんじかん</rt></ruby></span> - berapa jam</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">時</span><span class="kanji-meta"><strong>時</strong><small>waktu, jam</small><span class="kanji-reading"><span>onyomi: ジ</span><span>kunyomi: とき</span></span></span></summary><p>時 dipakai untuk titik jam dan kata waktu, terutama saat membaca jadwal kelas atau janji.</p><ul>
+    <li><span class="ruby-word"><ruby>九時<rt>くじ</rt></ruby></span> - jam sembilan</li>
+    <li><span class="ruby-word"><ruby>四時間<rt>よじかん</rt></ruby></span> - empat jam</li>
+    <li><span class="ruby-word"><ruby>時計<rt>とけい</rt></ruby></span> - jam, arloji</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">分</span><span class="kanji-meta"><strong>分</strong><small>menit, bagian</small><span class="kanji-reading"><span>onyomi: フン、ブン、ブ</span><span>kunyomi: わける、わかる</span></span></span></summary><p>分 sering muncul untuk menit dan bagian, jadi penting saat membaca jam dan durasi pendek.</p><ul>
+    <li><span class="ruby-word"><ruby>五分<rt>ごふん</rt></ruby></span> - lima menit</li>
+    <li><span class="ruby-word"><ruby>三十分<rt>さんじゅっぷん</rt></ruby></span> - tiga puluh menit</li>
+    <li><span class="ruby-word"><ruby>半分<rt>はんぶん</rt></ruby></span> - setengah</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">間</span><span class="kanji-meta"><strong>間</strong><small>rentang, antara</small><span class="kanji-reading"><span>onyomi: カン、ケン</span><span>kunyomi: あいだ、ま</span></span></span></summary><p>間 dipakai untuk rentang waktu atau posisi di antara dua hal dalam jadwal dan arah sederhana.</p><ul>
+    <li><span class="ruby-word"><ruby>時間<rt>じかん</rt></ruby></span> - waktu, jam durasi</li>
+    <li><span class="ruby-word"><ruby>一週間<rt>いっしゅうかん</rt></ruby></span> - satu minggu</li>
+    <li><span class="ruby-word"><ruby>間<rt>あいだ</rt></ruby></span> - antara, sela</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">半</span><span class="kanji-meta"><strong>半</strong><small>setengah</small><span class="kanji-reading"><span>onyomi: ハン</span><span>kunyomi: なかば</span></span></span></summary><p>半 berarti setengah dan sering dipakai saat menyebut jam setengah atau durasi setengah.</p><ul>
+    <li><span class="ruby-word"><ruby>七時半<rt>しちじはん</rt></ruby></span> - jam setengah delapan</li>
+    <li><span class="ruby-word"><ruby>一時間半<rt>いちじかんはん</rt></ruby></span> - satu setengah jam</li>
+    <li><span class="ruby-word"><ruby>半分<rt>はんぶん</rt></ruby></span> - setengah</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">午</span><span class="kanji-meta"><strong>午</strong><small>tengah hari</small><span class="kanji-reading"><span>onyomi: ゴ</span><span>kunyomi: —</span></span></span></summary><p>午 muncul pada pembagian waktu sebelum dan sesudah tengah hari dalam jadwal harian.</p><ul>
+    <li><span class="ruby-word"><ruby>午前<rt>ごぜん</rt></ruby></span> - sebelum tengah hari, pagi</li>
+    <li><span class="ruby-word"><ruby>午後<rt>ごご</rt></ruby></span> - setelah tengah hari, siang/sore</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">前</span><span class="kanji-meta"><strong>前</strong><small>sebelum, depan</small><span class="kanji-reading"><span>onyomi: ゼン</span><span>kunyomi: まえ</span></span></span></summary><p>前 berarti sebelum atau depan, dan sering muncul pada waktu pagi atau posisi di depan tempat.</p><ul>
+    <li><span class="ruby-word"><ruby>午前<rt>ごぜん</rt></ruby></span> - sebelum tengah hari, pagi</li>
+    <li><span class="ruby-word"><ruby>前<rt>まえ</rt></ruby></span> - depan, sebelum</li>
+    <li><span class="ruby-word"><ruby>名前<rt>なまえ</rt></ruby></span> - nama</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">後</span><span class="kanji-meta"><strong>後</strong><small>setelah, belakang</small><span class="kanji-reading"><span>onyomi: ゴ、コウ</span><span>kunyomi: あと、うしろ</span></span></span></summary><p>後 berarti setelah atau belakang, berguna saat membaca urutan waktu dan posisi sederhana.</p><ul>
+    <li><span class="ruby-word"><ruby>午後<rt>ごご</rt></ruby></span> - setelah tengah hari, siang/sore</li>
+    <li><span class="ruby-word"><ruby>後で<rt>あとで</rt></ruby></span> - nanti, setelah itu</li>
+    <li><span class="ruby-word"><ruby>後ろ<rt>うしろ</rt></ruby></span> - belakang</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">今</span><span class="kanji-meta"><strong>今</strong><small>sekarang, ini</small><span class="kanji-reading"><span>onyomi: コン、キン</span><span>kunyomi: いま</span></span></span></summary><p>今 dipakai untuk sekarang dan periode yang sedang berjalan, seperti minggu atau bulan ini.</p><ul>
+    <li><span class="ruby-word"><ruby>今月<rt>こんげつ</rt></ruby></span> - bulan ini</li>
+    <li><span class="ruby-word"><ruby>今週<rt>こんしゅう</rt></ruby></span> - minggu ini</li>
+    <li><span class="ruby-word"><ruby>今<rt>いま</rt></ruby></span> - sekarang</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">週</span><span class="kanji-meta"><strong>週</strong><small>minggu</small><span class="kanji-reading"><span>onyomi: シュウ</span><span>kunyomi: —</span></span></span></summary><p>週 dipakai untuk minggu dalam kalender, terutama saat membaca jadwal kelas atau rencana.</p><ul>
+    <li><span class="ruby-word"><ruby>先週<rt>せんしゅう</rt></ruby></span> - minggu lalu</li>
+    <li><span class="ruby-word"><ruby>来週<rt>らいしゅう</rt></ruby></span> - minggu depan</li>
+    <li><span class="ruby-word"><ruby>一週間<rt>いっしゅうかん</rt></ruby></span> - satu minggu</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">年</span><span class="kanji-meta"><strong>年</strong><small>tahun</small><span class="kanji-reading"><span>onyomi: ネン</span><span>kunyomi: とし</span></span></span></summary><p>年 dipakai untuk tahun dan periode tahunan saat membaca kalender atau profil usia sekolah.</p><ul>
+    <li><span class="ruby-word"><ruby>一年<rt>いちねん</rt></ruby></span> - satu tahun</li>
+    <li><span class="ruby-word"><ruby>去年<rt>きょねん</rt></ruby></span> - tahun lalu</li>
+    <li><span class="ruby-word"><ruby>来年<rt>らいねん</rt></ruby></span> - tahun depan</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">毎</span><span class="kanji-meta"><strong>毎</strong><small>setiap</small><span class="kanji-reading"><span>onyomi: マイ</span><span>kunyomi: —</span></span></span></summary><p>毎 berarti setiap dan sering muncul pada rutinitas harian, bulanan, atau tahunan.</p><ul>
+    <li><span class="ruby-word"><ruby>毎日<rt>まいにち</rt></ruby></span> - setiap hari</li>
+    <li><span class="ruby-word"><ruby>毎月<rt>まいつき</rt></ruby></span> - setiap bulan</li>
+    <li><span class="ruby-word"><ruby>毎年<rt>まいとし</rt></ruby></span> - setiap tahun</li>
+  </ul></details>
 </div>
 
 ## Peta Kata

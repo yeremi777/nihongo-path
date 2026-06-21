@@ -47,135 +47,134 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 米、米国�
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open>
-    <summary>
-      <span class="kanji-char">米</span>
-      <span class="kanji-meta">
-        <strong>米</strong>
-        <small>beras, Amerika</small>
-        <span class="kanji-reading"><span>onyomi: ベイ</span><span>kunyomi: こめ</span></span>
-      </span>
-    </summary>
-    <p>Dalam halaman belanja online dan katalog produk, 米 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>米<rt>こめ</rt></ruby></span> - beras</li>
-      <li><span class="ruby-word"><ruby>米国<rt>べいこく</rt></ruby></span> - Amerika Serikat</li>
-    </ul>
-  </details>
+<details class="kanji-card" open>
+  <summary>
+    <span class="kanji-char">米</span>
+    <span class="kanji-meta">
+      <strong>米</strong>
+      <small>beras, Amerika</small>
+      <span class="kanji-reading"><span>onyomi: ベイ</span>
+    </span>
+  </summary>
+  <p>Dalam halaman belanja online dan katalog produk, 米 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>米<rt>こめ</rt></ruby></span> - beras</li>
+    <li><span class="ruby-word"><ruby>米国<rt>べいこく</rt></ruby></span> - Amerika Serikat</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">級</span>
-      <span class="kanji-meta">
-        <strong>級</strong>
-        <small>kelas, tingkat</small>
-        <span class="kanji-reading"><span>onyomi: キュウ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam halaman belanja online dan katalog produk, 級 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>高級<rt>こうきゅう</rt></ruby></span> - kelas tinggi</li>
-      <li><span class="ruby-word"><ruby>中級<rt>ちゅうきゅう</rt></ruby></span> - tingkat menengah</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">級</span>
+    <span class="kanji-meta">
+      <strong>級</strong>
+      <small>kelas, tingkat</small>
+      <span class="kanji-reading"><span>onyomi: キュウ</span>
+    </span>
+  </summary>
+  <p>Dalam halaman belanja online dan katalog produk, 級 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>高級<rt>こうきゅう</rt></ruby></span> - kelas tinggi</li>
+    <li><span class="ruby-word"><ruby>中級<rt>ちゅうきゅう</rt></ruby></span> - tingkat menengah</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">残</span>
-      <span class="kanji-meta">
-        <strong>残</strong>
-        <small>sisa, tersisa</small>
-        <span class="kanji-reading"><span>onyomi: ザン</span><span>kunyomi: のこる, のこす</span></span>
-      </span>
-    </summary>
-    <p>Dalam halaman belanja online dan katalog produk, 残 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>残り<rt>のこり</rt></ruby></span> - sisa</li>
-      <li><span class="ruby-word"><ruby>残業<rt>ざんぎょう</rt></ruby></span> - lembur</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">残</span>
+    <span class="kanji-meta">
+      <strong>残</strong>
+      <small>sisa, tersisa</small>
+      <span class="kanji-reading"><span>onyomi: ザン</span>
+    </span>
+  </summary>
+  <p>Dalam halaman belanja online dan katalog produk, 残 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>残り<rt>のこり</rt></ruby></span> - sisa</li>
+    <li><span class="ruby-word"><ruby>残業<rt>ざんぎょう</rt></ruby></span> - lembur</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">型</span>
-      <span class="kanji-meta">
-        <strong>型</strong>
-        <small>tipe, model</small>
-        <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: かた</span></span>
-      </span>
-    </summary>
-    <p>Dalam halaman belanja online dan katalog produk, 型 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>新型<rt>しんがた</rt></ruby></span> - model baru</li>
-      <li><span class="ruby-word"><ruby>小型<rt>こがた</rt></ruby></span> - ukuran kecil</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">型</span>
+    <span class="kanji-meta">
+      <strong>型</strong>
+      <small>tipe, model</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>Dalam halaman belanja online dan katalog produk, 型 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>新型<rt>しんがた</rt></ruby></span> - model baru</li>
+    <li><span class="ruby-word"><ruby>小型<rt>こがた</rt></ruby></span> - ukuran kecil</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">税</span>
-      <span class="kanji-meta">
-        <strong>税</strong>
-        <small>pajak</small>
-        <span class="kanji-reading"><span>onyomi: ゼイ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam halaman belanja online dan katalog produk, 税 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>消費税<rt>しょうひぜい</rt></ruby></span> - pajak konsumsi</li>
-      <li><span class="ruby-word"><ruby>税金<rt>ぜいきん</rt></ruby></span> - pajak</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">税</span>
+    <span class="kanji-meta">
+      <strong>税</strong>
+      <small>pajak</small>
+      <span class="kanji-reading"><span>onyomi: ゼイ</span>
+    </span>
+  </summary>
+  <p>Dalam halaman belanja online dan katalog produk, 税 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>消費税<rt>しょうひぜい</rt></ruby></span> - pajak konsumsi</li>
+    <li><span class="ruby-word"><ruby>税金<rt>ぜいきん</rt></ruby></span> - pajak</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">込</span>
-      <span class="kanji-meta">
-        <strong>込</strong>
-        <small>termasuk, penuh</small>
-        <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: こむ</span></span>
-      </span>
-    </summary>
-    <p>Dalam halaman belanja online dan katalog produk, 込 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>税込<rt>ぜいこみ</rt></ruby></span> - termasuk pajak</li>
-      <li><span class="ruby-word"><ruby>込む<rt>こむ</rt></ruby></span> - penuh sesak</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">込</span>
+    <span class="kanji-meta">
+      <strong>込</strong>
+      <small>termasuk, penuh</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>Dalam halaman belanja online dan katalog produk, 込 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>税込<rt>ぜいこみ</rt></ruby></span> - termasuk pajak</li>
+    <li><span class="ruby-word"><ruby>込む<rt>こむ</rt></ruby></span> - penuh sesak</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">価</span>
-      <span class="kanji-meta">
-        <strong>価</strong>
-        <small>harga, nilai</small>
-        <span class="kanji-reading"><span>onyomi: カ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam halaman belanja online dan katalog produk, 価 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>価格<rt>かかく</rt></ruby></span> - harga</li>
-      <li><span class="ruby-word"><ruby>定価<rt>ていか</rt></ruby></span> - harga tetap</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">価</span>
+    <span class="kanji-meta">
+      <strong>価</strong>
+      <small>harga, nilai</small>
+      <span class="kanji-reading"><span>onyomi: カ</span>
+    </span>
+  </summary>
+  <p>Dalam halaman belanja online dan katalog produk, 価 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>価格<rt>かかく</rt></ruby></span> - harga</li>
+    <li><span class="ruby-word"><ruby>定価<rt>ていか</rt></ruby></span> - harga tetap</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">格</span>
-      <span class="kanji-meta">
-        <strong>格</strong>
-        <small>status, kelas</small>
-        <span class="kanji-reading"><span>onyomi: カク</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam halaman belanja online dan katalog produk, 格 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>格安<rt>かくやす</rt></ruby></span> - sangat murah</li>
-      <li><span class="ruby-word"><ruby>合格<rt>ごうかく</rt></ruby></span> - lulus</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">格</span>
+    <span class="kanji-meta">
+      <strong>格</strong>
+      <small>status, kelas</small>
+      <span class="kanji-reading"><span>onyomi: カク</span>
+    </span>
+  </summary>
+  <p>Dalam halaman belanja online dan katalog produk, 格 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>格安<rt>かくやす</rt></ruby></span> - sangat murah</li>
+    <li><span class="ruby-word"><ruby>合格<rt>ごうかく</rt></ruby></span> - lulus</li>
+  </ul>
+</details>
 </div>
-
 ## Peta Kata
 
 <div class="word-strip">

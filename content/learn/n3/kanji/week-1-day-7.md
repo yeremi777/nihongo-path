@@ -47,17 +47,133 @@ Tujuan utamanya adalah memperkuat pola baca kata majemuk pendek yang sering munc
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-<details class="kanji-card" open><summary><span class="kanji-char">未</span><span class="kanji-meta"><strong>未</strong><small>belum</small><span class="kanji-reading"><span>onyomi: ミ</span><span>kunyomi: -</span></span></span></summary><p>未 memberi rasa “belum”. Gunakan 未定 sebagai jangkar karena sering muncul pada jadwal atau rencana yang belum diputuskan.</p><ul><li><span class="ruby-word"><ruby>未定<rt>みてい</rt></ruby></span> - belum diputuskan</li><li><span class="ruby-word"><ruby>未来<rt>みらい</rt></ruby></span> - masa depan</li></ul></details>
-<details class="kanji-card"><summary><span class="kanji-char">末</span><span class="kanji-meta"><strong>末</strong><small>akhir, ujung</small><span class="kanji-reading"><span>onyomi: マツ</span><span>kunyomi: -</span></span></span></summary><p>末 memberi rasa akhir atau ujung periode. Kata seperti 週末 dan 年末 membantu membedakannya dari 未.</p><ul><li><span class="ruby-word"><ruby>週末<rt>しゅうまつ</rt></ruby></span> - akhir pekan</li><li><span class="ruby-word"><ruby>年末<rt>ねんまつ</rt></ruby></span> - akhir tahun</li></ul></details>
-<details class="kanji-card"><summary><span class="kanji-char">若</span><span class="kanji-meta"><strong>若</strong><small>muda</small><span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: わかい</span></span></span></summary><p>若 dipakai untuk usia atau kesan muda. Untuk tahap ini, bentuk paling stabil adalah 若い.</p><ul><li><span class="ruby-word"><ruby>若い<rt>わかい</rt></ruby></span> - muda</li></ul></details>
-<details class="kanji-card"><summary><span class="kanji-char">晩</span><span class="kanji-meta"><strong>晩</strong><small>malam, petang</small><span class="kanji-reading"><span>onyomi: バン</span><span>kunyomi: -</span></span></span></summary><p>晩 membantu membaca waktu malam dalam frasa tetap. Biasakan membaca 今晩 dan 毎晩 sebagai satu kata.</p><ul><li><span class="ruby-word"><ruby>今晩<rt>こんばん</rt></ruby></span> - malam ini</li><li><span class="ruby-word"><ruby>毎晩<rt>まいばん</rt></ruby></span> - setiap malam</li></ul></details>
-<details class="kanji-card"><summary><span class="kanji-char">島</span><span class="kanji-meta"><strong>島</strong><small>pulau</small><span class="kanji-reading"><span>onyomi: トウ</span><span>kunyomi: しま</span></span></span></summary><p>島 berarti pulau dan sering muncul pada nama tempat. Bacaan nama tempat bisa khusus, jadi hafalkan sebagai kata utuh.</p><ul><li><span class="ruby-word"><ruby>島<rt>しま</rt></ruby></span> - pulau</li><li><span class="ruby-word"><ruby>広島<rt>ひろしま</rt></ruby></span> - Hiroshima</li></ul></details>
-<details class="kanji-card"><summary><span class="kanji-char">皿</span><span class="kanji-meta"><strong>皿</strong><small>piring</small><span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: さら</span></span></span></summary><p>皿 adalah benda sehari-hari. Dalam 灰皿, maknanya bergeser menjadi wadah untuk abu rokok, yaitu asbak.</p><ul><li><span class="ruby-word"><ruby>皿<rt>さら</rt></ruby></span> - piring</li><li><span class="ruby-word"><ruby>灰皿<rt>はいざら</rt></ruby></span> - asbak</li></ul></details>
-<details class="kanji-card"><summary><span class="kanji-char">血</span><span class="kanji-meta"><strong>血</strong><small>darah</small><span class="kanji-reading"><span>onyomi: ケツ</span><span>kunyomi: ち</span></span></span></summary><p>血 sering muncul dalam konteks tubuh atau medis dasar. Untuk kata majemuk seperti 出血, bacaan onyomi lebih sering muncul.</p><ul><li><span class="ruby-word"><ruby>血<rt>ち</rt></ruby></span> - darah</li><li><span class="ruby-word"><ruby>出血<rt>しゅっけつ</rt></ruby></span> - pendarahan</li></ul></details>
-<details class="kanji-card"><summary><span class="kanji-char">助</span><span class="kanji-meta"><strong>助</strong><small>membantu, menolong</small><span class="kanji-reading"><span>onyomi: ジョ</span><span>kunyomi: たすける</span></span></span></summary><p>助 adalah kanji penting untuk bantuan. Dalam situasi darurat, 助ける dan 救助 sama-sama berkaitan dengan pertolongan.</p><ul><li><span class="ruby-word"><ruby>助ける<rt>たすける</rt></ruby></span> - menolong</li><li><span class="ruby-word"><ruby>救助<rt>きゅうじょ</rt></ruby></span> - penyelamatan</li></ul></details>
+<details class="kanji-card" open>
+  <summary>
+    <span class="kanji-char">未</span>
+    <span class="kanji-meta">
+      <strong>未</strong>
+      <small>belum</small>
+      <span class="kanji-reading"><span>onyomi: ミ</span>
+    </span>
+  </summary>
+  <p>未 memberi rasa “belum”. Gunakan 未定 sebagai jangkar karena sering muncul pada jadwal atau rencana yang belum diputuskan.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>未定<rt>みてい</rt></ruby></span> - belum diputuskan</li>
+    <li><span class="ruby-word"><ruby>未来<rt>みらい</rt></ruby></span> - masa depan</li>
+  </ul>
+</details>
 
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">末</span>
+    <span class="kanji-meta">
+      <strong>末</strong>
+      <small>akhir, ujung</small>
+      <span class="kanji-reading"><span>onyomi: マツ</span>
+    </span>
+  </summary>
+  <p>末 memberi rasa akhir atau ujung periode. Kata seperti 週末 dan 年末 membantu membedakannya dari 未.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>週末<rt>しゅうまつ</rt></ruby></span> - akhir pekan</li>
+    <li><span class="ruby-word"><ruby>年末<rt>ねんまつ</rt></ruby></span> - akhir tahun</li>
+  </ul>
+</details>
+
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">若</span>
+    <span class="kanji-meta">
+      <strong>若</strong>
+      <small>muda</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>若 dipakai untuk usia atau kesan muda. Untuk tahap ini, bentuk paling stabil adalah 若い.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>若い<rt>わかい</rt></ruby></span> - muda</li>
+  </ul>
+</details>
+
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">晩</span>
+    <span class="kanji-meta">
+      <strong>晩</strong>
+      <small>malam, petang</small>
+      <span class="kanji-reading"><span>onyomi: バン</span>
+    </span>
+  </summary>
+  <p>晩 membantu membaca waktu malam dalam frasa tetap. Biasakan membaca 今晩 dan 毎晩 sebagai satu kata.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>今晩<rt>こんばん</rt></ruby></span> - malam ini</li>
+    <li><span class="ruby-word"><ruby>毎晩<rt>まいばん</rt></ruby></span> - setiap malam</li>
+  </ul>
+</details>
+
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">島</span>
+    <span class="kanji-meta">
+      <strong>島</strong>
+      <small>pulau</small>
+      <span class="kanji-reading"><span>onyomi: トウ</span>
+    </span>
+  </summary>
+  <p>島 berarti pulau dan sering muncul pada nama tempat. Bacaan nama tempat bisa khusus, jadi hafalkan sebagai kata utuh.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>島<rt>しま</rt></ruby></span> - pulau</li>
+    <li><span class="ruby-word"><ruby>広島<rt>ひろしま</rt></ruby></span> - Hiroshima</li>
+  </ul>
+</details>
+
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">皿</span>
+    <span class="kanji-meta">
+      <strong>皿</strong>
+      <small>piring</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>皿 adalah benda sehari-hari. Dalam 灰皿, maknanya bergeser menjadi wadah untuk abu rokok, yaitu asbak.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>皿<rt>さら</rt></ruby></span> - piring</li>
+    <li><span class="ruby-word"><ruby>灰皿<rt>はいざら</rt></ruby></span> - asbak</li>
+  </ul>
+</details>
+
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">血</span>
+    <span class="kanji-meta">
+      <strong>血</strong>
+      <small>darah</small>
+      <span class="kanji-reading"><span>onyomi: ケツ</span>
+    </span>
+  </summary>
+  <p>血 sering muncul dalam konteks tubuh atau medis dasar. Untuk kata majemuk seperti 出血, bacaan onyomi lebih sering muncul.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>血<rt>ち</rt></ruby></span> - darah</li>
+    <li><span class="ruby-word"><ruby>出血<rt>しゅっけつ</rt></ruby></span> - pendarahan</li>
+  </ul>
+</details>
+
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">助</span>
+    <span class="kanji-meta">
+      <strong>助</strong>
+      <small>membantu, menolong</small>
+      <span class="kanji-reading"><span>onyomi: ジョ</span>
+    </span>
+  </summary>
+  <p>助 adalah kanji penting untuk bantuan. Dalam situasi darurat, 助ける dan 救助 sama-sama berkaitan dengan pertolongan.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>助ける<rt>たすける</rt></ruby></span> - menolong</li>
+    <li><span class="ruby-word"><ruby>救助<rt>きゅうじょ</rt></ruby></span> - penyelamatan</li>
+  </ul>
+</details>
 </div>
-
 ## Peta Kata
 
 <div class="word-strip">

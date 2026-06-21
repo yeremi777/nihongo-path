@@ -47,140 +47,139 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 販売, 自動
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open>
-    <summary>
-      <span class="kanji-char">販</span>
-      <span class="kanji-meta">
-        <strong>販</strong>
-        <small>menjual</small>
-        <span class="kanji-reading"><span>onyomi: ハン</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>販 berkaitan dengan penjualan. Dalam 自動販売機, ia menandai fungsi mesin: menjual barang.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>販売<rt>はんばい</rt></ruby></span> - penjualan</li>
-      <li><span class="ruby-word"><ruby>自動販売機<rt>じどうはんばいき</rt></ruby></span> - mesin penjual otomatis</li>
-    </ul>
-  </details>
+<details class="kanji-card" open>
+  <summary>
+    <span class="kanji-char">販</span>
+    <span class="kanji-meta">
+      <strong>販</strong>
+      <small>menjual</small>
+      <span class="kanji-reading"><span>onyomi: ハン</span>
+    </span>
+  </summary>
+  <p>販 berkaitan dengan penjualan. Dalam 自動販売機, ia menandai fungsi mesin: menjual barang.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>販売<rt>はんばい</rt></ruby></span> - penjualan</li>
+    <li><span class="ruby-word"><ruby>自動販売機<rt>じどうはんばいき</rt></ruby></span> - mesin penjual otomatis</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">機</span>
-      <span class="kanji-meta">
-        <strong>機</strong>
-        <small>mesin, kesempatan</small>
-        <span class="kanji-reading"><span>onyomi: キ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>機 bisa berarti mesin atau kesempatan. Pada vending machine, maknanya jelas mesin.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>自動販売機<rt>じどうはんばいき</rt></ruby></span> - mesin penjual otomatis</li>
-      <li><span class="ruby-word"><ruby>機械<rt>きかい</rt></ruby></span> - mesin</li>
-      <li><span class="ruby-word"><ruby>機会<rt>きかい</rt></ruby></span> - kesempatan</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">機</span>
+    <span class="kanji-meta">
+      <strong>機</strong>
+      <small>mesin, kesempatan</small>
+      <span class="kanji-reading"><span>onyomi: キ</span>
+    </span>
+  </summary>
+  <p>機 bisa berarti mesin atau kesempatan. Pada vending machine, maknanya jelas mesin.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>自動販売機<rt>じどうはんばいき</rt></ruby></span> - mesin penjual otomatis</li>
+    <li><span class="ruby-word"><ruby>機械<rt>きかい</rt></ruby></span> - mesin</li>
+    <li><span class="ruby-word"><ruby>機会<rt>きかい</rt></ruby></span> - kesempatan</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">増</span>
-      <span class="kanji-meta">
-        <strong>増</strong>
-        <small>bertambah, menambah</small>
-        <span class="kanji-reading"><span>onyomi: ゾウ</span><span>kunyomi: ふえる, ふやす</span></span>
-      </span>
-    </summary>
-    <p>増 memberi rasa peningkatan. Pada label produk, 増量 berarti isi/jumlah ditambah.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>増加<rt>ぞうか</rt></ruby></span> - peningkatan</li>
-      <li><span class="ruby-word"><ruby>増える<rt>ふえる</rt></ruby></span> - bertambah</li>
-      <li><span class="ruby-word"><ruby>増やす<rt>ふやす</rt></ruby></span> - menambah</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">増</span>
+    <span class="kanji-meta">
+      <strong>増</strong>
+      <small>bertambah, menambah</small>
+      <span class="kanji-reading"><span>onyomi: ゾウ</span>
+    </span>
+  </summary>
+  <p>増 memberi rasa peningkatan. Pada label produk, 増量 berarti isi/jumlah ditambah.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>増加<rt>ぞうか</rt></ruby></span> - peningkatan</li>
+    <li><span class="ruby-word"><ruby>増える<rt>ふえる</rt></ruby></span> - bertambah</li>
+    <li><span class="ruby-word"><ruby>増やす<rt>ふやす</rt></ruby></span> - menambah</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">減</span>
-      <span class="kanji-meta">
-        <strong>減</strong>
-        <small>berkurang, mengurangi</small>
-        <span class="kanji-reading"><span>onyomi: ゲン</span><span>kunyomi: へる, へらす</span></span>
-      </span>
-    </summary>
-    <p>減 adalah lawan 増. Pada label makanan/minuman, 減量 berarti jumlah dikurangi.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>減少<rt>げんしょう</rt></ruby></span> - penurunan</li>
-      <li><span class="ruby-word"><ruby>減る<rt>へる</rt></ruby></span> - berkurang</li>
-      <li><span class="ruby-word"><ruby>減らす<rt>へらす</rt></ruby></span> - mengurangi</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">減</span>
+    <span class="kanji-meta">
+      <strong>減</strong>
+      <small>berkurang, mengurangi</small>
+      <span class="kanji-reading"><span>onyomi: ゲン</span>
+    </span>
+  </summary>
+  <p>減 adalah lawan 増. Pada label makanan/minuman, 減量 berarti jumlah dikurangi.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>減少<rt>げんしょう</rt></ruby></span> - penurunan</li>
+    <li><span class="ruby-word"><ruby>減る<rt>へる</rt></ruby></span> - berkurang</li>
+    <li><span class="ruby-word"><ruby>減らす<rt>へらす</rt></ruby></span> - mengurangi</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">量</span>
-      <span class="kanji-meta">
-        <strong>量</strong>
-        <small>jumlah, volume</small>
-        <span class="kanji-reading"><span>onyomi: リョウ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>量 menunjuk jumlah atau volume. Ia sering muncul bersama 増 dan 減.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>量<rt>りょう</rt></ruby></span> - jumlah</li>
-      <li><span class="ruby-word"><ruby>数量<rt>すうりょう</rt></ruby></span> - kuantitas</li>
-      <li><span class="ruby-word"><ruby>増量<rt>ぞうりょう</rt></ruby></span> - penambahan jumlah</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">量</span>
+    <span class="kanji-meta">
+      <strong>量</strong>
+      <small>jumlah, volume</small>
+      <span class="kanji-reading"><span>onyomi: リョウ</span>
+    </span>
+  </summary>
+  <p>量 menunjuk jumlah atau volume. Ia sering muncul bersama 増 dan 減.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>量<rt>りょう</rt></ruby></span> - jumlah</li>
+    <li><span class="ruby-word"><ruby>数量<rt>すうりょう</rt></ruby></span> - kuantitas</li>
+    <li><span class="ruby-word"><ruby>増量<rt>ぞうりょう</rt></ruby></span> - penambahan jumlah</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">氷</span>
-      <span class="kanji-meta">
-        <strong>氷</strong>
-        <small>es</small>
-        <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: こおり</span></span>
-      </span>
-    </summary>
-    <p>氷 menunjuk es. Pada mesin minuman, label ini membantu memilih minuman dengan atau tanpa es.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>氷<rt>こおり</rt></ruby></span> - es</li>
-      <li><span class="ruby-word"><ruby>氷水<rt>こおりみず</rt></ruby></span> - air es</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">氷</span>
+    <span class="kanji-meta">
+      <strong>氷</strong>
+      <small>es</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>氷 menunjuk es. Pada mesin minuman, label ini membantu memilih minuman dengan atau tanpa es.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>氷<rt>こおり</rt></ruby></span> - es</li>
+    <li><span class="ruby-word"><ruby>氷水<rt>こおりみず</rt></ruby></span> - air es</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">返</span>
-      <span class="kanji-meta">
-        <strong>返</strong>
-        <small>mengembalikan, membalas</small>
-        <span class="kanji-reading"><span>onyomi: ヘン</span><span>kunyomi: かえす</span></span>
-      </span>
-    </summary>
-    <p>返 dipakai untuk mengembalikan uang/barang atau membalas pesan.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>返事<rt>へんじ</rt></ruby></span> - balasan</li>
-      <li><span class="ruby-word"><ruby>返す<rt>かえす</rt></ruby></span> - mengembalikan</li>
-      <li><span class="ruby-word"><ruby>返却<rt>へんきゃく</rt></ruby></span> - pengembalian</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">返</span>
+    <span class="kanji-meta">
+      <strong>返</strong>
+      <small>mengembalikan, membalas</small>
+      <span class="kanji-reading"><span>onyomi: ヘン</span>
+    </span>
+  </summary>
+  <p>返 dipakai untuk mengembalikan uang/barang atau membalas pesan.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>返事<rt>へんじ</rt></ruby></span> - balasan</li>
+    <li><span class="ruby-word"><ruby>返す<rt>かえす</rt></ruby></span> - mengembalikan</li>
+    <li><span class="ruby-word"><ruby>返却<rt>へんきゃく</rt></ruby></span> - pengembalian</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">湯</span>
-      <span class="kanji-meta">
-        <strong>湯</strong>
-        <small>air panas</small>
-        <span class="kanji-reading"><span>onyomi: ユ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>湯 menunjuk air panas. Bentuk sopannya sering menjadi お湯.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>お湯<rt>おゆ</rt></ruby></span> - air panas</li>
-      <li><span class="ruby-word"><ruby>湯<rt>ゆ</rt></ruby></span> - air panas</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">湯</span>
+    <span class="kanji-meta">
+      <strong>湯</strong>
+      <small>air panas</small>
+      <span class="kanji-reading"><span>onyomi: ユ</span>
+    </span>
+  </summary>
+  <p>湯 menunjuk air panas. Bentuk sopannya sering menjadi お湯.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>お湯<rt>おゆ</rt></ruby></span> - air panas</li>
+    <li><span class="ruby-word"><ruby>湯<rt>ゆ</rt></ruby></span> - air panas</li>
+  </ul>
+</details>
 </div>
-
 ## Peta Kata
 
 Kata-kata hari ini mengikuti cara memakai mesin. 販売機 adalah mesinnya, 増・減・量 mengatur jumlah, 氷 dan 湯 memberi pilihan dingin/panas, lalu 返 menjelaskan uang atau barang yang dikembalikan.

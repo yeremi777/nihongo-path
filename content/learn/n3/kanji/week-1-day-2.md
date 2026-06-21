@@ -53,7 +53,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <span class="kanji-meta">
       <strong>横</strong>
       <small>melintang, samping</small>
-      <span class="kanji-reading"><span>onyomi: オウ</span><span>kunyomi: よこ</span></span>
+      <span class="kanji-reading"><span>onyomi: オウ</span>
     </span>
   </summary>
   <p>Dalam rambu jalan, 横 membantu membaca gerakan melintang, terutama saat orang atau kendaraan menyeberangi jalan.</p>
@@ -69,7 +69,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <span class="kanji-meta">
       <strong>押</strong>
       <small>menekan, mendorong</small>
-      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: おす, おさえる</span></span>
+      <span class="kanji-reading"><span>onyomi: -</span>
     </span>
   </summary>
   <p>押 sering muncul pada instruksi alat. Jika ada tombol, kanji ini biasanya memberi tahu tindakan yang harus dilakukan.</p>
@@ -85,7 +85,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <span class="kanji-meta">
       <strong>式</strong>
       <small>bentuk, sistem</small>
-      <span class="kanji-reading"><span>onyomi: シキ</span><span>kunyomi: -</span></span>
+      <span class="kanji-reading"><span>onyomi: シキ</span>
     </span>
   </summary>
   <p>式 menjelaskan sistem atau tipe. Dalam 押しボタン式, yang dijelaskan adalah cara kerja penyeberangan.</p>
@@ -101,7 +101,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <span class="kanji-meta">
       <strong>信</strong>
       <small>percaya, sinyal</small>
-      <span class="kanji-reading"><span>onyomi: シン</span><span>kunyomi: -</span></span>
+      <span class="kanji-reading"><span>onyomi: シン</span>
     </span>
   </summary>
   <p>信 punya rasa informasi yang dipercaya atau dikirim. Dalam lalu lintas, fokus utamanya adalah 信号 sebagai sinyal lampu.</p>
@@ -117,7 +117,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <span class="kanji-meta">
       <strong>号</strong>
       <small>nomor, tanda</small>
-      <span class="kanji-reading"><span>onyomi: ゴウ</span><span>kunyomi: -</span></span>
+      <span class="kanji-reading"><span>onyomi: ゴウ</span>
     </span>
   </summary>
   <p>号 sering menandai nomor atau sinyal. Dalam 信号, kanji ini tidak dibaca sebagai nomor, tetapi sebagai bagian dari kata “lampu/sinyal lalu lintas”.</p>
@@ -133,7 +133,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <span class="kanji-meta">
       <strong>確</strong>
       <small>pasti, memastikan</small>
-      <span class="kanji-reading"><span>onyomi: カク</span><span>kunyomi: たしか, たしかめる</span></span>
+      <span class="kanji-reading"><span>onyomi: カク</span>
     </span>
   </summary>
   <p>確 memberi rasa pasti. Pada instruksi keselamatan, kanji ini mendorong kamu memastikan keadaan, bukan sekadar melihat sekilas.</p>
@@ -149,7 +149,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <span class="kanji-meta">
       <strong>認</strong>
       <small>mengakui, mengenali</small>
-      <span class="kanji-reading"><span>onyomi: ニン</span><span>kunyomi: みとめる</span></span>
+      <span class="kanji-reading"><span>onyomi: ニン</span>
     </span>
   </summary>
   <p>認 memberi rasa mengenali atau memeriksa. Bersama 確, kata 確認 berarti mengecek sampai yakin.</p>
@@ -165,7 +165,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <span class="kanji-meta">
       <strong>飛</strong>
       <small>terbang, melompat</small>
-      <span class="kanji-reading"><span>onyomi: ヒ</span><span>kunyomi: とぶ</span></span>
+      <span class="kanji-reading"><span>onyomi: ヒ</span>
     </span>
   </summary>
   <p>飛 berarti terbang atau melompat keluar. Dalam peringatan jalan, kanji ini sering memberi rasa gerakan tiba-tiba.</p>
@@ -174,9 +174,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>飛行場<rt>ひこうじょう</rt></ruby></span> - bandara</li>
   </ul>
 </details>
-
 </div>
-
 ## Peta Kata
 
 Fokus hari ini adalah membaca rambu penyeberangan dengan cepat. Sebagian kata menjelaskan lokasi, sebagian menjelaskan alat, dan sebagian menjelaskan tindakan aman yang harus dilakukan.

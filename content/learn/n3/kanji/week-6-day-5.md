@@ -47,135 +47,134 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 変化、文�
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open>
-    <summary>
-      <span class="kanji-char">化</span>
-      <span class="kanji-meta">
-        <strong>化</strong>
-        <small>berubah, -isasi</small>
-        <span class="kanji-reading"><span>onyomi: カ, ケ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam artikel lingkungan dan pemanasan global, 化 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>変化<rt>へんか</rt></ruby></span> - perubahan</li>
-      <li><span class="ruby-word"><ruby>文化<rt>ぶんか</rt></ruby></span> - budaya</li>
-    </ul>
-  </details>
+<details class="kanji-card" open>
+  <summary>
+    <span class="kanji-char">化</span>
+    <span class="kanji-meta">
+      <strong>化</strong>
+      <small>berubah, -isasi</small>
+      <span class="kanji-reading"><span>onyomi: カ, ケ</span>
+    </span>
+  </summary>
+  <p>Dalam artikel lingkungan dan pemanasan global, 化 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>変化<rt>へんか</rt></ruby></span> - perubahan</li>
+    <li><span class="ruby-word"><ruby>文化<rt>ぶんか</rt></ruby></span> - budaya</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">比</span>
-      <span class="kanji-meta">
-        <strong>比</strong>
-        <small>membandingkan</small>
-        <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: くらべる</span></span>
-      </span>
-    </summary>
-    <p>Dalam artikel lingkungan dan pemanasan global, 比 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>比べる<rt>くらべる</rt></ruby></span> - membandingkan</li>
-      <li><span class="ruby-word"><ruby>比較<rt>ひかく</rt></ruby></span> - perbandingan</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">比</span>
+    <span class="kanji-meta">
+      <strong>比</strong>
+      <small>membandingkan</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>Dalam artikel lingkungan dan pemanasan global, 比 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>比べる<rt>くらべる</rt></ruby></span> - membandingkan</li>
+    <li><span class="ruby-word"><ruby>比較<rt>ひかく</rt></ruby></span> - perbandingan</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">原</span>
-      <span class="kanji-meta">
-        <strong>原</strong>
-        <small>asal, penyebab</small>
-        <span class="kanji-reading"><span>onyomi: ゲン</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam artikel lingkungan dan pemanasan global, 原 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>原因<rt>げんいん</rt></ruby></span> - penyebab</li>
-      <li><span class="ruby-word"><ruby>原料<rt>げんりょう</rt></ruby></span> - bahan baku</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">原</span>
+    <span class="kanji-meta">
+      <strong>原</strong>
+      <small>asal, penyebab</small>
+      <span class="kanji-reading"><span>onyomi: ゲン</span>
+    </span>
+  </summary>
+  <p>Dalam artikel lingkungan dan pemanasan global, 原 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>原因<rt>げんいん</rt></ruby></span> - penyebab</li>
+    <li><span class="ruby-word"><ruby>原料<rt>げんりょう</rt></ruby></span> - bahan baku</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">因</span>
-      <span class="kanji-meta">
-        <strong>因</strong>
-        <small>sebab, faktor</small>
-        <span class="kanji-reading"><span>onyomi: イン</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam artikel lingkungan dan pemanasan global, 因 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>原因<rt>げんいん</rt></ruby></span> - penyebab</li>
-      <li><span class="ruby-word"><ruby>要因<rt>よういん</rt></ruby></span> - faktor utama</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">因</span>
+    <span class="kanji-meta">
+      <strong>因</strong>
+      <small>sebab, faktor</small>
+      <span class="kanji-reading"><span>onyomi: イン</span>
+    </span>
+  </summary>
+  <p>Dalam artikel lingkungan dan pemanasan global, 因 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>原因<rt>げんいん</rt></ruby></span> - penyebab</li>
+    <li><span class="ruby-word"><ruby>要因<rt>よういん</rt></ruby></span> - faktor utama</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">際</span>
-      <span class="kanji-meta">
-        <strong>際</strong>
-        <small>kesempatan, internasional</small>
-        <span class="kanji-reading"><span>onyomi: サイ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam artikel lingkungan dan pemanasan global, 際 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>国際<rt>こくさい</rt></ruby></span> - internasional</li>
-      <li><span class="ruby-word"><ruby>実際<rt>じっさい</rt></ruby></span> - kenyataannya</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">際</span>
+    <span class="kanji-meta">
+      <strong>際</strong>
+      <small>kesempatan, internasional</small>
+      <span class="kanji-reading"><span>onyomi: サイ</span>
+    </span>
+  </summary>
+  <p>Dalam artikel lingkungan dan pemanasan global, 際 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>国際<rt>こくさい</rt></ruby></span> - internasional</li>
+    <li><span class="ruby-word"><ruby>実際<rt>じっさい</rt></ruby></span> - kenyataannya</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">議</span>
-      <span class="kanji-meta">
-        <strong>議</strong>
-        <small>berdiskusi</small>
-        <span class="kanji-reading"><span>onyomi: ギ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam artikel lingkungan dan pemanasan global, 議 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>会議<rt>かいぎ</rt></ruby></span> - rapat</li>
-      <li><span class="ruby-word"><ruby>議員<rt>ぎいん</rt></ruby></span> - anggota dewan</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">議</span>
+    <span class="kanji-meta">
+      <strong>議</strong>
+      <small>berdiskusi</small>
+      <span class="kanji-reading"><span>onyomi: ギ</span>
+    </span>
+  </summary>
+  <p>Dalam artikel lingkungan dan pemanasan global, 議 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>会議<rt>かいぎ</rt></ruby></span> - rapat</li>
+    <li><span class="ruby-word"><ruby>議員<rt>ぎいん</rt></ruby></span> - anggota dewan</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">活</span>
-      <span class="kanji-meta">
-        <strong>活</strong>
-        <small>hidup, kegiatan</small>
-        <span class="kanji-reading"><span>onyomi: カツ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam artikel lingkungan dan pemanasan global, 活 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>生活<rt>せいかつ</rt></ruby></span> - kehidupan</li>
-      <li><span class="ruby-word"><ruby>活動<rt>かつどう</rt></ruby></span> - aktivitas</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">活</span>
+    <span class="kanji-meta">
+      <strong>活</strong>
+      <small>hidup, kegiatan</small>
+      <span class="kanji-reading"><span>onyomi: カツ</span>
+    </span>
+  </summary>
+  <p>Dalam artikel lingkungan dan pemanasan global, 活 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>生活<rt>せいかつ</rt></ruby></span> - kehidupan</li>
+    <li><span class="ruby-word"><ruby>活動<rt>かつどう</rt></ruby></span> - aktivitas</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">変</span>
-      <span class="kanji-meta">
-        <strong>変</strong>
-        <small>berubah, aneh</small>
-        <span class="kanji-reading"><span>onyomi: ヘン</span><span>kunyomi: かわる, かえる</span></span>
-      </span>
-    </summary>
-    <p>Dalam artikel lingkungan dan pemanasan global, 変 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>変化<rt>へんか</rt></ruby></span> - perubahan</li>
-      <li><span class="ruby-word"><ruby>変わる<rt>かわる</rt></ruby></span> - berubah</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">変</span>
+    <span class="kanji-meta">
+      <strong>変</strong>
+      <small>berubah, aneh</small>
+      <span class="kanji-reading"><span>onyomi: ヘン</span>
+    </span>
+  </summary>
+  <p>Dalam artikel lingkungan dan pemanasan global, 変 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>変化<rt>へんか</rt></ruby></span> - perubahan</li>
+    <li><span class="ruby-word"><ruby>変わる<rt>かわる</rt></ruby></span> - berubah</li>
+  </ul>
+</details>
 </div>
-
 ## Peta Kata
 
 <div class="word-strip">

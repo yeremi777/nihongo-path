@@ -47,135 +47,134 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti お礼、失�
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open>
-    <summary>
-      <span class="kanji-char">礼</span>
-      <span class="kanji-meta">
-        <strong>礼</strong>
-        <small>terima kasih, sopan santun</small>
-        <span class="kanji-reading"><span>onyomi: レイ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam email sopan dan balasan tertulis, 礼 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>お礼<rt>おれい</rt></ruby></span> - ucapan terima kasih</li>
-      <li><span class="ruby-word"><ruby>失礼<rt>しつれい</rt></ruby></span> - tidak sopan</li>
-    </ul>
-  </details>
+<details class="kanji-card" open>
+  <summary>
+    <span class="kanji-char">礼</span>
+    <span class="kanji-meta">
+      <strong>礼</strong>
+      <small>terima kasih, sopan santun</small>
+      <span class="kanji-reading"><span>onyomi: レイ</span>
+    </span>
+  </summary>
+  <p>Dalam email sopan dan balasan tertulis, 礼 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>お礼<rt>おれい</rt></ruby></span> - ucapan terima kasih</li>
+    <li><span class="ruby-word"><ruby>失礼<rt>しつれい</rt></ruby></span> - tidak sopan</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">伺</span>
-      <span class="kanji-meta">
-        <strong>伺</strong>
-        <small>bertanya, berkunjung rendah hati</small>
-        <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: うかがう</span></span>
-      </span>
-    </summary>
-    <p>Dalam email sopan dan balasan tertulis, 伺 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>伺う<rt>うかがう</rt></ruby></span> - berkunjung/bertanya</li>
-      <li><span class="ruby-word"><ruby>お伺い<rt>おうかがい</rt></ruby></span> - kunjungan/pertanyaan</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">伺</span>
+    <span class="kanji-meta">
+      <strong>伺</strong>
+      <small>bertanya, berkunjung rendah hati</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>Dalam email sopan dan balasan tertulis, 伺 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>伺う<rt>うかがう</rt></ruby></span> - berkunjung/bertanya</li>
+    <li><span class="ruby-word"><ruby>お伺い<rt>おうかがい</rt></ruby></span> - kunjungan/pertanyaan</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">遅</span>
-      <span class="kanji-meta">
-        <strong>遅</strong>
-        <small>terlambat, lambat</small>
-        <span class="kanji-reading"><span>onyomi: チ</span><span>kunyomi: おそい, おくれる</span></span>
-      </span>
-    </summary>
-    <p>Dalam email sopan dan balasan tertulis, 遅 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>遅刻<rt>ちこく</rt></ruby></span> - terlambat</li>
-      <li><span class="ruby-word"><ruby>遅れる<rt>おくれる</rt></ruby></span> - terlambat</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">遅</span>
+    <span class="kanji-meta">
+      <strong>遅</strong>
+      <small>terlambat, lambat</small>
+      <span class="kanji-reading"><span>onyomi: チ</span>
+    </span>
+  </summary>
+  <p>Dalam email sopan dan balasan tertulis, 遅 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>遅刻<rt>ちこく</rt></ruby></span> - terlambat</li>
+    <li><span class="ruby-word"><ruby>遅れる<rt>おくれる</rt></ruby></span> - terlambat</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">失</span>
-      <span class="kanji-meta">
-        <strong>失</strong>
-        <small>kehilangan, gagal, tidak sopan</small>
-        <span class="kanji-reading"><span>onyomi: シツ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam email sopan dan balasan tertulis, 失 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>失礼<rt>しつれい</rt></ruby></span> - permisi/tidak sopan</li>
-      <li><span class="ruby-word"><ruby>失敗<rt>しっぱい</rt></ruby></span> - gagal</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">失</span>
+    <span class="kanji-meta">
+      <strong>失</strong>
+      <small>kehilangan, gagal, tidak sopan</small>
+      <span class="kanji-reading"><span>onyomi: シツ</span>
+    </span>
+  </summary>
+  <p>Dalam email sopan dan balasan tertulis, 失 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>失礼<rt>しつれい</rt></ruby></span> - permisi/tidak sopan</li>
+    <li><span class="ruby-word"><ruby>失敗<rt>しっぱい</rt></ruby></span> - gagal</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">汗</span>
-      <span class="kanji-meta">
-        <strong>汗</strong>
-        <small>keringat</small>
-        <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: あせ</span></span>
-      </span>
-    </summary>
-    <p>Dalam email sopan dan balasan tertulis, 汗 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>汗<rt>あせ</rt></ruby></span> - keringat</li>
-      <li><span class="ruby-word"><ruby>汗をかく<rt>あせをかく</rt></ruby></span> - berkeringat</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">汗</span>
+    <span class="kanji-meta">
+      <strong>汗</strong>
+      <small>keringat</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>Dalam email sopan dan balasan tertulis, 汗 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>汗<rt>あせ</rt></ruby></span> - keringat</li>
+    <li><span class="ruby-word"><ruby>汗をかく<rt>あせをかく</rt></ruby></span> - berkeringat</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">念</span>
-      <span class="kanji-meta">
-        <strong>念</strong>
-        <small>pikiran, penyesalan</small>
-        <span class="kanji-reading"><span>onyomi: ネン</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam email sopan dan balasan tertulis, 念 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>残念<rt>ざんねん</rt></ruby></span> - sayang sekali</li>
-      <li><span class="ruby-word"><ruby>記念<rt>きねん</rt></ruby></span> - peringatan</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">念</span>
+    <span class="kanji-meta">
+      <strong>念</strong>
+      <small>pikiran, penyesalan</small>
+      <span class="kanji-reading"><span>onyomi: ネン</span>
+    </span>
+  </summary>
+  <p>Dalam email sopan dan balasan tertulis, 念 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>残念<rt>ざんねん</rt></ruby></span> - sayang sekali</li>
+    <li><span class="ruby-word"><ruby>記念<rt>きねん</rt></ruby></span> - peringatan</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">涙</span>
-      <span class="kanji-meta">
-        <strong>涙</strong>
-        <small>air mata</small>
-        <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: なみだ</span></span>
-      </span>
-    </summary>
-    <p>Dalam email sopan dan balasan tertulis, 涙 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>涙<rt>なみだ</rt></ruby></span> - air mata</li>
-      <li><span class="ruby-word"><ruby>涙を流す<rt>なみだをながす</rt></ruby></span> - meneteskan air mata</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">涙</span>
+    <span class="kanji-meta">
+      <strong>涙</strong>
+      <small>air mata</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>Dalam email sopan dan balasan tertulis, 涙 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>涙<rt>なみだ</rt></ruby></span> - air mata</li>
+    <li><span class="ruby-word"><ruby>涙を流す<rt>なみだをながす</rt></ruby></span> - meneteskan air mata</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">笑</span>
-      <span class="kanji-meta">
-        <strong>笑</strong>
-        <small>tertawa, senyum</small>
-        <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: わらう, えむ</span></span>
-      </span>
-    </summary>
-    <p>Dalam email sopan dan balasan tertulis, 笑 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>笑う<rt>わらう</rt></ruby></span> - tertawa</li>
-      <li><span class="ruby-word"><ruby>笑顔<rt>えがお</rt></ruby></span> - wajah tersenyum</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">笑</span>
+    <span class="kanji-meta">
+      <strong>笑</strong>
+      <small>tertawa, senyum</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>Dalam email sopan dan balasan tertulis, 笑 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>笑う<rt>わらう</rt></ruby></span> - tertawa</li>
+    <li><span class="ruby-word"><ruby>笑顔<rt>えがお</rt></ruby></span> - wajah tersenyum</li>
+  </ul>
+</details>
 </div>
-
 ## Peta Kata
 
 <div class="word-strip">

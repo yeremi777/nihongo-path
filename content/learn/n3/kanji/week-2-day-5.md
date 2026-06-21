@@ -47,141 +47,140 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 受付, 内科
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open>
-    <summary>
-      <span class="kanji-char">受</span>
-      <span class="kanji-meta">
-        <strong>受</strong>
-        <small>menerima, menjalani</small>
-        <span class="kanji-reading"><span>onyomi: ジュ</span><span>kunyomi: うける</span></span>
-      </span>
-    </summary>
-    <p>受 memberi rasa menerima layanan, informasi, atau menjalani sesuatu. Dalam rumah sakit, sering muncul di 受付.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>受信<rt>じゅしん</rt></ruby></span> - menerima pesan/sinyal</li>
-      <li><span class="ruby-word"><ruby>受ける<rt>うける</rt></ruby></span> - menerima, menjalani</li>
-      <li><span class="ruby-word"><ruby>受験<rt>じゅけん</rt></ruby></span> - mengikuti ujian</li>
-    </ul>
-  </details>
+<details class="kanji-card" open>
+  <summary>
+    <span class="kanji-char">受</span>
+    <span class="kanji-meta">
+      <strong>受</strong>
+      <small>menerima, menjalani</small>
+      <span class="kanji-reading"><span>onyomi: ジュ</span>
+    </span>
+  </summary>
+  <p>受 memberi rasa menerima layanan, informasi, atau menjalani sesuatu. Dalam rumah sakit, sering muncul di 受付.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>受信<rt>じゅしん</rt></ruby></span> - menerima pesan/sinyal</li>
+    <li><span class="ruby-word"><ruby>受ける<rt>うける</rt></ruby></span> - menerima, menjalani</li>
+    <li><span class="ruby-word"><ruby>受験<rt>じゅけん</rt></ruby></span> - mengikuti ujian</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">付</span>
-      <span class="kanji-meta">
-        <strong>付</strong>
-        <small>menempel, melekat, melampirkan</small>
-        <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: つける, つく</span></span>
-      </span>
-    </summary>
-    <p>付 memberi rasa menempel atau menerima pada tempat tertentu. Dalam 受付, artinya meja penerimaan.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>受付<rt>うけつけ</rt></ruby></span> - pendaftaran, resepsionis</li>
-      <li><span class="ruby-word"><ruby>付ける<rt>つける</rt></ruby></span> - menempelkan</li>
-      <li><span class="ruby-word"><ruby>片付ける<rt>かたづける</rt></ruby></span> - merapikan</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">付</span>
+    <span class="kanji-meta">
+      <strong>付</strong>
+      <small>menempel, melekat, melampirkan</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>付 memberi rasa menempel atau menerima pada tempat tertentu. Dalam 受付, artinya meja penerimaan.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>受付<rt>うけつけ</rt></ruby></span> - pendaftaran, resepsionis</li>
+    <li><span class="ruby-word"><ruby>付ける<rt>つける</rt></ruby></span> - menempelkan</li>
+    <li><span class="ruby-word"><ruby>片付ける<rt>かたづける</rt></ruby></span> - merapikan</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">科</span>
-      <span class="kanji-meta">
-        <strong>科</strong>
-        <small>departemen, bidang</small>
-        <span class="kanji-reading"><span>onyomi: カ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>科 menandai bidang pelajaran atau departemen medis. Di rumah sakit, cari kata sebelum 科 untuk tahu polinya.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>内科<rt>ないか</rt></ruby></span> - penyakit dalam</li>
-      <li><span class="ruby-word"><ruby>外科<rt>げか</rt></ruby></span> - bedah</li>
-      <li><span class="ruby-word"><ruby>教科書<rt>きょうかしょ</rt></ruby></span> - buku pelajaran</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">科</span>
+    <span class="kanji-meta">
+      <strong>科</strong>
+      <small>departemen, bidang</small>
+      <span class="kanji-reading"><span>onyomi: カ</span>
+    </span>
+  </summary>
+  <p>科 menandai bidang pelajaran atau departemen medis. Di rumah sakit, cari kata sebelum 科 untuk tahu polinya.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>内科<rt>ないか</rt></ruby></span> - penyakit dalam</li>
+    <li><span class="ruby-word"><ruby>外科<rt>げか</rt></ruby></span> - bedah</li>
+    <li><span class="ruby-word"><ruby>教科書<rt>きょうかしょ</rt></ruby></span> - buku pelajaran</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">鼻</span>
-      <span class="kanji-meta">
-        <strong>鼻</strong>
-        <small>hidung</small>
-        <span class="kanji-reading"><span>onyomi: ビ</span><span>kunyomi: はな</span></span>
-      </span>
-    </summary>
-    <p>鼻 menunjuk hidung. Dalam 耳鼻科, ia membantu mengenali poli THT.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>耳鼻科<rt>じびか</rt></ruby></span> - poli THT</li>
-      <li><span class="ruby-word"><ruby>鼻<rt>はな</rt></ruby></span> - hidung</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">鼻</span>
+    <span class="kanji-meta">
+      <strong>鼻</strong>
+      <small>hidung</small>
+      <span class="kanji-reading"><span>onyomi: ビ</span>
+    </span>
+  </summary>
+  <p>鼻 menunjuk hidung. Dalam 耳鼻科, ia membantu mengenali poli THT.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>耳鼻科<rt>じびか</rt></ruby></span> - poli THT</li>
+    <li><span class="ruby-word"><ruby>鼻<rt>はな</rt></ruby></span> - hidung</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">婦</span>
-      <span class="kanji-meta">
-        <strong>婦</strong>
-        <small>wanita, istri</small>
-        <span class="kanji-reading"><span>onyomi: フ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>婦 muncul pada kata tentang wanita atau ibu rumah tangga. Dalam 産婦人科, ini bagian dari nama poli.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>婦人<rt>ふじん</rt></ruby></span> - wanita</li>
-      <li><span class="ruby-word"><ruby>主婦<rt>しゅふ</rt></ruby></span> - ibu rumah tangga</li>
-      <li><span class="ruby-word"><ruby>産婦人科<rt>さんふじんか</rt></ruby></span> - obstetri dan ginekologi</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">婦</span>
+    <span class="kanji-meta">
+      <strong>婦</strong>
+      <small>wanita, istri</small>
+      <span class="kanji-reading"><span>onyomi: フ</span>
+    </span>
+  </summary>
+  <p>婦 muncul pada kata tentang wanita atau ibu rumah tangga. Dalam 産婦人科, ini bagian dari nama poli.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>婦人<rt>ふじん</rt></ruby></span> - wanita</li>
+    <li><span class="ruby-word"><ruby>主婦<rt>しゅふ</rt></ruby></span> - ibu rumah tangga</li>
+    <li><span class="ruby-word"><ruby>産婦人科<rt>さんふじんか</rt></ruby></span> - obstetri dan ginekologi</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">形</span>
-      <span class="kanji-meta">
-        <strong>形</strong>
-        <small>bentuk</small>
-        <span class="kanji-reading"><span>onyomi: ケイ, ギョウ</span><span>kunyomi: かたち</span></span>
-      </span>
-    </summary>
-    <p>形 berarti bentuk. Dalam 整形外科, artinya terkait perbaikan bentuk/struktur tubuh.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>形式<rt>けいしき</rt></ruby></span> - format</li>
-      <li><span class="ruby-word"><ruby>整形外科<rt>せいけいげか</rt></ruby></span> - ortopedi</li>
-      <li><span class="ruby-word"><ruby>形<rt>かたち</rt></ruby></span> - bentuk</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">形</span>
+    <span class="kanji-meta">
+      <strong>形</strong>
+      <small>bentuk</small>
+      <span class="kanji-reading"><span>onyomi: ケイ, ギョウ</span>
+    </span>
+  </summary>
+  <p>形 berarti bentuk. Dalam 整形外科, artinya terkait perbaikan bentuk/struktur tubuh.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>形式<rt>けいしき</rt></ruby></span> - format</li>
+    <li><span class="ruby-word"><ruby>整形外科<rt>せいけいげか</rt></ruby></span> - ortopedi</li>
+    <li><span class="ruby-word"><ruby>形<rt>かたち</rt></ruby></span> - bentuk</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">骨</span>
-      <span class="kanji-meta">
-        <strong>骨</strong>
-        <small>tulang</small>
-        <span class="kanji-reading"><span>onyomi: コツ</span><span>kunyomi: ほね</span></span>
-      </span>
-    </summary>
-    <p>骨 menunjuk tulang atau kerangka. Dalam keluhan medis, 骨折 adalah kata utama.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>骨折<rt>こっせつ</rt></ruby></span> - patah tulang</li>
-      <li><span class="ruby-word"><ruby>骨<rt>ほね</rt></ruby></span> - tulang</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">骨</span>
+    <span class="kanji-meta">
+      <strong>骨</strong>
+      <small>tulang</small>
+      <span class="kanji-reading"><span>onyomi: コツ</span>
+    </span>
+  </summary>
+  <p>骨 menunjuk tulang atau kerangka. Dalam keluhan medis, 骨折 adalah kata utama.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>骨折<rt>こっせつ</rt></ruby></span> - patah tulang</li>
+    <li><span class="ruby-word"><ruby>骨<rt>ほね</rt></ruby></span> - tulang</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">折</span>
-      <span class="kanji-meta">
-        <strong>折</strong>
-        <small>melipat, patah, belok</small>
-        <span class="kanji-reading"><span>onyomi: セツ</span><span>kunyomi: おる, おれる</span></span>
-      </span>
-    </summary>
-    <p>折 punya rasa melipat atau patah. Di rumah sakit, fokusnya 骨折.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>骨折<rt>こっせつ</rt></ruby></span> - patah tulang</li>
-      <li><span class="ruby-word"><ruby>折る<rt>おる</rt></ruby></span> - melipat, mematahkan</li>
-      <li><span class="ruby-word"><ruby>折れる<rt>おれる</rt></ruby></span> - patah, terlipat</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">折</span>
+    <span class="kanji-meta">
+      <strong>折</strong>
+      <small>melipat, patah, belok</small>
+      <span class="kanji-reading"><span>onyomi: セツ</span>
+    </span>
+  </summary>
+  <p>折 punya rasa melipat atau patah. Di rumah sakit, fokusnya 骨折.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>骨折<rt>こっせつ</rt></ruby></span> - patah tulang</li>
+    <li><span class="ruby-word"><ruby>折る<rt>おる</rt></ruby></span> - melipat, mematahkan</li>
+    <li><span class="ruby-word"><ruby>折れる<rt>おれる</rt></ruby></span> - patah, terlipat</li>
+  </ul>
+</details>
 </div>
-
 ## Peta Kata
 
 Kata-kata hari ini mengikuti alur rumah sakit. 受付 adalah tempat pertama, 科 menunjukkan departemen, 鼻・婦・形・骨・折 membantu mengenali poli atau keluhan tertentu.

@@ -47,17 +47,134 @@ Kamu akan bisa membedakan 指定席 dan 自由席 serta membaca posisi kursi sep
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-<details class="kanji-card" open><summary><span class="kanji-char">指</span><span class="kanji-meta"><strong>指</strong><small>menunjuk, menetapkan</small><span class="kanji-reading"><span>onyomi: シ</span><span>kunyomi: ゆび</span></span></span></summary><p>指 memberi rasa menunjuk atau menetapkan. Dalam tiket, 指定 berarti kursi atau layanan sudah ditentukan.</p><ul><li><span class="ruby-word"><ruby>指定<rt>してい</rt></ruby></span> - penetapan, reservasi</li><li><span class="ruby-word"><ruby>指<rt>ゆび</rt></ruby></span> - jari</li></ul></details>
-<details class="kanji-card"><summary><span class="kanji-char">定</span><span class="kanji-meta"><strong>定</strong><small>tetap, menetapkan</small><span class="kanji-reading"><span>onyomi: テイ</span><span>kunyomi: -</span></span></span></summary><p>定 memberi rasa tetap atau sudah diputuskan. Bersama 指, kanji ini membuat 指定 terasa seperti “sudah ditetapkan”.</p><ul><li><span class="ruby-word"><ruby>指定<rt>してい</rt></ruby></span> - ditentukan</li><li><span class="ruby-word"><ruby>定期<rt>ていき</rt></ruby></span> - berkala / periodik</li></ul></details>
-<details class="kanji-card"><summary><span class="kanji-char">席</span><span class="kanji-meta"><strong>席</strong><small>kursi, tempat duduk</small><span class="kanji-reading"><span>onyomi: セキ</span><span>kunyomi: -</span></span></span></summary><p>席 adalah kanji inti untuk kursi. Saat membaca tiket, cari kanji ini untuk memahami jenis tempat duduk.</p><ul><li><span class="ruby-word"><ruby>指定席<rt>していせき</rt></ruby></span> - kursi reservasi</li><li><span class="ruby-word"><ruby>自由席<rt>じゆうせき</rt></ruby></span> - kursi bebas</li></ul></details>
-<details class="kanji-card"><summary><span class="kanji-char">由</span><span class="kanji-meta"><strong>由</strong><small>alasan, kebebasan</small><span class="kanji-reading"><span>onyomi: ユウ</span><span>kunyomi: -</span></span></span></summary><p>由 muncul dalam 自由 untuk rasa bebas. Dalam 自由席, bebas berarti bebas memilih kursi kosong, bukan pasti mendapat kursi.</p><ul><li><span class="ruby-word"><ruby>自由<rt>じゆう</rt></ruby></span> - bebas</li><li><span class="ruby-word"><ruby>理由<rt>りゆう</rt></ruby></span> - alasan</li></ul></details>
-<details class="kanji-card"><summary><span class="kanji-char">番</span><span class="kanji-meta"><strong>番</strong><small>nomor, urutan</small><span class="kanji-reading"><span>onyomi: バン</span><span>kunyomi: -</span></span></span></summary><p>番 membantu membaca nomor urut. Pada tiket, kanji ini sering muncul untuk nomor kursi, loket, atau urutan.</p><ul><li><span class="ruby-word"><ruby>番号<rt>ばんごう</rt></ruby></span> - nomor</li><li><span class="ruby-word"><ruby>一番<rt>いちばん</rt></ruby></span> - nomor satu</li></ul></details>
-<details class="kanji-card"><summary><span class="kanji-char">窓</span><span class="kanji-meta"><strong>窓</strong><small>jendela</small><span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: まど</span></span></span></summary><p>窓 berarti jendela, tetapi dalam stasiun juga muncul di 窓口 untuk loket. Jangan selalu membacanya sebagai posisi kursi.</p><ul><li><span class="ruby-word"><ruby>窓<rt>まど</rt></ruby></span> - jendela</li><li><span class="ruby-word"><ruby>窓口<rt>まどぐち</rt></ruby></span> - loket</li></ul></details>
-<details class="kanji-card"><summary><span class="kanji-char">側</span><span class="kanji-meta"><strong>側</strong><small>sisi</small><span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: かわ</span></span></span></summary><p>側 menentukan sisi. Dalam reservasi kursi, kanji ini membantu membedakan posisi jendela dan lorong.</p><ul><li><span class="ruby-word"><ruby>窓側<rt>まどがわ</rt></ruby></span> - sisi jendela</li><li><span class="ruby-word"><ruby>通路側<rt>つうろがわ</rt></ruby></span> - sisi lorong</li></ul></details>
-<details class="kanji-card"><summary><span class="kanji-char">路</span><span class="kanji-meta"><strong>路</strong><small>jalan, jalur</small><span class="kanji-reading"><span>onyomi: ロ</span><span>kunyomi: -</span></span></span></summary><p>路 berarti jalan atau jalur. Dalam gerbong, 通路 adalah lorong tempat orang lewat.</p><ul><li><span class="ruby-word"><ruby>通路<rt>つうろ</rt></ruby></span> - lorong</li><li><span class="ruby-word"><ruby>道路<rt>どうろ</rt></ruby></span> - jalan raya</li></ul></details>
+<details class="kanji-card" open>
+  <summary>
+    <span class="kanji-char">指</span>
+    <span class="kanji-meta">
+      <strong>指</strong>
+      <small>menunjuk, menetapkan</small>
+      <span class="kanji-reading"><span>onyomi: シ</span>
+    </span>
+  </summary>
+  <p>指 memberi rasa menunjuk atau menetapkan. Dalam tiket, 指定 berarti kursi atau layanan sudah ditentukan.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>指定<rt>してい</rt></ruby></span> - penetapan, reservasi</li>
+    <li><span class="ruby-word"><ruby>指<rt>ゆび</rt></ruby></span> - jari</li>
+  </ul>
+</details>
 
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">定</span>
+    <span class="kanji-meta">
+      <strong>定</strong>
+      <small>tetap, menetapkan</small>
+      <span class="kanji-reading"><span>onyomi: テイ</span>
+    </span>
+  </summary>
+  <p>定 memberi rasa tetap atau sudah diputuskan. Bersama 指, kanji ini membuat 指定 terasa seperti “sudah ditetapkan”.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>指定<rt>してい</rt></ruby></span> - ditentukan</li>
+    <li><span class="ruby-word"><ruby>定期<rt>ていき</rt></ruby></span> - berkala / periodik</li>
+  </ul>
+</details>
+
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">席</span>
+    <span class="kanji-meta">
+      <strong>席</strong>
+      <small>kursi, tempat duduk</small>
+      <span class="kanji-reading"><span>onyomi: セキ</span>
+    </span>
+  </summary>
+  <p>席 adalah kanji inti untuk kursi. Saat membaca tiket, cari kanji ini untuk memahami jenis tempat duduk.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>指定席<rt>していせき</rt></ruby></span> - kursi reservasi</li>
+    <li><span class="ruby-word"><ruby>自由席<rt>じゆうせき</rt></ruby></span> - kursi bebas</li>
+  </ul>
+</details>
+
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">由</span>
+    <span class="kanji-meta">
+      <strong>由</strong>
+      <small>alasan, kebebasan</small>
+      <span class="kanji-reading"><span>onyomi: ユウ</span>
+    </span>
+  </summary>
+  <p>由 muncul dalam 自由 untuk rasa bebas. Dalam 自由席, bebas berarti bebas memilih kursi kosong, bukan pasti mendapat kursi.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>自由<rt>じゆう</rt></ruby></span> - bebas</li>
+    <li><span class="ruby-word"><ruby>理由<rt>りゆう</rt></ruby></span> - alasan</li>
+  </ul>
+</details>
+
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">番</span>
+    <span class="kanji-meta">
+      <strong>番</strong>
+      <small>nomor, urutan</small>
+      <span class="kanji-reading"><span>onyomi: バン</span>
+    </span>
+  </summary>
+  <p>番 membantu membaca nomor urut. Pada tiket, kanji ini sering muncul untuk nomor kursi, loket, atau urutan.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>番号<rt>ばんごう</rt></ruby></span> - nomor</li>
+    <li><span class="ruby-word"><ruby>一番<rt>いちばん</rt></ruby></span> - nomor satu</li>
+  </ul>
+</details>
+
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">窓</span>
+    <span class="kanji-meta">
+      <strong>窓</strong>
+      <small>jendela</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>窓 berarti jendela, tetapi dalam stasiun juga muncul di 窓口 untuk loket. Jangan selalu membacanya sebagai posisi kursi.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>窓<rt>まど</rt></ruby></span> - jendela</li>
+    <li><span class="ruby-word"><ruby>窓口<rt>まどぐち</rt></ruby></span> - loket</li>
+  </ul>
+</details>
+
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">側</span>
+    <span class="kanji-meta">
+      <strong>側</strong>
+      <small>sisi</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>側 menentukan sisi. Dalam reservasi kursi, kanji ini membantu membedakan posisi jendela dan lorong.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>窓側<rt>まどがわ</rt></ruby></span> - sisi jendela</li>
+    <li><span class="ruby-word"><ruby>通路側<rt>つうろがわ</rt></ruby></span> - sisi lorong</li>
+  </ul>
+</details>
+
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">路</span>
+    <span class="kanji-meta">
+      <strong>路</strong>
+      <small>jalan, jalur</small>
+      <span class="kanji-reading"><span>onyomi: ロ</span>
+    </span>
+  </summary>
+  <p>路 berarti jalan atau jalur. Dalam gerbong, 通路 adalah lorong tempat orang lewat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>通路<rt>つうろ</rt></ruby></span> - lorong</li>
+    <li><span class="ruby-word"><ruby>道路<rt>どうろ</rt></ruby></span> - jalan raya</li>
+  </ul>
+</details>
 </div>
-
 ## Peta Kata
 
 <div class="word-strip">

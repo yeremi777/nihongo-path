@@ -48,151 +48,150 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 練習、練�
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open>
-    <summary>
-      <span class="kanji-char">練</span>
-      <span class="kanji-meta">
-        <strong>練</strong>
-        <small>berlatih</small>
-        <span class="kanji-reading"><span>onyomi: レン</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam kelas bahasa Jepang dan tugas belajar, 練 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>練習<rt>れんしゅう</rt></ruby></span> - latihan</li>
-      <li><span class="ruby-word"><ruby>練る<rt>ねる</rt></ruby></span> - melatih/menyusun</li>
-    </ul>
-  </details>
+<details class="kanji-card" open>
+  <summary>
+    <span class="kanji-char">練</span>
+    <span class="kanji-meta">
+      <strong>練</strong>
+      <small>berlatih</small>
+      <span class="kanji-reading"><span>onyomi: レン</span>
+    </span>
+  </summary>
+  <p>Dalam kelas bahasa Jepang dan tugas belajar, 練 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>練習<rt>れんしゅう</rt></ruby></span> - latihan</li>
+    <li><span class="ruby-word"><ruby>練る<rt>ねる</rt></ruby></span> - melatih/menyusun</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">最</span>
-      <span class="kanji-meta">
-        <strong>最</strong>
-        <small>paling, terbaru</small>
-        <span class="kanji-reading"><span>onyomi: サイ</span><span>kunyomi: もっとも</span></span>
-      </span>
-    </summary>
-    <p>Dalam kelas bahasa Jepang dan tugas belajar, 最 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>最近<rt>さいきん</rt></ruby></span> - akhir-akhir ini</li>
-      <li><span class="ruby-word"><ruby>最初<rt>さいしょ</rt></ruby></span> - awal</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">最</span>
+    <span class="kanji-meta">
+      <strong>最</strong>
+      <small>paling, terbaru</small>
+      <span class="kanji-reading"><span>onyomi: サイ</span>
+    </span>
+  </summary>
+  <p>Dalam kelas bahasa Jepang dan tugas belajar, 最 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>最近<rt>さいきん</rt></ruby></span> - akhir-akhir ini</li>
+    <li><span class="ruby-word"><ruby>最初<rt>さいしょ</rt></ruby></span> - awal</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">適</span>
-      <span class="kanji-meta">
-        <strong>適</strong>
-        <small>cocok, tepat</small>
-        <span class="kanji-reading"><span>onyomi: テキ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam kelas bahasa Jepang dan tugas belajar, 適 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>適当<rt>てきとう</rt></ruby></span> - sesuai</li>
-      <li><span class="ruby-word"><ruby>快適<rt>かいてき</rt></ruby></span> - nyaman</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">適</span>
+    <span class="kanji-meta">
+      <strong>適</strong>
+      <small>cocok, tepat</small>
+      <span class="kanji-reading"><span>onyomi: テキ</span>
+    </span>
+  </summary>
+  <p>Dalam kelas bahasa Jepang dan tugas belajar, 適 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>適当<rt>てきとう</rt></ruby></span> - sesuai</li>
+    <li><span class="ruby-word"><ruby>快適<rt>かいてき</rt></ruby></span> - nyaman</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">選</span>
-      <span class="kanji-meta">
-        <strong>選</strong>
-        <small>memilih</small>
-        <span class="kanji-reading"><span>onyomi: セン</span><span>kunyomi: えらぶ</span></span>
-      </span>
-    </summary>
-    <p>Dalam kelas bahasa Jepang dan tugas belajar, 選 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>選ぶ<rt>えらぶ</rt></ruby></span> - memilih</li>
-      <li><span class="ruby-word"><ruby>選手<rt>せんしゅ</rt></ruby></span> - atlet</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">選</span>
+    <span class="kanji-meta">
+      <strong>選</strong>
+      <small>memilih</small>
+      <span class="kanji-reading"><span>onyomi: セン</span>
+    </span>
+  </summary>
+  <p>Dalam kelas bahasa Jepang dan tugas belajar, 選 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>選ぶ<rt>えらぶ</rt></ruby></span> - memilih</li>
+    <li><span class="ruby-word"><ruby>選手<rt>せんしゅ</rt></ruby></span> - atlet</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">違</span>
-      <span class="kanji-meta">
-        <strong>違</strong>
-        <small>berbeda, salah</small>
-        <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: ちがう, ちがえる</span></span>
-      </span>
-    </summary>
-    <p>Dalam kelas bahasa Jepang dan tugas belajar, 違 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>違う<rt>ちがう</rt></ruby></span> - berbeda/salah</li>
-      <li><span class="ruby-word"><ruby>間違い<rt>まちがい</rt></ruby></span> - kesalahan</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">違</span>
+    <span class="kanji-meta">
+      <strong>違</strong>
+      <small>berbeda, salah</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>Dalam kelas bahasa Jepang dan tugas belajar, 違 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>違う<rt>ちがう</rt></ruby></span> - berbeda/salah</li>
+    <li><span class="ruby-word"><ruby>間違い<rt>まちがい</rt></ruby></span> - kesalahan</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">直</span>
-      <span class="kanji-meta">
-        <strong>直</strong>
-        <small>langsung, memperbaiki</small>
-        <span class="kanji-reading"><span>onyomi: チョク</span><span>kunyomi: なおる, なおす</span></span>
-      </span>
-    </summary>
-    <p>Dalam kelas bahasa Jepang dan tugas belajar, 直 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>直す<rt>なおす</rt></ruby></span> - memperbaiki</li>
-      <li><span class="ruby-word"><ruby>直接<rt>ちょくせつ</rt></ruby></span> - langsung</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">直</span>
+    <span class="kanji-meta">
+      <strong>直</strong>
+      <small>langsung, memperbaiki</small>
+      <span class="kanji-reading"><span>onyomi: チョク</span>
+    </span>
+  </summary>
+  <p>Dalam kelas bahasa Jepang dan tugas belajar, 直 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>直す<rt>なおす</rt></ruby></span> - memperbaiki</li>
+    <li><span class="ruby-word"><ruby>直接<rt>ちょくせつ</rt></ruby></span> - langsung</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">復</span>
-      <span class="kanji-meta">
-        <strong>復</strong>
-        <small>kembali, review</small>
-        <span class="kanji-reading"><span>onyomi: フク</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam kelas bahasa Jepang dan tugas belajar, 復 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>復習<rt>ふくしゅう</rt></ruby></span> - mengulang pelajaran</li>
-      <li><span class="ruby-word"><ruby>往復<rt>おうふく</rt></ruby></span> - pulang pergi</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">復</span>
+    <span class="kanji-meta">
+      <strong>復</strong>
+      <small>kembali, review</small>
+      <span class="kanji-reading"><span>onyomi: フク</span>
+    </span>
+  </summary>
+  <p>Dalam kelas bahasa Jepang dan tugas belajar, 復 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>復習<rt>ふくしゅう</rt></ruby></span> - mengulang pelajaran</li>
+    <li><span class="ruby-word"><ruby>往復<rt>おうふく</rt></ruby></span> - pulang pergi</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">辞</span>
-      <span class="kanji-meta">
-        <strong>辞</strong>
-        <small>kamus, berhenti</small>
-        <span class="kanji-reading"><span>onyomi: ジ</span><span>kunyomi: やめる</span></span>
-      </span>
-    </summary>
-    <p>Dalam kelas bahasa Jepang dan tugas belajar, 辞 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>辞書<rt>じしょ</rt></ruby></span> - kamus</li>
-      <li><span class="ruby-word"><ruby>辞める<rt>やめる</rt></ruby></span> - berhenti kerja</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">辞</span>
+    <span class="kanji-meta">
+      <strong>辞</strong>
+      <small>kamus, berhenti</small>
+      <span class="kanji-reading"><span>onyomi: ジ</span>
+    </span>
+  </summary>
+  <p>Dalam kelas bahasa Jepang dan tugas belajar, 辞 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>辞書<rt>じしょ</rt></ruby></span> - kamus</li>
+    <li><span class="ruby-word"><ruby>辞める<rt>やめる</rt></ruby></span> - berhenti kerja</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">宿</span>
-      <span class="kanji-meta">
-        <strong>宿</strong>
-        <small>penginapan, tugas</small>
-        <span class="kanji-reading"><span>onyomi: シュク</span><span>kunyomi: やど</span></span>
-      </span>
-    </summary>
-    <p>Dalam kelas bahasa Jepang dan tugas belajar, 宿 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>宿題<rt>しゅくだい</rt></ruby></span> - PR</li>
-      <li><span class="ruby-word"><ruby>下宿<rt>げしゅく</rt></ruby></span> - kos</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">宿</span>
+    <span class="kanji-meta">
+      <strong>宿</strong>
+      <small>penginapan, tugas</small>
+      <span class="kanji-reading"><span>onyomi: シュク</span>
+    </span>
+  </summary>
+  <p>Dalam kelas bahasa Jepang dan tugas belajar, 宿 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>宿題<rt>しゅくだい</rt></ruby></span> - PR</li>
+    <li><span class="ruby-word"><ruby>下宿<rt>げしゅく</rt></ruby></span> - kos</li>
+  </ul>
+</details>
 </div>
-
 ## Peta Kata
 
 <div class="word-strip">

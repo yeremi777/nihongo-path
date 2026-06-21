@@ -48,18 +48,150 @@ Target akhir: bisa membaca istilah seperti バス停, 整理券, 現金, 優先�
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-<details class="kanji-card" open><summary><span class="kanji-char">停</span><span class="kanji-meta"><strong>停</strong><small>berhenti</small><span class="kanji-reading"><span>onyomi: テイ</span><span>kunyomi: -</span></span></span></summary><p>停 menandai tempat atau tindakan berhenti. Pada bus, バス停 adalah lokasi utama yang perlu cepat dikenali.</p><ul><li><span class="ruby-word"><ruby>バス停<rt>ばすてい</rt></ruby></span> - halte bus</li><li><span class="ruby-word"><ruby>停車<rt>ていしゃ</rt></ruby></span> - berhenti (kendaraan)</li></ul></details>
-<details class="kanji-card"><summary><span class="kanji-char">整</span><span class="kanji-meta"><strong>整</strong><small>mengatur, menata</small><span class="kanji-reading"><span>onyomi: セイ</span><span>kunyomi: -</span></span></span></summary><p>整 memberi rasa mengatur. Dalam 整理券, kanji ini berkaitan dengan sistem nomor atau urutan tarif.</p><ul><li><span class="ruby-word"><ruby>整理<rt>せいり</rt></ruby></span> - merapikan / mengatur</li><li><span class="ruby-word"><ruby>整理券<rt>せいりけん</rt></ruby></span> - tiket nomor antrean</li></ul></details>
-<details class="kanji-card"><summary><span class="kanji-char">券</span><span class="kanji-meta"><strong>券</strong><small>tiket, kupon</small><span class="kanji-reading"><span>onyomi: ケン</span><span>kunyomi: -</span></span></span></summary><p>券 adalah kanji tiket. Saat naik transportasi, kanji ini biasanya berarti bukti naik, kupon, atau nomor tarif.</p><ul><li><span class="ruby-word"><ruby>乗車券<rt>じょうしゃけん</rt></ruby></span> - tiket naik</li><li><span class="ruby-word"><ruby>回数券<rt>かいすうけん</rt></ruby></span> - tiket kupon beberapa kali</li></ul></details>
-<details class="kanji-card"><summary><span class="kanji-char">現</span><span class="kanji-meta"><strong>現</strong><small>saat ini, nyata</small><span class="kanji-reading"><span>onyomi: ゲン</span><span>kunyomi: あらわれる</span></span></span></summary><p>現 sering muncul dalam 現金 untuk metode pembayaran tunai. Pada bus, ini membantu membedakan uang tunai dari kartu.</p><ul><li><span class="ruby-word"><ruby>現金<rt>げんきん</rt></ruby></span> - uang tunai</li><li><span class="ruby-word"><ruby>現在<rt>げんざい</rt></ruby></span> - saat ini</li></ul></details>
-<details class="kanji-card"><summary><span class="kanji-char">両</span><span class="kanji-meta"><strong>両</strong><small>dua, kedua</small><span class="kanji-reading"><span>onyomi: リョウ</span><span>kunyomi: -</span></span></span></summary><p>両 muncul dalam 両替 untuk penukaran uang. Dalam bus, kata ini biasanya berkaitan dengan pecahan uang.</p><ul><li><span class="ruby-word"><ruby>両替<rt>りょうがえ</rt></ruby></span> - tukar uang kecil/besar</li><li><span class="ruby-word"><ruby>両親<rt>りょうしん</rt></ruby></span> - kedua orang tua</li></ul></details>
-<details class="kanji-card"><summary><span class="kanji-char">替</span><span class="kanji-meta"><strong>替</strong><small>mengganti, menukar</small><span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: かえる</span></span></span></summary><p>替 memberi rasa mengganti atau menukar. Bersama 両, maknanya menjadi menukar pecahan uang.</p><ul><li><span class="ruby-word"><ruby>両替<rt>りょうがえ</rt></ruby></span> - penukaran uang</li><li><span class="ruby-word"><ruby>着替える<rt>きがえる</rt></ruby></span> - ganti pakaian</li></ul></details>
-<details class="kanji-card"><summary><span class="kanji-char">優</span><span class="kanji-meta"><strong>優</strong><small>unggul, prioritas</small><span class="kanji-reading"><span>onyomi: ユウ</span><span>kunyomi: やさしい</span></span></span></summary><p>優 memberi rasa diutamakan atau lembut. Dalam 優先席, fokusnya adalah kursi yang diprioritaskan untuk yang membutuhkan.</p><ul><li><span class="ruby-word"><ruby>優先席<rt>ゆうせんせき</rt></ruby></span> - kursi prioritas</li><li><span class="ruby-word"><ruby>優しい<rt>やさしい</rt></ruby></span> - lembut/baik</li></ul></details>
-<details class="kanji-card"><summary><span class="kanji-char">座</span><span class="kanji-meta"><strong>座</strong><small>duduk, kursi</small><span class="kanji-reading"><span>onyomi: ザ</span><span>kunyomi: すわる</span></span></span></summary><p>座 berkaitan dengan duduk. Dalam transportasi, 座席 berarti tempat duduk sebagai fasilitas.</p><ul><li><span class="ruby-word"><ruby>座席<rt>ざせき</rt></ruby></span> - tempat duduk</li><li><span class="ruby-word"><ruby>座る<rt>すわる</rt></ruby></span> - duduk</li></ul></details>
-<details class="kanji-card"><summary><span class="kanji-char">降</span><span class="kanji-meta"><strong>降</strong><small>turun</small><span class="kanji-reading"><span>onyomi: コウ</span><span>kunyomi: おりる, ふる</span></span></span></summary><p>降 membantu membaca instruksi turun kendaraan. Dalam bus, cari kanji ini untuk pintu turun atau proses turun.</p><ul><li><span class="ruby-word"><ruby>降車口<rt>こうしゃぐち</rt></ruby></span> - pintu turun</li><li><span class="ruby-word"><ruby>降りる<rt>おりる</rt></ruby></span> - turun (kendaraan)</li></ul></details>
+<details class="kanji-card" open>
+  <summary>
+    <span class="kanji-char">停</span>
+    <span class="kanji-meta">
+      <strong>停</strong>
+      <small>berhenti</small>
+      <span class="kanji-reading"><span>onyomi: テイ</span>
+    </span>
+  </summary>
+  <p>停 menandai tempat atau tindakan berhenti. Pada bus, バス停 adalah lokasi utama yang perlu cepat dikenali.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>バス停<rt>ばすてい</rt></ruby></span> - halte bus</li>
+    <li><span class="ruby-word"><ruby>停車<rt>ていしゃ</rt></ruby></span> - berhenti (kendaraan)</li>
+  </ul>
+</details>
 
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">整</span>
+    <span class="kanji-meta">
+      <strong>整</strong>
+      <small>mengatur, menata</small>
+      <span class="kanji-reading"><span>onyomi: セイ</span>
+    </span>
+  </summary>
+  <p>整 memberi rasa mengatur. Dalam 整理券, kanji ini berkaitan dengan sistem nomor atau urutan tarif.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>整理<rt>せいり</rt></ruby></span> - merapikan / mengatur</li>
+    <li><span class="ruby-word"><ruby>整理券<rt>せいりけん</rt></ruby></span> - tiket nomor antrean</li>
+  </ul>
+</details>
+
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">券</span>
+    <span class="kanji-meta">
+      <strong>券</strong>
+      <small>tiket, kupon</small>
+      <span class="kanji-reading"><span>onyomi: ケン</span>
+    </span>
+  </summary>
+  <p>券 adalah kanji tiket. Saat naik transportasi, kanji ini biasanya berarti bukti naik, kupon, atau nomor tarif.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>乗車券<rt>じょうしゃけん</rt></ruby></span> - tiket naik</li>
+    <li><span class="ruby-word"><ruby>回数券<rt>かいすうけん</rt></ruby></span> - tiket kupon beberapa kali</li>
+  </ul>
+</details>
+
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">現</span>
+    <span class="kanji-meta">
+      <strong>現</strong>
+      <small>saat ini, nyata</small>
+      <span class="kanji-reading"><span>onyomi: ゲン</span>
+    </span>
+  </summary>
+  <p>現 sering muncul dalam 現金 untuk metode pembayaran tunai. Pada bus, ini membantu membedakan uang tunai dari kartu.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>現金<rt>げんきん</rt></ruby></span> - uang tunai</li>
+    <li><span class="ruby-word"><ruby>現在<rt>げんざい</rt></ruby></span> - saat ini</li>
+  </ul>
+</details>
+
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">両</span>
+    <span class="kanji-meta">
+      <strong>両</strong>
+      <small>dua, kedua</small>
+      <span class="kanji-reading"><span>onyomi: リョウ</span>
+    </span>
+  </summary>
+  <p>両 muncul dalam 両替 untuk penukaran uang. Dalam bus, kata ini biasanya berkaitan dengan pecahan uang.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>両替<rt>りょうがえ</rt></ruby></span> - tukar uang kecil/besar</li>
+    <li><span class="ruby-word"><ruby>両親<rt>りょうしん</rt></ruby></span> - kedua orang tua</li>
+  </ul>
+</details>
+
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">替</span>
+    <span class="kanji-meta">
+      <strong>替</strong>
+      <small>mengganti, menukar</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>替 memberi rasa mengganti atau menukar. Bersama 両, maknanya menjadi menukar pecahan uang.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>両替<rt>りょうがえ</rt></ruby></span> - penukaran uang</li>
+    <li><span class="ruby-word"><ruby>着替える<rt>きがえる</rt></ruby></span> - ganti pakaian</li>
+  </ul>
+</details>
+
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">優</span>
+    <span class="kanji-meta">
+      <strong>優</strong>
+      <small>unggul, prioritas</small>
+      <span class="kanji-reading"><span>onyomi: ユウ</span>
+    </span>
+  </summary>
+  <p>優 memberi rasa diutamakan atau lembut. Dalam 優先席, fokusnya adalah kursi yang diprioritaskan untuk yang membutuhkan.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>優先席<rt>ゆうせんせき</rt></ruby></span> - kursi prioritas</li>
+    <li><span class="ruby-word"><ruby>優しい<rt>やさしい</rt></ruby></span> - lembut/baik</li>
+  </ul>
+</details>
+
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">座</span>
+    <span class="kanji-meta">
+      <strong>座</strong>
+      <small>duduk, kursi</small>
+      <span class="kanji-reading"><span>onyomi: ザ</span>
+    </span>
+  </summary>
+  <p>座 berkaitan dengan duduk. Dalam transportasi, 座席 berarti tempat duduk sebagai fasilitas.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>座席<rt>ざせき</rt></ruby></span> - tempat duduk</li>
+    <li><span class="ruby-word"><ruby>座る<rt>すわる</rt></ruby></span> - duduk</li>
+  </ul>
+</details>
+
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">降</span>
+    <span class="kanji-meta">
+      <strong>降</strong>
+      <small>turun</small>
+      <span class="kanji-reading"><span>onyomi: コウ</span>
+    </span>
+  </summary>
+  <p>降 membantu membaca instruksi turun kendaraan. Dalam bus, cari kanji ini untuk pintu turun atau proses turun.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>降車口<rt>こうしゃぐち</rt></ruby></span> - pintu turun</li>
+    <li><span class="ruby-word"><ruby>降りる<rt>おりる</rt></ruby></span> - turun (kendaraan)</li>
+  </ul>
+</details>
 </div>
-
 ## Peta Kata
 
 <div class="word-strip">

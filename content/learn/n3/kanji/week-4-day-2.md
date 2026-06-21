@@ -47,135 +47,134 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 広告、報�
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open>
-    <summary>
-      <span class="kanji-char">告</span>
-      <span class="kanji-meta">
-        <strong>告</strong>
-        <small>memberitahu, iklan</small>
-        <span class="kanji-reading"><span>onyomi: コク</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam email promosi dan informasi pembayaran, 告 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>広告<rt>こうこく</rt></ruby></span> - iklan</li>
-      <li><span class="ruby-word"><ruby>報告<rt>ほうこく</rt></ruby></span> - laporan</li>
-    </ul>
-  </details>
+<details class="kanji-card" open>
+  <summary>
+    <span class="kanji-char">告</span>
+    <span class="kanji-meta">
+      <strong>告</strong>
+      <small>memberitahu, iklan</small>
+      <span class="kanji-reading"><span>onyomi: コク</span>
+    </span>
+  </summary>
+  <p>Dalam email promosi dan informasi pembayaran, 告 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>広告<rt>こうこく</rt></ruby></span> - iklan</li>
+    <li><span class="ruby-word"><ruby>報告<rt>ほうこく</rt></ruby></span> - laporan</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">利</span>
-      <span class="kanji-meta">
-        <strong>利</strong>
-        <small>manfaat, praktis</small>
-        <span class="kanji-reading"><span>onyomi: リ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam email promosi dan informasi pembayaran, 利 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>便利<rt>べんり</rt></ruby></span> - praktis</li>
-      <li><span class="ruby-word"><ruby>利用<rt>りよう</rt></ruby></span> - pemakaian</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">利</span>
+    <span class="kanji-meta">
+      <strong>利</strong>
+      <small>manfaat, praktis</small>
+      <span class="kanji-reading"><span>onyomi: リ</span>
+    </span>
+  </summary>
+  <p>Dalam email promosi dan informasi pembayaran, 利 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>便利<rt>べんり</rt></ruby></span> - praktis</li>
+    <li><span class="ruby-word"><ruby>利用<rt>りよう</rt></ruby></span> - pemakaian</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">割</span>
-      <span class="kanji-meta">
-        <strong>割</strong>
-        <small>membagi, diskon</small>
-        <span class="kanji-reading"><span>onyomi: カツ</span><span>kunyomi: わる, われる</span></span>
-      </span>
-    </summary>
-    <p>Dalam email promosi dan informasi pembayaran, 割 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>割引<rt>わりびき</rt></ruby></span> - diskon</li>
-      <li><span class="ruby-word"><ruby>割合<rt>わりあい</rt></ruby></span> - rasio</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">割</span>
+    <span class="kanji-meta">
+      <strong>割</strong>
+      <small>membagi, diskon</small>
+      <span class="kanji-reading"><span>onyomi: カツ</span>
+    </span>
+  </summary>
+  <p>Dalam email promosi dan informasi pembayaran, 割 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>割引<rt>わりびき</rt></ruby></span> - diskon</li>
+    <li><span class="ruby-word"><ruby>割合<rt>わりあい</rt></ruby></span> - rasio</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">倍</span>
-      <span class="kanji-meta">
-        <strong>倍</strong>
-        <small>kali lipat</small>
-        <span class="kanji-reading"><span>onyomi: バイ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam email promosi dan informasi pembayaran, 倍 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>二倍<rt>にばい</rt></ruby></span> - dua kali lipat</li>
-      <li><span class="ruby-word"><ruby>倍<rt>ばい</rt></ruby></span> - kali</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">倍</span>
+    <span class="kanji-meta">
+      <strong>倍</strong>
+      <small>kali lipat</small>
+      <span class="kanji-reading"><span>onyomi: バイ</span>
+    </span>
+  </summary>
+  <p>Dalam email promosi dan informasi pembayaran, 倍 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>二倍<rt>にばい</rt></ruby></span> - dua kali lipat</li>
+    <li><span class="ruby-word"><ruby>倍<rt>ばい</rt></ruby></span> - kali</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">値</span>
-      <span class="kanji-meta">
-        <strong>値</strong>
-        <small>harga, nilai</small>
-        <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: ね</span></span>
-      </span>
-    </summary>
-    <p>Dalam email promosi dan informasi pembayaran, 値 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>値段<rt>ねだん</rt></ruby></span> - harga</li>
-      <li><span class="ruby-word"><ruby>値下げ<rt>ねさげ</rt></ruby></span> - penurunan harga</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">値</span>
+    <span class="kanji-meta">
+      <strong>値</strong>
+      <small>harga, nilai</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>Dalam email promosi dan informasi pembayaran, 値 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>値段<rt>ねだん</rt></ruby></span> - harga</li>
+    <li><span class="ruby-word"><ruby>値下げ<rt>ねさげ</rt></ruby></span> - penurunan harga</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">商</span>
-      <span class="kanji-meta">
-        <strong>商</strong>
-        <small>dagang, barang</small>
-        <span class="kanji-reading"><span>onyomi: ショウ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam email promosi dan informasi pembayaran, 商 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>商品<rt>しょうひん</rt></ruby></span> - produk</li>
-      <li><span class="ruby-word"><ruby>商店<rt>しょうてん</rt></ruby></span> - toko</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">商</span>
+    <span class="kanji-meta">
+      <strong>商</strong>
+      <small>dagang, barang</small>
+      <span class="kanji-reading"><span>onyomi: ショウ</span>
+    </span>
+  </summary>
+  <p>Dalam email promosi dan informasi pembayaran, 商 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>商品<rt>しょうひん</rt></ruby></span> - produk</li>
+    <li><span class="ruby-word"><ruby>商店<rt>しょうてん</rt></ruby></span> - toko</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">支</span>
-      <span class="kanji-meta">
-        <strong>支</strong>
-        <small>menopang, membayar</small>
-        <span class="kanji-reading"><span>onyomi: シ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam email promosi dan informasi pembayaran, 支 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>支店<rt>してん</rt></ruby></span> - cabang toko</li>
-      <li><span class="ruby-word"><ruby>支社<rt>ししゃ</rt></ruby></span> - kantor cabang</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">支</span>
+    <span class="kanji-meta">
+      <strong>支</strong>
+      <small>menopang, membayar</small>
+      <span class="kanji-reading"><span>onyomi: シ</span>
+    </span>
+  </summary>
+  <p>Dalam email promosi dan informasi pembayaran, 支 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>支店<rt>してん</rt></ruby></span> - cabang toko</li>
+    <li><span class="ruby-word"><ruby>支社<rt>ししゃ</rt></ruby></span> - kantor cabang</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">払</span>
-      <span class="kanji-meta">
-        <strong>払</strong>
-        <small>membayar</small>
-        <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: はらう</span></span>
-      </span>
-    </summary>
-    <p>Dalam email promosi dan informasi pembayaran, 払 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>払う<rt>はらう</rt></ruby></span> - membayar</li>
-      <li><span class="ruby-word"><ruby>支払い<rt>しはらい</rt></ruby></span> - pembayaran</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">払</span>
+    <span class="kanji-meta">
+      <strong>払</strong>
+      <small>membayar</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>Dalam email promosi dan informasi pembayaran, 払 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>払う<rt>はらう</rt></ruby></span> - membayar</li>
+    <li><span class="ruby-word"><ruby>支払い<rt>しはらい</rt></ruby></span> - pembayaran</li>
+  </ul>
+</details>
 </div>
-
 ## Peta Kata
 
 <div class="word-strip">

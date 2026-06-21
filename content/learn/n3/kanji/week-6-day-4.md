@@ -47,135 +47,134 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 戦後、戦�
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open>
-    <summary>
-      <span class="kanji-char">戦</span>
-      <span class="kanji-meta">
-        <strong>戦</strong>
-        <small>perang, bertarung</small>
-        <span class="kanji-reading"><span>onyomi: セン</span><span>kunyomi: たたかう</span></span>
-      </span>
-    </summary>
-    <p>Dalam berita ekonomi dan perdagangan, 戦 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>戦後<rt>せんご</rt></ruby></span> - setelah perang</li>
-      <li><span class="ruby-word"><ruby>戦う<rt>たたかう</rt></ruby></span> - bertarung</li>
-    </ul>
-  </details>
+<details class="kanji-card" open>
+  <summary>
+    <span class="kanji-char">戦</span>
+    <span class="kanji-meta">
+      <strong>戦</strong>
+      <small>perang, bertarung</small>
+      <span class="kanji-reading"><span>onyomi: セン</span>
+    </span>
+  </summary>
+  <p>Dalam berita ekonomi dan perdagangan, 戦 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>戦後<rt>せんご</rt></ruby></span> - setelah perang</li>
+    <li><span class="ruby-word"><ruby>戦う<rt>たたかう</rt></ruby></span> - bertarung</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">経</span>
-      <span class="kanji-meta">
-        <strong>経</strong>
-        <small>mengelola, pengalaman</small>
-        <span class="kanji-reading"><span>onyomi: ケイ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam berita ekonomi dan perdagangan, 経 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>経済<rt>けいざい</rt></ruby></span> - ekonomi</li>
-      <li><span class="ruby-word"><ruby>経験<rt>けいけん</rt></ruby></span> - pengalaman</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">経</span>
+    <span class="kanji-meta">
+      <strong>経</strong>
+      <small>mengelola, pengalaman</small>
+      <span class="kanji-reading"><span>onyomi: ケイ</span>
+    </span>
+  </summary>
+  <p>Dalam berita ekonomi dan perdagangan, 経 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>経済<rt>けいざい</rt></ruby></span> - ekonomi</li>
+    <li><span class="ruby-word"><ruby>経験<rt>けいけん</rt></ruby></span> - pengalaman</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">済</span>
-      <span class="kanji-meta">
-        <strong>済</strong>
-        <small>selesai, ekonomi</small>
-        <span class="kanji-reading"><span>onyomi: サイ</span><span>kunyomi: すむ</span></span>
-      </span>
-    </summary>
-    <p>Dalam berita ekonomi dan perdagangan, 済 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>経済<rt>けいざい</rt></ruby></span> - ekonomi</li>
-      <li><span class="ruby-word"><ruby>済む<rt>すむ</rt></ruby></span> - selesai</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">済</span>
+    <span class="kanji-meta">
+      <strong>済</strong>
+      <small>selesai, ekonomi</small>
+      <span class="kanji-reading"><span>onyomi: サイ</span>
+    </span>
+  </summary>
+  <p>Dalam berita ekonomi dan perdagangan, 済 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>経済<rt>けいざい</rt></ruby></span> - ekonomi</li>
+    <li><span class="ruby-word"><ruby>済む<rt>すむ</rt></ruby></span> - selesai</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">成</span>
-      <span class="kanji-meta">
-        <strong>成</strong>
-        <small>tumbuh, menjadi</small>
-        <span class="kanji-reading"><span>onyomi: セイ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam berita ekonomi dan perdagangan, 成 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>成長<rt>せいちょう</rt></ruby></span> - pertumbuhan</li>
-      <li><span class="ruby-word"><ruby>完成<rt>かんせい</rt></ruby></span> - selesai lengkap</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">成</span>
+    <span class="kanji-meta">
+      <strong>成</strong>
+      <small>tumbuh, menjadi</small>
+      <span class="kanji-reading"><span>onyomi: セイ</span>
+    </span>
+  </summary>
+  <p>Dalam berita ekonomi dan perdagangan, 成 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>成長<rt>せいちょう</rt></ruby></span> - pertumbuhan</li>
+    <li><span class="ruby-word"><ruby>完成<rt>かんせい</rt></ruby></span> - selesai lengkap</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">貿</span>
-      <span class="kanji-meta">
-        <strong>貿</strong>
-        <small>perdagangan</small>
-        <span class="kanji-reading"><span>onyomi: ボウ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam berita ekonomi dan perdagangan, 貿 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>貿易<rt>ぼうえき</rt></ruby></span> - perdagangan internasional</li>
-      <li><span class="ruby-word"><ruby>貿易会社<rt>ぼうえきがいしゃ</rt></ruby></span> - perusahaan dagang</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">貿</span>
+    <span class="kanji-meta">
+      <strong>貿</strong>
+      <small>perdagangan</small>
+      <span class="kanji-reading"><span>onyomi: ボウ</span>
+    </span>
+  </summary>
+  <p>Dalam berita ekonomi dan perdagangan, 貿 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>貿易<rt>ぼうえき</rt></ruby></span> - perdagangan internasional</li>
+    <li><span class="ruby-word"><ruby>貿易会社<rt>ぼうえきがいしゃ</rt></ruby></span> - perusahaan dagang</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">易</span>
-      <span class="kanji-meta">
-        <strong>易</strong>
-        <small>dagang, mudah</small>
-        <span class="kanji-reading"><span>onyomi: エキ</span><span>kunyomi: やさしい</span></span>
-      </span>
-    </summary>
-    <p>Dalam berita ekonomi dan perdagangan, 易 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>貿易<rt>ぼうえき</rt></ruby></span> - perdagangan</li>
-      <li><span class="ruby-word"><ruby>易しい<rt>やさしい</rt></ruby></span> - mudah</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">易</span>
+    <span class="kanji-meta">
+      <strong>易</strong>
+      <small>dagang, mudah</small>
+      <span class="kanji-reading"><span>onyomi: エキ</span>
+    </span>
+  </summary>
+  <p>Dalam berita ekonomi dan perdagangan, 易 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>貿易<rt>ぼうえき</rt></ruby></span> - perdagangan</li>
+    <li><span class="ruby-word"><ruby>易しい<rt>やさしい</rt></ruby></span> - mudah</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">輸</span>
-      <span class="kanji-meta">
-        <strong>輸</strong>
-        <small>mengangkut, ekspor/impor</small>
-        <span class="kanji-reading"><span>onyomi: ユ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam berita ekonomi dan perdagangan, 輸 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>輸出<rt>ゆしゅつ</rt></ruby></span> - ekspor</li>
-      <li><span class="ruby-word"><ruby>輸入<rt>ゆにゅう</rt></ruby></span> - impor</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">輸</span>
+    <span class="kanji-meta">
+      <strong>輸</strong>
+      <small>mengangkut, ekspor/impor</small>
+      <span class="kanji-reading"><span>onyomi: ユ</span>
+    </span>
+  </summary>
+  <p>Dalam berita ekonomi dan perdagangan, 輸 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>輸出<rt>ゆしゅつ</rt></ruby></span> - ekspor</li>
+    <li><span class="ruby-word"><ruby>輸入<rt>ゆにゅう</rt></ruby></span> - impor</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">相</span>
-      <span class="kanji-meta">
-        <strong>相</strong>
-        <small>saling, konsultasi</small>
-        <span class="kanji-reading"><span>onyomi: ソウ, ショウ</span><span>kunyomi: あい</span></span>
-      </span>
-    </summary>
-    <p>Dalam berita ekonomi dan perdagangan, 相 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>相談<rt>そうだん</rt></ruby></span> - konsultasi</li>
-      <li><span class="ruby-word"><ruby>首相<rt>しゅしょう</rt></ruby></span> - perdana menteri</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">相</span>
+    <span class="kanji-meta">
+      <strong>相</strong>
+      <small>saling, konsultasi</small>
+      <span class="kanji-reading"><span>onyomi: ソウ, ショウ</span>
+    </span>
+  </summary>
+  <p>Dalam berita ekonomi dan perdagangan, 相 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>相談<rt>そうだん</rt></ruby></span> - konsultasi</li>
+    <li><span class="ruby-word"><ruby>首相<rt>しゅしょう</rt></ruby></span> - perdana menteri</li>
+  </ul>
+</details>
 </div>
-
 ## Peta Kata
 
 <div class="word-strip">

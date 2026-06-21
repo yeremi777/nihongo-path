@@ -50,17 +50,61 @@ Di akhir pelajaran ini, kamu bisa membaca 気持ち, 招待, 特急, 森林, 曜
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open><summary><span class="kanji-char">持</span><span class="kanji-meta"><strong>持</strong><small>membawa, memiliki</small><span class="kanji-reading"><span>onyomi: ジ</span><span>kunyomi: もつ</span></span></span></summary><p>持 berhubungan dengan memegang, membawa, atau perasaan yang dimiliki.</p><ul><li>気持ち - perasaan</li><li>持参 - membawa serta</li><li>所持 - kepemilikan</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">待</span><span class="kanji-meta"><strong>待</strong><small>menunggu</small><span class="kanji-reading"><span>onyomi: タイ</span><span>kunyomi: まつ</span></span></span></summary><p>待 berarti menunggu dan juga muncul pada undangan.</p><ul><li>招待 - undangan</li><li>待合室 - ruang tunggu</li><li>期待 - harapan</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">特</span><span class="kanji-meta"><strong>特</strong><small>khusus</small><span class="kanji-reading"><span>onyomi: トク</span><span>kunyomi: -</span></span></span></summary><p>特 memberi rasa khusus atau spesial.</p><ul><li>特急 - ekspres khusus</li><li>特別 - spesial</li><li>特徴 - ciri khas</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">林</span><span class="kanji-meta"><strong>林</strong><small>hutan kecil</small><span class="kanji-reading"><span>onyomi: リン</span><span>kunyomi: はやし</span></span></span></summary><p>林 adalah kumpulan pohon yang lebih kecil dari 森.</p><ul><li>森林 - hutan</li><li>林業 - kehutanan</li><li>竹林 - hutan bambu</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">村</span><span class="kanji-meta"><strong>村</strong><small>desa</small><span class="kanji-reading"><span>onyomi: ソン</span><span>kunyomi: むら</span></span></span></summary><p>村 menunjuk desa atau permukiman kecil.</p><ul><li>村人 - orang desa</li><li>村長 - kepala desa</li><li>農村 - desa pertanian</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">森</span><span class="kanji-meta"><strong>森</strong><small>hutan</small><span class="kanji-reading"><span>onyomi: シン</span><span>kunyomi: もり</span></span></span></summary><p>森 menggambarkan hutan yang lebih lebat.</p><ul><li>森林 - hutan</li><li>森中 - di dalam hutan</li><li>青森 - Aomori</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">曜</span><span class="kanji-meta"><strong>曜</strong><small>hari dalam minggu</small><span class="kanji-reading"><span>onyomi: ヨウ</span><span>kunyomi: -</span></span></span></summary><p>曜 hampir selalu muncul pada nama hari.</p><ul><li>曜日 - hari dalam minggu</li><li>日曜日 - Minggu</li><li>月曜日 - Senin</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">濯</span><span class="kanji-meta"><strong>濯</strong><small>cucian</small><span class="kanji-reading"><span>onyomi: タク</span><span>kunyomi: -</span></span></span></summary><p>濯 pada N4 terutama muncul dalam 洗濯.</p><ul><li>洗濯 - cucian</li><li>洗濯機 - mesin cuci</li><li>洗濯物 - cucian/barang cucian</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">質</span><span class="kanji-meta"><strong>質</strong><small>kualitas, pertanyaan</small><span class="kanji-reading"><span>onyomi: シツ、シチ</span><span>kunyomi: -</span></span></span></summary><p>質 bisa berarti kualitas atau bagian dari kata pertanyaan.</p><ul><li>質問 - pertanyaan</li><li>品質 - kualitas barang</li><li>性質 - sifat</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">問</span><span class="kanji-meta"><strong>問</strong><small>bertanya, masalah</small><span class="kanji-reading"><span>onyomi: モン</span><span>kunyomi: とう、とい</span></span></span></summary><p>問 muncul pada pertanyaan dan masalah.</p><ul><li>問題 - soal/masalah</li><li>質問 - pertanyaan</li><li>訪問 - kunjungan</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">題</span><span class="kanji-meta"><strong>題</strong><small>soal, judul</small><span class="kanji-reading"><span>onyomi: ダイ</span><span>kunyomi: -</span></span></span></summary><p>題 memberi rasa topik, judul, atau soal yang dikerjakan.</p><ul><li>宿題 - PR</li><li>問題 - soal/masalah</li><li>題名 - judul</li></ul></details>
+  <details class="kanji-card" open><summary><span class="kanji-char">持</span><span class="kanji-meta"><strong>持</strong><small>membawa, memiliki</small><span class="kanji-reading"><span>onyomi: ジ</span><span>kunyomi: もつ</span></span></span></summary><p>持 berhubungan dengan memegang, membawa, atau perasaan yang dimiliki.</p><ul>
+    <li><span class="ruby-word"><ruby>気持<rt>きも</rt></ruby>ち</span> - perasaan</li>
+    <li><span class="ruby-word"><ruby>持参<rt>じさん</rt></ruby></span> - membawa serta</li>
+    <li><span class="ruby-word"><ruby>所持<rt>しょじ</rt></ruby></span> - kepemilikan</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">待</span><span class="kanji-meta"><strong>待</strong><small>menunggu</small><span class="kanji-reading"><span>onyomi: タイ</span><span>kunyomi: まつ</span></span></span></summary><p>待 berarti menunggu dan juga muncul pada undangan.</p><ul>
+    <li><span class="ruby-word"><ruby>招待<rt>しょうたい</rt></ruby></span> - undangan</li>
+    <li><span class="ruby-word"><ruby>待合室<rt>まちあいしつ</rt></ruby></span> - ruang tunggu</li>
+    <li><span class="ruby-word"><ruby>期待<rt>きたい</rt></ruby></span> - harapan</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">特</span><span class="kanji-meta"><strong>特</strong><small>khusus</small><span class="kanji-reading"><span>onyomi: トク</span><span>kunyomi: -</span></span></span></summary><p>特 memberi rasa khusus, spesial, atau istimewa pada kata majemuk.</p><ul>
+    <li><span class="ruby-word"><ruby>特急<rt>とっきゅう</rt></ruby></span> - ekspres khusus</li>
+    <li><span class="ruby-word"><ruby>特別<rt>とくべつ</rt></ruby></span> - spesial</li>
+    <li><span class="ruby-word"><ruby>特徴<rt>とくちょう</rt></ruby></span> - ciri khas</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">林</span><span class="kanji-meta"><strong>林</strong><small>hutan kecil</small><span class="kanji-reading"><span>onyomi: リン</span><span>kunyomi: はやし</span></span></span></summary><p>林 adalah kumpulan pohon yang lebih kecil dari 森.</p><ul>
+    <li><span class="ruby-word"><ruby>森林<rt>しんりん</rt></ruby></span> - hutan</li>
+    <li><span class="ruby-word"><ruby>林業<rt>りんぎょう</rt></ruby></span> - kehutanan</li>
+    <li><span class="ruby-word"><ruby>竹林<rt>ちくりん</rt></ruby></span> - hutan bambu</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">村</span><span class="kanji-meta"><strong>村</strong><small>desa</small><span class="kanji-reading"><span>onyomi: ソン</span><span>kunyomi: むら</span></span></span></summary><p>村 menunjuk desa, permukiman kecil, dan nama tempat tinggal pedesaan.</p><ul>
+    <li><span class="ruby-word"><ruby>村人<rt>むらびと</rt></ruby></span> - orang desa</li>
+    <li><span class="ruby-word"><ruby>村長<rt>そんちょう</rt></ruby></span> - kepala desa</li>
+    <li><span class="ruby-word"><ruby>農村<rt>のうそん</rt></ruby></span> - desa pertanian</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">森</span><span class="kanji-meta"><strong>森</strong><small>hutan</small><span class="kanji-reading"><span>onyomi: シン</span><span>kunyomi: もり</span></span></span></summary><p>森 menggambarkan hutan yang lebat dan lanskap alam yang luas.</p><ul>
+    <li><span class="ruby-word"><ruby>森林<rt>しんりん</rt></ruby></span> - hutan</li>
+    <li><span class="ruby-word"><ruby>森中<rt>もりなか</rt></ruby></span> - di dalam hutan</li>
+    <li><span class="ruby-word"><ruby>青森<rt>あおもり</rt></ruby></span> - Aomori</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">曜</span><span class="kanji-meta"><strong>曜</strong><small>hari dalam minggu</small><span class="kanji-reading"><span>onyomi: ヨウ</span><span>kunyomi: -</span></span></span></summary><p>曜 hampir selalu muncul pada nama hari dan jadwal mingguan.</p><ul>
+    <li><span class="ruby-word"><ruby>曜日<rt>ようび</rt></ruby></span> - hari dalam minggu</li>
+    <li><span class="ruby-word"><ruby>日曜日<rt>にちようび</rt></ruby></span> - Minggu</li>
+    <li><span class="ruby-word"><ruby>月曜日<rt>げつようび</rt></ruby></span> - Senin</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">濯</span><span class="kanji-meta"><strong>濯</strong><small>cucian</small><span class="kanji-reading"><span>onyomi: タク</span><span>kunyomi: -</span></span></span></summary><p>濯 pada N4 terutama muncul dalam 洗濯 dan rutinitas mencuci pakaian.</p><ul>
+    <li><span class="ruby-word"><ruby>洗濯<rt>せんたく</rt></ruby></span> - cucian</li>
+    <li><span class="ruby-word"><ruby>洗濯<rt>せんたく</rt></ruby><ruby>機<rt>き</rt></ruby></span> - mesin cuci</li>
+    <li><span class="ruby-word"><ruby>洗濯<rt>せんたく</rt></ruby><ruby>物<rt>ぶつ</rt></ruby></span> - cucian/barang cucian</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">質</span><span class="kanji-meta"><strong>質</strong><small>kualitas, pertanyaan</small><span class="kanji-reading"><span>onyomi: シツ、シチ</span><span>kunyomi: -</span></span></span></summary><p>質 bisa berarti kualitas atau bagian dari kata pertanyaan.</p><ul>
+    <li><span class="ruby-word"><ruby>質問<rt>しつもん</rt></ruby></span> - pertanyaan</li>
+    <li><span class="ruby-word"><ruby>品質<rt>ひんしつ</rt></ruby></span> - kualitas barang</li>
+    <li><span class="ruby-word"><ruby>性質<rt>せいしつ</rt></ruby></span> - sifat</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">問</span><span class="kanji-meta"><strong>問</strong><small>bertanya, masalah</small><span class="kanji-reading"><span>onyomi: モン</span><span>kunyomi: とう、とい</span></span></span></summary><p>問 muncul pada pertanyaan, masalah, dan formulir yang meminta jawaban.</p><ul>
+    <li><span class="ruby-word"><ruby>問題<rt>もんだい</rt></ruby></span> - soal/masalah</li>
+    <li><span class="ruby-word"><ruby>質問<rt>しつもん</rt></ruby></span> - pertanyaan</li>
+    <li><span class="ruby-word"><ruby>訪問<rt>ほうもん</rt></ruby></span> - kunjungan</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">題</span><span class="kanji-meta"><strong>題</strong><small>soal, judul</small><span class="kanji-reading"><span>onyomi: ダイ</span><span>kunyomi: -</span></span></span></summary><p>題 memberi rasa topik, judul, atau soal yang dikerjakan.</p><ul>
+    <li><span class="ruby-word"><ruby>宿題<rt>しゅくだい</rt></ruby></span> - PR</li>
+    <li><span class="ruby-word"><ruby>問題<rt>もんだい</rt></ruby></span> - soal/masalah</li>
+    <li><span class="ruby-word"><ruby>題名<rt>だいめい</rt></ruby></span> - judul</li>
+  </ul></details>
 </div>
 
 ## Peta Kata

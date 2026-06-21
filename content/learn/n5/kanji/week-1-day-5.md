@@ -54,21 +54,75 @@ Di akhir pelajaran ini, kamu bisa membaca kata seperti 休む, 見る, 行く, �
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open><summary><span class="kanji-char">休</span><span class="kanji-meta"><strong>休</strong><small>istirahat, hari libur</small><span class="kanji-reading"><span>onyomi: キュウ</span><span>kunyomi: やすむ、やすみ</span></span></span></summary><p>休 dipakai untuk istirahat dan hari libur.</p><ul><li>休む</li><li>昼休み</li><li>休み</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">見</span><span class="kanji-meta"><strong>見</strong><small>melihat, terlihat</small><span class="kanji-reading"><span>onyomi: ケン</span><span>kunyomi: みる、みえる、みせる</span></span></span></summary><p>見 dipakai untuk melihat, terlihat, atau menunjukkan.</p><ul><li>見学</li><li>見物</li><li>見る</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">言</span><span class="kanji-meta"><strong>言</strong><small>berkata, kata</small><span class="kanji-reading"><span>onyomi: ゲン、ゴン</span><span>kunyomi: いう、こと</span></span></span></summary><p>言 dipakai untuk berkata dan kata-kata.</p><ul><li>言う</li><li>言葉</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">行</span><span class="kanji-meta"><strong>行</strong><small>pergi, melakukan</small><span class="kanji-reading"><span>onyomi: コウ、ギョウ</span><span>kunyomi: いく、おこなう</span></span></span></summary><p>行 paling sering dipakai untuk pergi, tetapi juga muncul pada kata seperti 銀行.</p><ul><li>銀行</li><li>旅行</li><li>行く</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">書</span><span class="kanji-meta"><strong>書</strong><small>menulis, dokumen</small><span class="kanji-reading"><span>onyomi: ショ</span><span>kunyomi: かく</span></span></span></summary><p>書 dipakai untuk menulis, buku, dan dokumen.</p><ul><li>辞書</li><li>書く</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">読</span><span class="kanji-meta"><strong>読</strong><small>membaca</small><span class="kanji-reading"><span>onyomi: ドク、トク</span><span>kunyomi: よむ</span></span></span></summary><p>読 dipakai untuk membaca.</p><ul><li>読む</li><li>読書</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">買</span><span class="kanji-meta"><strong>買</strong><small>membeli</small><span class="kanji-reading"><span>onyomi: バイ</span><span>kunyomi: かう</span></span></span></summary><p>買 dipakai untuk membeli dan belanja.</p><ul><li>買う</li><li>買いもの</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">来</span><span class="kanji-meta"><strong>来</strong><small>datang, berikutnya</small><span class="kanji-reading"><span>onyomi: ライ</span><span>kunyomi: くる、きたる</span></span></span></summary><p>来 dipakai untuk datang dan waktu yang akan datang.</p><ul><li>来月</li><li>来週</li><li>来る</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">立</span><span class="kanji-meta"><strong>立</strong><small>berdiri, mendirikan</small><span class="kanji-reading"><span>onyomi: リツ、リュウ</span><span>kunyomi: たつ、たてる</span></span></span></summary><p>立 dipakai untuk berdiri atau mendirikan sesuatu.</p><ul><li>立つ</li><li>立てる</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">食</span><span class="kanji-meta"><strong>食</strong><small>makan, makanan</small><span class="kanji-reading"><span>onyomi: ショク</span><span>kunyomi: たべる、くう</span></span></span></summary><p>食 dipakai untuk makan dan makanan.</p><ul><li>食事</li><li>食料品</li><li>食べる</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">飲</span><span class="kanji-meta"><strong>飲</strong><small>minum</small><span class="kanji-reading"><span>onyomi: イン</span><span>kunyomi: のむ</span></span></span></summary><p>飲 dipakai untuk minum dan minuman.</p><ul><li>飲む</li><li>飲みもの</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">会</span><span class="kanji-meta"><strong>会</strong><small>bertemu, pertemuan</small><span class="kanji-reading"><span>onyomi: カイ、エ</span><span>kunyomi: あう</span></span></span></summary><p>会 dipakai untuk bertemu, percakapan, dan perusahaan.</p><ul><li>会社</li><li>会う</li><li>会話</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">電</span><span class="kanji-meta"><strong>電</strong><small>listrik</small><span class="kanji-reading"><span>onyomi: デン</span><span>kunyomi: —</span></span></span></summary><p>電 muncul pada kata yang berhubungan dengan listrik dan alat listrik.</p><ul><li>電車</li><li>電気</li><li>電話</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">話</span><span class="kanji-meta"><strong>話</strong><small>berbicara, cerita</small><span class="kanji-reading"><span>onyomi: ワ</span><span>kunyomi: はなす、はなし</span></span></span></summary><p>話 dipakai untuk berbicara, cerita, dan telepon.</p><ul><li>電話</li><li>会話</li><li>話す</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">車</span><span class="kanji-meta"><strong>車</strong><small>mobil, kendaraan</small><span class="kanji-reading"><span>onyomi: シャ</span><span>kunyomi: くるま</span></span></span></summary><p>車 dipakai untuk mobil, kendaraan, dan kereta listrik.</p><ul><li>自動車</li><li>車</li><li>自転車</li></ul></details>
+  <details class="kanji-card" open><summary><span class="kanji-char">休</span><span class="kanji-meta"><strong>休</strong><small>istirahat, hari libur</small><span class="kanji-reading"><span>onyomi: キュウ</span><span>kunyomi: やすむ、やすみ</span></span></span></summary><p>休 dipakai untuk istirahat dan hari libur saat membaca jadwal sekolah atau kegiatan harian.</p><ul>
+    <li><span class="ruby-word"><ruby>休む<rt>やすむ</rt></ruby></span> - beristirahat, libur</li>
+    <li><span class="ruby-word"><ruby>昼休み<rt>ひるやすみ</rt></ruby></span> - istirahat siang</li>
+    <li><span class="ruby-word"><ruby>休み<rt>やすみ</rt></ruby></span> - libur, istirahat</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">見</span><span class="kanji-meta"><strong>見</strong><small>melihat, terlihat</small><span class="kanji-reading"><span>onyomi: ケン</span><span>kunyomi: みる、みえる、みせる</span></span></span></summary><p>見 dipakai untuk melihat, terlihat, atau menunjukkan dalam kegiatan kelas dan wisata sederhana.</p><ul>
+    <li><span class="ruby-word"><ruby>見学<rt>けんがく</rt></ruby></span> - kunjungan belajar</li>
+    <li><span class="ruby-word"><ruby>見物<rt>けんぶつ</rt></ruby></span> - melihat-lihat</li>
+    <li><span class="ruby-word"><ruby>見る<rt>みる</rt></ruby></span> - melihat</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">言</span><span class="kanji-meta"><strong>言</strong><small>berkata, kata</small><span class="kanji-reading"><span>onyomi: ゲン、ゴン</span><span>kunyomi: いう、こと</span></span></span></summary><p>言 dipakai untuk berkata dan kata-kata, terutama saat membaca percakapan atau instruksi pendek.</p><ul>
+    <li><span class="ruby-word"><ruby>言う<rt>いう</rt></ruby></span> - berkata</li>
+    <li><span class="ruby-word"><ruby>言葉<rt>ことば</rt></ruby></span> - kata, bahasa</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">行</span><span class="kanji-meta"><strong>行</strong><small>pergi, melakukan</small><span class="kanji-reading"><span>onyomi: コウ、ギョウ</span><span>kunyomi: いく、おこなう</span></span></span></summary><p>行 paling sering dipakai untuk pergi, tetapi juga muncul pada kata tempat seperti bank.</p><ul>
+    <li><span class="ruby-word"><ruby>銀行<rt>ぎんこう</rt></ruby></span> - bank</li>
+    <li><span class="ruby-word"><ruby>旅行<rt>りょこう</rt></ruby></span> - perjalanan</li>
+    <li><span class="ruby-word"><ruby>行く<rt>いく</rt></ruby></span> - pergi</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">書</span><span class="kanji-meta"><strong>書</strong><small>menulis, dokumen</small><span class="kanji-reading"><span>onyomi: ショ</span><span>kunyomi: かく</span></span></span></summary><p>書 dipakai untuk menulis, buku, dan dokumen saat belajar atau memakai kamus.</p><ul>
+    <li><span class="ruby-word"><ruby>辞書<rt>じしょ</rt></ruby></span> - kamus</li>
+    <li><span class="ruby-word"><ruby>書く<rt>かく</rt></ruby></span> - menulis</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">読</span><span class="kanji-meta"><strong>読</strong><small>membaca</small><span class="kanji-reading"><span>onyomi: ドク、トク</span><span>kunyomi: よむ</span></span></span></summary><p>読 dipakai untuk membaca buku, koran, atau kegiatan membaca dalam pelajaran sehari-hari.</p><ul>
+    <li><span class="ruby-word"><ruby>読む<rt>よむ</rt></ruby></span> - membaca</li>
+    <li><span class="ruby-word"><ruby>読書<rt>どくしょ</rt></ruby></span> - kegiatan membaca</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">買</span><span class="kanji-meta"><strong>買</strong><small>membeli</small><span class="kanji-reading"><span>onyomi: バイ</span><span>kunyomi: かう</span></span></span></summary><p>買 dipakai untuk membeli dan belanja saat membaca kegiatan di toko atau daftar kebutuhan.</p><ul>
+    <li><span class="ruby-word"><ruby>買う<rt>かう</rt></ruby></span> - membeli</li>
+    <li><span class="ruby-word"><ruby>買いもの<rt>かいもの</rt></ruby></span> - belanja</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">来</span><span class="kanji-meta"><strong>来</strong><small>datang, berikutnya</small><span class="kanji-reading"><span>onyomi: ライ</span><span>kunyomi: くる、きたる</span></span></span></summary><p>来 dipakai untuk datang dan waktu yang akan datang, seperti minggu depan atau bulan depan.</p><ul>
+    <li><span class="ruby-word"><ruby>来月<rt>らいげつ</rt></ruby></span> - bulan depan</li>
+    <li><span class="ruby-word"><ruby>来週<rt>らいしゅう</rt></ruby></span> - minggu depan</li>
+    <li><span class="ruby-word"><ruby>来る<rt>くる</rt></ruby></span> - datang</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">立</span><span class="kanji-meta"><strong>立</strong><small>berdiri, mendirikan</small><span class="kanji-reading"><span>onyomi: リツ、リュウ</span><span>kunyomi: たつ、たてる</span></span></span></summary><p>立 dipakai untuk berdiri atau mendirikan sesuatu dalam instruksi kelas dan aktivitas harian.</p><ul>
+    <li><span class="ruby-word"><ruby>立つ<rt>たつ</rt></ruby></span> - berdiri</li>
+    <li><span class="ruby-word"><ruby>立てる<rt>たてる</rt></ruby></span> - mendirikan, menegakkan</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">食</span><span class="kanji-meta"><strong>食</strong><small>makan, makanan</small><span class="kanji-reading"><span>onyomi: ショク</span><span>kunyomi: たべる、くう</span></span></span></summary><p>食 dipakai untuk makan dan makanan, terutama pada menu, jadwal makan, atau bahan makanan.</p><ul>
+    <li><span class="ruby-word"><ruby>食事<rt>しょくじ</rt></ruby></span> - makan, makanan</li>
+    <li><span class="ruby-word"><ruby>食料品<rt>しょくりょうひん</rt></ruby></span> - bahan makanan</li>
+    <li><span class="ruby-word"><ruby>食べる<rt>たべる</rt></ruby></span> - makan</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">飲</span><span class="kanji-meta"><strong>飲</strong><small>minum</small><span class="kanji-reading"><span>onyomi: イン</span><span>kunyomi: のむ</span></span></span></summary><p>飲 dipakai untuk minum dan minuman saat membaca aktivitas harian atau menu sederhana.</p><ul>
+    <li><span class="ruby-word"><ruby>飲む<rt>のむ</rt></ruby></span> - minum</li>
+    <li><span class="ruby-word"><ruby>飲みもの<rt>のみもの</rt></ruby></span> - minuman</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">会</span><span class="kanji-meta"><strong>会</strong><small>bertemu, pertemuan</small><span class="kanji-reading"><span>onyomi: カイ、エ</span><span>kunyomi: あう</span></span></span></summary><p>会 dipakai untuk bertemu, percakapan, dan perusahaan dalam jadwal atau perkenalan.</p><ul>
+    <li><span class="ruby-word"><ruby>会社<rt>かいしゃ</rt></ruby></span> - perusahaan</li>
+    <li><span class="ruby-word"><ruby>会う<rt>あう</rt></ruby></span> - bertemu</li>
+    <li><span class="ruby-word"><ruby>会話<rt>かいわ</rt></ruby></span> - percakapan</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">電</span><span class="kanji-meta"><strong>電</strong><small>listrik</small><span class="kanji-reading"><span>onyomi: デン</span><span>kunyomi: —</span></span></span></summary><p>電 muncul pada kata yang berhubungan dengan listrik, alat listrik, telepon, dan kereta.</p><ul>
+    <li><span class="ruby-word"><ruby>電車<rt>でんしゃ</rt></ruby></span> - kereta listrik</li>
+    <li><span class="ruby-word"><ruby>電気<rt>でんき</rt></ruby></span> - listrik</li>
+    <li><span class="ruby-word"><ruby>電話<rt>でんわ</rt></ruby></span> - telepon</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">話</span><span class="kanji-meta"><strong>話</strong><small>berbicara, cerita</small><span class="kanji-reading"><span>onyomi: ワ</span><span>kunyomi: はなす、はなし</span></span></span></summary><p>話 dipakai untuk berbicara, cerita, dan telepon dalam komunikasi sehari-hari.</p><ul>
+    <li><span class="ruby-word"><ruby>電話<rt>でんわ</rt></ruby></span> - telepon</li>
+    <li><span class="ruby-word"><ruby>会話<rt>かいわ</rt></ruby></span> - percakapan</li>
+    <li><span class="ruby-word"><ruby>話す<rt>はなす</rt></ruby></span> - berbicara</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">車</span><span class="kanji-meta"><strong>車</strong><small>mobil, kendaraan</small><span class="kanji-reading"><span>onyomi: シャ</span><span>kunyomi: くるま</span></span></span></summary><p>車 dipakai untuk mobil, kendaraan, dan kereta listrik saat membaca transportasi harian.</p><ul>
+    <li><span class="ruby-word"><ruby>自動車<rt>じどうしゃ</rt></ruby></span> - mobil</li>
+    <li><span class="ruby-word"><ruby>車<rt>くるま</rt></ruby></span> - mobil, kendaraan</li>
+    <li><span class="ruby-word"><ruby>自転車<rt>じてんしゃ</rt></ruby></span> - sepeda</li>
+  </ul></details>
 </div>
 
 ## Peta Kata

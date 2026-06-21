@@ -47,135 +47,134 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 予報、報�
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open>
-    <summary>
-      <span class="kanji-char">報</span>
-      <span class="kanji-meta">
-        <strong>報</strong>
-        <small>laporan, prakiraan</small>
-        <span class="kanji-reading"><span>onyomi: ホウ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam prakiraan cuaca dan berita alam, 報 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>予報<rt>よほう</rt></ruby></span> - prakiraan</li>
-      <li><span class="ruby-word"><ruby>報告<rt>ほうこく</rt></ruby></span> - laporan</li>
-    </ul>
-  </details>
+<details class="kanji-card" open>
+  <summary>
+    <span class="kanji-char">報</span>
+    <span class="kanji-meta">
+      <strong>報</strong>
+      <small>laporan, prakiraan</small>
+      <span class="kanji-reading"><span>onyomi: ホウ</span>
+    </span>
+  </summary>
+  <p>Dalam prakiraan cuaca dan berita alam, 報 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>予報<rt>よほう</rt></ruby></span> - prakiraan</li>
+    <li><span class="ruby-word"><ruby>報告<rt>ほうこく</rt></ruby></span> - laporan</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">晴</span>
-      <span class="kanji-meta">
-        <strong>晴</strong>
-        <small>cerah</small>
-        <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: はれる</span></span>
-      </span>
-    </summary>
-    <p>Dalam prakiraan cuaca dan berita alam, 晴 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>晴れる<rt>はれる</rt></ruby></span> - menjadi cerah</li>
-      <li><span class="ruby-word"><ruby>晴れ<rt>はれ</rt></ruby></span> - cuaca cerah</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">晴</span>
+    <span class="kanji-meta">
+      <strong>晴</strong>
+      <small>cerah</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>Dalam prakiraan cuaca dan berita alam, 晴 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>晴れる<rt>はれる</rt></ruby></span> - menjadi cerah</li>
+    <li><span class="ruby-word"><ruby>晴れ<rt>はれ</rt></ruby></span> - cuaca cerah</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">雲</span>
-      <span class="kanji-meta">
-        <strong>雲</strong>
-        <small>awan</small>
-        <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: くも</span></span>
-      </span>
-    </summary>
-    <p>Dalam prakiraan cuaca dan berita alam, 雲 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>雲<rt>くも</rt></ruby></span> - awan</li>
-      <li><span class="ruby-word"><ruby>雨雲<rt>あまぐも</rt></ruby></span> - awan hujan</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">雲</span>
+    <span class="kanji-meta">
+      <strong>雲</strong>
+      <small>awan</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>Dalam prakiraan cuaca dan berita alam, 雲 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>雲<rt>くも</rt></ruby></span> - awan</li>
+    <li><span class="ruby-word"><ruby>雨雲<rt>あまぐも</rt></ruby></span> - awan hujan</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">吹</span>
-      <span class="kanji-meta">
-        <strong>吹</strong>
-        <small>bertiup, meniup</small>
-        <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: ふく</span></span>
-      </span>
-    </summary>
-    <p>Dalam prakiraan cuaca dan berita alam, 吹 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>吹く<rt>ふく</rt></ruby></span> - bertiup</li>
-      <li><span class="ruby-word"><ruby>吹雪<rt>ふぶき</rt></ruby></span> - badai salju</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">吹</span>
+    <span class="kanji-meta">
+      <strong>吹</strong>
+      <small>bertiup, meniup</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>Dalam prakiraan cuaca dan berita alam, 吹 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>吹く<rt>ふく</rt></ruby></span> - bertiup</li>
+    <li><span class="ruby-word"><ruby>吹雪<rt>ふぶき</rt></ruby></span> - badai salju</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">暖</span>
-      <span class="kanji-meta">
-        <strong>暖</strong>
-        <small>hangat</small>
-        <span class="kanji-reading"><span>onyomi: ダン</span><span>kunyomi: あたたかい</span></span>
-      </span>
-    </summary>
-    <p>Dalam prakiraan cuaca dan berita alam, 暖 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>暖房<rt>だんぼう</rt></ruby></span> - pemanas ruangan</li>
-      <li><span class="ruby-word"><ruby>暖かい<rt>あたたかい</rt></ruby></span> - hangat</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">暖</span>
+    <span class="kanji-meta">
+      <strong>暖</strong>
+      <small>hangat</small>
+      <span class="kanji-reading"><span>onyomi: ダン</span>
+    </span>
+  </summary>
+  <p>Dalam prakiraan cuaca dan berita alam, 暖 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>暖房<rt>だんぼう</rt></ruby></span> - pemanas ruangan</li>
+    <li><span class="ruby-word"><ruby>暖かい<rt>あたたかい</rt></ruby></span> - hangat</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">雪</span>
-      <span class="kanji-meta">
-        <strong>雪</strong>
-        <small>salju</small>
-        <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: ゆき</span></span>
-      </span>
-    </summary>
-    <p>Dalam prakiraan cuaca dan berita alam, 雪 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>雪<rt>ゆき</rt></ruby></span> - salju</li>
-      <li><span class="ruby-word"><ruby>大雪<rt>おおゆき</rt></ruby></span> - salju lebat</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">雪</span>
+    <span class="kanji-meta">
+      <strong>雪</strong>
+      <small>salju</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>Dalam prakiraan cuaca dan berita alam, 雪 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>雪<rt>ゆき</rt></ruby></span> - salju</li>
+    <li><span class="ruby-word"><ruby>大雪<rt>おおゆき</rt></ruby></span> - salju lebat</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">震</span>
-      <span class="kanji-meta">
-        <strong>震</strong>
-        <small>gempa, bergetar</small>
-        <span class="kanji-reading"><span>onyomi: シン</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam prakiraan cuaca dan berita alam, 震 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>地震<rt>じしん</rt></ruby></span> - gempa bumi</li>
-      <li><span class="ruby-word"><ruby>震度<rt>しんど</rt></ruby></span> - skala intensitas gempa</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">震</span>
+    <span class="kanji-meta">
+      <strong>震</strong>
+      <small>gempa, bergetar</small>
+      <span class="kanji-reading"><span>onyomi: シン</span>
+    </span>
+  </summary>
+  <p>Dalam prakiraan cuaca dan berita alam, 震 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>地震<rt>じしん</rt></ruby></span> - gempa bumi</li>
+    <li><span class="ruby-word"><ruby>震度<rt>しんど</rt></ruby></span> - skala intensitas gempa</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">波</span>
-      <span class="kanji-meta">
-        <strong>波</strong>
-        <small>gelombang</small>
-        <span class="kanji-reading"><span>onyomi: ハ</span><span>kunyomi: なみ</span></span>
-      </span>
-    </summary>
-    <p>Dalam prakiraan cuaca dan berita alam, 波 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>波<rt>なみ</rt></ruby></span> - ombak</li>
-      <li><span class="ruby-word"><ruby>津波<rt>つなみ</rt></ruby></span> - tsunami</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">波</span>
+    <span class="kanji-meta">
+      <strong>波</strong>
+      <small>gelombang</small>
+      <span class="kanji-reading"><span>onyomi: ハ</span>
+    </span>
+  </summary>
+  <p>Dalam prakiraan cuaca dan berita alam, 波 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>波<rt>なみ</rt></ruby></span> - ombak</li>
+    <li><span class="ruby-word"><ruby>津波<rt>つなみ</rt></ruby></span> - tsunami</li>
+  </ul>
+</details>
 </div>
-
 ## Peta Kata
 
 <div class="word-strip">

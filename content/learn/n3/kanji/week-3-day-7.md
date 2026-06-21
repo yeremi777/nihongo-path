@@ -46,123 +46,122 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 教育, 種類
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open>
-    <summary>
-      <span class="kanji-char">育</span>
-      <span class="kanji-meta">
-        <strong>育</strong>
-        <small>tumbuh, mendidik</small>
-        <span class="kanji-reading"><span>onyomi: イク</span><span>kunyomi: そだつ, そだてる</span></span>
-      </span>
-    </summary>
-    <p>育 berkaitan dengan pertumbuhan dan pendidikan. Dalam 教育, fokusnya proses mendidik.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>教育<rt>きょういく</rt></ruby></span> - pendidikan</li>
-      <li><span class="ruby-word"><ruby>育てる<rt>そだてる</rt></ruby></span> - membesarkan, menumbuhkan</li>
-      <li><span class="ruby-word"><ruby>育つ<rt>そだつ</rt></ruby></span> - tumbuh</li>
-    </ul>
-  </details>
+<details class="kanji-card" open>
+  <summary>
+    <span class="kanji-char">育</span>
+    <span class="kanji-meta">
+      <strong>育</strong>
+      <small>tumbuh, mendidik</small>
+      <span class="kanji-reading"><span>onyomi: イク</span>
+    </span>
+  </summary>
+  <p>育 berkaitan dengan pertumbuhan dan pendidikan. Dalam 教育, fokusnya proses mendidik.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>教育<rt>きょういく</rt></ruby></span> - pendidikan</li>
+    <li><span class="ruby-word"><ruby>育てる<rt>そだてる</rt></ruby></span> - membesarkan, menumbuhkan</li>
+    <li><span class="ruby-word"><ruby>育つ<rt>そだつ</rt></ruby></span> - tumbuh</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">種</span>
-      <span class="kanji-meta">
-        <strong>種</strong>
-        <small>jenis, biji</small>
-        <span class="kanji-reading"><span>onyomi: シュ</span><span>kunyomi: たね</span></span>
-      </span>
-    </summary>
-    <p>種 bisa berarti jenis atau biji. Dalam 種類, artinya kategori/jenis.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>種類<rt>しゅるい</rt></ruby></span> - jenis</li>
-      <li><span class="ruby-word"><ruby>種<rt>たね</rt></ruby></span> - biji</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">種</span>
+    <span class="kanji-meta">
+      <strong>種</strong>
+      <small>jenis, biji</small>
+      <span class="kanji-reading"><span>onyomi: シュ</span>
+    </span>
+  </summary>
+  <p>種 bisa berarti jenis atau biji. Dalam 種類, artinya kategori/jenis.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>種類<rt>しゅるい</rt></ruby></span> - jenis</li>
+    <li><span class="ruby-word"><ruby>種<rt>たね</rt></ruby></span> - biji</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">類</span>
-      <span class="kanji-meta">
-        <strong>類</strong>
-        <small>kategori, jenis</small>
-        <span class="kanji-reading"><span>onyomi: ルイ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>類 mengelompokkan benda/orang ke jenis tertentu. Sering muncul dalam dokumen dan klasifikasi.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>書類<rt>しょるい</rt></ruby></span> - dokumen</li>
-      <li><span class="ruby-word"><ruby>分類<rt>ぶんるい</rt></ruby></span> - klasifikasi</li>
-      <li><span class="ruby-word"><ruby>人類<rt>じんるい</rt></ruby></span> - umat manusia</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">類</span>
+    <span class="kanji-meta">
+      <strong>類</strong>
+      <small>kategori, jenis</small>
+      <span class="kanji-reading"><span>onyomi: ルイ</span>
+    </span>
+  </summary>
+  <p>類 mengelompokkan benda/orang ke jenis tertentu. Sering muncul dalam dokumen dan klasifikasi.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>書類<rt>しょるい</rt></ruby></span> - dokumen</li>
+    <li><span class="ruby-word"><ruby>分類<rt>ぶんるい</rt></ruby></span> - klasifikasi</li>
+    <li><span class="ruby-word"><ruby>人類<rt>じんるい</rt></ruby></span> - umat manusia</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">師</span>
-      <span class="kanji-meta">
-        <strong>師</strong>
-        <small>guru, ahli</small>
-        <span class="kanji-reading"><span>onyomi: シ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>師 menunjuk orang dengan keahlian atau profesi tertentu.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>教師<rt>きょうし</rt></ruby></span> - guru</li>
-      <li><span class="ruby-word"><ruby>医師<rt>いし</rt></ruby></span> - dokter</li>
-      <li><span class="ruby-word"><ruby>看護師<rt>かんごし</rt></ruby></span> - perawat</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">師</span>
+    <span class="kanji-meta">
+      <strong>師</strong>
+      <small>guru, ahli</small>
+      <span class="kanji-reading"><span>onyomi: シ</span>
+    </span>
+  </summary>
+  <p>師 menunjuk orang dengan keahlian atau profesi tertentu.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>教師<rt>きょうし</rt></ruby></span> - guru</li>
+    <li><span class="ruby-word"><ruby>医師<rt>いし</rt></ruby></span> - dokter</li>
+    <li><span class="ruby-word"><ruby>看護師<rt>かんごし</rt></ruby></span> - perawat</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">妻</span>
-      <span class="kanji-meta">
-        <strong>妻</strong>
-        <small>istri</small>
-        <span class="kanji-reading"><span>onyomi: サイ</span><span>kunyomi: つま</span></span>
-      </span>
-    </summary>
-    <p>妻 berarti istri. Dalam 夫妻, kanji ini muncul bersama 夫 untuk pasangan suami-istri.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>妻<rt>つま</rt></ruby></span> - istri</li>
-      <li><span class="ruby-word"><ruby>夫妻<rt>ふさい</rt></ruby></span> - suami istri</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">妻</span>
+    <span class="kanji-meta">
+      <strong>妻</strong>
+      <small>istri</small>
+      <span class="kanji-reading"><span>onyomi: サイ</span>
+    </span>
+  </summary>
+  <p>妻 berarti istri. Dalam 夫妻, kanji ini muncul bersama 夫 untuk pasangan suami-istri.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>妻<rt>つま</rt></ruby></span> - istri</li>
+    <li><span class="ruby-word"><ruby>夫妻<rt>ふさい</rt></ruby></span> - suami istri</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">馬</span>
-      <span class="kanji-meta">
-        <strong>馬</strong>
-        <small>kuda</small>
-        <span class="kanji-reading"><span>onyomi: バ</span><span>kunyomi: うま</span></span>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">馬</span>
+    <span class="kanji-meta">
+      <strong>馬</strong>
+      <small>kuda</small>
+      <span class="kanji-reading"><span>onyomi: バ</span><span>kunyomi: うま</span></span>
       </span>
     </summary>
-    <p>馬 berarti kuda. Dalam 乗馬, artinya berkuda.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>馬<rt>うま</rt></ruby></span> - kuda</li>
-      <li><span class="ruby-word"><ruby>乗馬<rt>じょうば</rt></ruby></span> - berkuda</li>
-    </ul>
-  </details>
+    <p>馬 muncul pada topik hewan dan transportasi berkuda. Saat melihat 乗馬, fokus pada kegiatan naik atau menunggang kuda.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>馬<rt>うま</rt></ruby></span> - kuda</li>
+    <li><span class="ruby-word"><ruby>乗馬<rt>じょうば</rt></ruby></span> - berkuda</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">石</span>
-      <span class="kanji-meta">
-        <strong>石</strong>
-        <small>batu</small>
-        <span class="kanji-reading"><span>onyomi: セキ</span><span>kunyomi: いし</span></span>
-      </span>
-    </summary>
-    <p>石 berarti batu, tetapi juga muncul dalam kata bahan seperti 石油 dan 石けん.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>石<rt>いし</rt></ruby></span> - batu</li>
-      <li><span class="ruby-word"><ruby>石油<rt>せきゆ</rt></ruby></span> - minyak bumi</li>
-      <li><span class="ruby-word"><ruby>石けん<rt>せっけん</rt></ruby></span> - sabun</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">石</span>
+    <span class="kanji-meta">
+      <strong>石</strong>
+      <small>batu</small>
+      <span class="kanji-reading"><span>onyomi: セキ</span>
+    </span>
+  </summary>
+  <p>石 berarti batu, tetapi juga muncul dalam kata bahan seperti 石油 dan 石けん.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>石<rt>いし</rt></ruby></span> - batu</li>
+    <li><span class="ruby-word"><ruby>石油<rt>せきゆ</rt></ruby></span> - minyak bumi</li>
+    <li><span class="ruby-word"><ruby>石けん<rt>せっけん</rt></ruby></span> - sabun</li>
+  </ul>
+</details>
 </div>
-
 ## Peta Kata
 
 Kata-kata hari ini tersebar di beberapa konteks umum. 育 berkaitan dengan mendidik/menumbuhkan, 種類 dan 類 mengelompokkan benda, 師 menunjuk profesi ahli, 妻 adalah keluarga, sedangkan 馬 dan 石 muncul pada benda atau bahan yang mudah ditemui.

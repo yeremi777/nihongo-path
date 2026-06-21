@@ -47,135 +47,134 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 砂糖、砂�
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open>
-    <summary>
-      <span class="kanji-char">砂</span>
-      <span class="kanji-meta">
-        <strong>砂</strong>
-        <small>pasir, gula</small>
-        <span class="kanji-reading"><span>onyomi: サ</span><span>kunyomi: すな</span></span>
-      </span>
-    </summary>
-    <p>Pada label bahan makanan dan daftar belanja, 砂 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>砂糖<rt>さとう</rt></ruby></span> - gula</li>
-      <li><span class="ruby-word"><ruby>砂<rt>すな</rt></ruby></span> - pasir</li>
-    </ul>
-  </details>
+<details class="kanji-card" open>
+  <summary>
+    <span class="kanji-char">砂</span>
+    <span class="kanji-meta">
+      <strong>砂</strong>
+      <small>pasir, gula</small>
+      <span class="kanji-reading"><span>onyomi: サ</span>
+    </span>
+  </summary>
+  <p>Pada label bahan makanan dan daftar belanja, 砂 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>砂糖<rt>さとう</rt></ruby></span> - gula</li>
+    <li><span class="ruby-word"><ruby>砂<rt>すな</rt></ruby></span> - pasir</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">塩</span>
-      <span class="kanji-meta">
-        <strong>塩</strong>
-        <small>garam</small>
-        <span class="kanji-reading"><span>onyomi: エン</span><span>kunyomi: しお</span></span>
-      </span>
-    </summary>
-    <p>Pada label bahan makanan dan daftar belanja, 塩 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>食塩<rt>しょくえん</rt></ruby></span> - garam dapur</li>
-      <li><span class="ruby-word"><ruby>塩<rt>しお</rt></ruby></span> - garam</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">塩</span>
+    <span class="kanji-meta">
+      <strong>塩</strong>
+      <small>garam</small>
+      <span class="kanji-reading"><span>onyomi: エン</span>
+    </span>
+  </summary>
+  <p>Pada label bahan makanan dan daftar belanja, 塩 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>食塩<rt>しょくえん</rt></ruby></span> - garam dapur</li>
+    <li><span class="ruby-word"><ruby>塩<rt>しお</rt></ruby></span> - garam</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">油</span>
-      <span class="kanji-meta">
-        <strong>油</strong>
-        <small>minyak, lemak</small>
-        <span class="kanji-reading"><span>onyomi: ユ</span><span>kunyomi: あぶら</span></span>
-      </span>
-    </summary>
-    <p>Pada label bahan makanan dan daftar belanja, 油 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>しょう油<rt>しょうゆ</rt></ruby></span> - kecap asin</li>
-      <li><span class="ruby-word"><ruby>油<rt>あぶら</rt></ruby></span> - minyak</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">油</span>
+    <span class="kanji-meta">
+      <strong>油</strong>
+      <small>minyak, lemak</small>
+      <span class="kanji-reading"><span>onyomi: ユ</span>
+    </span>
+  </summary>
+  <p>Pada label bahan makanan dan daftar belanja, 油 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>しょう油<rt>しょうゆ</rt></ruby></span> - kecap asin</li>
+    <li><span class="ruby-word"><ruby>油<rt>あぶら</rt></ruby></span> - minyak</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">緑</span>
-      <span class="kanji-meta">
-        <strong>緑</strong>
-        <small>hijau</small>
-        <span class="kanji-reading"><span>onyomi: リョク</span><span>kunyomi: みどり</span></span>
-      </span>
-    </summary>
-    <p>Pada label bahan makanan dan daftar belanja, 緑 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>緑茶<rt>りょくちゃ</rt></ruby></span> - teh hijau</li>
-      <li><span class="ruby-word"><ruby>緑<rt>みどり</rt></ruby></span> - hijau</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">緑</span>
+    <span class="kanji-meta">
+      <strong>緑</strong>
+      <small>hijau</small>
+      <span class="kanji-reading"><span>onyomi: リョク</span>
+    </span>
+  </summary>
+  <p>Pada label bahan makanan dan daftar belanja, 緑 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>緑茶<rt>りょくちゃ</rt></ruby></span> - teh hijau</li>
+    <li><span class="ruby-word"><ruby>緑<rt>みどり</rt></ruby></span> - hijau</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">紅</span>
-      <span class="kanji-meta">
-        <strong>紅</strong>
-        <small>merah tua</small>
-        <span class="kanji-reading"><span>onyomi: コウ</span><span>kunyomi: べに</span></span>
-      </span>
-    </summary>
-    <p>Pada label bahan makanan dan daftar belanja, 紅 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>紅茶<rt>こうちゃ</rt></ruby></span> - teh hitam</li>
-      <li><span class="ruby-word"><ruby>口紅<rt>くちべに</rt></ruby></span> - lipstik</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">紅</span>
+    <span class="kanji-meta">
+      <strong>紅</strong>
+      <small>merah tua</small>
+      <span class="kanji-reading"><span>onyomi: コウ</span>
+    </span>
+  </summary>
+  <p>Pada label bahan makanan dan daftar belanja, 紅 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>紅茶<rt>こうちゃ</rt></ruby></span> - teh hitam</li>
+    <li><span class="ruby-word"><ruby>口紅<rt>くちべに</rt></ruby></span> - lipstik</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">冊</span>
-      <span class="kanji-meta">
-        <strong>冊</strong>
-        <small>satuan buku</small>
-        <span class="kanji-reading"><span>onyomi: サツ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Pada label bahan makanan dan daftar belanja, 冊 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>一冊<rt>いっさつ</rt></ruby></span> - satu buku</li>
-      <li><span class="ruby-word"><ruby>冊数<rt>さっすう</rt></ruby></span> - jumlah buku</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">冊</span>
+    <span class="kanji-meta">
+      <strong>冊</strong>
+      <small>satuan buku</small>
+      <span class="kanji-reading"><span>onyomi: サツ</span>
+    </span>
+  </summary>
+  <p>Pada label bahan makanan dan daftar belanja, 冊 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>一冊<rt>いっさつ</rt></ruby></span> - satu buku</li>
+    <li><span class="ruby-word"><ruby>冊数<rt>さっすう</rt></ruby></span> - jumlah buku</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">個</span>
-      <span class="kanji-meta">
-        <strong>個</strong>
-        <small>satuan benda umum</small>
-        <span class="kanji-reading"><span>onyomi: コ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Pada label bahan makanan dan daftar belanja, 個 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>一個<rt>いっこ</rt></ruby></span> - satu buah</li>
-      <li><span class="ruby-word"><ruby>個人<rt>こじん</rt></ruby></span> - individu</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">個</span>
+    <span class="kanji-meta">
+      <strong>個</strong>
+      <small>satuan benda umum</small>
+      <span class="kanji-reading"><span>onyomi: コ</span>
+    </span>
+  </summary>
+  <p>Pada label bahan makanan dan daftar belanja, 個 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>一個<rt>いっこ</rt></ruby></span> - satu buah</li>
+    <li><span class="ruby-word"><ruby>個人<rt>こじん</rt></ruby></span> - individu</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">枚</span>
-      <span class="kanji-meta">
-        <strong>枚</strong>
-        <small>satuan benda tipis</small>
-        <span class="kanji-reading"><span>onyomi: マイ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Pada label bahan makanan dan daftar belanja, 枚 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>一枚<rt>いちまい</rt></ruby></span> - satu lembar</li>
-      <li><span class="ruby-word"><ruby>枚数<rt>まいすう</rt></ruby></span> - jumlah lembar</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">枚</span>
+    <span class="kanji-meta">
+      <strong>枚</strong>
+      <small>satuan benda tipis</small>
+      <span class="kanji-reading"><span>onyomi: マイ</span>
+    </span>
+  </summary>
+  <p>Pada label bahan makanan dan daftar belanja, 枚 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>一枚<rt>いちまい</rt></ruby></span> - satu lembar</li>
+    <li><span class="ruby-word"><ruby>枚数<rt>まいすう</rt></ruby></span> - jumlah lembar</li>
+  </ul>
+</details>
 </div>
-
 ## Peta Kata
 
 <div class="word-strip">

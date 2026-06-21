@@ -47,135 +47,134 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 申し込む�
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open>
-    <summary>
-      <span class="kanji-char">申</span>
-      <span class="kanji-meta">
-        <strong>申</strong>
-        <small>melapor, mendaftar</small>
-        <span class="kanji-reading"><span>onyomi: シン</span><span>kunyomi: もうす</span></span>
-      </span>
-    </summary>
-    <p>Dalam formulir pendaftaran dan data pribadi, 申 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>申し込む<rt>もうしこむ</rt></ruby></span> - mendaftar</li>
-      <li><span class="ruby-word"><ruby>申込書<rt>もうしこみしょ</rt></ruby></span> - formulir pendaftaran</li>
-    </ul>
-  </details>
+<details class="kanji-card" open>
+  <summary>
+    <span class="kanji-char">申</span>
+    <span class="kanji-meta">
+      <strong>申</strong>
+      <small>melapor, mendaftar</small>
+      <span class="kanji-reading"><span>onyomi: シン</span>
+    </span>
+  </summary>
+  <p>Dalam formulir pendaftaran dan data pribadi, 申 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>申し込む<rt>もうしこむ</rt></ruby></span> - mendaftar</li>
+    <li><span class="ruby-word"><ruby>申込書<rt>もうしこみしょ</rt></ruby></span> - formulir pendaftaran</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">記</span>
-      <span class="kanji-meta">
-        <strong>記</strong>
-        <small>mencatat, menulis</small>
-        <span class="kanji-reading"><span>onyomi: キ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam formulir pendaftaran dan data pribadi, 記 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>記入<rt>きにゅう</rt></ruby></span> - pengisian</li>
-      <li><span class="ruby-word"><ruby>日記<rt>にっき</rt></ruby></span> - buku harian</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">記</span>
+    <span class="kanji-meta">
+      <strong>記</strong>
+      <small>mencatat, menulis</small>
+      <span class="kanji-reading"><span>onyomi: キ</span>
+    </span>
+  </summary>
+  <p>Dalam formulir pendaftaran dan data pribadi, 記 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>記入<rt>きにゅう</rt></ruby></span> - pengisian</li>
+    <li><span class="ruby-word"><ruby>日記<rt>にっき</rt></ruby></span> - buku harian</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">例</span>
-      <span class="kanji-meta">
-        <strong>例</strong>
-        <small>contoh</small>
-        <span class="kanji-reading"><span>onyomi: レイ</span><span>kunyomi: たとえる</span></span>
-      </span>
-    </summary>
-    <p>Dalam formulir pendaftaran dan data pribadi, 例 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>例<rt>れい</rt></ruby></span> - contoh</li>
-      <li><span class="ruby-word"><ruby>例えば<rt>たとえば</rt></ruby></span> - misalnya</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">例</span>
+    <span class="kanji-meta">
+      <strong>例</strong>
+      <small>contoh</small>
+      <span class="kanji-reading"><span>onyomi: レイ</span>
+    </span>
+  </summary>
+  <p>Dalam formulir pendaftaran dan data pribadi, 例 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>例<rt>れい</rt></ruby></span> - contoh</li>
+    <li><span class="ruby-word"><ruby>例えば<rt>たとえば</rt></ruby></span> - misalnya</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">齢</span>
-      <span class="kanji-meta">
-        <strong>齢</strong>
-        <small>usia</small>
-        <span class="kanji-reading"><span>onyomi: レイ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam formulir pendaftaran dan data pribadi, 齢 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>年齢<rt>ねんれい</rt></ruby></span> - umur</li>
-      <li><span class="ruby-word"><ruby>高齢<rt>こうれい</rt></ruby></span> - lanjut usia</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">齢</span>
+    <span class="kanji-meta">
+      <strong>齢</strong>
+      <small>usia</small>
+      <span class="kanji-reading"><span>onyomi: レイ</span>
+    </span>
+  </summary>
+  <p>Dalam formulir pendaftaran dan data pribadi, 齢 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>年齢<rt>ねんれい</rt></ruby></span> - umur</li>
+    <li><span class="ruby-word"><ruby>高齢<rt>こうれい</rt></ruby></span> - lanjut usia</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">歳</span>
-      <span class="kanji-meta">
-        <strong>歳</strong>
-        <small>tahun usia</small>
-        <span class="kanji-reading"><span>onyomi: サイ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam formulir pendaftaran dan data pribadi, 歳 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>二十歳<rt>はたち</rt></ruby></span> - 20 tahun</li>
-      <li><span class="ruby-word"><ruby>三歳<rt>さんさい</rt></ruby></span> - 3 tahun</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">歳</span>
+    <span class="kanji-meta">
+      <strong>歳</strong>
+      <small>tahun usia</small>
+      <span class="kanji-reading"><span>onyomi: サイ</span>
+    </span>
+  </summary>
+  <p>Dalam formulir pendaftaran dan data pribadi, 歳 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>二十歳<rt>はたち</rt></ruby></span> - 20 tahun</li>
+    <li><span class="ruby-word"><ruby>三歳<rt>さんさい</rt></ruby></span> - 3 tahun</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">性</span>
-      <span class="kanji-meta">
-        <strong>性</strong>
-        <small>jenis, sifat</small>
-        <span class="kanji-reading"><span>onyomi: セイ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam formulir pendaftaran dan data pribadi, 性 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>性別<rt>せいべつ</rt></ruby></span> - jenis kelamin</li>
-      <li><span class="ruby-word"><ruby>性格<rt>せいかく</rt></ruby></span> - kepribadian</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">性</span>
+    <span class="kanji-meta">
+      <strong>性</strong>
+      <small>jenis, sifat</small>
+      <span class="kanji-reading"><span>onyomi: セイ</span>
+    </span>
+  </summary>
+  <p>Dalam formulir pendaftaran dan data pribadi, 性 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>性別<rt>せいべつ</rt></ruby></span> - jenis kelamin</li>
+    <li><span class="ruby-word"><ruby>性格<rt>せいかく</rt></ruby></span> - kepribadian</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">連</span>
-      <span class="kanji-meta">
-        <strong>連</strong>
-        <small>menghubungkan, membawa</small>
-        <span class="kanji-reading"><span>onyomi: レン</span><span>kunyomi: つれる</span></span>
-      </span>
-    </summary>
-    <p>Dalam formulir pendaftaran dan data pribadi, 連 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>連絡<rt>れんらく</rt></ruby></span> - kontak</li>
-      <li><span class="ruby-word"><ruby>連休<rt>れんきゅう</rt></ruby></span> - libur beruntun</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">連</span>
+    <span class="kanji-meta">
+      <strong>連</strong>
+      <small>menghubungkan, membawa</small>
+      <span class="kanji-reading"><span>onyomi: レン</span>
+    </span>
+  </summary>
+  <p>Dalam formulir pendaftaran dan data pribadi, 連 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>連絡<rt>れんらく</rt></ruby></span> - kontak</li>
+    <li><span class="ruby-word"><ruby>連休<rt>れんきゅう</rt></ruby></span> - libur beruntun</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">絡</span>
-      <span class="kanji-meta">
-        <strong>絡</strong>
-        <small>kontak, hubungan</small>
-        <span class="kanji-reading"><span>onyomi: ラク</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam formulir pendaftaran dan data pribadi, 絡 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>連絡<rt>れんらく</rt></ruby></span> - kontak</li>
-      <li><span class="ruby-word"><ruby>連絡先<rt>れんらくさき</rt></ruby></span> - alamat kontak</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">絡</span>
+    <span class="kanji-meta">
+      <strong>絡</strong>
+      <small>kontak, hubungan</small>
+      <span class="kanji-reading"><span>onyomi: ラク</span>
+    </span>
+  </summary>
+  <p>Dalam formulir pendaftaran dan data pribadi, 絡 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>連絡<rt>れんらく</rt></ruby></span> - kontak</li>
+    <li><span class="ruby-word"><ruby>連絡先<rt>れんらくさき</rt></ruby></span> - alamat kontak</li>
+  </ul>
+</details>
 </div>
-
 ## Peta Kata
 
 <div class="word-strip">

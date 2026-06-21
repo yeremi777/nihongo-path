@@ -91,6 +91,21 @@ const auditKanjiFile = (file, text) => {
     if (!card.includes('class="kanji-reading"')) {
       error(`${cardLabel} is missing .kanji-reading`)
     }
+
+    const cardListItems = card.match(/<li>[\s\S]*?<\/li>/g) ?? []
+    for (const [itemIndex, item] of cardListItems.entries()) {
+      if (!item.includes('class="ruby-word"')) {
+        error(`${cardLabel} list item ${itemIndex + 1} must use ruby-word with <ruby><rt>`)
+      }
+      if (!item.includes(' - ')) {
+        error(`${cardLabel} list item ${itemIndex + 1} is missing an Indonesian gloss after the example word`)
+      }
+    }
+
+    const cardParagraph = card.match(/<p>([\s\S]*?)<\/p>/)?.[1]?.replace(/<[^>]+>/g, '').trim() ?? ''
+    if (cardParagraph.length < 45) {
+      error(`${cardLabel} explanation is too short; add context like when/where the kanji appears`)
+    }
   }
 
   const contohSection = section(text, 'Contoh Kalimat')

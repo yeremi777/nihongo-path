@@ -47,135 +47,134 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 調査、調�
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open>
-    <summary>
-      <span class="kanji-char">調</span>
-      <span class="kanji-meta">
-        <strong>調</strong>
-        <small>menyelidiki, kondisi</small>
-        <span class="kanji-reading"><span>onyomi: チョウ</span><span>kunyomi: しらべる</span></span>
-      </span>
-    </summary>
-    <p>Dalam survei dan kuesioner, 調 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>調査<rt>ちょうさ</rt></ruby></span> - survei</li>
-      <li><span class="ruby-word"><ruby>調子<rt>ちょうし</rt></ruby></span> - kondisi</li>
-    </ul>
-  </details>
+<details class="kanji-card" open>
+  <summary>
+    <span class="kanji-char">調</span>
+    <span class="kanji-meta">
+      <strong>調</strong>
+      <small>menyelidiki, kondisi</small>
+      <span class="kanji-reading"><span>onyomi: チョウ</span>
+    </span>
+  </summary>
+  <p>Dalam survei dan kuesioner, 調 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>調査<rt>ちょうさ</rt></ruby></span> - survei</li>
+    <li><span class="ruby-word"><ruby>調子<rt>ちょうし</rt></ruby></span> - kondisi</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">査</span>
-      <span class="kanji-meta">
-        <strong>査</strong>
-        <small>memeriksa</small>
-        <span class="kanji-reading"><span>onyomi: サ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam survei dan kuesioner, 査 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>調査<rt>ちょうさ</rt></ruby></span> - survei</li>
-      <li><span class="ruby-word"><ruby>検査<rt>けんさ</rt></ruby></span> - pemeriksaan</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">査</span>
+    <span class="kanji-meta">
+      <strong>査</strong>
+      <small>memeriksa</small>
+      <span class="kanji-reading"><span>onyomi: サ</span>
+    </span>
+  </summary>
+  <p>Dalam survei dan kuesioner, 査 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>調査<rt>ちょうさ</rt></ruby></span> - survei</li>
+    <li><span class="ruby-word"><ruby>検査<rt>けんさ</rt></ruby></span> - pemeriksaan</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">移</span>
-      <span class="kanji-meta">
-        <strong>移</strong>
-        <small>berpindah</small>
-        <span class="kanji-reading"><span>onyomi: イ</span><span>kunyomi: うつる, うつす</span></span>
-      </span>
-    </summary>
-    <p>Dalam survei dan kuesioner, 移 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>移動<rt>いどう</rt></ruby></span> - perpindahan</li>
-      <li><span class="ruby-word"><ruby>移る<rt>うつる</rt></ruby></span> - berpindah</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">移</span>
+    <span class="kanji-meta">
+      <strong>移</strong>
+      <small>berpindah</small>
+      <span class="kanji-reading"><span>onyomi: イ</span>
+    </span>
+  </summary>
+  <p>Dalam survei dan kuesioner, 移 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>移動<rt>いどう</rt></ruby></span> - perpindahan</li>
+    <li><span class="ruby-word"><ruby>移る<rt>うつる</rt></ruby></span> - berpindah</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">難</span>
-      <span class="kanji-meta">
-        <strong>難</strong>
-        <small>sulit</small>
-        <span class="kanji-reading"><span>onyomi: ナン</span><span>kunyomi: むずかしい</span></span>
-      </span>
-    </summary>
-    <p>Dalam survei dan kuesioner, 難 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>難しい<rt>むずかしい</rt></ruby></span> - sulit</li>
-      <li><span class="ruby-word"><ruby>困難<rt>こんなん</rt></ruby></span> - kesulitan</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">難</span>
+    <span class="kanji-meta">
+      <strong>難</strong>
+      <small>sulit</small>
+      <span class="kanji-reading"><span>onyomi: ナン</span>
+    </span>
+  </summary>
+  <p>Dalam survei dan kuesioner, 難 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>難しい<rt>むずかしい</rt></ruby></span> - sulit</li>
+    <li><span class="ruby-word"><ruby>困難<rt>こんなん</rt></ruby></span> - kesulitan</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">簡</span>
-      <span class="kanji-meta">
-        <strong>簡</strong>
-        <small>sederhana</small>
-        <span class="kanji-reading"><span>onyomi: カン</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam survei dan kuesioner, 簡 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>簡単<rt>かんたん</rt></ruby></span> - mudah</li>
-      <li><span class="ruby-word"><ruby>簡単な<rt>かんたんな</rt></ruby></span> - sederhana</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">簡</span>
+    <span class="kanji-meta">
+      <strong>簡</strong>
+      <small>sederhana</small>
+      <span class="kanji-reading"><span>onyomi: カン</span>
+    </span>
+  </summary>
+  <p>Dalam survei dan kuesioner, 簡 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>簡単<rt>かんたん</rt></ruby></span> - mudah</li>
+    <li><span class="ruby-word"><ruby>簡単な<rt>かんたんな</rt></ruby></span> - sederhana</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">単</span>
-      <span class="kanji-meta">
-        <strong>単</strong>
-        <small>tunggal, sederhana</small>
-        <span class="kanji-reading"><span>onyomi: タン</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam survei dan kuesioner, 単 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>単語<rt>たんご</rt></ruby></span> - kosakata</li>
-      <li><span class="ruby-word"><ruby>単位<rt>たんい</rt></ruby></span> - satuan kredit/unit</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">単</span>
+    <span class="kanji-meta">
+      <strong>単</strong>
+      <small>tunggal, sederhana</small>
+      <span class="kanji-reading"><span>onyomi: タン</span>
+    </span>
+  </summary>
+  <p>Dalam survei dan kuesioner, 単 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>単語<rt>たんご</rt></ruby></span> - kosakata</li>
+    <li><span class="ruby-word"><ruby>単位<rt>たんい</rt></ruby></span> - satuan kredit/unit</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">感</span>
-      <span class="kanji-meta">
-        <strong>感</strong>
-        <small>perasaan, kesan</small>
-        <span class="kanji-reading"><span>onyomi: カン</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam survei dan kuesioner, 感 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>感じる<rt>かんじる</rt></ruby></span> - merasa</li>
-      <li><span class="ruby-word"><ruby>感動<rt>かんどう</rt></ruby></span> - terharu</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">感</span>
+    <span class="kanji-meta">
+      <strong>感</strong>
+      <small>perasaan, kesan</small>
+      <span class="kanji-reading"><span>onyomi: カン</span>
+    </span>
+  </summary>
+  <p>Dalam survei dan kuesioner, 感 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>感じる<rt>かんじる</rt></ruby></span> - merasa</li>
+    <li><span class="ruby-word"><ruby>感動<rt>かんどう</rt></ruby></span> - terharu</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">想</span>
-      <span class="kanji-meta">
-        <strong>想</strong>
-        <small>pikiran, bayangan</small>
-        <span class="kanji-reading"><span>onyomi: ソウ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam survei dan kuesioner, 想 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>感想<rt>かんそう</rt></ruby></span> - kesan</li>
-      <li><span class="ruby-word"><ruby>予想<rt>よそう</rt></ruby></span> - prediksi</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">想</span>
+    <span class="kanji-meta">
+      <strong>想</strong>
+      <small>pikiran, bayangan</small>
+      <span class="kanji-reading"><span>onyomi: ソウ</span>
+    </span>
+  </summary>
+  <p>Dalam survei dan kuesioner, 想 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>感想<rt>かんそう</rt></ruby></span> - kesan</li>
+    <li><span class="ruby-word"><ruby>予想<rt>よそう</rt></ruby></span> - prediksi</li>
+  </ul>
+</details>
 </div>
-
 ## Peta Kata
 
 <div class="word-strip">

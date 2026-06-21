@@ -47,140 +47,139 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 困る, 消防
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open>
-    <summary>
-      <span class="kanji-char">困</span>
-      <span class="kanji-meta">
-        <strong>困</strong>
-        <small>kesulitan, bingung</small>
-        <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: こまる</span></span>
-      </span>
-    </summary>
-    <p>困 dipakai ketika seseorang berada dalam masalah atau tidak tahu harus melakukan apa.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>困る<rt>こまる</rt></ruby></span> - kesulitan, bingung</li>
-      <li><span class="ruby-word"><ruby>困った時<rt>こまったとき</rt></ruby></span> - saat kesulitan</li>
-    </ul>
-  </details>
+<details class="kanji-card" open>
+  <summary>
+    <span class="kanji-char">困</span>
+    <span class="kanji-meta">
+      <strong>困</strong>
+      <small>kesulitan, bingung</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>困 dipakai ketika seseorang berada dalam masalah atau tidak tahu harus melakukan apa.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>困る<rt>こまる</rt></ruby></span> - kesulitan, bingung</li>
+    <li><span class="ruby-word"><ruby>困った時<rt>こまったとき</rt></ruby></span> - saat kesulitan</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">消</span>
-      <span class="kanji-meta">
-        <strong>消</strong>
-        <small>padam, hilang, menghapus</small>
-        <span class="kanji-reading"><span>onyomi: ショウ</span><span>kunyomi: きえる, けす</span></span>
-      </span>
-    </summary>
-    <p>消 bisa berarti memadamkan, hilang, atau menghapus. Dalam 消防, fokusnya pemadaman.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>消防<rt>しょうぼう</rt></ruby></span> - pemadam kebakaran</li>
-      <li><span class="ruby-word"><ruby>消す<rt>けす</rt></ruby></span> - memadamkan, menghapus</li>
-      <li><span class="ruby-word"><ruby>消える<rt>きえる</rt></ruby></span> - padam, hilang</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">消</span>
+    <span class="kanji-meta">
+      <strong>消</strong>
+      <small>padam, hilang, menghapus</small>
+      <span class="kanji-reading"><span>onyomi: ショウ</span>
+    </span>
+  </summary>
+  <p>消 bisa berarti memadamkan, hilang, atau menghapus. Dalam 消防, fokusnya pemadaman.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>消防<rt>しょうぼう</rt></ruby></span> - pemadam kebakaran</li>
+    <li><span class="ruby-word"><ruby>消す<rt>けす</rt></ruby></span> - memadamkan, menghapus</li>
+    <li><span class="ruby-word"><ruby>消える<rt>きえる</rt></ruby></span> - padam, hilang</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">防</span>
-      <span class="kanji-meta">
-        <strong>防</strong>
-        <small>mencegah, melindungi</small>
-        <span class="kanji-reading"><span>onyomi: ボウ</span><span>kunyomi: ふせぐ</span></span>
-      </span>
-    </summary>
-    <p>防 memberi rasa mencegah atau bertahan dari bahaya. Bergabung dengan 消 menjadi 消防.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>予防<rt>よぼう</rt></ruby></span> - pencegahan</li>
-      <li><span class="ruby-word"><ruby>防ぐ<rt>ふせぐ</rt></ruby></span> - mencegah</li>
-      <li><span class="ruby-word"><ruby>消防<rt>しょうぼう</rt></ruby></span> - pemadam kebakaran</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">防</span>
+    <span class="kanji-meta">
+      <strong>防</strong>
+      <small>mencegah, melindungi</small>
+      <span class="kanji-reading"><span>onyomi: ボウ</span>
+    </span>
+  </summary>
+  <p>防 memberi rasa mencegah atau bertahan dari bahaya. Bergabung dengan 消 menjadi 消防.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>予防<rt>よぼう</rt></ruby></span> - pencegahan</li>
+    <li><span class="ruby-word"><ruby>防ぐ<rt>ふせぐ</rt></ruby></span> - mencegah</li>
+    <li><span class="ruby-word"><ruby>消防<rt>しょうぼう</rt></ruby></span> - pemadam kebakaran</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">救</span>
-      <span class="kanji-meta">
-        <strong>救</strong>
-        <small>menolong, menyelamatkan</small>
-        <span class="kanji-reading"><span>onyomi: キュウ</span><span>kunyomi: すくう</span></span>
-      </span>
-    </summary>
-    <p>救 muncul pada bantuan darurat dan tindakan menyelamatkan.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>救急車<rt>きゅうきゅうしゃ</rt></ruby></span> - ambulans</li>
-      <li><span class="ruby-word"><ruby>救う<rt>すくう</rt></ruby></span> - menolong, menyelamatkan</li>
-      <li><span class="ruby-word"><ruby>救助<rt>きゅうじょ</rt></ruby></span> - penyelamatan</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">救</span>
+    <span class="kanji-meta">
+      <strong>救</strong>
+      <small>menolong, menyelamatkan</small>
+      <span class="kanji-reading"><span>onyomi: キュウ</span>
+    </span>
+  </summary>
+  <p>救 muncul pada bantuan darurat dan tindakan menyelamatkan.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>救急車<rt>きゅうきゅうしゃ</rt></ruby></span> - ambulans</li>
+    <li><span class="ruby-word"><ruby>救う<rt>すくう</rt></ruby></span> - menolong, menyelamatkan</li>
+    <li><span class="ruby-word"><ruby>救助<rt>きゅうじょ</rt></ruby></span> - penyelamatan</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">警</span>
-      <span class="kanji-meta">
-        <strong>警</strong>
-        <small>peringatan, polisi</small>
-        <span class="kanji-reading"><span>onyomi: ケイ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>警 memberi rasa waspada atau polisi. Dalam 警察, artinya institusi kepolisian.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>警官<rt>けいかん</rt></ruby></span> - polisi</li>
-      <li><span class="ruby-word"><ruby>警察<rt>けいさつ</rt></ruby></span> - polisi</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">警</span>
+    <span class="kanji-meta">
+      <strong>警</strong>
+      <small>peringatan, polisi</small>
+      <span class="kanji-reading"><span>onyomi: ケイ</span>
+    </span>
+  </summary>
+  <p>警 memberi rasa waspada atau polisi. Dalam 警察, artinya institusi kepolisian.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>警官<rt>けいかん</rt></ruby></span> - polisi</li>
+    <li><span class="ruby-word"><ruby>警察<rt>けいさつ</rt></ruby></span> - polisi</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">察</span>
-      <span class="kanji-meta">
-        <strong>察</strong>
-        <small>memeriksa, menyelidiki</small>
-        <span class="kanji-reading"><span>onyomi: サツ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>察 muncul dalam kata yang berkaitan dengan pengamatan atau penyelidikan, terutama 警察.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>警察<rt>けいさつ</rt></ruby></span> - polisi</li>
-      <li><span class="ruby-word"><ruby>警察署<rt>けいさつしょ</rt></ruby></span> - kantor polisi</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">察</span>
+    <span class="kanji-meta">
+      <strong>察</strong>
+      <small>memeriksa, menyelidiki</small>
+      <span class="kanji-reading"><span>onyomi: サツ</span>
+    </span>
+  </summary>
+  <p>察 muncul dalam kata yang berkaitan dengan pengamatan atau penyelidikan, terutama 警察.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>警察<rt>けいさつ</rt></ruby></span> - polisi</li>
+    <li><span class="ruby-word"><ruby>警察署<rt>けいさつしょ</rt></ruby></span> - kantor polisi</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">故</span>
-      <span class="kanji-meta">
-        <strong>故</strong>
-        <small>sebab, kecelakaan, gangguan</small>
-        <span class="kanji-reading"><span>onyomi: コ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>故 memberi rasa sebab atau kejadian tidak beres. Dalam 事故 dan 故障, maknanya berbeda menurut pasangan kanjinya.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>事故<rt>じこ</rt></ruby></span> - kecelakaan</li>
-      <li><span class="ruby-word"><ruby>故障<rt>こしょう</rt></ruby></span> - kerusakan</li>
-      <li><span class="ruby-word"><ruby>故人<rt>こじん</rt></ruby></span> - almarhum</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">故</span>
+    <span class="kanji-meta">
+      <strong>故</strong>
+      <small>sebab, kecelakaan, gangguan</small>
+      <span class="kanji-reading"><span>onyomi: コ</span>
+    </span>
+  </summary>
+  <p>故 memberi rasa sebab atau kejadian tidak beres. Dalam 事故 dan 故障, maknanya berbeda menurut pasangan kanjinya.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>事故<rt>じこ</rt></ruby></span> - kecelakaan</li>
+    <li><span class="ruby-word"><ruby>故障<rt>こしょう</rt></ruby></span> - kerusakan</li>
+    <li><span class="ruby-word"><ruby>故人<rt>こじん</rt></ruby></span> - almarhum</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">伝</span>
-      <span class="kanji-meta">
-        <strong>伝</strong>
-        <small>menyampaikan, meneruskan</small>
-        <span class="kanji-reading"><span>onyomi: デン</span><span>kunyomi: つたえる</span></span>
-      </span>
-    </summary>
-    <p>伝 dipakai saat informasi atau bantuan diteruskan kepada orang lain.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>伝言<rt>でんごん</rt></ruby></span> - pesan titipan</li>
-      <li><span class="ruby-word"><ruby>伝える<rt>つたえる</rt></ruby></span> - menyampaikan</li>
-      <li><span class="ruby-word"><ruby>手伝う<rt>てつだう</rt></ruby></span> - membantu</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">伝</span>
+    <span class="kanji-meta">
+      <strong>伝</strong>
+      <small>menyampaikan, meneruskan</small>
+      <span class="kanji-reading"><span>onyomi: デン</span>
+    </span>
+  </summary>
+  <p>伝 dipakai saat informasi atau bantuan diteruskan kepada orang lain.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>伝言<rt>でんごん</rt></ruby></span> - pesan titipan</li>
+    <li><span class="ruby-word"><ruby>伝える<rt>つたえる</rt></ruby></span> - menyampaikan</li>
+    <li><span class="ruby-word"><ruby>手伝う<rt>てつだう</rt></ruby></span> - membantu</li>
+  </ul>
+</details>
 </div>
-
 ## Peta Kata
 
 Kata-kata hari ini membentuk alur saat ada masalah. 困る adalah kondisi kesulitan, 消防 dan 救急車 adalah bantuan, 警察 adalah pihak berwenang, 事故・故障 menjelaskan penyebab, dan 伝言/伝える dipakai untuk menyampaikan pesan.

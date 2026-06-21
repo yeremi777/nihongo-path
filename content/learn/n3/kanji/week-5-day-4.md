@@ -47,135 +47,134 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 昨日、昨�
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open>
-    <summary>
-      <span class="kanji-char">昨</span>
-      <span class="kanji-meta">
-        <strong>昨</strong>
-        <small>kemarin, yang lalu</small>
-        <span class="kanji-reading"><span>onyomi: サク</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam karangan pendek dan cerita pengalaman, 昨 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>昨日<rt>きのう</rt></ruby></span> - kemarin</li>
-      <li><span class="ruby-word"><ruby>昨年<rt>さくねん</rt></ruby></span> - tahun lalu</li>
-    </ul>
-  </details>
+<details class="kanji-card" open>
+  <summary>
+    <span class="kanji-char">昨</span>
+    <span class="kanji-meta">
+      <strong>昨</strong>
+      <small>kemarin, yang lalu</small>
+      <span class="kanji-reading"><span>onyomi: サク</span>
+    </span>
+  </summary>
+  <p>Dalam karangan pendek dan cerita pengalaman, 昨 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>昨日<rt>きのう</rt></ruby></span> - kemarin</li>
+    <li><span class="ruby-word"><ruby>昨年<rt>さくねん</rt></ruby></span> - tahun lalu</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">君</span>
-      <span class="kanji-meta">
-        <strong>君</strong>
-        <small>kamu, sapaan pria</small>
-        <span class="kanji-reading"><span>onyomi: クン</span><span>kunyomi: きみ</span></span>
-      </span>
-    </summary>
-    <p>Dalam karangan pendek dan cerita pengalaman, 君 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>君<rt>きみ</rt></ruby></span> - kamu</li>
-      <li><span class="ruby-word"><ruby>田中君<rt>たなかくん</rt></ruby></span> - Tanaka-kun</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">君</span>
+    <span class="kanji-meta">
+      <strong>君</strong>
+      <small>kamu, sapaan pria</small>
+      <span class="kanji-reading"><span>onyomi: クン</span>
+    </span>
+  </summary>
+  <p>Dalam karangan pendek dan cerita pengalaman, 君 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>君<rt>きみ</rt></ruby></span> - kamu</li>
+    <li><span class="ruby-word"><ruby>田中君<rt>たなかくん</rt></ruby></span> - Tanaka-kun</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">結</span>
-      <span class="kanji-meta">
-        <strong>結</strong>
-        <small>mengikat, menyimpulkan</small>
-        <span class="kanji-reading"><span>onyomi: ケツ</span><span>kunyomi: むすぶ</span></span>
-      </span>
-    </summary>
-    <p>Dalam karangan pendek dan cerita pengalaman, 結 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>結婚<rt>けっこん</rt></ruby></span> - pernikahan</li>
-      <li><span class="ruby-word"><ruby>結局<rt>けっきょく</rt></ruby></span> - akhirnya</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">結</span>
+    <span class="kanji-meta">
+      <strong>結</strong>
+      <small>mengikat, menyimpulkan</small>
+      <span class="kanji-reading"><span>onyomi: ケツ</span>
+    </span>
+  </summary>
+  <p>Dalam karangan pendek dan cerita pengalaman, 結 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>結婚<rt>けっこん</rt></ruby></span> - pernikahan</li>
+    <li><span class="ruby-word"><ruby>結局<rt>けっきょく</rt></ruby></span> - akhirnya</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">婚</span>
-      <span class="kanji-meta">
-        <strong>婚</strong>
-        <small>pernikahan</small>
-        <span class="kanji-reading"><span>onyomi: コン</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam karangan pendek dan cerita pengalaman, 婚 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>結婚<rt>けっこん</rt></ruby></span> - menikah</li>
-      <li><span class="ruby-word"><ruby>婚約<rt>こんやく</rt></ruby></span> - tunangan</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">婚</span>
+    <span class="kanji-meta">
+      <strong>婚</strong>
+      <small>pernikahan</small>
+      <span class="kanji-reading"><span>onyomi: コン</span>
+    </span>
+  </summary>
+  <p>Dalam karangan pendek dan cerita pengalaman, 婚 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>結婚<rt>けっこん</rt></ruby></span> - menikah</li>
+    <li><span class="ruby-word"><ruby>婚約<rt>こんやく</rt></ruby></span> - tunangan</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">祝</span>
-      <span class="kanji-meta">
-        <strong>祝</strong>
-        <small>merayakan</small>
-        <span class="kanji-reading"><span>onyomi: シュク</span><span>kunyomi: いわう</span></span>
-      </span>
-    </summary>
-    <p>Dalam karangan pendek dan cerita pengalaman, 祝 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>祝日<rt>しゅくじつ</rt></ruby></span> - hari libur nasional</li>
-      <li><span class="ruby-word"><ruby>祝う<rt>いわう</rt></ruby></span> - merayakan</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">祝</span>
+    <span class="kanji-meta">
+      <strong>祝</strong>
+      <small>merayakan</small>
+      <span class="kanji-reading"><span>onyomi: シュク</span>
+    </span>
+  </summary>
+  <p>Dalam karangan pendek dan cerita pengalaman, 祝 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>祝日<rt>しゅくじつ</rt></ruby></span> - hari libur nasional</li>
+    <li><span class="ruby-word"><ruby>祝う<rt>いわう</rt></ruby></span> - merayakan</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">曲</span>
-      <span class="kanji-meta">
-        <strong>曲</strong>
-        <small>lagu, belok</small>
-        <span class="kanji-reading"><span>onyomi: キョク</span><span>kunyomi: まがる, まげる</span></span>
-      </span>
-    </summary>
-    <p>Dalam karangan pendek dan cerita pengalaman, 曲 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>曲<rt>きょく</rt></ruby></span> - lagu</li>
-      <li><span class="ruby-word"><ruby>曲がる<rt>まがる</rt></ruby></span> - berbelok</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">曲</span>
+    <span class="kanji-meta">
+      <strong>曲</strong>
+      <small>lagu, belok</small>
+      <span class="kanji-reading"><span>onyomi: キョク</span>
+    </span>
+  </summary>
+  <p>Dalam karangan pendek dan cerita pengalaman, 曲 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>曲<rt>きょく</rt></ruby></span> - lagu</li>
+    <li><span class="ruby-word"><ruby>曲がる<rt>まがる</rt></ruby></span> - berbelok</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">奥</span>
-      <span class="kanji-meta">
-        <strong>奥</strong>
-        <small>bagian dalam</small>
-        <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: おく</span></span>
-      </span>
-    </summary>
-    <p>Dalam karangan pendek dan cerita pengalaman, 奥 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>奥<rt>おく</rt></ruby></span> - bagian dalam</li>
-      <li><span class="ruby-word"><ruby>奥さん<rt>おくさん</rt></ruby></span> - istri orang lain</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">奥</span>
+    <span class="kanji-meta">
+      <strong>奥</strong>
+      <small>bagian dalam</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>Dalam karangan pendek dan cerita pengalaman, 奥 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>奥<rt>おく</rt></ruby></span> - bagian dalam</li>
+    <li><span class="ruby-word"><ruby>奥さん<rt>おくさん</rt></ruby></span> - istri orang lain</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">寝</span>
-      <span class="kanji-meta">
-        <strong>寝</strong>
-        <small>tidur</small>
-        <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: ねる</span></span>
-      </span>
-    </summary>
-    <p>Dalam karangan pendek dan cerita pengalaman, 寝 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>寝る<rt>ねる</rt></ruby></span> - tidur</li>
-      <li><span class="ruby-word"><ruby>昼寝<rt>ひるね</rt></ruby></span> - tidur siang</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">寝</span>
+    <span class="kanji-meta">
+      <strong>寝</strong>
+      <small>tidur</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>Dalam karangan pendek dan cerita pengalaman, 寝 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>寝る<rt>ねる</rt></ruby></span> - tidur</li>
+    <li><span class="ruby-word"><ruby>昼寝<rt>ひるね</rt></ruby></span> - tidur siang</li>
+  </ul>
+</details>
 </div>
-
 ## Peta Kata
 
 <div class="word-strip">

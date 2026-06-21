@@ -49,16 +49,56 @@ Di akhir pelajaran ini, kamu bisa membaca kata seperti 旅行, 旅館, 美術館
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open><summary><span class="kanji-char">旅</span><span class="kanji-meta"><strong>旅</strong><small>perjalanan</small><span class="kanji-reading"><span>onyomi: リョ</span><span>kunyomi: たび</span></span></span></summary><p>旅 dipakai pada kata perjalanan dan tempat menginap.</p><ul><li>旅行 - perjalanan</li><li>旅館 - penginapan Jepang</li><li>旅先 - tempat tujuan perjalanan</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">館</span><span class="kanji-meta"><strong>館</strong><small>gedung, fasilitas</small><span class="kanji-reading"><span>onyomi: カン</span><span>kunyomi: -</span></span></span></summary><p>館 sering menandai fasilitas atau gedung khusus.</p><ul><li>旅館 - penginapan Jepang</li><li>美術館 - museum seni</li><li>大使館 - kedutaan</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">有</span><span class="kanji-meta"><strong>有</strong><small>ada, memiliki</small><span class="kanji-reading"><span>onyomi: ユウ</span><span>kunyomi: ある</span></span></span></summary><p>有 pada 有名 berarti sesuatu yang memiliki nama dikenal.</p><ul><li>有名 - terkenal</li><li>有料 - berbayar</li><li>有効 - berlaku</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">去</span><span class="kanji-meta"><strong>去</strong><small>pergi, lalu</small><span class="kanji-reading"><span>onyomi: キョ</span><span>kunyomi: さる</span></span></span></summary><p>去 sering muncul pada kata waktu lampau.</p><ul><li>去年 - tahun lalu</li><li>過去 - masa lalu</li><li>去来 - datang dan pergi</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">主</span><span class="kanji-meta"><strong>主</strong><small>utama, pemilik</small><span class="kanji-reading"><span>onyomi: シュ、ス</span><span>kunyomi: ぬし、おも</span></span></span></summary><p>主 memberi rasa utama, pemilik, atau subjek.</p><ul><li>主人 - suami/tuan rumah</li><li>主語 - subjek</li><li>主食 - makanan pokok</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">写</span><span class="kanji-meta"><strong>写</strong><small>foto, salin</small><span class="kanji-reading"><span>onyomi: シャ</span><span>kunyomi: うつす、うつる</span></span></span></summary><p>写 dipakai untuk foto atau menyalin sesuatu.</p><ul><li>写真 - foto</li><li>写生 - sketsa dari objek</li><li>複写 - salinan</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">真</span><span class="kanji-meta"><strong>真</strong><small>benar, asli</small><span class="kanji-reading"><span>onyomi: シン</span><span>kunyomi: ま</span></span></span></summary><p>真 memberi rasa asli, benar, atau pusat pada kata tertentu.</p><ul><li>写真 - foto</li><li>真ん中 - tengah</li><li>真実 - kebenaran</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">夕</span><span class="kanji-meta"><strong>夕</strong><small>sore</small><span class="kanji-reading"><span>onyomi: セキ</span><span>kunyomi: ゆう</span></span></span></summary><p>夕 menunjuk waktu sore atau petang.</p><ul><li>夕飯 - makan malam</li><li>夕方 - sore</li><li>夕日 - matahari sore</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">飯</span><span class="kanji-meta"><strong>飯</strong><small>makanan, nasi</small><span class="kanji-reading"><span>onyomi: ハン</span><span>kunyomi: めし</span></span></span></summary><p>飯 sering muncul pada kata makan sehari-hari.</p><ul><li>朝ご飯 - sarapan</li><li>昼ご飯 - makan siang</li><li>晩ご飯 - makan malam</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">方</span><span class="kanji-meta"><strong>方</strong><small>arah, orang, cara</small><span class="kanji-reading"><span>onyomi: ホウ</span><span>kunyomi: かた</span></span></span></summary><p>方 bisa berarti arah, sisi, cara, atau orang secara sopan.</p><ul><li>両方 - keduanya</li><li>夕方 - sore</li><li>方法 - cara/metode</li></ul></details>
+  <details class="kanji-card" open><summary><span class="kanji-char">旅</span><span class="kanji-meta"><strong>旅</strong><small>perjalanan</small><span class="kanji-reading"><span>onyomi: リョ</span><span>kunyomi: たび</span></span></span></summary><p>旅 dipakai pada kata perjalanan dan tempat menginap.</p><ul>
+    <li><span class="ruby-word"><ruby>旅行<rt>りょこう</rt></ruby></span> - perjalanan</li>
+    <li><span class="ruby-word"><ruby>旅館<rt>りょかん</rt></ruby></span> - penginapan Jepang</li>
+    <li><span class="ruby-word"><ruby>旅先<rt>たびさき</rt></ruby></span> - tempat tujuan perjalanan</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">館</span><span class="kanji-meta"><strong>館</strong><small>gedung, fasilitas</small><span class="kanji-reading"><span>onyomi: カン</span><span>kunyomi: -</span></span></span></summary><p>館 sering menandai fasilitas atau gedung khusus.</p><ul>
+    <li><span class="ruby-word"><ruby>旅館<rt>りょかん</rt></ruby></span> - penginapan Jepang</li>
+    <li><span class="ruby-word"><ruby>美術館<rt>びじゅつかん</rt></ruby></span> - museum seni</li>
+    <li><span class="ruby-word"><ruby>大使館<rt>たいしかん</rt></ruby></span> - kedutaan</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">有</span><span class="kanji-meta"><strong>有</strong><small>ada, memiliki</small><span class="kanji-reading"><span>onyomi: ユウ</span><span>kunyomi: ある</span></span></span></summary><p>有 pada 有名 berarti sesuatu yang memiliki nama dikenal.</p><ul>
+    <li><span class="ruby-word"><ruby>有名<rt>ゆうめい</rt></ruby></span> - terkenal</li>
+    <li><span class="ruby-word"><ruby>有料<rt>ゆうりょう</rt></ruby></span> - berbayar</li>
+    <li><span class="ruby-word"><ruby>有効<rt>ゆうこう</rt></ruby></span> - berlaku</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">去</span><span class="kanji-meta"><strong>去</strong><small>pergi, lalu</small><span class="kanji-reading"><span>onyomi: キョ</span><span>kunyomi: さる</span></span></span></summary><p>Saat membaca tanggal, cerita perjalanan, atau riwayat, 去 membantu menandai waktu yang sudah berlalu.</p><ul>
+    <li><span class="ruby-word"><ruby>去年<rt>きょねん</rt></ruby></span> - tahun lalu</li>
+    <li><span class="ruby-word"><ruby>過去<rt>かこ</rt></ruby></span> - masa lalu</li>
+    <li><span class="ruby-word"><ruby>去来<rt>きょらい</rt></ruby></span> - datang dan pergi</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">主</span><span class="kanji-meta"><strong>主</strong><small>utama, pemilik</small><span class="kanji-reading"><span>onyomi: シュ、ス</span><span>kunyomi: ぬし、おも</span></span></span></summary><p>Di teks keluarga, tata bahasa, atau makanan, 主 memberi petunjuk tentang pihak utama, pemilik, atau unsur pokok.</p><ul>
+    <li><span class="ruby-word"><ruby>主人<rt>しゅじん</rt></ruby></span> - suami/tuan rumah</li>
+    <li><span class="ruby-word"><ruby>主語<rt>しゅご</rt></ruby></span> - subjek</li>
+    <li><span class="ruby-word"><ruby>主食<rt>しゅしょく</rt></ruby></span> - makanan pokok</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">写</span><span class="kanji-meta"><strong>写</strong><small>foto, salin</small><span class="kanji-reading"><span>onyomi: シャ</span><span>kunyomi: うつす、うつる</span></span></span></summary><p>Saat melihat 写 di museum, kamera, atau tugas sekolah, cari konteks foto, salinan, atau gambar yang dipindahkan.</p><ul>
+    <li><span class="ruby-word"><ruby>写真<rt>しゃしん</rt></ruby></span> - foto</li>
+    <li><span class="ruby-word"><ruby>写生<rt>しゃせい</rt></ruby></span> - sketsa dari objek</li>
+    <li><span class="ruby-word"><ruby>複写<rt>ふくしゃ</rt></ruby></span> - salinan</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">真</span><span class="kanji-meta"><strong>真</strong><small>benar, asli</small><span class="kanji-reading"><span>onyomi: シン</span><span>kunyomi: ま</span></span></span></summary><p>真 memberi rasa asli, benar, atau pusat pada kata tertentu.</p><ul>
+    <li><span class="ruby-word"><ruby>写真<rt>しゃしん</rt></ruby></span> - foto</li>
+    <li><span class="ruby-word"><ruby>真<rt>ま</rt></ruby>ん<ruby>中<rt>なか</rt></ruby></span> - tengah</li>
+    <li><span class="ruby-word"><ruby>真実<rt>しんじつ</rt></ruby></span> - kebenaran</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">夕</span><span class="kanji-meta"><strong>夕</strong><small>sore</small><span class="kanji-reading"><span>onyomi: セキ</span><span>kunyomi: ゆう</span></span></span></summary><p>夕 membantu membaca jadwal harian di sekitar sore, seperti waktu makan, arah waktu, atau suasana petang.</p><ul>
+    <li><span class="ruby-word"><ruby>夕飯<rt>ゆうはん</rt></ruby></span> - makan malam</li>
+    <li><span class="ruby-word"><ruby>夕方<rt>ゆうがた</rt></ruby></span> - sore</li>
+    <li><span class="ruby-word"><ruby>夕日<rt>ゆうひ</rt></ruby></span> - matahari sore</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">飯</span><span class="kanji-meta"><strong>飯</strong><small>makanan, nasi</small><span class="kanji-reading"><span>onyomi: ハン</span><span>kunyomi: めし</span></span></span></summary><p>Dalam jadwal makan atau percakapan rumah, 飯 menandai nasi, makanan, dan waktu makan sehari-hari.</p><ul>
+    <li><span class="ruby-word"><ruby>朝<rt>あさ</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby></span> - sarapan</li>
+    <li><span class="ruby-word"><ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby></span> - makan siang</li>
+    <li><span class="ruby-word"><ruby>晩<rt>ばん</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby></span> - makan malam</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">方</span><span class="kanji-meta"><strong>方</strong><small>arah, orang, cara</small><span class="kanji-reading"><span>onyomi: ホウ</span><span>kunyomi: かた</span></span></span></summary><p>方 bisa berarti arah, sisi, cara, atau orang secara sopan.</p><ul>
+    <li><span class="ruby-word"><ruby>両方<rt>りょうほう</rt></ruby></span> - keduanya</li>
+    <li><span class="ruby-word"><ruby>夕方<rt>ゆうがた</rt></ruby></span> - sore</li>
+    <li><span class="ruby-word"><ruby>方法<rt>ほうほう</rt></ruby></span> - cara/metode</li>
+  </ul></details>
 </div>
 
 ## Peta Kata

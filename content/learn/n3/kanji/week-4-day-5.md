@@ -47,135 +47,134 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 届く、届�
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open>
-    <summary>
-      <span class="kanji-char">届</span>
-      <span class="kanji-meta">
-        <strong>届</strong>
-        <small>mengirim, sampai</small>
-        <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: とどける, とどく</span></span>
-      </span>
-    </summary>
-    <p>Dalam halaman pemesanan dan pengiriman paket, 届 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>届く<rt>とどく</rt></ruby></span> - sampai</li>
-      <li><span class="ruby-word"><ruby>届ける<rt>とどける</rt></ruby></span> - mengirimkan</li>
-    </ul>
-  </details>
+<details class="kanji-card" open>
+  <summary>
+    <span class="kanji-char">届</span>
+    <span class="kanji-meta">
+      <strong>届</strong>
+      <small>mengirim, sampai</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>Dalam halaman pemesanan dan pengiriman paket, 届 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>届く<rt>とどく</rt></ruby></span> - sampai</li>
+    <li><span class="ruby-word"><ruby>届ける<rt>とどける</rt></ruby></span> - mengirimkan</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">宅</span>
-      <span class="kanji-meta">
-        <strong>宅</strong>
-        <small>rumah</small>
-        <span class="kanji-reading"><span>onyomi: タク</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam halaman pemesanan dan pengiriman paket, 宅 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>自宅<rt>じたく</rt></ruby></span> - rumah sendiri</li>
-      <li><span class="ruby-word"><ruby>宅配<rt>たくはい</rt></ruby></span> - pengiriman rumah</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">宅</span>
+    <span class="kanji-meta">
+      <strong>宅</strong>
+      <small>rumah</small>
+      <span class="kanji-reading"><span>onyomi: タク</span>
+    </span>
+  </summary>
+  <p>Dalam halaman pemesanan dan pengiriman paket, 宅 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>自宅<rt>じたく</rt></ruby></span> - rumah sendiri</li>
+    <li><span class="ruby-word"><ruby>宅配<rt>たくはい</rt></ruby></span> - pengiriman rumah</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">配</span>
-      <span class="kanji-meta">
-        <strong>配</strong>
-        <small>mengantar, membagi</small>
-        <span class="kanji-reading"><span>onyomi: ハイ</span><span>kunyomi: くばる</span></span>
-      </span>
-    </summary>
-    <p>Dalam halaman pemesanan dan pengiriman paket, 配 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>配達<rt>はいたつ</rt></ruby></span> - pengantaran</li>
-      <li><span class="ruby-word"><ruby>配送料<rt>はいそうりょう</rt></ruby></span> - ongkos kirim</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">配</span>
+    <span class="kanji-meta">
+      <strong>配</strong>
+      <small>mengantar, membagi</small>
+      <span class="kanji-reading"><span>onyomi: ハイ</span>
+    </span>
+  </summary>
+  <p>Dalam halaman pemesanan dan pengiriman paket, 配 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>配達<rt>はいたつ</rt></ruby></span> - pengantaran</li>
+    <li><span class="ruby-word"><ruby>配送料<rt>はいそうりょう</rt></ruby></span> - ongkos kirim</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">希</span>
-      <span class="kanji-meta">
-        <strong>希</strong>
-        <small>harapan</small>
-        <span class="kanji-reading"><span>onyomi: キ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam halaman pemesanan dan pengiriman paket, 希 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>希望<rt>きぼう</rt></ruby></span> - harapan, keinginan</li>
-      <li><span class="ruby-word"><ruby>希少<rt>きしょう</rt></ruby></span> - langka</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">希</span>
+    <span class="kanji-meta">
+      <strong>希</strong>
+      <small>harapan</small>
+      <span class="kanji-reading"><span>onyomi: キ</span>
+    </span>
+  </summary>
+  <p>Dalam halaman pemesanan dan pengiriman paket, 希 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>希望<rt>きぼう</rt></ruby></span> - harapan, keinginan</li>
+    <li><span class="ruby-word"><ruby>希少<rt>きしょう</rt></ruby></span> - langka</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">望</span>
-      <span class="kanji-meta">
-        <strong>望</strong>
-        <small>berharap</small>
-        <span class="kanji-reading"><span>onyomi: ボウ</span><span>kunyomi: のぞむ</span></span>
-      </span>
-    </summary>
-    <p>Dalam halaman pemesanan dan pengiriman paket, 望 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>希望<rt>きぼう</rt></ruby></span> - harapan</li>
-      <li><span class="ruby-word"><ruby>望む<rt>のぞむ</rt></ruby></span> - mengharapkan</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">望</span>
+    <span class="kanji-meta">
+      <strong>望</strong>
+      <small>berharap</small>
+      <span class="kanji-reading"><span>onyomi: ボウ</span>
+    </span>
+  </summary>
+  <p>Dalam halaman pemesanan dan pengiriman paket, 望 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>希望<rt>きぼう</rt></ruby></span> - harapan</li>
+    <li><span class="ruby-word"><ruby>望む<rt>のぞむ</rt></ruby></span> - mengharapkan</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">荷</span>
-      <span class="kanji-meta">
-        <strong>荷</strong>
-        <small>barang, muatan</small>
-        <span class="kanji-reading"><span>onyomi: カ</span><span>kunyomi: に</span></span>
-      </span>
-    </summary>
-    <p>Dalam halaman pemesanan dan pengiriman paket, 荷 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>荷物<rt>にもつ</rt></ruby></span> - barang bawaan</li>
-      <li><span class="ruby-word"><ruby>入荷<rt>にゅうか</rt></ruby></span> - barang masuk</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">荷</span>
+    <span class="kanji-meta">
+      <strong>荷</strong>
+      <small>barang, muatan</small>
+      <span class="kanji-reading"><span>onyomi: カ</span>
+    </span>
+  </summary>
+  <p>Dalam halaman pemesanan dan pengiriman paket, 荷 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>荷物<rt>にもつ</rt></ruby></span> - barang bawaan</li>
+    <li><span class="ruby-word"><ruby>入荷<rt>にゅうか</rt></ruby></span> - barang masuk</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">換</span>
-      <span class="kanji-meta">
-        <strong>換</strong>
-        <small>menukar</small>
-        <span class="kanji-reading"><span>onyomi: カン</span><span>kunyomi: かえる</span></span>
-      </span>
-    </summary>
-    <p>Dalam halaman pemesanan dan pengiriman paket, 換 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>交換<rt>こうかん</rt></ruby></span> - penukaran</li>
-      <li><span class="ruby-word"><ruby>代金引換<rt>だいきんひきかえ</rt></ruby></span> - bayar saat terima</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">換</span>
+    <span class="kanji-meta">
+      <strong>換</strong>
+      <small>menukar</small>
+      <span class="kanji-reading"><span>onyomi: カン</span>
+    </span>
+  </summary>
+  <p>Dalam halaman pemesanan dan pengiriman paket, 換 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>交換<rt>こうかん</rt></ruby></span> - penukaran</li>
+    <li><span class="ruby-word"><ruby>代金引換<rt>だいきんひきかえ</rt></ruby></span> - bayar saat terima</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">額</span>
-      <span class="kanji-meta">
-        <strong>額</strong>
-        <small>jumlah uang</small>
-        <span class="kanji-reading"><span>onyomi: ガク</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam halaman pemesanan dan pengiriman paket, 額 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>金額<rt>きんがく</rt></ruby></span> - jumlah uang</li>
-      <li><span class="ruby-word"><ruby>半額<rt>はんがく</rt></ruby></span> - setengah harga</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">額</span>
+    <span class="kanji-meta">
+      <strong>額</strong>
+      <small>jumlah uang</small>
+      <span class="kanji-reading"><span>onyomi: ガク</span>
+    </span>
+  </summary>
+  <p>Dalam halaman pemesanan dan pengiriman paket, 額 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>金額<rt>きんがく</rt></ruby></span> - jumlah uang</li>
+    <li><span class="ruby-word"><ruby>半額<rt>はんがく</rt></ruby></span> - setengah harga</li>
+  </ul>
+</details>
 </div>
-
 ## Peta Kata
 
 <div class="word-strip">

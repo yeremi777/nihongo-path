@@ -47,14 +47,46 @@ Di akhir pelajaran ini, kamu bisa membaca 売店, 借金, 貸出, 練習, 予習
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open><summary><span class="kanji-char">売</span><span class="kanji-meta"><strong>売</strong><small>menjual</small><span class="kanji-reading"><span>onyomi: バイ</span><span>kunyomi: うる、うれる</span></span></span></summary><p>売 muncul pada tempat jualan dan kegiatan menjual.</p><ul><li>売店 - kios</li><li>売場 - tempat penjualan</li><li>発売 - mulai dijual</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">借</span><span class="kanji-meta"><strong>借</strong><small>meminjam</small><span class="kanji-reading"><span>onyomi: シャク</span><span>kunyomi: かりる</span></span></span></summary><p>借 berarti meminjam dari orang lain.</p><ul><li>借金 - utang</li><li>借用 - peminjaman</li><li>借家 - rumah sewa</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">貸</span><span class="kanji-meta"><strong>貸</strong><small>meminjamkan</small><span class="kanji-reading"><span>onyomi: タイ</span><span>kunyomi: かす</span></span></span></summary><p>貸 adalah kebalikan dari 借: memberi pinjaman.</p><ul><li>貸出 - peminjaman keluar</li><li>貸家 - rumah sewa</li><li>賃貸 - sewa-menyewa</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">習</span><span class="kanji-meta"><strong>習</strong><small>belajar, latihan</small><span class="kanji-reading"><span>onyomi: シュウ</span><span>kunyomi: ならう</span></span></span></summary><p>習 muncul pada latihan, persiapan belajar, dan kebiasaan.</p><ul><li>練習 - latihan</li><li>予習 - belajar sebelum kelas</li><li>復習 - mengulang pelajaran</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">座</span><span class="kanji-meta"><strong>座</strong><small>duduk, kursi</small><span class="kanji-reading"><span>onyomi: ザ</span><span>kunyomi: すわる</span></span></span></summary><p>座 muncul pada tempat duduk dan posisi duduk.</p><ul><li>座席 - tempat duduk</li><li>正座 - duduk formal Jepang</li><li>講座 - kursus</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">乗</span><span class="kanji-meta"><strong>乗</strong><small>naik kendaraan</small><span class="kanji-reading"><span>onyomi: ジョウ</span><span>kunyomi: のる、のせる</span></span></span></summary><p>乗 digunakan saat naik kendaraan atau berpindah kendaraan.</p><ul><li>乗車 - naik kendaraan</li><li>乗物 - kendaraan</li><li>乗換 - transit/ganti kendaraan</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">死</span><span class="kanji-meta"><strong>死</strong><small>mati</small><span class="kanji-reading"><span>onyomi: シ</span><span>kunyomi: しぬ</span></span></span></summary><p>死 muncul pada kata formal tentang kematian.</p><ul><li>死亡 - kematian</li><li>死者 - korban meninggal</li><li>必死 - mati-matian</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">不</span><span class="kanji-meta"><strong>不</strong><small>tidak, non-</small><span class="kanji-reading"><span>onyomi: フ、ブ</span><span>kunyomi: -</span></span></span></summary><p>不 menambahkan nuansa tidak, kurang, atau negatif pada kata setelahnya.</p><ul><li>不便 - tidak praktis</li><li>不安 - cemas</li><li>不足 - kekurangan</li></ul></details>
+  <details class="kanji-card" open><summary><span class="kanji-char">売</span><span class="kanji-meta"><strong>売</strong><small>menjual</small><span class="kanji-reading"><span>onyomi: バイ</span><span>kunyomi: うる、うれる</span></span></span></summary><p>売 muncul pada tempat jualan dan kegiatan menjual.</p><ul>
+    <li><span class="ruby-word"><ruby>売店<rt>ばいてん</rt></ruby></span> - kios</li>
+    <li><span class="ruby-word"><ruby>売場<rt>うりば</rt></ruby></span> - tempat penjualan</li>
+    <li><span class="ruby-word"><ruby>発売<rt>はつばい</rt></ruby></span> - mulai dijual</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">借</span><span class="kanji-meta"><strong>借</strong><small>meminjam</small><span class="kanji-reading"><span>onyomi: シャク</span><span>kunyomi: かりる</span></span></span></summary><p>借 berarti meminjam dari orang lain, bank, atau perpustakaan.</p><ul>
+    <li><span class="ruby-word"><ruby>借金<rt>しゃっきん</rt></ruby></span> - utang</li>
+    <li><span class="ruby-word"><ruby>借用<rt>しゃくよう</rt></ruby></span> - peminjaman</li>
+    <li><span class="ruby-word"><ruby>借家<rt>しゃくや</rt></ruby></span> - rumah sewa</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">貸</span><span class="kanji-meta"><strong>貸</strong><small>meminjamkan</small><span class="kanji-reading"><span>onyomi: タイ</span><span>kunyomi: かす</span></span></span></summary><p>貸 adalah kebalikan dari 借: memberi pinjaman barang atau uang.</p><ul>
+    <li><span class="ruby-word"><ruby>貸出<rt>かしだし</rt></ruby></span> - peminjaman keluar</li>
+    <li><span class="ruby-word"><ruby>貸家<rt>かしや</rt></ruby></span> - rumah sewa</li>
+    <li><span class="ruby-word"><ruby>賃貸<rt>ちんたい</rt></ruby></span> - sewa-menyewa</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">習</span><span class="kanji-meta"><strong>習</strong><small>belajar, latihan</small><span class="kanji-reading"><span>onyomi: シュウ</span><span>kunyomi: ならう</span></span></span></summary><p>習 muncul pada latihan, persiapan belajar, dan kebiasaan.</p><ul>
+    <li><span class="ruby-word"><ruby>練習<rt>れんしゅう</rt></ruby></span> - latihan</li>
+    <li><span class="ruby-word"><ruby>予習<rt>よしゅう</rt></ruby></span> - belajar sebelum kelas</li>
+    <li><span class="ruby-word"><ruby>復習<rt>ふくしゅう</rt></ruby></span> - mengulang pelajaran</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">座</span><span class="kanji-meta"><strong>座</strong><small>duduk, kursi</small><span class="kanji-reading"><span>onyomi: ザ</span><span>kunyomi: すわる</span></span></span></summary><p>座 muncul pada tempat duduk, posisi duduk, dan tata kursi ruangan.</p><ul>
+    <li><span class="ruby-word"><ruby>座席<rt>ざせき</rt></ruby></span> - tempat duduk</li>
+    <li><span class="ruby-word"><ruby>正座<rt>せいざ</rt></ruby></span> - duduk formal Jepang</li>
+    <li><span class="ruby-word"><ruby>講座<rt>こうざ</rt></ruby></span> - kursus</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">乗</span><span class="kanji-meta"><strong>乗</strong><small>naik kendaraan</small><span class="kanji-reading"><span>onyomi: ジョウ</span><span>kunyomi: のる、のせる</span></span></span></summary><p>乗 digunakan saat naik kendaraan atau berpindah kendaraan.</p><ul>
+    <li><span class="ruby-word"><ruby>乗車<rt>じょうしゃ</rt></ruby></span> - naik kendaraan</li>
+    <li><span class="ruby-word"><ruby>乗物<rt>のりもの</rt></ruby></span> - kendaraan</li>
+    <li><span class="ruby-word"><ruby>乗換<rt>のりかえ</rt></ruby></span> - transit/ganti kendaraan</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">死</span><span class="kanji-meta"><strong>死</strong><small>mati</small><span class="kanji-reading"><span>onyomi: シ</span><span>kunyomi: しぬ</span></span></span></summary><p>死 muncul pada kata formal tentang kematian dan berita yang serius.</p><ul>
+    <li><span class="ruby-word"><ruby>死亡<rt>しぼう</rt></ruby></span> - kematian</li>
+    <li><span class="ruby-word"><ruby>死者<rt>ししゃ</rt></ruby></span> - korban meninggal</li>
+    <li><span class="ruby-word"><ruby>必死<rt>ひっし</rt></ruby></span> - mati-matian</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">不</span><span class="kanji-meta"><strong>不</strong><small>tidak, non-</small><span class="kanji-reading"><span>onyomi: フ、ブ</span><span>kunyomi: -</span></span></span></summary><p>不 menambahkan nuansa tidak, kurang, atau negatif pada kata setelahnya.</p><ul>
+    <li><span class="ruby-word"><ruby>不便<rt>ふべん</rt></ruby></span> - tidak praktis</li>
+    <li><span class="ruby-word"><ruby>不安<rt>ふあん</rt></ruby></span> - cemas</li>
+    <li><span class="ruby-word"><ruby>不足<rt>ふそく</rt></ruby></span> - kekurangan</li>
+  </ul></details>
 </div>
 
 ## Peta Kata

@@ -56,23 +56,77 @@ Di akhir pelajaran ini, kamu bisa membaca kata seperti 天気, 元気, 手, 足,
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open><summary><span class="kanji-char">花</span><span class="kanji-meta"><strong>花</strong><small>bunga</small><span class="kanji-reading"><span>onyomi: カ</span><span>kunyomi: はな</span></span></span></summary><p>花 dipakai untuk bunga dan kegiatan melihat bunga.</p><ul><li>花</li><li>花びん</li><li>花見</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">天</span><span class="kanji-meta"><strong>天</strong><small>langit, surga</small><span class="kanji-reading"><span>onyomi: テン</span><span>kunyomi: あま、あめ</span></span></span></summary><p>天 sering muncul pada kata 天気 untuk cuaca.</p><ul><li>天気</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">気</span><span class="kanji-meta"><strong>気</strong><small>semangat, perasaan, udara</small><span class="kanji-reading"><span>onyomi: キ、ケ</span><span>kunyomi: —</span></span></span></summary><p>気 muncul pada kata tentang udara, perasaan, kesehatan, dan listrik.</p><ul><li>電気</li><li>病気</li><li>元気</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">耳</span><span class="kanji-meta"><strong>耳</strong><small>telinga</small><span class="kanji-reading"><span>onyomi: ジ</span><span>kunyomi: みみ</span></span></span></summary><p>耳 berarti telinga.</p><ul><li>耳</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">手</span><span class="kanji-meta"><strong>手</strong><small>tangan, keterampilan</small><span class="kanji-reading"><span>onyomi: シュ</span><span>kunyomi: て、た</span></span></span></summary><p>手 berarti tangan dan juga muncul pada kata tentang keterampilan.</p><ul><li>手</li><li>お手洗い</li><li>上手な</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">足</span><span class="kanji-meta"><strong>足</strong><small>kaki, cukup</small><span class="kanji-reading"><span>onyomi: ソク</span><span>kunyomi: あし、たりる、たす</span></span></span></summary><p>足 berarti kaki, tetapi juga muncul pada cukup atau menambahkan.</p><ul><li>足</li><li>足りる</li><li>足す</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">目</span><span class="kanji-meta"><strong>目</strong><small>mata, urutan</small><span class="kanji-reading"><span>onyomi: モク、ボク</span><span>kunyomi: め</span></span></span></summary><p>目 berarti mata dan juga bisa menandai urutan.</p><ul><li>目</li><li>一つ目</li><li>二つ目</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">力</span><span class="kanji-meta"><strong>力</strong><small>kekuatan, tenaga</small><span class="kanji-reading"><span>onyomi: リョク、リキ</span><span>kunyomi: ちから</span></span></span></summary><p>力 berarti kekuatan atau tenaga.</p><ul><li>力</li><li>力持ち</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">川</span><span class="kanji-meta"><strong>川</strong><small>sungai</small><span class="kanji-reading"><span>onyomi: セン</span><span>kunyomi: かわ</span></span></span></summary><p>川 berarti sungai.</p><ul><li>川</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">牛</span><span class="kanji-meta"><strong>牛</strong><small>sapi</small><span class="kanji-reading"><span>onyomi: ギュウ</span><span>kunyomi: うし</span></span></span></summary><p>牛 berarti sapi dan muncul pada makanan atau minuman dari sapi.</p><ul><li>牛</li><li>牛肉</li><li>牛乳</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">魚</span><span class="kanji-meta"><strong>魚</strong><small>ikan</small><span class="kanji-reading"><span>onyomi: ギョ</span><span>kunyomi: さかな、うお</span></span></span></summary><p>魚 berarti ikan dan muncul pada toko ikan.</p><ul><li>魚</li><li>魚屋</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">店</span><span class="kanji-meta"><strong>店</strong><small>toko</small><span class="kanji-reading"><span>onyomi: テン</span><span>kunyomi: みせ</span></span></span></summary><p>店 berarti toko dan sering muncul pada nama jenis toko.</p><ul><li>店</li><li>喫茶店</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">道</span><span class="kanji-meta"><strong>道</strong><small>jalan, cara</small><span class="kanji-reading"><span>onyomi: ドウ</span><span>kunyomi: みち</span></span></span></summary><p>道 berarti jalan atau cara.</p><ul><li>道</li><li>道路</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">門</span><span class="kanji-meta"><strong>門</strong><small>gerbang</small><span class="kanji-reading"><span>onyomi: モン</span><span>kunyomi: かど</span></span></span></summary><p>門 berarti gerbang dan muncul pada kata bidang khusus.</p><ul><li>門</li><li>専門</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">雨</span><span class="kanji-meta"><strong>雨</strong><small>hujan</small><span class="kanji-reading"><span>onyomi: ウ</span><span>kunyomi: あめ、あま</span></span></span></summary><p>雨 berarti hujan.</p><ul><li>雨</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">空</span><span class="kanji-meta"><strong>空</strong><small>langit, udara, kosong</small><span class="kanji-reading"><span>onyomi: クウ</span><span>kunyomi: そら、あく、から</span></span></span></summary><p>空 berarti langit, udara, atau kosong.</p><ul><li>空</li><li>空気</li><li>空港</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">白</span><span class="kanji-meta"><strong>白</strong><small>putih</small><span class="kanji-reading"><span>onyomi: ハク、ビャク</span><span>kunyomi: しろ、しろい</span></span></span></summary><p>白 berarti putih.</p><ul><li>白</li><li>白い</li></ul></details>
+  <details class="kanji-card" open><summary><span class="kanji-char">花</span><span class="kanji-meta"><strong>花</strong><small>bunga</small><span class="kanji-reading"><span>onyomi: カ</span><span>kunyomi: はな</span></span></span></summary><p>花 dipakai untuk bunga, vas bunga, dan kegiatan melihat bunga di taman atau musim semi.</p><ul>
+    <li><span class="ruby-word"><ruby>花<rt>はな</rt></ruby></span> - bunga</li>
+    <li><span class="ruby-word"><ruby>花びん<rt>かびん</rt></ruby></span> - vas bunga</li>
+    <li><span class="ruby-word"><ruby>花見<rt>はなみ</rt></ruby></span> - melihat bunga</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">天</span><span class="kanji-meta"><strong>天</strong><small>langit, surga</small><span class="kanji-reading"><span>onyomi: テン</span><span>kunyomi: あま、あめ</span></span></span></summary><p>天 sering muncul pada kata 天気 untuk cuaca, jadi berguna saat membaca ramalan sederhana.</p><ul>
+    <li><span class="ruby-word"><ruby>天気<rt>てんき</rt></ruby></span> - cuaca</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">気</span><span class="kanji-meta"><strong>気</strong><small>semangat, perasaan, udara</small><span class="kanji-reading"><span>onyomi: キ、ケ</span><span>kunyomi: —</span></span></span></summary><p>気 muncul pada kata tentang udara, perasaan, kesehatan, dan listrik dalam percakapan harian.</p><ul>
+    <li><span class="ruby-word"><ruby>電気<rt>でんき</rt></ruby></span> - listrik</li>
+    <li><span class="ruby-word"><ruby>病気<rt>びょうき</rt></ruby></span> - sakit, penyakit</li>
+    <li><span class="ruby-word"><ruby>元気<rt>げんき</rt></ruby></span> - sehat, bersemangat</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">耳</span><span class="kanji-meta"><strong>耳</strong><small>telinga</small><span class="kanji-reading"><span>onyomi: ジ</span><span>kunyomi: みみ</span></span></span></summary><p>耳 berarti telinga dan dipakai saat membaca bagian tubuh dalam pelajaran atau formulir kesehatan.</p><ul>
+    <li><span class="ruby-word"><ruby>耳<rt>みみ</rt></ruby></span> - telinga</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">手</span><span class="kanji-meta"><strong>手</strong><small>tangan, keterampilan</small><span class="kanji-reading"><span>onyomi: シュ</span><span>kunyomi: て、た</span></span></span></summary><p>手 berarti tangan dan juga muncul pada kata tempat cuci tangan atau kemampuan seseorang.</p><ul>
+    <li><span class="ruby-word"><ruby>手<rt>て</rt></ruby></span> - tangan</li>
+    <li><span class="ruby-word"><ruby>お手洗い<rt>おてあらい</rt></ruby></span> - toilet, tempat cuci tangan</li>
+    <li><span class="ruby-word"><ruby>上手な<rt>じょうずな</rt></ruby></span> - pandai, mahir</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">足</span><span class="kanji-meta"><strong>足</strong><small>kaki, cukup</small><span class="kanji-reading"><span>onyomi: ソク</span><span>kunyomi: あし、たりる、たす</span></span></span></summary><p>足 berarti kaki, tetapi juga muncul pada cukup atau menambahkan dalam kata kerja dasar.</p><ul>
+    <li><span class="ruby-word"><ruby>足<rt>あし</rt></ruby></span> - kaki</li>
+    <li><span class="ruby-word"><ruby>足りる<rt>たりる</rt></ruby></span> - cukup</li>
+    <li><span class="ruby-word"><ruby>足す<rt>たす</rt></ruby></span> - menambahkan</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">目</span><span class="kanji-meta"><strong>目</strong><small>mata, urutan</small><span class="kanji-reading"><span>onyomi: モク、ボク</span><span>kunyomi: め</span></span></span></summary><p>目 berarti mata dan juga bisa menandai urutan seperti yang pertama atau kedua.</p><ul>
+    <li><span class="ruby-word"><ruby>目<rt>め</rt></ruby></span> - mata</li>
+    <li><span class="ruby-word"><ruby>一つ目<rt>ひとつめ</rt></ruby></span> - yang pertama</li>
+    <li><span class="ruby-word"><ruby>二つ目<rt>ふたつめ</rt></ruby></span> - yang kedua</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">力</span><span class="kanji-meta"><strong>力</strong><small>kekuatan, tenaga</small><span class="kanji-reading"><span>onyomi: リョク、リキ</span><span>kunyomi: ちから</span></span></span></summary><p>力 berarti kekuatan atau tenaga, dan muncul saat menggambarkan orang yang kuat.</p><ul>
+    <li><span class="ruby-word"><ruby>力<rt>ちから</rt></ruby></span> - kekuatan, tenaga</li>
+    <li><span class="ruby-word"><ruby>力持ち<rt>ちからもち</rt></ruby></span> - orang kuat</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">川</span><span class="kanji-meta"><strong>川</strong><small>sungai</small><span class="kanji-reading"><span>onyomi: セン</span><span>kunyomi: かわ</span></span></span></summary><p>川 berarti sungai dan sering muncul pada peta, nama tempat, atau deskripsi alam.</p><ul>
+    <li><span class="ruby-word"><ruby>川<rt>かわ</rt></ruby></span> - sungai</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">牛</span><span class="kanji-meta"><strong>牛</strong><small>sapi</small><span class="kanji-reading"><span>onyomi: ギュウ</span><span>kunyomi: うし</span></span></span></summary><p>牛 berarti sapi dan muncul pada makanan atau minuman dari sapi seperti daging dan susu.</p><ul>
+    <li><span class="ruby-word"><ruby>牛<rt>うし</rt></ruby></span> - sapi</li>
+    <li><span class="ruby-word"><ruby>牛肉<rt>ぎゅうにく</rt></ruby></span> - daging sapi</li>
+    <li><span class="ruby-word"><ruby>牛乳<rt>ぎゅうにゅう</rt></ruby></span> - susu</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">魚</span><span class="kanji-meta"><strong>魚</strong><small>ikan</small><span class="kanji-reading"><span>onyomi: ギョ</span><span>kunyomi: さかな、うお</span></span></span></summary><p>魚 berarti ikan dan muncul pada makanan atau nama toko yang menjual ikan.</p><ul>
+    <li><span class="ruby-word"><ruby>魚<rt>さかな</rt></ruby></span> - ikan</li>
+    <li><span class="ruby-word"><ruby>魚屋<rt>さかなや</rt></ruby></span> - toko ikan</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">店</span><span class="kanji-meta"><strong>店</strong><small>toko</small><span class="kanji-reading"><span>onyomi: テン</span><span>kunyomi: みせ</span></span></span></summary><p>店 berarti toko dan sering muncul pada nama jenis toko di jalan atau area belanja.</p><ul>
+    <li><span class="ruby-word"><ruby>店<rt>みせ</rt></ruby></span> - toko</li>
+    <li><span class="ruby-word"><ruby>喫茶店<rt>きっさてん</rt></ruby></span> - kafe</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">道</span><span class="kanji-meta"><strong>道</strong><small>jalan, cara</small><span class="kanji-reading"><span>onyomi: ドウ</span><span>kunyomi: みち</span></span></span></summary><p>道 berarti jalan atau cara, berguna saat membaca petunjuk jalan dan peta sederhana.</p><ul>
+    <li><span class="ruby-word"><ruby>道<rt>みち</rt></ruby></span> - jalan</li>
+    <li><span class="ruby-word"><ruby>道路<rt>どうろ</rt></ruby></span> - jalan raya</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">門</span><span class="kanji-meta"><strong>門</strong><small>gerbang</small><span class="kanji-reading"><span>onyomi: モン</span><span>kunyomi: かど</span></span></span></summary><p>門 berarti gerbang dan muncul pada pintu masuk besar atau kata bidang khusus.</p><ul>
+    <li><span class="ruby-word"><ruby>門<rt>もん</rt></ruby></span> - gerbang</li>
+    <li><span class="ruby-word"><ruby>専門<rt>せんもん</rt></ruby></span> - spesialisasi, bidang khusus</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">雨</span><span class="kanji-meta"><strong>雨</strong><small>hujan</small><span class="kanji-reading"><span>onyomi: ウ</span><span>kunyomi: あめ、あま</span></span></span></summary><p>雨 berarti hujan dan sering muncul saat membaca cuaca atau rencana pada hari hujan.</p><ul>
+    <li><span class="ruby-word"><ruby>雨<rt>あめ</rt></ruby></span> - hujan</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">空</span><span class="kanji-meta"><strong>空</strong><small>langit, udara, kosong</small><span class="kanji-reading"><span>onyomi: クウ</span><span>kunyomi: そら、あく、から</span></span></span></summary><p>空 berarti langit, udara, atau kosong, tergantung kata dan konteks kalimat.</p><ul>
+    <li><span class="ruby-word"><ruby>空<rt>そら</rt></ruby></span> - langit</li>
+    <li><span class="ruby-word"><ruby>空気<rt>くうき</rt></ruby></span> - udara</li>
+    <li><span class="ruby-word"><ruby>空港<rt>くうこう</rt></ruby></span> - bandara</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">白</span><span class="kanji-meta"><strong>白</strong><small>putih</small><span class="kanji-reading"><span>onyomi: ハク、ビャク</span><span>kunyomi: しろ、しろい</span></span></span></summary><p>白 berarti putih dan sering dipakai untuk warna benda, pakaian, atau bunga.</p><ul>
+    <li><span class="ruby-word"><ruby>白<rt>しろ</rt></ruby></span> - putih</li>
+    <li><span class="ruby-word"><ruby>白い<rt>しろい</rt></ruby></span> - putih</li>
+  </ul></details>
 </div>
 
 ## Peta Kata

@@ -48,154 +48,153 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 材料, 卵焼
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open>
-    <summary>
-      <span class="kanji-char">材</span>
-      <span class="kanji-meta">
-        <strong>材</strong>
-        <small>bahan, material</small>
-        <span class="kanji-reading"><span>onyomi: ザイ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>材 menunjuk bahan atau material. Dalam resep, kata utamanya adalah 材料.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>材料<rt>ざいりょう</rt></ruby></span> - bahan</li>
-      <li><span class="ruby-word"><ruby>教材<rt>きょうざい</rt></ruby></span> - materi ajar</li>
-    </ul>
-  </details>
+<details class="kanji-card" open>
+  <summary>
+    <span class="kanji-char">材</span>
+    <span class="kanji-meta">
+      <strong>材</strong>
+      <small>bahan, material</small>
+      <span class="kanji-reading"><span>onyomi: ザイ</span>
+    </span>
+  </summary>
+  <p>材 menunjuk bahan atau material. Dalam resep, kata utamanya adalah 材料.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>材料<rt>ざいりょう</rt></ruby></span> - bahan</li>
+    <li><span class="ruby-word"><ruby>教材<rt>きょうざい</rt></ruby></span> - materi ajar</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">卵</span>
-      <span class="kanji-meta">
-        <strong>卵</strong>
-        <small>telur</small>
-        <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: たまご</span></span>
-      </span>
-    </summary>
-    <p>卵 adalah telur. Dalam resep Jepang, 卵焼き adalah contoh kata yang sangat umum.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>卵<rt>たまご</rt></ruby></span> - telur</li>
-      <li><span class="ruby-word"><ruby>卵焼き<rt>たまごやき</rt></ruby></span> - telur dadar gulung Jepang</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">卵</span>
+    <span class="kanji-meta">
+      <strong>卵</strong>
+      <small>telur</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>卵 adalah telur. Dalam resep Jepang, 卵焼き adalah contoh kata yang sangat umum.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>卵<rt>たまご</rt></ruby></span> - telur</li>
+    <li><span class="ruby-word"><ruby>卵焼き<rt>たまごやき</rt></ruby></span> - telur dadar gulung Jepang</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">乳</span>
-      <span class="kanji-meta">
-        <strong>乳</strong>
-        <small>susu, produk susu</small>
-        <span class="kanji-reading"><span>onyomi: ニュウ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>乳 berkaitan dengan susu. Dalam resep, paling sering muncul dalam 牛乳.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>牛乳<rt>ぎゅうにゅう</rt></ruby></span> - susu sapi</li>
-      <li><span class="ruby-word"><ruby>乳製品<rt>にゅうせいひん</rt></ruby></span> - produk susu</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">乳</span>
+    <span class="kanji-meta">
+      <strong>乳</strong>
+      <small>susu, produk susu</small>
+      <span class="kanji-reading"><span>onyomi: ニュウ</span>
+    </span>
+  </summary>
+  <p>乳 berkaitan dengan susu. Dalam resep, paling sering muncul dalam 牛乳.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>牛乳<rt>ぎゅうにゅう</rt></ruby></span> - susu sapi</li>
+    <li><span class="ruby-word"><ruby>乳製品<rt>にゅうせいひん</rt></ruby></span> - produk susu</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">粉</span>
-      <span class="kanji-meta">
-        <strong>粉</strong>
-        <small>bubuk, tepung</small>
-        <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: こな, こ</span></span>
-      </span>
-    </summary>
-    <p>粉 menunjuk bahan berbentuk bubuk atau tepung. 小麦粉 adalah tepung terigu.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>粉<rt>こな</rt></ruby></span> - bubuk, tepung</li>
-      <li><span class="ruby-word"><ruby>小麦粉<rt>こむぎこ</rt></ruby></span> - tepung terigu</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">粉</span>
+    <span class="kanji-meta">
+      <strong>粉</strong>
+      <small>bubuk, tepung</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>粉 menunjuk bahan berbentuk bubuk atau tepung. 小麦粉 adalah tepung terigu.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>粉<rt>こな</rt></ruby></span> - bubuk, tepung</li>
+    <li><span class="ruby-word"><ruby>小麦粉<rt>こむぎこ</rt></ruby></span> - tepung terigu</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">袋</span>
-      <span class="kanji-meta">
-        <strong>袋</strong>
-        <small>kantong, tas</small>
-        <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: ふくろ</span></span>
-      </span>
-    </summary>
-    <p>袋 menunjuk kantong atau wadah. Pada resep/kemasan, sering berarti bungkus produk.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>袋<rt>ふくろ</rt></ruby></span> - kantong</li>
-      <li><span class="ruby-word"><ruby>紙袋<rt>かみぶくろ</rt></ruby></span> - kantong kertas</li>
-      <li><span class="ruby-word"><ruby>手袋<rt>てぶくろ</rt></ruby></span> - sarung tangan</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">袋</span>
+    <span class="kanji-meta">
+      <strong>袋</strong>
+      <small>kantong, tas</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>袋 menunjuk kantong atau wadah. Pada resep/kemasan, sering berarti bungkus produk.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>袋<rt>ふくろ</rt></ruby></span> - kantong</li>
+    <li><span class="ruby-word"><ruby>紙袋<rt>かみぶくろ</rt></ruby></span> - kantong kertas</li>
+    <li><span class="ruby-word"><ruby>手袋<rt>てぶくろ</rt></ruby></span> - sarung tangan</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">混</span>
-      <span class="kanji-meta">
-        <strong>混</strong>
-        <small>mencampur, bercampur</small>
-        <span class="kanji-reading"><span>onyomi: コン</span><span>kunyomi: まぜる</span></span>
-      </span>
-    </summary>
-    <p>混 dipakai untuk mencampur bahan atau keadaan bercampur. Dalam resep, fokusnya 混ぜる.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>混ぜる<rt>まぜる</rt></ruby></span> - mencampur</li>
-      <li><span class="ruby-word"><ruby>混雑<rt>こんざつ</rt></ruby></span> - ramai, padat</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">混</span>
+    <span class="kanji-meta">
+      <strong>混</strong>
+      <small>mencampur, bercampur</small>
+      <span class="kanji-reading"><span>onyomi: コン</span>
+    </span>
+  </summary>
+  <p>混 dipakai untuk mencampur bahan atau keadaan bercampur. Dalam resep, fokusnya 混ぜる.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>混ぜる<rt>まぜる</rt></ruby></span> - mencampur</li>
+    <li><span class="ruby-word"><ruby>混雑<rt>こんざつ</rt></ruby></span> - ramai, padat</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">焼</span>
-      <span class="kanji-meta">
-        <strong>焼</strong>
-        <small>memanggang, terbakar</small>
-        <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: やく, やける</span></span>
-      </span>
-    </summary>
-    <p>焼 adalah tindakan memasak dengan panas atau keadaan matang/terbakar.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>焼く<rt>やく</rt></ruby></span> - memanggang</li>
-      <li><span class="ruby-word"><ruby>焼ける<rt>やける</rt></ruby></span> - matang, terbakar</li>
-      <li><span class="ruby-word"><ruby>卵焼き<rt>たまごやき</rt></ruby></span> - telur dadar gulung</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">焼</span>
+    <span class="kanji-meta">
+      <strong>焼</strong>
+      <small>memanggang, terbakar</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>焼 adalah tindakan memasak dengan panas atau keadaan matang/terbakar.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>焼く<rt>やく</rt></ruby></span> - memanggang</li>
+    <li><span class="ruby-word"><ruby>焼ける<rt>やける</rt></ruby></span> - matang, terbakar</li>
+    <li><span class="ruby-word"><ruby>卵焼き<rt>たまごやき</rt></ruby></span> - telur dadar gulung</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">表</span>
-      <span class="kanji-meta">
-        <strong>表</strong>
-        <small>depan, permukaan, menyatakan</small>
-        <span class="kanji-reading"><span>onyomi: ヒョウ</span><span>kunyomi: おもて, あらわす</span></span>
-      </span>
-    </summary>
-    <p>表 bisa menunjuk sisi depan/permukaan atau tindakan menyatakan.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>表<rt>おもて</rt></ruby></span> - depan</li>
-      <li><span class="ruby-word"><ruby>表面<rt>ひょうめん</rt></ruby></span> - permukaan</li>
-      <li><span class="ruby-word"><ruby>発表<rt>はっぴょう</rt></ruby></span> - presentasi, pengumuman</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">表</span>
+    <span class="kanji-meta">
+      <strong>表</strong>
+      <small>depan, permukaan, menyatakan</small>
+      <span class="kanji-reading"><span>onyomi: ヒョウ</span>
+    </span>
+  </summary>
+  <p>表 bisa menunjuk sisi depan/permukaan atau tindakan menyatakan.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>表<rt>おもて</rt></ruby></span> - depan</li>
+    <li><span class="ruby-word"><ruby>表面<rt>ひょうめん</rt></ruby></span> - permukaan</li>
+    <li><span class="ruby-word"><ruby>発表<rt>はっぴょう</rt></ruby></span> - presentasi, pengumuman</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">裏</span>
-      <span class="kanji-meta">
-        <strong>裏</strong>
-        <small>belakang, sisi sebaliknya</small>
-        <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: うら</span></span>
-      </span>
-    </summary>
-    <p>裏 menunjuk bagian belakang atau sisi sebaliknya. Pada kemasan, instruksi sering ada di 裏.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>裏<rt>うら</rt></ruby></span> - belakang</li>
-      <li><span class="ruby-word"><ruby>裏返す<rt>うらがえす</rt></ruby></span> - membalikkan</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">裏</span>
+    <span class="kanji-meta">
+      <strong>裏</strong>
+      <small>belakang, sisi sebaliknya</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>裏 menunjuk bagian belakang atau sisi sebaliknya. Pada kemasan, instruksi sering ada di 裏.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>裏<rt>うら</rt></ruby></span> - belakang</li>
+    <li><span class="ruby-word"><ruby>裏返す<rt>うらがえす</rt></ruby></span> - membalikkan</li>
+  </ul>
+</details>
 </div>
-
 ## Peta Kata
 
 Kata-kata hari ini mengikuti langkah memasak. 材料 berisi 卵・乳・粉, 袋 adalah kemasan atau wadah, 混ぜる dan 焼く adalah tindakan memasak, sedangkan 表 dan 裏 membantu membaca sisi kemasan atau instruksi.

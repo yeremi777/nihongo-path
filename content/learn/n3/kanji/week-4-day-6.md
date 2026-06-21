@@ -47,135 +47,134 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 不在、現�
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open>
-    <summary>
-      <span class="kanji-char">在</span>
-      <span class="kanji-meta">
-        <strong>在</strong>
-        <small>ada, hadir</small>
-        <span class="kanji-reading"><span>onyomi: ザイ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam pemberitahuan paket dan slip pengiriman gagal, 在 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>不在<rt>ふざい</rt></ruby></span> - tidak ada di tempat</li>
-      <li><span class="ruby-word"><ruby>現在<rt>げんざい</rt></ruby></span> - saat ini</li>
-    </ul>
-  </details>
+<details class="kanji-card" open>
+  <summary>
+    <span class="kanji-char">在</span>
+    <span class="kanji-meta">
+      <strong>在</strong>
+      <small>ada, hadir</small>
+      <span class="kanji-reading"><span>onyomi: ザイ</span>
+    </span>
+  </summary>
+  <p>Dalam pemberitahuan paket dan slip pengiriman gagal, 在 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>不在<rt>ふざい</rt></ruby></span> - tidak ada di tempat</li>
+    <li><span class="ruby-word"><ruby>現在<rt>げんざい</rt></ruby></span> - saat ini</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">取</span>
-      <span class="kanji-meta">
-        <strong>取</strong>
-        <small>mengambil, menerima</small>
-        <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: とる</span></span>
-      </span>
-    </summary>
-    <p>Dalam pemberitahuan paket dan slip pengiriman gagal, 取 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>取る<rt>とる</rt></ruby></span> - mengambil</li>
-      <li><span class="ruby-word"><ruby>受け取る<rt>うけとる</rt></ruby></span> - menerima</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">取</span>
+    <span class="kanji-meta">
+      <strong>取</strong>
+      <small>mengambil, menerima</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>Dalam pemberitahuan paket dan slip pengiriman gagal, 取 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>取る<rt>とる</rt></ruby></span> - mengambil</li>
+    <li><span class="ruby-word"><ruby>受け取る<rt>うけとる</rt></ruby></span> - menerima</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">預</span>
-      <span class="kanji-meta">
-        <strong>預</strong>
-        <small>menitipkan</small>
-        <span class="kanji-reading"><span>onyomi: ヨ</span><span>kunyomi: あずける</span></span>
-      </span>
-    </summary>
-    <p>Dalam pemberitahuan paket dan slip pengiriman gagal, 預 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>預金<rt>よきん</rt></ruby></span> - deposito</li>
-      <li><span class="ruby-word"><ruby>預ける<rt>あずける</rt></ruby></span> - menitipkan</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">預</span>
+    <span class="kanji-meta">
+      <strong>預</strong>
+      <small>menitipkan</small>
+      <span class="kanji-reading"><span>onyomi: ヨ</span>
+    </span>
+  </summary>
+  <p>Dalam pemberitahuan paket dan slip pengiriman gagal, 預 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>預金<rt>よきん</rt></ruby></span> - deposito</li>
+    <li><span class="ruby-word"><ruby>預ける<rt>あずける</rt></ruby></span> - menitipkan</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">衣</span>
-      <span class="kanji-meta">
-        <strong>衣</strong>
-        <small>pakaian</small>
-        <span class="kanji-reading"><span>onyomi: イ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam pemberitahuan paket dan slip pengiriman gagal, 衣 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>衣類<rt>いるい</rt></ruby></span> - pakaian</li>
-      <li><span class="ruby-word"><ruby>衣服<rt>いふく</rt></ruby></span> - pakaian</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">衣</span>
+    <span class="kanji-meta">
+      <strong>衣</strong>
+      <small>pakaian</small>
+      <span class="kanji-reading"><span>onyomi: イ</span>
+    </span>
+  </summary>
+  <p>Dalam pemberitahuan paket dan slip pengiriman gagal, 衣 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>衣類<rt>いるい</rt></ruby></span> - pakaian</li>
+    <li><span class="ruby-word"><ruby>衣服<rt>いふく</rt></ruby></span> - pakaian</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">参</span>
-      <span class="kanji-meta">
-        <strong>参</strong>
-        <small>ikut, datang rendah hati</small>
-        <span class="kanji-reading"><span>onyomi: サン</span><span>kunyomi: まいる</span></span>
-      </span>
-    </summary>
-    <p>Dalam pemberitahuan paket dan slip pengiriman gagal, 参 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>参加<rt>さんか</rt></ruby></span> - ikut serta</li>
-      <li><span class="ruby-word"><ruby>参考書<rt>さんこうしょ</rt></ruby></span> - buku referensi</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">参</span>
+    <span class="kanji-meta">
+      <strong>参</strong>
+      <small>ikut, datang rendah hati</small>
+      <span class="kanji-reading"><span>onyomi: サン</span>
+    </span>
+  </summary>
+  <p>Dalam pemberitahuan paket dan slip pengiriman gagal, 参 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>参加<rt>さんか</rt></ruby></span> - ikut serta</li>
+    <li><span class="ruby-word"><ruby>参考書<rt>さんこうしょ</rt></ruby></span> - buku referensi</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">達</span>
-      <span class="kanji-meta">
-        <strong>達</strong>
-        <small>mencapai, pengiriman</small>
-        <span class="kanji-reading"><span>onyomi: タツ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam pemberitahuan paket dan slip pengiriman gagal, 達 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>速達<rt>そくたつ</rt></ruby></span> - kiriman ekspres</li>
-      <li><span class="ruby-word"><ruby>上達<rt>じょうたつ</rt></ruby></span> - kemajuan</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">達</span>
+    <span class="kanji-meta">
+      <strong>達</strong>
+      <small>mencapai, pengiriman</small>
+      <span class="kanji-reading"><span>onyomi: タツ</span>
+    </span>
+  </summary>
+  <p>Dalam pemberitahuan paket dan slip pengiriman gagal, 達 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>速達<rt>そくたつ</rt></ruby></span> - kiriman ekspres</li>
+    <li><span class="ruby-word"><ruby>上達<rt>じょうたつ</rt></ruby></span> - kemajuan</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">勤</span>
-      <span class="kanji-meta">
-        <strong>勤</strong>
-        <small>bekerja</small>
-        <span class="kanji-reading"><span>onyomi: キン</span><span>kunyomi: つとめる</span></span>
-      </span>
-    </summary>
-    <p>Dalam pemberitahuan paket dan slip pengiriman gagal, 勤 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>通勤<rt>つうきん</rt></ruby></span> - perjalanan kerja</li>
-      <li><span class="ruby-word"><ruby>勤める<rt>つとめる</rt></ruby></span> - bekerja di</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">勤</span>
+    <span class="kanji-meta">
+      <strong>勤</strong>
+      <small>bekerja</small>
+      <span class="kanji-reading"><span>onyomi: キン</span>
+    </span>
+  </summary>
+  <p>Dalam pemberitahuan paket dan slip pengiriman gagal, 勤 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>通勤<rt>つうきん</rt></ruby></span> - perjalanan kerja</li>
+    <li><span class="ruby-word"><ruby>勤める<rt>つとめる</rt></ruby></span> - bekerja di</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">帯</span>
-      <span class="kanji-meta">
-        <strong>帯</strong>
-        <small>sabuk, zona, ponsel</small>
-        <span class="kanji-reading"><span>onyomi: タイ</span><span>kunyomi: おび</span></span>
-      </span>
-    </summary>
-    <p>Dalam pemberitahuan paket dan slip pengiriman gagal, 帯 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>携帯電話<rt>けいたいでんわ</rt></ruby></span> - ponsel</li>
-      <li><span class="ruby-word"><ruby>時間帯<rt>じかんたい</rt></ruby></span> - rentang waktu</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">帯</span>
+    <span class="kanji-meta">
+      <strong>帯</strong>
+      <small>sabuk, zona, ponsel</small>
+      <span class="kanji-reading"><span>onyomi: タイ</span>
+    </span>
+  </summary>
+  <p>Dalam pemberitahuan paket dan slip pengiriman gagal, 帯 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>携帯電話<rt>けいたいでんわ</rt></ruby></span> - ponsel</li>
+    <li><span class="ruby-word"><ruby>時間帯<rt>じかんたい</rt></ruby></span> - rentang waktu</li>
+  </ul>
+</details>
 </div>
-
 ## Peta Kata
 
 <div class="word-strip">

@@ -47,140 +47,139 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 接続, 表示
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open>
-    <summary>
-      <span class="kanji-char">接</span>
-      <span class="kanji-meta">
-        <strong>接</strong>
-        <small>menghubungkan, menyentuh</small>
-        <span class="kanji-reading"><span>onyomi: セツ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>接 memberi rasa bersentuhan atau tersambung. Dalam ponsel, kata utamanya 接続.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>接続<rt>せつぞく</rt></ruby></span> - koneksi</li>
-      <li><span class="ruby-word"><ruby>面接<rt>めんせつ</rt></ruby></span> - wawancara</li>
-    </ul>
-  </details>
+<details class="kanji-card" open>
+  <summary>
+    <span class="kanji-char">接</span>
+    <span class="kanji-meta">
+      <strong>接</strong>
+      <small>menghubungkan, menyentuh</small>
+      <span class="kanji-reading"><span>onyomi: セツ</span>
+    </span>
+  </summary>
+  <p>接 memberi rasa bersentuhan atau tersambung. Dalam ponsel, kata utamanya 接続.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>接続<rt>せつぞく</rt></ruby></span> - koneksi</li>
+    <li><span class="ruby-word"><ruby>面接<rt>めんせつ</rt></ruby></span> - wawancara</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">続</span>
-      <span class="kanji-meta">
-        <strong>続</strong>
-        <small>berlanjut, menyambung</small>
-        <span class="kanji-reading"><span>onyomi: ゾク</span><span>kunyomi: つづく, つづける</span></span>
-      </span>
-    </summary>
-    <p>続 menandai kelanjutan atau sambungan. Dalam 接続, ia membentuk arti koneksi.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>接続<rt>せつぞく</rt></ruby></span> - koneksi</li>
-      <li><span class="ruby-word"><ruby>続く<rt>つづく</rt></ruby></span> - berlanjut</li>
-      <li><span class="ruby-word"><ruby>続ける<rt>つづける</rt></ruby></span> - melanjutkan</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">続</span>
+    <span class="kanji-meta">
+      <strong>続</strong>
+      <small>berlanjut, menyambung</small>
+      <span class="kanji-reading"><span>onyomi: ゾク</span>
+    </span>
+  </summary>
+  <p>続 menandai kelanjutan atau sambungan. Dalam 接続, ia membentuk arti koneksi.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>接続<rt>せつぞく</rt></ruby></span> - koneksi</li>
+    <li><span class="ruby-word"><ruby>続く<rt>つづく</rt></ruby></span> - berlanjut</li>
+    <li><span class="ruby-word"><ruby>続ける<rt>つづける</rt></ruby></span> - melanjutkan</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">示</span>
-      <span class="kanji-meta">
-        <strong>示</strong>
-        <small>menunjukkan, menampilkan</small>
-        <span class="kanji-reading"><span>onyomi: ジ</span><span>kunyomi: しめす</span></span>
-      </span>
-    </summary>
-    <p>示 muncul pada kata tentang tampilan atau instruksi. Di layar, 表示 sangat umum.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>表示<rt>ひょうじ</rt></ruby></span> - tampilan</li>
-      <li><span class="ruby-word"><ruby>指示<rt>しじ</rt></ruby></span> - instruksi</li>
-      <li><span class="ruby-word"><ruby>示す<rt>しめす</rt></ruby></span> - menunjukkan</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">示</span>
+    <span class="kanji-meta">
+      <strong>示</strong>
+      <small>menunjukkan, menampilkan</small>
+      <span class="kanji-reading"><span>onyomi: ジ</span>
+    </span>
+  </summary>
+  <p>示 muncul pada kata tentang tampilan atau instruksi. Di layar, 表示 sangat umum.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>表示<rt>ひょうじ</rt></ruby></span> - tampilan</li>
+    <li><span class="ruby-word"><ruby>指示<rt>しじ</rt></ruby></span> - instruksi</li>
+    <li><span class="ruby-word"><ruby>示す<rt>しめす</rt></ruby></span> - menunjukkan</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">戻</span>
-      <span class="kanji-meta">
-        <strong>戻</strong>
-        <small>kembali, mengembalikan</small>
-        <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: もどる, もどす</span></span>
-      </span>
-    </summary>
-    <p>戻 dipakai untuk kembali ke layar sebelumnya atau mengembalikan sesuatu.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>戻る<rt>もどる</rt></ruby></span> - kembali</li>
-      <li><span class="ruby-word"><ruby>戻す<rt>もどす</rt></ruby></span> - mengembalikan</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">戻</span>
+    <span class="kanji-meta">
+      <strong>戻</strong>
+      <small>kembali, mengembalikan</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>戻 dipakai untuk kembali ke layar sebelumnya atau mengembalikan sesuatu.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>戻る<rt>もどる</rt></ruby></span> - kembali</li>
+    <li><span class="ruby-word"><ruby>戻す<rt>もどす</rt></ruby></span> - mengembalikan</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">完</span>
-      <span class="kanji-meta">
-        <strong>完</strong>
-        <small>selesai, lengkap</small>
-        <span class="kanji-reading"><span>onyomi: カン</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>完 menandai sesuatu yang lengkap/selesai. Dalam 完了, proses sudah berakhir.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>完了<rt>かんりょう</rt></ruby></span> - selesai</li>
-      <li><span class="ruby-word"><ruby>完全<rt>かんぜん</rt></ruby></span> - sempurna, lengkap</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">完</span>
+    <span class="kanji-meta">
+      <strong>完</strong>
+      <small>selesai, lengkap</small>
+      <span class="kanji-reading"><span>onyomi: カン</span>
+    </span>
+  </summary>
+  <p>完 menandai sesuatu yang lengkap/selesai. Dalam 完了, proses sudah berakhir.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>完了<rt>かんりょう</rt></ruby></span> - selesai</li>
+    <li><span class="ruby-word"><ruby>完全<rt>かんぜん</rt></ruby></span> - sempurna, lengkap</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">了</span>
-      <span class="kanji-meta">
-        <strong>了</strong>
-        <small>selesai, paham</small>
-        <span class="kanji-reading"><span>onyomi: リョウ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>了 sering muncul dalam kata status selesai atau persetujuan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>了解<rt>りょうかい</rt></ruby></span> - mengerti, baik</li>
-      <li><span class="ruby-word"><ruby>終了<rt>しゅうりょう</rt></ruby></span> - berakhir</li>
-      <li><span class="ruby-word"><ruby>完了<rt>かんりょう</rt></ruby></span> - selesai</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">了</span>
+    <span class="kanji-meta">
+      <strong>了</strong>
+      <small>selesai, paham</small>
+      <span class="kanji-reading"><span>onyomi: リョウ</span>
+    </span>
+  </summary>
+  <p>了 sering muncul dalam kata status selesai atau persetujuan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>了解<rt>りょうかい</rt></ruby></span> - mengerti, baik</li>
+    <li><span class="ruby-word"><ruby>終了<rt>しゅうりょう</rt></ruby></span> - berakhir</li>
+    <li><span class="ruby-word"><ruby>完了<rt>かんりょう</rt></ruby></span> - selesai</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">登</span>
-      <span class="kanji-meta">
-        <strong>登</strong>
-        <small>naik, mendaftar</small>
-        <span class="kanji-reading"><span>onyomi: トウ, ト</span><span>kunyomi: のぼる</span></span>
-      </span>
-    </summary>
-    <p>登 bisa berarti naik, tetapi dalam 登録 artinya mendaftar ke sistem.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>登録<rt>とうろく</rt></ruby></span> - pendaftaran</li>
-      <li><span class="ruby-word"><ruby>登山<rt>とざん</rt></ruby></span> - mendaki gunung</li>
-      <li><span class="ruby-word"><ruby>登る<rt>のぼる</rt></ruby></span> - naik, mendaki</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">登</span>
+    <span class="kanji-meta">
+      <strong>登</strong>
+      <small>naik, mendaftar</small>
+      <span class="kanji-reading"><span>onyomi: トウ, ト</span>
+    </span>
+  </summary>
+  <p>登 bisa berarti naik, tetapi dalam 登録 artinya mendaftar ke sistem.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>登録<rt>とうろく</rt></ruby></span> - pendaftaran</li>
+    <li><span class="ruby-word"><ruby>登山<rt>とざん</rt></ruby></span> - mendaki gunung</li>
+    <li><span class="ruby-word"><ruby>登る<rt>のぼる</rt></ruby></span> - naik, mendaki</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">録</span>
-      <span class="kanji-meta">
-        <strong>録</strong>
-        <small>mencatat, merekam</small>
-        <span class="kanji-reading"><span>onyomi: ロク</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>録 berkaitan dengan catatan atau rekaman. Umum pada tombol rekam suara/video.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>記録<rt>きろく</rt></ruby></span> - catatan, rekor</li>
-      <li><span class="ruby-word"><ruby>録音<rt>ろくおん</rt></ruby></span> - rekaman suara</li>
-      <li><span class="ruby-word"><ruby>録画<rt>ろくが</rt></ruby></span> - rekaman video</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">録</span>
+    <span class="kanji-meta">
+      <strong>録</strong>
+      <small>mencatat, merekam</small>
+      <span class="kanji-reading"><span>onyomi: ロク</span>
+    </span>
+  </summary>
+  <p>録 berkaitan dengan catatan atau rekaman. Umum pada tombol rekam suara/video.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>記録<rt>きろく</rt></ruby></span> - catatan, rekor</li>
+    <li><span class="ruby-word"><ruby>録音<rt>ろくおん</rt></ruby></span> - rekaman suara</li>
+    <li><span class="ruby-word"><ruby>録画<rt>ろくが</rt></ruby></span> - rekaman video</li>
+  </ul>
+</details>
 </div>
-
 ## Peta Kata
 
 Kata-kata hari ini sangat sering muncul pada UI. 接続 menunjukkan koneksi, 表示 dan 指示 berkaitan dengan tampilan/arahan, 戻る adalah kembali, 完了 menandai proses selesai, dan 登録・記録・録音・録画 berkaitan dengan mendaftar atau menyimpan data.

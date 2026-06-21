@@ -48,15 +48,51 @@ Di akhir pelajaran ini, kamu bisa membaca kata seperti 医者, 学者, 会社員
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open><summary><span class="kanji-char">医</span><span class="kanji-meta"><strong>医</strong><small>dokter, medis</small><span class="kanji-reading"><span>onyomi: イ</span><span>kunyomi: -</span></span></span></summary><p>医 hampir selalu berhubungan dengan dunia medis.</p><ul><li>医者 - dokter</li><li>医学 - ilmu kedokteran</li><li>歯医者 - dokter gigi</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">者</span><span class="kanji-meta"><strong>者</strong><small>orang, pelaku</small><span class="kanji-reading"><span>onyomi: シャ</span><span>kunyomi: もの</span></span></span></summary><p>者 sering menandai orang berdasarkan peran atau keahlian.</p><ul><li>医者 - dokter</li><li>学者 - ilmuwan</li><li>読者 - pembaca</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">員</span><span class="kanji-meta"><strong>員</strong><small>anggota, pegawai</small><span class="kanji-reading"><span>onyomi: イン</span><span>kunyomi: -</span></span></span></summary><p>員 menandai anggota atau staf dalam organisasi.</p><ul><li>店員 - pegawai toko</li><li>会社員 - pegawai perusahaan</li><li>駅員 - petugas stasiun</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">民</span><span class="kanji-meta"><strong>民</strong><small>warga, rakyat</small><span class="kanji-reading"><span>onyomi: ミン</span><span>kunyomi: たみ</span></span></span></summary><p>民 dipakai untuk warga, rakyat, atau masyarakat.</p><ul><li>国民 - rakyat negara</li><li>市民 - warga kota</li><li>住民 - penduduk</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">歌</span><span class="kanji-meta"><strong>歌</strong><small>lagu, menyanyi</small><span class="kanji-reading"><span>onyomi: カ</span><span>kunyomi: うた、うたう</span></span></span></summary><p>歌 berhubungan dengan lagu dan kegiatan bernyanyi.</p><ul><li>歌手 - penyanyi</li><li>歌詞 - lirik</li><li>国歌 - lagu kebangsaan</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">運</span><span class="kanji-meta"><strong>運</strong><small>membawa, olahraga</small><span class="kanji-reading"><span>onyomi: ウン</span><span>kunyomi: はこぶ</span></span></span></summary><p>運 muncul pada kegiatan mengemudi, olahraga, dan membawa sesuatu.</p><ul><li>運転 - mengemudi</li><li>運動 - olahraga</li><li>運転手 - pengemudi</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">転</span><span class="kanji-meta"><strong>転</strong><small>berputar, berpindah</small><span class="kanji-reading"><span>onyomi: テン</span><span>kunyomi: ころぶ、ころがる</span></span></span></summary><p>転 memberi rasa berputar, berpindah, atau berubah arah.</p><ul><li>自転車 - sepeda</li><li>運転 - mengemudi</li><li>転校 - pindah sekolah</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">説</span><span class="kanji-meta"><strong>説</strong><small>menjelaskan, teori</small><span class="kanji-reading"><span>onyomi: セツ</span><span>kunyomi: とく</span></span></span></summary><p>説 berhubungan dengan penjelasan, teori, atau cerita tertulis.</p><ul><li>説明 - penjelasan</li><li>小説 - novel</li><li>解説 - komentar penjelas</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">家</span><span class="kanji-meta"><strong>家</strong><small>rumah, keluarga, ahli</small><span class="kanji-reading"><span>onyomi: カ、ケ</span><span>kunyomi: いえ、や</span></span></span></summary><p>家 bisa berarti rumah, keluarga, atau ahli/profesi pada kata tertentu.</p><ul><li>家族 - keluarga</li><li>作家 - penulis</li><li>家庭 - rumah tangga</li></ul></details>
+  <details class="kanji-card" open><summary><span class="kanji-char">医</span><span class="kanji-meta"><strong>医</strong><small>dokter, medis</small><span class="kanji-reading"><span>onyomi: イ</span><span>kunyomi: -</span></span></span></summary><p>医 hampir selalu berhubungan dengan dunia medis.</p><ul>
+    <li><span class="ruby-word"><ruby>医者<rt>いしゃ</rt></ruby></span> - dokter</li>
+    <li><span class="ruby-word"><ruby>医学<rt>いがく</rt></ruby></span> - ilmu kedokteran</li>
+    <li><span class="ruby-word"><ruby>歯医者<rt>はいしゃ</rt></ruby></span> - dokter gigi</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">者</span><span class="kanji-meta"><strong>者</strong><small>orang, pelaku</small><span class="kanji-reading"><span>onyomi: シャ</span><span>kunyomi: もの</span></span></span></summary><p>者 sering menandai orang berdasarkan peran atau keahlian.</p><ul>
+    <li><span class="ruby-word"><ruby>医者<rt>いしゃ</rt></ruby></span> - dokter</li>
+    <li><span class="ruby-word"><ruby>学者<rt>がくしゃ</rt></ruby></span> - ilmuwan</li>
+    <li><span class="ruby-word"><ruby>読者<rt>どくしゃ</rt></ruby></span> - pembaca</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">員</span><span class="kanji-meta"><strong>員</strong><small>anggota, pegawai</small><span class="kanji-reading"><span>onyomi: イン</span><span>kunyomi: -</span></span></span></summary><p>員 menandai anggota atau staf dalam organisasi.</p><ul>
+    <li><span class="ruby-word"><ruby>店員<rt>てんいん</rt></ruby></span> - pegawai toko</li>
+    <li><span class="ruby-word"><ruby>会社<rt>かいしゃ</rt></ruby><ruby>員<rt>いん</rt></ruby></span> - pegawai perusahaan</li>
+    <li><span class="ruby-word"><ruby>駅員<rt>えきいん</rt></ruby></span> - petugas stasiun</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">民</span><span class="kanji-meta"><strong>民</strong><small>warga, rakyat</small><span class="kanji-reading"><span>onyomi: ミン</span><span>kunyomi: たみ</span></span></span></summary><p>民 dipakai untuk warga, rakyat, atau masyarakat.</p><ul>
+    <li><span class="ruby-word"><ruby>国民<rt>こくみん</rt></ruby></span> - rakyat negara</li>
+    <li><span class="ruby-word"><ruby>市民<rt>しみん</rt></ruby></span> - warga kota</li>
+    <li><span class="ruby-word"><ruby>住民<rt>じゅうみん</rt></ruby></span> - penduduk</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">歌</span><span class="kanji-meta"><strong>歌</strong><small>lagu, menyanyi</small><span class="kanji-reading"><span>onyomi: カ</span><span>kunyomi: うた、うたう</span></span></span></summary><p>歌 berhubungan dengan lagu dan kegiatan bernyanyi.</p><ul>
+    <li><span class="ruby-word"><ruby>歌手<rt>かしゅ</rt></ruby></span> - penyanyi</li>
+    <li><span class="ruby-word"><ruby>歌詞<rt>かし</rt></ruby></span> - lirik</li>
+    <li><span class="ruby-word"><ruby>国歌<rt>こっか</rt></ruby></span> - lagu kebangsaan</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">運</span><span class="kanji-meta"><strong>運</strong><small>membawa, olahraga</small><span class="kanji-reading"><span>onyomi: ウン</span><span>kunyomi: はこぶ</span></span></span></summary><p>運 muncul pada kegiatan mengemudi, olahraga, dan membawa sesuatu.</p><ul>
+    <li><span class="ruby-word"><ruby>運転<rt>うんてん</rt></ruby></span> - mengemudi</li>
+    <li><span class="ruby-word"><ruby>運動<rt>うんどう</rt></ruby></span> - olahraga</li>
+    <li><span class="ruby-word"><ruby>運転<rt>うんてん</rt></ruby><ruby>手<rt>しゅ</rt></ruby></span> - pengemudi</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">転</span><span class="kanji-meta"><strong>転</strong><small>berputar, berpindah</small><span class="kanji-reading"><span>onyomi: テン</span><span>kunyomi: ころぶ、ころがる</span></span></span></summary><p>転 memberi rasa berputar, berpindah, atau berubah arah.</p><ul>
+    <li><span class="ruby-word"><ruby>自転車<rt>じてんしゃ</rt></ruby></span> - sepeda</li>
+    <li><span class="ruby-word"><ruby>運転<rt>うんてん</rt></ruby></span> - mengemudi</li>
+    <li><span class="ruby-word"><ruby>転校<rt>てんこう</rt></ruby></span> - pindah sekolah</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">説</span><span class="kanji-meta"><strong>説</strong><small>menjelaskan, teori</small><span class="kanji-reading"><span>onyomi: セツ</span><span>kunyomi: とく</span></span></span></summary><p>説 berhubungan dengan penjelasan, teori, atau cerita tertulis.</p><ul>
+    <li><span class="ruby-word"><ruby>説明<rt>せつめい</rt></ruby></span> - penjelasan</li>
+    <li><span class="ruby-word"><ruby>小説<rt>しょうせつ</rt></ruby></span> - novel</li>
+    <li><span class="ruby-word"><ruby>解説<rt>かいせつ</rt></ruby></span> - komentar penjelas</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">家</span><span class="kanji-meta"><strong>家</strong><small>rumah, keluarga, ahli</small><span class="kanji-reading"><span>onyomi: カ、ケ</span><span>kunyomi: いえ、や</span></span></span></summary><p>家 bisa berarti rumah, keluarga, atau ahli/profesi pada kata tertentu.</p><ul>
+    <li><span class="ruby-word"><ruby>家族<rt>かぞく</rt></ruby></span> - keluarga</li>
+    <li><span class="ruby-word"><ruby>作家<rt>さっか</rt></ruby></span> - penulis</li>
+    <li><span class="ruby-word"><ruby>家庭<rt>かてい</rt></ruby></span> - rumah tangga</li>
+  </ul></details>
 </div>
 
 ## Peta Kata

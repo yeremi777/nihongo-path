@@ -47,135 +47,134 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 頭痛、痛�
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open>
-    <summary>
-      <span class="kanji-char">痛</span>
-      <span class="kanji-meta">
-        <strong>痛</strong>
-        <small>sakit, nyeri</small>
-        <span class="kanji-reading"><span>onyomi: ツウ</span><span>kunyomi: いたい</span></span>
-      </span>
-    </summary>
-    <p>Dalam formulir klinik gigi dan catatan keluhan, 痛 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>頭痛<rt>ずつう</rt></ruby></span> - sakit kepala</li>
-      <li><span class="ruby-word"><ruby>痛い<rt>いたい</rt></ruby></span> - sakit</li>
-    </ul>
-  </details>
+<details class="kanji-card" open>
+  <summary>
+    <span class="kanji-char">痛</span>
+    <span class="kanji-meta">
+      <strong>痛</strong>
+      <small>sakit, nyeri</small>
+      <span class="kanji-reading"><span>onyomi: ツウ</span>
+    </span>
+  </summary>
+  <p>Dalam formulir klinik gigi dan catatan keluhan, 痛 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>頭痛<rt>ずつう</rt></ruby></span> - sakit kepala</li>
+    <li><span class="ruby-word"><ruby>痛い<rt>いたい</rt></ruby></span> - sakit</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">熱</span>
-      <span class="kanji-meta">
-        <strong>熱</strong>
-        <small>panas, demam</small>
-        <span class="kanji-reading"><span>onyomi: ネツ</span><span>kunyomi: あつい</span></span>
-      </span>
-    </summary>
-    <p>Dalam formulir klinik gigi dan catatan keluhan, 熱 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>熱<rt>ねつ</rt></ruby></span> - demam</li>
-      <li><span class="ruby-word"><ruby>熱心<rt>ねっしん</rt></ruby></span> - antusias</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">熱</span>
+    <span class="kanji-meta">
+      <strong>熱</strong>
+      <small>panas, demam</small>
+      <span class="kanji-reading"><span>onyomi: ネツ</span>
+    </span>
+  </summary>
+  <p>Dalam formulir klinik gigi dan catatan keluhan, 熱 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>熱<rt>ねつ</rt></ruby></span> - demam</li>
+    <li><span class="ruby-word"><ruby>熱心<rt>ねっしん</rt></ruby></span> - antusias</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">虫</span>
-      <span class="kanji-meta">
-        <strong>虫</strong>
-        <small>serangga, kuman</small>
-        <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: むし</span></span>
-      </span>
-    </summary>
-    <p>Dalam formulir klinik gigi dan catatan keluhan, 虫 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>虫<rt>むし</rt></ruby></span> - serangga</li>
-      <li><span class="ruby-word"><ruby>虫歯<rt>むしば</rt></ruby></span> - gigi berlubang</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">虫</span>
+    <span class="kanji-meta">
+      <strong>虫</strong>
+      <small>serangga, kuman</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>Dalam formulir klinik gigi dan catatan keluhan, 虫 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>虫<rt>むし</rt></ruby></span> - serangga</li>
+    <li><span class="ruby-word"><ruby>虫歯<rt>むしば</rt></ruby></span> - gigi berlubang</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">歯</span>
-      <span class="kanji-meta">
-        <strong>歯</strong>
-        <small>gigi</small>
-        <span class="kanji-reading"><span>onyomi: シ</span><span>kunyomi: は</span></span>
-      </span>
-    </summary>
-    <p>Dalam formulir klinik gigi dan catatan keluhan, 歯 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>歯科<rt>しか</rt></ruby></span> - kedokteran gigi</li>
-      <li><span class="ruby-word"><ruby>歯医者<rt>はいしゃ</rt></ruby></span> - dokter gigi</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">歯</span>
+    <span class="kanji-meta">
+      <strong>歯</strong>
+      <small>gigi</small>
+      <span class="kanji-reading"><span>onyomi: シ</span>
+    </span>
+  </summary>
+  <p>Dalam formulir klinik gigi dan catatan keluhan, 歯 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>歯科<rt>しか</rt></ruby></span> - kedokteran gigi</li>
+    <li><span class="ruby-word"><ruby>歯医者<rt>はいしゃ</rt></ruby></span> - dokter gigi</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">治</span>
-      <span class="kanji-meta">
-        <strong>治</strong>
-        <small>sembuh, mengobati</small>
-        <span class="kanji-reading"><span>onyomi: ジ</span><span>kunyomi: なおる, なおす</span></span>
-      </span>
-    </summary>
-    <p>Dalam formulir klinik gigi dan catatan keluhan, 治 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>治療<rt>ちりょう</rt></ruby></span> - perawatan medis</li>
-      <li><span class="ruby-word"><ruby>治る<rt>なおる</rt></ruby></span> - sembuh</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">治</span>
+    <span class="kanji-meta">
+      <strong>治</strong>
+      <small>sembuh, mengobati</small>
+      <span class="kanji-reading"><span>onyomi: ジ</span>
+    </span>
+  </summary>
+  <p>Dalam formulir klinik gigi dan catatan keluhan, 治 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>治療<rt>ちりょう</rt></ruby></span> - perawatan medis</li>
+    <li><span class="ruby-word"><ruby>治る<rt>なおる</rt></ruby></span> - sembuh</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">汚</span>
-      <span class="kanji-meta">
-        <strong>汚</strong>
-        <small>kotor</small>
-        <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: きたない, よごれる</span></span>
-      </span>
-    </summary>
-    <p>Dalam formulir klinik gigi dan catatan keluhan, 汚 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>汚い<rt>きたない</rt></ruby></span> - kotor</li>
-      <li><span class="ruby-word"><ruby>汚れる<rt>よごれる</rt></ruby></span> - menjadi kotor</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">汚</span>
+    <span class="kanji-meta">
+      <strong>汚</strong>
+      <small>kotor</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>Dalam formulir klinik gigi dan catatan keluhan, 汚 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>汚い<rt>きたない</rt></ruby></span> - kotor</li>
+    <li><span class="ruby-word"><ruby>汚れる<rt>よごれる</rt></ruby></span> - menjadi kotor</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">並</span>
-      <span class="kanji-meta">
-        <strong>並</strong>
-        <small>berbaris, tersusun</small>
-        <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: ならぶ, ならべる</span></span>
-      </span>
-    </summary>
-    <p>Dalam formulir klinik gigi dan catatan keluhan, 並 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>並ぶ<rt>ならぶ</rt></ruby></span> - berbaris</li>
-      <li><span class="ruby-word"><ruby>歯並び<rt>はならび</rt></ruby></span> - susunan gigi</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">並</span>
+    <span class="kanji-meta">
+      <strong>並</strong>
+      <small>berbaris, tersusun</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>Dalam formulir klinik gigi dan catatan keluhan, 並 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>並ぶ<rt>ならぶ</rt></ruby></span> - berbaris</li>
+    <li><span class="ruby-word"><ruby>歯並び<rt>はならび</rt></ruby></span> - susunan gigi</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">他</span>
-      <span class="kanji-meta">
-        <strong>他</strong>
-        <small>lain</small>
-        <span class="kanji-reading"><span>onyomi: タ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam formulir klinik gigi dan catatan keluhan, 他 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>他の<rt>ほかの</rt></ruby></span> - yang lain</li>
-      <li><span class="ruby-word"><ruby>その他<rt>そのた</rt></ruby></span> - lainnya</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">他</span>
+    <span class="kanji-meta">
+      <strong>他</strong>
+      <small>lain</small>
+      <span class="kanji-reading"><span>onyomi: タ</span>
+    </span>
+  </summary>
+  <p>Dalam formulir klinik gigi dan catatan keluhan, 他 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>他の<rt>ほかの</rt></ruby></span> - yang lain</li>
+    <li><span class="ruby-word"><ruby>その他<rt>そのた</rt></ruby></span> - lainnya</li>
+  </ul>
+</details>
 </div>
-
 ## Peta Kata
 
 <div class="word-strip">

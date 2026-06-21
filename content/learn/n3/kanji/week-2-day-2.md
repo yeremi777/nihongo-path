@@ -47,138 +47,137 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 禁煙, 全席
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open>
-    <summary>
-      <span class="kanji-char">煙</span>
-      <span class="kanji-meta">
-        <strong>煙</strong>
-        <small>asap</small>
-        <span class="kanji-reading"><span>onyomi: エン</span><span>kunyomi: けむり</span></span>
-      </span>
-    </summary>
-    <p>煙 memberi tanda tentang asap atau rokok. Dalam 禁煙, kanji ini membantu mengenali larangan merokok.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>禁煙<rt>きんえん</rt></ruby></span> - dilarang merokok</li>
-      <li><span class="ruby-word"><ruby>煙<rt>けむり</rt></ruby></span> - asap</li>
-    </ul>
-  </details>
+<details class="kanji-card" open>
+  <summary>
+    <span class="kanji-char">煙</span>
+    <span class="kanji-meta">
+      <strong>煙</strong>
+      <small>asap</small>
+      <span class="kanji-reading"><span>onyomi: エン</span>
+    </span>
+  </summary>
+  <p>煙 memberi tanda tentang asap atau rokok. Dalam 禁煙, kanji ini membantu mengenali larangan merokok.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>禁煙<rt>きんえん</rt></ruby></span> - dilarang merokok</li>
+    <li><span class="ruby-word"><ruby>煙<rt>けむり</rt></ruby></span> - asap</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">当</span>
-      <span class="kanji-meta">
-        <strong>当</strong>
-        <small>tepat, mengenai, saat ini</small>
-        <span class="kanji-reading"><span>onyomi: トウ</span><span>kunyomi: あたる</span></span>
-      </span>
-    </summary>
-    <p>当 bisa berarti tepat/kena atau “yang bersangkutan”. Dalam pengumuman, 当店 berarti toko/restoran ini.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>本当<rt>ほんとう</rt></ruby></span> - benar</li>
-      <li><span class="ruby-word"><ruby>当たる<rt>あたる</rt></ruby></span> - kena, tepat</li>
-      <li><span class="ruby-word"><ruby>当店<rt>とうてん</rt></ruby></span> - toko/restoran ini</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">当</span>
+    <span class="kanji-meta">
+      <strong>当</strong>
+      <small>tepat, mengenai, saat ini</small>
+      <span class="kanji-reading"><span>onyomi: トウ</span>
+    </span>
+  </summary>
+  <p>当 bisa berarti tepat/kena atau “yang bersangkutan”. Dalam pengumuman, 当店 berarti toko/restoran ini.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>本当<rt>ほんとう</rt></ruby></span> - benar</li>
+    <li><span class="ruby-word"><ruby>当たる<rt>あたる</rt></ruby></span> - kena, tepat</li>
+    <li><span class="ruby-word"><ruby>当店<rt>とうてん</rt></ruby></span> - toko/restoran ini</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">全</span>
-      <span class="kanji-meta">
-        <strong>全</strong>
-        <small>seluruh, semua</small>
-        <span class="kanji-reading"><span>onyomi: ゼン</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>全 memberi rasa keseluruhan. Pada papan restoran, 全席 berarti semua kursi.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>全部<rt>ぜんぶ</rt></ruby></span> - semua</li>
-      <li><span class="ruby-word"><ruby>全席<rt>ぜんせき</rt></ruby></span> - semua kursi</li>
-      <li><span class="ruby-word"><ruby>安全<rt>あんぜん</rt></ruby></span> - aman</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">全</span>
+    <span class="kanji-meta">
+      <strong>全</strong>
+      <small>seluruh, semua</small>
+      <span class="kanji-reading"><span>onyomi: ゼン</span>
+    </span>
+  </summary>
+  <p>全 memberi rasa keseluruhan. Pada papan restoran, 全席 berarti semua kursi.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>全部<rt>ぜんぶ</rt></ruby></span> - semua</li>
+    <li><span class="ruby-word"><ruby>全席<rt>ぜんせき</rt></ruby></span> - semua kursi</li>
+    <li><span class="ruby-word"><ruby>安全<rt>あんぜん</rt></ruby></span> - aman</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">客</span>
-      <span class="kanji-meta">
-        <strong>客</strong>
-        <small>tamu, pelanggan</small>
-        <span class="kanji-reading"><span>onyomi: キャク</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>客 menunjuk orang yang datang sebagai tamu atau pelanggan. Bentuk sopannya sering memakai お dan 様.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>客<rt>きゃく</rt></ruby></span> - tamu, pelanggan</li>
-      <li><span class="ruby-word"><ruby>お客様<rt>おきゃくさま</rt></ruby></span> - pelanggan, tamu terhormat</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">客</span>
+    <span class="kanji-meta">
+      <strong>客</strong>
+      <small>tamu, pelanggan</small>
+      <span class="kanji-reading"><span>onyomi: キャク</span>
+    </span>
+  </summary>
+  <p>客 menunjuk orang yang datang sebagai tamu atau pelanggan. Bentuk sopannya sering memakai お dan 様.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>客<rt>きゃく</rt></ruby></span> - tamu, pelanggan</li>
+    <li><span class="ruby-word"><ruby>お客様<rt>おきゃくさま</rt></ruby></span> - pelanggan, tamu terhormat</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">様</span>
-      <span class="kanji-meta">
-        <strong>様</strong>
-        <small>keadaan, bentuk hormat</small>
-        <span class="kanji-reading"><span>onyomi: ヨウ</span><span>kunyomi: さま</span></span>
-      </span>
-    </summary>
-    <p>様 bisa menjadi akhiran hormat atau berarti keadaan. Bedakan dari konteks kata setelah atau sebelumnya.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>様子<rt>ようす</rt></ruby></span> - keadaan, situasi</li>
-      <li><span class="ruby-word"><ruby>お客様<rt>おきゃくさま</rt></ruby></span> - pelanggan, tamu terhormat</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">様</span>
+    <span class="kanji-meta">
+      <strong>様</strong>
+      <small>keadaan, bentuk hormat</small>
+      <span class="kanji-reading"><span>onyomi: ヨウ</span>
+    </span>
+  </summary>
+  <p>様 bisa menjadi akhiran hormat atau berarti keadaan. Bedakan dari konteks kata setelah atau sebelumnya.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>様子<rt>ようす</rt></ruby></span> - keadaan, situasi</li>
+    <li><span class="ruby-word"><ruby>お客様<rt>おきゃくさま</rt></ruby></span> - pelanggan, tamu terhormat</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">解</span>
-      <span class="kanji-meta">
-        <strong>解</strong>
-        <small>memahami, menguraikan</small>
-        <span class="kanji-reading"><span>onyomi: カイ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>解 muncul dalam kata tentang memahami, menjelaskan, atau memecahkan sesuatu.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>理解<rt>りかい</rt></ruby></span> - pemahaman</li>
-      <li><span class="ruby-word"><ruby>解説<rt>かいせつ</rt></ruby></span> - penjelasan</li>
-      <li><span class="ruby-word"><ruby>解答<rt>かいとう</rt></ruby></span> - jawaban</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">解</span>
+    <span class="kanji-meta">
+      <strong>解</strong>
+      <small>memahami, menguraikan</small>
+      <span class="kanji-reading"><span>onyomi: カイ</span>
+    </span>
+  </summary>
+  <p>解 muncul dalam kata tentang memahami, menjelaskan, atau memecahkan sesuatu.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>理解<rt>りかい</rt></ruby></span> - pemahaman</li>
+    <li><span class="ruby-word"><ruby>解説<rt>かいせつ</rt></ruby></span> - penjelasan</li>
+    <li><span class="ruby-word"><ruby>解答<rt>かいとう</rt></ruby></span> - jawaban</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">協</span>
-      <span class="kanji-meta">
-        <strong>協</strong>
-        <small>kerja sama</small>
-        <span class="kanji-reading"><span>onyomi: キョウ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>協 memberi rasa bekerja bersama. Dalam pengumuman, 協力 hampir selalu berarti kerja sama yang diminta.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>協力<rt>きょうりょく</rt></ruby></span> - kerja sama</li>
-      <li><span class="ruby-word"><ruby>協会<rt>きょうかい</rt></ruby></span> - asosiasi</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">協</span>
+    <span class="kanji-meta">
+      <strong>協</strong>
+      <small>kerja sama</small>
+      <span class="kanji-reading"><span>onyomi: キョウ</span>
+    </span>
+  </summary>
+  <p>協 memberi rasa bekerja bersama. Dalam pengumuman, 協力 hampir selalu berarti kerja sama yang diminta.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>協力<rt>きょうりょく</rt></ruby></span> - kerja sama</li>
+    <li><span class="ruby-word"><ruby>協会<rt>きょうかい</rt></ruby></span> - asosiasi</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">願</span>
-      <span class="kanji-meta">
-        <strong>願</strong>
-        <small>memohon, berharap</small>
-        <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: ねがう</span></span>
-      </span>
-    </summary>
-    <p>願 dipakai untuk permintaan dan harapan. Dalam pengumuman sopan, お願いします sangat sering muncul.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>願う<rt>ねがう</rt></ruby></span> - berharap, memohon</li>
-      <li><span class="ruby-word"><ruby>お願い<rt>おねがい</rt></ruby></span> - permintaan, mohon</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">願</span>
+    <span class="kanji-meta">
+      <strong>願</strong>
+      <small>memohon, berharap</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>願 dipakai untuk permintaan dan harapan. Dalam pengumuman sopan, お願いします sangat sering muncul.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>願う<rt>ねがう</rt></ruby></span> - berharap, memohon</li>
+    <li><span class="ruby-word"><ruby>お願い<rt>おねがい</rt></ruby></span> - permintaan, mohon</li>
+  </ul>
+</details>
 </div>
-
 ## Peta Kata
 
 Kata-kata hari ini sering muncul sebagai pengumuman sopan. 禁煙 dan 全席 menjelaskan aturan area, 客 dan 様 menunjuk pelanggan, sedangkan 理解, 協力, dan 願う membentuk pola permintaan yang halus.

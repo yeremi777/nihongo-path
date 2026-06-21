@@ -47,135 +47,134 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 求人、求�
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open>
-    <summary>
-      <span class="kanji-char">求</span>
-      <span class="kanji-meta">
-        <strong>求</strong>
-        <small>mencari, meminta</small>
-        <span class="kanji-reading"><span>onyomi: キュウ</span><span>kunyomi: もとめる</span></span>
-      </span>
-    </summary>
-    <p>Dalam iklan lowongan kerja, 求 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>求人<rt>きゅうじん</rt></ruby></span> - lowongan kerja</li>
-      <li><span class="ruby-word"><ruby>求める<rt>もとめる</rt></ruby></span> - mencari</li>
-    </ul>
-  </details>
+<details class="kanji-card" open>
+  <summary>
+    <span class="kanji-char">求</span>
+    <span class="kanji-meta">
+      <strong>求</strong>
+      <small>mencari, meminta</small>
+      <span class="kanji-reading"><span>onyomi: キュウ</span>
+    </span>
+  </summary>
+  <p>Dalam iklan lowongan kerja, 求 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>求人<rt>きゅうじん</rt></ruby></span> - lowongan kerja</li>
+    <li><span class="ruby-word"><ruby>求める<rt>もとめる</rt></ruby></span> - mencari</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">募</span>
-      <span class="kanji-meta">
-        <strong>募</strong>
-        <small>merekrut</small>
-        <span class="kanji-reading"><span>onyomi: ボ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam iklan lowongan kerja, 募 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>募集<rt>ぼしゅう</rt></ruby></span> - perekrutan</li>
-      <li><span class="ruby-word"><ruby>応募<rt>おうぼ</rt></ruby></span> - melamar</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">募</span>
+    <span class="kanji-meta">
+      <strong>募</strong>
+      <small>merekrut</small>
+      <span class="kanji-reading"><span>onyomi: ボ</span>
+    </span>
+  </summary>
+  <p>Dalam iklan lowongan kerja, 募 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>募集<rt>ぼしゅう</rt></ruby></span> - perekrutan</li>
+    <li><span class="ruby-word"><ruby>応募<rt>おうぼ</rt></ruby></span> - melamar</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">職</span>
-      <span class="kanji-meta">
-        <strong>職</strong>
-        <small>pekerjaan, jabatan</small>
-        <span class="kanji-reading"><span>onyomi: ショク</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam iklan lowongan kerja, 職 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>職場<rt>しょくば</rt></ruby></span> - tempat kerja</li>
-      <li><span class="ruby-word"><ruby>職業<rt>しょくぎょう</rt></ruby></span> - pekerjaan</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">職</span>
+    <span class="kanji-meta">
+      <strong>職</strong>
+      <small>pekerjaan, jabatan</small>
+      <span class="kanji-reading"><span>onyomi: ショク</span>
+    </span>
+  </summary>
+  <p>Dalam iklan lowongan kerja, 職 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>職場<rt>しょくば</rt></ruby></span> - tempat kerja</li>
+    <li><span class="ruby-word"><ruby>職業<rt>しょくぎょう</rt></ruby></span> - pekerjaan</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">容</span>
-      <span class="kanji-meta">
-        <strong>容</strong>
-        <small>isi, bentuk</small>
-        <span class="kanji-reading"><span>onyomi: ヨウ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam iklan lowongan kerja, 容 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>内容<rt>ないよう</rt></ruby></span> - isi</li>
-      <li><span class="ruby-word"><ruby>美容院<rt>びよういん</rt></ruby></span> - salon</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">容</span>
+    <span class="kanji-meta">
+      <strong>容</strong>
+      <small>isi, bentuk</small>
+      <span class="kanji-reading"><span>onyomi: ヨウ</span>
+    </span>
+  </summary>
+  <p>Dalam iklan lowongan kerja, 容 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>内容<rt>ないよう</rt></ruby></span> - isi</li>
+    <li><span class="ruby-word"><ruby>美容院<rt>びよういん</rt></ruby></span> - salon</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">技</span>
-      <span class="kanji-meta">
-        <strong>技</strong>
-        <small>teknik, kemampuan</small>
-        <span class="kanji-reading"><span>onyomi: ギ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam iklan lowongan kerja, 技 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>技術<rt>ぎじゅつ</rt></ruby></span> - teknologi/keahlian</li>
-      <li><span class="ruby-word"><ruby>技術者<rt>ぎじゅつしゃ</rt></ruby></span> - teknisi</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">技</span>
+    <span class="kanji-meta">
+      <strong>技</strong>
+      <small>teknik, kemampuan</small>
+      <span class="kanji-reading"><span>onyomi: ギ</span>
+    </span>
+  </summary>
+  <p>Dalam iklan lowongan kerja, 技 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>技術<rt>ぎじゅつ</rt></ruby></span> - teknologi/keahlian</li>
+    <li><span class="ruby-word"><ruby>技術者<rt>ぎじゅつしゃ</rt></ruby></span> - teknisi</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">般</span>
-      <span class="kanji-meta">
-        <strong>般</strong>
-        <small>umum</small>
-        <span class="kanji-reading"><span>onyomi: ハン</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam iklan lowongan kerja, 般 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>一般<rt>いっぱん</rt></ruby></span> - umum</li>
-      <li><span class="ruby-word"><ruby>一般に<rt>いっぱんに</rt></ruby></span> - secara umum</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">般</span>
+    <span class="kanji-meta">
+      <strong>般</strong>
+      <small>umum</small>
+      <span class="kanji-reading"><span>onyomi: ハン</span>
+    </span>
+  </summary>
+  <p>Dalam iklan lowongan kerja, 般 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>一般<rt>いっぱん</rt></ruby></span> - umum</li>
+    <li><span class="ruby-word"><ruby>一般に<rt>いっぱんに</rt></ruby></span> - secara umum</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">務</span>
-      <span class="kanji-meta">
-        <strong>務</strong>
-        <small>tugas kantor</small>
-        <span class="kanji-reading"><span>onyomi: ム</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam iklan lowongan kerja, 務 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>事務<rt>じむ</rt></ruby></span> - administrasi</li>
-      <li><span class="ruby-word"><ruby>事務所<rt>じむしょ</rt></ruby></span> - kantor</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">務</span>
+    <span class="kanji-meta">
+      <strong>務</strong>
+      <small>tugas kantor</small>
+      <span class="kanji-reading"><span>onyomi: ム</span>
+    </span>
+  </summary>
+  <p>Dalam iklan lowongan kerja, 務 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>事務<rt>じむ</rt></ruby></span> - administrasi</li>
+    <li><span class="ruby-word"><ruby>事務所<rt>じむしょ</rt></ruby></span> - kantor</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">課</span>
-      <span class="kanji-meta">
-        <strong>課</strong>
-        <small>pelajaran, bagian</small>
-        <span class="kanji-reading"><span>onyomi: カ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dalam iklan lowongan kerja, 課 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>第1課<rt>だいいっか</rt></ruby></span> - bab 1</li>
-      <li><span class="ruby-word"><ruby>課長<rt>かちょう</rt></ruby></span> - kepala seksi</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">課</span>
+    <span class="kanji-meta">
+      <strong>課</strong>
+      <small>pelajaran, bagian</small>
+      <span class="kanji-reading"><span>onyomi: カ</span>
+    </span>
+  </summary>
+  <p>Dalam iklan lowongan kerja, 課 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>第1課<rt>だいいっか</rt></ruby></span> - bab 1</li>
+    <li><span class="ruby-word"><ruby>課長<rt>かちょう</rt></ruby></span> - kepala seksi</li>
+  </ul>
+</details>
 </div>
-
 ## Peta Kata
 
 <div class="word-strip">

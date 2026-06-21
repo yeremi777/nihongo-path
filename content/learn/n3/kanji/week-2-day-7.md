@@ -46,122 +46,121 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 黄色, 絵本
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open>
-    <summary>
-      <span class="kanji-char">黄</span>
-      <span class="kanji-meta">
-        <strong>黄</strong>
-        <small>kuning</small>
-        <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: き</span></span>
-      </span>
-    </summary>
-    <p>黄 memberi warna kuning. Dalam 黄色い, kanji ini langsung menjadi kata sifat warna.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>黄色<rt>きいろ</rt></ruby></span> - warna kuning</li>
-      <li><span class="ruby-word"><ruby>黄色い<rt>きいろい</rt></ruby></span> - kuning</li>
-    </ul>
-  </details>
+<details class="kanji-card" open>
+  <summary>
+    <span class="kanji-char">黄</span>
+    <span class="kanji-meta">
+      <strong>黄</strong>
+      <small>kuning</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>黄 memberi warna kuning. Dalam 黄色い, kanji ini langsung menjadi kata sifat warna.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>黄色<rt>きいろ</rt></ruby></span> - warna kuning</li>
+    <li><span class="ruby-word"><ruby>黄色い<rt>きいろい</rt></ruby></span> - kuning</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">絵</span>
-      <span class="kanji-meta">
-        <strong>絵</strong>
-        <small>gambar, lukisan</small>
-        <span class="kanji-reading"><span>onyomi: カイ, エ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>絵 menunjuk gambar atau lukisan. Sangat umum pada buku anak, museum, dan deskripsi visual.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>絵画<rt>かいが</rt></ruby></span> - lukisan</li>
-      <li><span class="ruby-word"><ruby>絵<rt>え</rt></ruby></span> - gambar</li>
-      <li><span class="ruby-word"><ruby>絵本<rt>えほん</rt></ruby></span> - buku bergambar</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">絵</span>
+    <span class="kanji-meta">
+      <strong>絵</strong>
+      <small>gambar, lukisan</small>
+      <span class="kanji-reading"><span>onyomi: カイ, エ</span>
+    </span>
+  </summary>
+  <p>絵 menunjuk gambar atau lukisan. Sangat umum pada buku anak, museum, dan deskripsi visual.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>絵画<rt>かいが</rt></ruby></span> - lukisan</li>
+    <li><span class="ruby-word"><ruby>絵<rt>え</rt></ruby></span> - gambar</li>
+    <li><span class="ruby-word"><ruby>絵本<rt>えほん</rt></ruby></span> - buku bergambar</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">組</span>
-      <span class="kanji-meta">
-        <strong>組</strong>
-        <small>kelompok, menyusun</small>
-        <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: くみ, くむ</span></span>
-      </span>
-    </summary>
-    <p>組 bisa berarti kelompok/kelas atau tindakan menyusun sesuatu.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>三組<rt>さんくみ</rt></ruby></span> - kelas/kelompok 3</li>
-      <li><span class="ruby-word"><ruby>組む<rt>くむ</rt></ruby></span> - menyusun, bekerja sama</li>
-      <li><span class="ruby-word"><ruby>番組<rt>ばんぐみ</rt></ruby></span> - program acara</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">組</span>
+    <span class="kanji-meta">
+      <strong>組</strong>
+      <small>kelompok, menyusun</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>組 bisa berarti kelompok/kelas atau tindakan menyusun sesuatu.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>三組<rt>さんくみ</rt></ruby></span> - kelas/kelompok 3</li>
+    <li><span class="ruby-word"><ruby>組む<rt>くむ</rt></ruby></span> - menyusun, bekerja sama</li>
+    <li><span class="ruby-word"><ruby>番組<rt>ばんぐみ</rt></ruby></span> - program acara</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">束</span>
-      <span class="kanji-meta">
-        <strong>束</strong>
-        <small>ikatan, bundel, janji</small>
-        <span class="kanji-reading"><span>onyomi: ソク</span><span>kunyomi: たば</span></span>
-      </span>
-    </summary>
-    <p>束 menunjuk sesuatu yang diikat menjadi satu. Dalam 約束, maknanya menjadi janji.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>約束<rt>やくそく</rt></ruby></span> - janji</li>
-      <li><span class="ruby-word"><ruby>花束<rt>はなたば</rt></ruby></span> - buket bunga</li>
-      <li><span class="ruby-word"><ruby>一束<rt>ひとたば</rt></ruby></span> - satu ikat</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">束</span>
+    <span class="kanji-meta">
+      <strong>束</strong>
+      <small>ikatan, bundel, janji</small>
+      <span class="kanji-reading"><span>onyomi: ソク</span>
+    </span>
+  </summary>
+  <p>束 menunjuk sesuatu yang diikat menjadi satu. Dalam 約束, maknanya menjadi janji.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>約束<rt>やくそく</rt></ruby></span> - janji</li>
+    <li><span class="ruby-word"><ruby>花束<rt>はなたば</rt></ruby></span> - buket bunga</li>
+    <li><span class="ruby-word"><ruby>一束<rt>ひとたば</rt></ruby></span> - satu ikat</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">授</span>
-      <span class="kanji-meta">
-        <strong>授</strong>
-        <small>mengajar, memberikan</small>
-        <span class="kanji-reading"><span>onyomi: ジュ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>授 muncul pada kata pelajaran dan pemberian pengetahuan atau gelar.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>授業<rt>じゅぎょう</rt></ruby></span> - pelajaran, kelas</li>
-      <li><span class="ruby-word"><ruby>教授<rt>きょうじゅ</rt></ruby></span> - profesor</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">授</span>
+    <span class="kanji-meta">
+      <strong>授</strong>
+      <small>mengajar, memberikan</small>
+      <span class="kanji-reading"><span>onyomi: ジュ</span>
+    </span>
+  </summary>
+  <p>授 muncul pada kata pelajaran dan pemberian pengetahuan atau gelar.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>授業<rt>じゅぎょう</rt></ruby></span> - pelajaran, kelas</li>
+    <li><span class="ruby-word"><ruby>教授<rt>きょうじゅ</rt></ruby></span> - profesor</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">渡</span>
-      <span class="kanji-meta">
-        <strong>渡</strong>
-        <small>menyeberang, menyerahkan</small>
-        <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: わたる, わたす</span></span>
-      </span>
-    </summary>
-    <p>渡 dipakai untuk perpindahan melewati sesuatu atau menyerahkan benda ke orang lain.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>渡る<rt>わたる</rt></ruby></span> - menyeberang</li>
-      <li><span class="ruby-word"><ruby>渡す<rt>わたす</rt></ruby></span> - menyerahkan</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">渡</span>
+    <span class="kanji-meta">
+      <strong>渡</strong>
+      <small>menyeberang, menyerahkan</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>渡 dipakai untuk perpindahan melewati sesuatu atau menyerahkan benda ke orang lain.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>渡る<rt>わたる</rt></ruby></span> - menyeberang</li>
+    <li><span class="ruby-word"><ruby>渡す<rt>わたす</rt></ruby></span> - menyerahkan</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">昔</span>
-      <span class="kanji-meta">
-        <strong>昔</strong>
-        <small>dahulu, masa lalu</small>
-        <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: むかし</span></span>
-      </span>
-    </summary>
-    <p>昔 menunjuk masa lampau yang terasa cukup jauh dari sekarang.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>昔<rt>むかし</rt></ruby></span> - dahulu</li>
-      <li><span class="ruby-word"><ruby>昔話<rt>むかしばなし</rt></ruby></span> - cerita zaman dulu</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">昔</span>
+    <span class="kanji-meta">
+      <strong>昔</strong>
+      <small>dahulu, masa lalu</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>昔 menunjuk masa lampau yang terasa cukup jauh dari sekarang.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>昔<rt>むかし</rt></ruby></span> - dahulu</li>
+    <li><span class="ruby-word"><ruby>昔話<rt>むかしばなし</rt></ruby></span> - cerita zaman dulu</li>
+  </ul>
+</details>
 </div>
-
 ## Peta Kata
 
 Kata-kata hari ini tidak berada pada satu tempat saja, tetapi tetap punya pola. 黄 dan 絵 sering muncul pada deskripsi benda, 組 dan 束 mengelompokkan sesuatu, 授 berkaitan dengan pelajaran, 渡 berkaitan dengan perpindahan, dan 昔 menunjuk waktu lampau.

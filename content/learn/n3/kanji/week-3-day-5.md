@@ -47,141 +47,140 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 留守番, 濃
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open>
-    <summary>
-      <span class="kanji-char">留</span>
-      <span class="kanji-meta">
-        <strong>留</strong>
-        <small>menahan, tinggal, menyimpan</small>
-        <span class="kanji-reading"><span>onyomi: リュウ, ル</span><span>kunyomi: とめる</span></span>
-      </span>
-    </summary>
-    <p>留 memberi rasa menahan atau tetap berada. Dalam 留守, artinya tidak ada di tempat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>留学<rt>りゅうがく</rt></ruby></span> - belajar di luar negeri</li>
-      <li><span class="ruby-word"><ruby>留守番<rt>るすばん</rt></ruby></span> - menjaga rumah saat orang pergi</li>
-      <li><span class="ruby-word"><ruby>留守<rt>るす</rt></ruby></span> - tidak ada di rumah/kantor</li>
-    </ul>
-  </details>
+<details class="kanji-card" open>
+  <summary>
+    <span class="kanji-char">留</span>
+    <span class="kanji-meta">
+      <strong>留</strong>
+      <small>menahan, tinggal, menyimpan</small>
+      <span class="kanji-reading"><span>onyomi: リュウ, ル</span>
+    </span>
+  </summary>
+  <p>留 memberi rasa menahan atau tetap berada. Dalam 留守, artinya tidak ada di tempat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>留学<rt>りゅうがく</rt></ruby></span> - belajar di luar negeri</li>
+    <li><span class="ruby-word"><ruby>留守番<rt>るすばん</rt></ruby></span> - menjaga rumah saat orang pergi</li>
+    <li><span class="ruby-word"><ruby>留守<rt>るす</rt></ruby></span> - tidak ada di rumah/kantor</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">守</span>
-      <span class="kanji-meta">
-        <strong>守</strong>
-        <small>menjaga, melindungi</small>
-        <span class="kanji-reading"><span>onyomi: シュ, ス</span><span>kunyomi: まもる</span></span>
-      </span>
-    </summary>
-    <p>守 berarti menjaga atau melindungi. Dalam 留守番, ia berkaitan dengan menjaga tempat saat orang lain pergi.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>守る<rt>まもる</rt></ruby></span> - menjaga</li>
-      <li><span class="ruby-word"><ruby>守備<rt>しゅび</rt></ruby></span> - pertahanan</li>
-      <li><span class="ruby-word"><ruby>留守<rt>るす</rt></ruby></span> - tidak ada di rumah/kantor</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">守</span>
+    <span class="kanji-meta">
+      <strong>守</strong>
+      <small>menjaga, melindungi</small>
+      <span class="kanji-reading"><span>onyomi: シュ, ス</span>
+    </span>
+  </summary>
+  <p>守 berarti menjaga atau melindungi. Dalam 留守番, ia berkaitan dengan menjaga tempat saat orang lain pergi.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>守る<rt>まもる</rt></ruby></span> - menjaga</li>
+    <li><span class="ruby-word"><ruby>守備<rt>しゅび</rt></ruby></span> - pertahanan</li>
+    <li><span class="ruby-word"><ruby>留守<rt>るす</rt></ruby></span> - tidak ada di rumah/kantor</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">濃</span>
-      <span class="kanji-meta">
-        <strong>濃</strong>
-        <small>pekat, gelap, kuat</small>
-        <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: こい</span></span>
-      </span>
-    </summary>
-    <p>濃 dipakai untuk warna, rasa, atau cetakan yang pekat/kuat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>濃い<rt>こい</rt></ruby></span> - pekat, gelap, kuat</li>
-      <li><span class="ruby-word"><ruby>濃度<rt>のうど</rt></ruby></span> - konsentrasi</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">濃</span>
+    <span class="kanji-meta">
+      <strong>濃</strong>
+      <small>pekat, gelap, kuat</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>濃 dipakai untuk warna, rasa, atau cetakan yang pekat/kuat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>濃い<rt>こい</rt></ruby></span> - pekat, gelap, kuat</li>
+    <li><span class="ruby-word"><ruby>濃度<rt>のうど</rt></ruby></span> - konsentrasi</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">薄</span>
-      <span class="kanji-meta">
-        <strong>薄</strong>
-        <small>tipis, pucat, lemah</small>
-        <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: うすい</span></span>
-      </span>
-    </summary>
-    <p>薄 adalah lawan 濃. Pada salinan, artinya hasil cetak terlalu pucat atau tipis.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>薄い<rt>うすい</rt></ruby></span> - tipis, pucat, lemah</li>
-      <li><span class="ruby-word"><ruby>薄める<rt>うすめる</rt></ruby></span> - mengencerkan</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">薄</span>
+    <span class="kanji-meta">
+      <strong>薄</strong>
+      <small>tipis, pucat, lemah</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>薄 adalah lawan 濃. Pada salinan, artinya hasil cetak terlalu pucat atau tipis.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>薄い<rt>うすい</rt></ruby></span> - tipis, pucat, lemah</li>
+    <li><span class="ruby-word"><ruby>薄める<rt>うすめる</rt></ruby></span> - mengencerkan</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">部</span>
-      <span class="kanji-meta">
-        <strong>部</strong>
-        <small>bagian, departemen, eksemplar</small>
-        <span class="kanji-reading"><span>onyomi: ブ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>部 bisa berarti bagian, departemen, atau jumlah eksemplar. Konteks mesin fotokopi sering memakai 部数.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>部分<rt>ぶぶん</rt></ruby></span> - bagian</li>
-      <li><span class="ruby-word"><ruby>部長<rt>ぶちょう</rt></ruby></span> - kepala bagian</li>
-      <li><span class="ruby-word"><ruby>部屋<rt>へや</rt></ruby></span> - kamar</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">部</span>
+    <span class="kanji-meta">
+      <strong>部</strong>
+      <small>bagian, departemen, eksemplar</small>
+      <span class="kanji-reading"><span>onyomi: ブ</span>
+    </span>
+  </summary>
+  <p>部 bisa berarti bagian, departemen, atau jumlah eksemplar. Konteks mesin fotokopi sering memakai 部数.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>部分<rt>ぶぶん</rt></ruby></span> - bagian</li>
+    <li><span class="ruby-word"><ruby>部長<rt>ぶちょう</rt></ruby></span> - kepala bagian</li>
+    <li><span class="ruby-word"><ruby>部屋<rt>へや</rt></ruby></span> - kamar</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">数</span>
-      <span class="kanji-meta">
-        <strong>数</strong>
-        <small>angka, jumlah, menghitung</small>
-        <span class="kanji-reading"><span>onyomi: スウ</span><span>kunyomi: かず, かぞえる</span></span>
-      </span>
-    </summary>
-    <p>数 menunjuk angka atau jumlah. Dalam 部数, artinya jumlah salinan.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>数字<rt>すうじ</rt></ruby></span> - angka</li>
-      <li><span class="ruby-word"><ruby>数学<rt>すうがく</rt></ruby></span> - matematika</li>
-      <li><span class="ruby-word"><ruby>数える<rt>かぞえる</rt></ruby></span> - menghitung</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">数</span>
+    <span class="kanji-meta">
+      <strong>数</strong>
+      <small>angka, jumlah, menghitung</small>
+      <span class="kanji-reading"><span>onyomi: スウ</span>
+    </span>
+  </summary>
+  <p>数 menunjuk angka atau jumlah. Dalam 部数, artinya jumlah salinan.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>数字<rt>すうじ</rt></ruby></span> - angka</li>
+    <li><span class="ruby-word"><ruby>数学<rt>すうがく</rt></ruby></span> - matematika</li>
+    <li><span class="ruby-word"><ruby>数える<rt>かぞえる</rt></ruby></span> - menghitung</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">件</span>
-      <span class="kanji-meta">
-        <strong>件</strong>
-        <small>urusan, kasus, perkara</small>
-        <span class="kanji-reading"><span>onyomi: ケン</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>件 menandai satu urusan, kasus, atau subjek pesan.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>件名<rt>けんめい</rt></ruby></span> - subjek pesan</li>
-      <li><span class="ruby-word"><ruby>用件<rt>ようけん</rt></ruby></span> - keperluan</li>
-      <li><span class="ruby-word"><ruby>事件<rt>じけん</rt></ruby></span> - peristiwa, kasus</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">件</span>
+    <span class="kanji-meta">
+      <strong>件</strong>
+      <small>urusan, kasus, perkara</small>
+      <span class="kanji-reading"><span>onyomi: ケン</span>
+    </span>
+  </summary>
+  <p>件 menandai satu urusan, kasus, atau subjek pesan.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>件名<rt>けんめい</rt></ruby></span> - subjek pesan</li>
+    <li><span class="ruby-word"><ruby>用件<rt>ようけん</rt></ruby></span> - keperluan</li>
+    <li><span class="ruby-word"><ruby>事件<rt>じけん</rt></ruby></span> - peristiwa, kasus</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">再</span>
-      <span class="kanji-meta">
-        <strong>再</strong>
-        <small>lagi, ulang</small>
-        <span class="kanji-reading"><span>onyomi: サイ, サ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>再 memberi rasa melakukan ulang. Umum pada tombol mesin dan aplikasi.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>再生<rt>さいせい</rt></ruby></span> - memutar ulang</li>
-      <li><span class="ruby-word"><ruby>再ダイヤル<rt>さいダイヤル</rt></ruby></span> - panggil ulang</li>
-      <li><span class="ruby-word"><ruby>再来週<rt>さらいしゅう</rt></ruby></span> - dua minggu lagi</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">再</span>
+    <span class="kanji-meta">
+      <strong>再</strong>
+      <small>lagi, ulang</small>
+      <span class="kanji-reading"><span>onyomi: サイ, サ</span>
+    </span>
+  </summary>
+  <p>再 memberi rasa melakukan ulang. Umum pada tombol mesin dan aplikasi.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>再生<rt>さいせい</rt></ruby></span> - memutar ulang</li>
+    <li><span class="ruby-word"><ruby>再ダイヤル<rt>さいダイヤル</rt></ruby></span> - panggil ulang</li>
+    <li><span class="ruby-word"><ruby>再来週<rt>さらいしゅう</rt></ruby></span> - dua minggu lagi</li>
+  </ul>
+</details>
 </div>
-
 ## Peta Kata
 
 Kata-kata hari ini terbagi menjadi dua alat. 留守番電話 berkaitan dengan pesan saat tidak ada orang, 濃・薄 mengatur ketebalan/warna cetak, 部数 menghitung salinan, 件 menandai urusan atau subjek, dan 再 berarti melakukan lagi.

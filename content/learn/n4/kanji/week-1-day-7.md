@@ -48,15 +48,51 @@ Di akhir pelajaran ini, kamu bisa membaca kata seperti 料理, 食料品, 理由
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open><summary><span class="kanji-char">料</span><span class="kanji-meta"><strong>料</strong><small>bahan, biaya</small><span class="kanji-reading"><span>onyomi: リョウ</span><span>kunyomi: -</span></span></span></summary><p>料 muncul pada bahan, masakan, dan biaya layanan.</p><ul><li>料理 - masakan</li><li>食料品 - bahan makanan</li><li>無料 - gratis</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">理</span><span class="kanji-meta"><strong>理</strong><small>alasan, logika</small><span class="kanji-reading"><span>onyomi: リ</span><span>kunyomi: -</span></span></span></summary><p>理 muncul pada alasan, susunan, dan bidang ilmu.</p><ul><li>理由 - alasan</li><li>料理 - masakan</li><li>地理 - geografi</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">米</span><span class="kanji-meta"><strong>米</strong><small>beras, Amerika</small><span class="kanji-reading"><span>onyomi: ベイ、マイ</span><span>kunyomi: こめ</span></span></span></summary><p>米 berarti beras, tetapi dalam 米国 berarti Amerika Serikat.</p><ul><li>米国 - Amerika Serikat</li><li>白米 - nasi/beras putih</li><li>新米 - beras baru</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">洗</span><span class="kanji-meta"><strong>洗</strong><small>mencuci</small><span class="kanji-reading"><span>onyomi: セン</span><span>kunyomi: あらう</span></span></span></summary><p>洗 dipakai untuk kegiatan mencuci bahan, tangan, atau pakaian.</p><ul><li>洗濯 - cucian</li><li>手洗い - cuci tangan</li><li>洗面 - mencuci muka</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">野</span><span class="kanji-meta"><strong>野</strong><small>ladang, liar</small><span class="kanji-reading"><span>onyomi: ヤ</span><span>kunyomi: の</span></span></span></summary><p>野 muncul pada sayuran, lapangan, dan bidang luas.</p><ul><li>野菜 - sayuran</li><li>野球 - bisbol</li><li>分野 - bidang</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">菜</span><span class="kanji-meta"><strong>菜</strong><small>sayur</small><span class="kanji-reading"><span>onyomi: サイ</span><span>kunyomi: な</span></span></span></summary><p>菜 hampir selalu dekat dengan makanan atau sayuran.</p><ul><li>野菜 - sayuran</li><li>白菜 - sawi putih</li><li>菜食 - makanan vegetarian</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">酒</span><span class="kanji-meta"><strong>酒</strong><small>alkohol, sake</small><span class="kanji-reading"><span>onyomi: シュ</span><span>kunyomi: さけ、さか</span></span></span></summary><p>酒 muncul pada minuman alkohol dan toko sake.</p><ul><li>日本酒 - sake Jepang</li><li>酒屋 - toko minuman alkohol</li><li>飲酒 - minum alkohol</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">肉</span><span class="kanji-meta"><strong>肉</strong><small>daging</small><span class="kanji-reading"><span>onyomi: ニク</span><span>kunyomi: -</span></span></span></summary><p>肉 dipakai untuk jenis daging dan hidangan.</p><ul><li>牛肉 - daging sapi</li><li>鳥肉 - daging ayam</li><li>豚肉 - daging babi</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">味</span><span class="kanji-meta"><strong>味</strong><small>rasa, arti</small><span class="kanji-reading"><span>onyomi: ミ</span><span>kunyomi: あじ</span></span></span></summary><p>味 berarti rasa, tetapi juga muncul pada 意味 untuk arti.</p><ul><li>意味 - arti</li><li>趣味 - hobi</li><li>興味 - minat</li></ul></details>
+  <details class="kanji-card" open><summary><span class="kanji-char">料</span><span class="kanji-meta"><strong>料</strong><small>bahan, biaya</small><span class="kanji-reading"><span>onyomi: リョウ</span><span>kunyomi: -</span></span></span></summary><p>料 muncul pada bahan, masakan, dan biaya layanan.</p><ul>
+    <li><span class="ruby-word"><ruby>料理<rt>りょうり</rt></ruby></span> - masakan</li>
+    <li><span class="ruby-word"><ruby>食料<rt>しょくりょう</rt></ruby><ruby>品<rt>ひん</rt></ruby></span> - bahan makanan</li>
+    <li><span class="ruby-word"><ruby>無料<rt>むりょう</rt></ruby></span> - gratis</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">理</span><span class="kanji-meta"><strong>理</strong><small>alasan, logika</small><span class="kanji-reading"><span>onyomi: リ</span><span>kunyomi: -</span></span></span></summary><p>理 muncul pada alasan, susunan, dan bidang ilmu.</p><ul>
+    <li><span class="ruby-word"><ruby>理由<rt>りゆう</rt></ruby></span> - alasan</li>
+    <li><span class="ruby-word"><ruby>料理<rt>りょうり</rt></ruby></span> - masakan</li>
+    <li><span class="ruby-word"><ruby>地理<rt>ちり</rt></ruby></span> - geografi</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">米</span><span class="kanji-meta"><strong>米</strong><small>beras, Amerika</small><span class="kanji-reading"><span>onyomi: ベイ、マイ</span><span>kunyomi: こめ</span></span></span></summary><p>米 berarti beras, tetapi dalam 米国 berarti Amerika Serikat.</p><ul>
+    <li><span class="ruby-word"><ruby>米国<rt>べいこく</rt></ruby></span> - Amerika Serikat</li>
+    <li><span class="ruby-word"><ruby>白米<rt>はくまい</rt></ruby></span> - nasi/beras putih</li>
+    <li><span class="ruby-word"><ruby>新米<rt>しんまい</rt></ruby></span> - beras baru</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">洗</span><span class="kanji-meta"><strong>洗</strong><small>mencuci</small><span class="kanji-reading"><span>onyomi: セン</span><span>kunyomi: あらう</span></span></span></summary><p>洗 dipakai untuk kegiatan mencuci bahan, tangan, atau pakaian.</p><ul>
+    <li><span class="ruby-word"><ruby>洗濯<rt>せんたく</rt></ruby></span> - cucian</li>
+    <li><span class="ruby-word"><ruby>手洗<rt>てあら</rt></ruby>い</span> - cuci tangan</li>
+    <li><span class="ruby-word"><ruby>洗面<rt>せんめん</rt></ruby></span> - mencuci muka</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">野</span><span class="kanji-meta"><strong>野</strong><small>ladang, liar</small><span class="kanji-reading"><span>onyomi: ヤ</span><span>kunyomi: の</span></span></span></summary><p>野 muncul pada sayuran, lapangan, dan bidang luas.</p><ul>
+    <li><span class="ruby-word"><ruby>野菜<rt>やさい</rt></ruby></span> - sayuran</li>
+    <li><span class="ruby-word"><ruby>野球<rt>やきゅう</rt></ruby></span> - bisbol</li>
+    <li><span class="ruby-word"><ruby>分野<rt>ぶんや</rt></ruby></span> - bidang</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">菜</span><span class="kanji-meta"><strong>菜</strong><small>sayur</small><span class="kanji-reading"><span>onyomi: サイ</span><span>kunyomi: な</span></span></span></summary><p>菜 hampir selalu dekat dengan makanan atau sayuran.</p><ul>
+    <li><span class="ruby-word"><ruby>野菜<rt>やさい</rt></ruby></span> - sayuran</li>
+    <li><span class="ruby-word"><ruby>白菜<rt>はくさい</rt></ruby></span> - sawi putih</li>
+    <li><span class="ruby-word"><ruby>菜食<rt>さいしょく</rt></ruby></span> - makanan vegetarian</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">酒</span><span class="kanji-meta"><strong>酒</strong><small>alkohol, sake</small><span class="kanji-reading"><span>onyomi: シュ</span><span>kunyomi: さけ、さか</span></span></span></summary><p>酒 muncul pada minuman alkohol, label toko sake, dan menu restoran.</p><ul>
+    <li><span class="ruby-word"><ruby>日本<rt>にっぽん</rt></ruby><ruby>酒<rt>しゅ</rt></ruby></span> - sake Jepang</li>
+    <li><span class="ruby-word"><ruby>酒屋<rt>さかや</rt></ruby></span> - toko minuman alkohol</li>
+    <li><span class="ruby-word"><ruby>飲酒<rt>いんしゅ</rt></ruby></span> - minum alkohol</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">肉</span><span class="kanji-meta"><strong>肉</strong><small>daging</small><span class="kanji-reading"><span>onyomi: ニク</span><span>kunyomi: -</span></span></span></summary><p>肉 dipakai untuk jenis daging, hidangan, dan bahan masakan sehari-hari.</p><ul>
+    <li><span class="ruby-word"><ruby>牛肉<rt>ぎゅうにく</rt></ruby></span> - daging sapi</li>
+    <li><span class="ruby-word"><ruby>鳥<rt>とり</rt></ruby><ruby>肉<rt>にく</rt></ruby></span> - daging ayam</li>
+    <li><span class="ruby-word"><ruby>豚肉<rt>ぶたにく</rt></ruby></span> - daging babi</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">味</span><span class="kanji-meta"><strong>味</strong><small>rasa, arti</small><span class="kanji-reading"><span>onyomi: ミ</span><span>kunyomi: あじ</span></span></span></summary><p>味 berarti rasa, tetapi juga muncul pada 意味 untuk arti.</p><ul>
+    <li><span class="ruby-word"><ruby>意味<rt>いみ</rt></ruby></span> - arti</li>
+    <li><span class="ruby-word"><ruby>趣味<rt>しゅみ</rt></ruby></span> - hobi</li>
+    <li><span class="ruby-word"><ruby>興味<rt>きょうみ</rt></ruby></span> - minat</li>
+  </ul></details>
 </div>
 
 ## Peta Kata

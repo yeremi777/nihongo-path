@@ -47,135 +47,134 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 身長、独�
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open>
-    <summary>
-      <span class="kanji-char">身</span>
-      <span class="kanji-meta">
-        <strong>身</strong>
-        <small>tubuh, diri</small>
-        <span class="kanji-reading"><span>onyomi: シン</span><span>kunyomi: み</span></span>
-      </span>
-    </summary>
-    <p>Dalam formulir pemeriksaan kesehatan, 身 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>身長<rt>しんちょう</rt></ruby></span> - tinggi badan</li>
-      <li><span class="ruby-word"><ruby>独身<rt>どくしん</rt></ruby></span> - lajang</li>
-    </ul>
-  </details>
+<details class="kanji-card" open>
+  <summary>
+    <span class="kanji-char">身</span>
+    <span class="kanji-meta">
+      <strong>身</strong>
+      <small>tubuh, diri</small>
+      <span class="kanji-reading"><span>onyomi: シン</span>
+    </span>
+  </summary>
+  <p>Dalam formulir pemeriksaan kesehatan, 身 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>身長<rt>しんちょう</rt></ruby></span> - tinggi badan</li>
+    <li><span class="ruby-word"><ruby>独身<rt>どくしん</rt></ruby></span> - lajang</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">酒</span>
-      <span class="kanji-meta">
-        <strong>酒</strong>
-        <small>alkohol</small>
-        <span class="kanji-reading"><span>onyomi: シュ</span><span>kunyomi: さけ, さか</span></span>
-      </span>
-    </summary>
-    <p>Dalam formulir pemeriksaan kesehatan, 酒 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>お酒<rt>おさけ</rt></ruby></span> - alkohol</li>
-      <li><span class="ruby-word"><ruby>日本酒<rt>にほんしゅ</rt></ruby></span> - sake Jepang</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">酒</span>
+    <span class="kanji-meta">
+      <strong>酒</strong>
+      <small>alkohol</small>
+      <span class="kanji-reading"><span>onyomi: シュ</span>
+    </span>
+  </summary>
+  <p>Dalam formulir pemeriksaan kesehatan, 酒 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>お酒<rt>おさけ</rt></ruby></span> - alkohol</li>
+    <li><span class="ruby-word"><ruby>日本酒<rt>にほんしゅ</rt></ruby></span> - sake Jepang</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">吸</span>
-      <span class="kanji-meta">
-        <strong>吸</strong>
-        <small>menghirup</small>
-        <span class="kanji-reading"><span>onyomi: キュウ</span><span>kunyomi: すう</span></span>
-      </span>
-    </summary>
-    <p>Dalam formulir pemeriksaan kesehatan, 吸 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>吸う<rt>すう</rt></ruby></span> - mengisap</li>
-      <li><span class="ruby-word"><ruby>呼吸<rt>こきゅう</rt></ruby></span> - pernapasan</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">吸</span>
+    <span class="kanji-meta">
+      <strong>吸</strong>
+      <small>menghirup</small>
+      <span class="kanji-reading"><span>onyomi: キュウ</span>
+    </span>
+  </summary>
+  <p>Dalam formulir pemeriksaan kesehatan, 吸 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>吸う<rt>すう</rt></ruby></span> - mengisap</li>
+    <li><span class="ruby-word"><ruby>呼吸<rt>こきゅう</rt></ruby></span> - pernapasan</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">欲</span>
-      <span class="kanji-meta">
-        <strong>欲</strong>
-        <small>keinginan</small>
-        <span class="kanji-reading"><span>onyomi: ヨク</span><span>kunyomi: ほしい</span></span>
-      </span>
-    </summary>
-    <p>Dalam formulir pemeriksaan kesehatan, 欲 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>食欲<rt>しょくよく</rt></ruby></span> - nafsu makan</li>
-      <li><span class="ruby-word"><ruby>欲しい<rt>ほしい</rt></ruby></span> - ingin</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">欲</span>
+    <span class="kanji-meta">
+      <strong>欲</strong>
+      <small>keinginan</small>
+      <span class="kanji-reading"><span>onyomi: ヨク</span>
+    </span>
+  </summary>
+  <p>Dalam formulir pemeriksaan kesehatan, 欲 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>食欲<rt>しょくよく</rt></ruby></span> - nafsu makan</li>
+    <li><span class="ruby-word"><ruby>欲しい<rt>ほしい</rt></ruby></span> - ingin</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">眠</span>
-      <span class="kanji-meta">
-        <strong>眠</strong>
-        <small>tidur, mengantuk</small>
-        <span class="kanji-reading"><span>onyomi: ミン</span><span>kunyomi: ねむい, ねむる</span></span>
-      </span>
-    </summary>
-    <p>Dalam formulir pemeriksaan kesehatan, 眠 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>睡眠<rt>すいみん</rt></ruby></span> - tidur</li>
-      <li><span class="ruby-word"><ruby>眠い<rt>ねむい</rt></ruby></span> - mengantuk</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">眠</span>
+    <span class="kanji-meta">
+      <strong>眠</strong>
+      <small>tidur, mengantuk</small>
+      <span class="kanji-reading"><span>onyomi: ミン</span>
+    </span>
+  </summary>
+  <p>Dalam formulir pemeriksaan kesehatan, 眠 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>睡眠<rt>すいみん</rt></ruby></span> - tidur</li>
+    <li><span class="ruby-word"><ruby>眠い<rt>ねむい</rt></ruby></span> - mengantuk</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">疲</span>
-      <span class="kanji-meta">
-        <strong>疲</strong>
-        <small>lelah</small>
-        <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: つかれる</span></span>
-      </span>
-    </summary>
-    <p>Dalam formulir pemeriksaan kesehatan, 疲 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>疲れる<rt>つかれる</rt></ruby></span> - lelah</li>
-      <li><span class="ruby-word"><ruby>疲れ<rt>つかれ</rt></ruby></span> - kelelahan</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">疲</span>
+    <span class="kanji-meta">
+      <strong>疲</strong>
+      <small>lelah</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>Dalam formulir pemeriksaan kesehatan, 疲 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>疲れる<rt>つかれる</rt></ruby></span> - lelah</li>
+    <li><span class="ruby-word"><ruby>疲れ<rt>つかれ</rt></ruby></span> - kelelahan</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">息</span>
-      <span class="kanji-meta">
-        <strong>息</strong>
-        <small>napas</small>
-        <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: いき</span></span>
-      </span>
-    </summary>
-    <p>Dalam formulir pemeriksaan kesehatan, 息 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>息<rt>いき</rt></ruby></span> - napas</li>
-      <li><span class="ruby-word"><ruby>息切れ<rt>いきぎれ</rt></ruby></span> - sesak napas</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">息</span>
+    <span class="kanji-meta">
+      <strong>息</strong>
+      <small>napas</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>Dalam formulir pemeriksaan kesehatan, 息 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>息<rt>いき</rt></ruby></span> - napas</li>
+    <li><span class="ruby-word"><ruby>息切れ<rt>いきぎれ</rt></ruby></span> - sesak napas</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">呼</span>
-      <span class="kanji-meta">
-        <strong>呼</strong>
-        <small>memanggil, bernapas keluar</small>
-        <span class="kanji-reading"><span>onyomi: コ</span><span>kunyomi: よぶ</span></span>
-      </span>
-    </summary>
-    <p>Dalam formulir pemeriksaan kesehatan, 呼 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>呼吸<rt>こきゅう</rt></ruby></span> - pernapasan</li>
-      <li><span class="ruby-word"><ruby>呼ぶ<rt>よぶ</rt></ruby></span> - memanggil</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">呼</span>
+    <span class="kanji-meta">
+      <strong>呼</strong>
+      <small>memanggil, bernapas keluar</small>
+      <span class="kanji-reading"><span>onyomi: コ</span>
+    </span>
+  </summary>
+  <p>Dalam formulir pemeriksaan kesehatan, 呼 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>呼吸<rt>こきゅう</rt></ruby></span> - pernapasan</li>
+    <li><span class="ruby-word"><ruby>呼ぶ<rt>よぶ</rt></ruby></span> - memanggil</li>
+  </ul>
+</details>
 </div>
-
 ## Peta Kata
 
 <div class="word-strip">

@@ -47,139 +47,138 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 市役所, 郵
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open>
-    <summary>
-      <span class="kanji-char">役</span>
-      <span class="kanji-meta">
-        <strong>役</strong>
-        <small>peran, layanan, kantor</small>
-        <span class="kanji-reading"><span>onyomi: ヤク</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>役 sering muncul pada kantor pemerintah atau peran seseorang. Dalam 市役所, artinya kantor layanan kota.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>市役所<rt>しやくしょ</rt></ruby></span> - kantor kota</li>
-      <li><span class="ruby-word"><ruby>役員<rt>やくいん</rt></ruby></span> - pengurus</li>
-      <li><span class="ruby-word"><ruby>役に立つ<rt>やくにたつ</rt></ruby></span> - berguna</li>
-    </ul>
-  </details>
+<details class="kanji-card" open>
+  <summary>
+    <span class="kanji-char">役</span>
+    <span class="kanji-meta">
+      <strong>役</strong>
+      <small>peran, layanan, kantor</small>
+      <span class="kanji-reading"><span>onyomi: ヤク</span>
+    </span>
+  </summary>
+  <p>役 sering muncul pada kantor pemerintah atau peran seseorang. Dalam 市役所, artinya kantor layanan kota.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>市役所<rt>しやくしょ</rt></ruby></span> - kantor kota</li>
+    <li><span class="ruby-word"><ruby>役員<rt>やくいん</rt></ruby></span> - pengurus</li>
+    <li><span class="ruby-word"><ruby>役に立つ<rt>やくにたつ</rt></ruby></span> - berguna</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">郵</span>
-      <span class="kanji-meta">
-        <strong>郵</strong>
-        <small>pos, surat</small>
-        <span class="kanji-reading"><span>onyomi: ユウ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>郵 menandai layanan pos dan surat. Pada peta kota, paling sering muncul dalam 郵便局.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>郵便<rt>ゆうびん</rt></ruby></span> - pos, surat</li>
-      <li><span class="ruby-word"><ruby>郵便局<rt>ゆうびんきょく</rt></ruby></span> - kantor pos</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">郵</span>
+    <span class="kanji-meta">
+      <strong>郵</strong>
+      <small>pos, surat</small>
+      <span class="kanji-reading"><span>onyomi: ユウ</span>
+    </span>
+  </summary>
+  <p>郵 menandai layanan pos dan surat. Pada peta kota, paling sering muncul dalam 郵便局.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>郵便<rt>ゆうびん</rt></ruby></span> - pos, surat</li>
+    <li><span class="ruby-word"><ruby>郵便局<rt>ゆうびんきょく</rt></ruby></span> - kantor pos</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">局</span>
-      <span class="kanji-meta">
-        <strong>局</strong>
-        <small>kantor, unit layanan</small>
-        <span class="kanji-reading"><span>onyomi: キョク</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>局 menunjuk kantor atau unit. Maknanya bergantung pada kata sebelum 局.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>郵便局<rt>ゆうびんきょく</rt></ruby></span> - kantor pos</li>
-      <li><span class="ruby-word"><ruby>薬局<rt>やっきょく</rt></ruby></span> - apotek</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">局</span>
+    <span class="kanji-meta">
+      <strong>局</strong>
+      <small>kantor, unit layanan</small>
+      <span class="kanji-reading"><span>onyomi: キョク</span>
+    </span>
+  </summary>
+  <p>局 menunjuk kantor atau unit. Maknanya bergantung pada kata sebelum 局.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>郵便局<rt>ゆうびんきょく</rt></ruby></span> - kantor pos</li>
+    <li><span class="ruby-word"><ruby>薬局<rt>やっきょく</rt></ruby></span> - apotek</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">交</span>
-      <span class="kanji-meta">
-        <strong>交</strong>
-        <small>bertemu, bertukar, lalu lintas</small>
-        <span class="kanji-reading"><span>onyomi: コウ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>交 memberi rasa pertemuan atau pertukaran. Pada peta, sering berkaitan dengan jalan dan pos polisi.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>交番<rt>こうばん</rt></ruby></span> - pos polisi</li>
-      <li><span class="ruby-word"><ruby>交通<rt>こうつう</rt></ruby></span> - lalu lintas</li>
-      <li><span class="ruby-word"><ruby>交換<rt>こうかん</rt></ruby></span> - pertukaran</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">交</span>
+    <span class="kanji-meta">
+      <strong>交</strong>
+      <small>bertemu, bertukar, lalu lintas</small>
+      <span class="kanji-reading"><span>onyomi: コウ</span>
+    </span>
+  </summary>
+  <p>交 memberi rasa pertemuan atau pertukaran. Pada peta, sering berkaitan dengan jalan dan pos polisi.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>交番<rt>こうばん</rt></ruby></span> - pos polisi</li>
+    <li><span class="ruby-word"><ruby>交通<rt>こうつう</rt></ruby></span> - lalu lintas</li>
+    <li><span class="ruby-word"><ruby>交換<rt>こうかん</rt></ruby></span> - pertukaran</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">差</span>
-      <span class="kanji-meta">
-        <strong>差</strong>
-        <small>beda, mengulurkan</small>
-        <span class="kanji-reading"><span>onyomi: サ</span><span>kunyomi: さす</span></span>
-      </span>
-    </summary>
-    <p>差 bisa berarti perbedaan atau tindakan mengulurkan/menyisipkan. Dalam 交差点, fokusnya garis jalan yang saling menyilang.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>差<rt>さ</rt></ruby></span> - perbedaan</li>
-      <li><span class="ruby-word"><ruby>差し出す<rt>さしだす</rt></ruby></span> - mengulurkan</li>
-      <li><span class="ruby-word"><ruby>差出人<rt>さしだしにん</rt></ruby></span> - pengirim</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">差</span>
+    <span class="kanji-meta">
+      <strong>差</strong>
+      <small>beda, mengulurkan</small>
+      <span class="kanji-reading"><span>onyomi: サ</span>
+    </span>
+  </summary>
+  <p>差 bisa berarti perbedaan atau tindakan mengulurkan/menyisipkan. Dalam 交差点, fokusnya garis jalan yang saling menyilang.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>差<rt>さ</rt></ruby></span> - perbedaan</li>
+    <li><span class="ruby-word"><ruby>差し出す<rt>さしだす</rt></ruby></span> - mengulurkan</li>
+    <li><span class="ruby-word"><ruby>差出人<rt>さしだしにん</rt></ruby></span> - pengirim</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">点</span>
-      <span class="kanji-meta">
-        <strong>点</strong>
-        <small>titik, poin</small>
-        <span class="kanji-reading"><span>onyomi: テン</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>点 menandai titik atau poin. Dalam 交差点, artinya titik pertemuan jalan.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>交差点<rt>こうさてん</rt></ruby></span> - persimpangan</li>
-      <li><span class="ruby-word"><ruby>点数<rt>てんすう</rt></ruby></span> - nilai angka</li>
-      <li><span class="ruby-word"><ruby>三点<rt>さんてん</rt></ruby></span> - tiga poin</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">点</span>
+    <span class="kanji-meta">
+      <strong>点</strong>
+      <small>titik, poin</small>
+      <span class="kanji-reading"><span>onyomi: テン</span>
+    </span>
+  </summary>
+  <p>点 menandai titik atau poin. Dalam 交差点, artinya titik pertemuan jalan.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>交差点<rt>こうさてん</rt></ruby></span> - persimpangan</li>
+    <li><span class="ruby-word"><ruby>点数<rt>てんすう</rt></ruby></span> - nilai angka</li>
+    <li><span class="ruby-word"><ruby>三点<rt>さんてん</rt></ruby></span> - tiga poin</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">橋</span>
-      <span class="kanji-meta">
-        <strong>橋</strong>
-        <small>jembatan</small>
-        <span class="kanji-reading"><span>onyomi: キョウ</span><span>kunyomi: はし</span></span>
-      </span>
-    </summary>
-    <p>橋 menunjuk jembatan. Dalam 歩道橋, ini adalah jembatan untuk pejalan kaki.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>歩道橋<rt>ほどうきょう</rt></ruby></span> - jembatan penyeberangan</li>
-      <li><span class="ruby-word"><ruby>橋<rt>はし</rt></ruby></span> - jembatan</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">橋</span>
+    <span class="kanji-meta">
+      <strong>橋</strong>
+      <small>jembatan</small>
+      <span class="kanji-reading"><span>onyomi: キョウ</span>
+    </span>
+  </summary>
+  <p>橋 menunjuk jembatan. Dalam 歩道橋, ini adalah jembatan untuk pejalan kaki.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>歩道橋<rt>ほどうきょう</rt></ruby></span> - jembatan penyeberangan</li>
+    <li><span class="ruby-word"><ruby>橋<rt>はし</rt></ruby></span> - jembatan</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">公</span>
-      <span class="kanji-meta">
-        <strong>公</strong>
-        <small>publik, umum</small>
-        <span class="kanji-reading"><span>onyomi: コウ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>公 memberi rasa umum atau publik. Dalam 公園, artinya taman umum.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>公園<rt>こうえん</rt></ruby></span> - taman umum</li>
-      <li><span class="ruby-word"><ruby>公共<rt>こうきょう</rt></ruby></span> - publik, umum</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">公</span>
+    <span class="kanji-meta">
+      <strong>公</strong>
+      <small>publik, umum</small>
+      <span class="kanji-reading"><span>onyomi: コウ</span>
+    </span>
+  </summary>
+  <p>公 memberi rasa umum atau publik. Dalam 公園, artinya taman umum.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>公園<rt>こうえん</rt></ruby></span> - taman umum</li>
+    <li><span class="ruby-word"><ruby>公共<rt>こうきょう</rt></ruby></span> - publik, umum</li>
+  </ul>
+</details>
 </div>
-
 ## Peta Kata
 
 Kata-kata hari ini membentuk peta kota yang praktis. 市役所, 郵便局, dan 交番 adalah tempat layanan; 交差点 dan 橋 membantu membaca jalur; 公園 adalah fasilitas umum yang sering menjadi patokan arah.

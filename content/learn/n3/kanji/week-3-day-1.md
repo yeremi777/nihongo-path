@@ -48,155 +48,154 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 要冷蔵, 冷
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open>
-    <summary>
-      <span class="kanji-char">要</span>
-      <span class="kanji-meta">
-        <strong>要</strong>
-        <small>perlu, penting</small>
-        <span class="kanji-reading"><span>onyomi: ヨウ</span><span>kunyomi: いる</span></span>
-      </span>
-    </summary>
-    <p>要 menandai kebutuhan. Pada label, kanji ini sering berarti sesuatu wajib dilakukan.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>必要<rt>ひつよう</rt></ruby></span> - perlu</li>
-      <li><span class="ruby-word"><ruby>要る<rt>いる</rt></ruby></span> - memerlukan</li>
-      <li><span class="ruby-word"><ruby>重要<rt>じゅうよう</rt></ruby></span> - penting</li>
-    </ul>
-  </details>
+<details class="kanji-card" open>
+  <summary>
+    <span class="kanji-char">要</span>
+    <span class="kanji-meta">
+      <strong>要</strong>
+      <small>perlu, penting</small>
+      <span class="kanji-reading"><span>onyomi: ヨウ</span>
+    </span>
+  </summary>
+  <p>要 menandai kebutuhan. Pada label, kanji ini sering berarti sesuatu wajib dilakukan.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>必要<rt>ひつよう</rt></ruby></span> - perlu</li>
+    <li><span class="ruby-word"><ruby>要る<rt>いる</rt></ruby></span> - memerlukan</li>
+    <li><span class="ruby-word"><ruby>重要<rt>じゅうよう</rt></ruby></span> - penting</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">冷</span>
-      <span class="kanji-meta">
-        <strong>冷</strong>
-        <small>dingin, mendinginkan</small>
-        <span class="kanji-reading"><span>onyomi: レイ</span><span>kunyomi: つめたい, ひやす, ひえる, さめる</span></span>
-      </span>
-    </summary>
-    <p>冷 menunjuk suhu dingin atau proses mendinginkan. Ini inti dari label penyimpanan dingin.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>冷房<rt>れいぼう</rt></ruby></span> - AC pendingin</li>
-      <li><span class="ruby-word"><ruby>冷やす<rt>ひやす</rt></ruby></span> - mendinginkan</li>
-      <li><span class="ruby-word"><ruby>冷たい<rt>つめたい</rt></ruby></span> - dingin</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">冷</span>
+    <span class="kanji-meta">
+      <strong>冷</strong>
+      <small>dingin, mendinginkan</small>
+      <span class="kanji-reading"><span>onyomi: レイ</span>
+    </span>
+  </summary>
+  <p>冷 menunjuk suhu dingin atau proses mendinginkan. Ini inti dari label penyimpanan dingin.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>冷房<rt>れいぼう</rt></ruby></span> - AC pendingin</li>
+    <li><span class="ruby-word"><ruby>冷やす<rt>ひやす</rt></ruby></span> - mendinginkan</li>
+    <li><span class="ruby-word"><ruby>冷たい<rt>つめたい</rt></ruby></span> - dingin</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">蔵</span>
-      <span class="kanji-meta">
-        <strong>蔵</strong>
-        <small>gudang, menyimpan</small>
-        <span class="kanji-reading"><span>onyomi: ゾウ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>蔵 memberi rasa menyimpan. Dalam 冷蔵, artinya penyimpanan dingin.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>冷蔵庫<rt>れいぞうこ</rt></ruby></span> - kulkas</li>
-      <li><span class="ruby-word"><ruby>冷蔵<rt>れいぞう</rt></ruby></span> - penyimpanan dingin</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">蔵</span>
+    <span class="kanji-meta">
+      <strong>蔵</strong>
+      <small>gudang, menyimpan</small>
+      <span class="kanji-reading"><span>onyomi: ゾウ</span>
+    </span>
+  </summary>
+  <p>蔵 memberi rasa menyimpan. Dalam 冷蔵, artinya penyimpanan dingin.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>冷蔵庫<rt>れいぞうこ</rt></ruby></span> - kulkas</li>
+    <li><span class="ruby-word"><ruby>冷蔵<rt>れいぞう</rt></ruby></span> - penyimpanan dingin</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">凍</span>
-      <span class="kanji-meta">
-        <strong>凍</strong>
-        <small>beku, membeku</small>
-        <span class="kanji-reading"><span>onyomi: トウ</span><span>kunyomi: こおる</span></span>
-      </span>
-    </summary>
-    <p>凍 menandai pembekuan. Pada makanan, kata pentingnya 冷凍.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>冷凍庫<rt>れいとうこ</rt></ruby></span> - freezer</li>
-      <li><span class="ruby-word"><ruby>凍る<rt>こおる</rt></ruby></span> - membeku</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">凍</span>
+    <span class="kanji-meta">
+      <strong>凍</strong>
+      <small>beku, membeku</small>
+      <span class="kanji-reading"><span>onyomi: トウ</span>
+    </span>
+  </summary>
+  <p>凍 menandai pembekuan. Pada makanan, kata pentingnya 冷凍.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>冷凍庫<rt>れいとうこ</rt></ruby></span> - freezer</li>
+    <li><span class="ruby-word"><ruby>凍る<rt>こおる</rt></ruby></span> - membeku</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">庫</span>
-      <span class="kanji-meta">
-        <strong>庫</strong>
-        <small>gudang, tempat simpan</small>
-        <span class="kanji-reading"><span>onyomi: コ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>庫 menunjuk tempat penyimpanan. Dalam 冷蔵庫 dan 冷凍庫, artinya alat/tempat simpan.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>冷蔵庫<rt>れいぞうこ</rt></ruby></span> - kulkas</li>
-      <li><span class="ruby-word"><ruby>金庫<rt>きんこ</rt></ruby></span> - brankas</li>
-      <li><span class="ruby-word"><ruby>車庫<rt>しゃこ</rt></ruby></span> - garasi</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">庫</span>
+    <span class="kanji-meta">
+      <strong>庫</strong>
+      <small>gudang, tempat simpan</small>
+      <span class="kanji-reading"><span>onyomi: コ</span>
+    </span>
+  </summary>
+  <p>庫 menunjuk tempat penyimpanan. Dalam 冷蔵庫 dan 冷凍庫, artinya alat/tempat simpan.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>冷蔵庫<rt>れいぞうこ</rt></ruby></span> - kulkas</li>
+    <li><span class="ruby-word"><ruby>金庫<rt>きんこ</rt></ruby></span> - brankas</li>
+    <li><span class="ruby-word"><ruby>車庫<rt>しゃこ</rt></ruby></span> - garasi</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">召</span>
-      <span class="kanji-meta">
-        <strong>召</strong>
-        <small>memanggil, makan hormat</small>
-        <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: めす</span></span>
-      </span>
-    </summary>
-    <p>召 dipakai dalam bentuk hormat 召し上がる untuk makan/minum.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>召し上がる<rt>めしあがる</rt></ruby></span> - makan/minum (hormat)</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">召</span>
+    <span class="kanji-meta">
+      <strong>召</strong>
+      <small>memanggil, makan hormat</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
+  <p>召 dipakai dalam bentuk hormat 召し上がる untuk makan/minum.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>召し上がる<rt>めしあがる</rt></ruby></span> - makan/minum (hormat)</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">保</span>
-      <span class="kanji-meta">
-        <strong>保</strong>
-        <small>menjaga, mempertahankan</small>
-        <span class="kanji-reading"><span>onyomi: ホ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>保 memberi rasa menjaga kondisi. Dalam 保存, artinya menyimpan agar tetap baik.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>保存<rt>ほぞん</rt></ruby></span> - penyimpanan</li>
-      <li><span class="ruby-word"><ruby>保険<rt>ほけん</rt></ruby></span> - asuransi</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">保</span>
+    <span class="kanji-meta">
+      <strong>保</strong>
+      <small>menjaga, mempertahankan</small>
+      <span class="kanji-reading"><span>onyomi: ホ</span>
+    </span>
+  </summary>
+  <p>保 memberi rasa menjaga kondisi. Dalam 保存, artinya menyimpan agar tetap baik.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>保存<rt>ほぞん</rt></ruby></span> - penyimpanan</li>
+    <li><span class="ruby-word"><ruby>保険<rt>ほけん</rt></ruby></span> - asuransi</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">存</span>
-      <span class="kanji-meta">
-        <strong>存</strong>
-        <small>ada, mengetahui, menyimpan</small>
-        <span class="kanji-reading"><span>onyomi: ゾン</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>存 muncul pada kata menyimpan dan ungkapan tahu secara hormat/rendah hati.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>保存<rt>ほぞん</rt></ruby></span> - penyimpanan</li>
-      <li><span class="ruby-word"><ruby>ご存じ<rt>ごぞんじ</rt></ruby></span> - mengetahui</li>
-      <li><span class="ruby-word"><ruby>存じません<rt>ぞんじません</rt></ruby></span> - tidak tahu (rendah hati)</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">存</span>
+    <span class="kanji-meta">
+      <strong>存</strong>
+      <small>ada, mengetahui, menyimpan</small>
+      <span class="kanji-reading"><span>onyomi: ゾン</span>
+    </span>
+  </summary>
+  <p>存 muncul pada kata menyimpan dan ungkapan tahu secara hormat/rendah hati.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>保存<rt>ほぞん</rt></ruby></span> - penyimpanan</li>
+    <li><span class="ruby-word"><ruby>ご存じ<rt>ごぞんじ</rt></ruby></span> - mengetahui</li>
+    <li><span class="ruby-word"><ruby>存じません<rt>ぞんじません</rt></ruby></span> - tidak tahu (rendah hati)</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">必</span>
-      <span class="kanji-meta">
-        <strong>必</strong>
-        <small>pasti, harus</small>
-        <span class="kanji-reading"><span>onyomi: ヒツ</span><span>kunyomi: かならず</span></span>
-      </span>
-    </summary>
-    <p>必 memberi rasa pasti atau wajib. Bedakan 必要 sebagai kebutuhan dan 必ず sebagai adverbia.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>必要<rt>ひつよう</rt></ruby></span> - perlu</li>
-      <li><span class="ruby-word"><ruby>必ず<rt>かならず</rt></ruby></span> - pasti, harus</li>
-      <li><span class="ruby-word"><ruby>必死<rt>ひっし</rt></ruby></span> - mati-matian</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">必</span>
+    <span class="kanji-meta">
+      <strong>必</strong>
+      <small>pasti, harus</small>
+      <span class="kanji-reading"><span>onyomi: ヒツ</span>
+    </span>
+  </summary>
+  <p>必 memberi rasa pasti atau wajib. Bedakan 必要 sebagai kebutuhan dan 必ず sebagai adverbia.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>必要<rt>ひつよう</rt></ruby></span> - perlu</li>
+    <li><span class="ruby-word"><ruby>必ず<rt>かならず</rt></ruby></span> - pasti, harus</li>
+    <li><span class="ruby-word"><ruby>必死<rt>ひっし</rt></ruby></span> - mati-matian</li>
+  </ul>
+</details>
 </div>
-
 ## Peta Kata
 
 Kata-kata hari ini membentuk instruksi pada kemasan. 要 dan 必 menandai kebutuhan, 冷・蔵・凍・庫 menjelaskan penyimpanan dingin, 保・存 menjelaskan cara menjaga kualitas, dan 召 sering muncul pada ungkapan sopan untuk makan.

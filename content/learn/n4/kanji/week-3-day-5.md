@@ -48,15 +48,51 @@ Di akhir pelajaran ini, kamu bisa membaca 合格, 漢字, 文字, 親切, 切手
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open><summary><span class="kanji-char">合</span><span class="kanji-meta"><strong>合</strong><small>cocok, gabung</small><span class="kanji-reading"><span>onyomi: ゴウ、ガッ、カッ</span><span>kunyomi: あう、あわせる</span></span></span></summary><p>合 muncul pada kecocokan, gabungan, dan hasil lulus.</p><ul><li>合格 - lulus</li><li>都合 - kondisi/jadwal</li><li>試合 - pertandingan</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">漢</span><span class="kanji-meta"><strong>漢</strong><small>Cina, kanji</small><span class="kanji-reading"><span>onyomi: カン</span><span>kunyomi: -</span></span></span></summary><p>漢 pada level ini paling sering muncul dalam kata 漢字.</p><ul><li>漢字 - kanji</li><li>漢語 - kata Sino-Jepang</li><li>漢方 - pengobatan tradisional</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">字</span><span class="kanji-meta"><strong>字</strong><small>huruf, karakter</small><span class="kanji-reading"><span>onyomi: ジ</span><span>kunyomi: あざ</span></span></span></summary><p>字 dipakai untuk huruf, karakter, dan tulisan.</p><ul><li>文字 - huruf/tulisan</li><li>漢字 - kanji</li><li>数字 - angka</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">親</span><span class="kanji-meta"><strong>親</strong><small>orang tua, dekat</small><span class="kanji-reading"><span>onyomi: シン</span><span>kunyomi: おや、したしい</span></span></span></summary><p>親 berarti orang tua atau kedekatan/kebaikan pada 親切.</p><ul><li>親切 - ramah/baik hati</li><li>両親 - kedua orang tua</li><li>親友 - sahabat dekat</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">切</span><span class="kanji-meta"><strong>切</strong><small>potong, penting</small><span class="kanji-reading"><span>onyomi: セツ、サイ</span><span>kunyomi: きる、きれる</span></span></span></summary><p>切 bisa berarti memotong, penting, atau muncul dalam kata tiket/perangko.</p><ul><li>切手 - perangko</li><li>切符 - tiket</li><li>大切 - penting</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">楽</span><span class="kanji-meta"><strong>楽</strong><small>musik, menyenangkan</small><span class="kanji-reading"><span>onyomi: ガク、ラク</span><span>kunyomi: たのしい、たのしむ</span></span></span></summary><p>楽 bisa berarti musik, senang, atau mudah/nyaman.</p><ul><li>音楽 - musik</li><li>楽器 - alat musik</li><li>気楽 - santai</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">自</span><span class="kanji-meta"><strong>自</strong><small>diri sendiri</small><span class="kanji-reading"><span>onyomi: ジ、シ</span><span>kunyomi: みずから</span></span></span></summary><p>自 memberi rasa diri sendiri atau otomatis.</p><ul><li>自分 - diri sendiri</li><li>自動 - otomatis</li><li>自由 - bebas</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">場</span><span class="kanji-meta"><strong>場</strong><small>tempat</small><span class="kanji-reading"><span>onyomi: ジョウ</span><span>kunyomi: ば</span></span></span></summary><p>場 muncul pada lokasi kegiatan, pabrik, dan tempat parkir.</p><ul><li>場所 - tempat</li><li>工場 - pabrik</li><li>駐車場 - tempat parkir</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">室</span><span class="kanji-meta"><strong>室</strong><small>ruangan</small><span class="kanji-reading"><span>onyomi: シツ</span><span>kunyomi: むろ</span></span></span></summary><p>室 menandai ruangan dengan fungsi tertentu.</p><ul><li>教室 - kelas</li><li>会議室 - ruang rapat</li><li>研究室 - ruang penelitian</li></ul></details>
+  <details class="kanji-card" open><summary><span class="kanji-char">合</span><span class="kanji-meta"><strong>合</strong><small>cocok, gabung</small><span class="kanji-reading"><span>onyomi: ゴウ、ガッ、カッ</span><span>kunyomi: あう、あわせる</span></span></span></summary><p>合 muncul pada kecocokan, gabungan, dan hasil lulus.</p><ul>
+    <li><span class="ruby-word"><ruby>合格<rt>ごうかく</rt></ruby></span> - lulus</li>
+    <li><span class="ruby-word"><ruby>都合<rt>つごう</rt></ruby></span> - kondisi/jadwal</li>
+    <li><span class="ruby-word"><ruby>試合<rt>しあい</rt></ruby></span> - pertandingan</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">漢</span><span class="kanji-meta"><strong>漢</strong><small>Cina, kanji</small><span class="kanji-reading"><span>onyomi: カン</span><span>kunyomi: -</span></span></span></summary><p>漢 pada level ini paling sering muncul dalam kata 漢字.</p><ul>
+    <li><span class="ruby-word"><ruby>漢字<rt>かんじ</rt></ruby></span> - kanji</li>
+    <li><span class="ruby-word"><ruby>漢語<rt>かんご</rt></ruby></span> - kata Sino-Jepang</li>
+    <li><span class="ruby-word"><ruby>漢方<rt>かんぽう</rt></ruby></span> - pengobatan tradisional</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">字</span><span class="kanji-meta"><strong>字</strong><small>huruf, karakter</small><span class="kanji-reading"><span>onyomi: ジ</span><span>kunyomi: あざ</span></span></span></summary><p>字 dipakai untuk huruf, karakter, dan tulisan.</p><ul>
+    <li><span class="ruby-word"><ruby>文字<rt>もじ</rt></ruby></span> - huruf/tulisan</li>
+    <li><span class="ruby-word"><ruby>漢字<rt>かんじ</rt></ruby></span> - kanji</li>
+    <li><span class="ruby-word"><ruby>数字<rt>すうじ</rt></ruby></span> - angka</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">親</span><span class="kanji-meta"><strong>親</strong><small>orang tua, dekat</small><span class="kanji-reading"><span>onyomi: シン</span><span>kunyomi: おや、したしい</span></span></span></summary><p>親 berarti orang tua atau kedekatan/kebaikan pada 親切.</p><ul>
+    <li><span class="ruby-word"><ruby>親切<rt>しんせつ</rt></ruby></span> - ramah/baik hati</li>
+    <li><span class="ruby-word"><ruby>両親<rt>りょうしん</rt></ruby></span> - kedua orang tua</li>
+    <li><span class="ruby-word"><ruby>親友<rt>しんゆう</rt></ruby></span> - sahabat dekat</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">切</span><span class="kanji-meta"><strong>切</strong><small>potong, penting</small><span class="kanji-reading"><span>onyomi: セツ、サイ</span><span>kunyomi: きる、きれる</span></span></span></summary><p>切 bisa berarti memotong, penting, atau muncul dalam kata tiket/perangko.</p><ul>
+    <li><span class="ruby-word"><ruby>切手<rt>きって</rt></ruby></span> - perangko</li>
+    <li><span class="ruby-word"><ruby>切符<rt>きっぷ</rt></ruby></span> - tiket</li>
+    <li><span class="ruby-word"><ruby>大切<rt>たいせつ</rt></ruby></span> - penting</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">楽</span><span class="kanji-meta"><strong>楽</strong><small>musik, menyenangkan</small><span class="kanji-reading"><span>onyomi: ガク、ラク</span><span>kunyomi: たのしい、たのしむ</span></span></span></summary><p>楽 bisa berarti musik, senang, atau mudah/nyaman.</p><ul>
+    <li><span class="ruby-word"><ruby>音楽<rt>おんがく</rt></ruby></span> - musik</li>
+    <li><span class="ruby-word"><ruby>楽器<rt>がっき</rt></ruby></span> - alat musik</li>
+    <li><span class="ruby-word"><ruby>気楽<rt>きらく</rt></ruby></span> - santai</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">自</span><span class="kanji-meta"><strong>自</strong><small>diri sendiri</small><span class="kanji-reading"><span>onyomi: ジ、シ</span><span>kunyomi: みずから</span></span></span></summary><p>自 memberi rasa diri sendiri, otomatis, atau hal yang dilakukan sendiri.</p><ul>
+    <li><span class="ruby-word"><ruby>自分<rt>じぶん</rt></ruby></span> - diri sendiri</li>
+    <li><span class="ruby-word"><ruby>自動<rt>じどう</rt></ruby></span> - otomatis</li>
+    <li><span class="ruby-word"><ruby>自由<rt>じゆう</rt></ruby></span> - bebas</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">場</span><span class="kanji-meta"><strong>場</strong><small>tempat</small><span class="kanji-reading"><span>onyomi: ジョウ</span><span>kunyomi: ば</span></span></span></summary><p>場 muncul pada lokasi kegiatan, pabrik, dan tempat parkir.</p><ul>
+    <li><span class="ruby-word"><ruby>場所<rt>ばしょ</rt></ruby></span> - tempat</li>
+    <li><span class="ruby-word"><ruby>工場<rt>こうじょう</rt></ruby></span> - pabrik</li>
+    <li><span class="ruby-word"><ruby>駐車<rt>ちゅうしゃ</rt></ruby><ruby>場<rt>じょう</rt></ruby></span> - tempat parkir</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">室</span><span class="kanji-meta"><strong>室</strong><small>ruangan</small><span class="kanji-reading"><span>onyomi: シツ</span><span>kunyomi: むろ</span></span></span></summary><p>室 menandai ruangan dengan fungsi tertentu, seperti kelas atau kantor.</p><ul>
+    <li><span class="ruby-word"><ruby>教室<rt>きょうしつ</rt></ruby></span> - kelas</li>
+    <li><span class="ruby-word"><ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby></span> - ruang rapat</li>
+    <li><span class="ruby-word"><ruby>研究<rt>けんきゅう</rt></ruby><ruby>室<rt>しつ</rt></ruby></span> - ruang penelitian</li>
+  </ul></details>
 </div>
 
 ## Peta Kata

@@ -59,26 +59,102 @@ Di akhir pelajaran ini, kamu bisa membaca angka seperti 一, 二, 三, 百, 千,
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open><summary><span class="kanji-char">一</span><span class="kanji-meta"><strong>一</strong><small>satu</small><span class="kanji-reading"><span>onyomi: イチ、イツ</span><span>kunyomi: ひと、ひとつ</span></span></span></summary><p>一 adalah angka satu dan muncul pada tanggal atau bulan.</p><ul><li>一</li><li>一つ</li><li>一日</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">二</span><span class="kanji-meta"><strong>二</strong><small>dua</small><span class="kanji-reading"><span>onyomi: ニ</span><span>kunyomi: ふた、ふたつ</span></span></span></summary><p>二 adalah angka dua.</p><ul><li>二</li><li>二つ</li><li>二日</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">三</span><span class="kanji-meta"><strong>三</strong><small>tiga</small><span class="kanji-reading"><span>onyomi: サン</span><span>kunyomi: み、みっつ</span></span></span></summary><p>三 adalah angka tiga.</p><ul><li>三</li><li>三つ</li><li>三日</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">四</span><span class="kanji-meta"><strong>四</strong><small>empat</small><span class="kanji-reading"><span>onyomi: シ</span><span>kunyomi: よ、よん、よっつ</span></span></span></summary><p>四 adalah angka empat. Bacaan よん sering dipakai agar jelas.</p><ul><li>四</li><li>四つ</li><li>四日</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">五</span><span class="kanji-meta"><strong>五</strong><small>lima</small><span class="kanji-reading"><span>onyomi: ゴ</span><span>kunyomi: いつ、いつつ</span></span></span></summary><p>五 adalah angka lima.</p><ul><li>五</li><li>五つ</li><li>五日</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">六</span><span class="kanji-meta"><strong>六</strong><small>enam</small><span class="kanji-reading"><span>onyomi: ロク</span><span>kunyomi: む、むっつ</span></span></span></summary><p>六 adalah angka enam.</p><ul><li>六</li><li>六つ</li><li>六日</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">七</span><span class="kanji-meta"><strong>七</strong><small>tujuh</small><span class="kanji-reading"><span>onyomi: シチ</span><span>kunyomi: なな、ななつ</span></span></span></summary><p>七 adalah angka tujuh. Bacaan なな sering dipakai agar jelas.</p><ul><li>七</li><li>七つ</li><li>七日</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">八</span><span class="kanji-meta"><strong>八</strong><small>delapan</small><span class="kanji-reading"><span>onyomi: ハチ</span><span>kunyomi: や、やっつ</span></span></span></summary><p>八 adalah angka delapan.</p><ul><li>八</li><li>八つ</li><li>八日</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">九</span><span class="kanji-meta"><strong>九</strong><small>sembilan</small><span class="kanji-reading"><span>onyomi: キュウ、ク</span><span>kunyomi: ここの、ここのつ</span></span></span></summary><p>九 adalah angka sembilan.</p><ul><li>九</li><li>九つ</li><li>九日</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">十</span><span class="kanji-meta"><strong>十</strong><small>sepuluh</small><span class="kanji-reading"><span>onyomi: ジュウ、ジッ</span><span>kunyomi: とお、と</span></span></span></summary><p>十 adalah angka sepuluh dan muncul pada tanggal sepuluh.</p><ul><li>十</li><li>十日</li><li>十月</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">百</span><span class="kanji-meta"><strong>百</strong><small>seratus</small><span class="kanji-reading"><span>onyomi: ヒャク</span><span>kunyomi: もも</span></span></span></summary><p>百 adalah seratus dan sering muncul pada harga.</p><ul><li>百</li><li>二百</li><li>三百</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">千</span><span class="kanji-meta"><strong>千</strong><small>seribu</small><span class="kanji-reading"><span>onyomi: セン</span><span>kunyomi: ち</span></span></span></summary><p>千 adalah seribu.</p><ul><li>千</li><li>二千</li><li>三千</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">万</span><span class="kanji-meta"><strong>万</strong><small>sepuluh ribu</small><span class="kanji-reading"><span>onyomi: マン、バン</span><span>kunyomi: よろず</span></span></span></summary><p>万 adalah sepuluh ribu dan penting untuk harga besar.</p><ul><li>一万</li><li>十万</li><li>百万円</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">月</span><span class="kanji-meta"><strong>月</strong><small>bulan, Senin</small><span class="kanji-reading"><span>onyomi: ゲツ、ガツ</span><span>kunyomi: つき</span></span></span></summary><p>月 berarti bulan, dan juga dipakai untuk hari Senin.</p><ul><li>月</li><li>一月</li><li>月曜日</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">日</span><span class="kanji-meta"><strong>日</strong><small>hari, tanggal, Minggu</small><span class="kanji-reading"><span>onyomi: ニチ、ジツ</span><span>kunyomi: ひ、か</span></span></span></summary><p>日 berarti hari, tanggal, matahari, dan hari Minggu.</p><ul><li>日</li><li>一日</li><li>日曜日</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">火</span><span class="kanji-meta"><strong>火</strong><small>api, Selasa</small><span class="kanji-reading"><span>onyomi: カ</span><span>kunyomi: ひ、ほ</span></span></span></summary><p>火 berarti api dan dipakai untuk hari Selasa.</p><ul><li>火</li><li>火曜日</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">水</span><span class="kanji-meta"><strong>水</strong><small>air, Rabu</small><span class="kanji-reading"><span>onyomi: スイ</span><span>kunyomi: みず</span></span></span></summary><p>水 berarti air dan dipakai untuk hari Rabu.</p><ul><li>水</li><li>水曜日</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">木</span><span class="kanji-meta"><strong>木</strong><small>pohon, kayu, Kamis</small><span class="kanji-reading"><span>onyomi: モク、ボク</span><span>kunyomi: き、こ</span></span></span></summary><p>木 berarti pohon atau kayu, dan dipakai untuk hari Kamis.</p><ul><li>木</li><li>木曜日</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">金</span><span class="kanji-meta"><strong>金</strong><small>emas, uang, Jumat</small><span class="kanji-reading"><span>onyomi: キン、コン</span><span>kunyomi: かね、かな</span></span></span></summary><p>金 berarti emas atau uang, dan dipakai untuk hari Jumat.</p><ul><li>金</li><li>お金</li><li>金曜日</li></ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">土</span><span class="kanji-meta"><strong>土</strong><small>tanah, Sabtu</small><span class="kanji-reading"><span>onyomi: ド、ト</span><span>kunyomi: つち</span></span></span></summary><p>土 berarti tanah dan dipakai untuk hari Sabtu.</p><ul><li>土</li><li>土曜日</li></ul></details>
+  <details class="kanji-card" open><summary><span class="kanji-char">一</span><span class="kanji-meta"><strong>一</strong><small>satu</small><span class="kanji-reading"><span>onyomi: イチ、イツ</span><span>kunyomi: ひと、ひとつ</span></span></span></summary><p>一 adalah angka satu dan sering muncul pada tanggal, bulan, jumlah benda, atau jadwal.</p><ul>
+    <li><span class="ruby-word"><ruby>一<rt>いち</rt></ruby></span> - satu</li>
+    <li><span class="ruby-word"><ruby>一つ<rt>ひとつ</rt></ruby></span> - satu buah</li>
+    <li><span class="ruby-word"><ruby>一日<rt>ついたち</rt></ruby></span> - tanggal satu</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">二</span><span class="kanji-meta"><strong>二</strong><small>dua</small><span class="kanji-reading"><span>onyomi: ニ</span><span>kunyomi: ふた、ふたつ</span></span></span></summary><p>二 adalah angka dua dan sering muncul pada jumlah benda, tanggal, atau urutan dasar.</p><ul>
+    <li><span class="ruby-word"><ruby>二<rt>に</rt></ruby></span> - dua</li>
+    <li><span class="ruby-word"><ruby>二つ<rt>ふたつ</rt></ruby></span> - dua buah</li>
+    <li><span class="ruby-word"><ruby>二日<rt>ふつか</rt></ruby></span> - tanggal dua, dua hari</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">三</span><span class="kanji-meta"><strong>三</strong><small>tiga</small><span class="kanji-reading"><span>onyomi: サン</span><span>kunyomi: み、みっつ</span></span></span></summary><p>三 adalah angka tiga dan sering muncul pada jumlah benda, tanggal, atau hitungan sederhana.</p><ul>
+    <li><span class="ruby-word"><ruby>三<rt>さん</rt></ruby></span> - tiga</li>
+    <li><span class="ruby-word"><ruby>三つ<rt>みっつ</rt></ruby></span> - tiga buah</li>
+    <li><span class="ruby-word"><ruby>三日<rt>みっか</rt></ruby></span> - tanggal tiga, tiga hari</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">四</span><span class="kanji-meta"><strong>四</strong><small>empat</small><span class="kanji-reading"><span>onyomi: シ</span><span>kunyomi: よ、よん、よっつ</span></span></span></summary><p>四 adalah angka empat, dan bacaan よん sering dipakai agar jelas dalam percakapan.</p><ul>
+    <li><span class="ruby-word"><ruby>四<rt>よん</rt></ruby></span> - empat</li>
+    <li><span class="ruby-word"><ruby>四つ<rt>よっつ</rt></ruby></span> - empat buah</li>
+    <li><span class="ruby-word"><ruby>四日<rt>よっか</rt></ruby></span> - tanggal empat, empat hari</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">五</span><span class="kanji-meta"><strong>五</strong><small>lima</small><span class="kanji-reading"><span>onyomi: ゴ</span><span>kunyomi: いつ、いつつ</span></span></span></summary><p>五 adalah angka lima dan sering muncul pada hitungan, tanggal, bulan, atau harga.</p><ul>
+    <li><span class="ruby-word"><ruby>五<rt>ご</rt></ruby></span> - lima</li>
+    <li><span class="ruby-word"><ruby>五つ<rt>いつつ</rt></ruby></span> - lima buah</li>
+    <li><span class="ruby-word"><ruby>五日<rt>いつか</rt></ruby></span> - tanggal lima, lima hari</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">六</span><span class="kanji-meta"><strong>六</strong><small>enam</small><span class="kanji-reading"><span>onyomi: ロク</span><span>kunyomi: む、むっつ</span></span></span></summary><p>六 adalah angka enam dan sering muncul pada hitungan, tanggal, bulan, atau jadwal.</p><ul>
+    <li><span class="ruby-word"><ruby>六<rt>ろく</rt></ruby></span> - enam</li>
+    <li><span class="ruby-word"><ruby>六つ<rt>むっつ</rt></ruby></span> - enam buah</li>
+    <li><span class="ruby-word"><ruby>六日<rt>むいか</rt></ruby></span> - tanggal enam, enam hari</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">七</span><span class="kanji-meta"><strong>七</strong><small>tujuh</small><span class="kanji-reading"><span>onyomi: シチ</span><span>kunyomi: なな、ななつ</span></span></span></summary><p>七 adalah angka tujuh, dan bacaan なな sering dipakai agar tidak tertukar dengan 四.</p><ul>
+    <li><span class="ruby-word"><ruby>七<rt>なな</rt></ruby></span> - tujuh</li>
+    <li><span class="ruby-word"><ruby>七つ<rt>ななつ</rt></ruby></span> - tujuh buah</li>
+    <li><span class="ruby-word"><ruby>七日<rt>なのか</rt></ruby></span> - tanggal tujuh, tujuh hari</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">八</span><span class="kanji-meta"><strong>八</strong><small>delapan</small><span class="kanji-reading"><span>onyomi: ハチ</span><span>kunyomi: や、やっつ</span></span></span></summary><p>八 adalah angka delapan dan sering muncul pada hitungan, tanggal, bulan, atau harga.</p><ul>
+    <li><span class="ruby-word"><ruby>八<rt>はち</rt></ruby></span> - delapan</li>
+    <li><span class="ruby-word"><ruby>八つ<rt>やっつ</rt></ruby></span> - delapan buah</li>
+    <li><span class="ruby-word"><ruby>八日<rt>ようか</rt></ruby></span> - tanggal delapan, delapan hari</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">九</span><span class="kanji-meta"><strong>九</strong><small>sembilan</small><span class="kanji-reading"><span>onyomi: キュウ、ク</span><span>kunyomi: ここの、ここのつ</span></span></span></summary><p>九 adalah angka sembilan dan sering muncul pada hitungan, tanggal, bulan, atau jam.</p><ul>
+    <li><span class="ruby-word"><ruby>九<rt>きゅう</rt></ruby></span> - sembilan</li>
+    <li><span class="ruby-word"><ruby>九つ<rt>ここのつ</rt></ruby></span> - sembilan buah</li>
+    <li><span class="ruby-word"><ruby>九日<rt>ここのか</rt></ruby></span> - tanggal sembilan, sembilan hari</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">十</span><span class="kanji-meta"><strong>十</strong><small>sepuluh</small><span class="kanji-reading"><span>onyomi: ジュウ、ジッ</span><span>kunyomi: とお、と</span></span></span></summary><p>十 adalah angka sepuluh dan muncul pada tanggal sepuluh, bulan Oktober, atau hitungan dasar.</p><ul>
+    <li><span class="ruby-word"><ruby>十<rt>じゅう</rt></ruby></span> - sepuluh</li>
+    <li><span class="ruby-word"><ruby>十日<rt>とおか</rt></ruby></span> - tanggal sepuluh, sepuluh hari</li>
+    <li><span class="ruby-word"><ruby>十月<rt>じゅうがつ</rt></ruby></span> - Oktober</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">百</span><span class="kanji-meta"><strong>百</strong><small>seratus</small><span class="kanji-reading"><span>onyomi: ヒャク</span><span>kunyomi: もも</span></span></span></summary><p>百 adalah seratus dan sering muncul pada harga, jumlah, atau hitungan uang yen.</p><ul>
+    <li><span class="ruby-word"><ruby>百<rt>ひゃく</rt></ruby></span> - seratus</li>
+    <li><span class="ruby-word"><ruby>二百<rt>にひゃく</rt></ruby></span> - dua ratus</li>
+    <li><span class="ruby-word"><ruby>三百<rt>さんびゃく</rt></ruby></span> - tiga ratus</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">千</span><span class="kanji-meta"><strong>千</strong><small>seribu</small><span class="kanji-reading"><span>onyomi: セン</span><span>kunyomi: ち</span></span></span></summary><p>千 adalah seribu dan sering muncul pada harga atau jumlah besar dalam kalender dan toko.</p><ul>
+    <li><span class="ruby-word"><ruby>千<rt>せん</rt></ruby></span> - seribu</li>
+    <li><span class="ruby-word"><ruby>二千<rt>にせん</rt></ruby></span> - dua ribu</li>
+    <li><span class="ruby-word"><ruby>三千<rt>さんぜん</rt></ruby></span> - tiga ribu</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">万</span><span class="kanji-meta"><strong>万</strong><small>sepuluh ribu</small><span class="kanji-reading"><span>onyomi: マン、バン</span><span>kunyomi: よろず</span></span></span></summary><p>万 adalah sepuluh ribu dan penting saat membaca harga besar atau jumlah uang.</p><ul>
+    <li><span class="ruby-word"><ruby>一万<rt>いちまん</rt></ruby></span> - sepuluh ribu</li>
+    <li><span class="ruby-word"><ruby>十万<rt>じゅうまん</rt></ruby></span> - seratus ribu</li>
+    <li><span class="ruby-word"><ruby>百万円<rt>ひゃくまんえん</rt></ruby></span> - satu juta yen</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">月</span><span class="kanji-meta"><strong>月</strong><small>bulan, Senin</small><span class="kanji-reading"><span>onyomi: ゲツ、ガツ</span><span>kunyomi: つき</span></span></span></summary><p>月 berarti bulan, dan juga dipakai untuk hari Senin dalam 月曜日.</p><ul>
+    <li><span class="ruby-word"><ruby>月<rt>つき</rt></ruby></span> - bulan</li>
+    <li><span class="ruby-word"><ruby>一月<rt>いちがつ</rt></ruby></span> - Januari</li>
+    <li><span class="ruby-word"><ruby>月曜日<rt>げつようび</rt></ruby></span> - hari Senin</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">日</span><span class="kanji-meta"><strong>日</strong><small>hari, tanggal, Minggu</small><span class="kanji-reading"><span>onyomi: ニチ、ジツ</span><span>kunyomi: ひ、か</span></span></span></summary><p>日 berarti hari, tanggal, matahari, dan hari Minggu dalam kalender sederhana.</p><ul>
+    <li><span class="ruby-word"><ruby>日<rt>ひ</rt></ruby></span> - hari, matahari</li>
+    <li><span class="ruby-word"><ruby>一日<rt>ついたち</rt></ruby></span> - tanggal satu</li>
+    <li><span class="ruby-word"><ruby>日曜日<rt>にちようび</rt></ruby></span> - hari Minggu</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">火</span><span class="kanji-meta"><strong>火</strong><small>api, Selasa</small><span class="kanji-reading"><span>onyomi: カ</span><span>kunyomi: ひ、ほ</span></span></span></summary><p>火 berarti api dan dipakai untuk hari Selasa dalam nama hari kalender.</p><ul>
+    <li><span class="ruby-word"><ruby>火<rt>ひ</rt></ruby></span> - api</li>
+    <li><span class="ruby-word"><ruby>火曜日<rt>かようび</rt></ruby></span> - hari Selasa</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">水</span><span class="kanji-meta"><strong>水</strong><small>air, Rabu</small><span class="kanji-reading"><span>onyomi: スイ</span><span>kunyomi: みず</span></span></span></summary><p>水 berarti air dan dipakai untuk hari Rabu dalam nama hari kalender.</p><ul>
+    <li><span class="ruby-word"><ruby>水<rt>みず</rt></ruby></span> - air</li>
+    <li><span class="ruby-word"><ruby>水曜日<rt>すいようび</rt></ruby></span> - hari Rabu</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">木</span><span class="kanji-meta"><strong>木</strong><small>pohon, kayu, Kamis</small><span class="kanji-reading"><span>onyomi: モク、ボク</span><span>kunyomi: き、こ</span></span></span></summary><p>木 berarti pohon atau kayu, dan dipakai untuk hari Kamis dalam kalender.</p><ul>
+    <li><span class="ruby-word"><ruby>木<rt>き</rt></ruby></span> - pohon, kayu</li>
+    <li><span class="ruby-word"><ruby>木曜日<rt>もくようび</rt></ruby></span> - hari Kamis</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">金</span><span class="kanji-meta"><strong>金</strong><small>emas, uang, Jumat</small><span class="kanji-reading"><span>onyomi: キン、コン</span><span>kunyomi: かね、かな</span></span></span></summary><p>金 berarti emas atau uang, dan dipakai untuk hari Jumat dalam kalender.</p><ul>
+    <li><span class="ruby-word"><ruby>金<rt>かね</rt></ruby></span> - uang, emas</li>
+    <li><span class="ruby-word"><ruby>お金<rt>おかね</rt></ruby></span> - uang</li>
+    <li><span class="ruby-word"><ruby>金曜日<rt>きんようび</rt></ruby></span> - hari Jumat</li>
+  </ul></details>
+  <details class="kanji-card"><summary><span class="kanji-char">土</span><span class="kanji-meta"><strong>土</strong><small>tanah, Sabtu</small><span class="kanji-reading"><span>onyomi: ド、ト</span><span>kunyomi: つち</span></span></span></summary><p>土 berarti tanah dan dipakai untuk hari Sabtu dalam nama hari kalender.</p><ul>
+    <li><span class="ruby-word"><ruby>土<rt>つち</rt></ruby></span> - tanah</li>
+    <li><span class="ruby-word"><ruby>土曜日<rt>どようび</rt></ruby></span> - hari Sabtu</li>
+  </ul></details>
 </div>
 
 ## Peta Kata

@@ -47,138 +47,137 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 死亡, 忙し
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open>
-    <summary>
-      <span class="kanji-char">亡</span>
-      <span class="kanji-meta">
-        <strong>亡</strong>
-        <small>meninggal, hilang</small>
-        <span class="kanji-reading"><span>onyomi: ボウ</span><span>kunyomi: ない</span></span>
-      </span>
-    </summary>
-    <p>亡 berkaitan dengan kematian atau sesuatu yang hilang. Dalam berita formal, 死亡 sering muncul.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>死亡<rt>しぼう</rt></ruby></span> - kematian</li>
-      <li><span class="ruby-word"><ruby>亡くなる<rt>なくなる</rt></ruby></span> - meninggal</li>
-    </ul>
-  </details>
+<details class="kanji-card" open>
+  <summary>
+    <span class="kanji-char">亡</span>
+    <span class="kanji-meta">
+      <strong>亡</strong>
+      <small>meninggal, hilang</small>
+      <span class="kanji-reading"><span>onyomi: ボウ</span>
+    </span>
+  </summary>
+  <p>亡 berkaitan dengan kematian atau sesuatu yang hilang. Dalam berita formal, 死亡 sering muncul.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>死亡<rt>しぼう</rt></ruby></span> - kematian</li>
+    <li><span class="ruby-word"><ruby>亡くなる<rt>なくなる</rt></ruby></span> - meninggal</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">忙</span>
-      <span class="kanji-meta">
-        <strong>忙</strong>
-        <small>sibuk</small>
-        <span class="kanji-reading"><span>onyomi: ボウ</span><span>kunyomi: いそがしい</span></span>
-      </span>
-    </summary>
-    <p>忙 menandai kesibukan. Sering muncul dalam percakapan kerja dan alasan tidak sempat melakukan sesuatu.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>多忙<rt>たぼう</rt></ruby></span> - sangat sibuk</li>
-      <li><span class="ruby-word"><ruby>忙しい<rt>いそがしい</rt></ruby></span> - sibuk</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">忙</span>
+    <span class="kanji-meta">
+      <strong>忙</strong>
+      <small>sibuk</small>
+      <span class="kanji-reading"><span>onyomi: ボウ</span>
+    </span>
+  </summary>
+  <p>忙 menandai kesibukan. Sering muncul dalam percakapan kerja dan alasan tidak sempat melakukan sesuatu.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>多忙<rt>たぼう</rt></ruby></span> - sangat sibuk</li>
+    <li><span class="ruby-word"><ruby>忙しい<rt>いそがしい</rt></ruby></span> - sibuk</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">忘</span>
-      <span class="kanji-meta">
-        <strong>忘</strong>
-        <small>lupa</small>
-        <span class="kanji-reading"><span>onyomi: ボウ</span><span>kunyomi: わすれる</span></span>
-      </span>
-    </summary>
-    <p>忘 berkaitan dengan melupakan atau meninggalkan barang. 忘れ物 adalah kata yang sangat sering dipakai di kehidupan sehari-hari.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>忘年会<rt>ぼうねんかい</rt></ruby></span> - pesta akhir tahun</li>
-      <li><span class="ruby-word"><ruby>忘れる<rt>わすれる</rt></ruby></span> - lupa</li>
-      <li><span class="ruby-word"><ruby>忘れ物<rt>わすれもの</rt></ruby></span> - barang tertinggal</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">忘</span>
+    <span class="kanji-meta">
+      <strong>忘</strong>
+      <small>lupa</small>
+      <span class="kanji-reading"><span>onyomi: ボウ</span>
+    </span>
+  </summary>
+  <p>忘 berkaitan dengan melupakan atau meninggalkan barang. 忘れ物 adalah kata yang sangat sering dipakai di kehidupan sehari-hari.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>忘年会<rt>ぼうねんかい</rt></ruby></span> - pesta akhir tahun</li>
+    <li><span class="ruby-word"><ruby>忘れる<rt>わすれる</rt></ruby></span> - lupa</li>
+    <li><span class="ruby-word"><ruby>忘れ物<rt>わすれもの</rt></ruby></span> - barang tertinggal</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">祭</span>
-      <span class="kanji-meta">
-        <strong>祭</strong>
-        <small>festival</small>
-        <span class="kanji-reading"><span>onyomi: サイ</span><span>kunyomi: まつり</span></span>
-      </span>
-    </summary>
-    <p>祭 berkaitan dengan festival atau perayaan. 文化祭 sering muncul pada pengumuman sekolah.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>文化祭<rt>ぶんかさい</rt></ruby></span> - festival budaya sekolah</li>
-      <li><span class="ruby-word"><ruby>お祭り<rt>おまつり</rt></ruby></span> - festival</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">祭</span>
+    <span class="kanji-meta">
+      <strong>祭</strong>
+      <small>festival</small>
+      <span class="kanji-reading"><span>onyomi: サイ</span>
+    </span>
+  </summary>
+  <p>祭 berkaitan dengan festival atau perayaan. 文化祭 sering muncul pada pengumuman sekolah.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>文化祭<rt>ぶんかさい</rt></ruby></span> - festival budaya sekolah</li>
+    <li><span class="ruby-word"><ruby>お祭り<rt>おまつり</rt></ruby></span> - festival</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">労</span>
-      <span class="kanji-meta">
-        <strong>労</strong>
-        <small>kerja keras</small>
-        <span class="kanji-reading"><span>onyomi: ロウ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>労 berkaitan dengan usaha, kerja, atau penderitaan. Dalam berita dan percakapan sopan, 苦労 sering muncul.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>苦労<rt>くろう</rt></ruby></span> - kesulitan, jerih payah</li>
-      <li><span class="ruby-word"><ruby>労働者<rt>ろうどうしゃ</rt></ruby></span> - pekerja</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">労</span>
+    <span class="kanji-meta">
+      <strong>労</strong>
+      <small>kerja keras</small>
+      <span class="kanji-reading"><span>onyomi: ロウ</span>
+    </span>
+  </summary>
+  <p>労 berkaitan dengan usaha, kerja, atau penderitaan. Dalam berita dan percakapan sopan, 苦労 sering muncul.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>苦労<rt>くろう</rt></ruby></span> - kesulitan, jerih payah</li>
+    <li><span class="ruby-word"><ruby>労働者<rt>ろうどうしゃ</rt></ruby></span> - pekerja</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">加</span>
-      <span class="kanji-meta">
-        <strong>加</strong>
-        <small>menambahkan, ikut</small>
-        <span class="kanji-reading"><span>onyomi: カ</span><span>kunyomi: くわえる</span></span>
-      </span>
-    </summary>
-    <p>加 bisa berarti menambahkan atau ikut serta. 参加 adalah kata penting untuk acara dan kegiatan.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>参加<rt>さんか</rt></ruby></span> - partisipasi</li>
-      <li><span class="ruby-word"><ruby>増加<rt>ぞうか</rt></ruby></span> - peningkatan</li>
-      <li><span class="ruby-word"><ruby>加える<rt>くわえる</rt></ruby></span> - menambahkan</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">加</span>
+    <span class="kanji-meta">
+      <strong>加</strong>
+      <small>menambahkan, ikut</small>
+      <span class="kanji-reading"><span>onyomi: カ</span>
+    </span>
+  </summary>
+  <p>加 bisa berarti menambahkan atau ikut serta. 参加 adalah kata penting untuk acara dan kegiatan.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>参加<rt>さんか</rt></ruby></span> - partisipasi</li>
+    <li><span class="ruby-word"><ruby>増加<rt>ぞうか</rt></ruby></span> - peningkatan</li>
+    <li><span class="ruby-word"><ruby>加える<rt>くわえる</rt></ruby></span> - menambahkan</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">情</span>
-      <span class="kanji-meta">
-        <strong>情</strong>
-        <small>perasaan, informasi</small>
-        <span class="kanji-reading"><span>onyomi: ジョウ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>情 bisa berarti perasaan atau informasi. 情報 adalah salah satu kata paling umum untuk berita dan data.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>情報<rt>じょうほう</rt></ruby></span> - informasi</li>
-      <li><span class="ruby-word"><ruby>表情<rt>ひょうじょう</rt></ruby></span> - ekspresi wajah</li>
-      <li><span class="ruby-word"><ruby>感情<rt>かんじょう</rt></ruby></span> - perasaan</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">情</span>
+    <span class="kanji-meta">
+      <strong>情</strong>
+      <small>perasaan, informasi</small>
+      <span class="kanji-reading"><span>onyomi: ジョウ</span>
+    </span>
+  </summary>
+  <p>情 bisa berarti perasaan atau informasi. 情報 adalah salah satu kata paling umum untuk berita dan data.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>情報<rt>じょうほう</rt></ruby></span> - informasi</li>
+    <li><span class="ruby-word"><ruby>表情<rt>ひょうじょう</rt></ruby></span> - ekspresi wajah</li>
+    <li><span class="ruby-word"><ruby>感情<rt>かんじょう</rt></ruby></span> - perasaan</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">反</span>
-      <span class="kanji-meta">
-        <strong>反</strong>
-        <small>berlawanan</small>
-        <span class="kanji-reading"><span>onyomi: ハン</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>反 menandai lawan, penentangan, atau reaksi. Sering muncul dalam diskusi pendapat dan berita.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>反対<rt>はんたい</rt></ruby></span> - menentang, berlawanan</li>
-      <li><span class="ruby-word"><ruby>反応<rt>はんのう</rt></ruby></span> - reaksi</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">反</span>
+    <span class="kanji-meta">
+      <strong>反</strong>
+      <small>berlawanan</small>
+      <span class="kanji-reading"><span>onyomi: ハン</span>
+    </span>
+  </summary>
+  <p>反 menandai lawan, penentangan, atau reaksi. Sering muncul dalam diskusi pendapat dan berita.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>反対<rt>はんたい</rt></ruby></span> - menentang, berlawanan</li>
+    <li><span class="ruby-word"><ruby>反応<rt>はんのう</rt></ruby></span> - reaksi</li>
+  </ul>
+</details>
 </div>
-
 ## Peta Kata
 
 Kata-kata hari ini bisa dibaca sebagai alur: kehilangan atau kesibukan → lupa → acara → kerja keras dan partisipasi → informasi atau perasaan → pendapat berlawanan. Banyak kanji hari ini muncul di berita, pengumuman sekolah, dan percakapan tentang kegiatan.

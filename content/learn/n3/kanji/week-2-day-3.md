@@ -47,139 +47,138 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 観光, 動物
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open>
-    <summary>
-      <span class="kanji-char">観</span>
-      <span class="kanji-meta">
-        <strong>観</strong>
-        <small>melihat, wisata</small>
-        <span class="kanji-reading"><span>onyomi: カン</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>観 memberi rasa melihat atau mengamati. Dalam 観光, fokusnya adalah pergi melihat tempat.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>観光<rt>かんこう</rt></ruby></span> - wisata</li>
-      <li><span class="ruby-word"><ruby>観客<rt>かんきゃく</rt></ruby></span> - penonton</li>
-    </ul>
-  </details>
+<details class="kanji-card" open>
+  <summary>
+    <span class="kanji-char">観</span>
+    <span class="kanji-meta">
+      <strong>観</strong>
+      <small>melihat, wisata</small>
+      <span class="kanji-reading"><span>onyomi: カン</span>
+    </span>
+  </summary>
+  <p>観 memberi rasa melihat atau mengamati. Dalam 観光, fokusnya adalah pergi melihat tempat.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>観光<rt>かんこう</rt></ruby></span> - wisata</li>
+    <li><span class="ruby-word"><ruby>観客<rt>かんきゃく</rt></ruby></span> - penonton</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">園</span>
-      <span class="kanji-meta">
-        <strong>園</strong>
-        <small>taman, area fasilitas</small>
-        <span class="kanji-reading"><span>onyomi: エン</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>園 menunjuk area yang dikelola seperti taman, kebun, atau tempat bermain.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>動物園<rt>どうぶつえん</rt></ruby></span> - kebun binatang</li>
-      <li><span class="ruby-word"><ruby>遊園地<rt>ゆうえんち</rt></ruby></span> - taman bermain</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">園</span>
+    <span class="kanji-meta">
+      <strong>園</strong>
+      <small>taman, area fasilitas</small>
+      <span class="kanji-reading"><span>onyomi: エン</span>
+    </span>
+  </summary>
+  <p>園 menunjuk area yang dikelola seperti taman, kebun, atau tempat bermain.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>動物園<rt>どうぶつえん</rt></ruby></span> - kebun binatang</li>
+    <li><span class="ruby-word"><ruby>遊園地<rt>ゆうえんち</rt></ruby></span> - taman bermain</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">港</span>
-      <span class="kanji-meta">
-        <strong>港</strong>
-        <small>pelabuhan</small>
-        <span class="kanji-reading"><span>onyomi: コウ</span><span>kunyomi: みなと</span></span>
-      </span>
-    </summary>
-    <p>港 menunjuk pelabuhan, tetapi juga muncul dalam 空港 untuk bandara.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>空港<rt>くうこう</rt></ruby></span> - bandara</li>
-      <li><span class="ruby-word"><ruby>港<rt>みなと</rt></ruby></span> - pelabuhan</li>
-      <li><span class="ruby-word"><ruby>神戸港<rt>こうべこう</rt></ruby></span> - Pelabuhan Kobe</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">港</span>
+    <span class="kanji-meta">
+      <strong>港</strong>
+      <small>pelabuhan</small>
+      <span class="kanji-reading"><span>onyomi: コウ</span>
+    </span>
+  </summary>
+  <p>港 menunjuk pelabuhan, tetapi juga muncul dalam 空港 untuk bandara.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>空港<rt>くうこう</rt></ruby></span> - bandara</li>
+    <li><span class="ruby-word"><ruby>港<rt>みなと</rt></ruby></span> - pelabuhan</li>
+    <li><span class="ruby-word"><ruby>神戸港<rt>こうべこう</rt></ruby></span> - Pelabuhan Kobe</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">遊</span>
-      <span class="kanji-meta">
-        <strong>遊</strong>
-        <small>bermain, rekreasi</small>
-        <span class="kanji-reading"><span>onyomi: ユウ</span><span>kunyomi: あそぶ</span></span>
-      </span>
-    </summary>
-    <p>遊 memberi rasa bermain atau menikmati waktu. Dalam 遊園地, artinya tempat bermain.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>遊園地<rt>ゆうえんち</rt></ruby></span> - taman bermain</li>
-      <li><span class="ruby-word"><ruby>遊ぶ<rt>あそぶ</rt></ruby></span> - bermain</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">遊</span>
+    <span class="kanji-meta">
+      <strong>遊</strong>
+      <small>bermain, rekreasi</small>
+      <span class="kanji-reading"><span>onyomi: ユウ</span>
+    </span>
+  </summary>
+  <p>遊 memberi rasa bermain atau menikmati waktu. Dalam 遊園地, artinya tempat bermain.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>遊園地<rt>ゆうえんち</rt></ruby></span> - taman bermain</li>
+    <li><span class="ruby-word"><ruby>遊ぶ<rt>あそぶ</rt></ruby></span> - bermain</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">美</span>
-      <span class="kanji-meta">
-        <strong>美</strong>
-        <small>indah, kecantikan</small>
-        <span class="kanji-reading"><span>onyomi: ビ</span><span>kunyomi: うつくしい</span></span>
-      </span>
-    </summary>
-    <p>美 menandai keindahan. Dalam 美術館, kanji ini mengarah ke seni rupa.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>美術館<rt>びじゅつかん</rt></ruby></span> - museum seni</li>
-      <li><span class="ruby-word"><ruby>美しい<rt>うつくしい</rt></ruby></span> - indah</li>
-      <li><span class="ruby-word"><ruby>美人<rt>びじん</rt></ruby></span> - orang cantik</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">美</span>
+    <span class="kanji-meta">
+      <strong>美</strong>
+      <small>indah, kecantikan</small>
+      <span class="kanji-reading"><span>onyomi: ビ</span>
+    </span>
+  </summary>
+  <p>美 menandai keindahan. Dalam 美術館, kanji ini mengarah ke seni rupa.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>美術館<rt>びじゅつかん</rt></ruby></span> - museum seni</li>
+    <li><span class="ruby-word"><ruby>美しい<rt>うつくしい</rt></ruby></span> - indah</li>
+    <li><span class="ruby-word"><ruby>美人<rt>びじん</rt></ruby></span> - orang cantik</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">術</span>
-      <span class="kanji-meta">
-        <strong>術</strong>
-        <small>seni, teknik</small>
-        <span class="kanji-reading"><span>onyomi: ジュツ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>術 bisa berarti seni, teknik, atau operasi tergantung kata. Dalam topik wisata, fokusnya 美術.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>美術<rt>びじゅつ</rt></ruby></span> - seni rupa</li>
-      <li><span class="ruby-word"><ruby>技術<rt>ぎじゅつ</rt></ruby></span> - teknik</li>
-      <li><span class="ruby-word"><ruby>手術<rt>しゅじゅつ</rt></ruby></span> - operasi</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">術</span>
+    <span class="kanji-meta">
+      <strong>術</strong>
+      <small>seni, teknik</small>
+      <span class="kanji-reading"><span>onyomi: ジュツ</span>
+    </span>
+  </summary>
+  <p>術 bisa berarti seni, teknik, atau operasi tergantung kata. Dalam topik wisata, fokusnya 美術.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>美術<rt>びじゅつ</rt></ruby></span> - seni rupa</li>
+    <li><span class="ruby-word"><ruby>技術<rt>ぎじゅつ</rt></ruby></span> - teknik</li>
+    <li><span class="ruby-word"><ruby>手術<rt>しゅじゅつ</rt></ruby></span> - operasi</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">神</span>
-      <span class="kanji-meta">
-        <strong>神</strong>
-        <small>dewa, roh</small>
-        <span class="kanji-reading"><span>onyomi: シン, ジン</span><span>kunyomi: かみ</span></span>
-      </span>
-    </summary>
-    <p>神 muncul pada tempat ibadah seperti 神社 dan juga pada kata yang berarti sifat/keadaan.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>神社<rt>じんじゃ</rt></ruby></span> - kuil Shinto</li>
-      <li><span class="ruby-word"><ruby>神様<rt>かみさま</rt></ruby></span> - dewa</li>
-      <li><span class="ruby-word"><ruby>神経質<rt>しんけいしつ</rt></ruby></span> - sensitif, mudah tegang</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">神</span>
+    <span class="kanji-meta">
+      <strong>神</strong>
+      <small>dewa, roh</small>
+      <span class="kanji-reading"><span>onyomi: シン, ジン</span>
+    </span>
+  </summary>
+  <p>神 muncul pada tempat ibadah seperti 神社 dan juga pada kata yang berarti sifat/keadaan.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>神社<rt>じんじゃ</rt></ruby></span> - kuil Shinto</li>
+    <li><span class="ruby-word"><ruby>神様<rt>かみさま</rt></ruby></span> - dewa</li>
+    <li><span class="ruby-word"><ruby>神経質<rt>しんけいしつ</rt></ruby></span> - sensitif, mudah tegang</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">寺</span>
-      <span class="kanji-meta">
-        <strong>寺</strong>
-        <small>kuil Buddha</small>
-        <span class="kanji-reading"><span>onyomi: ジ</span><span>kunyomi: てら</span></span>
-      </span>
-    </summary>
-    <p>寺 menunjuk kuil Buddha atau vihara. Pada nama tempat, sering ditempel di akhir nama.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>お寺<rt>おてら</rt></ruby></span> - kuil Buddha</li>
-      <li><span class="ruby-word"><ruby>金閣寺<rt>きんかくじ</rt></ruby></span> - Kinkakuji</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">寺</span>
+    <span class="kanji-meta">
+      <strong>寺</strong>
+      <small>kuil Buddha</small>
+      <span class="kanji-reading"><span>onyomi: ジ</span>
+    </span>
+  </summary>
+  <p>寺 menunjuk kuil Buddha atau vihara. Pada nama tempat, sering ditempel di akhir nama.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>お寺<rt>おてら</rt></ruby></span> - kuil Buddha</li>
+    <li><span class="ruby-word"><ruby>金閣寺<rt>きんかくじ</rt></ruby></span> - Kinkakuji</li>
+  </ul>
+</details>
 </div>
-
 ## Peta Kata
 
 Kata-kata hari ini membantu membaca peta tempat wisata. 観光 adalah kegiatan wisata, 園 dan 遊 menunjuk area rekreasi, 港 menunjuk gerbang transportasi, 美術 menunjuk seni, sedangkan 神社 dan 寺 menunjuk tempat ibadah.

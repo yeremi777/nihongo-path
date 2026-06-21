@@ -47,138 +47,137 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 準備, 営業
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
-  <details class="kanji-card" open>
-    <summary>
-      <span class="kanji-char">準</span>
-      <span class="kanji-meta">
-        <strong>準</strong>
-        <small>persiapan, standar</small>
-        <span class="kanji-reading"><span>onyomi: ジュン</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>Dipakai untuk hal yang belum dimulai tetapi sedang disiapkan. Dalam 準備, fokusnya adalah kondisi sebelum layanan siap.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>準備<rt>じゅんび</rt></ruby></span> - persiapan</li>
-      <li><span class="ruby-word"><ruby>準備中<rt>じゅんびちゅう</rt></ruby></span> - sedang persiapan</li>
-    </ul>
-  </details>
+<details class="kanji-card" open>
+  <summary>
+    <span class="kanji-char">準</span>
+    <span class="kanji-meta">
+      <strong>準</strong>
+      <small>persiapan, standar</small>
+      <span class="kanji-reading"><span>onyomi: ジュン</span>
+    </span>
+  </summary>
+  <p>Dipakai untuk hal yang belum dimulai tetapi sedang disiapkan. Dalam 準備, fokusnya adalah kondisi sebelum layanan siap.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>準備<rt>じゅんび</rt></ruby></span> - persiapan</li>
+    <li><span class="ruby-word"><ruby>準備中<rt>じゅんびちゅう</rt></ruby></span> - sedang persiapan</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">備</span>
-      <span class="kanji-meta">
-        <strong>備</strong>
-        <small>menyiapkan, melengkapi</small>
-        <span class="kanji-reading"><span>onyomi: ビ</span><span>kunyomi: そなえる</span></span>
-      </span>
-    </summary>
-    <p>備 memberi rasa menyiapkan perlengkapan atau kondisi. Sering bergabung dengan 準 untuk membentuk 準備.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>準備<rt>じゅんび</rt></ruby></span> - persiapan</li>
-      <li><span class="ruby-word"><ruby>備える<rt>そなえる</rt></ruby></span> - bersiap, melengkapi</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">備</span>
+    <span class="kanji-meta">
+      <strong>備</strong>
+      <small>menyiapkan, melengkapi</small>
+      <span class="kanji-reading"><span>onyomi: ビ</span>
+    </span>
+  </summary>
+  <p>備 memberi rasa menyiapkan perlengkapan atau kondisi. Sering bergabung dengan 準 untuk membentuk 準備.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>準備<rt>じゅんび</rt></ruby></span> - persiapan</li>
+    <li><span class="ruby-word"><ruby>備える<rt>そなえる</rt></ruby></span> - bersiap, melengkapi</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">営</span>
-      <span class="kanji-meta">
-        <strong>営</strong>
-        <small>mengelola, beroperasi</small>
-        <span class="kanji-reading"><span>onyomi: エイ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>営 muncul dalam kata layanan atau operasional. Untuk restoran, 営業 adalah kata penting pada papan jam buka.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>営業<rt>えいぎょう</rt></ruby></span> - operasi bisnis</li>
-      <li><span class="ruby-word"><ruby>営業時間<rt>えいぎょうじかん</rt></ruby></span> - jam operasional</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">営</span>
+    <span class="kanji-meta">
+      <strong>営</strong>
+      <small>mengelola, beroperasi</small>
+      <span class="kanji-reading"><span>onyomi: エイ</span>
+    </span>
+  </summary>
+  <p>営 muncul dalam kata layanan atau operasional. Untuk restoran, 営業 adalah kata penting pada papan jam buka.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>営業<rt>えいぎょう</rt></ruby></span> - operasi bisnis</li>
+    <li><span class="ruby-word"><ruby>営業時間<rt>えいぎょうじかん</rt></ruby></span> - jam operasional</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">閉</span>
-      <span class="kanji-meta">
-        <strong>閉</strong>
-        <small>tutup, menutup</small>
-        <span class="kanji-reading"><span>onyomi: ヘイ</span><span>kunyomi: しまる, しめる</span></span>
-      </span>
-    </summary>
-    <p>閉 menandai keadaan tertutup atau tindakan menutup. Pada toko dan restoran, ini sering muncul dalam 開閉 atau 閉店.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>開閉<rt>かいへい</rt></ruby></span> - buka-tutup</li>
-      <li><span class="ruby-word"><ruby>閉まる<rt>しまる</rt></ruby></span> - tertutup</li>
-      <li><span class="ruby-word"><ruby>閉める<rt>しめる</rt></ruby></span> - menutup</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">閉</span>
+    <span class="kanji-meta">
+      <strong>閉</strong>
+      <small>tutup, menutup</small>
+      <span class="kanji-reading"><span>onyomi: ヘイ</span>
+    </span>
+  </summary>
+  <p>閉 menandai keadaan tertutup atau tindakan menutup. Pada toko dan restoran, ini sering muncul dalam 開閉 atau 閉店.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>開閉<rt>かいへい</rt></ruby></span> - buka-tutup</li>
+    <li><span class="ruby-word"><ruby>閉まる<rt>しまる</rt></ruby></span> - tertutup</li>
+    <li><span class="ruby-word"><ruby>閉める<rt>しめる</rt></ruby></span> - menutup</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">案</span>
-      <span class="kanji-meta">
-        <strong>案</strong>
-        <small>panduan, rencana</small>
-        <span class="kanji-reading"><span>onyomi: アン</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>案 sering muncul saat ada arahan atau ide. Dalam 案内, artinya menjadi panduan atau informasi arah.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>案内<rt>あんない</rt></ruby></span> - panduan, informasi</li>
-      <li><span class="ruby-word"><ruby>案<rt>あん</rt></ruby></span> - rencana, usulan</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">案</span>
+    <span class="kanji-meta">
+      <strong>案</strong>
+      <small>panduan, rencana</small>
+      <span class="kanji-reading"><span>onyomi: アン</span>
+    </span>
+  </summary>
+  <p>案 sering muncul saat ada arahan atau ide. Dalam 案内, artinya menjadi panduan atau informasi arah.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>案内<rt>あんない</rt></ruby></span> - panduan, informasi</li>
+    <li><span class="ruby-word"><ruby>案<rt>あん</rt></ruby></span> - rencana, usulan</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">内</span>
-      <span class="kanji-meta">
-        <strong>内</strong>
-        <small>dalam, bagian dalam</small>
-        <span class="kanji-reading"><span>onyomi: ナイ</span><span>kunyomi: うち</span></span>
-      </span>
-    </summary>
-    <p>内 menunjukkan bagian dalam atau batas suatu area. Di restoran, 店内 berarti area dalam toko.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>店内<rt>てんない</rt></ruby></span> - di dalam toko</li>
-      <li><span class="ruby-word"><ruby>内側<rt>うちがわ</rt></ruby></span> - sisi dalam</li>
-      <li><span class="ruby-word"><ruby>国内<rt>こくない</rt></ruby></span> - dalam negeri</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">内</span>
+    <span class="kanji-meta">
+      <strong>内</strong>
+      <small>dalam, bagian dalam</small>
+      <span class="kanji-reading"><span>onyomi: ナイ</span>
+    </span>
+  </summary>
+  <p>内 menunjukkan bagian dalam atau batas suatu area. Di restoran, 店内 berarti area dalam toko.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>店内<rt>てんない</rt></ruby></span> - di dalam toko</li>
+    <li><span class="ruby-word"><ruby>内側<rt>うちがわ</rt></ruby></span> - sisi dalam</li>
+    <li><span class="ruby-word"><ruby>国内<rt>こくない</rt></ruby></span> - dalam negeri</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">予</span>
-      <span class="kanji-meta">
-        <strong>予</strong>
-        <small>sebelumnya, di muka</small>
-        <span class="kanji-reading"><span>onyomi: ヨ</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>予 memberi rasa sesuatu yang dilakukan sebelum waktunya. Kata seperti 予定 dan 予習 sama-sama menunjuk persiapan di awal.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>予定<rt>よてい</rt></ruby></span> - rencana jadwal</li>
-      <li><span class="ruby-word"><ruby>予習<rt>よしゅう</rt></ruby></span> - persiapan belajar sebelum kelas</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">予</span>
+    <span class="kanji-meta">
+      <strong>予</strong>
+      <small>sebelumnya, di muka</small>
+      <span class="kanji-reading"><span>onyomi: ヨ</span>
+    </span>
+  </summary>
+  <p>予 memberi rasa sesuatu yang dilakukan sebelum waktunya. Kata seperti 予定 dan 予習 sama-sama menunjuk persiapan di awal.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>予定<rt>よてい</rt></ruby></span> - rencana jadwal</li>
+    <li><span class="ruby-word"><ruby>予習<rt>よしゅう</rt></ruby></span> - persiapan belajar sebelum kelas</li>
+  </ul>
+</details>
 
-  <details class="kanji-card">
-    <summary>
-      <span class="kanji-char">約</span>
-      <span class="kanji-meta">
-        <strong>約</strong>
-        <small>janji, reservasi, sekitar</small>
-        <span class="kanji-reading"><span>onyomi: ヤク</span><span>kunyomi: -</span></span>
-      </span>
-    </summary>
-    <p>約 bisa berarti janji/reservasi atau kira-kira. Dalam restoran, fokusnya biasanya 予約.</p>
-    <ul>
-      <li><span class="ruby-word"><ruby>予約<rt>よやく</rt></ruby></span> - reservasi</li>
-      <li><span class="ruby-word"><ruby>約束<rt>やくそく</rt></ruby></span> - janji</li>
-      <li><span class="ruby-word"><ruby>約三十分<rt>やくさんじゅっぷん</rt></ruby></span> - sekitar 30 menit</li>
-    </ul>
-  </details>
+<details class="kanji-card">
+  <summary>
+    <span class="kanji-char">約</span>
+    <span class="kanji-meta">
+      <strong>約</strong>
+      <small>janji, reservasi, sekitar</small>
+      <span class="kanji-reading"><span>onyomi: ヤク</span>
+    </span>
+  </summary>
+  <p>約 bisa berarti janji/reservasi atau kira-kira. Dalam restoran, fokusnya biasanya 予約.</p>
+  <ul>
+    <li><span class="ruby-word"><ruby>予約<rt>よやく</rt></ruby></span> - reservasi</li>
+    <li><span class="ruby-word"><ruby>約束<rt>やくそく</rt></ruby></span> - janji</li>
+    <li><span class="ruby-word"><ruby>約三十分<rt>やくさんじゅっぷん</rt></ruby></span> - sekitar 30 menit</li>
+  </ul>
+</details>
 </div>
-
 ## Peta Kata
 
 Kata-kata hari ini bergerak dari kesiapan restoran sampai reservasi. 準備 menjelaskan persiapan, 営業 menjelaskan status layanan, 閉まる/閉める menjelaskan tutup, 案内 dan 内 memberi petunjuk lokasi, sedangkan 予定 dan 予約 mengatur rencana sebelum datang.

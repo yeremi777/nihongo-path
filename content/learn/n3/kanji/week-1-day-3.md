@@ -48,7 +48,14 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="kanji-card-grid">
 <details class="kanji-card" open>
-  <summary><span class="kanji-char">非</span><span class="kanji-meta"><strong>非</strong><small>bukan, non-</small><span class="kanji-reading"><span>onyomi: ヒ</span><span>kunyomi: -</span></span></span></summary>
+  <summary>
+    <span class="kanji-char">非</span>
+    <span class="kanji-meta">
+      <strong>非</strong>
+      <small>bukan, non-</small>
+      <span class="kanji-reading"><span>onyomi: ヒ</span>
+    </span>
+  </summary>
   <p>非 memberi rasa “bukan/di luar keadaan biasa”. Dalam fasilitas umum, pasangan 非常 biasanya berarti darurat.</p>
   <ul>
     <li><span class="ruby-word"><ruby>非常<rt>ひじょう</rt></ruby></span> - darurat</li>
@@ -57,7 +64,14 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 </details>
 
 <details class="kanji-card">
-  <summary><span class="kanji-char">常</span><span class="kanji-meta"><strong>常</strong><small>normal, biasa</small><span class="kanji-reading"><span>onyomi: ジョウ</span><span>kunyomi: -</span></span></span></summary>
+  <summary>
+    <span class="kanji-char">常</span>
+    <span class="kanji-meta">
+      <strong>常</strong>
+      <small>normal, biasa</small>
+      <span class="kanji-reading"><span>onyomi: ジョウ</span>
+    </span>
+  </summary>
   <p>常 berarti keadaan biasa atau normal. Ketika digabung dengan 非, maknanya berubah menjadi keadaan darurat.</p>
   <ul>
     <li><span class="ruby-word"><ruby>日常<rt>にちじょう</rt></ruby></span> - keseharian</li>
@@ -66,7 +80,14 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 </details>
 
 <details class="kanji-card">
-  <summary><span class="kanji-char">階</span><span class="kanji-meta"><strong>階</strong><small>lantai, tingkat</small><span class="kanji-reading"><span>onyomi: カイ</span><span>kunyomi: -</span></span></span></summary>
+  <summary>
+    <span class="kanji-char">階</span>
+    <span class="kanji-meta">
+      <strong>階</strong>
+      <small>lantai, tingkat</small>
+      <span class="kanji-reading"><span>onyomi: カイ</span>
+    </span>
+  </summary>
   <p>階 membantu membaca tingkat bangunan. Di gedung atau stasiun, kanji ini sering menunjuk lantai atau tangga.</p>
   <ul>
     <li><span class="ruby-word"><ruby>一階<rt>いっかい</rt></ruby></span> - lantai satu</li>
@@ -75,7 +96,14 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 </details>
 
 <details class="kanji-card">
-  <summary><span class="kanji-char">段</span><span class="kanji-meta"><strong>段</strong><small>tingkat, anak tangga</small><span class="kanji-reading"><span>onyomi: ダン</span><span>kunyomi: -</span></span></span></summary>
+  <summary>
+    <span class="kanji-char">段</span>
+    <span class="kanji-meta">
+      <strong>段</strong>
+      <small>tingkat, anak tangga</small>
+      <span class="kanji-reading"><span>onyomi: ダン</span>
+    </span>
+  </summary>
   <p>段 memberi rasa tingkatan atau anak tangga. Pada peringatan, kanji ini sering muncul ketika ada beda tinggi lantai.</p>
   <ul>
     <li><span class="ruby-word"><ruby>階段<rt>かいだん</rt></ruby></span> - tangga</li>
@@ -84,7 +112,14 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 </details>
 
 <details class="kanji-card">
-  <summary><span class="kanji-char">箱</span><span class="kanji-meta"><strong>箱</strong><small>kotak</small><span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: はこ</span></span></span></summary>
+  <summary>
+    <span class="kanji-char">箱</span>
+    <span class="kanji-meta">
+      <strong>箱</strong>
+      <small>kotak</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
   <p>箱 berarti kotak. Dalam area umum, yang paling berguna adalah mengenali ごみ箱 sebagai lokasi membuang sampah.</p>
   <ul>
     <li><span class="ruby-word"><ruby>箱<rt>はこ</rt></ruby></span> - kotak</li>
@@ -93,7 +128,14 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 </details>
 
 <details class="kanji-card">
-  <summary><span class="kanji-char">危</span><span class="kanji-meta"><strong>危</strong><small>bahaya</small><span class="kanji-reading"><span>onyomi: キ</span><span>kunyomi: あぶない</span></span></span></summary>
+  <summary>
+    <span class="kanji-char">危</span>
+    <span class="kanji-meta">
+      <strong>危</strong>
+      <small>bahaya</small>
+      <span class="kanji-reading"><span>onyomi: キ</span>
+    </span>
+  </summary>
   <p>危 adalah tanda risiko. Saat muncul di papan, baca sebagai sinyal untuk berhenti atau lebih hati-hati.</p>
   <ul>
     <li><span class="ruby-word"><ruby>危険<rt>きけん</rt></ruby></span> - bahaya</li>
@@ -102,7 +144,14 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 </details>
 
 <details class="kanji-card">
-  <summary><span class="kanji-char">険</span><span class="kanji-meta"><strong>険</strong><small>berisiko, tajam</small><span class="kanji-reading"><span>onyomi: ケン</span><span>kunyomi: -</span></span></span></summary>
+  <summary>
+    <span class="kanji-char">険</span>
+    <span class="kanji-meta">
+      <strong>険</strong>
+      <small>berisiko, tajam</small>
+      <span class="kanji-reading"><span>onyomi: ケン</span>
+    </span>
+  </summary>
   <p>険 menguatkan rasa bahaya atau risiko. Untuk N3, kata paling pentingnya adalah 危険.</p>
   <ul>
     <li><span class="ruby-word"><ruby>危険<rt>きけん</rt></ruby></span> - bahaya</li>
@@ -110,15 +159,20 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 </details>
 
 <details class="kanji-card">
-  <summary><span class="kanji-char">捨</span><span class="kanji-meta"><strong>捨</strong><small>membuang</small><span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: すてる</span></span></span></summary>
+  <summary>
+    <span class="kanji-char">捨</span>
+    <span class="kanji-meta">
+      <strong>捨</strong>
+      <small>membuang</small>
+      <span class="kanji-reading"><span>onyomi: -</span>
+    </span>
+  </summary>
   <p>捨 menunjukkan tindakan membuang atau meninggalkan. Pada papan larangan, cari apakah tindakannya dilarang.</p>
   <ul>
     <li><span class="ruby-word"><ruby>捨てる<rt>すてる</rt></ruby></span> - membuang</li>
   </ul>
 </details>
-
 </div>
-
 ## Peta Kata
 
 <div class="word-strip">
