@@ -1,6 +1,6 @@
 ---
 title: "やってみることだ"
-description: "Belajar pola grammar N3 untuk memberi saran, menenangkan orang lain, merangkum informasi, melaporkan kabar, dan menyatakan emosi kuat."
+description: "Belajar memahami grammar N3 untuk memberi saran, menenangkan orang lain, merangkum informasi, melaporkan kabar, dan menyatakan emosi kuat."
 level: "N3"
 category: "grammar"
 topic: "やってみることだ"
@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali dan memakai pola pada topik **やってみることだ** dalam konteks bacaan, percakapan, dan penjelasan N3. Fokusnya bukan hanya arti terjemahan, tetapi juga alasan memilih pola yang tepat.
+Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N3 untuk memberi saran, menenangkan orang lain, merangkum informasi, melaporkan kabar, dan menyatakan emosi kuat. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan nuansa konteks.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> ことはない dan ことだ sama-sama memakai こと, tetapi arahnya berbeda. ことはない menenangkan bahwa tidak perlu melakukan sesuatu, sedangkan ことだ memberi saran praktis.
@@ -53,11 +53,11 @@ Alurnya: ことはない menghapus kebutuhan tindakan, ことだ memberi saran, 
 |---|---|---|
 | Tidak perlu | （V辞書形）ことはない | Apakah tindakan itu tidak diperlukan? |
 | Saran | （V辞書形）／（Vない）ことだ | Apa nasihat praktisnya? |
-| Artinya | （clause）ということだ | Apakah kalimat merangkum makna? |
-| Katanya | （clause）とのことだ | Apakah sumbernya kabar/laporan? |
+| Artinya | （klausa）ということだ | Apakah kalimat merangkum makna? |
+| Katanya | （klausa）とのことだ | Apakah sumbernya kabar/laporan? |
 | Betapa | どんなに（Adj）ことか | Apakah ada seruan emosi kuat? |
 
-Di tabel ini, `（A）` dan `（B）` menandai pihak pertama dan pihak kedua dalam hubungan kalimat, `（N）` adalah nomina atau frasa nomina, `（V）` adalah verba, `（Adj）` adalah adjektiva, `（clause）` dan `（plain form）` adalah klausa atau bentuk biasa, `（Sentence A）` dan `（Sentence B）` adalah dua kalimat yang dihubungkan, `（Option A）` dan `（Option B）` adalah dua pilihan, sedangkan `（question）`, `（number）`, `（predicate）`, dan `（result）` menandai slot pertanyaan, angka, predikat, dan hasil.
+Simbol di tabel ini hanya penanda slot. `（N）` berarti nomina atau frasa nomina, `（V）` berarti verba, `（Adj）` berarti adjektiva, `（klausa）` atau `（bentuk biasa）` berarti klausa atau bentuk biasa, dan pasangan seperti `（A）／（B）` atau `（Kalimat A）／（Kalimat B）` dipakai untuk membedakan dua sisi kalimat.
 
 ## Cara Membentuk Pola
 
@@ -81,7 +81,7 @@ Di tabel ini, `（A）` dan `（B）` menandai pihak pertama dan pihak kedua dal
 | とのことだ | laporan lebih formal | 休みとのことだ |
 | ことか | emosi kuat | 何度注意したことか |
 
-Sebelum membaca contoh panjang, ambil bagian yang berubah lebih dulu: apakah slotnya `（N）`, `（V辞書形）`, `（V普通形）`, `（Vますstem）`, `（Adj）`, atau satu `（clause）` utuh. Setelah itu baru cek partikel, bentuk negatif, dan hubungan antarbagian kalimat.
+Saat membangun kalimat, jangan mulai dari terjemahan kata per kata. Tentukan dulu slot yang berubah, lalu cek partikel, bentuk akhir, dan hubungan antarbagian kalimat.
 
 ## Bangun Kalimat Bertahap
 
@@ -93,7 +93,7 @@ Sebelum membaca contoh panjang, ambil bagian yang berubah lebih dulu: apakah slo
 | Katanya terlambat | 田中さん・遅れる | 遅れるとのこと | 田中さんは少し遅れるとのことです。 |
 | Betapa senangnya | 合格できたら・うれしい | どんなにうれしいことか | 合格できたら、どんなにうれしいことか。 |
 
-Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pecah dulu menjadi bahan, bentuk pola, lalu kalimat jadi.
+Bagian ini menghubungkan rumus dan contoh kalimat. Mulai dari bahan pendeknya dulu, lalu cek fungsi pola sebelum membaca kalimat lengkap.
 
 ## Catatan Pemakaian
 
@@ -119,8 +119,8 @@ Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pe
 | （V辞書形）ことはない | tidak perlu （V） | 心配することはない |
 | （V辞書形）ことだ | sebaiknya （V） | 休むことだ |
 | （Vない）ことだ | sebaiknya tidak （V） | 無理をしないことだ |
-| （clause）ということだ | artinya / katanya | 遅れるということだ |
-| （clause）とのことだ | katanya secara rapi | 休みとのことだ |
+| （klausa）ということだ | artinya / katanya | 遅れるということだ |
+| （klausa）とのことだ | katanya secara rapi | 休みとのことだ |
 | どんなに（Adj）ことか | betapa （Adj） | どんなにうれしいことか |
 
 ## Contoh Kalimat
@@ -154,7 +154,7 @@ Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pe
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat. Perhatikan konteks, bentuk sebelum pola, dan nuansa kalimat sebelum memilih.
 
 ::MiniPractice
 ---

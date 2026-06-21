@@ -22,10 +22,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa memakai どのぐらい untuk bertanya kira-kira berapa lama, seberapa besar, seberapa jauh, atau berapa banyak. Kamu juga akan mengenali kata untuk terbang/melompat, salju menumpuk, membangun rumah, air mendidih, membayar, dan satuan ukuran.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat menanyakan ukuran, durasi, jarak, jumlah, satuan, belanja, dan kegiatan sehari-hari.
+
+Fokus hari ini bukan hanya menghafal arti kata seperti どのぐらい, 飛ぶ, 空を飛ぶ, dan 跳ぶ, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> どのぐらい fleksibel. Jawabannya bisa waktu, jarak, berat, ukuran, atau jumlah, jadi lihat kata setelahnya: 何時間, 何キロ, グラム, センチ, メートル.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -95,6 +97,10 @@ Di akhir pelajaran ini, kamu bisa memakai どのぐらい untuk bertanya kira-ki
   <span>大きさ</span>
 </div>
 
+Bayangkan kamu sedang membaca atau mendengar situasi tentang ukuran, jumlah, dan durasi: kata intinya bisa berupa どのぐらい, 飛ぶ, dan 空を飛ぶ; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
+
+
 Kata-kata ukuran terhubung dari pertanyaan ke jawaban: どのぐらい menanyakan perkiraan, 何時間 untuk durasi, 何キロ untuk berat atau jarak, グラム／センチ／メートル untuk satuan, dan 重さ／広さ／大きさ／長さ／高さ／太さ untuk nama ukuran.
 
 ## Catatan Pemakaian
@@ -152,7 +158,7 @@ Untuk pertanyaan ukuran, jangan pakai いくら kecuali harga. どのぐらい l
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
 
 ::MiniPractice
 ---

@@ -1,6 +1,6 @@
 ---
 title: "そこに置いといて"
-description: "Belajar pola grammar N3 untuk kewajiban santai, tindakan yang telanjur selesai, dan persiapan yang dilakukan lebih dulu."
+description: "Belajar memahami grammar N3 untuk kewajiban santai, tindakan yang telanjur selesai, dan persiapan yang dilakukan lebih dulu."
 level: "N3"
 category: "grammar"
 topic: "そこに置いといて"
@@ -147,7 +147,7 @@ Alurnya bisa dibaca seperti ini: **kewajiban** memakai bentuk negatif seperti `�
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat. Perhatikan konteks, bentuk sebelum pola, dan nuansa kalimat sebelum memilih.
 
 ::MiniPractice
 ---

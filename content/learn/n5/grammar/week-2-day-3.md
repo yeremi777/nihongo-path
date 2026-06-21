@@ -1,6 +1,6 @@
 ---
 title: "しゅくだいをわすれないでください。"
-description: "Belajar grammar N5 dasar untuk ingin benda, ingin melakukan ~, sedang melakukan; dalam keadaan; punya kebiasaan dalam kalimat pendek."
+description: "Belajar memahami grammar N5 untuk ingin benda, ingin melakukan ~, sedang melakukan; dalam keadaan; punya kebiasaan dalam kalimat pendek."
 level: "N5"
 category: "grammar"
 topic: "しゅくだいをわすれないでください。"
@@ -25,22 +25,22 @@ tags:
 
 Mengenali pola dasar untuk ingin benda, ingin melakukan ~, sedang melakukan; dalam keadaan; punya kebiasaan, tolong lakukan ~.
 
-Di akhir pelajaran ini, kamu bisa membaca kalimat seperti じてんしゃがほしいです, ステーキが食べたいです, テレビを見ています. Fokusnya adalah melihat bentuk kecil yang menjadi petunjuk arti.
+Di akhir pelajaran ini, kamu bisa membaca kalimat seperti じてんしゃがほしいです, ステーキが食べたいです, テレビを見ています. Fokusnya adalah memahami petunjuk kecil seperti partikel, bentuk kata, dan posisi kata dalam kalimat.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca pola dari kiri ke kanan. Tandai partikel, bentuk verba, atau kata penghubung sebelum menebak arti seluruh kalimat.
+  <strong>Fokus hari ini:</strong> baca kalimat pelan-pelan. Tandai partikel, bentuk kata, atau kata penghubung, lalu cocokkan dengan situasi yang sedang dibicarakan.
 </div>
 
 ## Pola Hari Ini
 
 | Fungsi | Pola | Arti praktis | Kapan dipakai |
 |---|---|---|---|
-| Ingin benda | （N） + がほしいです | Ingin benda | Used mainly to talk about the speaker’s own desire |
-| Ingin melakukan ~ | （Vます-stem） + たいです | Ingin melakukan ~ | Expresses the speaker’s desire to do something |
-| Sedang melakukan | （Vて） + います | Sedang melakukan; dalam keadaan; punya kebiasaan | Has three common N5 uses: action in progress, resulting state, and habit/status |
-| Tolong lakukan ~ | （Vて） + ください | Tolong lakukan ~ | Polite request or instruction |
-| Tolong jangan lakukan ~ | （Vない） + でください | Tolong jangan lakukan ~ | Polite negative request |
-| Akhiran kalimat untuk konfirmasi, persetujuan, perasaan, atau penekanan | （Sentence） + ね／ねえ／よ | Akhiran kalimat untuk konfirmasi, persetujuan, perasaan, atau penekanan | ね asks for agreement or shares feeling |
+| Ingin benda | （N） + がほしいです | Ingin benda | Biasanya dipakai untuk menyatakan keinginan pembicara sendiri |
+| Ingin melakukan ~ | （Vますstem） + たいです | Ingin melakukan ~ | Menyatakan keinginan pembicara untuk melakukan sesuatu |
+| Sedang melakukan | （Vて） + います | Sedang melakukan; dalam keadaan; punya kebiasaan | Memiliki tiga fungsi umum N5: tindakan sedang berlangsung, keadaan hasil, dan kebiasaan/status |
+| Tolong lakukan ~ | （Vて） + ください | Tolong lakukan ~ | Permintaan atau instruksi sopan |
+| Tolong jangan lakukan ~ | （Vない） + でください | Tolong jangan lakukan ~ | Permintaan sopan agar tidak melakukan sesuatu |
+| Akhiran kalimat untuk konfirmasi, persetujuan, perasaan, atau penekanan | （Kalimat） + ね／ねえ／よ | Akhiran kalimat untuk konfirmasi, persetujuan, perasaan, atau penekanan | ね meminta persetujuan atau berbagi perasaan |
 
 ## Peta Pola
 
@@ -57,16 +57,16 @@ Pola hari ini saling terhubung sebagai alat beginner untuk keberadaan dan kepemi
 
 ## Cara Membentuk Pola
 
-Simbol utama: （N）= nomina, （V）= verba, （Adj）= kata sifat, （Place）= tempat, （Person）= orang, dan （Time）= waktu.
+Simbol utama: （N）= nomina, （V）= verba, （Adj）= kata sifat, （Tempat）= tempat, （Orang）= orang, dan （Waktu）= waktu.
 
 | Pola | Bentuk dasar | Catatan bentuk |
 |---|---|---|
-| （N）がほしいです | （N） + がほしいです | Used mainly to talk about the speaker’s own desire |
-| （Vた）いです | （Vます-stem） + たいです | Expresses the speaker’s desire to do something |
-| （Vて）います | （Vて） + います | Has three common N5 uses: action in progress, resulting state, and habit/status |
-| （Vて）ください | （Vて） + ください | Polite request or instruction |
-| （Vない）でください | （Vない） + でください | Polite negative request |
-| 〜ね・〜ねえ・〜よ | （Sentence） + ね／ねえ／よ | ね asks for agreement or shares feeling |
+| （N）がほしいです | （N） + がほしいです | Biasanya dipakai untuk menyatakan keinginan pembicara sendiri |
+| （Vた）いです | （Vますstem） + たいです | Menyatakan keinginan pembicara untuk melakukan sesuatu |
+| （Vて）います | （Vて） + います | Memiliki tiga fungsi umum N5: tindakan sedang berlangsung, keadaan hasil, dan kebiasaan/status |
+| （Vて）ください | （Vて） + ください | Permintaan atau instruksi sopan |
+| （Vない）でください | （Vない） + でください | Permintaan sopan agar tidak melakukan sesuatu |
+| 〜ね・〜ねえ・〜よ | （Kalimat） + ね／ねえ／よ | ね meminta persetujuan atau berbagi perasaan |
 
 ## Bangun Kalimat Bertahap
 
@@ -74,7 +74,7 @@ Simbol utama: （N）= nomina, （V）= verba, （Adj）= kata sifat, （Place�
 |---|---|---|
 | Bahan | （N） + がほしいです | bentuk untuk ingin benda |
 | Kalimat | じてんしゃがほしいです。 | Ingin benda |
-| Bahan | （Vます-stem） + たいです | bentuk untuk ingin melakukan ~ |
+| Bahan | （Vますstem） + たいです | bentuk untuk ingin melakukan ~ |
 | Kalimat | ステーキが食べたいです。 | Ingin melakukan ~ |
 | Bahan | （Vて） + います | bentuk untuk sedang melakukan |
 | Kalimat | テレビを見ています。 | Sedang melakukan; dalam keadaan; punya kebiasaan |
@@ -85,115 +85,117 @@ Simbol utama: （N）= nomina, （V）= verba, （Adj）= kata sifat, （Place�
 
 ## Catatan Pemakaian
 
-- Ingin benda: Used mainly to talk about the speaker’s own desire. ほしい conjugates like an i-adjective.
-- Ingin melakukan ~: Expresses the speaker’s desire to do something. The object can often take が or を, but が is common with たい.
-- Sedang melakukan: Has three common N5 uses: action in progress, resulting state, and habit/status.
-- Tolong lakukan ~: Polite request or instruction. Often used by teachers, staff, or when asking someone to do something.
-- Tolong jangan lakukan ~: Polite negative request. Do not use Vなくてください.
-- Akhiran kalimat untuk konfirmasi, persetujuan, perasaan, atau penekanan: ね asks for agreement or shares feeling. ねえ sounds more emotional. よ informs or emphasizes something for the listener.
+- Ingin benda: Biasanya dipakai untuk menyatakan keinginan pembicara sendiri. ほしい berubah bentuk seperti kata sifat-i.
+- Ingin melakukan ~: Menyatakan keinginan pembicara untuk melakukan sesuatu. Objeknya bisa memakai が atau を, tetapi が sering muncul bersama たい.
+- Sedang melakukan: Memiliki tiga fungsi umum N5: tindakan sedang berlangsung, keadaan hasil, dan kebiasaan/status.
+- Tolong lakukan ~: Permintaan atau instruksi sopan. Sering dipakai guru, staf, atau saat meminta seseorang melakukan sesuatu.
+- Tolong jangan lakukan ~: Permintaan negatif yang sopan. Jangan memakai bentuk Vなくてください.
+- Akhiran kalimat untuk konfirmasi, persetujuan, perasaan, atau penekanan: ね meminta persetujuan atau berbagi perasaan. ねえ terdengar lebih emosional. よ memberi tahu atau menekankan informasi kepada lawan bicara.
 
-Indonesian “mau” can mean both **want a thing** and **want to do**. Japanese separates them:
+“Mau” dalam bahasa Indonesia bisa berarti **ingin benda** dan **ingin melakukan**. Bahasa Jepang membedakannya:
 
 - （N）がほしいです = I want N
 - （Vた）いです = I want to do V
 
-Also, Japanese **（Vて）います** is not always “sedang.” It can also mean a state, like 住んでいます or 知っています.
+Dalam bahasa Jepang, **（Vて）います** tidak selalu berarti “sedang”. Bentuk ini juga bisa menyatakan keadaan, seperti 住んでいます atau 知っています.
 
 ## Pola yang Sering Muncul
 
 | Pola | Arti praktis | Contoh konteks |
 |---|---|---|
 | （N） + がほしいです | Ingin benda | じてんしゃがほしいです。 |
-| （Vます-stem） + たいです | Ingin melakukan ~ | ステーキが食べたいです。 |
+| （Vますstem） + たいです | Ingin melakukan ~ | ステーキが食べたいです。 |
 | （Vて） + います | Sedang melakukan; dalam keadaan; punya kebiasaan | テレビを見ています。 |
 | （Vて） + ください | Tolong lakukan ~ | 写真を見せてください。 |
 | （Vない） + でください | Tolong jangan lakukan ~ | タバコはすわないでください。 |
-| （Sentence） + ね／ねえ／よ | Akhiran kalimat untuk konfirmasi, persetujuan, perasaan, atau penekanan | 毎日あついですねえ。 |
+| （Kalimat） + ね／ねえ／よ | Akhiran kalimat untuk konfirmasi, persetujuan, perasaan, atau penekanan | 毎日あついですねえ。 |
 
 ## Contoh Kalimat
 
 <div class="example-list">
   <div><p class="jp">じてんしゃがほしいです。</p><p>Menyatakan keinginan dalam kalimat sederhana.</p></div>
   <div><p class="jp">ステーキが食べたいです。</p><p>Menyatakan keinginan dalam kalimat sederhana.</p></div>
-  <div><p class="jp">テレビを見ています。</p><p>Ada atau punya sesuatu dalam konteks sederhana.</p></div>
-  <div><p class="jp">写真を見せてください。</p><p>Meminta atau melarang dengan sopan.</p></div>
-  <div><p class="jp">タバコはすわないでください。</p><p>Meminta atau melarang dengan sopan.</p></div>
-  <div><p class="jp">毎日あついですねえ。</p><p>Kalimat ini menunjukkan fungsi: akhiran kalimat untuk konfirmasi, persetujuan, perasaan, atau penekanan.</p></div>
+  <div><p class="jp">テレビを見ています。</p><p>Saya sedang menonton TV.</p></div>
+  <div><p class="jp">写真を見せてください。</p><p>Tolong tunjukkan fotonya.</p></div>
+  <div><p class="jp">タバコはすわないでください。</p><p>Tolong jangan merokok.</p></div>
+  <div><p class="jp">毎日あついですねえ。</p><p>Setiap hari panas ya.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar
 
 | Pasangan | Cara membedakan |
 |---|---|
-| （N）がほしいです / （Vた）いです | Want a thing vs want to do an action. Use ほしい for nouns. Use たい for verbs. |
-| （Vて）います（progress） / （Vて）います（state） | Action happening now vs resulting state/status. Use context to decide. Some verbs like 住む and 知る often describe a state. |
-| （Vて）ください / （Vない）でください | Please do vs please do not do. Use （V）てください for a request. Use （V）ないでください for a prohibition/request not to do something. |
-| ね / よ | Shared feeling/agreement vs new information/emphasis. Use ね when you expect agreement. Use よ when you tell or emphasize information. |
-| ね / ねえ | Light agreement vs stronger emotional feeling. Use ねえ when the feeling is stronger or more conversational. |
+| （N）がほしいです / （Vた）いです | Ingin benda vs ingin melakukan tindakan. Pakai ほしい untuk nomina. Pakai たい untuk verba. |
+| （Vて）います（aksi berlangsung） / （Vて）います（keadaan hasil） | Tindakan sedang berlangsung vs keadaan/status hasil. Lihat konteks untuk memutuskan. Verba seperti 住む dan 知る sering menjelaskan keadaan. |
+| （Vて）ください / （Vない）でください | Tolong lakukan vs tolong jangan lakukan. Pakai （V）てください untuk permintaan. Pakai （V）ないでください untuk larangan atau permintaan agar tidak melakukan sesuatu. |
+| ね / よ | Perasaan/persetujuan bersama vs informasi baru/penekanan. Pakai ね saat mengharapkan persetujuan. Pakai よ saat memberi tahu atau menekankan informasi. |
+| ね / ねえ | Persetujuan ringan vs perasaan yang lebih kuat. Pakai ねえ saat rasanya lebih emosional atau lebih percakapan. |
 
 ## Kesalahan Umum
 
 | Titik salah | Kurang tepat | Lebih tepat | Petunjuk |
 |---|---|---|---|
-| Wanting a noun uses がほしい | じてんしゃをほしいです。 | じてんしゃがほしいです。 | Saya ingin sepeda. |
-| （Vた）い attaches to the ます-stem | ステーキを食べるたいです。 | ステーキが食べたいです。 | Saya ingin makan steik. |
-| 知っています is the natural state form | 私はあの人を知ります。 | 私はあの人を知っています。 | Saya kenal orang itu. |
-| Negative request uses （Vない）でください | ペンで書かなくてください。 | ペンで書かないでください。 | Tolong jangan tulis dengan pena. |
+| Keinginan terhadap nomina memakai がほしい | じてんしゃをほしいです。 | じてんしゃがほしいです。 | Saya ingin sepeda. |
+| （Vた）い menempel pada bentuk sebelum ます | ステーキを食べるたいです。 | ステーキが食べたいです。 | Saya ingin makan steik. |
+| 知っています adalah bentuk keadaan yang natural | 私はあの人を知ります。 | 私はあの人を知っています。 | Saya kenal orang itu. |
+| Permintaan negatif memakai （Vない）でください | ペンで書かなくてください。 | ペンで書かないでください。 | Tolong jangan tulis dengan pena. |
 
 ## Mini Practice
 
+Pilih jawaban yang paling tepat. Perhatikan petunjuk partikel, bentuk kata, dan konteks kalimat sebelum memilih.
+
 ::MiniPractice
 ---
-question: "Ingin benda."
-sentence: "じてんしゃがほしいです。"
-optionA: "（N）がほしいです"
-optionB: "（Vた）いです"
-correct: "（N）がほしいです"
-explanation: "（N）がほしいです cocok karena fungsi kalimatnya adalah ingin benda. Petunjuknya ada pada bentuk （N） + がほしいです."
+question: "Saya ingin sepeda."
+sentence: "じてんしゃ____ほしいです。"
+optionA: "が"
+optionB: "を"
+correct: "が"
+explanation: "が benar dalam pola Nがほしいです untuk benda yang diinginkan."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Ingin melakukan ~."
-sentence: "ステーキが食べたいです。"
-optionA: "（Vた）いです"
-optionB: "（N）がほしいです"
-correct: "（Vた）いです"
-explanation: "（Vた）いです cocok karena fungsi kalimatnya adalah ingin melakukan ~. Petunjuknya ada pada bentuk （Vます-stem） + たいです."
+question: "Saya ingin makan steak."
+sentence: "ステーキが食べ____です。"
+optionA: "たい"
+optionB: "ほしい"
+correct: "たい"
+explanation: "たい benar untuk keinginan melakukan aksi. ほしい dipakai untuk benda yang diinginkan."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Sedang melakukan; dalam keadaan; punya kebiasaan."
-sentence: "テレビを見ています。"
-optionA: "（Vて）います"
-optionB: "（N）がほしいです"
-correct: "（Vて）います"
-explanation: "（Vて）います cocok karena fungsi kalimatnya adalah sedang melakukan; dalam keadaan; punya kebiasaan. Petunjuknya ada pada bentuk （Vて） + います."
+question: "Saya sedang menonton TV."
+sentence: "テレビを見____います。"
+optionA: "て"
+optionB: "たい"
+correct: "て"
+explanation: "ている benar untuk aksi yang sedang berlangsung atau keadaan hasil."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Tolong lakukan ~."
-sentence: "写真を見せてください。"
-optionA: "（Vて）ください"
-optionB: "（N）がほしいです"
-correct: "（Vて）ください"
-explanation: "（Vて）ください cocok karena fungsi kalimatnya adalah tolong lakukan ~. Petunjuknya ada pada bentuk （Vて） + ください."
+question: "Tolong tunjukkan fotonya."
+sentence: "写真を見せ____ください。"
+optionA: "て"
+optionB: "ないで"
+correct: "て"
+explanation: "Vてください benar untuk meminta orang melakukan sesuatu. Vないでください berarti meminta agar tidak melakukan."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Tolong jangan lakukan ~."
-sentence: "タバコはすわないでください。"
-optionA: "（Vない）でください"
-optionB: "（N）がほしいです"
-correct: "（Vない）でください"
-explanation: "（Vない）でください cocok karena fungsi kalimatnya adalah tolong jangan lakukan ~. Petunjuknya ada pada bentuk （Vない） + でください."
+question: "Tolong jangan merokok."
+sentence: "タバコはすわ____ください。"
+optionA: "ないで"
+optionB: "て"
+correct: "ないで"
+explanation: "Vないでください benar untuk larangan sopan: tolong jangan melakukan."
 ---
 ::
 

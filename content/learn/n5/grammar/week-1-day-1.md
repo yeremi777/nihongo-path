@@ -1,6 +1,6 @@
 ---
 title: "えいがは おもしろくなかったです。"
-description: "Belajar grammar N5 dasar untuk membedakan bentuk sekarang, lampau, positif, dan negatif pada kata sifat serta beberapa verba umum."
+description: "Belajar memahami grammar N5 untuk membedakan bentuk sekarang, lampau, positif, dan negatif pada kata sifat serta beberapa verba umum."
 level: "N5"
 category: "grammar"
 topic: "えいがは おもしろくなかったです。"
@@ -127,7 +127,7 @@ Untuk 来ます, perhatikan bacaan berubah: 来ます = きます, 来る = く�
 | （N）は（いAdj tanpa い）くないです | （N） tidak punya sifat itu | この本はおもしろくないです |
 | （N）は（いAdj tanpa い）かったです | （N） punya sifat itu pada masa lampau | えいがはおもしろかったです |
 | （N）は（なAdj）ではありません | （N） bukan/tidak dalam sifat itu | 部屋はきれいではありません |
-| （Person）は来なかったです | seseorang tidak datang | 田中さんは来なかったです |
+| （Orang）は来なかったです | seseorang tidak datang | 田中さんは来なかったです |
 
 ## Contoh Kalimat
 

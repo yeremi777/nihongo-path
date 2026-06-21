@@ -21,7 +21,15 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa memahami ungkapan sapaan saat bertemu pertama kali, berkunjung, menerima tamu, meminta izin, dan pulang dari tempat kerja.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat memakai sapaan, perkenalan, kunjungan, izin, dan ucapan setelah bekerja.
+
+Fokus hari ini bukan hanya menghafal arti kata seperti 握手, はじめまして, お生まれは？, dan お国はどちらですか, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
+
+<div class="lesson-callout">
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
+</div>
+
+zin, dan pulang dari tempat kerja.
 
 Ungkapan hari ini tidak selalu diterjemahkan kata per kata; situasi sosial menentukan pilihan yang paling tepat.
 
@@ -79,6 +87,10 @@ Alurnya bisa berupa perkenalan -> tanya asal/pekerjaan/tempat tinggal -> kunjung
   <span>お疲れさまでした</span>
 </div>
 
+Bayangkan kamu sedang membaca atau mendengar situasi tentang memberi salam: kata intinya bisa berupa 握手, はじめまして, dan お生まれは？; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
+
+
 ## Catatan Pemakaian
 
 - **Asal:** ご出身はどちらですか lebih sopan untuk menanyakan asal.
@@ -113,9 +125,11 @@ Alurnya bisa berupa perkenalan -> tanya asal/pekerjaan/tempat tinggal -> kunjung
 
 ## Mini Practice
 
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
+
 ::MiniPractice
 ---
-question: "Masuk ke rumah orang lain."
+question: "Permisi, saya masuk."
 sentence: "____。"
 optionA: "おじゃまします"
 optionB: "お疲れさまでした"
@@ -126,7 +140,7 @@ explanation: "おじゃまします diucapkan saat masuk ke ruang/rumah orang la
 
 ::MiniPractice
 ---
-question: "Berterima kasih untuk bantuan tempo hari."
+question: "Terima kasih untuk tempo hari."
 sentence: "____、ありがとうございました。"
 optionA: "先日は"
 optionB: "お国は"
@@ -137,7 +151,7 @@ explanation: "先日は mengacu pada kejadian beberapa hari lalu."
 
 ::MiniPractice
 ---
-question: "Pulang lebih dulu dari kantor."
+question: "Saya pamit pulang lebih dulu."
 sentence: "____失礼します。"
 optionA: "お先に"
 optionB: "こちらこそ"
@@ -159,7 +173,7 @@ explanation: "握手をする berarti berjabat tangan."
 
 ::MiniPractice
 ---
-question: "Kalimat pertama saat bertemu orang baru."
+question: "Salam kenal, saya Tanaka."
 sentence: "____、田中です。"
 optionA: "はじめまして"
 optionB: "握手"

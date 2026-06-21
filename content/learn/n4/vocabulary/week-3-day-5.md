@@ -22,10 +22,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa memakai kosakata untuk memandu orang, merayakan, menjenguk orang sakit, membicarakan kelahiran/kematian secara hati-hati, pindah rumah, paket sampai, ulang tahun dua puluh, ucapan terima kasih, dan hubungan sosial.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat ucapan sosial, perayaan, menjenguk orang sakit, pindah rumah, pengantaran paket, dan respons sopan.
+
+Fokus hari ini bukan hanya menghafal arti kata seperti 案内する, お祝い, お祝いをする, dan お見舞い, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> banyak kata diawali お karena sering dipakai dalam situasi sosial yang sopan: お祝い, お見舞い, お礼, お大事に.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -86,6 +88,10 @@ Di akhir pelajaran ini, kamu bisa memakai kosakata untuk memandu orang, merayaka
   <span>お大事に</span>
 </div>
 
+Bayangkan kamu sedang membaca atau mendengar situasi tentang ucapan dan hubungan sosial: kata intinya bisa berupa 案内する, お祝い, dan お祝いをする; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
+
+
 Peta sosialnya: kamu 案内する tamu, お祝いをする untuk kabar baik, お見舞いに行く saat orang sakit, memakai 亡くなる untuk kabar duka, memberi お礼 setelah dibantu, dan mengatakan お大事に saat seseorang sakit.
 
 ## Catatan Pemakaian
@@ -140,7 +146,7 @@ Untuk bekerja di perusahaan, gunakan 会社に勤める, bukan 会社で勤め�
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
 
 ::MiniPractice
 ---
@@ -177,7 +183,7 @@ explanation: "に benar karena pola （Company）に勤める berarti bekerja di
 
 ::MiniPractice
 ---
-question: "Gunakan ungkapan yang lebih halus untuk meninggal dunia."
+question: "Kakek saya meninggal tahun lalu."
 sentence: "祖父は去年____。"
 optionA: "亡くなりました"
 optionB: "死にました"
@@ -188,7 +194,7 @@ explanation: "亡くなりました lebih halus untuk kabar duka. 死にまし�
 
 ::MiniPractice
 ---
-question: "Saat menolak tawaran dengan sopan: tidak perlu, sudah cukup."
+question: "Tidak, sudah cukup."
 sentence: "いいえ、____。"
 optionA: "けっこうです"
 optionB: "喜んで"

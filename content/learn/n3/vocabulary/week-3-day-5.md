@@ -21,12 +21,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali kosakata N3 untuk Ayo minum bersama. Fokusnya adalah membaca kata sebagai bagian dari situasi nyata, bukan hanya menghafal arti satu per satu.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat membaca minuman, ajakan minum, kondisi mabuk, dan etika di tempat minum.
 
-Pelajaran ini membantu kamu melihat hubungan antara istilah utama, benda, tindakan, kondisi, dan pola partikel yang sering muncul dalam kalimat pendek sehari-hari.
+Fokus hari ini bukan hanya menghafal arti kata seperti 宴会を開く, （お）酒を注ぐ, （お）湯を注ぐ, dan 乾杯する, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca kata sebagai kelompok makna. Perhatikan apakah kata itu menunjuk benda/tempat, tindakan dengan partikel seperti を・が・に・で, atau kondisi yang menjelaskan keadaan.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -37,49 +37,49 @@ Pelajaran ini membantu kamu melihat hubungan antara istilah utama, benda, tindak
 |---|---|---|
 | 宴会を開く | えんかいをひらく | mengadakan pesta/jamuan; 宴会 = party/banquet |
 | （お）酒を注ぐ | （お）さけをつぐ | menuangkan sake/alkohol; 注ぐ reads つぐ here |
-| （お）湯を注ぐ | （お）ゆをそそぐ | menuangkan air panas; 注ぐ reads そそぐ here |
-| 乾杯する | かんぱいする | bersulang; istilah dasar dalam topik hari ini. |
-| 盛り上がる | もりあがる | suasana menjadi ramai/seru; dipakai untuk parties/events becoming lively |
-| 土が盛り上がる | つちがもりあがる | tanah menggunduk; literal meaning of 盛り上がる |
+| （お）湯を注ぐ | （お）ゆをそそぐ | menuangkan air panas; di sini 注ぐ dibaca そそぐ |
+| 乾杯する | かんぱいする | bersulang; sering muncul saat membaca minuman, ajakan minum, kondisi mabuk, dan etika di tempat minum. |
+| 盛り上がる | もりあがる | suasana menjadi ramai/seru; dipakai saat pesta atau acara menjadi ramai |
+| 土が盛り上がる | つちがもりあがる | tanah menggunduk; makna harfiah dari 盛り上がる |
 | あふれる | あふれる | meluap; intransitif |
 | こぼす | こぼす | menumpahkan; transitif |
 | こぼれる | こぼれる | tumpah; intransitif |
 | ビールを一気に飲む | ビールをいっきにのむ | minum bir sekali teguk; 一気に = in one go |
 | （お）酒によう | （お）さけによう | mabuk karena alkohol; よう = become drunk |
-| よっぱらう | よっぱらう | mabuk; casual |
-| あばれる | あばれる | mengamuk; bertindak liar; istilah dasar dalam topik hari ini. |
+| よっぱらう | よっぱらう | mabuk; kasual |
+| あばれる | あばれる | mengamuk; bertindak liar; sering muncul saat membaca minuman, ajakan minum, kondisi mabuk, dan etika di tempat minum. |
 | さわぐ | さわぐ | ribut; gaduh; verb form |
 | グラスを割る | グラスをわる | memecahkan gelas; transitif |
 | グラスが割れる | グラスがわれる | gelas pecah; intransitif |
 | ビールびんを倒す | ビールびんをたおす | menjatuhkan botol bir; transitif |
 | ビールびんが倒れる | ビールびんがたおれる | botol bir jatuh; intransitif |
 | ほかの客に迷惑をかける | ほかのきゃくにめいわくをかける | mengganggu pelanggan lain; 迷惑をかける = cause trouble |
-| 迷惑がかかる | めいわくがかかる | terkena gangguan/masalah; intransitif-side expression |
+| 迷惑がかかる | めいわくがかかる | terkena gangguan/masalah; ungkapan sisi intransitif |
 
 ### Istilah Utama
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| 飲み会 | のみかい | acara minum bersama; istilah dasar dalam topik hari ini. |
-| 送別会 | そうべつかい | pesta perpisahan; istilah dasar dalam topik hari ini. |
-| 歓迎会 | かんげいかい | pesta penyambutan; istilah dasar dalam topik hari ini. |
+| 飲み会 | のみかい | acara minum bersama; sering muncul saat membaca minuman, ajakan minum, kondisi mabuk, dan etika di tempat minum. |
+| 送別会 | そうべつかい | pesta perpisahan; sering muncul saat membaca minuman, ajakan minum, kondisi mabuk, dan etika di tempat minum. |
+| 歓迎会 | かんげいかい | pesta penyambutan; sering muncul saat membaca minuman, ajakan minum, kondisi mabuk, dan etika di tempat minum. |
 | 飲み放題 | のみほうだい | minum sepuasnya; 〜放題 = unlimited |
 | 食べ放題 | たべほうだい | makan sepuasnya; 〜放題 = unlimited |
-| ビールの泡 | ビールのあわ | busa bir; istilah dasar dalam topik hari ini. |
-| ウイスキーの水割り | ウイスキーのみずわり | wiski dicampur air; istilah dasar dalam topik hari ini. |
+| ビールの泡 | ビールのあわ | busa bir; sering muncul saat membaca minuman, ajakan minum, kondisi mabuk, dan etika di tempat minum. |
+| ウイスキーの水割り | ウイスキーのみずわり | wiski dicampur air; sering muncul saat membaca minuman, ajakan minum, kondisi mabuk, dan etika di tempat minum. |
 | （お）つまみのチーズ | （お）つまみのチーズ | keju camilan; つまみ = snack with alcohol |
-| よっぱらい | よっぱらい | orang mabuk; noun form |
-| たばこの煙 | たばこのけむり | asap rokok; istilah dasar dalam topik hari ini. |
+| よっぱらい | よっぱらい | orang mabuk; bentuk nomina |
+| たばこの煙 | たばこのけむり | asap rokok; sering muncul saat membaca minuman, ajakan minum, kondisi mabuk, dan etika di tempat minum. |
 
 ### Sifat dan Kondisi
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
 | にぎやかな | にぎやかな | ramai; positive/neutral |
-| やかましい | やかましい | berisik; often negative |
-| さわがしい | さわがしい | ribut; gaduh; istilah dasar dalam topik hari ini. |
-| そうぞうしい | そうぞうしい | gaduh; ribut; often written 騒々しい |
-| 煙い／煙たい | けむい／けむたい | berasap; terasa asap; 煙たい can also feel figuratively annoying |
+| やかましい | やかましい | berisik; sering bernuansa negatif |
+| さわがしい | さわがしい | ribut; gaduh; sering muncul saat membaca minuman, ajakan minum, kondisi mabuk, dan etika di tempat minum. |
+| そうぞうしい | そうぞうしい | gaduh; ribut; sering ditulis 騒々しい |
+| 煙い／煙たい | けむい／けむたい | berasap; terasa asap; 煙たい juga bisa terasa kiasan: tidak nyaman atau mengganggu |
 
 ## Peta Kata
 
@@ -96,7 +96,8 @@ Pelajaran ini membantu kamu melihat hubungan antara istilah utama, benda, tindak
   <span>盛り上がる</span>
 </div>
 
-Kata-kata hari ini bisa dibaca sebagai alur: istilah utama untuk mengenali konteks, benda atau tempat yang menjadi objek, tindakan yang dilakukan, lalu kondisi atau hasil yang perlu diperhatikan. Saat membaca teks pendek, cari dulu kata inti seperti 宴会を開く, lalu lihat kata kerja dan partikelnya untuk memahami siapa melakukan apa.
+Bayangkan kamu sedang membaca atau mendengar situasi tentang minum alkohol: kata intinya bisa berupa 宴会を開く, （お）酒を注ぐ, dan （お）湯を注ぐ; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
 
 ## Catatan Pemakaian
 
@@ -122,47 +123,47 @@ Kata-kata hari ini bisa dibaca sebagai alur: istilah utama untuk mengenali konte
 |---|---|---|
 | 宴会を開く | mengadakan pesta/jamuan | 宴会 = party/banquet |
 | （お）酒を注ぐ | menuangkan sake/alkohol | 注ぐ reads つぐ here |
-| （お）湯を注ぐ | menuangkan air panas | 注ぐ reads そそぐ here |
-| 乾杯する | bersulang | istilah dasar dalam topik hari ini. |
-| 盛り上がる | suasana menjadi ramai/seru | dipakai untuk parties/events becoming lively |
-| 土が盛り上がる | tanah menggunduk | literal meaning of 盛り上がる |
+| （お）湯を注ぐ | menuangkan air panas | di sini 注ぐ dibaca そそぐ |
+| 乾杯する | bersulang | sering muncul saat membaca minuman, ajakan minum, kondisi mabuk, dan etika di tempat minum. |
+| 盛り上がる | suasana menjadi ramai/seru | dipakai saat pesta atau acara menjadi ramai |
+| 土が盛り上がる | tanah menggunduk | makna harfiah dari 盛り上がる |
 | あふれる | meluap | intransitif |
 | こぼす | menumpahkan | transitif |
 
-Gunakan tabel ini sebagai pegangan saat melihat kata dalam kalimat. Kata kerja dan frasa sering lebih mudah dipahami jika kamu membaca seluruh pola, bukan hanya satu kata.
+Perhatikan pola partikel: `を` menandai objek tindakan, `が` sering menandai keadaan, `に` menunjukkan tujuan atau arah, dan `で` menunjukkan alat, tempat, atau cara.
 
 ## Contoh Kalimat
 
 <div class="example-list">
-  <div><p class="jp">宴会を開く。</p><p>mengadakan pesta/jamuan.</p></div>
-  <div><p class="jp">（お）酒を注ぐ。</p><p>menuangkan sake/alkohol.</p></div>
-  <div><p class="jp">（お）湯を注ぐ。</p><p>menuangkan air panas.</p></div>
-  <div><p class="jp">乾杯する。</p><p>bersulang.</p></div>
-  <div><p class="jp">盛り上がる。</p><p>suasana menjadi ramai/seru.</p></div>
+  <div><p class="jp">金曜日の夜、会社の歓迎会を開きました。</p><p>Jumat malam, kantor mengadakan pesta penyambutan.</p></div>
+  <div><p class="jp">先輩がグラスにお酒を注いでくれました。</p><p>Senior menuangkan sake ke gelas saya.</p></div>
+  <div><p class="jp">乾杯したあと、会場はすぐに盛り上がりました。</p><p>Setelah bersulang, tempat acara langsung menjadi meriah.</p></div>
+  <div><p class="jp">飲みすぎてよっぱらわないように気をつけています。</p><p>Saya berhati-hati agar tidak mabuk karena minum terlalu banyak.</p></div>
+  <div><p class="jp">ほかの客に迷惑をかけないように、静かに話しましょう。</p><p>Mari berbicara pelan agar tidak mengganggu pelanggan lain.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar
 
 | Pasangan | Cara membedakan |
 |---|---|
-| （お）酒を注ぐ / （お）湯を注ぐ | （お）酒を注ぐ cocok untuk menuangkan sake/alkohol; （お）湯を注ぐ cocok untuk menuangkan air panas. Bedakan dari kata sekitar dan pola partikel yang muncul. |
-| 乾杯する / 盛り上がる | 乾杯する cocok untuk bersulang; 盛り上がる cocok untuk suasana menjadi ramai/seru. Bedakan dari kata sekitar dan pola partikel yang muncul. |
-| 盛り上がる / 土が盛り上がる | 盛り上がる cocok untuk suasana menjadi ramai/seru; 土が盛り上がる cocok untuk tanah menggunduk. Bedakan dari kata sekitar dan pola partikel yang muncul. |
-| 土が盛り上がる / ビールの泡 | 土が盛り上がる cocok untuk tanah menggunduk; ビールの泡 cocok untuk busa bir. Bedakan dari kata sekitar dan pola partikel yang muncul. |
+| （お）酒を注ぐ / （お）湯を注ぐ | （お）酒を注ぐ cocok untuk menuangkan sake/alkohol; （お）湯を注ぐ cocok untuk menuangkan air panas. Gunakan kata sekitar dan partikel sebagai petunjuk. |
+| 乾杯する / 盛り上がる | 乾杯する cocok untuk bersulang; 盛り上がる cocok untuk suasana menjadi ramai/seru. Gunakan kata sekitar dan partikel sebagai petunjuk. |
+| 盛り上がる / 土が盛り上がる | 盛り上がる cocok untuk suasana menjadi ramai/seru; 土が盛り上がる cocok untuk tanah menggunduk. Gunakan kata sekitar dan partikel sebagai petunjuk. |
+| 土が盛り上がる / ビールの泡 | 土が盛り上がる cocok untuk tanah menggunduk; ビールの泡 cocok untuk busa bir. Gunakan kata sekitar dan partikel sebagai petunjuk. |
 
 ## Kesalahan Umum
 
-Jangan memilih kata hanya karena terjemahannya mirip. Untuk kosakata N3, yang sering menentukan makna adalah pasangan katanya: objek dengan を, keadaan dengan が, tujuan dengan に, atau alat/tempat dengan で.
+Jangan menerjemahkan kata satu per satu tanpa melihat frasa lengkap. Banyak kata terlihat mirip dalam bahasa Indonesia, tetapi berbeda saat dipasangkan dengan partikel, benda, atau kata kerja tertentu.
 
-Strategi cepat: baca satu frasa penuh dulu, lalu baru cocokkan arti. Jika kata berupa frasa kerja, hafalkan bersama partikelnya.
+Strategi cepat: cari dulu kata intinya, lalu cek partikel dan kata kerja di dekatnya. Jika bentuknya frasa kerja, hafalkan bersama pasangan katanya, bukan sebagai kata tunggal.
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
 
 ::MiniPractice
 ---
-question: "Saat pesta dimulai, semua orang bersulang."
+question: "Semua orang bersulang bersama."
 sentence: "みんなで____。"
 optionA: "乾杯する"
 optionB: "注ぐ"

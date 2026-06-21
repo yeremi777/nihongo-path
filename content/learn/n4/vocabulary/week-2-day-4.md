@@ -22,12 +22,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa menjelaskan kegiatan belajar untuk ujian: salah, tersisa, cukup, mengecek, mencari tahu, bertanya, menyalin, menempel, mewarnai, dan menyatakan sesuatu sudah siap atau bisa dikerjakan.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat cara belajar, mengecek jawaban, bertanya, mencatat, menempel, mewarnai, dan menyelesaikan sesuatu.
 
-Topik ini cocok untuk rutinitas belajar mandiri, kelas, dan strategi menghafal kosakata.
+Fokus hari ini bukan hanya menghafal arti kata seperti 間違える, 残る, 食べ物が残る, dan 残す, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> できる tidak selalu berarti "bisa". Dalam ごはんができた artinya makanan sudah siap, sedangkan テストができた berarti tesnya bisa dikerjakan dengan baik.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -91,6 +91,10 @@ Topik ini cocok untuk rutinitas belajar mandiri, kelas, dan strategi menghafal k
   <span>できる</span>
 </div>
 
+Bayangkan kamu sedang membaca atau mendengar situasi tentang cara belajar dan ujian: kata intinya bisa berupa 間違える, 残る, dan 食べ物が残る; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
+
+
 Alur belajarnya: menemukan 間違える, チェックする jawabannya, 調べる kata yang belum tahu, 質問する ke guru, 写す catatan yang berguna, 貼る di dinding, 塗る kata penting, lalu melihat apakah テストができた.
 
 ## Catatan Pemakaian
@@ -147,7 +151,7 @@ Untuk 貼る, tempat tempel memakai に: 壁にポスターを貼る.
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
 
 ::MiniPractice
 ---

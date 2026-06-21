@@ -1,6 +1,6 @@
 ---
 title: "省エネというのは・・・"
-description: "Belajar pola grammar N3 untuk memperkenalkan nama/istilah, memberi contoh kelompok, dan menjelaskan arti atau fakta dengan という."
+description: "Belajar memahami grammar N3 untuk memperkenalkan nama/istilah, memberi contoh kelompok, dan menjelaskan arti atau fakta dengan という."
 level: "N3"
 category: "grammar"
 topic: "省エネというのは・・・"
@@ -53,9 +53,9 @@ Alurnya bisa dibaca seperti ini: **nama tunggal** memakai `という（N）`, **
 | Menamai | （N1）という（N2） | （N2） itu bernama/disebut （N1）. |
 | Memberi contoh | （N1）、（N2）といった（N） | （N1） dan （N2） adalah contoh dari kelompok （N）. |
 | Mendefinisikan | （N）というのは説明 | Apakah （N） sedang dijelaskan artinya? |
-| Membungkus fakta | （clause）ということ | Apakah satu klausa dijadikan objek/subjek? |
+| Membungkus fakta | （klausa）ということ | Apakah satu klausa dijadikan objek/subjek? |
 
-Di tabel ini, `（N）` adalah nomina atau frasa nomina. `（clause）` berarti klausa/kalimat pendek seperti リンさんが帰国する sebelum dijadikan nomina.
+Di tabel ini, `（N）` adalah nomina atau frasa nomina. `（klausa）` berarti klausa/kalimat pendek seperti リンさんが帰国する sebelum dijadikan nomina.
 
 ## Cara Membentuk Pola
 
@@ -67,7 +67,7 @@ Di tabel ini, `（N）` adalah nomina atau frasa nomina. `（clause）` berarti 
 | Alat bernama shakuhachi | （N）という楽器 | 尺八という楽器 |
 | Olahraga seperti tenis dan sepak bola | （N1）、（N2）といった（N） | テニス、サッカーといったスポーツ |
 | Definisi kata | （N）というのは | デジカメというのは |
-| Fakta bahwa seseorang pulang | （clause）ということ | 帰国するということ |
+| Fakta bahwa seseorang pulang | （klausa）ということ | 帰国するということ |
 
 ### 2. Bedakan nama, contoh, dan definisi
 
@@ -116,7 +116,7 @@ Di tabel ini, `（N）` adalah nomina atau frasa nomina. `（clause）` berarti 
 | （N）という言葉 | kata/istilah bernama （N） | 省エネという言葉 |
 | （N1）、（N2）といった（N） | （N） seperti （N1） dan （N2） | テニス、サッカーといったスポーツ |
 | （N）というのは | yang dimaksud （N） adalah | デジカメというのは |
-| （clause）ということ | fakta bahwa （clause） | 帰国するということ |
+| （klausa）ということ | fakta bahwa （klausa） | 帰国するということ |
 
 ## Contoh Kalimat
 
@@ -149,7 +149,7 @@ Di tabel ini, `（N）` adalah nomina atau frasa nomina. `（clause）` berarti 
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat. Perhatikan konteks, bentuk sebelum pola, dan nuansa kalimat sebelum memilih.
 
 ::MiniPractice
 ---

@@ -1,6 +1,6 @@
 ---
 title: "子どもばかりか"
-description: "Belajar pola grammar N3 untuk menambahkan informasi kuat, membandingkan dua sisi, dan menyatakan target sikap atau kontras."
+description: "Belajar memahami grammar N3 untuk menambahkan informasi kuat, membandingkan dua sisi, dan menyatakan target sikap atau kontras."
 level: "N3"
 category: "grammar"
 topic: "子どもばかりか"
@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali dan memakai pola pada topik **子どもばかりか** dalam konteks bacaan, percakapan, dan penjelasan N3. Fokusnya bukan hanya arti terjemahan, tetapi juga alasan memilih pola yang tepat.
+Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N3 untuk menambahkan informasi kuat, membandingkan dua sisi, dan menyatakan target sikap atau kontras. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan nuansa konteks.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> pisahkan penambahan dan perbandingan. はもちろん menambahkan hal yang sudah wajar, ばかりか menambah hal yang lebih kuat, に比べて membandingkan, dan に対して menunjukkan target atau kontras.
@@ -52,12 +52,12 @@ Di akhir pelajaran ini, kamu bisa mengenali dan memakai pola pada topik **子ど
 | Fungsi | Kerangka kalimat | Yang perlu dicek |
 |---|---|---|
 | Tambahan wajar | （N）はもちろん、（N）も | Apakah A sudah jelas dan B ditambahkan? |
-| Klausa tambahan | （clause）のはもちろん | Apakah bagian pertama berupa kalimat/tindakan? |
-| Tambahan kuat | （plain form）ばかりか、（N）も | Apakah tambahan kedua lebih kuat? |
+| Klausa tambahan | （klausa）のはもちろん | Apakah bagian pertama berupa kalimat/tindakan? |
+| Tambahan kuat | （bentuk biasa）ばかりか、（N）も | Apakah tambahan kedua lebih kuat? |
 | Perbandingan | （N）に比べて | Apa yang menjadi standar perbandingan? |
 | Target/kontras | （N）に対して | Apakah （N） target sikap atau sisi kontras? |
 
-Di tabel ini, `（A）` dan `（B）` menandai pihak pertama dan pihak kedua dalam hubungan kalimat, `（N）` adalah nomina atau frasa nomina, `（V）` adalah verba, `（Adj）` adalah adjektiva, `（clause）` dan `（plain form）` adalah klausa atau bentuk biasa, `（Sentence A）` dan `（Sentence B）` adalah dua kalimat yang dihubungkan, `（Option A）` dan `（Option B）` adalah dua pilihan, sedangkan `（question）`, `（number）`, `（predicate）`, dan `（result）` menandai slot pertanyaan, angka, predikat, dan hasil.
+Simbol di tabel ini hanya penanda slot. `（N）` berarti nomina atau frasa nomina, `（V）` berarti verba, `（Adj）` berarti adjektiva, `（klausa）` atau `（bentuk biasa）` berarti klausa atau bentuk biasa, dan pasangan seperti `（A）／（B）` atau `（Kalimat A）／（Kalimat B）` dipakai untuk membedakan dua sisi kalimat.
 
 ## Cara Membentuk Pola
 
@@ -81,7 +81,7 @@ Di tabel ini, `（A）` dan `（B）` menandai pihak pertama dan pihak kedua dal
 | に対して | terhadap target | 生徒に対して厳しい |
 | に対する（N） | nomina terkait target | 生徒に対する態度 |
 
-Sebelum membaca contoh panjang, ambil bagian yang berubah lebih dulu: apakah slotnya `（N）`, `（V辞書形）`, `（V普通形）`, `（Vますstem）`, `（Adj）`, atau satu `（clause）` utuh. Setelah itu baru cek partikel, bentuk negatif, dan hubungan antarbagian kalimat.
+Saat membangun kalimat, jangan mulai dari terjemahan kata per kata. Tentukan dulu slot yang berubah, lalu cek partikel, bentuk akhir, dan hubungan antarbagian kalimat.
 
 ## Bangun Kalimat Bertahap
 
@@ -93,7 +93,7 @@ Sebelum membaca contoh panjang, ambil bagian yang berubah lebih dulu: apakah slo
 | Guru keras terhadap murid | 生徒・厳しい | 生徒に対して | 田中先生は生徒に対して厳しいです。 |
 | Kontras kakak-adik | 長男・次男 | 長男に対して | まじめな長男に対して、次男は遊んでばかりです。 |
 
-Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pecah dulu menjadi bahan, bentuk pola, lalu kalimat jadi.
+Bagian ini menghubungkan rumus dan contoh kalimat. Mulai dari bahan pendeknya dulu, lalu cek fungsi pola sebelum membaca kalimat lengkap.
 
 ## Catatan Pemakaian
 
@@ -117,8 +117,8 @@ Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pe
 | Pola | Arti praktis | Contoh konteks |
 |---|---|---|
 | （N）はもちろん、（N）も | tentu saja A, B juga | 子どもはもちろん大人も |
-| （clause）のはもちろん | bukan hanya melakukan | 食べるのはもちろん |
-| （plain form）ばかりか | bukan hanya, bahkan | 悪いばかりか |
+| （klausa）のはもちろん | bukan hanya melakukan | 食べるのはもちろん |
+| （bentuk biasa）ばかりか | bukan hanya, bahkan | 悪いばかりか |
 | （N）に比べて | dibandingkan dengan （N） | 去年に比べて |
 | （N）に対して | terhadap （N） | 生徒に対して |
 | （N）に対する（N） | （N） terhadap （N） | 生徒に対する態度 |
@@ -154,7 +154,7 @@ Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pe
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat. Perhatikan konteks, bentuk sebelum pola, dan nuansa kalimat sebelum memilih.
 
 ::MiniPractice
 ---

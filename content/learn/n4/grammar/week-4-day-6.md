@@ -1,6 +1,6 @@
 ---
 title: "試験に受からないかなあ。"
-description: "Belajar pola grammar N4 untuk semoga saya lulus ujian dalam konteks belajar, percakapan, dan instruksi sederhana."
+description: "Belajar memahami grammar N4 untuk penjelasan dan partikel akhir agar bisa memilih bentuk, partikel, dan nuansa yang tepat."
 level: "N4"
 category: "grammar"
 topic: "試験に受からないかなあ。"
@@ -22,23 +22,23 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa memakai pola N4 dalam topik **試験に受からないかなあ。** untuk penjelasan dan partikel akhir. Fokusnya adalah memilih partikel, bentuk verba, atau ekspresi yang sesuai dengan konteks kalimat.
+Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N4 untuk penjelasan dan partikel akhir. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan konteks.
 
-Kamu juga akan membedakan pola yang mirip agar tidak menerjemahkan langsung dari bahasa Indonesia tanpa melihat petunjuk bentuk Jepangnya.
+Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya bergantung pada terjemahan bahasa Indonesia.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca fungsi komunikasinya dulu, lalu cek bentuk sebelum dan sesudah pola. Banyak kesalahan N4 muncul karena arti Indonesianya mirip, tetapi partikel atau bentuk akhirnya berbeda.
+  <strong>Fokus hari ini:</strong> baca fungsi kalimatnya dulu. Setelah itu cek partikel, bentuk verba, dan nuansa yang membuat satu pola lebih tepat daripada pola lain.
 </div>
 
 ## Pola Hari Ini
 
 | Fungsi | Pola | Arti praktis | Kapan dipakai |
 |---|---|---|---|
-| Penjelasan/alasan | 〜んです・〜のです | Penjelasan/alasan; meminta penjelasan | Dipakai saat ingin menyatakan penjelasan/alasan; meminta penjelasan dengan bentuk Plain form + んです／のです. |
-| Perasaan, kekaguman, keterkejutan | 〜なあ | Perasaan, kekaguman, keterkejutan | Dipakai saat ingin menyatakan perasaan, kekaguman, keterkejutan dengan bentuk Plain form + なあ / （N）・（なAdj） + だなあ. |
-| Konfirmasi/persetujuan | 〜ね | Konfirmasi/persetujuan | Dipakai saat ingin menyatakan konfirmasi/persetujuan dengan bentuk Sentence + ね. |
-| Penekanan, pengingat, peringatan | 〜よ | Penekanan, pengingat, peringatan | Dipakai saat ingin menyatakan penekanan, pengingat, peringatan dengan bentuk Sentence + よ. |
-| Kira-kira | 〜かな・〜かしら | Kira-kira ~; semoga/harap ~ | Dipakai saat ingin menyatakan kira-kira ~; semoga/harap ~ dengan bentuk Plain form + かな／かしら. |
+| Penjelasan/alasan | 〜んです・〜のです | Penjelasan/alasan; meminta penjelasan | dipakai saat penjelasan/alasan; meminta penjelasan; bentuknya bentuk biasa + んです／のです. |
+| Perasaan, kekaguman, keterkejutan | 〜なあ | Perasaan, kekaguman, keterkejutan | dipakai saat perasaan, kekaguman, keterkejutan; bentuknya bentuk biasa + なあ / （N）・（なAdj） + だなあ. |
+| Konfirmasi/persetujuan | 〜ね | Konfirmasi/persetujuan | dipakai saat konfirmasi/persetujuan; bentuknya Kalimat + ね. |
+| Penekanan, pengingat, peringatan | 〜よ | Penekanan, pengingat, peringatan | dipakai saat penekanan, pengingat, peringatan; bentuknya Kalimat + よ. |
+| Kira-kira | 〜かな・〜かしら | Kira-kira ~; semoga/harap ~ | dipakai saat kira-kira ~; semoga/harap ~; bentuknya bentuk biasa + かな／かしら. |
 
 ## Peta Pola
 
@@ -50,76 +50,76 @@ Kamu juga akan membedakan pola yang mirip agar tidak menerjemahkan langsung dari
   <span>〜かな・〜かしら</span>
 </div>
 
-Pola hari ini saling terhubung oleh fungsi **penjelasan dan partikel akhir**. Gunakan tabel pola sebagai peta cepat: pola yang terlihat mirip biasanya berbeda pada petunjuk seperti partikel, bentuk negatif, bentuk lampau, bentuk kamus, atau sudut pandang pembicara.
+Pola hari ini sama-sama dipakai untuk **penjelasan dan partikel akhir**, tetapi petunjuknya berbeda. Perhatikan partikel, bentuk negatif/lampau, bentuk kamus, dan siapa yang menjadi fokus kalimat.
 
 ## Cara Membentuk Pola
 
-Simbol utama: （N）= nomina, （V）= verba, （Clause）= klausa, （いAdj）= kata sifat-i, dan （なAdj）= kata sifat-na.
+Simbol utama: （N） berarti nomina, （V） berarti verba, （Klausa） berarti klausa, （いAdj） berarti kata sifat-i, dan （なAdj） berarti kata sifat-na.
 
 | Pola | Bentuk dasar | Catatan bentuk |
 |---|---|---|
-| 〜んです・〜のです | Plain form + んです／のです | Gunakan bentuk ini untuk penjelasan/alasan; meminta penjelasan. |
-| 〜なあ | Plain form + なあ / （N）・（なAdj） + だなあ | Gunakan bentuk ini untuk perasaan, kekaguman, keterkejutan. |
-| 〜ね | Sentence + ね | Gunakan bentuk ini untuk konfirmasi/persetujuan. |
-| 〜よ | Sentence + よ | Gunakan bentuk ini untuk penekanan, pengingat, peringatan. |
-| 〜かな・〜かしら | Plain form + かな／かしら | Gunakan bentuk ini untuk kira-kira ~; semoga/harap ~. |
+| 〜んです・〜のです | bentuk biasa + んです／のです | dipakai untuk penjelasan/alasan; meminta penjelasan. |
+| 〜なあ | bentuk biasa + なあ / （N）・（なAdj） + だなあ | dipakai untuk perasaan, kekaguman, keterkejutan. |
+| 〜ね | Kalimat + ね | dipakai untuk konfirmasi/persetujuan. |
+| 〜よ | Kalimat + よ | dipakai untuk penekanan, pengingat, peringatan. |
+| 〜かな・〜かしら | bentuk biasa + かな／かしら | dipakai untuk kira-kira ~; semoga/harap ~. |
 
 ## Bangun Kalimat Bertahap
 
 | Langkah | Jepang | Fungsi |
 |---|---|---|
-| Bahan | Plain form + んです／のです | Bentuk untuk penjelasan/alasan |
+| Bahan | bentuk biasa + んです／のです | bentuk untuk penjelasan/alasan |
 | Kalimat | どうしてパーティーに行かないんですか。 | Penjelasan/alasan; meminta penjelasan |
-| Bahan | Plain form + なあ / （N）・（なAdj） + だなあ | Bentuk untuk perasaan, kekaguman, keterkejutan |
+| Bahan | bentuk biasa + なあ / （N）・（なAdj） + だなあ | bentuk untuk perasaan, kekaguman, keterkejutan |
 | Kalimat | 試験、むずかしかったなあ。 | Perasaan, kekaguman, keterkejutan |
-| Bahan | Sentence + ね | Bentuk untuk konfirmasi/persetujuan |
+| Bahan | Kalimat + ね | bentuk untuk konfirmasi/persetujuan |
 | Kalimat | いい天気ですね。 | Konfirmasi/persetujuan |
-| Bahan | Sentence + よ | Bentuk untuk penekanan, pengingat, peringatan |
+| Bahan | Kalimat + よ | bentuk untuk penekanan, pengingat, peringatan |
 | Kalimat | 雨が降っていますよ。 | Penekanan, pengingat, peringatan |
-| Bahan | Plain form + かな／かしら | Bentuk untuk kira-kira |
+| Bahan | bentuk biasa + かな／かしら | bentuk untuk kira-kira |
 | Kalimat | 明日、雨が降るかしら。 | Kira-kira ~; semoga/harap ~ |
 
-Bagian ini menjembatani rumus dan kalimat penuh. Ambil bentuk pendeknya dulu, lalu masukkan ke kalimat yang punya konteks jelas.
+Bagian ini menghubungkan rumus dan kalimat penuh. Mulai dari bentuk pendeknya dulu, lalu cek fungsi pola sebelum membaca contoh lengkap.
 
 ## Catatan Pemakaian
 
 ### 〜んです・〜のです
 
-Pola ini dipakai untuk **penjelasan/alasan; meminta penjelasan**. Bentuk intinya adalah Plain form + んです／のです.
+Gunakan pola ini untuk **penjelasan/alasan; meminta penjelasan**. Bentuk dasarnya: bentuk biasa + んです／のです.
 
-Catatan praktis: Used saat asking untuk atau giving background, reason, atau explanation. 〜んです is common in conversation.
+Catatan praktis: Dipakai saat memberi atau menanyakan alasan, latar belakang, atau penjelasan. 〜んです sering muncul dalam percakapan.
 
 Contoh inti: どうしてパーティーに行かないんですか。
 
 ### 〜なあ
 
-Pola ini dipakai untuk **perasaan, kekaguman, keterkejutan**. Bentuk intinya adalah Plain form + なあ / （N）・（なAdj） + だなあ.
+Gunakan pola ini untuk **perasaan, kekaguman, keterkejutan**. Bentuk dasarnya: bentuk biasa + なあ / （N）・（なAdj） + だなあ.
 
-Catatan praktis: menunjukkan the speaker's feeling, surprise, admiration, atau self-talk.
+Catatan praktis: menunjukkan perasaan, keterkejutan, kekaguman, atau gumaman pembicara.
 
 Contoh inti: 試験、むずかしかったなあ。
 
 ### 〜ね
 
-Pola ini dipakai untuk **konfirmasi/persetujuan**. Bentuk intinya adalah Sentence + ね.
+Gunakan pola ini untuk **konfirmasi/persetujuan**. Bentuk dasarnya: Kalimat + ね.
 
-Catatan praktis: Used saat expecting agreement, checking shared feeling, atau softening a statement.
+Catatan praktis: Dipakai saat mengharapkan persetujuan, mengecek perasaan bersama, atau melembutkan pernyataan.
 
 Contoh inti: いい天気ですね。
 
 ### 〜よ
 
-Pola ini dipakai untuk **penekanan, pengingat, peringatan**. Bentuk intinya adalah Sentence + よ.
+Gunakan pola ini untuk **penekanan, pengingat, peringatan**. Bentuk dasarnya: Kalimat + よ.
 
-Catatan praktis: Used saat giving new information, emphasis, reminder, atau warning.
+Catatan praktis: Dipakai saat memberi informasi baru, penekanan, pengingat, atau peringatan.
 
 Contoh inti: 雨が降っていますよ。
 
 ### 〜かな・〜かしら
 
-Pola ini dipakai untuk **kira-kira ~; semoga/harap ~**. Bentuk intinya adalah Plain form + かな／かしら.
+Gunakan pola ini untuk **kira-kira ~; semoga/harap ~**. Bentuk dasarnya: bentuk biasa + かな／かしら.
 
-Catatan praktis: かな is common self-talk. かしら sounds softer dan is often described as feminine in textbooks.
+Catatan praktis: かな umum dipakai saat bergumam atau bertanya pada diri sendiri. かしら terdengar lebih halus dan sering dijelaskan sebagai bentuk feminin di buku pelajaran.
 
 Contoh inti: 明日、雨が降るかしら。
 
@@ -127,11 +127,11 @@ Contoh inti: 明日、雨が降るかしら。
 
 | Pola | Arti praktis | Contoh konteks |
 |---|---|---|
-| Plain form + んです／のです | Penjelasan/alasan; meminta penjelasan | どうしてパーティーに行かないんですか。 |
-| Plain form + なあ / （N）・（なAdj） + だなあ | Perasaan, kekaguman, keterkejutan | 試験、むずかしかったなあ。 |
-| Sentence + ね | Konfirmasi/persetujuan | いい天気ですね。 |
-| Sentence + よ | Penekanan, pengingat, peringatan | 雨が降っていますよ。 |
-| Plain form + かな／かしら | Kira-kira ~; semoga/harap ~ | 明日、雨が降るかしら。 |
+| bentuk biasa + んです／のです | Penjelasan/alasan; meminta penjelasan | どうしてパーティーに行かないんですか。 |
+| bentuk biasa + なあ / （N）・（なAdj） + だなあ | Perasaan, kekaguman, keterkejutan | 試験、むずかしかったなあ。 |
+| Kalimat + ね | Konfirmasi/persetujuan | いい天気ですね。 |
+| Kalimat + よ | Penekanan, pengingat, peringatan | 雨が降っていますよ。 |
+| bentuk biasa + かな／かしら | Kira-kira ~; semoga/harap ~ | 明日、雨が降るかしら。 |
 
 ## Contoh Kalimat
 
@@ -139,33 +139,33 @@ Contoh inti: 明日、雨が降るかしら。
   <div><p class="jp">どうしてパーティーに行かないんですか。</p><p>Kenapa kamu tidak pergi ke pesta?</p></div>
   <div><p class="jp">漢字のテストは明日ですよ。</p><p>Tes kanji itu besok, lho.</p></div>
   <div><p class="jp">トムさんのおねえさん、きれいだなあ。</p><p>Kakak perempuan Tom cantik sekali ya.</p></div>
-  <div><p class="jp">試験、むずかしかったなあ。</p><p>Kalimat ini memakai 〜なあ untuk arti perasaan, kekaguman, keterkejutan.</p></div>
-  <div><p class="jp">いい天気ですね。</p><p>Kalimat ini memakai 〜ね untuk arti konfirmasi/persetujuan.</p></div>
-  <div><p class="jp">雨が降っていますよ。</p><p>Kalimat ini memakai 〜よ untuk arti penekanan, pengingat, peringatan.</p></div>
+  <div><p class="jp">試験、むずかしかったなあ。</p><p>Ujiannya sulit sekali, ya.</p></div>
+  <div><p class="jp">いい天気ですね。</p><p>Cuacanya bagus, ya.</p></div>
+  <div><p class="jp">雨が降っていますよ。</p><p>Hujan sedang turun, lho.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar
 
 | Pasangan | Cara membedakan |
 |---|---|
-| 〜んです / Plain statement | Bedakan dari fungsi utamanya: Explanation/background dibanding simple fact. Petunjuk pilihan: Gunakan 〜んです saat giving atau asking untuk a reason. gunakan plain statement untuk simple information.. |
-| 〜ね / 〜よ | Bedakan dari fungsi utamanya: Seeking agreement dibanding giving new information. Petunjuk pilihan: Gunakan 〜ね saat both sides can agree. gunakan 〜よ saat telling atau reminding the listener.. |
-| 〜なあ / 〜ね | Bedakan dari fungsi utamanya: Personal emotion/self-talk dibanding shared confirmation. Petunjuk pilihan: Gunakan 〜なあ untuk your own feeling. gunakan 〜ね to invite agreement.. |
-| 〜かな / 〜かしら | Bedakan dari fungsi utamanya: Common “I wonder” dibanding softer/textbook-feminine “I wonder”. Petunjuk pilihan: Gunakan 〜かな in general self-talk. gunakan 〜かしら untuk a softer tone.. |
+| 〜んです / Pernyataan biasa | Bedakan dari fungsi utamanya: Penjelasan atau latar belakang dibanding fakta biasa. Petunjuk pilihan: Gunakan 〜んです saat memberi atau menanyakan alasan. Gunakan pernyataan biasa untuk informasi sederhana. |
+| 〜ね / 〜よ | Bedakan dari fungsi utamanya: Meminta persetujuan dibanding memberi informasi baru. Petunjuk pilihan: Gunakan 〜ね saat kedua pihak bisa setuju. Gunakan 〜よ saat memberi tahu atau mengingatkan lawan bicara. |
+| 〜なあ / 〜ね | Bedakan dari fungsi utamanya: Perasaan pribadi dibanding konfirmasi bersama. Petunjuk pilihan: Gunakan 〜なあ untuk perasaan pribadi. Gunakan 〜ね mengajak lawan bicara ikut setuju. |
+| 〜かな / 〜かしら | Bedakan dari fungsi utamanya: Ungkapan “kira-kira ya” yang umum dibanding bentuk yang lebih halus. Petunjuk pilihan: Gunakan 〜かな untuk gumaman atau pertanyaan pada diri sendiri secara umum. Gunakan 〜かしら untuk nada yang lebih halus. |
 
 ## Kesalahan Umum
 
 | Salah | Benar | Kenapa |
 |---|---|---|
-| どうしてパーティーに行かないですか。 | どうしてパーティーに行かないんですか。 | Asking untuk a reason uses 〜んですか |
-| 漢字のテストは明日ですね。 | 漢字のテストは明日ですよ。 | New information atau reminder uses 〜よ |
-| トムさんのおねえさん、きれいなあ。 | トムさんのおねえさん、きれいだなあ。 | な-adjective sebelum なあ usually needs だ |
+| どうしてパーティーに行かないですか。 | どうしてパーティーに行かないんですか。 | Menanyakan alasan memakai 〜んですか |
+| 漢字のテストは明日ですね。 | 漢字のテストは明日ですよ。 | Informasi baru atau pengingat memakai 〜よ |
+| トムさんのおねえさん、きれいなあ。 | トムさんのおねえさん、きれいだなあ。 | Kata sifat-na sebelum なあ biasanya perlu だ |
 
-Catatan untuk pembelajar Indonesia: Japanese sentence-ending particles often do not have a direct Indonesian equivalent. 〜ね can feel like “ya?” 〜よ can feel like “lho” or a reminder. 〜なあ expresses personal feeling, like “wah / yaa.” 〜かな means “kira-kira / ya?” 〜んです adds explanation or background, not just politeness.
+Catatan untuk pembelajar Indonesia: Partikel akhir kalimat Jepang sering tidak punya padanan langsung dalam bahasa Indonesia. 〜ね terasa seperti “ya?”; 〜よ bisa terasa seperti “lho” atau pengingat; 〜なあ menunjukkan perasaan pribadi seperti “wah/yaa”; 〜かな berarti “kira-kira/ya?”; 〜んです menambah penjelasan atau latar belakang, bukan sekadar kesopanan.
 
 ## Mini Practice
 
-Pilih jawaban yang paling tepat untuk melengkapi kalimat. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat. Perhatikan petunjuk partikel, bentuk kata, dan konteks kalimat sebelum memilih.
 
 ::MiniPractice
 ---
@@ -174,51 +174,51 @@ sentence: "漢字のテストは明日です____。"
 optionA: "よ"
 optionB: "ね"
 correct: "よ"
-explanation: "よ benar. New information atau reminder uses 〜よ"
+explanation: "よ benar. Informasi baru atau pengingat memakai 〜よ"
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pola apa yang dipakai untuk arti: Penjelasan/alasan; meminta penjelasan?"
-sentence: "例: どうしてパーティーに行かないんですか。 ポイント: ____"
-optionA: "〜んです・〜のです"
-optionB: "〜なあ"
-correct: "〜んです・〜のです"
-explanation: "〜んです・〜のです benar karena kalimat contoh menunjukkan penjelasan/alasan; meminta penjelasan."
+question: "Kenapa kamu tidak pergi ke pesta?"
+sentence: "どうしてパーティーに行かない____ですか。"
+optionA: "ん"
+optionB: "なあ"
+correct: "ん"
+explanation: "んですか benar saat pembicara meminta penjelasan atau alasan."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pola apa yang dipakai untuk arti: Perasaan, kekaguman, keterkejutan?"
-sentence: "例: 試験、むずかしかったなあ。 ポイント: ____"
-optionA: "〜なあ"
-optionB: "〜ね"
-correct: "〜なあ"
-explanation: "〜なあ benar karena kalimat contoh menunjukkan perasaan, kekaguman, keterkejutan."
+question: "Ujiannya sulit sekali, ya."
+sentence: "試験、むずかしかった____。"
+optionA: "なあ"
+optionB: "ね"
+correct: "なあ"
+explanation: "なあ benar untuk mengungkapkan perasaan pribadi atau gumaman."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pola apa yang dipakai untuk arti: Konfirmasi/persetujuan?"
-sentence: "例: いい天気ですね。 ポイント: ____"
-optionA: "〜ね"
-optionB: "〜よ"
-correct: "〜ね"
-explanation: "〜ね benar karena kalimat contoh menunjukkan konfirmasi/persetujuan."
+question: "Cuacanya bagus, ya."
+sentence: "いい天気です____。"
+optionA: "ね"
+optionB: "よ"
+correct: "ね"
+explanation: "ね benar saat pembicara mengajak lawan bicara ikut setuju."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pola apa yang dipakai untuk arti: Penekanan, pengingat, peringatan?"
-sentence: "例: 雨が降っていますよ。 ポイント: ____"
-optionA: "〜よ"
-optionB: "〜かな・〜かしら"
-correct: "〜よ"
-explanation: "〜よ benar karena kalimat contoh menunjukkan penekanan, pengingat, peringatan."
+question: "Hujan sedang turun, lho."
+sentence: "雨が降っています____。"
+optionA: "よ"
+optionB: "かな"
+correct: "よ"
+explanation: "よ benar untuk memberi informasi baru, pengingat, atau penekanan."
 ---
 ::
 

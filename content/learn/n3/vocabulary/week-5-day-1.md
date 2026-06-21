@@ -21,12 +21,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca hubungan keluarga, urutan saudara, status siswa/mahasiswa, pekerjaan, dan jabatan kantor.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat membaca hubungan keluarga, status sekolah, pekerjaan, dan jabatan di tempat kerja.
 
-Fokusnya adalah mengenali siapa berhubungan dengan siapa, lalu membaca posisi sosialnya dalam keluarga, sekolah, atau tempat kerja.
+Fokus hari ini bukan hanya menghafal arti kata seperti 家族, 夫婦, 夫, dan 妻, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca frasa NのN seperti 職場の上司 dan 会社の後輩 sebagai hubungan, bukan dua kata terpisah.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -93,6 +93,10 @@ Kosakata ini bergerak dari keluarga -> status sekolah -> hubungan kerja -> jabat
   <span>部下</span>
 </div>
 
+Bayangkan kamu sedang membaca atau mendengar situasi tentang hubungan seperti apa?: kata intinya bisa berupa 家族, 夫婦, dan 夫; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
+
+
 ## Catatan Pemakaian
 
 - **Urutan saudara:** 長男／長女 untuk anak tertua, 次男／次女 untuk anak kedua, 末っ子 untuk bungsu.
@@ -103,7 +107,7 @@ Kosakata ini bergerak dari keluarga -> status sekolah -> hubungan kerja -> jabat
 
 - **N人兄弟の末っ子:** menyebut posisi dalam jumlah saudara.
 - **職場のN／会社のN:** の menghubungkan tempat dengan peran.
-- **Nは会社員です:** pola identitas/status.
+- **（N）は会社員です:** pola identitas/status.
 
 ## Contoh Kalimat
 
@@ -127,14 +131,16 @@ Kosakata ini bergerak dari keluarga -> status sekolah -> hubungan kerja -> jabat
 
 ## Mini Practice
 
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
+
 ::MiniPractice
 ---
-question: "Atasan di tempat kerja."
+question: "Saya berkonsultasi dengan atasan di tempat kerja."
 sentence: "職場の____に相談する。"
 optionA: "上司"
 optionB: "部下"
 correct: "上司"
-explanation: "上司 adalah atasan; 部下 adalah bawahan."
+explanation: "上司 benar karena 職場の上司 berarti atasan di tempat kerja. 部下 adalah bawahan, jadi arah hubungannya berbeda."
 ---
 ::
 
@@ -145,29 +151,29 @@ sentence: "6人兄弟の____。"
 optionA: "末っ子"
 optionB: "長男"
 correct: "末っ子"
-explanation: "末っ子 berarti anak bungsu."
+explanation: "末っ子 benar karena berarti anak bungsu. 長男 berarti anak laki-laki tertua."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Jabatan kepala departemen."
+question: "Kepala bagian hadir dalam rapat."
 sentence: "____が会議に出る。"
 optionA: "部長"
 optionB: "孫"
 correct: "部長"
-explanation: "部長 adalah manajer departemen; 孫 adalah cucu."
+explanation: "部長 benar karena 会議に出る cocok dengan jabatan kantor. 孫 berarti cucu dan tidak cocok dengan konteks rapat kerja."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Keluarga saya terdiri dari empat orang."
+question: "Keluarga saya berjumlah empat orang."
 sentence: "私の____は四人です。"
 optionA: "家族"
 optionB: "夫婦"
 correct: "家族"
-explanation: "家族 cocok untuk kelompok keluarga secara umum."
+explanation: "家族 benar karena 四人です menghitung kelompok keluarga. 夫婦 hanya pasangan suami-istri."
 ---
 ::
 

@@ -1,6 +1,6 @@
 ---
 title: "まだしゅくだいをしていません。"
-description: "Belajar grammar N5 dasar untuk lumayan; hampir; kebanyakan, lebih; tadi/barusan; segera; sebentar lagi, sudah dalam kalimat pendek."
+description: "Belajar memahami grammar N5 untuk lumayan; hampir; kebanyakan, lebih; tadi/barusan; segera; sebentar lagi, sudah dalam kalimat pendek."
 level: "N5"
 category: "grammar"
 topic: "まだしゅくだいをしていません。"
@@ -25,20 +25,20 @@ tags:
 
 Mengenali pola dasar untuk lumayan; hampir; kebanyakan, lebih; tadi/barusan; segera; sebentar lagi, sudah, belum.
 
-Di akhir pelajaran ini, kamu bisa membaca kalimat seperti そのレストランはまあまあおいしかったです, もうすぐ12時です, もうしゅくだいをしましたか. Fokusnya adalah melihat bentuk kecil yang menjadi petunjuk arti.
+Di akhir pelajaran ini, kamu bisa membaca kalimat seperti そのレストランはまあまあおいしかったです, もうすぐ12時です, もうしゅくだいをしましたか. Fokusnya adalah memahami petunjuk kecil seperti partikel, bentuk kata, dan posisi kata dalam kalimat.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca pola dari kiri ke kanan. Tandai partikel, bentuk verba, atau kata penghubung sebelum menebak arti seluruh kalimat.
+  <strong>Fokus hari ini:</strong> baca kalimat pelan-pelan. Tandai partikel, bentuk kata, atau kata penghubung, lalu cocokkan dengan situasi yang sedang dibicarakan.
 </div>
 
 ## Pola Hari Ini
 
 | Fungsi | Pola | Arti praktis | Kapan dipakai |
 |---|---|---|---|
-| Lumayan | Adverb + sentence | Lumayan; hampir; kebanyakan | まあまあ means “so-so |
-| Lebih | Adverb + sentence | Lebih; tadi/barusan; segera; sebentar lagi | もっと asks for a higher degree or amount |
-| Sudah | もう + （V）ました | Sudah | Used when an action is already finished or a state has already happened |
-| Belum | まだ + negative | Belum | Used when an action has not happened yet, but may happen later |
+| Lumayan | Adverbia + kalimat | Lumayan; hampir; kebanyakan | まあまあ berarti “lumayan |
+| Lebih | Adverbia + kalimat | Lebih; tadi/barusan; segera; sebentar lagi | もっと meminta tingkat atau jumlah yang lebih tinggi |
+| Sudah | もう + （V）ました | Sudah | Dipakai saat tindakan sudah selesai atau keadaan sudah terjadi |
+| Belum | まだ + bentuk negatif | Belum | Dipakai saat tindakan belum terjadi, tetapi mungkin terjadi nanti |
 
 ## Peta Pola
 
@@ -53,58 +53,58 @@ Pola hari ini saling terhubung sebagai alat beginner untuk sudah dan belum. Mula
 
 ## Cara Membentuk Pola
 
-Simbol utama: （N）= nomina, （V）= verba, （Adj）= kata sifat, （Place）= tempat, （Person）= orang, dan （Time）= waktu.
+Simbol utama: （N）= nomina, （V）= verba, （Adj）= kata sifat, （Tempat）= tempat, （Orang）= orang, dan （Waktu）= waktu.
 
 | Pola | Bentuk dasar | Catatan bentuk |
 |---|---|---|
-| まあまあ・ほとんど・だいたい | Adverb + sentence | まあまあ means “so-so |
-| もっと・さっき・すぐに・もうすぐ | Adverb + sentence | もっと asks for a higher degree or amount |
-| もう | もう + （V）ました | Used when an action is already finished or a state has already happened |
-| まだ〜ません・まだ〜ないです | まだ + negative | Used when an action has not happened yet, but may happen later |
+| まあまあ・ほとんど・だいたい | Adverbia + kalimat | まあまあ berarti “lumayan |
+| もっと・さっき・すぐに・もうすぐ | Adverbia + kalimat | もっと meminta tingkat atau jumlah yang lebih tinggi |
+| もう | もう + （V）ました | Dipakai saat tindakan sudah selesai atau keadaan sudah terjadi |
+| まだ〜ません・まだ〜ないです | まだ + bentuk negatif | Dipakai saat tindakan belum terjadi, tetapi mungkin terjadi nanti |
 
 ## Bangun Kalimat Bertahap
 
 | Langkah | Jepang | Fungsi |
 |---|---|---|
-| Bahan | Adverb + sentence | bentuk untuk lumayan |
+| Bahan | Adverbia + kalimat | bentuk untuk lumayan |
 | Kalimat | そのレストランはまあまあおいしかったです。 | Lumayan; hampir; kebanyakan |
-| Bahan | Adverb + sentence | bentuk untuk lebih |
+| Bahan | Adverbia + kalimat | bentuk untuk lebih |
 | Kalimat | もうすぐ12時です。 | Lebih; tadi/barusan; segera; sebentar lagi |
 | Bahan | もう + （V）ました | bentuk untuk sudah |
 | Kalimat | もうしゅくだいをしましたか。 | Sudah |
-| Bahan | まだ + negative | bentuk untuk belum |
+| Bahan | まだ + bentuk negatif | bentuk untuk belum |
 | Kalimat | まだおひるごはんを食べていません。 | Belum |
 
 ## Catatan Pemakaian
 
-- Lumayan: まあまあ means “so-so.” ほとんど often means “almost all/mostly,” and with a negative it means “hardly.” だいたい means “roughly/mostly.”
-- Lebih: もっと asks for a higher degree or amount. さっき refers to a short time ago. すぐに means right away. もうすぐ means soon.
-- Sudah: Used when an action is already finished or a state has already happened.
-- Belum: Used when an action has not happened yet, but may happen later.
+- Lumayan: まあまあ berarti “lumayan.” ほとんど sering berarti “hampir semua/sebagian besar”, dan bersama bentuk negatif berarti “hampir tidak”. だいたい berarti “kira-kira/sebagian besar”.
+- Lebih: もっと meminta tingkat atau jumlah yang lebih tinggi. さっき merujuk ke waktu yang baru saja berlalu. すぐに berarti segera. もうすぐ berarti sebentar lagi.
+- Sudah: Dipakai saat tindakan sudah selesai atau keadaan sudah terjadi.
+- Belum: Dipakai saat tindakan belum terjadi, tetapi mungkin terjadi nanti.
 
-Indonesian “sudah” and “belum” map clearly to Japanese:
+“Sudah” dan “belum” dalam bahasa Indonesia cukup jelas padanannya dalam bahasa Jepang:
 
 - もうしました = sudah melakukan
 - まだしていません = belum melakukan
 
-Be careful: **まだ** almost always needs a negative form when it means “belum.”
+Hati-hati: **まだ** hampir selalu butuh bentuk negatif saat artinya “belum”.
 
 ## Pola yang Sering Muncul
 
 | Pola | Arti praktis | Contoh konteks |
 |---|---|---|
-| Adverb + sentence | Lumayan; hampir; kebanyakan | そのレストランはまあまあおいしかったです。 |
-| Adverb + sentence | Lebih; tadi/barusan; segera; sebentar lagi | もうすぐ12時です。 |
+| Adverbia + kalimat | Lumayan; hampir; kebanyakan | そのレストランはまあまあおいしかったです。 |
+| Adverbia + kalimat | Lebih; tadi/barusan; segera; sebentar lagi | もうすぐ12時です。 |
 | もう + （V）ました | Sudah | もうしゅくだいをしましたか。 |
-| まだ + negative | Belum | まだおひるごはんを食べていません。 |
+| まだ + bentuk negatif | Belum | まだおひるごはんを食べていません。 |
 
 ## Contoh Kalimat
 
 <div class="example-list">
-  <div><p class="jp">そのレストランはまあまあおいしかったです。</p><p>Kalimat ini menunjukkan fungsi: lumayan; hampir; kebanyakan.</p></div>
-  <div><p class="jp">もうすぐ12時です。</p><p>Membandingkan dua hal atau lebih.</p></div>
-  <div><p class="jp">もうしゅくだいをしましたか。</p><p>Kalimat ini menunjukkan fungsi: sudah.</p></div>
-  <div><p class="jp">まだおひるごはんを食べていません。</p><p>Kalimat ini menunjukkan fungsi: belum.</p></div>
+  <div><p class="jp">そのレストランはまあまあおいしかったです。</p><p>Restoran itu lumayan enak.</p></div>
+  <div><p class="jp">もうすぐ12時です。</p><p>Sebentar lagi jam 12.</p></div>
+  <div><p class="jp">もうしゅくだいをしましたか。</p><p>Apakah kamu sudah mengerjakan PR?</p></div>
+  <div><p class="jp">まだおひるごはんを食べていません。</p><p>Saya belum makan siang.</p></div>
   <div><p class="jp">今日はいい天気です。</p><p>Hari ini cuacanya bagus.</p></div>
 </div>
 
@@ -112,74 +112,76 @@ Be careful: **まだ** almost always needs a negative form when it means “belu
 
 | Pasangan | Cara membedakan |
 |---|---|
-| まあまあ / だいたい | So-so quality vs mostly/roughly. Use まあまあ for evaluation. Use だいたい for approximate amount or understanding. |
-| ほとんど / ぜんぜん〜ない | Almost all / hardly vs not at all. Use ほとんど for “mostly” or “hardly” with negative. Use ぜんぜん for stronger complete negation. |
-| すぐに / もうすぐ | Right away vs soon. Use すぐに for immediate action. Use もうすぐ for something that will happen soon. |
-| さっき / もう | A moment ago vs already. Use さっき to say when something happened. Use もう to say it is already completed. |
-| もう / まだ〜ない | Already vs not yet. Use もう for completed action. Use まだ with a negative for incomplete action. |
+| まあまあ / だいたい | Kualitas “lumayan” vs “sebagian besar/kira-kira”. Pakai まあまあ untuk penilaian. Pakai だいたい untuk perkiraan jumlah atau tingkat pemahaman. |
+| ほとんど / ぜんぜん〜ない | Hampir semua / hampir tidak vs sama sekali tidak. Pakai ほとんど untuk “sebagian besar” atau “hampir tidak” bersama negatif. Pakai ぜんぜん untuk penyangkalan yang lebih kuat. |
+| すぐに / もうすぐ | Segera dilakukan vs sebentar lagi akan terjadi. Pakai すぐに untuk tindakan langsung. Pakai もうすぐ untuk sesuatu yang akan segera terjadi. |
+| さっき / もう | Baru saja vs sudah. Pakai さっき untuk menyebut kapan sesuatu terjadi. Pakai もう untuk menyatakan sesuatu sudah selesai. |
+| もう / まだ〜ない | Sudah vs belum. Pakai もう untuk tindakan yang sudah selesai. Pakai まだ bersama bentuk negatif untuk tindakan yang belum selesai. |
 
 ## Kesalahan Umum
 
 | Titik salah | Kurang tepat | Lebih tepat | Petunjuk |
 |---|---|---|---|
-| まだ uses a negative ending for “not yet” | まだしゅくだいをしました。 | まだしゅくだいをしていません。 | Saya belum mengerjakan PR. |
-| もう means “already” | もうしゅくだいをしていません。 | もうしゅくだいをしました。 | Saya sudah mengerjakan PR. |
+| まだ memakai akhir negatif untuk “belum” | まだしゅくだいをしました。 | まだしゅくだいをしていません。 | Saya belum mengerjakan PR. |
+| もう berarti “sudah” | もうしゅくだいをしていません。 | もうしゅくだいをしました。 | Saya sudah mengerjakan PR. |
 | すぐに and もうすぐ are different | もうすぐ来てください。 | すぐに来てください。 | Tolong datang segera. |
 
 ## Mini Practice
 
+Pilih jawaban yang paling tepat. Perhatikan petunjuk partikel, bentuk kata, dan konteks kalimat sebelum memilih.
+
 ::MiniPractice
 ---
-question: "Lumayan; hampir; kebanyakan."
-sentence: "そのレストランはまあまあおいしかったです。"
+question: "Restoran itu lumayan enak."
+sentence: "そのレストランは____おいしかったです。"
 optionA: "まあまあ"
-optionB: "もっと・さっき・すぐに・もうすぐ"
+optionB: "まだ"
 correct: "まあまあ"
-explanation: "まあまあ cocok karena fungsi kalimatnya adalah lumayan; hampir; kebanyakan. Petunjuknya ada pada bentuk Adverb + sentence."
+explanation: "まあまあ benar untuk penilaian 'lumayan'. まだ berarti masih/belum."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Lebih; tadi/barusan; segera; sebentar lagi."
-sentence: "もうすぐ12時です。"
-optionA: "もっと"
-optionB: "まあまあ・ほとんど・だいたい"
-correct: "もっと"
-explanation: "もっと cocok karena fungsi kalimatnya adalah lebih; tadi/barusan; segera; sebentar lagi. Petunjuknya ada pada bentuk Adverb + sentence."
+question: "Sebentar lagi jam 12."
+sentence: "____12時です。"
+optionA: "もうすぐ"
+optionB: "もっと"
+correct: "もうすぐ"
+explanation: "もうすぐ benar untuk 'sebentar lagi'. もっと berarti lebih."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Sudah."
-sentence: "もうしゅくだいをしましたか。"
+question: "Apakah kamu sudah mengerjakan PR?"
+sentence: "____しゅくだいをしましたか。"
 optionA: "もう"
-optionB: "まあまあ・ほとんど・だいたい"
+optionB: "まだ"
 correct: "もう"
-explanation: "もう cocok karena fungsi kalimatnya adalah sudah. Petunjuknya ada pada bentuk もう + （V）ました."
+explanation: "もう benar untuk menanyakan apakah sesuatu sudah selesai. まだ dipakai untuk 'masih/belum'."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Belum."
-sentence: "まだおひるごはんを食べていません。"
-optionA: "まだ〜ません"
-optionB: "まあまあ・ほとんど・だいたい"
-correct: "まだ〜ません"
-explanation: "まだ〜ません cocok karena fungsi kalimatnya adalah belum. Petunjuknya ada pada bentuk まだ + negative."
+question: "Saya belum makan siang."
+sentence: "____おひるごはんを食べていません。"
+optionA: "まだ"
+optionB: "もう"
+correct: "まだ"
+explanation: "まだ benar dengan bentuk negatif untuk 'belum'."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih bentuk yang sesuai untuk lumayan; hampir; kebanyakan."
-sentence: "そのレストランはまあまあおいしかったです。"
-optionA: "まあまあ・ほとんど・だいたい"
-optionB: "〜です"
-correct: "まあまあ・ほとんど・だいたい"
-explanation: "まあまあ・ほとんど・だいたい sesuai dengan pola hari ini."
+question: "Tolong tunggu sebentar."
+sentence: "____待ってください。"
+optionA: "ちょっと"
+optionB: "ほとんど"
+correct: "ちょっと"
+explanation: "ちょっと benar untuk 'sebentar/sedikit'. ほとんど berarti hampir/kebanyakan."
 ---
 ::
 

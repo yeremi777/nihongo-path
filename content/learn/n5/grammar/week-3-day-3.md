@@ -1,6 +1,6 @@
 ---
 title: "あさは早くおきましょう。"
-description: "Belajar grammar N5 dasar untuk melakukan dengan cara/sifat tertentu, menjadi ~, membuat/menjadikan ~ dalam kalimat pendek."
+description: "Belajar memahami grammar N5 untuk melakukan dengan cara/sifat tertentu, menjadi ~, membuat/menjadikan ~ dalam kalimat pendek."
 level: "N5"
 category: "grammar"
 topic: "あさは早くおきましょう。"
@@ -25,10 +25,10 @@ tags:
 
 Mengenali pola dasar untuk melakukan dengan cara/sifat tertentu, menjadi ~, membuat/menjadikan ~, bagaimana mengatakan ~?; disebut apa?.
 
-Di akhir pelajaran ini, kamu bisa membaca kalimat seperti 早く帰りましょう, 日本語が上手になりました, テレビの音を小さくしてください. Fokusnya adalah melihat bentuk kecil yang menjadi petunjuk arti.
+Di akhir pelajaran ini, kamu bisa membaca kalimat seperti 早く帰りましょう, 日本語が上手になりました, テレビの音を小さくしてください. Fokusnya adalah memahami petunjuk kecil seperti partikel, bentuk kata, dan posisi kata dalam kalimat.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca pola dari kiri ke kanan. Tandai partikel, bentuk verba, atau kata penghubung sebelum menebak arti seluruh kalimat.
+  <strong>Fokus hari ini:</strong> baca kalimat pelan-pelan. Tandai partikel, bentuk kata, atau kata penghubung, lalu cocokkan dengan situasi yang sedang dibicarakan.
 </div>
 
 ## Pola Hari Ini
@@ -36,9 +36,9 @@ Di akhir pelajaran ini, kamu bisa membaca kalimat seperti 早く帰りましょ�
 | Fungsi | Pola | Arti praktis | Kapan dipakai |
 |---|---|---|---|
 | Melakukan dengan cara/sifat tertentu | （いAdj）く + （V）／（なAdj）に + （V） | Melakukan dengan cara/sifat tertentu | Changes adjectives into adverbs |
-| Menjadi ~ | （いAdj）くなる／（なAdj）・（N）になる | Menjadi ~ | Expresses a natural change of state |
-| Membuat/menjadikan ~ | （いAdj）くする／（なAdj）・（N）にする | Membuat/menjadikan ~ | Expresses an intentional change caused by someone |
-| Bagaimana mengatakan ~? | どう／何と + 言いますか | Bagaimana mengatakan ~?; disebut apa? | どう言いますか asks how to say something |
+| Menjadi ~ | （いAdj）くなる／（なAdj）・（N）になる | Menjadi ~ | Menyatakan perubahan keadaan yang alami |
+| Membuat/menjadikan ~ | （いAdj）くする／（なAdj）・（N）にする | Membuat/menjadikan ~ | Menyatakan perubahan sengaja yang disebabkan seseorang |
+| Bagaimana mengatakan ~? | どう／何と + 言いますか | Bagaimana mengatakan ~?; disebut apa? | どう言いますか menanyakan cara mengatakan sesuatu |
 
 ## Peta Pola
 
@@ -53,14 +53,14 @@ Pola hari ini saling terhubung sebagai alat beginner untuk perubahan keadaan. Mu
 
 ## Cara Membentuk Pola
 
-Simbol utama: （N）= nomina, （V）= verba, （Adj）= kata sifat, （Place）= tempat, （Person）= orang, dan （Time）= waktu.
+Simbol utama: （N）= nomina, （V）= verba, （Adj）= kata sifat, （Tempat）= tempat, （Orang）= orang, dan （Waktu）= waktu.
 
 | Pola | Bentuk dasar | Catatan bentuk |
 |---|---|---|
 | （いAdj）く（V）・（なAdj）に（V） | （いAdj）く + （V）／（なAdj）に + （V） | Changes adjectives into adverbs |
-| 〜くなる・〜になる | （いAdj）くなる／（なAdj）・（N）になる | Expresses a natural change of state |
-| 〜くする・〜にする | （いAdj）くする／（なAdj）・（N）にする | Expresses an intentional change caused by someone |
-| どう言いますか・何と言いますか | どう／何と + 言いますか | どう言いますか asks how to say something |
+| 〜くなる・〜になる | （いAdj）くなる／（なAdj）・（N）になる | Menyatakan perubahan keadaan yang alami |
+| 〜くする・〜にする | （いAdj）くする／（なAdj）・（N）にする | Menyatakan perubahan sengaja yang disebabkan seseorang |
+| どう言いますか・何と言いますか | どう／何と + 言いますか | どう言いますか menanyakan cara mengatakan sesuatu |
 
 ## Bangun Kalimat Bertahap
 
@@ -77,20 +77,20 @@ Simbol utama: （N）= nomina, （V）= verba, （Adj）= kata sifat, （Place�
 
 ## Catatan Pemakaian
 
-- Melakukan dengan cara/sifat tertentu: Changes adjectives into adverbs. Used to explain how an action is done.
-- Menjadi ~: Expresses a natural change of state. The subject changes without focusing on who caused it.
-- Membuat/menjadikan ~: Expresses an intentional change caused by someone.
-- Bagaimana mengatakan ~?: どう言いますか asks how to say something. 何と言いますか asks what something is called or what words are used.
+- Melakukan dengan cara/sifat tertentu: Mengubah kata sifat menjadi adverbia untuk menjelaskan cara tindakan dilakukan.
+- Menjadi ~: Menyatakan perubahan keadaan yang alami. Subjek berubah tanpa menekankan siapa penyebabnya.
+- Membuat/menjadikan ~: Menyatakan perubahan sengaja yang disebabkan seseorang.
+- Bagaimana mengatakan ~?: どう言いますか menanyakan cara mengatakan sesuatu. 何と言いますか menanyakan nama/sebutan atau kata yang dipakai.
 
-In Indonesian, “menjadi” and “membuat jadi” can feel close, but Japanese separates them clearly:
+Dalam bahasa Indonesia, “menjadi” dan “membuat jadi” bisa terasa dekat, tetapi bahasa Jepang membedakannya dengan jelas:
 
 - 〜になる = menjadi, change happens
-- 〜にする = menjadikan/membuat, someone changes it
+- 〜にする = menjadikan/membuat, seseorang mengubahnya
 
-Also, adjectives become adverbs before verbs:
+Selain itu, kata sifat berubah menjadi keterangan sebelum verba:
 
-- 早い = early/fast adjective
-- 早く = early/quickly as action manner
+- 早い = kata sifat “awal/cepat”
+- 早く = keterangan “lebih awal/dengan cepat” untuk tindakan
 
 ## Pola yang Sering Muncul
 
@@ -104,10 +104,10 @@ Also, adjectives become adverbs before verbs:
 ## Contoh Kalimat
 
 <div class="example-list">
-  <div><p class="jp">早く帰りましょう。</p><p>Kalimat ini menunjukkan fungsi: melakukan dengan cara/sifat tertentu.</p></div>
-  <div><p class="jp">日本語が上手になりました。</p><p>Kalimat ini menunjukkan fungsi: menjadi ~.</p></div>
-  <div><p class="jp">テレビの音を小さくしてください。</p><p>Kalimat ini menunjukkan fungsi: membuat/menjadikan ~.</p></div>
-  <div><p class="jp">これは日本語でどう言いますか。</p><p>Kalimat ini menunjukkan fungsi: bagaimana mengatakan ~?; disebut apa?.</p></div>
+  <div><p class="jp">早く帰りましょう。</p><p>Ayo pulang cepat.</p></div>
+  <div><p class="jp">日本語が上手になりました。</p><p>Bahasa Jepang saya menjadi lancar.</p></div>
+  <div><p class="jp">テレビの音を小さくしてください。</p><p>Tolong kecilkan suara TV.</p></div>
+  <div><p class="jp">これは日本語でどう言いますか。</p><p>Ini dalam bahasa Jepang disebut apa?</p></div>
   <div><p class="jp">今日はいい天気です。</p><p>Hari ini cuacanya bagus.</p></div>
 </div>
 
@@ -115,74 +115,76 @@ Also, adjectives become adverbs before verbs:
 
 | Pasangan | Cara membedakan |
 |---|---|
-| 早い / 早く | Adjective vs adverb. Use 早い to describe a noun. Use 早く to describe an action. |
-| 静かな / 静かに | na-adjective before noun vs adverb before verb. Use 静かな before a noun. Use 静かに before a verb. |
-| 〜になる / 〜にする | Natural change vs intentional change. Use なる when something becomes that way. Use する when someone makes it that way. |
-| （いAdj）くなる / （なAdj）・（N）になる | i-adjective change vs na-adjective/noun change. Use くなる after i-adjectives. Use になる after na-adjectives and nouns. |
-| どう言いますか / 何と言いますか | How do you say it vs what is it called. Use どう言いますか for expression/translation. Use 何と言いますか for naming or wording. |
+| 早い / 早く | Kata sifat vs kata keterangan. Pakai 早い untuk menjelaskan nomina. Pakai 早く untuk menjelaskan tindakan. |
+| 静かな / 静かに | Kata sifat-na sebelum nomina vs keterangan sebelum verba. Pakai 静かな sebelum nomina. Pakai 静かに sebelum verba. |
+| 〜になる / 〜にする | Perubahan alami vs perubahan yang disengaja. Pakai なる saat sesuatu menjadi begitu. Pakai する saat seseorang membuatnya begitu. |
+| （いAdj）くなる / （なAdj）・（N）になる | Perubahan kata sifat-i vs kata sifat-na/nomina. Pakai くなる setelah kata sifat-i. Pakai になる setelah kata sifat-na dan nomina. |
+| どう言いますか / 何と言いますか | “Bagaimana mengatakannya?” vs “disebut apa?”. Pakai どう言いますか untuk ungkapan atau terjemahan. Pakai 何と言いますか untuk nama atau penyebutan. |
 
 ## Kesalahan Umum
 
 | Titik salah | Kurang tepat | Lebih tepat | Petunjuk |
 |---|---|---|---|
 | Adverbs describe actions | 早い帰りましょう。 | 早く帰りましょう。 | Ayo pulang cepat. |
-| Natural change uses なる | 日本語が上手にしました。 | 日本語が上手になりました。 | Saya menjadi mahir bahasa Jepang. |
-| Intentional change uses する | テレビの音が小さくなってください。 | テレビの音を小さくしてください。 | Tolong kecilkan suara televisinya. |
+| Perubahan alami memakai なる | 日本語が上手にしました。 | 日本語が上手になりました。 | Saya menjadi mahir bahasa Jepang. |
+| Perubahan yang sengaja dibuat memakai する | テレビの音が小さくなってください。 | テレビの音を小さくしてください。 | Tolong kecilkan suara televisinya. |
 
 ## Mini Practice
 
+Pilih jawaban yang paling tepat. Perhatikan petunjuk partikel, bentuk kata, dan konteks kalimat sebelum memilih.
+
 ::MiniPractice
 ---
-question: "Melakukan dengan cara/sifat tertentu."
-sentence: "早く帰りましょう。"
-optionA: "いAdjくV"
-optionB: "〜くなる・〜になる"
-correct: "いAdjくV"
-explanation: "いAdjくV cocok karena fungsi kalimatnya adalah melakukan dengan cara/sifat tertentu. Petunjuknya ada pada bentuk （いAdj）く + （V）／（なAdj）に + （V）."
+question: "Ayo pulang cepat."
+sentence: "____帰りましょう。"
+optionA: "早く"
+optionB: "早い"
+correct: "早く"
+explanation: "早く benar karena kata sifat-i berubah menjadi く saat menerangkan verba."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Menjadi ~."
-sentence: "日本語が上手になりました。"
-optionA: "〜くなる"
-optionB: "いAdjくV・なAdjにV"
-correct: "〜くなる"
-explanation: "〜くなる cocok karena fungsi kalimatnya adalah menjadi ~. Petunjuknya ada pada bentuk （いAdj）くなる／（なAdj）・（N）になる."
+question: "Bahasa Jepang saya sudah menjadi lebih bagus."
+sentence: "日本語が上手____なりました。"
+optionA: "に"
+optionB: "で"
+correct: "に"
+explanation: "に benar karena kata sifat-na memakai に dalam pola 〜になる."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Membuat/menjadikan ~."
-sentence: "テレビの音を小さくしてください。"
-optionA: "〜くする"
-optionB: "いAdjくV・なAdjにV"
-correct: "〜くする"
-explanation: "〜くする cocok karena fungsi kalimatnya adalah membuat/menjadikan ~. Petunjuknya ada pada bentuk （いAdj）くする／（なAdj）・（N）にする."
+question: "Tolong kecilkan suara TV."
+sentence: "テレビの音を小さ____してください。"
+optionA: "く"
+optionB: "い"
+correct: "く"
+explanation: "小さくする benar untuk 'membuat menjadi kecil'. Kata sifat-i berubah ke く."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Bagaimana mengatakan ~?; disebut apa?."
-sentence: "これは日本語でどう言いますか。"
-optionA: "どう言いますか"
-optionB: "いAdjくV・なAdjにV"
-correct: "どう言いますか"
-explanation: "どう言いますか cocok karena fungsi kalimatnya adalah bagaimana mengatakan ~?; disebut apa?. Petunjuknya ada pada bentuk どう／何と + 言いますか."
+question: "Ini bahasa Jepangnya bagaimana mengatakannya?"
+sentence: "これは日本語で____言いますか。"
+optionA: "どう"
+optionB: "どこ"
+correct: "どう"
+explanation: "どう言いますか benar untuk menanyakan cara mengatakan sesuatu. どこ menanyakan tempat."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih bentuk yang sesuai untuk melakukan dengan cara/sifat tertentu."
-sentence: "早く帰りましょう。"
-optionA: "いAdjくV・なAdjにV"
-optionB: "〜です"
-correct: "いAdjくV・なAdjにV"
-explanation: "いAdjくV・なAdjにV sesuai dengan pola hari ini."
+question: "Tolong rapikan kamar."
+sentence: "部屋をきれい____してください。"
+optionA: "に"
+optionB: "く"
+correct: "に"
+explanation: "きれいにする benar karena きれい adalah kata sifat-na. Kata sifat-i memakai く."
 ---
 ::
 

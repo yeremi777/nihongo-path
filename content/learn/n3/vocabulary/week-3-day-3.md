@@ -21,12 +21,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali kosakata N3 untuk Ayo berbelanja. Fokusnya adalah membaca kata sebagai bagian dari situasi nyata, bukan hanya menghafal arti satu per satu.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat membaca toko, ukuran, harga, barang, pilihan, dan percakapan saat berbelanja.
 
-Pelajaran ini membantu kamu melihat hubungan antara istilah utama, benda, tindakan, kondisi, dan pola partikel yang sering muncul dalam kalimat pendek sehari-hari.
+Fokus hari ini bukan hanya menghafal arti kata seperti そでなし, 半そで, 長そで, dan 無地, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca kata sebagai kelompok makna. Perhatikan apakah kata itu menunjuk benda/tempat, tindakan dengan partikel seperti を・が・に・で, atau kondisi yang menjelaskan keadaan.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -35,49 +35,49 @@ Pelajaran ini membantu kamu melihat hubungan antara istilah utama, benda, tindak
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| そでなし | そでなし | tanpa lengan; clothing term |
-| 半そで | はんそで | lengan pendek; istilah dasar dalam topik hari ini. |
-| 長そで | ながそで | lengan panjang; istilah dasar dalam topik hari ini. |
-| 無地 | むじ | polos; no pattern |
-| 柄／模様 | がら／もよう | motif; pola; dipakai untuk clothing patterns |
-| しま | しま | garis-garis; istilah dasar dalam topik hari ini. |
-| 水玉 | みずたま | motif bulat-bulat; istilah dasar dalam topik hari ini. |
-| 花柄 | はながら | motif bunga; istilah dasar dalam topik hari ini. |
-| お気に入り | おきにいり | favorit; noun form |
-| 好み | このみ | selera; kesukaan; noun form |
-| はやり／流行 | はやり／りゅうこう | tren; mode; 流行 can also be read りゅうこう |
-| 売り切れ | うりきれ | habis; noun form |
-| にせ物 | にせもの | barang palsu; lawan kata of 本物 |
+| そでなし | そでなし | tanpa lengan; istilah pakaian |
+| 半そで | はんそで | lengan pendek; sering muncul saat membaca toko, ukuran, harga, barang, pilihan, dan percakapan saat berbelanja. |
+| 長そで | ながそで | lengan panjang; sering muncul saat membaca toko, ukuran, harga, barang, pilihan, dan percakapan saat berbelanja. |
+| 無地 | むじ | polos; tanpa motif |
+| 柄／模様 | がら／もよう | motif; pola; dipakai untuk pola pakaian |
+| しま | しま | garis-garis; sering muncul saat membaca toko, ukuran, harga, barang, pilihan, dan percakapan saat berbelanja. |
+| 水玉 | みずたま | motif bulat-bulat; sering muncul saat membaca toko, ukuran, harga, barang, pilihan, dan percakapan saat berbelanja. |
+| 花柄 | はながら | motif bunga; sering muncul saat membaca toko, ukuran, harga, barang, pilihan, dan percakapan saat berbelanja. |
+| お気に入り | おきにいり | favorit; bentuk nomina |
+| 好み | このみ | selera; kesukaan; bentuk nomina |
+| はやり／流行 | はやり／りゅうこう | tren; mode; 流行 juga bisa dibaca りゅうこう |
+| 売り切れ | うりきれ | habis; bentuk nomina |
+| にせ物 | にせもの | barang palsu; lawan kata dari 本物 |
 
 ### Tindakan dan Pola
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| 似合う | にあう | cocok; pantas dipakai; dipakai untuk clothes/colors/styles |
-| 気に入る | きにいる | suka; tertarik pada; often after seeing/trying something |
+| 似合う | にあう | cocok; pantas dipakai; dipakai untuk pakaian, warna, atau gaya |
+| 気に入る | きにいる | suka; tertarik pada; sering setelah melihat atau mencoba sesuatu |
 | 好む | このむ | menyukai; lebih suka; lebih formal daripada 好き |
 | 目立つ色 | めだついろ | warna mencolok; 目立つ = stand out |
-| 人気のあるデザイン | にんきのあるデザイン | desain populer; istilah dasar dalam topik hari ini. |
-| はやっている | はやっている | sedang tren; istilah dasar dalam topik hari ini. |
-| サイズを確かめる／確認する | サイズをたしかめる／かくにんする | mengecek ukuran; 確かめる and 確認する are close in meaning |
-| サイズが合う | サイズがあう | ukurannya cocok; istilah dasar dalam topik hari ini. |
+| 人気のあるデザイン | にんきのあるデザイン | desain populer; sering muncul saat membaca toko, ukuran, harga, barang, pilihan, dan percakapan saat berbelanja. |
+| はやっている | はやっている | sedang tren; sering muncul saat membaca toko, ukuran, harga, barang, pilihan, dan percakapan saat berbelanja. |
+| サイズを確かめる／確認する | サイズをたしかめる／かくにんする | mengecek ukuran; 確かめる dan 確認する maknanya dekat |
+| サイズが合う | サイズがあう | ukurannya cocok; sering muncul saat membaca toko, ukuran, harga, barang, pilihan, dan percakapan saat berbelanja. |
 | 品物をかごに入れる | しなものをかごにいれる | memasukkan barang ke keranjang; 品物 = goods/item |
-| セール／バーゲンで買う | セール／バーゲンでかう | membeli saat diskon; istilah dasar dalam topik hari ini. |
+| セール／バーゲンで買う | セール／バーゲンでかう | membeli saat diskon; sering muncul saat membaca toko, ukuran, harga, barang, pilihan, dan percakapan saat berbelanja. |
 | デパートの特売品 | デパートのとくばいひん | barang obral department store; 特売品 = special bargain item |
-| 売り切れる | うりきれる | habis terjual; intransitif verb |
+| 売り切れる | うりきれる | habis terjual; verba intransitif |
 | 本物のダイヤモンド | ほんもののダイヤモンド | berlian asli; 本物 = real/genuine thing |
-| 得をする | とくをする | untung; istilah dasar dalam topik hari ini. |
-| 損をする | そんをする | rugi; lawan kata of 得をする |
+| 得をする | とくをする | untung; sering muncul saat membaca toko, ukuran, harga, barang, pilihan, dan percakapan saat berbelanja. |
+| 損をする | そんをする | rugi; lawan kata dari 得をする |
 
 ### Sifat dan Kondisi
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| はでな | はでな | mencolok; norak; often negative if too flashy |
-| 地味な | じみな | sederhana; tidak mencolok; lawan kata of はで |
-| ゆるい | ゆるい | longgar; for clothes/accessories |
-| きつい | きつい | ketat; for clothes/accessories |
-| 30パーセント（％）オフ | さんじゅっパーセントオフ | diskon 30 persen; same as 3割引き |
+| はでな | はでな | mencolok; norak; sering bernuansa negatif if too flashy |
+| 地味な | じみな | sederhana; tidak mencolok; lawan kata dari はで |
+| ゆるい | ゆるい | longgar; untuk pakaian atau aksesori |
+| きつい | きつい | ketat; untuk pakaian atau aksesori |
+| 30パーセント（％）オフ | さんじゅっパーセントオフ | diskon 30 persen; sama dengan 3割引き |
 | 3割引き | さんわりびき | potongan 30%; 1割 = 10% |
 
 ## Peta Kata
@@ -95,7 +95,8 @@ Pelajaran ini membantu kamu melihat hubungan antara istilah utama, benda, tindak
   <span>気に入る</span>
 </div>
 
-Kata-kata hari ini bisa dibaca sebagai alur: istilah utama untuk mengenali konteks, benda atau tempat yang menjadi objek, tindakan yang dilakukan, lalu kondisi atau hasil yang perlu diperhatikan. Saat membaca teks pendek, cari dulu kata inti seperti そでなし, lalu lihat kata kerja dan partikelnya untuk memahami siapa melakukan apa.
+Bayangkan kamu sedang membaca atau mendengar situasi tentang berbelanja: kata intinya bisa berupa そでなし, 半そで, dan 長そで; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
 
 ## Catatan Pemakaian
 
@@ -119,45 +120,45 @@ Kata-kata hari ini bisa dibaca sebagai alur: istilah utama untuk mengenali konte
 
 | Pola | Arti praktis | Catatan membaca |
 |---|---|---|
-| そでなし | tanpa lengan | clothing term |
-| 半そで | lengan pendek | istilah dasar dalam topik hari ini. |
-| 長そで | lengan panjang | istilah dasar dalam topik hari ini. |
-| 似合う | cocok; pantas dipakai | dipakai untuk clothes/colors/styles |
-| 気に入る | suka; tertarik pada | often after seeing/trying something |
-| お気に入り | favorit | noun form |
+| そでなし | tanpa lengan | istilah pakaian |
+| 半そで | lengan pendek | sering muncul saat membaca toko, ukuran, harga, barang, pilihan, dan percakapan saat berbelanja. |
+| 長そで | lengan panjang | sering muncul saat membaca toko, ukuran, harga, barang, pilihan, dan percakapan saat berbelanja. |
+| 似合う | cocok; pantas dipakai | dipakai untuk pakaian, warna, atau gaya |
+| 気に入る | suka; tertarik pada | sering setelah melihat atau mencoba sesuatu |
+| お気に入り | favorit | bentuk nomina |
 | 好む | menyukai; lebih suka | lebih formal daripada 好き |
 | 目立つ色 | warna mencolok | 目立つ = stand out |
 
-Gunakan tabel ini sebagai pegangan saat melihat kata dalam kalimat. Kata kerja dan frasa sering lebih mudah dipahami jika kamu membaca seluruh pola, bukan hanya satu kata.
+Perhatikan pola partikel: `を` menandai objek tindakan, `が` sering menandai keadaan, `に` menunjukkan tujuan atau arah, dan `で` menunjukkan alat, tempat, atau cara.
 
 ## Contoh Kalimat
 
 <div class="example-list">
-  <div><p class="jp">そでなしです。</p><p>tanpa lengan.</p></div>
-  <div><p class="jp">半そでです。</p><p>lengan pendek.</p></div>
-  <div><p class="jp">長そでです。</p><p>lengan panjang.</p></div>
-  <div><p class="jp">気に入る。</p><p>suka; tertarik pada.</p></div>
-  <div><p class="jp">お気に入りです。</p><p>favorit.</p></div>
+  <div><p class="jp">この半そでのシャツは、夏にちょうどいいです。</p><p>Kemeja lengan pendek ini pas untuk musim panas.</p></div>
+  <div><p class="jp">長そでの服を探していますが、無地のものがいいです。</p><p>Saya sedang mencari baju lengan panjang, tetapi lebih suka yang polos.</p></div>
+  <div><p class="jp">このデザインが気に入ったので、試着してみます。</p><p>Karena saya suka desain ini, saya akan mencobanya.</p></div>
+  <div><p class="jp">サイズが合わなかったので、店員に交換を頼みました。</p><p>Karena ukurannya tidak cocok, saya meminta pegawai toko untuk menukarnya.</p></div>
+  <div><p class="jp">セールで買ったので、少し得をしました。</p><p>Karena membelinya saat diskon, saya sedikit untung.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar
 
 | Pasangan | Cara membedakan |
 |---|---|
-| 好む / 好み | 好む cocok untuk menyukai; lebih suka; 好み cocok untuk selera; kesukaan. Bedakan dari kata sekitar dan pola partikel yang muncul. |
-| はやっている / はやり／流行 | はやっている cocok untuk sedang tren; はやり／流行 cocok untuk tren; mode. Bedakan dari kata sekitar dan pola partikel yang muncul. |
-| サイズを確かめる／確認する / サイズが合う | サイズを確かめる／確認する cocok untuk mengecek ukuran; サイズが合う cocok untuk ukurannya cocok. Bedakan dari kata sekitar dan pola partikel yang muncul. |
-| 30パーセント（％）オフ / 3割引き | 30パーセント（％）オフ cocok untuk diskon 30 persen; 3割引き cocok untuk potongan 30%. Bedakan dari kata sekitar dan pola partikel yang muncul. |
+| 好む / 好み | 好む cocok untuk menyukai; lebih suka; 好み cocok untuk selera; kesukaan. Gunakan kata sekitar dan partikel sebagai petunjuk. |
+| はやっている / はやり／流行 | はやっている cocok untuk sedang tren; はやり／流行 cocok untuk tren; mode. Gunakan kata sekitar dan partikel sebagai petunjuk. |
+| サイズを確かめる／確認する / サイズが合う | サイズを確かめる／確認する cocok untuk mengecek ukuran; サイズが合う cocok untuk ukurannya cocok. Gunakan kata sekitar dan partikel sebagai petunjuk. |
+| 30パーセント（％）オフ / 3割引き | 30パーセント（％）オフ cocok untuk diskon 30 persen; 3割引き cocok untuk potongan 30%. Gunakan kata sekitar dan partikel sebagai petunjuk. |
 
 ## Kesalahan Umum
 
-Jangan memilih kata hanya karena terjemahannya mirip. Untuk kosakata N3, yang sering menentukan makna adalah pasangan katanya: objek dengan を, keadaan dengan が, tujuan dengan に, atau alat/tempat dengan で.
+Jangan menerjemahkan kata satu per satu tanpa melihat frasa lengkap. Banyak kata terlihat mirip dalam bahasa Indonesia, tetapi berbeda saat dipasangkan dengan partikel, benda, atau kata kerja tertentu.
 
-Strategi cepat: baca satu frasa penuh dulu, lalu baru cocokkan arti. Jika kata berupa frasa kerja, hafalkan bersama partikelnya.
+Strategi cepat: cari dulu kata intinya, lalu cek partikel dan kata kerja di dekatnya. Jika bentuknya frasa kerja, hafalkan bersama pasangan katanya, bukan sebagai kata tunggal.
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
 
 ::MiniPractice
 ---

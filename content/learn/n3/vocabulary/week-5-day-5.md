@@ -21,12 +21,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca kosakata untuk keadaan tubuh, gigi, wajah, rambut, tinggi badan, dan penampilan.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat membaca kondisi tubuh, rasa sakit, bentuk fisik, ekspresi wajah, dan penampilan.
 
-Fokusnya adalah melihat apakah kata itu menjelaskan bagian tubuh, kondisi yang terasa, atau perubahan penampilan.
+Fokus hari ini bukan hanya menghafal arti kata seperti 虫歯, 歯が痛む, 顔色, dan 顔色が悪い, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> bagian tubuh sering menjadi topik dengan が atau objek dengan を, seperti 顔色が悪い dan 髪をそめる.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -66,6 +66,10 @@ Kata hari ini menghubungkan bagian tubuh -> kondisi -> perubahan. が sering men
   <span>髪</span>
 </div>
 
+Bayangkan kamu sedang membaca atau mendengar situasi tentang seperti apa keadaannya? (1): kata intinya bisa berupa 虫歯, 歯が痛む, dan 顔色; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
+
+
 ## Catatan Pemakaian
 
 - **Kondisi:** 顔色が悪い berarti tampak tidak sehat dari wajah.
@@ -74,9 +78,9 @@ Kata hari ini menghubungkan bagian tubuh -> kondisi -> perubahan. が sering men
 
 ## Pola yang Sering Muncul
 
-- **Nが痛む:** bagian tubuh terasa sakit.
-- **Nが悪い／いい:** keadaan bagian tubuh.
-- **Nを切る／そめる:** objek tindakan adalah bagian tubuh/rambut.
+- **（N）が痛む:** bagian tubuh terasa sakit.
+- **（N）が悪い／いい:** keadaan bagian tubuh.
+- **（N）を切る／そめる:** objek tindakan adalah bagian tubuh/rambut.
 
 ## Contoh Kalimat
 
@@ -90,7 +94,7 @@ Kata hari ini menghubungkan bagian tubuh -> kondisi -> perubahan. が sering men
 
 ## Hal yang Mudah Tertukar
 
-顔色 menunjuk raut/warna wajah sebagai tanda kondisi, bukan hanya warna literal. 痛む adalah terasa sakit, sedangkan 痛める berarti membuat bagian tubuh cedera.
+顔色 menunjuk raut/warna wajah sebagai tanda kondisi, bukan hanya warna harfiah. 痛む adalah terasa sakit, sedangkan 痛める berarti membuat bagian tubuh cedera.
 
 ## Kesalahan Umum
 
@@ -99,6 +103,8 @@ Kata hari ini menghubungkan bagian tubuh -> kondisi -> perubahan. が sering men
 - Perhatikan apakah 髪 menjadi subjek keadaan atau objek tindakan.
 
 ## Mini Practice
+
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
 
 ::MiniPractice
 ---

@@ -22,12 +22,12 @@ tags:
 
 ## Tujuan
 
-Mengenali kata kerja dasar untuk menanyakan lama waktu, biaya, buka-tutup, menyalakan, mematikan, menelepon, dan kondisi tubuh.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata dasar yang sering muncul saat waktu, biaya, buka-tutup, nyala-mati, telepon, lapar, haus, dan kondisi tempat.
 
-Di akhir pelajaran ini, kamu bisa membaca kalimat seperti 10分かかります, ドアをあけます, 電気をつけます, dan おなかがすきました. Banyak kata hari ini membentuk pasangan, jadi partikel を dan が sangat penting.
+Fokus hari ini bukan hanya menghafal arti kata seperti かかる, あける, しめる, dan つける, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> を biasanya berarti seseorang melakukan aksi pada benda, sedangkan が sering menunjukkan keadaan benda itu sendiri.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -81,6 +81,10 @@ Kata hari ini banyak berupa pasangan aksi dan keadaan. Kamu membuka pintu dengan
   <span>おなかがすく</span>
 </div>
 
+Bayangkan kamu sedang membaca atau mendengar situasi tentang waktu, biaya, dan kondisi: kata intinya bisa berupa かかる, あける, dan しめる; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
+
+
 ## Catatan Pemakaian
 
 - waktu/biaya: かかる dipakai untuk durasi dan uang, seperti 30分かかります.
@@ -121,6 +125,8 @@ Jangan memakai を pada のどがかわく dan おなかがすく. Keduanya mema
 
 ## Mini Practice
 
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
+
 ::MiniPractice
 ---
 question: "Perjalanan ke stasiun memakan waktu sepuluh menit."
@@ -134,7 +140,7 @@ explanation: "かかる dipakai untuk waktu atau biaya yang diperlukan."
 
 ::MiniPractice
 ---
-question: "Seseorang membuka pintu."
+question: "Saya membuka pintu."
 sentence: "ドアを____。"
 optionA: "あけます"
 optionB: "あきます"
@@ -145,7 +151,7 @@ explanation: "ドアを memakai を, jadi pilih あける: membuka sesuatu."
 
 ::MiniPractice
 ---
-question: "Lampunya dimatikan."
+question: "Saya mematikan lampu."
 sentence: "電気を____。"
 optionA: "けします"
 optionB: "つけます"
@@ -156,7 +162,7 @@ explanation: "電気をけす berarti mematikan lampu. 電気をつける berart
 
 ::MiniPractice
 ---
-question: "Menelepon ayah."
+question: "Saya menelepon ayah."
 sentence: "父に電話を____。"
 optionA: "かけます"
 optionB: "しめます"
@@ -167,7 +173,7 @@ explanation: "電話をかける berarti menelepon. 父に menunjukkan orang yan
 
 ::MiniPractice
 ---
-question: "Kondisi tubuh: lapar."
+question: "Saya lapar."
 sentence: "おなかが____。"
 optionA: "すきました"
 optionB: "かわきました"

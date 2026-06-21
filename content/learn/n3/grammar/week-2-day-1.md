@@ -1,6 +1,6 @@
 ---
 title: "うそばっかり！"
-description: "Belajar pola grammar N3 untuk membedakan hanya, bahkan, asalkan, dan penekanan justru dalam kalimat sehari-hari."
+description: "Belajar memahami grammar N3 untuk membedakan hanya, bahkan, asalkan, dan penekanan justru dalam kalimat sehari-hari."
 level: "N3"
 category: "grammar"
 topic: "うそばっかり！"
@@ -59,7 +59,7 @@ Alurnya bisa dibaca seperti ini: **jenis yang sama** memakai `ばかり`, **bata
 | Baru selesai | （Vた）ばかり | Apakah tindakan baru terjadi? |
 | Batasan | （N）しか + negatif | Apakah predikatnya negatif? |
 | Minimum | （N）さえ〜ば | Apakah satu syarat ini cukup? |
-| Penekanan | （N）こそ／（clause）からこそ | Apa yang sedang ditekankan? |
+| Penekanan | （N）こそ／（klausa）からこそ | Apa yang sedang ditekankan? |
 
 Di tabel ini, `（A）` adalah orang atau pihak yang menjadi topik/subjek kalimat, `（N）` adalah nomina atau frasa nomina, dan `（V）` adalah verba/kata kerja.
 
@@ -156,7 +156,7 @@ Di tabel ini, `（A）` adalah orang atau pihak yang menjadi topik/subjek kalima
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat. Perhatikan konteks, bentuk sebelum pola, dan nuansa kalimat sebelum memilih.
 
 ::MiniPractice
 ---

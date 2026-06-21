@@ -22,12 +22,12 @@ tags:
 
 ## Tujuan
 
-Mengenali kategori kosakata umum untuk mengatakan apa yang kamu suka, apa yang kamu inginkan, dan benda apa yang ada di sekitar rumah.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata dasar yang sering muncul saat menyebut musim, warna, tempat, olahraga, musik, buah, kendaraan, cuaca, alat makan, perabot, dan peralatan rumah.
 
-Di akhir pelajaran ini, kamu bisa membaca kalimat seperti 春がすきです, 赤いかばんがほしいです, dan つくえの上にコップがあります. Kata hari ini banyak berupa nama benda, jadi kelompokkan dulu sebelum menghafal.
+Fokus hari ini bukan hanya menghafal arti kata seperti きせつ, はる, なつ, dan あき, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> pakai が setelah benda yang disukai atau diinginkan: （N）がすきです dan （N）がほしいです.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -145,6 +145,10 @@ Kata hari ini dipakai untuk menjawab pertanyaan sederhana: musim apa yang kamu s
   <span>かぐ → ベッド／つくえ</span>
 </div>
 
+Bayangkan kamu sedang membaca atau mendengar situasi tentang musim, warna, tempat, dan benda: kata intinya bisa berupa きせつ, はる, dan なつ; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
+
+
 ## Catatan Pemakaian
 
 - kategori: きせつ, いろ, ところ, スポーツ, おんがく, くだもの, のりもの, てんき, しょっき, dan かぐ membantu mengelompokkan kata.
@@ -185,9 +189,11 @@ Jangan memakai を setelah benda yang disukai atau diinginkan dalam pola dasar. 
 
 ## Mini Practice
 
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
+
 ::MiniPractice
 ---
-question: "Menyatakan suka musim semi."
+question: "Saya suka musim semi."
 sentence: "春____すきです。"
 optionA: "が"
 optionB: "を"
@@ -209,7 +215,7 @@ explanation: "Tempat tujuan dengan 行きます memakai に."
 
 ::MiniPractice
 ---
-question: "Benda untuk makan nasi dengan sumpit."
+question: "Saya makan nasi dengan sumpit."
 sentence: "____でごはんを食べます。"
 optionA: "はし"
 optionB: "れいぞうこ"
@@ -220,7 +226,7 @@ explanation: "はし berarti sumpit. れいぞうこ berarti kulkas."
 
 ::MiniPractice
 ---
-question: "Peralatan untuk mendinginkan ruangan."
+question: "Saya menyalakan AC."
 sentence: "____をつけます。"
 optionA: "エアコン"
 optionB: "本だな"
@@ -231,7 +237,7 @@ explanation: "エアコンをつける berarti menyalakan AC. 本だな adalah r
 
 ::MiniPractice
 ---
-question: "Cuaca cerah."
+question: "Cuaca hari ini cerah."
 sentence: "今日の天気は____です。"
 optionA: "はれ"
 optionB: "ふね"

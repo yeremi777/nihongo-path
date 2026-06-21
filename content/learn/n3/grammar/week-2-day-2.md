@@ -1,6 +1,6 @@
 ---
 title: "事故などによる渋滞"
-description: "Belajar pola grammar N3 untuk mengatakan tentang, menurut, karena, oleh, dengan cara, dan tergantung pada secara tepat."
+description: "Belajar memahami grammar N3 untuk mengatakan tentang, menurut, karena, oleh, dengan cara, dan tergantung pada secara tepat."
 level: "N3"
 category: "grammar"
 topic: "事故などによる渋滞"
@@ -149,7 +149,7 @@ Di tabel ini, `（N）` adalah nomina atau frasa nomina, termasuk orang, tempat,
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat. Perhatikan konteks, bentuk sebelum pola, dan nuansa kalimat sebelum memilih.
 
 ::MiniPractice
 ---

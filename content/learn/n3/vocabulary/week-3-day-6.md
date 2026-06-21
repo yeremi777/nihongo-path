@@ -21,12 +21,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali kosakata N3 untuk Ayo bayar. Fokusnya adalah membaca kata sebagai bagian dari situasi nyata, bukan hanya menghafal arti satu per satu.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat membaca uang tunai, kartu, pembayaran, kembalian, dan pembagian biaya.
 
-Pelajaran ini membantu kamu melihat hubungan antara istilah utama, benda, tindakan, kondisi, dan pola partikel yang sering muncul dalam kalimat pendek sehari-hari.
+Fokus hari ini bukan hanya menghafal arti kata seperti レジ, おごり, 交通費, dan 勘定を済ませる, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca kata sebagai kelompok makna. Perhatikan apakah kata itu menunjuk benda/tempat, tindakan dengan partikel seperti を・が・に・で, atau kondisi yang menjelaskan keadaan.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -35,33 +35,33 @@ Pelajaran ini membantu kamu melihat hubungan antara istilah utama, benda, tindak
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| レジ | レジ | kasir; istilah dasar dalam topik hari ini. |
-| おごり | おごり | traktiran; noun form |
-| 交通費 | こうつうひ | biaya transportasi; istilah dasar dalam topik hari ini. |
+| レジ | レジ | kasir; sering muncul saat membaca uang tunai, kartu, pembayaran, kembalian, dan pembagian biaya. |
+| おごり | おごり | traktiran; bentuk nomina |
+| 交通費 | こうつうひ | biaya transportasi; sering muncul saat membaca uang tunai, kartu, pembayaran, kembalian, dan pembagian biaya. |
 
 ### Tindakan dan Pola
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
 | 勘定を済ませる | かんじょうをすませる | menyelesaikan pembayaran; 勘定 = bill/check |
-| 別々に払う | べつべつにはらう | bayar masing-masing; istilah dasar dalam topik hari ini. |
-| 割り勘にする | わりかんにする | patungan; bagi rata; istilah dasar dalam topik hari ini. |
-| おごる | おごる | membayari; mentraktir; istilah dasar dalam topik hari ini. |
-| 現金で払う | げんきんではらう | bayar tunai; istilah dasar dalam topik hari ini. |
-| （クレジット）カードで払う | （クレジット）カードではらう | bayar dengan kartu kredit; istilah dasar dalam topik hari ini. |
+| 別々に払う | べつべつにはらう | bayar masing-masing; sering muncul saat membaca uang tunai, kartu, pembayaran, kembalian, dan pembagian biaya. |
+| 割り勘にする | わりかんにする | patungan; bagi rata; sering muncul saat membaca uang tunai, kartu, pembayaran, kembalian, dan pembagian biaya. |
+| おごる | おごる | membayari; mentraktir; sering muncul saat membaca uang tunai, kartu, pembayaran, kembalian, dan pembagian biaya. |
+| 現金で払う | げんきんではらう | bayar tunai; sering muncul saat membaca uang tunai, kartu, pembayaran, kembalian, dan pembagian biaya. |
+| （クレジット）カードで払う | （クレジット）カードではらう | bayar dengan kartu kredit; sering muncul saat membaca uang tunai, kartu, pembayaran, kembalian, dan pembagian biaya. |
 | カードの有効期限を確認する | カードのゆうこうきげんをかくにんする | mengecek masa berlaku kartu; 有効期限 = expiration date |
 | （お）札をくずす | （お）さつをくずす | menukar uang besar; くずす here means make change |
-| （お）つりをもらう | （お）つりをもらう | menerima kembalian; istilah dasar dalam topik hari ini. |
-| レシート／領収書をもらう | レシート／りょうしゅうしょをもらう | meminta/menerima struk/kwitansi; 領収書 is more formal than レシート |
-| ぜいたくをする | ぜいたくをする | bermewah-mewahan; istilah dasar dalam topik hari ini. |
-| むだづかいをする | むだづかいをする | boros uang; istilah dasar dalam topik hari ini. |
+| （お）つりをもらう | （お）つりをもらう | menerima kembalian; sering muncul saat membaca uang tunai, kartu, pembayaran, kembalian, dan pembagian biaya. |
+| レシート／領収書をもらう | レシート／りょうしゅうしょをもらう | meminta/menerima struk/kwitansi; 領収書 lebih formal daripada レシート |
+| ぜいたくをする | ぜいたくをする | bermewah-mewahan; sering muncul saat membaca uang tunai, kartu, pembayaran, kembalian, dan pembagian biaya. |
+| むだづかいをする | むだづかいをする | boros uang; sering muncul saat membaca uang tunai, kartu, pembayaran, kembalian, dan pembagian biaya. |
 | 請求書が届く | せいきゅうしょがとどく | tagihan datang; 届く = arrive/reach |
-| 費用がかかる | ひようがかかる | memerlukan biaya; istilah dasar dalam topik hari ini. |
-| お金が足りる | おかねがたりる | uang cukup; istilah dasar dalam topik hari ini. |
+| 費用がかかる | ひようがかかる | memerlukan biaya; sering muncul saat membaca uang tunai, kartu, pembayaran, kembalian, dan pembagian biaya. |
+| お金が足りる | おかねがたりる | uang cukup; sering muncul saat membaca uang tunai, kartu, pembayaran, kembalian, dan pembagian biaya. |
 | 食費を節約する | しょくひをせつやくする | menghemat biaya makan; 節約する = economize/save |
 | むだを省く | むだをはぶく | menghilangkan pemborosan; 省く = omit/eliminate |
 | むだをなくす | むだをなくす | menghilangkan pemborosan; なくす = get rid of |
-| 貧乏になる | びんぼうになる | menjadi miskin; istilah dasar dalam topik hari ini. |
+| 貧乏になる | びんぼうになる | menjadi miskin; sering muncul saat membaca uang tunai, kartu, pembayaran, kembalian, dan pembagian biaya. |
 | （お）金持ちになる | （お）かねもちになる | menjadi kaya; 金持ち = rich person |
 | 貧しい生活 | まずしいせいかつ | hidup miskin/sederhana; 貧しい = poor |
 | 借金をする | しゃっきんをする | berutang; 借金 = debt |
@@ -70,8 +70,8 @@ Pelajaran ini membantu kamu melihat hubungan antara istilah utama, benda, tindak
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| お勘定をお願いします。 | おかんじょうをおねがいします。 | Tolong bon/tagihannya.; restaurant phrase |
-| 別々でお願いします。 | べつべつでおねがいします。 | Tolong bayar terpisah.; restaurant phrase |
+| お勘定をお願いします。 | おかんじょうをおねがいします。 | Tolong bon/tagihannya; ungkapan yang sering dipakai di restoran |
+| 別々でお願いします。 | べつべつでおねがいします。 | Tolong bayar terpisah; ungkapan yang sering dipakai di restoran |
 | 足りない | たりない | tidak cukup; kurang; negative of 足りる |
 
 ### Waktu dan Jadwal
@@ -95,7 +95,8 @@ Pelajaran ini membantu kamu melihat hubungan antara istilah utama, benda, tindak
   <span>（クレジット）カードで払う</span>
 </div>
 
-Kata-kata hari ini bisa dibaca sebagai alur: istilah utama untuk mengenali konteks, benda atau tempat yang menjadi objek, tindakan yang dilakukan, lalu kondisi atau hasil yang perlu diperhatikan. Saat membaca teks pendek, cari dulu kata inti seperti レジ, lalu lihat kata kerja dan partikelnya untuk memahami siapa melakukan apa.
+Bayangkan kamu sedang membaca atau mendengar situasi tentang membayar: kata intinya bisa berupa レジ, おごり, dan 交通費; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
 
 ## Catatan Pemakaian
 
@@ -120,48 +121,48 @@ Kata-kata hari ini bisa dibaca sebagai alur: istilah utama untuk mengenali konte
 | Pola | Arti praktis | Catatan membaca |
 |---|---|---|
 | 勘定を済ませる | menyelesaikan pembayaran | 勘定 = bill/check |
-| お勘定をお願いします。 | Tolong bon/tagihannya. | restaurant phrase |
-| 別々に払う | bayar masing-masing | istilah dasar dalam topik hari ini. |
-| 別々でお願いします。 | Tolong bayar terpisah. | restaurant phrase |
-| 割り勘にする | patungan; bagi rata | istilah dasar dalam topik hari ini. |
-| おごる | membayari; mentraktir | istilah dasar dalam topik hari ini. |
-| 現金で払う | bayar tunai | istilah dasar dalam topik hari ini. |
-| （クレジット）カードで払う | bayar dengan kartu kredit | istilah dasar dalam topik hari ini. |
+| お勘定をお願いします。 | Tolong bon/tagihannya. | ungkapan yang sering dipakai di restoran |
+| 別々に払う | bayar masing-masing | sering muncul saat membaca uang tunai, kartu, pembayaran, kembalian, dan pembagian biaya. |
+| 別々でお願いします。 | Tolong bayar terpisah. | ungkapan yang sering dipakai di restoran |
+| 割り勘にする | patungan; bagi rata | sering muncul saat membaca uang tunai, kartu, pembayaran, kembalian, dan pembagian biaya. |
+| おごる | membayari; mentraktir | sering muncul saat membaca uang tunai, kartu, pembayaran, kembalian, dan pembagian biaya. |
+| 現金で払う | bayar tunai | sering muncul saat membaca uang tunai, kartu, pembayaran, kembalian, dan pembagian biaya. |
+| （クレジット）カードで払う | bayar dengan kartu kredit | sering muncul saat membaca uang tunai, kartu, pembayaran, kembalian, dan pembagian biaya. |
 
-Gunakan tabel ini sebagai pegangan saat melihat kata dalam kalimat. Kata kerja dan frasa sering lebih mudah dipahami jika kamu membaca seluruh pola, bukan hanya satu kata.
+Perhatikan pola partikel: `を` menandai objek tindakan, `が` sering menandai keadaan, `に` menunjukkan tujuan atau arah, dan `で` menunjukkan alat, tempat, atau cara.
 
 ## Contoh Kalimat
 
 <div class="example-list">
-  <div><p class="jp">勘定を済ませる。</p><p>menyelesaikan pembayaran.</p></div>
-  <div><p class="jp">お勘定をお願いします。</p><p>Tolong bon/tagihannya.</p></div>
-  <div><p class="jp">別々に払う。</p><p>bayar masing-masing.</p></div>
-  <div><p class="jp">別々でお願いします。</p><p>Tolong bayar terpisah.</p></div>
-  <div><p class="jp">割り勘にする。</p><p>patungan; bagi rata.</p></div>
+  <div><p class="jp">食事が終わったので、レジで勘定を済ませました。</p><p>Karena makan sudah selesai, saya menyelesaikan pembayaran di kasir.</p></div>
+  <div><p class="jp">今日は人数が多いので、別々に払ってもいいですか。</p><p>Karena hari ini orangnya banyak, bolehkah kami bayar masing-masing?</p></div>
+  <div><p class="jp">友だちと食事に行くときは、よく割り勘にします。</p><p>Saat makan dengan teman, kami sering patungan.</p></div>
+  <div><p class="jp">細かいお金がないので、カードで払いました。</p><p>Karena tidak punya uang kecil, saya membayar dengan kartu.</p></div>
+  <div><p class="jp">ぜいたくをしすぎると、すぐにお金が足りなくなります。</p><p>Kalau terlalu bermewah-mewahan, uang cepat tidak cukup.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar
 
 | Pasangan | Cara membedakan |
 |---|---|
-| お勘定をお願いします。 / 別々に払う | お勘定をお願いします。 cocok untuk Tolong bon/tagihannya.; 別々に払う cocok untuk bayar masing-masing. Bedakan dari kata sekitar dan pola partikel yang muncul. |
-| 別々に払う / 別々でお願いします。 | 別々に払う cocok untuk bayar masing-masing; 別々でお願いします。 cocok untuk Tolong bayar terpisah. Bedakan dari kata sekitar dan pola partikel yang muncul. |
-| おごる / おごり | おごる cocok untuk membayari; mentraktir; おごり cocok untuk traktiran. Bedakan dari kata sekitar dan pola partikel yang muncul. |
-| おごり / 現金で払う | おごり cocok untuk traktiran; 現金で払う cocok untuk bayar tunai. Bedakan dari kata sekitar dan pola partikel yang muncul. |
+| お勘定をお願いします。 / 別々に払う | お勘定をお願いします。 cocok untuk Tolong bon/tagihannya; 別々に払う cocok untuk bayar masing-masing. Gunakan kata sekitar dan partikel sebagai petunjuk. |
+| 別々に払う / 別々でお願いします。 | 別々に払う cocok untuk bayar masing-masing; 別々でお願いします。 cocok untuk Tolong bayar terpisah. Gunakan kata sekitar dan partikel sebagai petunjuk. |
+| おごる / おごり | おごる cocok untuk membayari; mentraktir; おごり cocok untuk traktiran. Gunakan kata sekitar dan partikel sebagai petunjuk. |
+| おごり / 現金で払う | おごり cocok untuk traktiran; 現金で払う cocok untuk bayar tunai. Gunakan kata sekitar dan partikel sebagai petunjuk. |
 
 ## Kesalahan Umum
 
-Jangan memilih kata hanya karena terjemahannya mirip. Untuk kosakata N3, yang sering menentukan makna adalah pasangan katanya: objek dengan を, keadaan dengan が, tujuan dengan に, atau alat/tempat dengan で.
+Jangan menerjemahkan kata satu per satu tanpa melihat frasa lengkap. Banyak kata terlihat mirip dalam bahasa Indonesia, tetapi berbeda saat dipasangkan dengan partikel, benda, atau kata kerja tertentu.
 
-Strategi cepat: baca satu frasa penuh dulu, lalu baru cocokkan arti. Jika kata berupa frasa kerja, hafalkan bersama partikelnya.
+Strategi cepat: cari dulu kata intinya, lalu cek partikel dan kata kerja di dekatnya. Jika bentuknya frasa kerja, hafalkan bersama pasangan katanya, bukan sebagai kata tunggal.
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
 
 ::MiniPractice
 ---
-question: "Di restoran, kamu meminta bon."
+question: "Permisi, saya minta tagihannya."
 sentence: "すみません、____。"
 optionA: "お勘定をお願いします"
 optionB: "別々に払います"
@@ -172,7 +173,7 @@ explanation: "お勘定をお願いします benar. Ini frasa langsung untuk mem
 
 ::MiniPractice
 ---
-question: "Setiap orang membayar bagian masing-masing."
+question: "Hari ini mari bayar masing-masing."
 sentence: "今日は____。"
 optionA: "割り勘にしましょう"
 optionB: "おごりましょう"

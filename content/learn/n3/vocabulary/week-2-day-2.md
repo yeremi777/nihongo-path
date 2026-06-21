@@ -21,12 +21,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali kosakata N3 untuk Ayo naik kereta ①. Fokusnya adalah membaca kata sebagai bagian dari situasi nyata, bukan hanya menghafal arti satu per satu.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat membaca arah kereta, tiket, kursi, peron, jadwal, dan pengumuman stasiun.
 
-Pelajaran ini membantu kamu melihat hubungan antara istilah utama, benda, tindakan, kondisi, dan pola partikel yang sering muncul dalam kalimat pendek sehari-hari.
+Fokus hari ini bukan hanya menghafal arti kata seperti 窓側, 通路側, 上り電車, dan 下り電車, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca kata sebagai kelompok makna. Perhatikan apakah kata itu menunjuk benda/tempat, tindakan dengan partikel seperti を・が・に・で, atau kondisi yang menjelaskan keadaan.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -35,31 +35,31 @@ Pelajaran ini membantu kamu melihat hubungan antara istilah utama, benda, tindak
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| 窓側 | まどがわ | sisi jendela; kursi dekat jendela; dalam kereta/pesawat, often means window seat |
+| 窓側 | まどがわ | sisi jendela; kursi dekat jendela; dalam kereta/pesawat, sering berarti kursi dekat jendela |
 | 通路側 | つうろがわ | sisi lorong; kursi dekat lorong; lawan kata of 窓側 |
 | 上り電車 | のぼりでんしゃ | kereta menuju pusat/kota besar; sering menuju Tokyo or a major city |
 | 下り電車 | くだりでんしゃ | kereta keluar dari pusat/kota besar; lawan kata of 上り電車 |
-| 車掌 | しゃしょう | kondektur kereta; staff who checks tickets and makes announcements |
-| 乗車券 | じょうしゃけん | tiket kereta/bus; basic boarding ticket |
+| 車掌 | しゃしょう | kondektur kereta; petugas yang memeriksa tiket dan memberi pengumuman |
+| 乗車券 | じょうしゃけん | tiket kereta/bus; tiket dasar untuk naik kendaraan |
 | 片道切符 | かたみちきっぷ | tiket sekali jalan; 片道 = one way |
 | 往復切符 | おうふくきっぷ | tiket pulang-pergi; 往復 = go and return |
-| 特急券 | とっきゅうけん | tiket kereta ekspres khusus; often separate from base fare |
-| 特急料金 | とっきゅうりょうきん | biaya kereta ekspres khusus; extra fee for limited express service |
+| 特急券 | とっきゅうけん | tiket kereta ekspres khusus; sering terpisah dari tiket dasar |
+| 特急料金 | とっきゅうりょうきん | biaya kereta ekspres khusus; biaya tambahan untuk layanan kereta ekspres khusus |
 | 回数券 | かいすうけん | tiket kupon; tiket diskon beberapa kali pakai; bought in sets |
-| 定期券 | ていきけん | kartu langganan perjalanan; often shortened to 定期 |
+| 定期券 | ていきけん | kartu langganan perjalanan; sering dipendekkan menjadi 定期 |
 
 ### Tindakan dan Pola
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
 | 上る | のぼる | naik; mendaki; dipakai untuk stairs, slopes, and moving upward |
-| 上がる | あがる | naik; meningkat; intransitif; result/state rises |
-| 下る | くだる | turun; menuju jauh dari pusat; also used for outbound trains |
+| 上がる | あがる | naik; meningkat; intransitif; menunjukkan hasil atau keadaan yang naik |
+| 下る | くだる | turun; menuju jauh dari pusat; juga dipakai untuk kereta yang menjauh dari pusat |
 | 下りる | おりる | turun; turun dari kendaraan; juga bisa ditulis 降りる for getting off a vehicle |
-| エスカレーターの上り | エスカレーターののぼり | eskalator naik; 上り = upward direction |
-| エスカレーターの下り | エスカレーターのくだり | eskalator turun; 下り = downward direction |
-| 東京方面行き | とうきょうほうめんいき | menuju arah Tokyo; 行き may also be read ゆき in station contexts |
-| 青森方面行き | あおもりほうめんいき | menuju arah Aomori; 方面 = direction/area |
+| エスカレーターの上り | エスカレーターののぼり | eskalator naik; 上り = arah naik |
+| エスカレーターの下り | エスカレーターのくだり | eskalator turun; 下り = arah turun |
+| 東京方面行き | とうきょうほうめんいき | menuju arah Tokyo; di konteks stasiun, 行き juga bisa dibaca ゆき |
+| 青森方面行き | あおもりほうめんいき | menuju arah Aomori; 方面 = arah atau area |
 | 列車の時刻を調べる | れっしゃのじこくをしらべる | mengecek jadwal kereta; 時刻 = specific time |
 | 東京発横浜行き | とうきょうはつよこはまいき | berangkat dari Tokyo menuju Yokohama; 発 = departing from; 行き = bound for |
 | 座席を指定する | ざせきをしていする | memesan/menentukan kursi; 指定する = designate/specify |
@@ -71,12 +71,12 @@ Pelajaran ini membantu kamu melihat hubungan antara istilah utama, benda, tindak
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
 | 階段 | かいだん | tangga; use 階段を上る／下りる |
-| 時刻表 | じこくひょう | jadwal; tabel waktu; dipakai untuk trains/buses |
-| 私鉄 | してつ | jalur kereta swasta; lawan kata of JR/public lines in context |
+| 時刻表 | じこくひょう | jadwal; tabel waktu; dipakai untuk kereta atau bus |
+| 私鉄 | してつ | jalur kereta swasta; lawan dari JR atau jalur umum dalam konteks ini |
 | 新幹線 | しんかんせん | kereta cepat Shinkansen; high-speed rail |
 | 指定席 | していせき | kursi reservasi; seat assigned in advance |
 | 自由席 | じゆうせき | kursi bebas; tanpa reservasi; no assigned seat |
-| 払い戻し | はらいもどし | pengembalian uang; noun form of 払い戻す |
+| 払い戻し | はらいもどし | pengembalian uang; bentuk nomina of 払い戻す |
 
 ## Peta Kata
 
@@ -93,7 +93,8 @@ Pelajaran ini membantu kamu melihat hubungan antara istilah utama, benda, tindak
   <span>上り電車</span>
 </div>
 
-Kata-kata hari ini bisa dibaca sebagai alur: istilah utama untuk mengenali konteks, benda atau tempat yang menjadi objek, tindakan yang dilakukan, lalu kondisi atau hasil yang perlu diperhatikan. Saat membaca teks pendek, cari dulu kata inti seperti 窓側, lalu lihat kata kerja dan partikelnya untuk memahami siapa melakukan apa.
+Bayangkan kamu sedang membaca atau mendengar situasi tentang naik kereta (1): kata intinya bisa berupa 窓側, 通路側, dan 上り電車; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
 
 ## Catatan Pemakaian
 
@@ -118,44 +119,44 @@ Kata-kata hari ini bisa dibaca sebagai alur: istilah utama untuk mengenali konte
 | Pola | Arti praktis | Catatan membaca |
 |---|---|---|
 | 上る | naik; mendaki | dipakai untuk stairs, slopes, and moving upward |
-| 上がる | naik; meningkat | intransitif; result/state rises |
-| 下る | turun; menuju jauh dari pusat | also used for outbound trains |
+| 上がる | naik; meningkat | intransitif; menunjukkan hasil atau keadaan yang naik |
+| 下る | turun; menuju jauh dari pusat | juga dipakai untuk kereta yang menjauh dari pusat |
 | 下りる | turun; turun dari kendaraan | juga bisa ditulis 降りる for getting off a vehicle |
-| エスカレーターの上り | eskalator naik | 上り = upward direction |
-| エスカレーターの下り | eskalator turun | 下り = downward direction |
-| 東京方面行き | menuju arah Tokyo | 行き may also be read ゆき in station contexts |
-| 青森方面行き | menuju arah Aomori | 方面 = direction/area |
+| エスカレーターの上り | eskalator naik | 上り = arah naik |
+| エスカレーターの下り | eskalator turun | 下り = arah turun |
+| 東京方面行き | menuju arah Tokyo | di konteks stasiun, 行き juga bisa dibaca ゆき |
+| 青森方面行き | menuju arah Aomori | 方面 = arah atau area |
 
-Gunakan tabel ini sebagai pegangan saat melihat kata dalam kalimat. Kata kerja dan frasa sering lebih mudah dipahami jika kamu membaca seluruh pola, bukan hanya satu kata.
+Perhatikan pola partikel: `を` menandai objek tindakan, `が` sering menandai keadaan, `に` menunjukkan tujuan atau arah, dan `で` menunjukkan alat, tempat, atau cara.
 
 ## Contoh Kalimat
 
 <div class="example-list">
-  <div><p class="jp">上る。</p><p>naik; mendaki.</p></div>
-  <div><p class="jp">上がる。</p><p>naik; meningkat.</p></div>
-  <div><p class="jp">下る。</p><p>turun; menuju jauh dari pusat.</p></div>
-  <div><p class="jp">下りる。</p><p>turun; turun dari kendaraan.</p></div>
-  <div><p class="jp">列車の時刻を調べる。</p><p>mengecek jadwal kereta.</p></div>
+  <div><p class="jp">窓側の席が空いていたので、そこに座りました。</p><p>Karena kursi dekat jendela kosong, saya duduk di sana.</p></div>
+  <div><p class="jp">東京方面行きの上り電車は、三番線から出ます。</p><p>Kereta naik menuju arah Tokyo berangkat dari jalur tiga.</p></div>
+  <div><p class="jp">駅に着いたら、まず列車の時刻を調べましょう。</p><p>Setelah sampai di stasiun, mari cek jadwal kereta dulu.</p></div>
+  <div><p class="jp">指定席にしたいので、座席を指定しました。</p><p>Karena ingin kursi reservasi, saya menentukan kursinya.</p></div>
+  <div><p class="jp">使わない切符は、窓口で払い戻すことができます。</p><p>Tiket yang tidak dipakai bisa dikembalikan uangnya di loket.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar
 
 | Pasangan | Cara membedakan |
 |---|---|
-| 通路側 / 上る | 通路側 cocok untuk sisi lorong; kursi dekat lorong; 上る cocok untuk naik; mendaki. Bedakan dari kata sekitar dan pola partikel yang muncul. |
-| 上る / 上がる | 上る cocok untuk naik; mendaki; 上がる cocok untuk naik; meningkat. Bedakan dari kata sekitar dan pola partikel yang muncul. |
-| 上がる / 下る | 上がる cocok untuk naik; meningkat; 下る cocok untuk turun; menuju jauh dari pusat. Bedakan dari kata sekitar dan pola partikel yang muncul. |
-| 下る / 下りる | 下る cocok untuk turun; menuju jauh dari pusat; 下りる cocok untuk turun; turun dari kendaraan. Bedakan dari kata sekitar dan pola partikel yang muncul. |
+| 通路側 / 上る | 通路側 cocok untuk sisi lorong; kursi dekat lorong; 上る cocok untuk naik; mendaki. Gunakan kata sekitar dan partikel sebagai petunjuk. |
+| 上る / 上がる | 上る cocok untuk naik; mendaki; 上がる cocok untuk naik; meningkat. Gunakan kata sekitar dan partikel sebagai petunjuk. |
+| 上がる / 下る | 上がる cocok untuk naik; meningkat; 下る cocok untuk turun; menuju jauh dari pusat. Gunakan kata sekitar dan partikel sebagai petunjuk. |
+| 下る / 下りる | 下る cocok untuk turun; menuju jauh dari pusat; 下りる cocok untuk turun; turun dari kendaraan. Gunakan kata sekitar dan partikel sebagai petunjuk. |
 
 ## Kesalahan Umum
 
-Jangan memilih kata hanya karena terjemahannya mirip. Untuk kosakata N3, yang sering menentukan makna adalah pasangan katanya: objek dengan を, keadaan dengan が, tujuan dengan に, atau alat/tempat dengan で.
+Jangan menerjemahkan kata satu per satu tanpa melihat frasa lengkap. Banyak kata terlihat mirip dalam bahasa Indonesia, tetapi berbeda saat dipasangkan dengan partikel, benda, atau kata kerja tertentu.
 
-Strategi cepat: baca satu frasa penuh dulu, lalu baru cocokkan arti. Jika kata berupa frasa kerja, hafalkan bersama partikelnya.
+Strategi cepat: cari dulu kata intinya, lalu cek partikel dan kata kerja di dekatnya. Jika bentuknya frasa kerja, hafalkan bersama pasangan katanya, bukan sebagai kata tunggal.
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
 
 ::MiniPractice
 ---
@@ -203,7 +204,7 @@ explanation: "ホーム benar. Kereta berangkat dari platform; 改札口 adalah 
 
 ::MiniPractice
 ---
-question: "Kereta menuju pusat kota dipilih."
+question: "Saya naik kereta ke arah Tokyo."
 sentence: "東京方面の____に乗る。"
 optionA: "上り電車"
 optionB: "下り電車"

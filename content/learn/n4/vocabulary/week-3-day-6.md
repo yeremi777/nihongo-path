@@ -22,10 +22,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali kosakata dasar untuk 丁寧な話し方, 尊敬語, dan 謙譲語. Fokusnya bukan menguasai semua keigo, tetapi membaca kata-kata penting yang sering muncul di toko, restoran, kantor, atau percakapan formal.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat bahasa sopan dasar, sonkeigo, kenjougo, ungkapan restoran, dan cara berbicara yang hati-hati.
+
+Fokus hari ini bukan hanya menghafal arti kata seperti 丁寧な, 丁寧な話し方, 尊敬する, dan 遠慮する, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> 尊敬語 menaikkan pihak lawan bicara, sedangkan 謙譲語 merendahkan sisi pembicara untuk menunjukkan hormat.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -77,6 +79,10 @@ Di akhir pelajaran ini, kamu bisa mengenali kosakata dasar untuk 丁寧な話し
   <span>申す</span>
   <span>頂く</span>
 </div>
+
+Bayangkan kamu sedang membaca atau mendengar situasi tentang bahasa sopan dasar: kata intinya bisa berupa 丁寧な, 丁寧な話し方, dan 尊敬する; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
+
 
 Peta keigo hari ini terbagi dua arah: saat membicarakan tindakan orang lain, gunakan bentuk 尊敬語 seperti ご覧になる dan 召し上がる. Saat membicarakan tindakan diri sendiri dengan sopan, gunakan 謙譲語 seperti 申す, 伺う, 拝見する, dan 頂く.
 
@@ -136,7 +142,7 @@ Di restoran, こちらでお召し上がりですか adalah pertanyaan kepada pe
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
 
 ::MiniPractice
 ---
@@ -184,7 +190,7 @@ explanation: "伺います benar untuk tindakan pembicara berkunjung dengan rend
 
 ::MiniPractice
 ---
-question: "Di restoran: makan di sini?"
+question: "Apakah Anda makan di sini?"
 sentence: "こちらで____ですか。"
 optionA: "お召し上がり"
 optionB: "お持ち帰り"

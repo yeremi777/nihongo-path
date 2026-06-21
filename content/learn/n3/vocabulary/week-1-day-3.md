@@ -21,12 +21,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali kosakata N3 untuk Ayo memasak — bumbu dan rasa. Fokusnya adalah membaca kata sebagai bagian dari situasi nyata, bukan hanya menghafal arti satu per satu.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat membaca bahan, alat, takaran, langkah persiapan, dan instruksi memasak sederhana.
 
-Pelajaran ini membantu kamu melihat hubungan antara istilah utama, benda, tindakan, kondisi, dan pola partikel yang sering muncul dalam kalimat pendek sehari-hari.
+Fokus hari ini bukan hanya menghafal arti kata seperti なべ, フライパン, ふた, dan おたま, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca kata sebagai kelompok makna. Perhatikan apakah kata itu menunjuk benda/tempat, tindakan dengan partikel seperti を・が・に・で, atau kondisi yang menjelaskan keadaan.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -36,18 +36,18 @@ Pelajaran ini membantu kamu melihat hubungan antara istilah utama, benda, tindak
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
 | なべ | なべ | panci; juga bisa ditulis 鍋 |
-| フライパン | フライパン | wajan datar / teflon; istilah dasar dalam topik hari ini. |
+| フライパン | フライパン | wajan datar / teflon; sering muncul saat membaca bahan, alat, takaran, langkah persiapan, dan instruksi memasak sederhana. |
 
 ### Istilah Utama
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
 | ふた | ふた | tutup panci; juga bisa ditulis 蓋 |
-| おたま | おたま | sendok sayur; istilah dasar dalam topik hari ini. |
+| おたま | おたま | sendok sayur; sering muncul saat membaca bahan, alat, takaran, langkah persiapan, dan instruksi memasak sederhana. |
 | フライ返し | フライがえし | spatula; 返し from 返す |
-| 炊飯器 | すいはんき | penanak nasi; istilah dasar dalam topik hari ini. |
-| しゃもじ | しゃもじ | centong nasi; istilah dasar dalam topik hari ini. |
-| できあがり | できあがり | hasil jadi / selesai; often used after finishing food |
+| 炊飯器 | すいはんき | penanak nasi; sering muncul saat membaca bahan, alat, takaran, langkah persiapan, dan instruksi memasak sederhana. |
+| しゃもじ | しゃもじ | centong nasi; sering muncul saat membaca bahan, alat, takaran, langkah persiapan, dan instruksi memasak sederhana. |
+| できあがり | できあがり | hasil jadi / selesai; sering dipakai setelah masakan selesai |
 
 ### Tindakan dan Pola
 
@@ -55,27 +55,27 @@ Pelajaran ini membantu kamu melihat hubungan antara istilah utama, benda, tindak
 |---|---|---|
 | お湯を沸かす | おゆをわかす | merebus air; 沸かす memakai を |
 | お湯が沸く | おゆがわく | air mendidih; 沸く memakai が |
-| お湯を冷ます | おゆをさます | mendinginkan air panas; 冷ます = make/let something cool |
-| お湯が冷める | おゆがさめる | air panas menjadi dingin; 冷める = become cool |
+| お湯を冷ます | おゆをさます | mendinginkan air panas; 冷ます berarti membuat atau membiarkan sesuatu menjadi dingin |
+| お湯が冷める | おゆがさめる | air panas menjadi dingin; 冷める berarti menjadi dingin |
 | なべを火にかける | なべをひにかける | menaruh panci di atas api; 火にかける = put on heat |
-| 水を切る | みずをきる | meniriskan air; 切る can mean remove/drain |
-| ご飯を炊く | ごはんをたく | menanak nasi; 炊く is used for rice |
-| 混ぜる | まぜる | mencampur; perhatikan pola partikel saat dipakai dalam kalimat. |
+| 水を切る | みずをきる | meniriskan air; 切る bisa berarti membuang atau meniriskan |
+| ご飯を炊く | ごはんをたく | menanak nasi; 炊く dipakai untuk menanak nasi |
+| 混ぜる | まぜる | mencampur; baca bersama objek dan partikelnya. |
 | 油を熱する | あぶらをねっする | memanaskan minyak; 熱する = heat something |
-| こげる | こげる | gosong; food becomes burnt |
+| こげる | こげる | gosong; makanan menjadi gosong |
 | 油で揚げる | あぶらであげる | menggoreng deep-fry; 揚げる = fry in oil |
-| 煮る | にる | merebus / memasak berkuah; often with broth/sauce |
-| ゆでる | ゆでる | merebus; usually in water |
+| 煮る | にる | merebus / memasak berkuah; sering dipakai untuk masakan berkuah atau bersaus |
+| ゆでる | ゆでる | merebus; biasanya di dalam air |
 | いためる | いためる | menumis; juga bisa ditulis 炒める |
-| 蒸す | むす | mengukus; perhatikan pola partikel saat dipakai dalam kalimat. |
-| ひっくり返す | ひっくりかえす | membalik; casual/common |
-| 裏返す | うらがえす | membalik; more literal: reverse side |
+| 蒸す | むす | mengukus; baca bersama objek dan partikelnya. |
+| ひっくり返す | ひっくりかえす | membalik; kasual dan umum dipakai |
+| 裏返す | うらがえす | membalik; lebih harfiah: sisi belakang dibuat menghadap luar |
 | 味をつける | あじをつける | memberi rasa / membumbui; 味 = taste/flavor |
 | 塩を加える | しおをくわえる | menambahkan garam; 加える = add |
 | こしょうを振る | こしょうをふる | menaburkan lada; 振る = shake/sprinkle |
-| 味見をする | あじみをする | mencicipi; check flavor while cooking |
+| 味見をする | あじみをする | mencicipi; mengecek rasa saat memasak |
 | 味を見る | あじをみる | mencicipi rasa; mirip dengan 味見をする |
-| できあがる | できあがる | selesai / jadi; dipakai saat cooking/product is done |
+| できあがる | できあがる | selesai / jadi; dipakai saat masakan atau hasil kerja sudah selesai |
 
 ### Sifat dan Kondisi
 
@@ -83,9 +83,9 @@ Pelajaran ini membantu kamu melihat hubungan antara istilah utama, benda, tindak
 |---|---|---|
 | 味が濃い | あじがこい | rasanya kuat / pekat; 濃い = strong/thick/dense |
 | 味が薄い | あじがうすい | rasanya hambar / kurang kuat; 薄い = weak/thin/light |
-| からい | からい | pedas / asin kuat; context decides spicy or salty |
-| 塩からい | しおからい | asin; stronger than just 塩味 |
-| すっぱい | すっぱい | asam; istilah dasar dalam topik hari ini. |
+| からい | からい | pedas / asin kuat; konteks menentukan apakah artinya pedas atau asin kuat |
+| 塩からい | しおからい | asin; lebih kuat daripada sekadar 塩味 |
+| すっぱい | すっぱい | asam; sering muncul saat membaca bahan, alat, takaran, langkah persiapan, dan instruksi memasak sederhana. |
 
 ## Peta Kata
 
@@ -102,7 +102,8 @@ Pelajaran ini membantu kamu melihat hubungan antara istilah utama, benda, tindak
   <span>お湯を冷ます</span>
 </div>
 
-Kata-kata hari ini bisa dibaca sebagai alur: istilah utama untuk mengenali konteks, benda atau tempat yang menjadi objek, tindakan yang dilakukan, lalu kondisi atau hasil yang perlu diperhatikan. Saat membaca teks pendek, cari dulu kata inti seperti なべ, lalu lihat kata kerja dan partikelnya untuk memahami siapa melakukan apa.
+Bayangkan kamu sedang membaca atau mendengar situasi tentang mari memasak (2): kata intinya bisa berupa なべ, フライパン, dan ふた; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
 
 ## Catatan Pemakaian
 
@@ -128,47 +129,47 @@ Kata-kata hari ini bisa dibaca sebagai alur: istilah utama untuk mengenali konte
 |---|---|---|
 | お湯を沸かす | merebus air | 沸かす memakai を |
 | お湯が沸く | air mendidih | 沸く memakai が |
-| お湯を冷ます | mendinginkan air panas | 冷ます = make/let something cool |
-| お湯が冷める | air panas menjadi dingin | 冷める = become cool |
+| お湯を冷ます | mendinginkan air panas | 冷ます berarti membuat atau membiarkan sesuatu menjadi dingin |
+| お湯が冷める | air panas menjadi dingin | 冷める berarti menjadi dingin |
 | なべを火にかける | menaruh panci di atas api | 火にかける = put on heat |
-| 水を切る | meniriskan air | 切る can mean remove/drain |
-| ご飯を炊く | menanak nasi | 炊く is used for rice |
-| 混ぜる | mencampur | perhatikan pola partikel saat dipakai dalam kalimat. |
+| 水を切る | meniriskan air | 切る bisa berarti membuang atau meniriskan |
+| ご飯を炊く | menanak nasi | 炊く dipakai untuk menanak nasi |
+| 混ぜる | mencampur | baca bersama objek dan partikelnya. |
 
-Gunakan tabel ini sebagai pegangan saat melihat kata dalam kalimat. Kata kerja dan frasa sering lebih mudah dipahami jika kamu membaca seluruh pola, bukan hanya satu kata.
+Perhatikan pola partikel: `を` menandai objek tindakan, `が` sering menandai keadaan, `に` menunjukkan tujuan atau arah, dan `で` menunjukkan alat, tempat, atau cara.
 
 ## Contoh Kalimat
 
 <div class="example-list">
-  <div><p class="jp">お湯を沸かす。</p><p>merebus air.</p></div>
-  <div><p class="jp">お湯が沸く。</p><p>air mendidih.</p></div>
-  <div><p class="jp">お湯を冷ます。</p><p>mendinginkan air panas.</p></div>
-  <div><p class="jp">お湯が冷める。</p><p>air panas menjadi dingin.</p></div>
-  <div><p class="jp">なべを火にかける。</p><p>menaruh panci di atas api.</p></div>
+  <div><p class="jp">お茶を入れるので、お湯を沸かしておいてください。</p><p>Saya akan membuat teh, jadi tolong didihkan air panasnya dulu.</p></div>
+  <div><p class="jp">お湯が沸いたら、火を弱くしてください。</p><p>Kalau air panasnya sudah mendidih, kecilkan apinya.</p></div>
+  <div><p class="jp">熱すぎるので、少しお湯を冷ましてから飲みましょう。</p><p>Karena terlalu panas, mari dinginkan sedikit air panasnya sebelum diminum.</p></div>
+  <div><p class="jp">ゆでた野菜は、ざるに入れて水を切ります。</p><p>Sayuran yang sudah direbus dimasukkan ke saringan lalu ditiriskan.</p></div>
+  <div><p class="jp">フライパンで肉をいためてから、野菜を加えます。</p><p>Tumis daging di wajan dulu, lalu tambahkan sayuran.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar
 
 | Pasangan | Cara membedakan |
 |---|---|
-| フライパン / フライ返し | フライパン cocok untuk wajan datar / teflon; フライ返し cocok untuk spatula. Bedakan dari kata sekitar dan pola partikel yang muncul. |
-| お湯を沸かす / お湯が沸く | お湯を沸かす cocok untuk merebus air; お湯が沸く cocok untuk air mendidih. Bedakan dari kata sekitar dan pola partikel yang muncul. |
-| お湯が沸く / お湯を冷ます | お湯が沸く cocok untuk air mendidih; お湯を冷ます cocok untuk mendinginkan air panas. Bedakan dari kata sekitar dan pola partikel yang muncul. |
-| お湯を冷ます / お湯が冷める | お湯を冷ます cocok untuk mendinginkan air panas; お湯が冷める cocok untuk air panas menjadi dingin. Bedakan dari kata sekitar dan pola partikel yang muncul. |
+| フライパン / フライ返し | フライパン cocok untuk wajan datar / teflon; フライ返し cocok untuk spatula. Gunakan kata sekitar dan partikel sebagai petunjuk. |
+| お湯を沸かす / お湯が沸く | お湯を沸かす cocok untuk merebus air; お湯が沸く cocok untuk air mendidih. Gunakan kata sekitar dan partikel sebagai petunjuk. |
+| お湯が沸く / お湯を冷ます | お湯が沸く cocok untuk air mendidih; お湯を冷ます cocok untuk mendinginkan air panas. Gunakan kata sekitar dan partikel sebagai petunjuk. |
+| お湯を冷ます / お湯が冷める | お湯を冷ます cocok untuk mendinginkan air panas; お湯が冷める cocok untuk air panas menjadi dingin. Gunakan kata sekitar dan partikel sebagai petunjuk. |
 
 ## Kesalahan Umum
 
-Jangan memilih kata hanya karena terjemahannya mirip. Untuk kosakata N3, yang sering menentukan makna adalah pasangan katanya: objek dengan を, keadaan dengan が, tujuan dengan に, atau alat/tempat dengan で.
+Jangan menerjemahkan kata satu per satu tanpa melihat frasa lengkap. Banyak kata terlihat mirip dalam bahasa Indonesia, tetapi berbeda saat dipasangkan dengan partikel, benda, atau kata kerja tertentu.
 
-Strategi cepat: baca satu frasa penuh dulu, lalu baru cocokkan arti. Jika kata berupa frasa kerja, hafalkan bersama partikelnya.
+Strategi cepat: cari dulu kata intinya, lalu cek partikel dan kata kerja di dekatnya. Jika bentuknya frasa kerja, hafalkan bersama pasangan katanya, bukan sebagai kata tunggal.
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
 
 ::MiniPractice
 ---
-question: "Air belum mendidih, jadi kamu merebusnya."
+question: "Saya merebus air panas."
 sentence: "お湯を____。"
 optionA: "沸かす"
 optionB: "沸く"
@@ -179,7 +180,7 @@ explanation: "沸かす benar. を menunjukkan seseorang membuat air mendidih."
 
 ::MiniPractice
 ---
-question: "Airnya sudah mendidih sendiri."
+question: "Air panasnya sudah mendidih."
 sentence: "お湯が____。"
 optionA: "沸く"
 optionB: "沸かす"
@@ -201,7 +202,7 @@ explanation: "フライパン benar. フライ返し adalah spatula, bukan wadah
 
 ::MiniPractice
 ---
-question: "Api terlalu kecil, jadi diperkuat."
+question: "Saya memperbesar apinya."
 sentence: "火を____。"
 optionA: "強める"
 optionB: "弱火にする"

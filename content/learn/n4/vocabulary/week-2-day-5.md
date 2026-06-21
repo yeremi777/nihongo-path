@@ -22,12 +22,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membedakan adverbia N4 seperti きっと, やっと, ずっと, さっき, 最近, もうすぐ, 必ず, たいてい, ずいぶん, dan やっぱり.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat Belajar kosakata N4 berupa adverbia untuk dugaan, akhirnya, durasi, waktu dekat, kebiasaan, perubahan, dan keputusan ulang.
 
-Adverbia ini penting karena mengubah rasa kalimat: dugaan kuat, hasil setelah menunggu, kebiasaan, perubahan yang terasa besar, atau keputusan yang berubah.
+Fokus hari ini bukan hanya menghafal arti kata seperti きっと, きっと合格するでしょう, やっと, dan やっとバスが来た, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> きっと adalah dugaan kuat, 必ず adalah "pasti/tanpa gagal" untuk janji atau instruksi, dan やっと selalu terasa ada usaha atau menunggu.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -84,6 +84,10 @@ Adverbia ini penting karena mengubah rasa kalimat: dugaan kuat, hasil setelah me
   <span>やっぱり</span>
 </div>
 
+Bayangkan kamu sedang membaca atau mendengar situasi tentang kata keterangan waktu dan nuansa: kata intinya bisa berupa きっと, きっと合格するでしょう, dan やっと; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
+
+
 Peta waktunya: さっき baru saja terjadi, 最近 menggambarkan belakangan ini, もうすぐ menuju masa depan dekat, ずっと menunjukkan durasi panjang, やっと menunjukkan akhir setelah menunggu, dan きっと／必ず／やっぱり memberi nuansa keyakinan atau keputusan.
 
 ## Catatan Pemakaian
@@ -138,7 +142,7 @@ Jangan memakai やっと untuk kejadian yang belum terjadi. Untuk "sebentar lagi
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
 
 ::MiniPractice
 ---
@@ -186,7 +190,7 @@ explanation: "もうすぐ benar karena kejadian akan terjadi dalam waktu dekat.
 
 ::MiniPractice
 ---
-question: "Akhirnya saya pilih kue saja."
+question: "Akhirnya saya memilih kue saja."
 sentence: "____ケーキにします。"
 optionA: "やっぱり"
 optionB: "最近"

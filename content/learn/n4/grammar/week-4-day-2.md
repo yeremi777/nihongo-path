@@ -1,6 +1,6 @@
 ---
 title: "明日は天気がよさそうです。"
-description: "Belajar pola grammar N4 untuk cuaca besok kelihatannya bagus dalam konteks belajar, percakapan, dan instruksi sederhana."
+description: "Belajar memahami grammar N4 untuk sepertinya dan kemungkinan agar bisa memilih bentuk, partikel, dan nuansa yang tepat."
 level: "N4"
 category: "grammar"
 topic: "明日は天気がよさそうです。"
@@ -22,24 +22,24 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa memakai pola N4 dalam topik **明日は天気がよさそうです。** untuk sepertinya dan kemungkinan. Fokusnya adalah memilih partikel, bentuk verba, atau ekspresi yang sesuai dengan konteks kalimat.
+Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N4 untuk sepertinya dan kemungkinan. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan konteks.
 
-Kamu juga akan membedakan pola yang mirip agar tidak menerjemahkan langsung dari bahasa Indonesia tanpa melihat petunjuk bentuk Jepangnya.
+Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya bergantung pada terjemahan bahasa Indonesia.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca fungsi komunikasinya dulu, lalu cek bentuk sebelum dan sesudah pola. Banyak kesalahan N4 muncul karena arti Indonesianya mirip, tetapi partikel atau bentuk akhirnya berbeda.
+  <strong>Fokus hari ini:</strong> baca fungsi kalimatnya dulu. Setelah itu cek partikel, bentuk verba, dan nuansa yang membuat satu pola lebih tepat daripada pola lain.
 </div>
 
 ## Pola Hari Ini
 
 | Fungsi | Pola | Arti praktis | Kapan dipakai |
 |---|---|---|---|
-| Sepertinya | 〜ようだ | Sepertinya ~ | Dipakai saat ingin menyatakan sepertinya ~ dengan bentuk Plain form + ようだ / （N） + のようだ / （なAdj） + なようだ. |
-| Sepertinya | 〜みたいだ | Sepertinya ~; seperti ~ | Dipakai saat ingin menyatakan sepertinya ~; seperti ~ dengan bentuk Plain form + みたいだ / （N） + みたいだ. |
-| Terlihat/sepertinya  dari tampilan | 〜そうだ（様態） | Terlihat/sepertinya ~ dari tampilan | Dipakai saat ingin menyatakan terlihat/sepertinya ~ dari tampilan dengan bentuk （いAdj）-stem + そうだ / （なAdj） + そうだ / （V stem） + そうだ. |
-| Katanya | 〜そうだ（伝聞） | Katanya ~; menurut informasi ~ | Dipakai saat ingin menyatakan katanya ~; menurut informasi ~ dengan bentuk Plain form + そうだ. |
-| Mungkin/barangkali | 〜でしょう・〜だろう | Mungkin/barangkali ~ | Dipakai saat ingin menyatakan mungkin/barangkali ~ dengan bentuk Plain form + でしょう／だろう. |
-| Mungkin saja | 〜かもしれない | Mungkin saja ~ | Dipakai saat ingin menyatakan mungkin saja ~ dengan bentuk Plain form + かもしれない. |
+| Sepertinya | 〜ようだ | Sepertinya ~ | dipakai saat sepertinya ~; bentuknya bentuk biasa + ようだ / （N） + のようだ / （なAdj） + なようだ. |
+| Sepertinya | 〜みたいだ | Sepertinya ~; seperti ~ | dipakai saat sepertinya ~; seperti ~; bentuknya bentuk biasa + みたいだ / （N） + みたいだ. |
+| Terlihat/sepertinya  dari tampilan | 〜そうだ（様態） | Terlihat/sepertinya ~ dari tampilan | dipakai saat terlihat/sepertinya ~ dari tampilan; bentuknya （いAdj）-stem + そうだ / （なAdj） + そうだ / （Vますstem） + そうだ. |
+| Katanya | 〜そうだ（伝聞） | Katanya ~; menurut informasi ~ | dipakai saat katanya ~; menurut informasi ~; bentuknya bentuk biasa + そうだ. |
+| Mungkin/barangkali | 〜でしょう・〜だろう | Mungkin/barangkali ~ | dipakai saat mungkin/barangkali ~; bentuknya bentuk biasa + でしょう／だろう. |
+| Mungkin saja | 〜かもしれない | Mungkin saja ~ | dipakai saat mungkin saja ~; bentuknya bentuk biasa + かもしれない. |
 
 ## Peta Pola
 
@@ -52,51 +52,51 @@ Kamu juga akan membedakan pola yang mirip agar tidak menerjemahkan langsung dari
   <span>〜かもしれない</span>
 </div>
 
-Pola hari ini saling terhubung oleh fungsi **sepertinya dan kemungkinan**. Gunakan tabel pola sebagai peta cepat: pola yang terlihat mirip biasanya berbeda pada petunjuk seperti partikel, bentuk negatif, bentuk lampau, bentuk kamus, atau sudut pandang pembicara.
+Pola hari ini sama-sama dipakai untuk **sepertinya dan kemungkinan**, tetapi petunjuknya berbeda. Perhatikan partikel, bentuk negatif/lampau, bentuk kamus, dan siapa yang menjadi fokus kalimat.
 
 ## Cara Membentuk Pola
 
-Simbol utama: （N）= nomina, （V）= verba, （Clause）= klausa, （いAdj）= kata sifat-i, dan （なAdj）= kata sifat-na.
+Simbol utama: （N） berarti nomina, （V） berarti verba, （Klausa） berarti klausa, （いAdj） berarti kata sifat-i, dan （なAdj） berarti kata sifat-na.
 
 | Pola | Bentuk dasar | Catatan bentuk |
 |---|---|---|
-| 〜ようだ | Plain form + ようだ / （N） + のようだ / （なAdj） + なようだ | Gunakan bentuk ini untuk sepertinya ~. |
-| 〜みたいだ | Plain form + みたいだ / （N） + みたいだ | Gunakan bentuk ini untuk sepertinya ~; seperti ~. |
-| 〜そうだ（様態） | （いAdj）-stem + そうだ / （なAdj） + そうだ / （V stem） + そうだ | Gunakan bentuk ini untuk terlihat/sepertinya ~ dari tampilan. |
-| 〜そうだ（伝聞） | Plain form + そうだ | Gunakan bentuk ini untuk katanya ~; menurut informasi ~. |
-| 〜でしょう・〜だろう | Plain form + でしょう／だろう | Gunakan bentuk ini untuk mungkin/barangkali ~. |
-| 〜かもしれない | Plain form + かもしれない | Gunakan bentuk ini untuk mungkin saja ~. |
+| 〜ようだ | bentuk biasa + ようだ / （N） + のようだ / （なAdj） + なようだ | dipakai untuk sepertinya ~. |
+| 〜みたいだ | bentuk biasa + みたいだ / （N） + みたいだ | dipakai untuk sepertinya ~; seperti ~. |
+| 〜そうだ（様態） | （いAdj）-stem + そうだ / （なAdj） + そうだ / （Vますstem） + そうだ | dipakai untuk terlihat/sepertinya ~ dari tampilan. |
+| 〜そうだ（伝聞） | bentuk biasa + そうだ | dipakai untuk katanya ~; menurut informasi ~. |
+| 〜でしょう・〜だろう | bentuk biasa + でしょう／だろう | dipakai untuk mungkin/barangkali ~. |
+| 〜かもしれない | bentuk biasa + かもしれない | dipakai untuk mungkin saja ~. |
 
 ## Bangun Kalimat Bertahap
 
 | Langkah | Jepang | Fungsi |
 |---|---|---|
-| Bahan | Plain form + ようだ / （N） + のようだ / （なAdj） + なようだ | Bentuk untuk sepertinya |
+| Bahan | bentuk biasa + ようだ / （N） + のようだ / （なAdj） + なようだ | bentuk untuk sepertinya |
 | Kalimat | 主人は疲れているようです。 | Sepertinya ~ |
-| Bahan | Plain form + みたいだ / （N） + みたいだ | Bentuk untuk sepertinya |
+| Bahan | bentuk biasa + みたいだ / （N） + みたいだ | bentuk untuk sepertinya |
 | Kalimat | このパソコンはこわれているみたいです。 | Sepertinya ~; seperti ~ |
-| Bahan | （いAdj）-stem + そうだ / （なAdj） + そうだ / （V stem） + そうだ | Bentuk untuk terlihat/sepertinya  dari tampilan |
+| Bahan | （いAdj）-stem + そうだ / （なAdj） + そうだ / （Vますstem） + そうだ | bentuk untuk terlihat/sepertinya dari tampilan |
 | Kalimat | 雨が降りそうです。 | Terlihat/sepertinya ~ dari tampilan |
-| Bahan | Plain form + そうだ | Bentuk untuk katanya |
+| Bahan | bentuk biasa + そうだ | bentuk untuk katanya |
 | Kalimat | 天気予報によると、午後から雨が降るそうです。 | Katanya ~; menurut informasi ~ |
-| Bahan | Plain form + でしょう／だろう | Bentuk untuk mungkin/barangkali |
+| Bahan | bentuk biasa + でしょう／だろう | bentuk untuk mungkin/barangkali |
 | Kalimat | 今日は午後から雨が降るでしょう。 | Mungkin/barangkali ~ |
 
-Bagian ini menjembatani rumus dan kalimat penuh. Ambil bentuk pendeknya dulu, lalu masukkan ke kalimat yang punya konteks jelas.
+Bagian ini menghubungkan rumus dan kalimat penuh. Mulai dari bentuk pendeknya dulu, lalu cek fungsi pola sebelum membaca contoh lengkap.
 
 ## Catatan Pemakaian
 
 ### 〜ようだ
 
-Pola ini dipakai untuk **sepertinya ~**. Bentuk intinya adalah Plain form + ようだ / （N） + のようだ / （なAdj） + なようだ.
+Gunakan pola ini untuk **sepertinya ~**. Bentuk dasarnya: bentuk biasa + ようだ / （N） + のようだ / （なAdj） + なようだ.
 
-Catatan praktis: Guess based on evidence. Slightly more formal than 〜みたいだ.
+Catatan praktis: Dugaan berdasarkan bukti atau kesan. Sedikit lebih formal daripada 〜みたいだ.
 
 Contoh inti: 主人は疲れているようです。
 
 ### 〜みたいだ
 
-Pola ini dipakai untuk **sepertinya ~; seperti ~**. Bentuk intinya adalah Plain form + みたいだ / （N） + みたいだ.
+Gunakan pola ini untuk **sepertinya ~; seperti ~**. Bentuk dasarnya: bentuk biasa + みたいだ / （N） + みたいだ.
 
 Catatan praktis: Conversational version of 〜ようだ. Common in daily speech.
 
@@ -104,31 +104,31 @@ Contoh inti: このパソコンはこわれているみたいです。
 
 ### 〜そうだ（様態）
 
-Pola ini dipakai untuk **terlihat/sepertinya ~ dari tampilan**. Bentuk intinya adalah （いAdj）-stem + そうだ / （なAdj） + そうだ / （V stem） + そうだ.
+Gunakan pola ini untuk **terlihat/sepertinya ~ dari tampilan**. Bentuk dasarnya: （いAdj）-stem + そうだ / （なAdj） + そうだ / （Vますstem） + そうだ.
 
-Catatan praktis: Used saat judging from what you see atau feel. いい→よさそう, ない→なさそう.
+Catatan praktis: Dipakai saat menilai dari hal yang terlihat atau terasa. いい→よさそう, ない→なさそう.
 
 Contoh inti: 雨が降りそうです。
 
 ### 〜そうだ（伝聞）
 
-Pola ini dipakai untuk **katanya ~; menurut informasi ~**. Bentuk intinya adalah Plain form + そうだ.
+Gunakan pola ini untuk **katanya ~; menurut informasi ~**. Bentuk dasarnya: bentuk biasa + そうだ.
 
-Catatan praktis: Used untuk hearsay from weather reports, news, people, etc.
+Catatan praktis: Dipakai untuk kabar dari prakiraan cuaca, berita, orang lain, dan sejenisnya.
 
 Contoh inti: 天気予報によると、午後から雨が降るそうです。
 
 ### 〜でしょう・〜だろう
 
-Pola ini dipakai untuk **mungkin/barangkali ~**. Bentuk intinya adalah Plain form + でしょう／だろう.
+Gunakan pola ini untuk **mungkin/barangkali ~**. Bentuk dasarnya: bentuk biasa + でしょう／だろう.
 
-Catatan praktis: menunjukkan the speaker's guess. でしょう is polite/neutral, だろう is plainer.
+Catatan praktis: menunjukkan dugaan pembicara. でしょう sopan/netral, sedangkan だろう lebih polos.
 
 Contoh inti: 今日は午後から雨が降るでしょう。
 
 ### 〜かもしれない
 
-Pola ini dipakai untuk **mungkin saja ~**. Bentuk intinya adalah Plain form + かもしれない.
+Gunakan pola ini untuk **mungkin saja ~**. Bentuk dasarnya: bentuk biasa + かもしれない.
 
 Catatan praktis: Weaker certainty than 〜でしょう. berarti the possibility exists.
 
@@ -138,12 +138,12 @@ Contoh inti: 今夜、雪が降るかもしれません。
 
 | Pola | Arti praktis | Contoh konteks |
 |---|---|---|
-| Plain form + ようだ / （N） + のようだ / （なAdj） + なようだ | Sepertinya ~ | 主人は疲れているようです。 |
-| Plain form + みたいだ / （N） + みたいだ | Sepertinya ~; seperti ~ | このパソコンはこわれているみたいです。 |
-| （いAdj）-stem + そうだ / （なAdj） + そうだ / （V stem） + そうだ | Terlihat/sepertinya ~ dari tampilan | 雨が降りそうです。 |
-| Plain form + そうだ | Katanya ~; menurut informasi ~ | 天気予報によると、午後から雨が降るそうです。 |
-| Plain form + でしょう／だろう | Mungkin/barangkali ~ | 今日は午後から雨が降るでしょう。 |
-| Plain form + かもしれない | Mungkin saja ~ | 今夜、雪が降るかもしれません。 |
+| bentuk biasa + ようだ / （N） + のようだ / （なAdj） + なようだ | Sepertinya ~ | 主人は疲れているようです。 |
+| bentuk biasa + みたいだ / （N） + みたいだ | Sepertinya ~; seperti ~ | このパソコンはこわれているみたいです。 |
+| （いAdj）-stem + そうだ / （なAdj） + そうだ / （Vますstem） + そうだ | Terlihat/sepertinya ~ dari tampilan | 雨が降りそうです。 |
+| bentuk biasa + そうだ | Katanya ~; menurut informasi ~ | 天気予報によると、午後から雨が降るそうです。 |
+| bentuk biasa + でしょう／だろう | Mungkin/barangkali ~ | 今日は午後から雨が降るでしょう。 |
+| bentuk biasa + かもしれない | Mungkin saja ~ | 今夜、雪が降るかもしれません。 |
 
 ## Contoh Kalimat
 
@@ -151,33 +151,33 @@ Contoh inti: 今夜、雪が降るかもしれません。
   <div><p class="jp">雨が降りそうです。</p><p>Kelihatannya akan turun hujan.</p></div>
   <div><p class="jp">田中さんのお父さんは元気だそうです。</p><p>Katanya ayah Tanaka-san sehat.</p></div>
   <div><p class="jp">明日は天気がよさそうです。</p><p>Cuaca besok kelihatannya bagus.</p></div>
-  <div><p class="jp">主人は疲れているようです。</p><p>Kalimat ini memakai 〜ようだ untuk arti sepertinya ~.</p></div>
-  <div><p class="jp">このパソコンはこわれているみたいです。</p><p>Kalimat ini memakai 〜みたいだ untuk arti sepertinya ~; seperti ~.</p></div>
-  <div><p class="jp">天気予報によると、午後から雨が降るそうです。</p><p>Kalimat ini memakai 〜そうだ（伝聞） untuk arti katanya ~; menurut informasi ~.</p></div>
+  <div><p class="jp">主人は疲れているようです。</p><p>Suami saya sepertinya lelah.</p></div>
+  <div><p class="jp">このパソコンはこわれているみたいです。</p><p>Komputer ini sepertinya rusak.</p></div>
+  <div><p class="jp">天気予報によると、午後から雨が降るそうです。</p><p>Menurut ramalan cuaca, katanya hujan akan turun mulai sore.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar
 
 | Pasangan | Cara membedakan |
 |---|---|
-| 〜ようだ / 〜みたいだ | Bedakan dari fungsi utamanya: Both mean “seems,” but 〜みたいだ is more conversational. Petunjuk pilihan: Gunakan 〜ようだ in neutral/formal speech. gunakan 〜みたいだ in casual daily speech.. |
-| 〜そうだ（様態） / 〜そうだ（伝聞） | Bedakan dari fungsi utamanya: Appearance dibanding hearsay. Petunjuk pilihan: Gunakan 様態 saat you judge by looking. gunakan 伝聞 saat you heard/read the information.. |
-| 〜でしょう / 〜かもしれない | Bedakan dari fungsi utamanya: Probable guess dibanding weaker possibility. Petunjuk pilihan: Gunakan 〜でしょう saat you think it is likely. gunakan 〜かもしれない saat it is only possible.. |
-| 〜そうだ（様態） / 〜ようだ | Bedakan dari fungsi utamanya: Direct appearance dibanding guess based on evidence. Petunjuk pilihan: Gunakan 〜そうだ untuk visible appearance. gunakan 〜ようだ untuk broader inference.. |
+| 〜ようだ / 〜みたいだ | Bedakan dari fungsi utamanya: Keduanya berarti “sepertinya”, tetapi 〜みたいだ lebih terasa percakapan. Petunjuk pilihan: Gunakan 〜ようだ dalam ucapan netral atau formal. Gunakan 〜みたいだ dalam percakapan santai sehari-hari. |
+| 〜そうだ（様態） / 〜そうだ（伝聞） | Bedakan dari fungsi utamanya: Appearance dibanding hearsay. Petunjuk pilihan: Gunakan 様態 saat you judge by looking. Gunakan 伝聞 saat you heard/read the information. |
+| 〜でしょう / 〜かもしれない | Bedakan dari fungsi utamanya: Dugaan yang cukup mungkin dibanding kemungkinan yang lebih lemah. Petunjuk pilihan: Gunakan 〜でしょう saat kamu merasa hal itu mungkin terjadi. Gunakan 〜かもしれない saat kemungkinannya masih lemah. |
+| 〜そうだ（様態） / 〜ようだ | Bedakan dari fungsi utamanya: Tampilan yang terlihat langsung dibanding dugaan berdasarkan petunjuk. Petunjuk pilihan: Gunakan 〜そうだ untuk tampilan yang terlihat. Gunakan 〜ようだ untuk kesimpulan yang lebih luas. |
 
 ## Kesalahan Umum
 
 | Salah | Benar | Kenapa |
 |---|---|---|
-| 雨が降るそうです。 | 雨が降りそうです。 | Appearance uses 〜そうだ, not hearsay 〜そうだ |
-| 田中さんのお父さんは元気そうです。 | 田中さんのお父さんは元気だそうです。 | Hearsay keeps the plain form sebelum そうだ |
+| 雨が降るそうです。 | 雨が降りそうです。 | Tampilan langsung memakai 〜そうだ bentuk tampilan, bukan 〜そうだ untuk kabar/katanya |
+| 田中さんのお父さんは元気そうです。 | 田中さんのお父さんは元気だそうです。 | そうだ untuk kabar/katanya mempertahankan bentuk biasa sebelum そうだ |
 | 明日は天気がいいそうです。 | 明日は天気がよさそうです。 | いい becomes よさそう |
 
-Catatan untuk pembelajar Indonesia: In Indonesian, “sepertinya” can cover many patterns, but Japanese separates the source of the guess. 〜そうだ（様態） = kelihatannya from what you see. 〜そうだ（伝聞） = katanya / menurut info. 〜ようだ／〜みたいだ = seems like, based on evidence or impression. 〜でしょう = probably. 〜かもしれない = might, maybe.
+Catatan untuk pembelajar Indonesia: Dalam bahasa Indonesia, “sepertinya” bisa mencakup banyak pola, tetapi bahasa Jepang membedakan sumber dugaannya. 〜そうだ（様態） = kelihatannya berdasarkan hal yang terlihat. 〜そうだ（伝聞） = katanya / menurut info. 〜ようだ／〜みたいだ = sepertinya, berdasarkan bukti atau kesan. 〜でしょう = kemungkinan besar. 〜かもしれない = mungkin saja.
 
 ## Mini Practice
 
-Pilih jawaban yang paling tepat untuk melengkapi kalimat. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat. Perhatikan petunjuk partikel, bentuk kata, dan konteks kalimat sebelum memilih.
 
 ::MiniPractice
 ---
@@ -186,7 +186,7 @@ sentence: "雨が降____そうです。"
 optionA: "り"
 optionB: "る"
 correct: "り"
-explanation: "り benar. Appearance uses 〜そうだ, not hearsay 〜そうだ"
+explanation: "り benar. Tampilan langsung memakai 〜そうだ bentuk tampilan, bukan 〜そうだ untuk kabar/katanya"
 ---
 ::
 
@@ -203,34 +203,34 @@ explanation: "よさ benar. いい becomes よさそう"
 
 ::MiniPractice
 ---
-question: "Pola apa yang dipakai untuk arti: Sepertinya ~?"
-sentence: "例: 主人は疲れているようです。 ポイント: ____"
-optionA: "〜ようだ"
-optionB: "〜みたいだ"
-correct: "〜ようだ"
-explanation: "〜ようだ benar karena kalimat contoh menunjukkan sepertinya ~."
+question: "Suami saya sepertinya lelah."
+sentence: "主人は疲れている____です。"
+optionA: "よう"
+optionB: "そう"
+correct: "よう"
+explanation: "ようです benar untuk dugaan berdasarkan tanda atau kesan."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pola apa yang dipakai untuk arti: Sepertinya ~; seperti ~?"
-sentence: "例: このパソコンはこわれているみたいです。 ポイント: ____"
-optionA: "〜みたいだ"
-optionB: "〜そうだ（様態）"
-correct: "〜みたいだ"
-explanation: "〜みたいだ benar karena kalimat contoh menunjukkan sepertinya ~; seperti ~."
+question: "Komputer ini sepertinya rusak."
+sentence: "このパソコンはこわれている____です。"
+optionA: "みたい"
+optionB: "そう"
+correct: "みたい"
+explanation: "みたいです benar untuk kesan percakapan: sepertinya/seperti."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pola apa yang dipakai untuk arti: Terlihat/sepertinya ~ dari tampilan?"
-sentence: "例: 雨が降りそうです。 ポイント: ____"
-optionA: "〜そうだ（様態）"
-optionB: "〜そうだ（伝聞）"
-correct: "〜そうだ（様態）"
-explanation: "〜そうだ（様態） benar karena kalimat contoh menunjukkan terlihat/sepertinya ~ dari tampilan."
+question: "Menurut ramalan cuaca, katanya hujan akan turun mulai sore."
+sentence: "天気予報によると、午後から雨が降る____です。"
+optionA: "そう"
+optionB: "よう"
+correct: "そう"
+explanation: "そうです benar untuk informasi yang didengar atau dibaca dari sumber lain."
 ---
 ::
 

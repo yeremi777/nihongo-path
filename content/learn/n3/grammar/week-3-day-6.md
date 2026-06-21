@@ -1,6 +1,6 @@
 ---
 title: "教えてほしい"
-description: "Belajar pola grammar N3 untuk membaca perasaan orang lain, menyampaikan keinginan agar orang lain bertindak, dan berpura-pura."
+description: "Belajar memahami grammar N3 untuk membaca perasaan orang lain, menyampaikan keinginan agar orang lain bertindak, dan berpura-pura."
 level: "N3"
 category: "grammar"
 topic: "教えてほしい"
@@ -53,14 +53,14 @@ Alurnya bisa dibaca seperti ini: `がる／たがる` membaca **tanda yang tampa
 
 | Fungsi | Kerangka kalimat | Yang perlu dicek |
 |---|---|---|
-| Perasaan orang lain | （Adj stem）がる | Apakah perasaannya terlihat dari luar? |
+| Perasaan orang lain | （akar adjektiva）がる | Apakah perasaannya terlihat dari luar? |
 | Ingin melakukan | （Vますstem）たがる | Apakah orang lain tampak ingin （V）? |
 | Ingin orang lain （V） | （A）に（Vて）ほしい | Siapa yang diharapkan melakukan （V）? |
 | Ingin orang lain tidak （V） | （Vないで）ほしい | Tindakan apa yang tidak diinginkan? |
 | Ingin menerima bantuan | （A）に（Vて）もらいたい | Apakah pembicara menerima manfaat? |
-| Berpura-pura | （plain form）／（N）の／（なAdj）なふりをする | Apa yang dipura-purakan? |
+| Berpura-pura | （bentuk biasa）／（N）の／（なAdj）なふりをする | Apa yang dipura-purakan? |
 
-Di tabel ini, `（A）` adalah orang yang diminta/diinginkan melakukan tindakan, `（V）` adalah verba/kata kerja, `（Adj stem）` adalah bagian adjektiva sebelum akhiran seperti `い`, dan `（plain form）` adalah bentuk biasa.
+Di tabel ini, `（A）` adalah orang yang diminta/diinginkan melakukan tindakan, `（V）` adalah verba/kata kerja, `（akar adjektiva）` adalah bagian adjektiva sebelum akhiran seperti `い`, dan `（bentuk biasa）` adalah bentuk biasa.
 
 ## Cara Membentuk Pola
 
@@ -121,7 +121,7 @@ Di tabel ini, `（A）` adalah orang yang diminta/diinginkan melakukan tindakan,
 
 | Pola | Arti praktis | Contoh konteks |
 |---|---|---|
-| （いAdj stem）がる | terlihat merasa （Adj） | 怖がる |
+| （いakar adjektiva）がる | terlihat merasa （Adj） | 怖がる |
 | （Vますstem）たがる | terlihat ingin （V） | 帰りたがる |
 | （Vて）ほしい | ingin orang lain （V） | 見せてほしい |
 | （Vないで）ほしい | ingin orang lain tidak （V） | 忘れないでほしい |
@@ -162,7 +162,7 @@ Di tabel ini, `（A）` adalah orang yang diminta/diinginkan melakukan tindakan,
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat. Perhatikan konteks, bentuk sebelum pola, dan nuansa kalimat sebelum memilih.
 
 ::MiniPractice
 ---
@@ -188,12 +188,12 @@ explanation: "暑がっています benar karena がる dipakai untuk tanda pera
 
 ::MiniPractice
 ---
-question: "Saya ingin pulang."
-sentence: "私は____。"
-optionA: "帰りたいです"
-optionB: "帰りたがっています"
-correct: "帰りたいです"
-explanation: "帰りたいです benar karena keinginan pembicara sendiri memakai たい."
+question: "Adik laki-laki saya tampaknya ingin pulang."
+sentence: "弟は____。"
+optionA: "帰りたがっています"
+optionB: "帰りたいです"
+correct: "帰りたがっています"
+explanation: "帰りたがっています benar karena keinginan orang lain biasanya dinyatakan dengan たがる."
 ---
 ::
 

@@ -1,6 +1,6 @@
 ---
 title: "今晩から明日の朝にかけて"
-description: "Belajar pola grammar N3 untuk membedakan sampai sebagai durasi, sampai sebagai contoh ekstrem, rentang waktu/tempat, dan konteks formal."
+description: "Belajar memahami grammar N3 untuk membedakan sampai sebagai durasi, sampai sebagai contoh ekstrem, rentang waktu/tempat, dan konteks formal."
 level: "N3"
 category: "grammar"
 topic: "今晩から明日の朝にかけて"
@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali dan memakai pola pada topik **今晩から明日の朝にかけて** dalam konteks bacaan, percakapan, dan penjelasan N3. Fokusnya bukan hanya arti terjemahan, tetapi juga alasan memilih pola yang tepat.
+Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N3 untuk membedakan sampai sebagai durasi, sampai sebagai contoh ekstrem, rentang waktu/tempat, dan konteks formal. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan nuansa konteks.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> まで bukan までに. まで melihat keadaan berlanjut sampai titik tertentu, にかけて melihat rentang yang agak luas, dan において dipakai untuk konteks formal.
@@ -57,7 +57,7 @@ Di akhir pelajaran ini, kamu bisa mengenali dan memakai pola pada topik **今晩
 | Konteks formal | （N）において | Apakah gaya kalimat formal/tertulis? |
 | Nomina formal | （N）における（N） | Apakah pola menerangkan nomina setelahnya? |
 
-Di tabel ini, `（A）` dan `（B）` menandai pihak pertama dan pihak kedua dalam hubungan kalimat, `（N）` adalah nomina atau frasa nomina, `（V）` adalah verba, `（Adj）` adalah adjektiva, `（clause）` dan `（plain form）` adalah klausa atau bentuk biasa, `（Sentence A）` dan `（Sentence B）` adalah dua kalimat yang dihubungkan, `（Option A）` dan `（Option B）` adalah dua pilihan, sedangkan `（question）`, `（number）`, `（predicate）`, dan `（result）` menandai slot pertanyaan, angka, predikat, dan hasil.
+Simbol di tabel ini hanya penanda slot. `（N）` berarti nomina atau frasa nomina, `（V）` berarti verba, `（Adj）` berarti adjektiva, `（klausa）` atau `（bentuk biasa）` berarti klausa atau bentuk biasa, dan pasangan seperti `（A）／（B）` atau `（Kalimat A）／（Kalimat B）` dipakai untuk membedakan dua sisi kalimat.
 
 ## Cara Membentuk Pola
 
@@ -81,7 +81,7 @@ Di tabel ini, `（A）` dan `（B）` menandai pihak pertama dan pihak kedua dal
 | において | di/dalam formal | 大阪において行われる |
 | における | bentuk sebelum nomina | 教育における問題 |
 
-Sebelum membaca contoh panjang, ambil bagian yang berubah lebih dulu: apakah slotnya `（N）`, `（V辞書形）`, `（V普通形）`, `（Vますstem）`, `（Adj）`, atau satu `（clause）` utuh. Setelah itu baru cek partikel, bentuk negatif, dan hubungan antarbagian kalimat.
+Saat membangun kalimat, jangan mulai dari terjemahan kata per kata. Tentukan dulu slot yang berubah, lalu cek partikel, bentuk akhir, dan hubungan antarbagian kalimat.
 
 ## Bangun Kalimat Bertahap
 
@@ -93,7 +93,7 @@ Sebelum membaca contoh panjang, ambil bagian yang berubah lebih dulu: apakah slo
 | Salju malam sampai pagi | 今晩・明日の朝・雪 | 明日の朝にかけて | 今晩から明日の朝にかけて雪が降るでしょう。 |
 | Konferensi di Osaka | 大阪・国際会議 | 大阪において | 大阪において、国際会議が行われました。 |
 
-Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pecah dulu menjadi bahan, bentuk pola, lalu kalimat jadi.
+Bagian ini menghubungkan rumus dan contoh kalimat. Mulai dari bahan pendeknya dulu, lalu cek fungsi pola sebelum membaca kalimat lengkap.
 
 ## Catatan Pemakaian
 
@@ -154,7 +154,7 @@ Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pe
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat. Perhatikan konteks, bentuk sebelum pola, dan nuansa kalimat sebelum memilih.
 
 ::MiniPractice
 ---

@@ -21,12 +21,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca kosakata komputer, kursus pemula, operasi file, internet, lelang, dan pembuatan halaman web/blog.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat membaca perangkat komputer, operasi dasar, internet, produk baru, dan kegiatan online.
 
-Kosakata ini membantu saat membaca instruksi komputer sederhana atau teks tentang belajar memakai komputer.
+Fokus hari ini bukan hanya menghafal arti kata seperti パソコン, ノートパソコン, デスクトップ（パソコン）, dan キーボード, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> bedakan つなぐ sebagai tindakan menyambungkan dan つながる sebagai keadaan tersambung.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -80,6 +80,10 @@ Kata hari ini dimulai dari perangkat, lalu tindakan dasar, lalu koneksi internet
   <span>ブログ</span>
 </div>
 
+Bayangkan kamu sedang membaca atau mendengar situasi tentang menggunakan komputer: kata intinya bisa berupa パソコン, ノートパソコン, dan デスクトップ（パソコン）; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
+
+
 ## Catatan Pemakaian
 
 - **Produk:** 新製品 adalah produk baru di pasar; 新品 adalah barang baru/belum dipakai.
@@ -88,9 +92,9 @@ Kata hari ini dimulai dari perangkat, lalu tindakan dasar, lalu koneksi internet
 
 ## Pola yang Sering Muncul
 
-- **Nを開く／閉じる:** を menandai file/jendela yang dibuka atau ditutup.
+- **（N）を開く／閉じる:** を menandai file/jendela yang dibuka atau ditutup.
 - **ネットにつなぐ:** に menandai tujuan koneksi.
-- **Nに参加する:** に menandai kegiatan yang diikuti.
+- **（N）に参加する:** に menandai kegiatan yang diikuti.
 - **情報を得る:** を menandai informasi yang diperoleh.
 
 ## Contoh Kalimat
@@ -114,6 +118,8 @@ Kata hari ini dimulai dari perangkat, lalu tindakan dasar, lalu koneksi internet
 - Perhatikan に pada パソコンに慣れる karena に menandai hal yang menjadi kebiasaan.
 
 ## Mini Practice
+
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
 
 ::MiniPractice
 ---
@@ -139,7 +145,7 @@ explanation: "ネットにつなぐ berarti menyambungkan ke internet."
 
 ::MiniPractice
 ---
-question: "Barang bekas, bukan baru."
+question: "Saya membeli komputer bekas."
 sentence: "____のパソコンを買う。"
 optionA: "中古"
 optionB: "新品"
@@ -161,7 +167,7 @@ explanation: "パソコンで menunjukkan alat yang dipakai untuk menulis lapora
 
 ::MiniPractice
 ---
-question: "Laptop ringan dibeli untuk dibawa ke kelas."
+question: "Saya membeli laptop ringan untuk dibawa ke kelas."
 sentence: "軽い____を買った。"
 optionA: "ノートパソコン"
 optionB: "パソコン"

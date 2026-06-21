@@ -22,10 +22,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa bertanya "ada apa?", menjelaskan bau/rasa/suara, melaporkan benda patah atau pecah, orang kabur atau tertangkap, orang kesulitan, jalan basah, dan tindakan negatif seperti mencuri atau membully.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat melaporkan kejadian, bau, rasa, suara, benda rusak, orang kabur, masalah, dan kondisi basah.
+
+Fokus hari ini bukan hanya menghafal arti kata seperti どうしたの, どうしましたか, におい, dan においがする, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> におい・味・音 sering memakai pola がする. Untuk kondisi hasil seperti patah, pecah, atau basah, bentuk ている sangat penting.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -91,6 +93,10 @@ Di akhir pelajaran ini, kamu bisa bertanya "ada apa?", menjelaskan bau/rasa/suar
   <span>ベルを鳴らす</span>
 </div>
 
+Bayangkan kamu sedang membaca atau mendengar situasi tentang keadaan dan kejadian: kata intinya bisa berupa どうしたの, どうしましたか, dan におい; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
+
+
 Peta hari ini adalah laporan situasi: kamu bertanya どうしたの, mencium におい, mendengar 音, melihat kaca 割れている, melihat orang 困っている, lalu mungkin 鳴らす 非常ベル jika keadaan berbahaya.
 
 ## Catatan Pemakaian
@@ -148,7 +154,7 @@ Untuk keadaan hasil, gunakan ている: 割れています, 濡れています, 
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
 
 ::MiniPractice
 ---

@@ -1,6 +1,6 @@
 ---
 title: "美人というより"
-description: "Belajar pola grammar N3 untuk mengoreksi label, membuka asosiasi topik, dan melemahkan ekspektasi dari sebuah sebutan."
+description: "Belajar memahami grammar N3 untuk mengoreksi label, membuka asosiasi topik, dan melemahkan ekspektasi dari sebuah sebutan."
 level: "N3"
 category: "grammar"
 topic: "美人というより"
@@ -143,7 +143,7 @@ Di tabel ini, `（A）` dan `（B）` bisa berupa nomina, adjektiva, atau klausa
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat. Perhatikan konteks, bentuk sebelum pola, dan nuansa kalimat sebelum memilih.
 
 ::MiniPractice
 ---

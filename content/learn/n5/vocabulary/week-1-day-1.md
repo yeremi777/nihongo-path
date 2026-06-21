@@ -22,12 +22,12 @@ tags:
 
 ## Tujuan
 
-Mengenali kata sifat dasar untuk rasa, suhu, berat, ukuran, jarak, kesulitan, kesibukan, dan kesukaan.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata dasar yang sering muncul saat membedakan rasa, suhu, ukuran, jarak, kesulitan, kesibukan, dan kesukaan dalam kalimat pendek.
 
-Di akhir pelajaran ini, kamu bisa membuat kalimat pendek seperti このジュースはつめたいです, この本はおもしろいです, dan コーヒーがすきです. Fokusnya bukan menghafal arti satu per satu saja, tetapi melihat pasangan kata yang sering muncul bersama.
+Fokus hari ini bukan hanya menghafal arti kata seperti あまい, からい, にがい, dan あつい, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> bedakan kata sifat-i seperti あまい dan kata sifat-na seperti ひまな, すきな, きらいな. Sebelum kata benda, kata sifat-na memakai な.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -91,6 +91,10 @@ Kata hari ini mudah dipelajari sebagai pasangan. Rasa membantu kamu menjelaskan 
   <span>すきな ↔ きらいな</span>
 </div>
 
+Bayangkan kamu sedang membaca atau mendengar situasi tentang rasa, suhu, ukuran, dan kesukaan: kata intinya bisa berupa あまい, からい, dan にがい; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
+
+
 ## Catatan Pemakaian
 
 - rasa: あまい, からい, dan にがい sering muncul dengan makanan, minuman, atau obat.
@@ -131,9 +135,11 @@ Jangan menambahkan な setelah semua kata sifat. あまい, つめたい, おも
 
 ## Mini Practice
 
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
+
 ::MiniPractice
 ---
-question: "Minuman ini dingin, bukan cuacanya."
+question: "Jus ini dingin."
 sentence: "このジュースは____です。"
 optionA: "つめたい"
 optionB: "さむい"
@@ -144,7 +150,7 @@ explanation: "つめたい benar untuk benda, minuman, atau sentuhan. さむい 
 
 ::MiniPractice
 ---
-question: "Tasnya berat, bukan ringan."
+question: "Tas ini berat."
 sentence: "このかばんは____です。"
 optionA: "おもい"
 optionB: "かるい"
@@ -155,7 +161,7 @@ explanation: "おもい berarti berat. Petunjuknya adalah かばん sebagai bend
 
 ::MiniPractice
 ---
-question: "Pilih bentuk yang benar sebelum 食べもの."
+question: "Ini makanan yang saya sukai."
 sentence: "これは私の____食べものです。"
 optionA: "すきな"
 optionB: "すきい"
@@ -166,7 +172,7 @@ explanation: "すき adalah kata sifat-na. Sebelum kata benda, bentuknya すき�
 
 ::MiniPractice
 ---
-question: "Jalan ini sempit, bukan luas."
+question: "Jalan ini sempit."
 sentence: "この道は____です。"
 optionA: "せまい"
 optionB: "ひろい"
@@ -177,7 +183,7 @@ explanation: "せまい berarti sempit. ひろい berarti luas."
 
 ::MiniPractice
 ---
-question: "Ujiannya mudah, bukan sulit."
+question: "Ujian ini mudah."
 sentence: "このしけんは____です。"
 optionA: "やさしい"
 optionB: "むずかしい"

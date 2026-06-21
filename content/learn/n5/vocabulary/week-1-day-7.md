@@ -22,12 +22,12 @@ tags:
 
 ## Tujuan
 
-Mengenali kosakata bagian tubuh, frasa memakai pakaian, dan kata hitung dasar.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata dasar yang sering muncul saat bagian tubuh, cara memakai pakaian, dan kata hitung umum untuk benda, orang, lembaran, kendaraan, benda panjang, dan buku.
 
-Di akhir pelajaran ini, kamu bisa membaca kalimat seperti 目がいたいです, シャツをきます, りんごを三つください, dan 本を二さつ買います. Pelajaran ini padat, jadi fokus pada kelompok: tubuh, pakaian, lalu jenis kata hitung.
+Fokus hari ini bukan hanya menghafal arti kata seperti からだ, かお, あたま, dan くび, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kata kerja memakai pakaian berubah sesuai benda: シャツをきる, ズボンをはく, ぼうしをかぶる, めがねをかける, dan ネクタイをする.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -41,7 +41,7 @@ Di akhir pelajaran ini, kamu bisa membaca kalimat seperti 目がいたいです,
 | あたま | あたま | kepala. |
 | くび | くび | leher. |
 | て（手） | て | tangan. |
-| あし（足） | あし | kaki; bisa berarti foot atau leg. |
+| あし（足） | あし | kaki; bisa berarti telapak kaki atau kaki secara keseluruhan. |
 | みみ（耳） | みみ | telinga. |
 | め（目） | め | mata. |
 | はな | はな | hidung; 花 juga dibaca はな tetapi berarti bunga. |
@@ -164,6 +164,10 @@ Pelajaran ini punya tiga peta besar. Pertama, tubuh: kepala sampai kaki. Kedua, 
   <span>〜まい／〜だい／〜ほん／〜さつ</span>
 </div>
 
+Bayangkan kamu sedang membaca atau mendengar situasi tentang tubuh, pakaian, dan kata hitung: kata intinya bisa berupa からだ, かお, dan あたま; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
+
+
 ## Catatan Pemakaian
 
 - tubuh: は（歯） berarti gigi, berbeda dari partikel は. はな bisa berarti hidung; 花 berarti bunga.
@@ -205,9 +209,11 @@ Jangan memakai ひとつ untuk semua benda jika kata hitung khusus sudah jelas. 
 
 ## Mini Practice
 
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
+
 ::MiniPractice
 ---
-question: "Memakai kemeja."
+question: "Saya memakai kemeja."
 sentence: "シャツを____。"
 optionA: "きます"
 optionB: "はきます"
@@ -218,7 +224,7 @@ explanation: "シャツ adalah pakaian tubuh bagian atas, jadi memakai きる."
 
 ::MiniPractice
 ---
-question: "Memakai sepatu."
+question: "Saya memakai sepatu."
 sentence: "くつを____。"
 optionA: "はきます"
 optionB: "かぶります"
@@ -229,7 +235,7 @@ explanation: "くつ memakai はく. かぶる dipakai untuk topi."
 
 ::MiniPractice
 ---
-question: "Menghitung dua orang."
+question: "Ada dua siswa."
 sentence: "学生が____います。"
 optionA: "ふたり"
 optionB: "ふたつ"
@@ -240,7 +246,7 @@ explanation: "Orang dihitung dengan ひとり, ふたり, さんにん. ふた�
 
 ::MiniPractice
 ---
-question: "Menghitung tiga buku."
+question: "Saya membeli tiga buku."
 sentence: "本を____買います。"
 optionA: "三さつ"
 optionB: "三台"
@@ -251,7 +257,7 @@ explanation: "Buku memakai penghitung 〜さつ. 〜だい untuk kendaraan atau 
 
 ::MiniPractice
 ---
-question: "Menghitung satu botol air."
+question: "Tolong beri saya satu botol air."
 sentence: "水を____ください。"
 optionA: "いっぽん"
 optionB: "いちまい"

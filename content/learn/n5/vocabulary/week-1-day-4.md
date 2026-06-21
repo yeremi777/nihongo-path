@@ -22,12 +22,12 @@ tags:
 
 ## Tujuan
 
-Mengenali kata keterangan dasar untuk mengatakan seberapa sering, seberapa kuat, sudah atau belum, dan berapa banyak.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata dasar yang sering muncul saat frekuensi, tingkat, jumlah, urutan waktu, dan ungkapan sopan sehari-hari.
 
-Di akhir pelajaran ini, kamu bisa membaca kalimat seperti いつも元気です, あまりよくないです, もう一度言ってください, dan ちょっとまってください. Kata-kata kecil ini sering mengubah rasa seluruh kalimat.
+Fokus hari ini bukan hanya menghafal arti kata seperti いつも, たいてい, ときどき, dan よく, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> あまり dan ぜんぜん biasanya dipakai dengan bentuk negatif. Perhatikan kata setelahnya.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -81,6 +81,10 @@ Kata hari ini membantu memberi ukuran pada kalimat. いつも, たいてい, と
   <span>ちょっと</span>
 </div>
 
+Bayangkan kamu sedang membaca atau mendengar situasi tentang frekuensi, tingkat, dan jumlah: kata intinya bisa berupa いつも, たいてい, dan ときどき; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
+
+
 ## Catatan Pemakaian
 
 - frekuensi: いつも paling kuat, ときどき lebih jarang, たいてい berada di tengah.
@@ -121,9 +125,11 @@ Jangan memakai あまり sendirian untuk kalimat positif biasa. Untuk pemula, po
 
 ## Mini Practice
 
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
+
 ::MiniPractice
 ---
-question: "Kalimatnya berarti tidak terlalu bagus."
+question: "Tidak terlalu bagus."
 sentence: "あまりよく____。"
 optionA: "ないです"
 optionB: "です"
@@ -134,7 +140,7 @@ explanation: "あまり biasanya dipakai dengan bentuk negatif, jadi あまり�
 
 ::MiniPractice
 ---
-question: "Meminta orang mengulang sekali lagi."
+question: "Tolong katakan sekali lagi."
 sentence: "____言ってください。"
 optionA: "もう一度"
 optionB: "たくさん"
@@ -145,7 +151,7 @@ explanation: "もう一度 berarti sekali lagi. Cocok dengan 言ってくださ�
 
 ::MiniPractice
 ---
-question: "Meminta bicara pelan-pelan."
+question: "Tolong bicara pelan-pelan."
 sentence: "____話してください。"
 optionA: "ゆっくり"
 optionB: "ぜんぜん"
@@ -156,7 +162,7 @@ explanation: "ゆっくり話す berarti berbicara pelan-pelan."
 
 ::MiniPractice
 ---
-question: "Menyatakan sudah makan."
+question: "Saya sudah makan."
 sentence: "____食べました。"
 optionA: "もう"
 optionB: "まだ"
@@ -167,7 +173,7 @@ explanation: "もう＋past menyatakan sudah melakukan sesuatu. まだ biasanya 
 
 ::MiniPractice
 ---
-question: "Meminta tunggu sebentar."
+question: "Tolong tunggu sebentar."
 sentence: "____まってください。"
 optionA: "ちょっと"
 optionB: "たいてい"

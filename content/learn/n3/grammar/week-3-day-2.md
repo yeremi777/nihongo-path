@@ -1,6 +1,6 @@
 ---
 title: "それにしては"
-description: "Belajar pola grammar N3 untuk menyatakan peran, penilaian untuk ukuran tertentu, konsesi, dan asumsi hipotetis."
+description: "Belajar memahami grammar N3 untuk menyatakan peran, penilaian untuk ukuran tertentu, konsesi, dan asumsi hipotetis."
 level: "N3"
 category: "grammar"
 topic: "それにしては"
@@ -57,13 +57,13 @@ Alurnya bisa dibaca seperti ini: `として` menetapkan **peran**, `としては
 | Standpoint | （N）としては+penilaian | Dari sisi （N）, bagaimana penilaiannya? |
 | Ukuran tak terduga | （N）／（V普通形）にしては | Apakah hasilnya berbeda dari harapan terhadap （N）／（V）? |
 | Konsesi | （N）／（V普通形）にしても | Walau menerima kondisi itu, apa kesimpulannya? |
-| Asumsi | （clause）／（N）だ+としたら | Jika situasi itu dianggap benar, apa akibatnya? |
+| Asumsi | （klausa）／（N）だ+としたら | Jika situasi itu dianggap benar, apa akibatnya? |
 
-Di tabel ini, `（N）` adalah nomina atau frasa nomina, `（V）` adalah verba/kata kerja, dan `（clause）` adalah klausa lengkap dalam bentuk biasa. Untuk nomina sebelum `としたら`, tambahkan `だ`: `本当だとしたら`.
+Di tabel ini, `（N）` adalah nomina atau frasa nomina, `（V）` adalah verba/kata kerja, dan `（klausa）` adalah klausa lengkap dalam bentuk biasa. Untuk nomina sebelum `としたら`, tambahkan `だ`: `本当だとしたら`.
 
 ## Cara Membentuk Pola
 
-### 1. Pilih bentuk yang sesuai
+### 1. Tentukan bentuk dasarnya
 
 | Tujuan | Bentuk | Contoh bentuk |
 |---|---|---|
@@ -154,7 +154,7 @@ Di tabel ini, `（N）` adalah nomina atau frasa nomina, `（V）` adalah verba/
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat. Perhatikan konteks, bentuk sebelum pola, dan nuansa kalimat sebelum memilih.
 
 ::MiniPractice
 ---

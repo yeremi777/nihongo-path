@@ -1,6 +1,6 @@
 ---
 title: "日本語でどう言いますか。"
-description: "Belajar pola grammar N4 untuk dalam bahasa jepang, bagaimana mengatakannya? dalam konteks belajar, percakapan, dan instruksi sederhana."
+description: "Belajar memahami grammar N4 untuk cara menyebut dan bertanya agar bisa memilih bentuk, partikel, dan nuansa yang tepat."
 level: "N4"
 category: "grammar"
 topic: "日本語でどう言いますか。"
@@ -22,23 +22,23 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa memakai pola N4 dalam topik **日本語でどう言いますか。** untuk cara menyebut dan bertanya. Fokusnya adalah memilih partikel, bentuk verba, atau ekspresi yang sesuai dengan konteks kalimat.
+Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N4 untuk cara menyebut dan bertanya. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan konteks.
 
-Kamu juga akan membedakan pola yang mirip agar tidak menerjemahkan langsung dari bahasa Indonesia tanpa melihat petunjuk bentuk Jepangnya.
+Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya bergantung pada terjemahan bahasa Indonesia.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca fungsi komunikasinya dulu, lalu cek bentuk sebelum dan sesudah pola. Banyak kesalahan N4 muncul karena arti Indonesianya mirip, tetapi partikel atau bentuk akhirnya berbeda.
+  <strong>Fokus hari ini:</strong> baca fungsi kalimatnya dulu. Setelah itu cek partikel, bentuk verba, dan nuansa yang membuat satu pola lebih tepat daripada pola lain.
 </div>
 
 ## Pola Hari Ini
 
 | Fungsi | Pola | Arti praktis | Kapan dipakai |
 |---|---|---|---|
-| seperti ini/itu/apa | こんな・そんな・あんな・どんな + （N） | ~ seperti ini/itu/apa | Dipakai saat ingin menyatakan ~ seperti ini/itu/apa dengan bentuk こんな／そんな／あんな／どんな + （N）. |
-| Sebegini/sebegitu/seberapa | こんなに・そんなに・あんなに・どんなに | Sebegini/sebegitu/seberapa ~ | Dipakai saat ingin menyatakan sebegini/sebegitu/seberapa ~ dengan bentuk こんなに／そんなに／あんなに／どんなに + （Adj）/（V）. |
-| Begini | こう・そう・ああ・どう | Begini; begitu; bagaimana | Dipakai saat ingin menyatakan begini; begitu; bagaimana dengan bentuk こう／そう／ああ／どう + （V）. |
-| Yang disebut | 〜という（N）・〜っていう（N） | Yang disebut ~; bernama ~ | Dipakai saat ingin menyatakan yang disebut ~; bernama ~ dengan bentuk （Phrase） + という（N） / っていう（N）. |
-| Jenis apa | どういう（N） | Jenis apa; arti apa | Dipakai saat ingin menyatakan jenis apa; arti apa dengan bentuk どういう + （N）. |
+| seperti ini/itu/apa | こんな・そんな・あんな・どんな + （N） | ~ seperti ini/itu/apa | dipakai saat ~ seperti ini/itu/apa; bentuknya こんな／そんな／あんな／どんな + （N）. |
+| Sebegini/sebegitu/seberapa | こんなに・そんなに・あんなに・どんなに | Sebegini/sebegitu/seberapa ~ | dipakai saat sebegini/sebegitu/seberapa ~; bentuknya こんなに／そんなに／あんなに／どんなに + （Adj）/（V）. |
+| Begini | こう・そう・ああ・どう | Begini; begitu; bagaimana | dipakai saat begini; begitu; bagaimana; bentuknya こう／そう／ああ／どう + （V）. |
+| Yang disebut | 〜という（N）・〜っていう（N） | Yang disebut ~; bernama ~ | dipakai saat yang disebut ~; bernama ~; bentuknya （Phrase） + という（N） / っていう（N）. |
+| Jenis apa | どういう（N） | Jenis apa; arti apa | dipakai saat jenis apa; arti apa; bentuknya どういう + （N）. |
 
 ## Peta Pola
 
@@ -50,76 +50,76 @@ Kamu juga akan membedakan pola yang mirip agar tidak menerjemahkan langsung dari
   <span>どういう（N）</span>
 </div>
 
-Pola hari ini saling terhubung oleh fungsi **cara menyebut dan bertanya**. Gunakan tabel pola sebagai peta cepat: pola yang terlihat mirip biasanya berbeda pada petunjuk seperti partikel, bentuk negatif, bentuk lampau, bentuk kamus, atau sudut pandang pembicara.
+Pola hari ini sama-sama dipakai untuk **cara menyebut dan bertanya**, tetapi petunjuknya berbeda. Perhatikan partikel, bentuk negatif/lampau, bentuk kamus, dan siapa yang menjadi fokus kalimat.
 
 ## Cara Membentuk Pola
 
-Simbol utama: （N）= nomina, （V）= verba, （Clause）= klausa, （いAdj）= kata sifat-i, dan （なAdj）= kata sifat-na.
+Simbol utama: （N） berarti nomina, （V） berarti verba, （Klausa） berarti klausa, （いAdj） berarti kata sifat-i, dan （なAdj） berarti kata sifat-na.
 
 | Pola | Bentuk dasar | Catatan bentuk |
 |---|---|---|
-| こんな・そんな・あんな・どんな + （N） | こんな／そんな／あんな／どんな + （N） | Gunakan bentuk ini untuk ~ seperti ini/itu/apa. |
-| こんなに・そんなに・あんなに・どんなに | こんなに／そんなに／あんなに／どんなに + （Adj）/（V） | Gunakan bentuk ini untuk sebegini/sebegitu/seberapa ~. |
-| こう・そう・ああ・どう | こう／そう／ああ／どう + （V） | Gunakan bentuk ini untuk begini; begitu; bagaimana. |
-| 〜という（N）・〜っていう（N） | （Phrase） + という（N） / っていう（N） | Gunakan bentuk ini untuk yang disebut ~; bernama ~. |
-| どういう（N） | どういう + （N） | Gunakan bentuk ini untuk jenis apa; arti apa. |
+| こんな・そんな・あんな・どんな + （N） | こんな／そんな／あんな／どんな + （N） | dipakai untuk ~ seperti ini/itu/apa. |
+| こんなに・そんなに・あんなに・どんなに | こんなに／そんなに／あんなに／どんなに + （Adj）/（V） | dipakai untuk sebegini/sebegitu/seberapa ~. |
+| こう・そう・ああ・どう | こう／そう／ああ／どう + （V） | dipakai untuk begini; begitu; bagaimana. |
+| 〜という（N）・〜っていう（N） | （Phrase） + という（N） / っていう（N） | dipakai untuk yang disebut ~; bernama ~. |
+| どういう（N） | どういう + （N） | dipakai untuk jenis apa; arti apa. |
 
 ## Bangun Kalimat Bertahap
 
 | Langkah | Jepang | Fungsi |
 |---|---|---|
-| Bahan | こんな／そんな／あんな／どんな + （N） | Bentuk untuk seperti ini/itu/apa |
+| Bahan | こんな／そんな／あんな／どんな + （N） | bentuk untuk seperti ini/itu/apa |
 | Kalimat | 私もこんな家に住みたいです。 | ~ seperti ini/itu/apa |
-| Bahan | こんなに／そんなに／あんなに／どんなに + （Adj）/（V） | Bentuk untuk sebegini/sebegitu/seberapa |
+| Bahan | こんなに／そんなに／あんなに／どんなに + （Adj）/（V） | bentuk untuk sebegini/sebegitu/seberapa |
 | Kalimat | そんなにむずかしかったんですか。 | Sebegini/sebegitu/seberapa ~ |
-| Bahan | こう／そう／ああ／どう + （V） | Bentuk untuk begini |
+| Bahan | こう／そう／ああ／どう + （V） | bentuk untuk begini |
 | Kalimat | これは漢字でこう書きます。 | Begini; begitu; bagaimana |
-| Bahan | （Phrase） + という（N） / っていう（N） | Bentuk untuk yang disebut |
+| Bahan | （Phrase） + という（N） / っていう（N） | bentuk untuk yang disebut |
 | Kalimat | 目黒というところに住んでいます。 | Yang disebut ~; bernama ~ |
-| Bahan | どういう + （N） | Bentuk untuk jenis apa |
+| Bahan | どういう + （N） | bentuk untuk jenis apa |
 | Kalimat | それはどういう意味ですか。 | Jenis apa; arti apa |
 
-Bagian ini menjembatani rumus dan kalimat penuh. Ambil bentuk pendeknya dulu, lalu masukkan ke kalimat yang punya konteks jelas.
+Bagian ini menghubungkan rumus dan kalimat penuh. Mulai dari bentuk pendeknya dulu, lalu cek fungsi pola sebelum membaca contoh lengkap.
 
 ## Catatan Pemakaian
 
 ### こんな・そんな・あんな・どんな + N
 
-Pola ini dipakai untuk **~ seperti ini/itu/apa**. Bentuk intinya adalah こんな／そんな／あんな／どんな + （N）.
+Gunakan pola ini untuk **~ seperti ini/itu/apa**. Bentuk dasarnya: こんな／そんな／あんな／どんな + （N）.
 
-Catatan praktis: Used sebelum nouns. menunjukkan type atau kind.
+Catatan praktis: Dipakai sebelum nomina untuk menunjukkan jenis atau macam.
 
 Contoh inti: 私もこんな家に住みたいです。
 
 ### こんなに・そんなに・あんなに・どんなに
 
-Pola ini dipakai untuk **sebegini/sebegitu/seberapa ~**. Bentuk intinya adalah こんなに／そんなに／あんなに／どんなに + （Adj）/（V）.
+Gunakan pola ini untuk **sebegini/sebegitu/seberapa ~**. Bentuk dasarnya: こんなに／そんなに／あんなに／どんなに + （Adj）/（V）.
 
-Catatan praktis: Used sebelum adjectives atau verbs to show degree.
+Catatan praktis: Dipakai sebelum kata sifat atau verba untuk menunjukkan tingkat.
 
 Contoh inti: そんなにむずかしかったんですか。
 
 ### こう・そう・ああ・どう
 
-Pola ini dipakai untuk **begini; begitu; bagaimana**. Bentuk intinya adalah こう／そう／ああ／どう + （V）.
+Gunakan pola ini untuk **begini; begitu; bagaimana**. Bentuk dasarnya: こう／そう／ああ／どう + （V）.
 
-Catatan praktis: Used dengan actions, ways, methods, atau manner.
+Catatan praktis: Dipakai dengan tindakan, cara, metode, atau gaya melakukan sesuatu.
 
 Contoh inti: これは漢字でこう書きます。
 
 ### 〜という（N）・〜っていう（N）
 
-Pola ini dipakai untuk **yang disebut ~; bernama ~**. Bentuk intinya adalah （Phrase） + という（N） / っていう（N）.
+Gunakan pola ini untuk **yang disebut ~; bernama ~**. Bentuk dasarnya: （Phrase） + という（N） / っていう（N）.
 
-Catatan praktis: Used to name, quote, atau identify something. っていう is more casual.
+Catatan praktis: Dipakai untuk nama, kutipan, atau identifikasi sesuatu. っていう lebih santai.
 
 Contoh inti: 目黒というところに住んでいます。
 
 ### どういう（N）
 
-Pola ini dipakai untuk **jenis apa; arti apa**. Bentuk intinya adalah どういう + （N）.
+Gunakan pola ini untuk **jenis apa; arti apa**. Bentuk dasarnya: どういう + （N）.
 
-Catatan praktis: Used to ask type, meaning, atau explanation.
+Catatan praktis: Dipakai untuk menanyakan jenis, makna, atau penjelasan.
 
 Contoh inti: それはどういう意味ですか。
 
@@ -140,34 +140,34 @@ Contoh inti: それはどういう意味ですか。
   <div><p class="jp">こんなに勉強しているのに、成績が悪いです。</p><p>Padahal saya belajar sebanyak ini, nilai saya buruk.</p></div>
   <div><p class="jp">これは漢字でこう書きます。</p><p>Ini ditulis begini dalam kanji.</p></div>
   <div><p class="jp">それはどういう意味ですか。</p><p>Itu artinya apa?</p></div>
-  <div><p class="jp">私もこんな家に住みたいです。</p><p>Kalimat ini memakai こんな・そんな・あんな・どんな + （N） untuk arti ~ seperti ini/itu/apa.</p></div>
-  <div><p class="jp">そんなにむずかしかったんですか。</p><p>Kalimat ini memakai こんなに・そんなに・あんなに・どんなに untuk arti sebegini/sebegitu/seberapa ~.</p></div>
+  <div><p class="jp">私もこんな家に住みたいです。</p><p>Saya juga ingin tinggal di rumah seperti ini.</p></div>
+  <div><p class="jp">そんなにむずかしかったんですか。</p><p>Apakah sesulit itu?</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar
 
 | Pasangan | Cara membedakan |
 |---|---|
-| こんな・そんな・あんな / こう・そう・ああ | Bedakan dari fungsi utamanya: Type of noun dibanding way of doing. Petunjuk pilihan: Gunakan こんな sebelum nouns. gunakan こう sebelum verbs/actions.. |
-| こんな（N） / こんなに | Bedakan dari fungsi utamanya: Such a noun dibanding this much/so much. Petunjuk pilihan: Gunakan こんな sebelum nouns. gunakan こんなに sebelum adjectives atau verbs.. |
-| そんな（N） / そんなに | Bedakan dari fungsi utamanya: That kind of noun dibanding that much. Petunjuk pilihan: Gunakan そんな（N） to describe type. gunakan そんなに to describe degree.. |
-| 〜という（N） / どういう（N） | Bedakan dari fungsi utamanya: Called/named ~ dibanding what kind/meaning ~. Petunjuk pilihan: Gunakan 〜という to give a name. gunakan どういう to ask untuk meaning atau type.. |
-| 〜という（N） / 〜っていう（N） | Bedakan dari fungsi utamanya: Standard dibanding casual. Petunjuk pilihan: Gunakan という in neutral/polite speech. gunakan っていう in casual conversation.. |
+| こんな・そんな・あんな / こう・そう・ああ | Bedakan dari fungsi utamanya: Jenis nomina dibanding cara melakukan. Petunjuk pilihan: Gunakan こんな sebelum nomina. Gunakan こう sebelum verba/tindakan. |
+| こんな（N） / こんなに | Bedakan dari fungsi utamanya: Nomina seperti ini dibanding sebanyak/sebegitu ini. Petunjuk pilihan: Gunakan こんな sebelum nomina. Gunakan こんなに sebelum kata sifat atau verba. |
+| そんな（N） / そんなに | Bedakan dari fungsi utamanya: Nomina seperti itu dibanding sebanyak/sebegitu itu. Petunjuk pilihan: Gunakan そんな（N） untuk menjelaskan jenis. Gunakan そんなに untuk menjelaskan tingkat. |
+| 〜という（N） / どういう（N） | Bedakan dari fungsi utamanya: Disebut/bernama ~ dibanding jenis/makna apa ~. Petunjuk pilihan: Gunakan 〜という untuk memberi nama. Gunakan どういう untuk bertanya makna atau jenis. |
+| 〜という（N） / 〜っていう（N） | Bedakan dari fungsi utamanya: Standar dibanding santai. Petunjuk pilihan: Gunakan という dalam ucapan netral/sopan. Gunakan っていう dalam percakapan santai. |
 
 ## Kesalahan Umum
 
 | Salah | Benar | Kenapa |
 |---|---|---|
-| こんなに家に住みたいです。 | こんな家に住みたいです。 | こんな modifies nouns |
-| こんな勉強しているのに、成績が悪いです。 | こんなに勉強しているのに、成績が悪いです。 | こんなに menunjukkan degree |
-| これは漢字でこんな書きます。 | これは漢字でこう書きます。 | こう modifies how an action is done |
-| それはどう意味ですか。 | それはどういう意味ですか。 | Meaning question uses どういう意味 |
+| こんなに家に住みたいです。 | こんな家に住みたいです。 | こんな menerangkan nomina |
+| こんな勉強しているのに、成績が悪いです。 | こんなに勉強しているのに、成績が悪いです。 | こんなに menunjukkan tingkat |
+| これは漢字でこんな書きます。 | これは漢字でこう書きます。 | こう menerangkan cara suatu tindakan dilakukan |
+| それはどう意味ですか。 | それはどういう意味ですか。 | Pertanyaan arti memakai どういう意味 |
 
-Catatan untuk pembelajar Indonesia: Indonesian “begini/begitu/seperti ini/seperti itu” maps to different Japanese forms. - こんなN = noun like this - こんなに = this much / so ~ - こうV = do like this - というN = called ~ - どういうN = what kind of / what meaning
+Catatan untuk pembelajar Indonesia: “Begini/begitu/seperti ini/seperti itu” dalam bahasa Indonesia bisa menjadi beberapa bentuk Jepang. - こんなN = nomina seperti ini - こんなに = sebanyak/sebegitu ini - こうV = melakukan seperti ini - というN = bernama/disebut ~ - どういうN = jenis apa / maknanya apa
 
 ## Mini Practice
 
-Pilih jawaban yang paling tepat untuk melengkapi kalimat. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat. Perhatikan petunjuk partikel, bentuk kata, dan konteks kalimat sebelum memilih.
 
 ::MiniPractice
 ---
@@ -176,51 +176,51 @@ sentence: "これは漢字でこ____書きます。"
 optionA: "う"
 optionB: "んな"
 correct: "う"
-explanation: "う benar. こう modifies how an action is done"
+explanation: "う benar. こう menerangkan cara suatu tindakan dilakukan"
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pola apa yang dipakai untuk arti: ~ seperti ini/itu/apa?"
-sentence: "例: 私もこんな家に住みたいです。 ポイント: ____"
-optionA: "こんな・そんな・あんな・どんな + N"
-optionB: "こんなに・そんなに・あんなに・どんなに"
-correct: "こんな・そんな・あんな・どんな + N"
-explanation: "こんな・そんな・あんな・どんな + N benar karena kalimat contoh menunjukkan ~ seperti ini/itu/apa."
+question: "Saya juga ingin tinggal di rumah seperti ini."
+sentence: "私も____家に住みたいです。"
+optionA: "こんな"
+optionB: "こんなに"
+correct: "こんな"
+explanation: "こんな benar karena langsung menerangkan nomina 家. こんなに menerangkan derajat sifat atau aksi."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pola apa yang dipakai untuk arti: Sebegini/sebegitu/seberapa ~?"
-sentence: "例: そんなにむずかしかったんですか。 ポイント: ____"
-optionA: "こんなに・そんなに・あんなに・どんなに"
-optionB: "こう・そう・ああ・どう"
-correct: "こんなに・そんなに・あんなに・どんなに"
-explanation: "こんなに・そんなに・あんなに・どんなに benar karena kalimat contoh menunjukkan sebegini/sebegitu/seberapa ~."
+question: "Apakah sesulit itu?"
+sentence: "____むずかしかったんですか。"
+optionA: "そんなに"
+optionB: "そんな"
+correct: "そんなに"
+explanation: "そんなに benar karena menerangkan derajat kata sifat むずかしい."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pola apa yang dipakai untuk arti: Begini; begitu; bagaimana?"
-sentence: "例: これは漢字でこう書きます。 ポイント: ____"
-optionA: "こう・そう・ああ・どう"
-optionB: "〜というN・〜っていうN"
-correct: "こう・そう・ああ・どう"
-explanation: "こう・そう・ああ・どう benar karena kalimat contoh menunjukkan begini; begitu; bagaimana."
+question: "Kanji ini ditulis begini."
+sentence: "これは漢字で____書きます。"
+optionA: "こう"
+optionB: "こんな"
+correct: "こう"
+explanation: "こう benar karena menerangkan cara tindakan 書きます dilakukan."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pola apa yang dipakai untuk arti: Yang disebut ~; bernama ~?"
-sentence: "例: 目黒というところに住んでいます。 ポイント: ____"
-optionA: "〜というN・〜っていうN"
-optionB: "どういうN"
-correct: "〜というN・〜っていうN"
-explanation: "〜というN・〜っていうN benar karena kalimat contoh menunjukkan yang disebut ~; bernama ~."
+question: "Saya tinggal di tempat bernama Meguro."
+sentence: "目黒____ところに住んでいます。"
+optionA: "という"
+optionB: "どういう"
+correct: "という"
+explanation: "という benar untuk memperkenalkan nama atau sebutan sebuah tempat."
 ---
 ::
 

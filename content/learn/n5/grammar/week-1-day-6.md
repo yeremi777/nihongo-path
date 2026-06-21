@@ -1,6 +1,6 @@
 ---
 title: "お国は どちらですか。"
-description: "Belajar grammar N5 dasar untuk kata tanya dalam kalimat pendek."
+description: "Belajar memahami grammar N5 untuk kata tanya dalam kalimat pendek."
 level: "N5"
 category: "grammar"
 topic: "お国は どちらですか。"
@@ -25,17 +25,17 @@ tags:
 
 Mengenali pola dasar untuk kata tanya.
 
-Di akhir pelajaran ini, kamu bisa membaca kalimat seperti お国はどちらですか. Fokusnya adalah melihat bentuk kecil yang menjadi petunjuk arti.
+Di akhir pelajaran ini, kamu bisa membaca kalimat seperti お国はどちらですか. Fokusnya adalah memahami petunjuk kecil seperti partikel, bentuk kata, dan posisi kata dalam kalimat.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca pola dari kiri ke kanan. Tandai partikel, bentuk verba, atau kata penghubung sebelum menebak arti seluruh kalimat.
+  <strong>Fokus hari ini:</strong> baca kalimat pelan-pelan. Tandai partikel, bentuk kata, atau kata penghubung, lalu cocokkan dengan situasi yang sedang dibicarakan.
 </div>
 
 ## Pola Hari Ini
 
 | Fungsi | Pola | Arti praktis | Kapan dipakai |
 |---|---|---|---|
-| Kata tanya | だれ／どなた／何／どこ／どちら／どうやって／なんで／どんな（N）／どの（N）／いくつ／いつ／どれ／どうして／なぜ／いくら／どのくらい | Kata tanya | N5 question words |
+| Kata tanya | だれ／どなた／何／どこ／どちら／どうやって／なんで／どんな（N）／どの（N）／いくつ／いつ／どれ／どうして／なぜ／いくら／どのくらい | Kata tanya | kata tanya dasar N5 |
 
 ## Peta Pola
 
@@ -47,11 +47,11 @@ Pola hari ini saling terhubung sebagai alat beginner untuk kata tanya dasar. Mul
 
 ## Cara Membentuk Pola
 
-Simbol utama: （N）= nomina, （V）= verba, （Adj）= kata sifat, （Place）= tempat, （Person）= orang, dan （Time）= waktu.
+Simbol utama: （N）= nomina, （V）= verba, （Adj）= kata sifat, （Tempat）= tempat, （Orang）= orang, dan （Waktu）= waktu.
 
 | Pola | Bentuk dasar | Catatan bentuk |
 |---|---|---|
-| 疑問詞 | だれ／どなた／何／どこ／どちら／どうやって／なんで／どんな（N）／どの（N）／いくつ／いつ／どれ／どうして／なぜ／いくら／どのくらい | N5 question words |
+| 疑問詞 | だれ／どなた／何／どこ／どちら／どうやって／なんで／どんな（N）／どの（N）／いくつ／いつ／どれ／どうして／なぜ／いくら／どのくらい | kata tanya dasar N5 |
 
 ## Bangun Kalimat Bertahap
 
@@ -62,13 +62,13 @@ Simbol utama: （N）= nomina, （V）= verba, （Adj）= kata sifat, （Place�
 
 ## Catatan Pemakaian
 
-- Kata tanya: N5 question words. Some are polite forms, some attach to nouns, and some ask about quantity, method, reason, or degree.
+- Kata tanya: Kata tanya N5. Ada yang bentuk sopan, ada yang menempel pada nomina, dan ada yang menanyakan jumlah, cara, alasan, atau tingkat.
 
-Indonesian “berapa” can map to several Japanese question words:
+“Berapa” dalam bahasa Indonesia bisa menjadi beberapa kata tanya Jepang:
 
-- いくつ = how many / how old
-- いくら = how much money
-- どのくらい／どれくらい = how long / how much / about how many
+- いくつ = berapa jumlah / berapa umur
+- いくら = berapa harga
+- どのくらい／どれくらい = berapa lama / seberapa banyak / kira-kira berapa
 
 ## Pola yang Sering Muncul
 
@@ -79,7 +79,7 @@ Indonesian “berapa” can map to several Japanese question words:
 ## Contoh Kalimat
 
 <div class="example-list">
-  <div><p class="jp">お国はどちらですか。</p><p>Kalimat ini menunjukkan fungsi: kata tanya.</p></div>
+  <div><p class="jp">お国はどちらですか。</p><p>Negara Anda di mana?</p></div>
   <div><p class="jp">今日はいい天気です。</p><p>Hari ini cuacanya bagus.</p></div>
   <div><p class="jp">すみません、もう一度お願いします。</p><p>Maaf, sekali lagi tolong.</p></div>
   <div><p class="jp">この文はやさしいです。</p><p>Kalimat ini mudah.</p></div>
@@ -89,75 +89,77 @@ Indonesian “berapa” can map to several Japanese question words:
 
 | Pasangan | Cara membedakan |
 |---|---|
-| だれ / どなた | Casual/basic vs polite. Use どなた in polite introductions or formal settings. |
-| どこ / どちら | Basic where vs polite where/which. Use どちら for polite questions like country, company, or direction. |
-| どんな（N） / どの（N） | What kind of （N） vs which specific （N）. Use どんな for type/kind. Use どの for selecting from known options. |
-| どれ / どの（N） | Standalone which vs which before a noun. Use どれ alone. Use どの before a noun. |
-| いくつ / いくら | Quantity/age vs price. Use いくつ for number or age. Use いくら for money. |
+| だれ / どなた | Santai/dasar vs sopan. Pakai どなた dalam perkenalan sopan atau situasi formal. |
+| どこ / どちら | “Di mana” dasar vs “di mana/yang mana” yang lebih sopan. Pakai どちら untuk pertanyaan sopan tentang negara, perusahaan, atau arah. |
+| どんな（N） / どの（N） | Jenis （N） seperti apa vs （N） tertentu yang mana. Pakai どんな untuk jenis/macam. Pakai どの untuk memilih dari opsi yang sudah diketahui. |
+| どれ / どの（N） | “Yang mana” berdiri sendiri vs “yang mana” sebelum nomina. Pakai どれ sendiri. Pakai どの sebelum nomina. |
+| いくつ / いくら | Jumlah/umur dibanding harga. Pakai いくつ untuk jumlah atau umur. Pakai いくら untuk harga. |
 
 ## Kesalahan Umum
 
 | Titik salah | Kurang tepat | Lebih tepat | Petunjuk |
 |---|---|---|---|
-| どんな must be followed by a noun | どんなが好きですか。 | どんな音楽が好きですか。 | Musik seperti apa yang kamu suka? |
-| どの must be followed by a noun | どのですか。 | どの本ですか。 | Buku yang mana? |
-| どれ is used alone | どれ本ですか。 | どれですか。 | Yang mana? |
-| こちら is not normally used for introducing your own family member | — | — | Ini ibu saya. |
+| どんな harus diikuti nomina | どんなが好きですか。 | どんな音楽が好きですか。 | Musik seperti apa yang kamu suka? |
+| どの harus diikuti nomina | どのですか。 | どの本ですか。 | Buku yang mana? |
+| どれ dipakai sendiri | どれ本ですか。 | どれですか。 | Yang mana? |
+| こちら biasanya tidak dipakai untuk memperkenalkan anggota keluarga sendiri dalam kalimat sederhana | — | — | Ini ibu saya. |
 
 ## Mini Practice
 
+Pilih jawaban yang paling tepat. Perhatikan petunjuk partikel, bentuk kata, dan konteks kalimat sebelum memilih.
+
 ::MiniPractice
 ---
-question: "Kata tanya."
-sentence: "お国はどちらですか。"
-optionA: "疑問詞"
-optionB: "〜です"
-correct: "疑問詞"
-explanation: "疑問詞 cocok karena fungsi kalimatnya adalah kata tanya. Petunjuknya ada pada bentuk だれ／どなた／何／どこ／どちら／どうやって／なんで／どんな（N）／どの（N）／いくつ／いつ／どれ／どうして／なぜ／いくら／どのくらい."
+question: "Negara Anda di mana?"
+sentence: "お国は____ですか。"
+optionA: "どちら"
+optionB: "どなた"
+correct: "どちら"
+explanation: "どちら benar untuk menanyakan negara, arah, atau pilihan secara sopan. どなた berarti siapa secara sopan."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih bentuk yang sesuai untuk kata tanya."
-sentence: "お国はどちらですか。"
-optionA: "疑問詞"
-optionB: "〜です"
-correct: "疑問詞"
-explanation: "疑問詞 sesuai dengan pola hari ini."
+question: "Orang itu siapa?"
+sentence: "あの人は____ですか。"
+optionA: "だれ"
+optionB: "どこ"
+correct: "だれ"
+explanation: "だれ benar untuk menanyakan orang. どこ menanyakan tempat."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih bentuk yang sesuai untuk kata tanya."
-sentence: "お国はどちらですか。"
-optionA: "疑問詞"
-optionB: "〜です"
-correct: "疑問詞"
-explanation: "疑問詞 sesuai dengan pola hari ini."
+question: "Kamu suka musik seperti apa?"
+sentence: "____音楽が好きですか。"
+optionA: "どんな"
+optionB: "どれ"
+correct: "どんな"
+explanation: "どんな benar karena menanyakan jenis/macam dan harus diikuti nomina. どれ dipakai sendiri untuk 'yang mana'."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih bentuk yang sesuai untuk kata tanya."
-sentence: "お国はどちらですか。"
-optionA: "疑問詞"
-optionB: "〜です"
-correct: "疑問詞"
-explanation: "疑問詞 sesuai dengan pola hari ini."
+question: "Buku yang mana?"
+sentence: "____本ですか。"
+optionA: "どの"
+optionB: "どれ"
+correct: "どの"
+explanation: "どの benar karena langsung menerangkan 本. どれ tidak langsung menempel sebelum nomina."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih bentuk yang sesuai untuk kata tanya."
-sentence: "お国はどちらですか。"
-optionA: "疑問詞"
-optionB: "〜です"
-correct: "疑問詞"
-explanation: "疑問詞 sesuai dengan pola hari ini."
+question: "Harganya berapa?"
+sentence: "これは____ですか。"
+optionA: "いくら"
+optionB: "いくつ"
+correct: "いくら"
+explanation: "いくら benar untuk harga. いくつ dipakai untuk jumlah atau umur."
 ---
 ::
 

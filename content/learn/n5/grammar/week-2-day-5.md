@@ -1,6 +1,6 @@
 ---
 title: "これはともだちにもらったCDです。"
-description: "Belajar grammar N5 dasar untuk modifikasi kata benda; klausa relatif, akan bagaimana?; ada apa? dalam kalimat pendek."
+description: "Belajar memahami grammar N5 untuk modifikasi kata benda; klausa relatif, akan bagaimana?; ada apa? dalam kalimat pendek."
 level: "N5"
 category: "grammar"
 topic: "これはともだちにもらったCDです。"
@@ -25,18 +25,18 @@ tags:
 
 Mengenali pola dasar untuk modifikasi kata benda; klausa relatif, akan bagaimana?; ada apa?.
 
-Di akhir pelajaran ini, kamu bisa membaca kalimat seperti これはクラスで使う本です, その本をどうしますか. Fokusnya adalah melihat bentuk kecil yang menjadi petunjuk arti.
+Di akhir pelajaran ini, kamu bisa membaca kalimat seperti これはクラスで使う本です, その本をどうしますか. Fokusnya adalah memahami petunjuk kecil seperti partikel, bentuk kata, dan posisi kata dalam kalimat.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca pola dari kiri ke kanan. Tandai partikel, bentuk verba, atau kata penghubung sebelum menebak arti seluruh kalimat.
+  <strong>Fokus hari ini:</strong> baca kalimat pelan-pelan. Tandai partikel, bentuk kata, atau kata penghubung, lalu cocokkan dengan situasi yang sedang dibicarakan.
 </div>
 
 ## Pola Hari Ini
 
 | Fungsi | Pola | Arti praktis | Kapan dipakai |
 |---|---|---|---|
-| Modifikasi kata benda | （Modifier） + （N） | Modifikasi kata benda; klausa relatif | Words or clauses that describe nouns come before the noun |
-| Akan bagaimana? | どうしますか／どうしましたか | Akan bagaimana?; ada apa? | どうしますか asks what someone will do with something or how they will handle it |
+| Modifikasi kata benda | （Pewatas） + （N） | Modifikasi kata benda; klausa relatif | Kata atau klausa yang menerangkan nomina diletakkan sebelum nomina itu |
+| Akan bagaimana? | どうしますか／どうしましたか | Akan bagaimana?; ada apa? | どうしますか menanyakan apa yang akan dilakukan seseorang atau bagaimana ia akan menangani sesuatu |
 
 ## Peta Pola
 
@@ -49,44 +49,44 @@ Pola hari ini saling terhubung sebagai alat beginner untuk keberadaan dan kepemi
 
 ## Cara Membentuk Pola
 
-Simbol utama: （N）= nomina, （V）= verba, （Adj）= kata sifat, （Place）= tempat, （Person）= orang, dan （Time）= waktu.
+Simbol utama: （N）= nomina, （V）= verba, （Adj）= kata sifat, （Tempat）= tempat, （Orang）= orang, dan （Waktu）= waktu.
 
 | Pola | Bentuk dasar | Catatan bentuk |
 |---|---|---|
-| 名詞修飾 | （Modifier） + （N） | Words or clauses that describe nouns come before the noun |
-| どうしますか・どうしましたか | どうしますか／どうしましたか | どうしますか asks what someone will do with something or how they will handle it |
+| 名詞修飾 | （Pewatas） + （N） | Kata atau klausa yang menerangkan nomina diletakkan sebelum nomina itu |
+| どうしますか・どうしましたか | どうしますか／どうしましたか | どうしますか menanyakan apa yang akan dilakukan seseorang atau bagaimana ia akan menangani sesuatu |
 
 ## Bangun Kalimat Bertahap
 
 | Langkah | Jepang | Fungsi |
 |---|---|---|
-| Bahan | （Modifier） + （N） | bentuk untuk modifikasi kata benda |
+| Bahan | （Pewatas） + （N） | bentuk untuk modifikasi kata benda |
 | Kalimat | これはクラスで使う本です。 | Modifikasi kata benda; klausa relatif |
 | Bahan | どうしますか／どうしましたか | bentuk untuk akan bagaimana? |
 | Kalimat | その本をどうしますか。 | Akan bagaimana?; ada apa? |
 
 ## Catatan Pemakaian
 
-- Modifikasi kata benda: Words or clauses that describe nouns come before the noun. The modifying phrase can be short or long.
-- Akan bagaimana?: どうしますか asks what someone will do with something or how they will handle it. どうしましたか asks what happened or what someone did.
+- Modifikasi kata benda: Kata atau klausa yang menerangkan nomina diletakkan sebelum nomina itu. Frasa pewatasnya bisa pendek atau panjang.
+- Akan bagaimana?: どうしますか menanyakan apa yang akan dilakukan seseorang atau bagaimana ia akan menangani sesuatu. どうしましたか menanyakan apa yang terjadi atau apa yang dilakukan seseorang.
 
-Indonesian often puts “yang” before the explanation: “buku yang saya pakai.” Japanese puts the whole explanation **before** the noun:
+Bahasa Indonesia sering menaruh “yang” sebelum penjelasan, seperti “buku yang saya pakai”. Bahasa Jepang meletakkan seluruh penjelasan **sebelum** nominanya:
 
-- クラスで使う本 = book that I use in class
-- 友だちにもらったCD = CD that I received from a friend
+- クラスで使う本 = buku yang dipakai di kelas
+- 友だちにもらったCD = CD yang saya terima dari teman
 
 ## Pola yang Sering Muncul
 
 | Pola | Arti praktis | Contoh konteks |
 |---|---|---|
-| （Modifier） + （N） | Modifikasi kata benda; klausa relatif | これはクラスで使う本です。 |
+| （Pewatas） + （N） | Modifikasi kata benda; klausa relatif | これはクラスで使う本です。 |
 | どうしますか／どうしましたか | Akan bagaimana?; ada apa? | その本をどうしますか。 |
 
 ## Contoh Kalimat
 
 <div class="example-list">
-  <div><p class="jp">これはクラスで使う本です。</p><p>Kalimat ini menunjukkan fungsi: modifikasi kata benda; klausa relatif.</p></div>
-  <div><p class="jp">その本をどうしますか。</p><p>Ada atau punya sesuatu dalam konteks sederhana.</p></div>
+  <div><p class="jp">これはクラスで使う本です。</p><p>Ini buku yang dipakai di kelas.</p></div>
+  <div><p class="jp">その本をどうしますか。</p><p>Buku itu akan kamu apakan?</p></div>
   <div><p class="jp">今日はいい天気です。</p><p>Hari ini cuacanya bagus.</p></div>
   <div><p class="jp">すみません、もう一度お願いします。</p><p>Maaf, sekali lagi tolong.</p></div>
   <div><p class="jp">この文はやさしいです。</p><p>Kalimat ini mudah.</p></div>
@@ -96,75 +96,77 @@ Indonesian often puts “yang” before the explanation: “buku yang saya pakai
 
 | Pasangan | Cara membedakan |
 |---|---|
-| （いAdj） + （N） / （なAdj） + な + （N） | i-adjective direct modifier vs na-adjective with な. Use 安いレストラン, but きれいな先生. |
-| （N）の（N） / （Clause） + （N） | Noun modifier vs full sentence-like modifier. Use （N）の（N） for simple noun relation. Use （Clause） + （N） for richer description. |
-| 父が好きな（N） / 父の好きな（N） | が and の can both mark the subject inside some noun modifiers. Both can be natural in simple modifier clauses. |
-| （Vる） + （N） / （Vた） + （N） | Action not completed/future/general vs completed/past. Use （V）る for use/do/buy in a general or future sense. Use （V）た for already done. |
-| どうしますか / どうしましたか | Future/handling question vs past/what happened. Use どうしますか for “what will you do?” Use どうしましたか for “what happened?” |
+| （いAdj） + （N） / （なAdj） + な + （N） | Kata sifat-i langsung menerangkan nomina, sedangkan kata sifat-na membutuhkan な. Pakai 安いレストラン, tetapi きれいな先生. |
+| （N）の（N） / （Klausa） + （N） | Pewatas nomina sederhana vs pewatas seperti kalimat. Pakai （N）の（N） untuk hubungan nomina sederhana. Pakai （Klausa） + （N） untuk deskripsi yang lebih lengkap. |
+| 父が好きな（N） / 父の好きな（N） | が dan の sama-sama bisa menandai subjek di dalam beberapa pewatas nomina. Keduanya bisa natural dalam klausa pewatas sederhana. |
+| （Vる） + （N） / （Vた） + （N） | Tindakan belum selesai/masa depan/umum vs sudah selesai/lampau. Pakai （V）る untuk memakai, melakukan, atau membeli dalam makna umum atau akan datang. Pakai （V）た untuk tindakan yang sudah terjadi. |
+| どうしますか / どうしましたか | Pertanyaan tindakan berikutnya vs pertanyaan kejadian lampau. Pakai どうしますか untuk “apa yang akan dilakukan?”. Pakai どうしましたか untuk “ada apa/apa yang terjadi?”. |
 
 ## Kesalahan Umum
 
 | Titik salah | Kurang tepat | Lebih tepat | Petunjuk |
 |---|---|---|---|
-| Noun modifiers come before the noun | 本クラスで使うです。 | クラスで使う本です。 | Itu buku yang saya pakai di kelas. |
-| Verbs before nouns use plain form | これはクラスで使います本です。 | これはクラスで使う本です。 | Ini buku yang saya pakai di kelas. |
-| na-adjective before noun needs な | 父が好きりょうりを作りました。 | 父が好きなりょうりを作りました。 | Saya membuat masakan yang disukai ayah saya. |
-| どうしましたか asks what happened | パーティーのあと、どうしますか。 | パーティーのあと、どうしましたか。 | Setelah pesta, kamu bagaimana / melakukan apa? |
+| Pewatas nomina diletakkan sebelum nominanya | 本クラスで使うです。 | クラスで使う本です。 | Itu buku yang saya pakai di kelas. |
+| Verba sebelum nomina memakai bentuk biasa | これはクラスで使います本です。 | これはクラスで使う本です。 | Ini buku yang saya pakai di kelas. |
+| Kata sifat-na sebelum nomina needs な | 父が好きりょうりを作りました。 | 父が好きなりょうりを作りました。 | Saya membuat masakan yang disukai ayah saya. |
+| どうしましたか menanyakan apa yang terjadi | パーティーのあと、どうしますか。 | パーティーのあと、どうしましたか。 | Setelah pesta, kamu bagaimana / melakukan apa? |
 
 ## Mini Practice
 
+Pilih jawaban yang paling tepat. Perhatikan petunjuk partikel, bentuk kata, dan konteks kalimat sebelum memilih.
+
 ::MiniPractice
 ---
-question: "Modifikasi kata benda; klausa relatif."
-sentence: "これはクラスで使う本です。"
-optionA: "名詞修飾"
-optionB: "どうしますか・どうしましたか"
-correct: "名詞修飾"
-explanation: "名詞修飾 cocok karena fungsi kalimatnya adalah modifikasi kata benda; klausa relatif. Petunjuknya ada pada bentuk （Modifier） + （N）."
+question: "Ini buku yang dipakai di kelas."
+sentence: "これはクラスで____本です。"
+optionA: "使う"
+optionB: "使います"
+correct: "使う"
+explanation: "使う benar karena pewatas nomina memakai bentuk biasa sebelum 本."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Akan bagaimana?; ada apa?."
-sentence: "その本をどうしますか。"
-optionA: "どうしますか"
-optionB: "名詞修飾"
-correct: "どうしますか"
-explanation: "どうしますか cocok karena fungsi kalimatnya adalah akan bagaimana?; ada apa?. Petunjuknya ada pada bentuk どうしますか／どうしましたか."
+question: "Buku itu akan kamu apakan?"
+sentence: "その本を____しますか。"
+optionA: "どう"
+optionB: "どこ"
+correct: "どう"
+explanation: "どうしますか benar untuk menanyakan akan diapakan atau bagaimana menanganinya."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih bentuk yang sesuai untuk modifikasi kata benda; klausa relatif."
-sentence: "これはクラスで使う本です。"
-optionA: "名詞修飾"
-optionB: "〜です"
-correct: "名詞修飾"
-explanation: "名詞修飾 sesuai dengan pola hari ini."
+question: "Ini CD yang saya terima dari teman."
+sentence: "これは友だちにもらった____です。"
+optionA: "CD"
+optionB: "CDを"
+correct: "CD"
+explanation: "CD benar karena frasa 友だちにもらった langsung menerangkan nomina. を tidak diletakkan setelah nomina yang sedang diterangkan."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih bentuk yang sesuai untuk akan bagaimana?; ada apa?."
-sentence: "その本をどうしますか。"
-optionA: "どうしますか・どうしましたか"
-optionB: "〜です"
-correct: "どうしますか・どうしましたか"
-explanation: "どうしますか・どうしましたか sesuai dengan pola hari ini."
+question: "Ada apa?"
+sentence: "____しましたか。"
+optionA: "どう"
+optionB: "どの"
+correct: "どう"
+explanation: "どうしましたか benar untuk menanyakan keadaan atau masalah. どの harus diikuti nomina."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih bentuk yang sesuai untuk modifikasi kata benda; klausa relatif."
-sentence: "これはクラスで使う本です。"
-optionA: "名詞修飾"
-optionB: "〜です"
-correct: "名詞修飾"
-explanation: "名詞修飾 sesuai dengan pola hari ini."
+question: "Orang yang sedang membaca buku adalah guru saya."
+sentence: "本を____人は先生です。"
+optionA: "読んでいる"
+optionB: "読みます"
+correct: "読んでいる"
+explanation: "読んでいる benar karena klausa bentuk biasa menerangkan 人. Bentuk sopan 読みます tidak dipakai sebelum nomina dalam pola ini."
 ---
 ::
 

@@ -21,12 +21,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca kata kerja umum yang berubah makna sesuai pasangan katanya, seperti 出る, 入る, かかる, dan かける.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat membaca kata kerja bermakna banyak melalui pasangan kata benda dan konteks kalimat.
 
-Fokusnya adalah melihat nomina sebelum kata kerja sebelum memilih arti.
+Fokus hari ini bukan hanya menghafal arti kata seperti 大学を出る, 会社に入る, 試合に出る, dan 部屋を出る, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> jangan langsung menerjemahkan 出る sebagai "keluar"; 大学を出る berarti lulus dari universitas.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -64,6 +64,10 @@ Makna kata kerja ditentukan oleh pasangan: universitas + 出る, perusahaan + �
   <span>心配をかける</span>
 </div>
 
+Bayangkan kamu sedang membaca atau mendengar situasi tentang kata kerja bermakna ganda (1): kata intinya bisa berupa 大学を出る, 会社に入る, dan 試合に出る; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
+
+
 ## Catatan Pemakaian
 
 - **出る:** bisa berarti lulus, keluar, muncul, atau ikut tampil tergantung nomina.
@@ -72,8 +76,8 @@ Makna kata kerja ditentukan oleh pasangan: universitas + 出る, perusahaan + �
 
 ## Pola yang Sering Muncul
 
-- **Nを出る:** keluar/lulus dari N, tergantung N.
-- **Nに入る:** masuk/bergabung ke N.
+- **（N）を出る:** keluar/lulus dari N, tergantung N.
+- **（N）に入る:** masuk/bergabung ke N.
 - **時間／お金がかかる:** が menandai hal yang diperlukan.
 - **心配をかける:** を menandai beban/perasaan yang diberikan kepada orang lain.
 
@@ -99,9 +103,11 @@ Makna kata kerja ditentukan oleh pasangan: universitas + 出る, perusahaan + �
 
 ## Mini Practice
 
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
+
 ::MiniPractice
 ---
-question: "Lulus dari universitas."
+question: "Saya lulus dari universitas."
 sentence: "大学を____。"
 optionA: "出る"
 optionB: "かける"
@@ -112,7 +118,7 @@ explanation: "大学を出る berarti lulus, bukan sekadar keluar."
 
 ::MiniPractice
 ---
-question: "Membuat orang khawatir."
+question: "Saya membuat orang khawatir."
 sentence: "心配を____。"
 optionA: "かける"
 optionB: "入れる"
@@ -135,17 +141,17 @@ explanation: "時間がかかる berarti memerlukan waktu."
 ::MiniPractice
 ---
 question: "Setelah lulus universitas, kakak mulai bekerja."
-sentence: "兄は____から働いた。"
-optionA: "大学を出る"
-optionB: "会社に入る"
-correct: "大学を出る"
-explanation: "大学を出る berarti lulus dari universitas; から働いた memberi urutan setelah lulus."
+sentence: "兄は大学を____から働いた。"
+optionA: "出て"
+optionB: "入って"
+correct: "出て"
+explanation: "大学を出る berarti lulus dari universitas. Sebelum から dalam urutan peristiwa, bentuknya menjadi 出てから."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Bulan depan seseorang bergabung dengan perusahaan baru."
+question: "Bulan depan saya masuk perusahaan baru."
 sentence: "来月、新しい____。"
 optionA: "会社に入る"
 optionB: "大学を出る"

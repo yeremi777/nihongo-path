@@ -21,12 +21,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali kosakata N3 untuk Ayo naik kereta ②. Fokusnya adalah membaca kata sebagai bagian dari situasi nyata, bukan hanya menghafal arti satu per satu.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat membaca arah kereta, tiket, kursi, peron, jadwal, dan pengumuman stasiun.
 
-Pelajaran ini membantu kamu melihat hubungan antara istilah utama, benda, tindakan, kondisi, dan pola partikel yang sering muncul dalam kalimat pendek sehari-hari.
+Fokus hari ini bukan hanya menghafal arti kata seperti プラットホームが混雑している, 黄色い線, 下がる, dan 特急が通過する, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca kata sebagai kelompok makna. Perhatikan apakah kata itu menunjuk benda/tempat, tindakan dengan partikel seperti を・が・に・で, atau kondisi yang menjelaskan keadaan.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -37,11 +37,11 @@ Pelajaran ini membantu kamu melihat hubungan antara istilah utama, benda, tindak
 |---|---|---|
 | プラットホームが混雑している | プラットホームがこんざつしている | peron sedang ramai/padat; 混雑する = be crowded/congested |
 | 黄色い線 | きいろいせん | garis kuning; stand behind/inside this line on platforms |
-| 下がる | さがる | mundur; turun; platform announcements use 内側に下がる |
+| 下がる | さがる | mundur; turun; pengumuman peron sering memakai 内側に下がる |
 | 特急が通過する | とっきゅうがつうかする | kereta ekspres lewat tanpa berhenti; 通過する = pass through |
-| 乗車する | じょうしゃする | naik kereta/kendaraan; formal version of 乗る |
-| 下車する | げしゃする | turun dari kereta/kendaraan; formal version of 降りる |
-| 発車する | はっしゃする | berangkat; dipakai untuk trains/buses |
+| 乗車する | じょうしゃする | naik kereta/kendaraan; bentuk yang lebih formal dari 乗る |
+| 下車する | げしゃする | turun dari kereta/kendaraan; bentuk yang lebih formal dari 降りる |
+| 発車する | はっしゃする | berangkat; dipakai untuk kereta atau bus |
 | 電車の中はがらがらだ | でんしゃのなかはがらがらだ | di dalam kereta sangat kosong; がらがら = almost empty |
 | 満員電車で通勤する | まんいんでんしゃでつうきんする | berangkat kerja dengan kereta penuh sesak; 満員 = full of people |
 | 電車が揺れる | でんしゃがゆれる | kereta berguncang; 揺れる = shake/sway |
@@ -49,41 +49,41 @@ Pelajaran ini membantu kamu melihat hubungan antara istilah utama, benda, tindak
 | 終点で降りる | しゅうてんでおりる | turun di stasiun/halte terakhir; 終点 = final stop |
 | 急行から各駅停車に乗り換える | きゅうこうからかくえきていしゃにのりかえる | pindah dari kereta ekspres ke kereta lokal; 各駅停車 stops at every station |
 | 乗り遅れる | のりおくれる | ketinggalan kereta; 遅れる = be late |
-| 乗り過ごす | のりすごす | terlewat stasiun/halte tujuan; you stayed on too long |
-| 乗り越す | のりこす | melewati tujuan dengan kendaraan; close to 乗り過ごす; often fare-related |
-| 運賃を精算する | うんちんをせいさんする | menyesuaikan/melunasi ongkos; dipakai saat fare is short or route changes |
+| 乗り過ごす | のりすごす | terlewat stasiun/halte tujuan; kamu terlalu lama tetap naik sampai melewati tujuan |
+| 乗り越す | のりこす | melewati tujuan dengan kendaraan; maknanya dekat dengan 乗り過ごす; sering terkait tarif |
+| 運賃を精算する | うんちんをせいさんする | menyesuaikan/melunasi ongkos; dipakai saat ongkos kurang atau rute berubah |
 | 車掌が車内アナウンスをする | しゃしょうがしゃないアナウンスをする | kondektur memberi pengumuman di dalam kereta; 車内 = inside the train/car |
 | 携帯電話の使用を控える | けいたいでんわのしようをひかえる | menahan diri untuk tidak memakai ponsel; 控える = refrain/avoid |
-| 席を譲る | せきをゆずる | memberikan tempat duduk; often used with elderly/disabled passengers |
-| 体の不自由な人 | からだのふじゆうなひと | orang dengan disabilitas fisik; polite phrase in public announcements |
-| 痴漢にあう | ちかんにあう | mengalami pelecehan seksual; often written ちかん in learner texts |
+| 席を譲る | せきをゆずる | memberikan tempat duduk; sering dipakai untuk penumpang lansia atau penyandang disabilitas |
+| 体の不自由な人 | からだのふじゆうなひと | orang dengan disabilitas fisik; ungkapan sopan dalam pengumuman umum |
+| 痴漢にあう | ちかんにあう | mengalami pelecehan seksual; di teks pembelajar sering ditulis ちかん |
 
 ### Istilah Utama
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| 白線 | はくせん | garis putih; sering muncul dalam station safety announcements |
+| 白線 | はくせん | garis putih; sering muncul dalam pengumuman keselamatan di stasiun |
 | 内側 | うちがわ | sisi dalam; lawan kata: 外側 |
 | 外側 | そとがわ | sisi luar; lawan kata: 内側 |
-| 空っぽ | からっぽ | kosong; often for containers or spaces |
-| 終電 | しゅうでん | kereta terakhir; very common daily-life word |
-| 乗り換え | のりかえ | pindah kendaraan/kereta; noun form of 乗り換える |
-| 乗り越し | のりこし | kelebihan perjalanan dari tiket; often requires fare adjustment |
-| 老人 | ろうじん | orang tua/lansia; more direct; can sound less soft than お年寄り |
-| 優先席 | ゆうせんせき | kursi prioritas; for elderly, disabled, pregnant, etc |
+| 空っぽ | からっぽ | kosong; sering untuk wadah atau ruang |
+| 終電 | しゅうでん | kereta terakhir; kata yang sangat umum dalam kehidupan sehari-hari |
+| 乗り換え | のりかえ | pindah kendaraan/kereta; bentuk nomina of 乗り換える |
+| 乗り越し | のりこし | kelebihan perjalanan dari tiket; biasanya perlu penyesuaian ongkos |
+| 老人 | ろうじん | orang tua/lansia; lebih langsung; bisa terdengar kurang halus daripada お年寄り |
+| 優先席 | ゆうせんせき | kursi prioritas; untuk lansia, penyandang disabilitas, ibu hamil, dan sebagainya |
 
 ### Tempat, Transportasi, dan Layanan
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| 始発電車 | しはつでんしゃ | kereta pertama hari itu; often shortened to 始発 |
+| 始発電車 | しはつでんしゃ | kereta pertama hari itu; sering dipendekkan menjadi 始発 |
 | 駅の売店 | えきのばいてん | kios di stasiun; 売店 = small shop/kiosk |
 
 ### Waktu dan Jadwal
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| お年寄り | おとしより | orang lanjut usia; polite/common expression |
+| お年寄り | おとしより | orang lanjut usia; ungkapan sopan yang umum dipakai |
 
 ## Peta Kata
 
@@ -100,7 +100,8 @@ Pelajaran ini membantu kamu melihat hubungan antara istilah utama, benda, tindak
   <span>発車する</span>
 </div>
 
-Kata-kata hari ini bisa dibaca sebagai alur: istilah utama untuk mengenali konteks, benda atau tempat yang menjadi objek, tindakan yang dilakukan, lalu kondisi atau hasil yang perlu diperhatikan. Saat membaca teks pendek, cari dulu kata inti seperti プラットホームが混雑している, lalu lihat kata kerja dan partikelnya untuk memahami siapa melakukan apa.
+Bayangkan kamu sedang membaca atau mendengar situasi tentang naik kereta (2): kata intinya bisa berupa プラットホームが混雑している, 黄色い線, dan 下がる; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
 
 ## Catatan Pemakaian
 
@@ -126,47 +127,47 @@ Kata-kata hari ini bisa dibaca sebagai alur: istilah utama untuk mengenali konte
 |---|---|---|
 | プラットホームが混雑している | peron sedang ramai/padat | 混雑する = be crowded/congested |
 | 黄色い線 | garis kuning | stand behind/inside this line on platforms |
-| 下がる | mundur; turun | platform announcements use 内側に下がる |
+| 下がる | mundur; turun | pengumuman peron sering memakai 内側に下がる |
 | 特急が通過する | kereta ekspres lewat tanpa berhenti | 通過する = pass through |
-| 乗車する | naik kereta/kendaraan | formal version of 乗る |
-| 下車する | turun dari kereta/kendaraan | formal version of 降りる |
-| 発車する | berangkat | dipakai untuk trains/buses |
+| 乗車する | naik kereta/kendaraan | bentuk yang lebih formal dari 乗る |
+| 下車する | turun dari kereta/kendaraan | bentuk yang lebih formal dari 降りる |
+| 発車する | berangkat | dipakai untuk kereta atau bus |
 | 電車の中はがらがらだ | di dalam kereta sangat kosong | がらがら = almost empty |
 
-Gunakan tabel ini sebagai pegangan saat melihat kata dalam kalimat. Kata kerja dan frasa sering lebih mudah dipahami jika kamu membaca seluruh pola, bukan hanya satu kata.
+Perhatikan pola partikel: `を` menandai objek tindakan, `が` sering menandai keadaan, `に` menunjukkan tujuan atau arah, dan `で` menunjukkan alat, tempat, atau cara.
 
 ## Contoh Kalimat
 
 <div class="example-list">
-  <div><p class="jp">プラットホームが混雑している。</p><p>peron sedang ramai/padat.</p></div>
-  <div><p class="jp">下がる。</p><p>mundur; turun.</p></div>
-  <div><p class="jp">特急が通過する。</p><p>kereta ekspres lewat tanpa berhenti.</p></div>
-  <div><p class="jp">乗車する。</p><p>naik kereta/kendaraan.</p></div>
-  <div><p class="jp">下車する。</p><p>turun dari kereta/kendaraan.</p></div>
+  <div><p class="jp">朝のプラットホームはとても混雑しています。</p><p>Peron pada pagi hari sangat padat.</p></div>
+  <div><p class="jp">危ないので、白線の内側まで下がってください。</p><p>Karena berbahaya, tolong mundur sampai sisi dalam garis putih.</p></div>
+  <div><p class="jp">この駅では、特急が通過することがあります。</p><p>Di stasiun ini, kereta ekspres kadang lewat tanpa berhenti.</p></div>
+  <div><p class="jp">次の駅で下車して、地下鉄に乗り換えます。</p><p>Saya turun di stasiun berikutnya lalu pindah ke subway.</p></div>
+  <div><p class="jp">乗り越したときは、駅員に運賃を精算してもらいます。</p><p>Kalau terlewat tujuan, saya meminta petugas stasiun menyesuaikan ongkos.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar
 
 | Pasangan | Cara membedakan |
 |---|---|
-| 黄色い線 / 内側 | 黄色い線 cocok untuk garis kuning; 内側 cocok untuk sisi dalam. Bedakan dari kata sekitar dan pola partikel yang muncul. |
-| 内側 / 外側 | 内側 cocok untuk sisi dalam; 外側 cocok untuk sisi luar. Bedakan dari kata sekitar dan pola partikel yang muncul. |
-| 外側 / 下がる | 外側 cocok untuk sisi luar; 下がる cocok untuk mundur; turun. Bedakan dari kata sekitar dan pola partikel yang muncul. |
-| 下がる / 特急が通過する | 下がる cocok untuk mundur; turun; 特急が通過する cocok untuk kereta ekspres lewat tanpa berhenti. Bedakan dari kata sekitar dan pola partikel yang muncul. |
+| 黄色い線 / 内側 | 黄色い線 cocok untuk garis kuning; 内側 cocok untuk sisi dalam. Gunakan kata sekitar dan partikel sebagai petunjuk. |
+| 内側 / 外側 | 内側 cocok untuk sisi dalam; 外側 cocok untuk sisi luar. Gunakan kata sekitar dan partikel sebagai petunjuk. |
+| 外側 / 下がる | 外側 cocok untuk sisi luar; 下がる cocok untuk mundur; turun. Gunakan kata sekitar dan partikel sebagai petunjuk. |
+| 下がる / 特急が通過する | 下がる cocok untuk mundur; turun; 特急が通過する cocok untuk kereta ekspres lewat tanpa berhenti. Gunakan kata sekitar dan partikel sebagai petunjuk. |
 
 ## Kesalahan Umum
 
-Jangan memilih kata hanya karena terjemahannya mirip. Untuk kosakata N3, yang sering menentukan makna adalah pasangan katanya: objek dengan を, keadaan dengan が, tujuan dengan に, atau alat/tempat dengan で.
+Jangan menerjemahkan kata satu per satu tanpa melihat frasa lengkap. Banyak kata terlihat mirip dalam bahasa Indonesia, tetapi berbeda saat dipasangkan dengan partikel, benda, atau kata kerja tertentu.
 
-Strategi cepat: baca satu frasa penuh dulu, lalu baru cocokkan arti. Jika kata berupa frasa kerja, hafalkan bersama partikelnya.
+Strategi cepat: cari dulu kata intinya, lalu cek partikel dan kata kerja di dekatnya. Jika bentuknya frasa kerja, hafalkan bersama pasangan katanya, bukan sebagai kata tunggal.
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
 
 ::MiniPractice
 ---
-question: "Pengumuman meminta penumpang berdiri di dalam garis kuning."
+question: "Silakan mundur ke bagian dalam garis kuning."
 sentence: "黄色い線の____に下がってください。"
 optionA: "内側"
 optionB: "外側"

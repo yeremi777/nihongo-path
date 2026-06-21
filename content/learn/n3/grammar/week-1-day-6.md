@@ -1,6 +1,6 @@
 ---
 title: "話を聞こうとしない"
-description: "Belajar pola grammar N3 untuk menyatakan niat, usaha yang hampir dilakukan, dan sikap tidak mau mencoba."
+description: "Belajar memahami grammar N3 untuk menyatakan niat, usaha yang hampir dilakukan, dan sikap tidak mau mencoba."
 level: "N3"
 category: "grammar"
 topic: "話を聞こうとしない"
@@ -140,7 +140,7 @@ Di tabel ini, `（A）` adalah orang atau pihak yang menjadi topik/subjek kalima
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat. Perhatikan konteks, bentuk sebelum pola, dan nuansa kalimat sebelum memilih.
 
 ::MiniPractice
 ---

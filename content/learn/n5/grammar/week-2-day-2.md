@@ -1,6 +1,6 @@
 ---
 title: "先生はきれいで、やさしいです。"
-description: "Belajar grammar N5 dasar untuk menghubungkan deskripsi kata sifat atau kata benda, bentuk te untuk urutan atau koneksi aksi, setelah melakukan ~ dalam kalimat pendek."
+description: "Belajar memahami grammar N5 untuk menghubungkan deskripsi kata sifat atau kata benda, bentuk te untuk urutan atau koneksi aksi, setelah melakukan ~ dalam kalimat pendek."
 level: "N5"
 category: "grammar"
 topic: "先生はきれいで、やさしいです。"
@@ -25,20 +25,20 @@ tags:
 
 Mengenali pola dasar untuk menghubungkan deskripsi kata sifat atau kata benda, bentuk te untuk urutan atau koneksi aksi, setelah melakukan ~, lalu; setelah itu; dan.
 
-Di akhir pelajaran ini, kamu bisa membaca kalimat seperti そのレストランは安くて、おいしいです, うちに帰って、テレビを見ます, 手を洗ってから、ごはんを食べましょう. Fokusnya adalah melihat bentuk kecil yang menjadi petunjuk arti.
+Di akhir pelajaran ini, kamu bisa membaca kalimat seperti そのレストランは安くて、おいしいです, うちに帰って、テレビを見ます, 手を洗ってから、ごはんを食べましょう. Fokusnya adalah memahami petunjuk kecil seperti partikel, bentuk kata, dan posisi kata dalam kalimat.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca pola dari kiri ke kanan. Tandai partikel, bentuk verba, atau kata penghubung sebelum menebak arti seluruh kalimat.
+  <strong>Fokus hari ini:</strong> baca kalimat pelan-pelan. Tandai partikel, bentuk kata, atau kata penghubung, lalu cocokkan dengan situasi yang sedang dibicarakan.
 </div>
 
 ## Pola Hari Ini
 
 | Fungsi | Pola | Arti praktis | Kapan dipakai |
 |---|---|---|---|
-| Menghubungkan deskripsi kata sifat atau kata benda | （いAdj）くて／（なAdj）で／（N）で | Menghubungkan deskripsi kata sifat atau kata benda | Used to connect descriptions |
-| Bentuk te untuk urutan atau koneksi aksi | （Vて） | Bentuk te untuk urutan atau koneksi aksi | Connects actions in order or links actions naturally |
-| Setelah melakukan ~ | （Vて）から | Setelah melakukan ~ | Emphasizes that the second action happens after the first action is finished |
-| Lalu | （Sentence）。それから／そして... | Lalu; setelah itu; dan | それから often means “after that / then |
+| Menghubungkan deskripsi kata sifat atau kata benda | （いAdj）くて／（なAdj）で／（N）で | Menghubungkan deskripsi kata sifat atau kata benda | Dipakai untuk menghubungkan deskripsi |
+| Bentuk te untuk urutan atau koneksi aksi | （Vて） | Bentuk te untuk urutan atau koneksi aksi | Menghubungkan tindakan sesuai urutan atau secara natural |
+| Setelah melakukan ~ | （Vて）から | Setelah melakukan ~ | Menekankan bahwa tindakan kedua terjadi setelah tindakan pertama selesai |
+| Lalu | （Kalimat）。それから／そして. | Lalu; setelah itu; dan | それから sering berarti “setelah itu/lalu” |
 
 ## Peta Pola
 
@@ -53,14 +53,14 @@ Pola hari ini saling terhubung sebagai alat beginner untuk menghubungkan aksi. M
 
 ## Cara Membentuk Pola
 
-Simbol utama: （N）= nomina, （V）= verba, （Adj）= kata sifat, （Place）= tempat, （Person）= orang, dan （Time）= waktu.
+Simbol utama: （N）= nomina, （V）= verba, （Adj）= kata sifat, （Tempat）= tempat, （Orang）= orang, dan （Waktu）= waktu.
 
 | Pola | Bentuk dasar | Catatan bentuk |
 |---|---|---|
-| 形容詞・名詞のて形接続 | （いAdj）くて／（なAdj）で／（N）で | Used to connect descriptions |
-| （Vて） | （Vて） | Connects actions in order or links actions naturally |
-| （Vて）から | （Vて）から | Emphasizes that the second action happens after the first action is finished |
-| それから・そして | （Sentence）。それから／そして... | それから often means “after that / then |
+| 形容詞・名詞のて形接続 | （いAdj）くて／（なAdj）で／（N）で | Dipakai untuk menghubungkan deskripsi |
+| （Vて） | （Vて） | Menghubungkan tindakan sesuai urutan atau secara natural |
+| （Vて）から | （Vて）から | Menekankan bahwa tindakan kedua terjadi setelah tindakan pertama selesai |
+| それから・そして | （Kalimat）。それから／そして. | それから sering berarti “setelah itu/lalu” |
 
 ## Bangun Kalimat Bertahap
 
@@ -72,17 +72,17 @@ Simbol utama: （N）= nomina, （V）= verba, （Adj）= kata sifat, （Place�
 | Kalimat | うちに帰って、テレビを見ます。 | Bentuk te untuk urutan atau koneksi aksi |
 | Bahan | （Vて）から | bentuk untuk setelah melakukan ~ |
 | Kalimat | 手を洗ってから、ごはんを食べましょう。 | Setelah melakukan ~ |
-| Bahan | （Sentence）。それから／そして... | bentuk untuk lalu |
+| Bahan | （Kalimat）。それから／そして. | bentuk untuk lalu |
 | Kalimat | ピザをお願いします。それから、コーヒーもお願いします。 | Lalu; setelah itu; dan |
 
 ## Catatan Pemakaian
 
-- Menghubungkan deskripsi kata sifat atau kata benda: Used to connect descriptions. Negative forms are いAdjくなくて, なAdjじゃなくて, and Nじゃなくて.
-- Bentuk te untuk urutan atau koneksi aksi: Connects actions in order or links actions naturally. The action order usually follows the sentence order.
-- Setelah melakukan ~: Emphasizes that the second action happens after the first action is finished.
-- Lalu: それから often means “after that / then.” そして connects sentences or descriptions, often like “and.”
+- Menghubungkan deskripsi kata sifat atau kata benda: Dipakai untuk menghubungkan deskripsi. Bentuk negatifnya adalah いAdjくなくて, なAdjじゃなくて, dan Nじゃなくて.
+- Bentuk te untuk urutan atau koneksi aksi: Menghubungkan tindakan sesuai urutan atau secara natural. Urutan tindakan biasanya mengikuti urutan dalam kalimat.
+- Setelah melakukan ~: Menekankan bahwa tindakan kedua terjadi setelah tindakan pertama selesai.
+- Lalu: それから sering berarti “setelah itu/lalu”. そして menghubungkan kalimat atau deskripsi, mirip “dan/lalu”.
 
-Indonesian often uses “dan” for many connections, but Japanese changes the form depending on the word type:
+Dalam bahasa Indonesia, kita sering memakai “dan” untuk banyak jenis hubungan, tetapi bahasa Jepang mengubah bentuknya sesuai jenis kata:
 
 - 安い → 安くて
 - きれい → きれいで
@@ -96,15 +96,15 @@ Indonesian often uses “dan” for many connections, but Japanese changes the f
 | （いAdj）くて／（なAdj）で／（N）で | Menghubungkan deskripsi kata sifat atau kata benda | そのレストランは安くて、おいしいです。 |
 | （Vて） | Bentuk te untuk urutan atau koneksi aksi | うちに帰って、テレビを見ます。 |
 | （Vて）から | Setelah melakukan ~ | 手を洗ってから、ごはんを食べましょう。 |
-| （Sentence）。それから／そして... | Lalu; setelah itu; dan | ピザをお願いします。それから、コーヒーもお願いします。 |
+| （Kalimat）。それから／そして. | Lalu; setelah itu; dan | ピザをお願いします。それから、コーヒーもお願いします。 |
 
 ## Contoh Kalimat
 
 <div class="example-list">
-  <div><p class="jp">そのレストランは安くて、おいしいです。</p><p>Kalimat ini menunjukkan fungsi: menghubungkan deskripsi kata sifat atau kata benda.</p></div>
-  <div><p class="jp">うちに帰って、テレビを見ます。</p><p>Kalimat ini menunjukkan fungsi: bentuk te untuk urutan atau koneksi aksi.</p></div>
-  <div><p class="jp">手を洗ってから、ごはんを食べましょう。</p><p>Kalimat ini menunjukkan fungsi: setelah melakukan ~.</p></div>
-  <div><p class="jp">ピザをお願いします。それから、コーヒーもお願いします。</p><p>Kalimat ini menunjukkan fungsi: lalu; setelah itu; dan.</p></div>
+  <div><p class="jp">そのレストランは安くて、おいしいです。</p><p>Restoran itu murah dan enak.</p></div>
+  <div><p class="jp">うちに帰って、テレビを見ます。</p><p>Saya pulang ke rumah, lalu menonton TV.</p></div>
+  <div><p class="jp">手を洗ってから、ごはんを食べましょう。</p><p>Ayo makan setelah mencuci tangan.</p></div>
+  <div><p class="jp">ピザをお願いします。それから、コーヒーもお願いします。</p><p>Saya pesan pizza. Lalu, kopi juga.</p></div>
   <div><p class="jp">今日はいい天気です。</p><p>Hari ini cuacanya bagus.</p></div>
 </div>
 
@@ -112,75 +112,77 @@ Indonesian often uses “dan” for many connections, but Japanese changes the f
 
 | Pasangan | Cara membedakan |
 |---|---|
-| （いAdj）くて / （なAdj）で | i-adjective connection vs na-adjective connection. Use 安くて for i-adjectives. Use きれいで for na-adjectives. |
-| （なAdj）で / （N）で | na-adjective connection vs noun connection. Both use で, but the first describes quality, the second connects noun descriptions. |
-| （Vて） / （Vて）から | Sequence vs clearly after completing. Use （V）て for simple action order. Use （V）てから when the first action must be completed before the next. |
-| （Vて） / それから | Same sentence connection vs separate sentence connector. Use （V）て inside one sentence. Use それから at the start of a new sentence or clause. |
-| それから / そして | Then/after that vs and/then. Use それから for next step or extra item. Use そして to connect statements smoothly. |
+| （いAdj）くて / （なAdj）で | Sambungan kata sifat-i vs kata sifat-na. Pakai 安くて untuk kata sifat-i. Pakai きれいで untuk kata sifat-na. |
+| （なAdj）で / （N）で | Sambungan kata sifat-na vs sambungan nomina. Keduanya memakai で, tetapi yang pertama menjelaskan sifat, sedangkan yang kedua menghubungkan deskripsi nomina. |
+| （Vて） / （Vて）から | Urutan biasa vs jelas setelah selesai. Pakai （V）て untuk urutan tindakan sederhana. Pakai （V）てから saat tindakan pertama harus selesai sebelum tindakan berikutnya. |
+| （Vて） / それから | Sambungan dalam satu kalimat vs penghubung kalimat terpisah. Pakai （V）て di dalam satu kalimat. Pakai それから di awal kalimat atau klausa baru. |
+| それから / そして | “Lalu/setelah itu” vs “dan/lalu”. Pakai それから untuk langkah berikutnya atau tambahan. Pakai そして untuk menghubungkan pernyataan dengan halus. |
 
 ## Kesalahan Umum
 
 | Titik salah | Kurang tepat | Lebih tepat | Petunjuk |
 |---|---|---|---|
-| i-adjective connection uses くて | そのレストランは安いで、おいしいです。 | そのレストランは安くて、おいしいです。 | Restoran itu murah dan enak. |
-| na-adjective connection uses で | 先生はきれくて、やさしいです。 | 先生はきれいで、やさしいです。 | Gurunya cantik dan baik hati. |
-| Negative noun connection uses じゃなくて | あの人は先生じゃないで、学生です。 | あの人は先生じゃなくて、学生です。 | Orang itu bukan guru, melainkan murid. |
-| （Vて）から means “after doing” | ごはんを食べから、歯をみがきます。 | ごはんを食べてから、歯をみがきます。 | Saya menggosok gigi setelah makan. |
+| Sambungan kata sifat-i memakai くて | そのレストランは安いで、おいしいです。 | そのレストランは安くて、おいしいです。 | Restoran itu murah dan enak. |
+| Sambungan kata sifat-na memakai で | 先生はきれくて、やさしいです。 | 先生はきれいで、やさしいです。 | Gurunya cantik dan baik hati. |
+| Sambungan nomina negatif memakai じゃなくて | あの人は先生じゃないで、学生です。 | あの人は先生じゃなくて、学生です。 | Orang itu bukan guru, melainkan murid. |
+| （Vて）から berarti “setelah melakukan” | ごはんを食べから、歯をみがきます。 | ごはんを食べてから、歯をみがきます。 | Saya menggosok gigi setelah makan. |
 
 ## Mini Practice
 
+Pilih jawaban yang paling tepat. Perhatikan petunjuk partikel, bentuk kata, dan konteks kalimat sebelum memilih.
+
 ::MiniPractice
 ---
-question: "Menghubungkan deskripsi kata sifat atau kata benda."
-sentence: "そのレストランは安くて、おいしいです。"
-optionA: "形容詞"
-optionB: "（Vて）"
-correct: "形容詞"
-explanation: "形容詞 cocok karena fungsi kalimatnya adalah menghubungkan deskripsi kata sifat atau kata benda. Petunjuknya ada pada bentuk （いAdj）くて／（なAdj）で／（N）で."
+question: "Restoran itu murah dan enak."
+sentence: "そのレストランは安____、おいしいです。"
+optionA: "くて"
+optionB: "いで"
+correct: "くて"
+explanation: "くて benar karena 安い adalah kata sifat-i. Untuk menghubungkan sifat-i, ubah い menjadi くて."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Bentuk te untuk urutan atau koneksi aksi."
-sentence: "うちに帰って、テレビを見ます。"
-optionA: "（Vて）"
-optionB: "形容詞・名詞のて形接続"
-correct: "（Vて）"
-explanation: "（Vて） cocok karena fungsi kalimatnya adalah bentuk te untuk urutan atau koneksi aksi. Petunjuknya ada pada bentuk （Vて）."
+question: "Saya pulang ke rumah lalu menonton TV."
+sentence: "うちに帰____、テレビを見ます。"
+optionA: "って"
+optionB: "る"
+correct: "って"
+explanation: "帰って benar karena bentuk te menghubungkan urutan aksi: pulang lalu menonton TV."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Setelah melakukan ~."
-sentence: "手を洗ってから、ごはんを食べましょう。"
-optionA: "（Vて）から"
-optionB: "形容詞・名詞のて形接続"
-correct: "（Vて）から"
-explanation: "（Vて）から cocok karena fungsi kalimatnya adalah setelah melakukan ~. Petunjuknya ada pada bentuk （Vて）から."
+question: "Setelah mencuci tangan, ayo makan."
+sentence: "手を洗って____、ごはんを食べましょう。"
+optionA: "から"
+optionB: "まで"
+correct: "から"
+explanation: "てから benar untuk urutan 'setelah melakukan'. まで berarti sampai."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Lalu; setelah itu; dan."
-sentence: "ピザをお願いします。それから、コーヒーもお願いします。"
+question: "Tolong pizza. Lalu, kopi juga."
+sentence: "ピザをお願いします。____、コーヒーもお願いします。"
 optionA: "それから"
-optionB: "形容詞・名詞のて形接続"
+optionB: "でも"
 correct: "それから"
-explanation: "それから cocok karena fungsi kalimatnya adalah lalu; setelah itu; dan. Petunjuknya ada pada bentuk （Sentence）。それから／そして...."
+explanation: "それから benar untuk menambahkan langkah berikutnya. でも menunjukkan kontras 'tapi'."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih bentuk yang sesuai untuk menghubungkan deskripsi kata sifat atau kata benda."
-sentence: "そのレストランは安くて、おいしいです。"
-optionA: "形容詞・名詞のて形接続"
-optionB: "〜です"
-correct: "形容詞・名詞のて形接続"
-explanation: "形容詞・名詞のて形接続 sesuai dengan pola hari ini."
+question: "Guru itu cantik dan baik hati."
+sentence: "先生はきれい____、やさしいです。"
+optionA: "で"
+optionB: "くて"
+correct: "で"
+explanation: "で benar karena きれい adalah kata sifat-na. Kata sifat-i memakai くて."
 ---
 ::
 

@@ -21,12 +21,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali kosakata N3 untuk Ayo naik mobil ②. Fokusnya adalah membaca kata sebagai bagian dari situasi nyata, bukan hanya menghafal arti satu per satu.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat membaca arah jalan, rambu, kondisi lalu lintas, parkir, dan kebiasaan naik mobil.
 
-Pelajaran ini membantu kamu melihat hubungan antara istilah utama, benda, tindakan, kondisi, dan pola partikel yang sering muncul dalam kalimat pendek sehari-hari.
+Fokus hari ini bukan hanya menghafal arti kata seperti 通行止め, 踏切, 線路, dan 信号, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca kata sebagai kelompok makna. Perhatikan apakah kata itu menunjuk benda/tempat, tindakan dengan partikel seperti を・が・に・で, atau kondisi yang menjelaskan keadaan.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -35,17 +35,17 @@ Pelajaran ini membantu kamu melihat hubungan antara istilah utama, benda, tindak
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| 通行止め | つうこうどめ | jalan ditutup; often seen on road signs |
+| 通行止め | つうこうどめ | jalan ditutup; sering terlihat di rambu jalan |
 | 踏切 | ふみきり | perlintasan kereta; same area as 線路 |
 | 線路 | せんろ | rel kereta; train tracks |
-| 信号 | しんごう | lampu lalu lintas; sinyal; also used for signal |
-| 横断歩道 | おうだんほどう | zebra cross; penyeberangan pejalan kaki; public sign vocabulary |
+| 信号 | しんごう | lampu lalu lintas; sinyal; juga dipakai untuk arti sinyal |
+| 横断歩道 | おうだんほどう | penyeberangan pejalan kaki; zebra cross; kosakata yang sering muncul di rambu umum |
 | バス停 | バスてい | halte bus; short form of バスの停留所 |
-| 停留所 | ていりゅうじょ | halte; tempat pemberhentian; formal for bus/tram stop |
-| 四つ角 | よつかど | persimpangan empat; literally four corners |
-| 交差点 | こうさてん | persimpangan; umum road word |
-| 一方通行 | いっぽうつうこう | jalan satu arah; road sign word |
-| 信号無視 | しんごうむし | pelanggaran lampu lalu lintas; noun form |
+| 停留所 | ていりゅうじょ | halte; tempat pemberhentian; kata formal untuk halte bus atau trem |
+| 四つ角 | よつかど | persimpangan empat; harfiahly four corners |
+| 交差点 | こうさてん | persimpangan; kata umum untuk konteks jalan |
+| 一方通行 | いっぽうつうこう | jalan satu arah; kata yang sering muncul di rambu jalan |
+| 信号無視 | しんごうむし | pelanggaran lampu lalu lintas; bentuk nomina |
 
 ### Tindakan dan Pola
 
@@ -65,15 +65,15 @@ Pelajaran ini membantu kamu melihat hubungan antara istilah utama, benda, tindak
 | トラックを追い越す | トラックをおいこす | menyalip truk; 追い越す = overtake |
 | 時速100キロで走る | じそくひゃっキロではしる | melaju 100 km per jam; 時速 = speed per hour |
 | スピード違反で捕まる | スピードいはんでつかまる | tertangkap karena pelanggaran kecepatan; 違反 = violation |
-| 駐車違反をする | ちゅうしゃいはんをする | melakukan pelanggaran parkir; often results in a parking ticket |
+| 駐車違反をする | ちゅうしゃいはんをする | melakukan pelanggaran parkir; sering berujung pada tilang parkir |
 | 信号を無視する | しんごうをむしする | menerobos/mengabaikan lampu lalu lintas; 無視する = ignore |
 | 車をぶつける | くるまをぶつける | menabrakkan mobil ke sesuatu; transitif: the driver causes the hit |
 | 車がぶつかる | くるまがぶつかる | mobil bertabrakan/menabrak; intransitif: the car collides |
-| 猫をひく | ねこをひく | menabrak/melindas kucing; 轢く is often written in kana |
+| 猫をひく | ねこをひく | menabrak/melindas kucing; 轢く sering ditulis dengan kana |
 | 猫が車にひかれる | ねこがくるまにひかれる | kucing tertabrak/terlindas mobil; passive form of ひく |
 | 交通事故にあう | こうつうじこにあう | mengalami kecelakaan lalu lintas; 事故にあう = have/meet with an accident |
 | 車に気をつける | くるまにきをつける | hati-hati terhadap mobil; 気をつける = be careful |
-| ななめに横断する | ななめにおうだんする | menyeberang secara diagonal; often unsafe/against rules |
+| ななめに横断する | ななめにおうだんする | menyeberang secara diagonal; sering tidak aman atau melanggar aturan |
 | 道路を横切る | どうろをよこぎる | menyeberangi jalan; 横切る = cut across |
 
 ## Peta Kata
@@ -91,7 +91,8 @@ Pelajaran ini membantu kamu melihat hubungan antara istilah utama, benda, tindak
   <span>交差点</span>
 </div>
 
-Kata-kata hari ini bisa dibaca sebagai alur: istilah utama untuk mengenali konteks, benda atau tempat yang menjadi objek, tindakan yang dilakukan, lalu kondisi atau hasil yang perlu diperhatikan. Saat membaca teks pendek, cari dulu kata inti seperti 通行止め, lalu lihat kata kerja dan partikelnya untuk memahami siapa melakukan apa.
+Bayangkan kamu sedang membaca atau mendengar situasi tentang naik mobil (2): kata intinya bisa berupa 通行止め, 踏切, dan 線路; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
 
 ## Catatan Pemakaian
 
@@ -124,36 +125,36 @@ Kata-kata hari ini bisa dibaca sebagai alur: istilah utama untuk mengenali konte
 | 遠回りをする | mengambil jalan memutar yang jauh | emphasizes longer route |
 | 近道をする | mengambil jalan pintas | lawan kata of 遠回り |
 
-Gunakan tabel ini sebagai pegangan saat melihat kata dalam kalimat. Kata kerja dan frasa sering lebih mudah dipahami jika kamu membaca seluruh pola, bukan hanya satu kata.
+Perhatikan pola partikel: `を` menandai objek tindakan, `が` sering menandai keadaan, `に` menunjukkan tujuan atau arah, dan `で` menunjukkan alat, tempat, atau cara.
 
 ## Contoh Kalimat
 
 <div class="example-list">
-  <div><p class="jp">道路が混んでいる。</p><p>jalan sedang macet/ramai.</p></div>
-  <div><p class="jp">道路が渋滞している。</p><p>jalan sedang macet.</p></div>
-  <div><p class="jp">すいている。</p><p>tidak ramai; lengang.</p></div>
-  <div><p class="jp">回り道をする。</p><p>memutar jalan.</p></div>
-  <div><p class="jp">遠回りをする。</p><p>mengambil jalan memutar yang jauh.</p></div>
+  <div><p class="jp">夕方は道路が混んでいるので、少し早く出ましょう。</p><p>Sore hari jalan macet, jadi mari berangkat sedikit lebih awal.</p></div>
+  <div><p class="jp">工事中なので、この先は通行止めです。</p><p>Karena sedang ada konstruksi, jalan di depan ditutup.</p></div>
+  <div><p class="jp">近道をしたつもりでしたが、遠回りになってしまいました。</p><p>Saya bermaksud mengambil jalan pintas, tetapi malah jadi memutar jauh.</p></div>
+  <div><p class="jp">信号を無視すると、事故にあうかもしれません。</p><p>Kalau menerobos lampu lalu lintas, bisa saja mengalami kecelakaan.</p></div>
+  <div><p class="jp">駐車禁止の場所に車を止めないでください。</p><p>Jangan parkir mobil di tempat dilarang parkir.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar
 
 | Pasangan | Cara membedakan |
 |---|---|
-| 道路が混んでいる / 道路が渋滞している | 道路が混んでいる cocok untuk jalan sedang macet/ramai; 道路が渋滞している cocok untuk jalan sedang macet. Bedakan dari kata sekitar dan pola partikel yang muncul. |
-| 近道をする / 突き当たりを左に曲がる | 近道をする cocok untuk mengambil jalan pintas; 突き当たりを左に曲がる cocok untuk belok kiri di ujung jalan. Bedakan dari kata sekitar dan pola partikel yang muncul. |
-| 突き当たりを左に曲がる / バスが停車する | 突き当たりを左に曲がる cocok untuk belok kiri di ujung jalan; バスが停車する cocok untuk bus berhenti. Bedakan dari kata sekitar dan pola partikel yang muncul. |
-| 信号を無視する / 信号無視 | 信号を無視する cocok untuk menerobos/mengabaikan lampu lalu lintas; 信号無視 cocok untuk pelanggaran lampu lalu lintas. Bedakan dari kata sekitar dan pola partikel yang muncul. |
+| 道路が混んでいる / 道路が渋滞している | 道路が混んでいる cocok untuk jalan sedang macet/ramai; 道路が渋滞している cocok untuk jalan sedang macet. Gunakan kata sekitar dan partikel sebagai petunjuk. |
+| 近道をする / 突き当たりを左に曲がる | 近道をする cocok untuk mengambil jalan pintas; 突き当たりを左に曲がる cocok untuk belok kiri di ujung jalan. Gunakan kata sekitar dan partikel sebagai petunjuk. |
+| 突き当たりを左に曲がる / バスが停車する | 突き当たりを左に曲がる cocok untuk belok kiri di ujung jalan; バスが停車する cocok untuk bus berhenti. Gunakan kata sekitar dan partikel sebagai petunjuk. |
+| 信号を無視する / 信号無視 | 信号を無視する cocok untuk menerobos/mengabaikan lampu lalu lintas; 信号無視 cocok untuk pelanggaran lampu lalu lintas. Gunakan kata sekitar dan partikel sebagai petunjuk. |
 
 ## Kesalahan Umum
 
-Jangan memilih kata hanya karena terjemahannya mirip. Untuk kosakata N3, yang sering menentukan makna adalah pasangan katanya: objek dengan を, keadaan dengan が, tujuan dengan に, atau alat/tempat dengan で.
+Jangan menerjemahkan kata satu per satu tanpa melihat frasa lengkap. Banyak kata terlihat mirip dalam bahasa Indonesia, tetapi berbeda saat dipasangkan dengan partikel, benda, atau kata kerja tertentu.
 
-Strategi cepat: baca satu frasa penuh dulu, lalu baru cocokkan arti. Jika kata berupa frasa kerja, hafalkan bersama partikelnya.
+Strategi cepat: cari dulu kata intinya, lalu cek partikel dan kata kerja di dekatnya. Jika bentuknya frasa kerja, hafalkan bersama pasangan katanya, bukan sebagai kata tunggal.
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
 
 ::MiniPractice
 ---

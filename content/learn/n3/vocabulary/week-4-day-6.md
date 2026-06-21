@@ -21,12 +21,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca kosakata email: folder, perintah kirim-terima, pengirim, penerima, subjek, lampiran, dan input teks.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat membaca kotak email, perintah kirim-terima, alamat, lampiran, dan pengaturan teks.
 
-Kosakata ini berguna untuk membaca tampilan email, instruksi komputer, dan pesan kerja sederhana.
+Fokus hari ini bukan hanya menghafal arti kata seperti メール, 受信トレイ, 送信トレイ, dan 送信済みアイテム, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> bedakan 受信 sebagai menerima dan 送信 sebagai mengirim. Perhatikan juga 差出人 dan 宛先.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -91,6 +91,10 @@ Kata email terbagi menjadi lokasi pesan, kolom informasi, dan perintah tindakan.
   <span>添付</span>
 </div>
 
+Bayangkan kamu sedang membaca atau mendengar situasi tentang menulis email: kata intinya bisa berupa メール, 受信トレイ, dan 送信トレイ; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
+
+
 ## Catatan Pemakaian
 
 - **Kirim-terima:** 受信する adalah menerima; 送信する adalah mengirim.
@@ -126,6 +130,8 @@ Kata email terbagi menjadi lokasi pesan, kolom informasi, dan perintah tindakan.
 
 ## Mini Practice
 
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
+
 ::MiniPractice
 ---
 question: "Foto dilampirkan ke email."
@@ -139,7 +145,7 @@ explanation: "添付する berarti melampirkan file/foto."
 
 ::MiniPractice
 ---
-question: "Penerima email diisi."
+question: "Saya memasukkan alamat di kolom penerima."
 sentence: "____にアドレスを入力する。"
 optionA: "宛先"
 optionB: "差出人"

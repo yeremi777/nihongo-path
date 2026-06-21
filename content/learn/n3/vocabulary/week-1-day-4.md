@@ -21,12 +21,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali kosakata N3 untuk Ayo membersihkan rumah. Fokusnya adalah membaca kata sebagai bagian dari situasi nyata, bukan hanya menghafal arti satu per satu.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat membaca alat bersih-bersih, kondisi ruangan, tindakan merapikan, dan pemilahan sampah.
 
-Pelajaran ini membantu kamu melihat hubungan antara istilah utama, benda, tindakan, kondisi, dan pola partikel yang sering muncul dalam kalimat pendek sehari-hari.
+Fokus hari ini bukan hanya menghafal arti kata seperti 掃除, エプロンをかける, エプロンをする, dan エプロンをつける, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca kata sebagai kelompok makna. Perhatikan apakah kata itu menunjuk benda/tempat, tindakan dengan partikel seperti を・が・に・で, atau kondisi yang menjelaskan keadaan.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -36,9 +36,9 @@ Pelajaran ini membantu kamu melihat hubungan antara istilah utama, benda, tindak
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
 | 掃除 | そうじ | bersih-bersih; 掃除をする |
-| エプロンをかける | エプロンをかける | memakai celemek; also する／つける |
-| エプロンをする | エプロンをする | memakai celemek; する can mean wear for some accessories |
-| エプロンをつける | エプロンをつける | memakai celemek; istilah dasar dalam topik hari ini. |
+| エプロンをかける | エプロンをかける | memakai celemek; juga bisa memakai する／つける |
+| エプロンをする | エプロンをする | memakai celemek; する bisa berarti memakai untuk beberapa aksesori |
+| エプロンをつける | エプロンをつける | memakai celemek; sering muncul saat membaca alat bersih-bersih, kondisi ruangan, tindakan merapikan, dan pemilahan sampah. |
 | ソファーをどける | ソファーをどける | memindahkan sofa ke samping; どける memakai を |
 | どく | どく | menyingkir / minggir; person/object moves aside by itself |
 | 部屋を散らかす | へやをちらかす | membuat kamar berantakan; 散らかす memakai を |
@@ -48,20 +48,20 @@ Pelajaran ini membantu kamu melihat hubungan antara istilah utama, benda, tindak
 | ジュースをこぼす | ジュースをこぼす | menumpahkan jus; こぼす memakai を |
 | ジュースがこぼれる | ジュースがこぼれる | jus tumpah; こぼれる memakai が |
 | ほこりがたまる | ほこりがたまる | debu menumpuk; たまる = accumulate |
-| ほこりがつもる | ほこりがつもる | debu menumpuk; つもる also used for snow |
-| 雪がつもる | ゆきがつもる | salju menumpuk; perhatikan pola partikel saat dipakai dalam kalimat. |
+| ほこりがつもる | ほこりがつもる | debu menumpuk; つもる juga dipakai untuk salju |
+| 雪がつもる | ゆきがつもる | salju menumpuk; baca bersama objek dan partikelnya. |
 | ほこりを取る | ほこりをとる | membersihkan debu; 取る = remove/take |
-| 掃除機をかける | そうじきをかける | menggunakan vacuum cleaner; かける collocation |
+| 掃除機をかける | そうじきをかける | menggunakan vacuum cleaner; かける kolokasi |
 | 床をふく | ゆかをふく | mengepel/mengelap lantai; ふく = wipe |
 | ほうきで掃く | ほうきではく | menyapu dengan sapu; 掃く = sweep |
 | ふきんで食器をふく | ふきんでしょっきをふく | mengelap peralatan makan dengan kain; 食器 = dishes/tableware |
-| 水をくむ | みずをくむ | mengambil air; often into a bucket/container |
+| 水をくむ | みずをくむ | mengambil air; biasanya ke ember atau wadah |
 | 台ふきんでテーブルをふく | だいふきんでテーブルをふく | mengelap meja dengan kain lap; 台ふきん = table cloth/rag |
 | ぞうきんをぬらす | ぞうきんをぬらす | membasahi kain lap; ぬらす memakai を |
 | 家具をみがく | かぐをみがく | mengilapkan perabot; みがく = polish/brush |
-| ぞうきんをしぼる | ぞうきんをしぼる | memeras kain lap; perhatikan pola partikel saat dipakai dalam kalimat. |
+| ぞうきんをしぼる | ぞうきんをしぼる | memeras kain lap; baca bersama objek dan partikelnya. |
 | ブラシでこする | ブラシでこする | menggosok dengan sikat; こする = rub/scrub |
-| ゴミを分ける | ゴミをわける | memilah sampah; perhatikan pola partikel saat dipakai dalam kalimat. |
+| ゴミを分ける | ゴミをわける | memilah sampah; baca bersama objek dan partikelnya. |
 | スリッパをそろえる | スリッパをそろえる | merapikan sandal rumah; そろえる = align/arrange |
 | 物置にしまう | ものおきにしまう | menyimpan di gudang; 物置 = storage room/shed |
 
@@ -78,18 +78,18 @@ Pelajaran ini membantu kamu melihat hubungan antara istilah utama, benda, tindak
 |---|---|---|
 | 新聞 | しんぶん | koran; 新聞をどける |
 | ほうき | ほうき | sapu; ほうきで掃く |
-| ちりとり | ちりとり | pengki / serokan sampah; istilah dasar dalam topik hari ini. |
+| ちりとり | ちりとり | pengki / serokan sampah; sering muncul saat membaca alat bersih-bersih, kondisi ruangan, tindakan merapikan, dan pemilahan sampah. |
 | ぞうきん | ぞうきん | kain lap; ぞうきんをしぼる |
-| バケツ | バケツ | ember; istilah dasar dalam topik hari ini. |
+| バケツ | バケツ | ember; sering muncul saat membaca alat bersih-bersih, kondisi ruangan, tindakan merapikan, dan pemilahan sampah. |
 | 生ゴミ | なまゴミ | sampah dapur / sampah organik; mainly food waste |
-| 燃えるゴミ | もえるゴミ | sampah yang bisa dibakar; japanese garbage sorting term |
-| 燃えないゴミ | もえないゴミ | sampah yang tidak bisa dibakar; japanese garbage sorting term |
+| 燃えるゴミ | もえるゴミ | sampah yang bisa dibakar; istilah pemilahan sampah di Jepang |
+| 燃えないゴミ | もえないゴミ | sampah yang tidak bisa dibakar; istilah pemilahan sampah di Jepang |
 
 ### Sifat dan Kondisi
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| 面倒だ | めんどうだ | merepotkan; istilah dasar dalam topik hari ini. |
+| 面倒だ | めんどうだ | merepotkan; sering muncul saat membaca alat bersih-bersih, kondisi ruangan, tindakan merapikan, dan pemilahan sampah. |
 | 面倒くさい | めんどうくさい | merepotkan / malas rasanya; lebih kasual daripada 面倒だ |
 
 ## Peta Kata
@@ -107,7 +107,8 @@ Pelajaran ini membantu kamu melihat hubungan antara istilah utama, benda, tindak
   <span>エプロンをする</span>
 </div>
 
-Kata-kata hari ini bisa dibaca sebagai alur: istilah utama untuk mengenali konteks, benda atau tempat yang menjadi objek, tindakan yang dilakukan, lalu kondisi atau hasil yang perlu diperhatikan. Saat membaca teks pendek, cari dulu kata inti seperti 掃除, lalu lihat kata kerja dan partikelnya untuk memahami siapa melakukan apa.
+Bayangkan kamu sedang membaca atau mendengar situasi tentang mari bersih-bersih: kata intinya bisa berupa 掃除, エプロンをかける, dan エプロンをする; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
 
 ## Catatan Pemakaian
 
@@ -132,44 +133,44 @@ Kata-kata hari ini bisa dibaca sebagai alur: istilah utama untuk mengenali konte
 | Pola | Arti praktis | Catatan membaca |
 |---|---|---|
 | 掃除 | bersih-bersih | 掃除をする |
-| エプロンをかける | memakai celemek | also する／つける |
-| エプロンをする | memakai celemek | する can mean wear for some accessories |
-| エプロンをつける | memakai celemek | istilah dasar dalam topik hari ini. |
+| エプロンをかける | memakai celemek | juga bisa memakai する／つける |
+| エプロンをする | memakai celemek | する bisa berarti memakai untuk beberapa aksesori |
+| エプロンをつける | memakai celemek | sering muncul saat membaca alat bersih-bersih, kondisi ruangan, tindakan merapikan, dan pemilahan sampah. |
 | ソファーをどける | memindahkan sofa ke samping | どける memakai を |
 | どく | menyingkir / minggir | person/object moves aside by itself |
 | 部屋を散らかす | membuat kamar berantakan | 散らかす memakai を |
 | 部屋が散らかる | kamar berantakan | 散らかる memakai が |
 
-Gunakan tabel ini sebagai pegangan saat melihat kata dalam kalimat. Kata kerja dan frasa sering lebih mudah dipahami jika kamu membaca seluruh pola, bukan hanya satu kata.
+Perhatikan pola partikel: `を` menandai objek tindakan, `が` sering menandai keadaan, `に` menunjukkan tujuan atau arah, dan `で` menunjukkan alat, tempat, atau cara.
 
 ## Contoh Kalimat
 
 <div class="example-list">
-  <div><p class="jp">エプロンをかける。</p><p>memakai celemek.</p></div>
-  <div><p class="jp">エプロンをする。</p><p>memakai celemek.</p></div>
-  <div><p class="jp">エプロンをつける。</p><p>memakai celemek.</p></div>
-  <div><p class="jp">ソファーをどける。</p><p>memindahkan sofa ke samping.</p></div>
-  <div><p class="jp">どく。</p><p>menyingkir / minggir.</p></div>
+  <div><p class="jp">掃除をする前に、エプロンをつけました。</p><p>Sebelum bersih-bersih, saya memakai celemek.</p></div>
+  <div><p class="jp">ソファーを少しどけて、床に掃除機をかけました。</p><p>Saya memindahkan sofa sedikit lalu menyedot lantai dengan vacuum cleaner.</p></div>
+  <div><p class="jp">棚の上にほこりがたまっていたので、ぞうきんでふきました。</p><p>Karena debu menumpuk di atas rak, saya mengelapnya dengan kain lap.</p></div>
+  <div><p class="jp">燃えるゴミと燃えないゴミを分けて出してください。</p><p>Tolong pisahkan sampah yang bisa dibakar dan yang tidak bisa dibakar sebelum membuangnya.</p></div>
+  <div><p class="jp">バケツに水をくんで、ベランダを洗いました。</p><p>Saya mengambil air dengan ember lalu mencuci balkon.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar
 
 | Pasangan | Cara membedakan |
 |---|---|
-| 掃除 / 掃除機 | 掃除 cocok untuk bersih-bersih; 掃除機 cocok untuk vacuum cleaner. Bedakan dari kata sekitar dan pola partikel yang muncul. |
-| エプロンをかける / エプロンをする | エプロンをかける cocok untuk memakai celemek; エプロンをする cocok untuk memakai celemek. Bedakan dari kata sekitar dan pola partikel yang muncul. |
-| エプロンをする / エプロンをつける | エプロンをする cocok untuk memakai celemek; エプロンをつける cocok untuk memakai celemek. Bedakan dari kata sekitar dan pola partikel yang muncul. |
-| 部屋を散らかす / 部屋が散らかる | 部屋を散らかす cocok untuk membuat kamar berantakan; 部屋が散らかる cocok untuk kamar berantakan. Bedakan dari kata sekitar dan pola partikel yang muncul. |
+| 掃除 / 掃除機 | 掃除 cocok untuk bersih-bersih; 掃除機 cocok untuk vacuum cleaner. Gunakan kata sekitar dan partikel sebagai petunjuk. |
+| エプロンをかける / エプロンをする | エプロンをかける cocok untuk memakai celemek; エプロンをする cocok untuk memakai celemek. Gunakan kata sekitar dan partikel sebagai petunjuk. |
+| エプロンをする / エプロンをつける | エプロンをする cocok untuk memakai celemek; エプロンをつける cocok untuk memakai celemek. Gunakan kata sekitar dan partikel sebagai petunjuk. |
+| 部屋を散らかす / 部屋が散らかる | 部屋を散らかす cocok untuk membuat kamar berantakan; 部屋が散らかる cocok untuk kamar berantakan. Gunakan kata sekitar dan partikel sebagai petunjuk. |
 
 ## Kesalahan Umum
 
-Jangan memilih kata hanya karena terjemahannya mirip. Untuk kosakata N3, yang sering menentukan makna adalah pasangan katanya: objek dengan を, keadaan dengan が, tujuan dengan に, atau alat/tempat dengan で.
+Jangan menerjemahkan kata satu per satu tanpa melihat frasa lengkap. Banyak kata terlihat mirip dalam bahasa Indonesia, tetapi berbeda saat dipasangkan dengan partikel, benda, atau kata kerja tertentu.
 
-Strategi cepat: baca satu frasa penuh dulu, lalu baru cocokkan arti. Jika kata berupa frasa kerja, hafalkan bersama partikelnya.
+Strategi cepat: cari dulu kata intinya, lalu cek partikel dan kata kerja di dekatnya. Jika bentuknya frasa kerja, hafalkan bersama pasangan katanya, bukan sebagai kata tunggal.
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
 
 ::MiniPractice
 ---
@@ -195,7 +196,7 @@ explanation: "かける benar. Kolokasi yang umum adalah 掃除機をかける."
 
 ::MiniPractice
 ---
-question: "Saat memasak atau bersih-bersih, kamu memakai celemek."
+question: "Saya memakai celemek."
 sentence: "エプロンを____。"
 optionA: "かける"
 optionB: "片づける"
@@ -206,7 +207,7 @@ explanation: "エプロンをかける benar. Untuk celemek, かける／する�
 
 ::MiniPractice
 ---
-question: "Setelah selesai, barang-barang dikembalikan ke tempatnya."
+question: "Saya membereskan alat-alat."
 sentence: "道具を____。"
 optionA: "片づける"
 optionB: "汚す"

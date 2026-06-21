@@ -1,6 +1,6 @@
 ---
 title: "習ったことを忘れてしまいました。"
-description: "Belajar pola grammar N4 untuk saya lupa hal yang sudah dipelajari dalam konteks belajar, percakapan, dan instruksi sederhana."
+description: "Belajar memahami grammar N4 untuk persiapan, selesai, mencoba agar bisa memilih bentuk, partikel, dan nuansa yang tepat."
 level: "N4"
 category: "grammar"
 topic: "習ったことを忘れてしまいました。"
@@ -22,21 +22,21 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa memakai pola N4 dalam topik **習ったことを忘れてしまいました。** untuk persiapan, selesai, mencoba. Fokusnya adalah memilih partikel, bentuk verba, atau ekspresi yang sesuai dengan konteks kalimat.
+Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N4 untuk persiapan, selesai, mencoba. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan konteks.
 
-Kamu juga akan membedakan pola yang mirip agar tidak menerjemahkan langsung dari bahasa Indonesia tanpa melihat petunjuk bentuk Jepangnya.
+Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya bergantung pada terjemahan bahasa Indonesia.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca fungsi komunikasinya dulu, lalu cek bentuk sebelum dan sesudah pola. Banyak kesalahan N4 muncul karena arti Indonesianya mirip, tetapi partikel atau bentuk akhirnya berbeda.
+  <strong>Fokus hari ini:</strong> baca fungsi kalimatnya dulu. Setelah itu cek partikel, bentuk verba, dan nuansa yang membuat satu pola lebih tepat daripada pola lain.
 </div>
 
 ## Pola Hari Ini
 
 | Fungsi | Pola | Arti praktis | Kapan dipakai |
 |---|---|---|---|
-| Melakukan sebagai persiapan | 〜ておく | Melakukan sebagai persiapan; membiarkan tetap begitu | Dipakai saat ingin menyatakan melakukan sebagai persiapan; membiarkan tetap begitu dengan bentuk （V）て + おく. |
-| Selesai sepenuhnya | 〜てしまう | Selesai sepenuhnya; terlanjur / tidak sengaja ~ | Dipakai saat ingin menyatakan selesai sepenuhnya; terlanjur / tidak sengaja ~ dengan bentuk （V）て + しまう. |
-| Mencoba melakukan | 〜てみる | Mencoba melakukan ~ | Dipakai saat ingin menyatakan mencoba melakukan ~ dengan bentuk （V）て + みる. |
+| Melakukan sebagai persiapan | 〜ておく | Melakukan sebagai persiapan; membiarkan tetap begitu | dipakai saat melakukan sebagai persiapan; membiarkan tetap begitu; bentuknya （V）て + おく. |
+| Selesai sepenuhnya | 〜てしまう | Selesai sepenuhnya; terlanjur / tidak sengaja ~ | dipakai saat selesai sepenuhnya; terlanjur / tidak sengaja ~; bentuknya （V）て + しまう. |
+| Mencoba melakukan | 〜てみる | Mencoba melakukan ~ | dipakai saat mencoba melakukan ~; bentuknya （V）て + みる. |
 
 ## Peta Pola
 
@@ -46,54 +46,54 @@ Kamu juga akan membedakan pola yang mirip agar tidak menerjemahkan langsung dari
   <span>〜てみる</span>
 </div>
 
-Pola hari ini saling terhubung oleh fungsi **persiapan, selesai, mencoba**. Gunakan tabel pola sebagai peta cepat: pola yang terlihat mirip biasanya berbeda pada petunjuk seperti partikel, bentuk negatif, bentuk lampau, bentuk kamus, atau sudut pandang pembicara.
+Pola hari ini sama-sama dipakai untuk **persiapan, selesai, mencoba**, tetapi petunjuknya berbeda. Perhatikan partikel, bentuk negatif/lampau, bentuk kamus, dan siapa yang menjadi fokus kalimat.
 
 ## Cara Membentuk Pola
 
-Simbol utama: （N）= nomina, （V）= verba, （Clause）= klausa, （いAdj）= kata sifat-i, dan （なAdj）= kata sifat-na.
+Simbol utama: （N） berarti nomina, （V） berarti verba, （Klausa） berarti klausa, （いAdj） berarti kata sifat-i, dan （なAdj） berarti kata sifat-na.
 
 | Pola | Bentuk dasar | Catatan bentuk |
 |---|---|---|
-| 〜ておく | （V）て + おく | Gunakan bentuk ini untuk melakukan sebagai persiapan; membiarkan tetap begitu. |
-| 〜てしまう | （V）て + しまう | Gunakan bentuk ini untuk selesai sepenuhnya; terlanjur / tidak sengaja ~. |
-| 〜てみる | （V）て + みる | Gunakan bentuk ini untuk mencoba melakukan ~. |
+| 〜ておく | （V）て + おく | dipakai untuk melakukan sebagai persiapan; membiarkan tetap begitu. |
+| 〜てしまう | （V）て + しまう | dipakai untuk selesai sepenuhnya; terlanjur / tidak sengaja ~. |
+| 〜てみる | （V）て + みる | dipakai untuk mencoba melakukan ~. |
 
 ## Bangun Kalimat Bertahap
 
 | Langkah | Jepang | Fungsi |
 |---|---|---|
-| Bahan | （V）て + おく | Bentuk untuk melakukan sebagai persiapan |
+| Bahan | （V）て + おく | bentuk untuk melakukan sebagai persiapan |
 | Kalimat | お客さんが来る前に、そうじしておきます。 | Melakukan sebagai persiapan; membiarkan tetap begitu |
-| Bahan | （V）て + しまう | Bentuk untuk selesai sepenuhnya |
+| Bahan | （V）て + しまう | bentuk untuk selesai sepenuhnya |
 | Kalimat | 電車の中にかさを忘れてしまいました。 | Selesai sepenuhnya; terlanjur / tidak sengaja ~ |
-| Bahan | （V）て + みる | Bentuk untuk mencoba melakukan |
+| Bahan | （V）て + みる | bentuk untuk mencoba melakukan |
 | Kalimat | これ、おいしいですよ。食べてみてください。 | Mencoba melakukan ~ |
 
-Bagian ini menjembatani rumus dan kalimat penuh. Ambil bentuk pendeknya dulu, lalu masukkan ke kalimat yang punya konteks jelas.
+Bagian ini menghubungkan rumus dan kalimat penuh. Mulai dari bentuk pendeknya dulu, lalu cek fungsi pola sebelum membaca contoh lengkap.
 
 ## Catatan Pemakaian
 
 ### 〜ておく
 
-Pola ini dipakai untuk **melakukan sebagai persiapan; membiarkan tetap begitu**. Bentuk intinya adalah （V）て + おく.
+Gunakan pola ini untuk **melakukan sebagai persiapan; membiarkan tetap begitu**. Bentuk dasarnya: （V）て + おく.
 
-Catatan praktis: Used untuk preparation atau keeping a state. Casual form: 〜とく／〜どく.
+Catatan praktis: Dipakai untuk persiapan atau menjaga keadaan. Santai form: 〜とく／〜どく.
 
 Contoh inti: お客さんが来る前に、そうじしておきます。
 
 ### 〜てしまう
 
-Pola ini dipakai untuk **selesai sepenuhnya; terlanjur / tidak sengaja ~**. Bentuk intinya adalah （V）て + しまう.
+Gunakan pola ini untuk **selesai sepenuhnya; terlanjur / tidak sengaja ~**. Bentuk dasarnya: （V）て + しまう.
 
-Catatan praktis: menunjukkan completion, regret, accident, atau unexpected result. Casual form: 〜ちゃう／〜じゃう.
+Catatan praktis: menunjukkan penyelesaian, penyesalan, kejadian tidak sengaja, atau hasil tak terduga. Santai form: 〜ちゃう／〜じゃう.
 
 Contoh inti: 電車の中にかさを忘れてしまいました。
 
 ### 〜てみる
 
-Pola ini dipakai untuk **mencoba melakukan ~**. Bentuk intinya adalah （V）て + みる.
+Gunakan pola ini untuk **mencoba melakukan ~**. Bentuk dasarnya: （V）て + みる.
 
-Catatan praktis: Used saat trying an action to see the result atau experience it.
+Catatan praktis: Dipakai saat mencoba tindakan untuk melihat hasil atau merasakannya.
 
 Contoh inti: これ、おいしいですよ。食べてみてください。
 
@@ -111,31 +111,31 @@ Contoh inti: これ、おいしいですよ。食べてみてください。
   <div><p class="jp">お客さんが来る前に、そうじしておきます。</p><p>Saya akan bersih-bersih dulu sebelum tamu datang.</p></div>
   <div><p class="jp">電車の中にかさを忘れてしまいました。</p><p>Saya tidak sengaja meninggalkan payung di dalam kereta.</p></div>
   <div><p class="jp">この料理を食べてみてください。</p><p>Coba makan masakan ini.</p></div>
-  <div><p class="jp">これ、おいしいですよ。食べてみてください。</p><p>Kalimat ini memakai 〜てみる untuk arti mencoba melakukan ~.</p></div>
+  <div><p class="jp">これ、おいしいですよ。食べてみてください。</p><p>Ini enak. Coba makan.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar
 
 | Pasangan | Cara membedakan |
 |---|---|
-| 〜ておく / 〜てしまう | Bedakan dari fungsi utamanya: Preparation / leave as is dibanding completion / regret. Petunjuk pilihan: Gunakan g209 saat doing something untuk later. gunakan g210 saat something is finished atau regrettable.. |
-| 〜ておく / 〜ている | Bedakan dari fungsi utamanya: Intentional preparation/state keeping dibanding normal ongoing state. Petunjuk pilihan: Gunakan 〜ておく saat someone prepares atau leaves something intentionally.. |
-| 〜てしまう / 〜ちゃう・〜じゃう | Bedakan dari fungsi utamanya: Standard form dibanding casual contraction. Petunjuk pilihan: Gunakan 〜てしまう in neutral/polite speech. gunakan 〜ちゃう／〜じゃう casually.. |
-| 〜てみる / 〜ておく | Bedakan dari fungsi utamanya: Try dan see dibanding prepare untuk later. Petunjuk pilihan: Gunakan 〜てみる saat trying something. gunakan 〜ておく saat preparing something.. |
+| 〜ておく / 〜てしまう | Bedakan dari fungsi utamanya: Preparation / leave as is dibanding completion / regret. Petunjuk pilihan: Gunakan pola pertama saat doing something untuk later. Gunakan pola kedua saat something is finished atau regrettable. |
+| 〜ておく / 〜ている | Bedakan dari fungsi utamanya: Persiapan atau keadaan yang sengaja dibiarkan dibanding keadaan yang sedang berlangsung biasa. Petunjuk pilihan: Gunakan 〜ておく saat seseorang menyiapkan sesuatu atau sengaja membiarkannya begitu. |
+| 〜てしまう / 〜ちゃう・〜じゃう | Bedakan dari fungsi utamanya: Bentuk standar dibanding kontraksi santai. Petunjuk pilihan: Gunakan 〜てしまう dalam ucapan netral/sopan. Gunakan 〜ちゃう／〜じゃう secara santai. |
+| 〜てみる / 〜ておく | Bedakan dari fungsi utamanya: Try dan see dibanding prepare untuk later. Petunjuk pilihan: Gunakan 〜てみる saat trying something. Gunakan 〜ておく saat preparing something. |
 
 ## Kesalahan Umum
 
 | Salah | Benar | Kenapa |
 |---|---|---|
-| お客さんが来る前に、そうじしてしまいます。 | お客さんが来る前に、そうじしておきます。 | Preparation uses 〜ておく |
-| 電車の中にかさを忘れておきました。 | 電車の中にかさを忘れてしまいました。 | Regrettable accident uses 〜てしまう |
-| この料理を食べるみてください。 | この料理を食べてみてください。 | Trying something uses Vて+みる |
+| お客さんが来る前に、そうじしてしまいます。 | お客さんが来る前に、そうじしておきます。 | Persiapan memakai 〜ておく |
+| 電車の中にかさを忘れておきました。 | 電車の中にかさを忘れてしまいました。 | Kejadian yang disesali memakai 〜てしまう |
+| この料理を食べるみてください。 | この料理を食べてみてください。 | Mencoba melakukan sesuatu memakai Vて + みる |
 
-Catatan untuk pembelajar Indonesia: Indonesian “coba” often matches **〜てみる**. - 食べてみる = try eating - やってみる = try doing - 泊まってみる = try staying Indonesian “terlanjur” or “tidak sengaja” often matches **〜てしまう**.
+Catatan untuk pembelajar Indonesia: “Coba” dalam bahasa Indonesia sering cocok dengan **〜てみる**: 食べてみる = mencoba makan; やってみる = mencoba melakukan; 泊まってみる = mencoba menginap. “Terlanjur” atau “tidak sengaja” sering cocok dengan **〜てしまう**.
 
 ## Mini Practice
 
-Pilih jawaban yang paling tepat untuk melengkapi kalimat. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat. Perhatikan petunjuk partikel, bentuk kata, dan konteks kalimat sebelum memilih.
 
 ::MiniPractice
 ---
@@ -144,7 +144,7 @@ sentence: "お客さんが来る前に、そうじして____ます。"
 optionA: "おき"
 optionB: "しまい"
 correct: "おき"
-explanation: "おき benar. Preparation uses 〜ておく"
+explanation: "おき benar. Persiapan memakai 〜ておく"
 ---
 ::
 
@@ -155,7 +155,7 @@ sentence: "電車の中にかさを忘れて____ました。"
 optionA: "しまい"
 optionB: "おき"
 correct: "しまい"
-explanation: "しまい benar. Regrettable accident uses 〜てしまう"
+explanation: "しまい benar. Kejadian yang disesali memakai 〜てしまう"
 ---
 ::
 
@@ -166,29 +166,29 @@ sentence: "この料理を食べ____みてください。"
 optionA: "て"
 optionB: "る"
 correct: "て"
-explanation: "て benar. Trying something uses Vて+みる"
+explanation: "て benar. Mencoba melakukan sesuatu memakai Vて + みる"
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pola apa yang dipakai untuk arti: Melakukan sebagai persiapan; membiarkan tetap begitu?"
-sentence: "例: お客さんが来る前に、そうじしておきます。 ポイント: ____"
-optionA: "〜ておく"
-optionB: "〜てしまう"
-correct: "〜ておく"
-explanation: "〜ておく benar karena kalimat contoh menunjukkan melakukan sebagai persiapan; membiarkan tetap begitu."
+question: "Tolong biarkan pintunya terbuka."
+sentence: "ドアを開けて____ください。"
+optionA: "おいて"
+optionB: "しまって"
+correct: "おいて"
+explanation: "ておいてください benar saat meminta agar suatu keadaan dibiarkan untuk nanti."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pola apa yang dipakai untuk arti: Selesai sepenuhnya; terlanjur / tidak sengaja ~?"
-sentence: "例: 電車の中にかさを忘れてしまいました。 ポイント: ____"
-optionA: "〜てしまう"
-optionB: "〜てみる"
-correct: "〜てしまう"
-explanation: "〜てしまう benar karena kalimat contoh menunjukkan selesai sepenuhnya; terlanjur / tidak sengaja ~."
+question: "Coba pakai aplikasi ini sekali."
+sentence: "このアプリを使って____ください。"
+optionA: "みて"
+optionB: "おいて"
+correct: "みて"
+explanation: "てみてください benar untuk meminta seseorang mencoba melakukan sesuatu."
 ---
 ::
 

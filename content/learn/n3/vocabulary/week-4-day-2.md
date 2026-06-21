@@ -21,12 +21,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca kata kampus seperti fakultas, jurusan, ujian masuk, SKS, biaya kuliah, beasiswa, dan aktivitas kuliah.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat membaca jurusan kampus, ujian masuk, biaya kuliah, beasiswa, dan kehidupan akademik.
 
-Pelajaran ini penting untuk membaca profil mahasiswa, formulir kampus, pengumuman hasil ujian, atau percakapan tentang studi lanjut.
+Fokus hari ini bukan hanya menghafal arti kata seperti 学部, 学科, 文学部, dan 経済学部, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca urutan besar ke kecil: universitas -> 学部 -> 学科 -> 専攻.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -83,6 +83,10 @@ Kosakata ini tersusun sebagai jalur studi: 受験する -> 合格する -> 学�
   <span>単位</span>
 </div>
 
+Bayangkan kamu sedang membaca atau mendengar situasi tentang pergi ke sekolah (2): kata intinya bisa berupa 学部, 学科, dan 文学部; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
+
+
 ## Catatan Pemakaian
 
 - **Struktur kampus:** 学部 adalah fakultas, 学科 adalah jurusan, 専攻 adalah bidang yang dipilih.
@@ -91,7 +95,7 @@ Kosakata ini tersusun sebagai jalur studi: 受験する -> 合格する -> 学�
 
 ## Pola yang Sering Muncul
 
-- **Nを専攻する:** mengambil bidang sebagai jurusan.
+- **（N）を専攻する:** mengambil bidang sebagai jurusan.
 - **試験に合格する／落ちる:** に menandai ujian sebagai target hasil.
 - **授業料を払う:** を menandai biaya yang dibayar.
 - **講義に間に合う／遅れる:** に menandai acara/kelas yang menjadi patokan waktu.
@@ -118,6 +122,8 @@ Kosakata ini tersusun sebagai jalur studi: 受験する -> 合格する -> 学�
 
 ## Mini Practice
 
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
+
 ::MiniPractice
 ---
 question: "Seseorang mengambil jurusan ekonomi."
@@ -142,7 +148,7 @@ explanation: "授業料／学費を払う adalah pola untuk membayar biaya sekol
 
 ::MiniPractice
 ---
-question: "Hasil ujian masuk dinyatakan lulus."
+question: "Saya lulus ujian."
 sentence: "試験に____。"
 optionA: "合格する"
 optionB: "落ちる"
@@ -164,7 +170,7 @@ explanation: "経済学部 adalah fakultas ekonomi. 受験する memberi konteks
 
 ::MiniPractice
 ---
-question: "Jurusan bahasa Jepang ada di dalam fakultas."
+question: "Saya belajar di jurusan bahasa Jepang fakultas sastra."
 sentence: "文学部の日本語____で勉強する。"
 optionA: "学科"
 optionB: "学部"

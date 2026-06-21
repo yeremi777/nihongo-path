@@ -1,6 +1,6 @@
 ---
 title: "受かっていたらいいなあ"
-description: "Belajar pola grammar N3 untuk menyampaikan harapan, keinginan yang belum pasti, penyesalan masa lalu, dan harapan agar sesuatu segera terjadi."
+description: "Belajar memahami grammar N3 untuk menyampaikan harapan, keinginan yang belum pasti, penyesalan masa lalu, dan harapan agar sesuatu segera terjadi."
 level: "N3"
 category: "grammar"
 topic: "受かっていたらいいなあ"
@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali dan memakai pola pada topik **受かっていたらいいなあ** dalam konteks bacaan, percakapan, dan penjelasan N3. Fokusnya bukan hanya arti terjemahan, tetapi juga alasan memilih pola yang tepat.
+Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N3 untuk menyampaikan harapan, keinginan yang belum pasti, penyesalan masa lalu, dan harapan agar sesuatu segera terjadi. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan nuansa konteks.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> bedakan waktu dan rasa kalimat. といいなあ／たらいいなあ melihat harapan ke depan atau hal yang belum pasti, sedangkan ばよかった melihat penyesalan masa lalu.
@@ -51,13 +51,13 @@ Harapan yang masih terbuka memakai といいなあ／たらいいなあ. Penyesa
 
 | Fungsi | Kerangka kalimat | Yang perlu dicek |
 |---|---|---|
-| Semoga | （plain form）といいなあ | Apakah ini harapan untuk keadaan? |
+| Semoga | （bentuk biasa）といいなあ | Apakah ini harapan untuk keadaan? |
 | Andai bisa | （たら form）いいなあ | Apakah ini kondisi yang diinginkan? |
 | Penyesalan | （ば form）よかった | Apakah tindakan masa lalu disesali? |
 | Sayang sekali | （ば form）よかったのに | Apakah ada kecewa pada orang/situasi? |
 | Semoga terjadi | （Vない）かなあ | Apakah berharap sesuatu datang/terjadi? |
 
-Di tabel ini, `（A）` dan `（B）` menandai pihak pertama dan pihak kedua dalam hubungan kalimat, `（N）` adalah nomina atau frasa nomina, `（V）` adalah verba, `（Adj）` adalah adjektiva, `（clause）` dan `（plain form）` adalah klausa atau bentuk biasa, `（Sentence A）` dan `（Sentence B）` adalah dua kalimat yang dihubungkan, `（Option A）` dan `（Option B）` adalah dua pilihan, sedangkan `（question）`, `（number）`, `（predicate）`, dan `（result）` menandai slot pertanyaan, angka, predikat, dan hasil.
+Simbol di tabel ini hanya penanda slot. `（N）` berarti nomina atau frasa nomina, `（V）` berarti verba, `（Adj）` berarti adjektiva, `（klausa）` atau `（bentuk biasa）` berarti klausa atau bentuk biasa, dan pasangan seperti `（A）／（B）` atau `（Kalimat A）／（Kalimat B）` dipakai untuk membedakan dua sisi kalimat.
 
 ## Cara Membentuk Pola
 
@@ -81,7 +81,7 @@ Di tabel ini, `（A）` dan `（B）` menandai pihak pertama dan pihak kedua dal
 | ばよかったのに | sayang sekali seharusnya | 来ればよかったのに |
 | ないかなあ | semoga segera | 早く来ないかなあ |
 
-Sebelum membaca contoh panjang, ambil bagian yang berubah lebih dulu: apakah slotnya `（N）`, `（V辞書形）`, `（V普通形）`, `（Vますstem）`, `（Adj）`, atau satu `（clause）` utuh. Setelah itu baru cek partikel, bentuk negatif, dan hubungan antarbagian kalimat.
+Saat membangun kalimat, jangan mulai dari terjemahan kata per kata. Tentukan dulu slot yang berubah, lalu cek partikel, bentuk akhir, dan hubungan antarbagian kalimat.
 
 ## Bangun Kalimat Bertahap
 
@@ -93,7 +93,7 @@ Sebelum membaca contoh panjang, ambil bagian yang berubah lebih dulu: apakah slo
 | Sayang kamu seharusnya ikut | 君も行く | 行けばよかったのに | 君も行けばよかったのに。 |
 | Semoga bus cepat datang | バスが来る | 来ないかなあ | バス、早く来ないかなあ。 |
 
-Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pecah dulu menjadi bahan, bentuk pola, lalu kalimat jadi.
+Bagian ini menghubungkan rumus dan contoh kalimat. Mulai dari bahan pendeknya dulu, lalu cek fungsi pola sebelum membaca kalimat lengkap.
 
 ## Catatan Pemakaian
 
@@ -116,7 +116,7 @@ Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pe
 
 | Pola | Arti praktis | Contoh konteks |
 |---|---|---|
-| （plain form）といいなあ | semoga | 晴れるといいなあ |
+| （bentuk biasa）といいなあ | semoga | 晴れるといいなあ |
 | （Vたら）いいなあ | andai bisa | 話せたらいいなあ |
 | （Vば）よかった | seharusnya tadi | 早く出ればよかった |
 | （Vなければ）よかった | seharusnya tidak | 言わなければよかった |
@@ -154,7 +154,7 @@ Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pe
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat. Perhatikan konteks, bentuk sebelum pola, dan nuansa kalimat sebelum memilih.
 
 ::MiniPractice
 ---

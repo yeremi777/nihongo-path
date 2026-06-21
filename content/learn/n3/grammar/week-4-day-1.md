@@ -1,6 +1,6 @@
 ---
 title: "子どものくせに"
-description: "Belajar pola grammar N3 untuk menilai dari sudut pandang tertentu, menyebut hasil yang tidak sesuai dugaan, dan memakai kritik dengan hati-hati."
+description: "Belajar memahami grammar N3 untuk menilai dari sudut pandang tertentu, menyebut hasil yang tidak sesuai dugaan, dan memakai kritik dengan hati-hati."
 level: "N3"
 category: "grammar"
 topic: "子どものくせに"
@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali dan memakai pola pada topik **子どものくせに** dalam konteks bacaan, percakapan, dan penjelasan N3. Fokusnya bukan hanya arti terjemahan, tetapi juga alasan memilih pola yang tepat.
+Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N3 untuk menilai dari sudut pandang tertentu, menyebut hasil yang tidak sesuai dugaan, dan memakai kritik dengan hati-hati. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan nuansa konteks.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> bedakan sudut pandang netral, penilaian di luar dugaan, dan kritik. にとって menilai dari sisi seseorang, わりに melihat gap ekspektasi, sedangkan くせに membawa rasa menyalahkan.
@@ -53,11 +53,11 @@ Alurnya bisa dibaca seperti ini: にとって menunjukkan sudut pandang evaluasi
 |---|---|---|
 | Sudut pandang | （N）にとって（Adj） | Bagi siapa penilaian itu berlaku? |
 | Nomina dari sudut pandang | （N）にとっての（N） | Nomina apa yang dinilai penting/sulit bagi pihak itu? |
-| Gap ekspektasi | （plain form）わりに | Apakah hasilnya tidak sesuai dugaan? |
-| Kritik | （plain form）くせに | Apakah ada rasa menyalahkan subjek? |
-| Emosi kasual | （N）なんか／（clause）なんて | Apakah pembicara meremehkan, kaget, atau rendah hati? |
+| Gap ekspektasi | （bentuk biasa）わりに | Apakah hasilnya tidak sesuai dugaan? |
+| Kritik | （bentuk biasa）くせに | Apakah ada rasa menyalahkan subjek? |
+| Emosi kasual | （N）なんか／（klausa）なんて | Apakah pembicara meremehkan, kaget, atau rendah hati? |
 
-Di tabel ini, `（A）` dan `（B）` menandai pihak pertama dan pihak kedua dalam hubungan kalimat, `（N）` adalah nomina atau frasa nomina, `（V）` adalah verba, `（Adj）` adalah adjektiva, `（clause）` dan `（plain form）` adalah klausa atau bentuk biasa, `（Sentence A）` dan `（Sentence B）` adalah dua kalimat yang dihubungkan, `（Option A）` dan `（Option B）` adalah dua pilihan, sedangkan `（question）`, `（number）`, `（predicate）`, dan `（result）` menandai slot pertanyaan, angka, predikat, dan hasil.
+Simbol di tabel ini hanya penanda slot. `（N）` berarti nomina atau frasa nomina, `（V）` berarti verba, `（Adj）` berarti adjektiva, `（klausa）` atau `（bentuk biasa）` berarti klausa atau bentuk biasa, dan pasangan seperti `（A）／（B）` atau `（Kalimat A）／（Kalimat B）` dipakai untuk membedakan dua sisi kalimat.
 
 ## Cara Membentuk Pola
 
@@ -69,7 +69,7 @@ Di tabel ini, `（A）` dan `（B）` menandai pihak pertama dan pihak kedua dal
 | Impian bagi saya | （N）にとっての（N） | 私にとっての夢 |
 | Untuk ukuran usia | （N）のわりに | 年のわりに若い |
 | Padahal tahu | （V普通形）くせに | 知っているくせに |
-| Masa pidato bahasa Jepang | （clause）なんて | 日本語でスピーチなんて |
+| Masa pidato bahasa Jepang | （klausa）なんて | 日本語でスピーチなんて |
 
 ### 2. Masukkan ke fungsi kalimat
 
@@ -81,7 +81,7 @@ Di tabel ini, `（A）` dan `（B）` menandai pihak pertama dan pihak kedua dal
 | なんか／なんて | emosi kasual | 私なんか無理です |
 | など | contoh netral | スポーツなどが好きです |
 
-Sebelum membaca contoh panjang, ambil bagian yang berubah lebih dulu: apakah slotnya `（N）`, `（V辞書形）`, `（V普通形）`, `（Vますstem）`, `（Adj）`, atau satu `（clause）` utuh. Setelah itu baru cek partikel, bentuk negatif, dan hubungan antarbagian kalimat.
+Saat membangun kalimat, jangan mulai dari terjemahan kata per kata. Tentukan dulu slot yang berubah, lalu cek partikel, bentuk akhir, dan hubungan antarbagian kalimat.
 
 ## Bangun Kalimat Bertahap
 
@@ -93,7 +93,7 @@ Sebelum membaca contoh panjang, ambil bagian yang berubah lebih dulu: apakah slo
 | Tidak mungkin pidato bahasa Jepang | 日本語でスピーチ | なんて | 日本語でスピーチなんて、私にはできません。 |
 | Contoh kegiatan netral | 野球・サッカー | など | 野球やサッカーなどが好きです。 |
 
-Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pecah dulu menjadi bahan, bentuk pola, lalu kalimat jadi.
+Bagian ini menghubungkan rumus dan contoh kalimat. Mulai dari bahan pendeknya dulu, lalu cek fungsi pola sebelum membaca kalimat lengkap.
 
 ## Catatan Pemakaian
 
@@ -119,7 +119,7 @@ Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pe
 | （N）にとって | bagi （N） | 私にとって大切な問題 |
 | （N）にとっての（N） | （N） dari sudut pandang seseorang | 私にとっての夢 |
 | （N）のわりに | untuk ukuran （N） | 年のわりに若い |
-| （plain form）くせに | padahal, dengan kritik | 知っているくせに言わない |
+| （bentuk biasa）くせに | padahal, dengan kritik | 知っているくせに言わない |
 | （N）なんか／なんて | hal seperti （N） | 納豆なんか嫌いだ |
 | （N）など | seperti （N） | スポーツなど |
 
@@ -154,7 +154,7 @@ Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pe
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat. Perhatikan konteks, bentuk sebelum pola, dan nuansa kalimat sebelum memilih.
 
 ::MiniPractice
 ---

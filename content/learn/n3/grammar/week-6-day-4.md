@@ -1,6 +1,6 @@
 ---
 title: "できるわけがない"
-description: "Belajar pola grammar N3 untuk menyatakan pantas saja, bukan berarti, tidak mungkin, dan tidak bisa melakukan sesuatu karena tanggung jawab atau situasi sosial."
+description: "Belajar memahami grammar N3 untuk menyatakan pantas saja, bukan berarti, tidak mungkin, dan tidak bisa melakukan sesuatu karena tanggung jawab atau situasi sosial."
 level: "N3"
 category: "grammar"
 topic: "できるわけがない"
@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali dan memakai pola pada topik **できるわけがない** dalam konteks bacaan, percakapan, dan penjelasan N3. Fokusnya bukan hanya arti terjemahan, tetapi juga alasan memilih pola yang tepat.
+Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N3 untuk menyatakan pantas saja, bukan berarti, tidak mungkin, dan tidak bisa melakukan sesuatu karena tanggung jawab atau situasi sosial. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan nuansa konteks.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> わけ patterns semuanya logis, tetapi arahnya berbeda. わけだ menjelaskan pantas saja, わけではない menolak sebagian, わけがない menyangkal kemungkinan, dan わけにはいかない menunjukkan kendala sosial.
@@ -51,13 +51,13 @@ Di akhir pelajaran ini, kamu bisa mengenali dan memakai pola pada topik **でき
 
 | Fungsi | Kerangka kalimat | Yang perlu dicek |
 |---|---|---|
-| Pantas saja | （plain form）わけだ | Apakah alasan sudah diketahui? |
-| Bukan berarti | （plain form）わけではない | Apakah penyangkalannya hanya sebagian? |
-| Tidak mungkin | （plain form）わけがない | Apakah pembicara menyangkal kemungkinan? |
+| Pantas saja | （bentuk biasa）わけだ | Apakah alasan sudah diketahui? |
+| Bukan berarti | （bentuk biasa）わけではない | Apakah penyangkalannya hanya sebagian? |
+| Tidak mungkin | （bentuk biasa）わけがない | Apakah pembicara menyangkal kemungkinan? |
 | Tidak bisa karena tanggung jawab | （V辞書形）わけにはいかない | Apakah ada kendala sosial/etis? |
 | Harus | （Vない）わけにはいかない | Apakah tidak bisa menghindar dari tindakan? |
 
-Di tabel ini, `（A）` dan `（B）` menandai pihak pertama dan pihak kedua dalam hubungan kalimat, `（N）` adalah nomina atau frasa nomina, `（V）` adalah verba, `（Adj）` adalah adjektiva, `（clause）` dan `（plain form）` adalah klausa atau bentuk biasa, `（Sentence A）` dan `（Sentence B）` adalah dua kalimat yang dihubungkan, `（Option A）` dan `（Option B）` adalah dua pilihan, sedangkan `（question）`, `（number）`, `（predicate）`, dan `（result）` menandai slot pertanyaan, angka, predikat, dan hasil.
+Simbol di tabel ini hanya penanda slot. `（N）` berarti nomina atau frasa nomina, `（V）` berarti verba, `（Adj）` berarti adjektiva, `（klausa）` atau `（bentuk biasa）` berarti klausa atau bentuk biasa, dan pasangan seperti `（A）／（B）` atau `（Kalimat A）／（Kalimat B）` dipakai untuk membedakan dua sisi kalimat.
 
 ## Cara Membentuk Pola
 
@@ -82,7 +82,7 @@ Di tabel ini, `（A）` dan `（B）` menandai pihak pertama dan pihak kedua dal
 | わけにはいかない | tidak bisa karena situasi | 休むわけにはいかない |
 | ないわけにはいかない | mau tidak mau harus | 行かないわけにはいかない |
 
-Sebelum membaca contoh panjang, ambil bagian yang berubah lebih dulu: apakah slotnya `（N）`, `（V辞書形）`, `（V普通形）`, `（Vますstem）`, `（Adj）`, atau satu `（clause）` utuh. Setelah itu baru cek partikel, bentuk negatif, dan hubungan antarbagian kalimat.
+Saat membangun kalimat, jangan mulai dari terjemahan kata per kata. Tentukan dulu slot yang berubah, lalu cek partikel, bentuk akhir, dan hubungan antarbagian kalimat.
 
 ## Bangun Kalimat Bertahap
 
@@ -94,7 +94,7 @@ Sebelum membaca contoh panjang, ambil bagian yang berubah lebih dulu: apakah slo
 | Tidak bisa libur karena rapat | 大事な会議・休む | 休むわけにはいかない | 大事な会議があるので、休むわけにはいきません。 |
 | Mau tidak mau patuh | 社長の命令・従う | 従わないわけにはいかない | 社長の命令だから、従わないわけにはいきません。 |
 
-Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pecah dulu menjadi bahan, bentuk pola, lalu kalimat jadi.
+Bagian ini menghubungkan rumus dan contoh kalimat. Mulai dari bahan pendeknya dulu, lalu cek fungsi pola sebelum membaca kalimat lengkap.
 
 ## Catatan Pemakaian
 
@@ -117,10 +117,10 @@ Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pe
 
 | Pola | Arti praktis | Contoh konteks |
 |---|---|---|
-| （plain form）わけだ | pantas saja | 暑いわけだ |
-| （clause）というわけだ | artinya | 元気がないというわけだ |
-| （plain form）わけではない | bukan berarti | 嫌いなわけではない |
-| （plain form）わけがない | tidak mungkin | できるわけがない |
+| （bentuk biasa）わけだ | pantas saja | 暑いわけだ |
+| （klausa）というわけだ | artinya | 元気がないというわけだ |
+| （bentuk biasa）わけではない | bukan berarti | 嫌いなわけではない |
+| （bentuk biasa）わけがない | tidak mungkin | できるわけがない |
 | （V辞書形）わけにはいかない | tidak bisa karena situasi | 休むわけにはいかない |
 | （Vない）わけにはいかない | mau tidak mau harus | 行かないわけにはいかない |
 
@@ -155,7 +155,7 @@ Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pe
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat. Perhatikan konteks, bentuk sebelum pola, dan nuansa kalimat sebelum memilih.
 
 ::MiniPractice
 ---

@@ -1,6 +1,6 @@
 ---
 title: "たとえ高くても"
-description: "Belajar pola grammar N3 untuk menyatakan walaupun dalam kondisi ekstrem, kemungkinan tidak pasti, generalisasi yang belum tentu benar, dan perbandingan seperti metafora."
+description: "Belajar memahami grammar N3 untuk menyatakan walaupun dalam kondisi ekstrem, kemungkinan tidak pasti, generalisasi yang belum tentu benar, dan perbandingan seperti metafora."
 level: "N3"
 category: "grammar"
 topic: "たとえ高くても"
@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali dan memakai pola pada topik **たとえ高くても** dalam konteks bacaan, percakapan, dan penjelasan N3. Fokusnya bukan hanya arti terjemahan, tetapi juga alasan memilih pola yang tepat.
+Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N3 untuk menyatakan walaupun dalam kondisi ekstrem, kemungkinan tidak pasti, generalisasi yang belum tentu benar, dan perbandingan seperti metafora. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan nuansa konteks.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> たとえ membutuhkan ても／でも, かもしれない menunjukkan kemungkinan yang belum pasti, とは限らない menolak generalisasi, dan まるで〜ようだ membuat perbandingan yang hidup.
@@ -52,12 +52,12 @@ Di akhir pelajaran ini, kamu bisa mengenali dan memakai pola pada topik **たと
 | Fungsi | Kerangka kalimat | Yang perlu dicek |
 |---|---|---|
 | Walaupun ekstrem | たとえ（Vて）も | Apakah kondisi ekstrem tidak mengubah hasil? |
-| Mungkin saja | もしかすると（plain form）かもしれない | Apakah pembicara tidak yakin? |
-| Belum tentu | 必ずしも（clause）とは限らない | Apakah asumsi umum ditolak? |
+| Mungkin saja | もしかすると（bentuk biasa）かもしれない | Apakah pembicara tidak yakin? |
+| Belum tentu | 必ずしも（klausa）とは限らない | Apakah asumsi umum ditolak? |
 | Seperti formal | まるで（N）のようだ | Apakah ini perbandingan/metafora? |
 | Seperti kasual | まるで（N）みたいだ | Apakah gaya percakapannya lebih santai? |
 
-Di tabel ini, `（A）` dan `（B）` menandai pihak pertama dan pihak kedua dalam hubungan kalimat, `（N）` adalah nomina atau frasa nomina, `（V）` adalah verba, `（Adj）` adalah adjektiva, `（clause）` dan `（plain form）` adalah klausa atau bentuk biasa, `（Sentence A）` dan `（Sentence B）` adalah dua kalimat yang dihubungkan, `（Option A）` dan `（Option B）` adalah dua pilihan, sedangkan `（question）`, `（number）`, `（predicate）`, dan `（result）` menandai slot pertanyaan, angka, predikat, dan hasil.
+Simbol di tabel ini hanya penanda slot. `（N）` berarti nomina atau frasa nomina, `（V）` berarti verba, `（Adj）` berarti adjektiva, `（klausa）` atau `（bentuk biasa）` berarti klausa atau bentuk biasa, dan pasangan seperti `（A）／（B）` atau `（Kalimat A）／（Kalimat B）` dipakai untuk membedakan dua sisi kalimat.
 
 ## Cara Membentuk Pola
 
@@ -68,7 +68,7 @@ Di tabel ini, `（A）` dan `（B）` menandai pihak pertama dan pihak kedua dal
 | Walaupun ditentang | たとえ（Vて）も | たとえ反対されても |
 | Walaupun tidak sehat | たとえ（なAdj）じゃなくても | たとえ元気じゃなくても |
 | Mungkin bohong | （N）かもしれない | うそかもしれない |
-| Belum tentu bahagia | （clause）とは限らない | 幸福だとは限らない |
+| Belum tentu bahagia | （klausa）とは限らない | 幸福だとは限らない |
 | Seperti mimpi | まるで（N）のようだ | まるで夢のようだ |
 
 ### 2. Masukkan ke fungsi kalimat
@@ -81,7 +81,7 @@ Di tabel ini, `（A）` dan `（B）` menandai pihak pertama dan pihak kedua dal
 | まるで〜ようだ | seperti formal/literary | 夢のようだ |
 | まるで〜みたいだ | seperti kasual | 夢みたいだ |
 
-Sebelum membaca contoh panjang, ambil bagian yang berubah lebih dulu: apakah slotnya `（N）`, `（V辞書形）`, `（V普通形）`, `（Vますstem）`, `（Adj）`, atau satu `（clause）` utuh. Setelah itu baru cek partikel, bentuk negatif, dan hubungan antarbagian kalimat.
+Saat membangun kalimat, jangan mulai dari terjemahan kata per kata. Tentukan dulu slot yang berubah, lalu cek partikel, bentuk akhir, dan hubungan antarbagian kalimat.
 
 ## Bangun Kalimat Bertahap
 
@@ -93,7 +93,7 @@ Sebelum membaca contoh panjang, ambil bagian yang berubah lebih dulu: apakah slo
 | Seperti mimpi | 合格した・夢 | まるで夢のようだ | 合格したなんて、まるで夢のようです。 |
 | Seperti orang Jepang bicara | 日本語・日本人 | まるで日本人みたいに | 彼の日本語はまるで日本人みたいに聞こえます。 |
 
-Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pecah dulu menjadi bahan, bentuk pola, lalu kalimat jadi.
+Bagian ini menghubungkan rumus dan contoh kalimat. Mulai dari bahan pendeknya dulu, lalu cek fungsi pola sebelum membaca kalimat lengkap.
 
 ## Catatan Pemakaian
 
@@ -118,8 +118,8 @@ Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pe
 |---|---|---|
 | たとえ（Vて）も | walaupun （V） | たとえ反対されても |
 | たとえ（Vなく）ても | walaupun tidak （V） | たとえ行けなくても |
-| もしかすると（clause）かもしれない | mungkin saja | 雨かもしれない |
-| 必ずしも（clause）とは限らない | belum tentu | 正しいとは限らない |
+| もしかすると（klausa）かもしれない | mungkin saja | 雨かもしれない |
+| 必ずしも（klausa）とは限らない | belum tentu | 正しいとは限らない |
 | まるで（N）のようだ | bagaikan （N） | 夢のようだ |
 | まるで（N）みたいだ | seperti （N） | 夢みたいだ |
 
@@ -154,7 +154,7 @@ Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pe
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat. Perhatikan konteks, bentuk sebelum pola, dan nuansa kalimat sebelum memilih.
 
 ::MiniPractice
 ---

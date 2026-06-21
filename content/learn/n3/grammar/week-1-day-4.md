@@ -1,6 +1,6 @@
 ---
 title: "できるようになった！"
-description: "Belajar pola grammar N3 untuk membiasakan tindakan, membuat sesuatu menjadi mungkin, dan menjelaskan perubahan kemampuan atau keadaan."
+description: "Belajar memahami grammar N3 untuk membiasakan tindakan, membuat sesuatu menjadi mungkin, dan menjelaskan perubahan kemampuan atau keadaan."
 level: "N3"
 category: "grammar"
 topic: "できるようになった！"
@@ -143,7 +143,7 @@ Di tabel ini, `（A）` adalah orang atau pihak yang menjadi topik/subjek kalima
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat. Perhatikan konteks, bentuk sebelum pola, dan nuansa kalimat sebelum memilih.
 
 ::MiniPractice
 ---

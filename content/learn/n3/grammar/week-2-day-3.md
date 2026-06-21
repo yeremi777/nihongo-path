@@ -1,6 +1,6 @@
 ---
 title: "あなたのこと"
-description: "Belajar pola grammar N3 untuk mengubah adjektiva atau klausa menjadi nomina dan membedakan こと, の, さ, dan み."
+description: "Belajar memahami grammar N3 untuk mengubah adjektiva atau klausa menjadi nomina dan membedakan こと, の, さ, dan み."
 level: "N3"
 category: "grammar"
 topic: "あなたのこと"
@@ -49,12 +49,12 @@ Alurnya bisa dibaca seperti ini: **sifat yang diukur** memakai `〜さ`, **rasa/
 
 | Fungsi | Kerangka kalimat | Yang perlu dicek |
 |---|---|---|
-| Tingkat sifat | （Adj stem）さ | Apakah sifatnya bisa dianggap tingkat/ukuran? |
-| Rasa/sisi sifat | （Adj stem）み | Apakah kata ini memang lazim dengan `み`? |
-| Fakta abstrak | （clause）こと | Apakah yang dibicarakan adalah fakta/topik? |
-| Tindakan konkret | （clause）の | Apakah terkait tindakan yang dilihat, didengar, dilupakan, disukai? |
+| Tingkat sifat | （akar adjektiva）さ | Apakah sifatnya bisa dianggap tingkat/ukuran? |
+| Rasa/sisi sifat | （akar adjektiva）み | Apakah kata ini memang lazim dengan `み`? |
+| Fakta abstrak | （klausa）こと | Apakah yang dibicarakan adalah fakta/topik? |
+| Tindakan konkret | （klausa）の | Apakah terkait tindakan yang dilihat, didengar, dilupakan, disukai? |
 
-Di tabel ini, `（Adj stem）` berarti bagian dasar adjektiva sebelum akhiran, misalnya 大きい menjadi 大き dan 大切な menjadi 大切. `（clause）` berarti klausa/kalimat pendek sebelum dijadikan nomina.
+Di tabel ini, `（akar adjektiva）` berarti bagian dasar adjektiva sebelum akhiran, misalnya 大きい menjadi 大き dan 大切な menjadi 大切. `（klausa）` berarti klausa/kalimat pendek sebelum dijadikan nomina.
 
 ## Cara Membentuk Pola
 
@@ -106,9 +106,9 @@ Di tabel ini, `（Adj stem）` berarti bagian dasar adjektiva sebelum akhiran, m
 
 | Pola | Arti praktis | Contoh konteks |
 |---|---|---|
-| （Adj stem）さ | tingkat sifat | 大きさ, 大切さ |
-| （Adj stem）み | rasa/sisi sifat | 強み, 弱み, 苦しみ |
-| （clause）ことを知る | tahu fakta bahwa | 入院したことを知る |
+| （akar adjektiva）さ | tingkat sifat | 大きさ, 大切さ |
+| （akar adjektiva）み | rasa/sisi sifat | 強み, 弱み, 苦しみ |
+| （klausa）ことを知る | tahu fakta bahwa | 入院したことを知る |
 | （Vる）のを忘れる | lupa melakukan （V） | 電話するのを忘れる |
 | （Vる）のは好きだ | suka melakukan （V） | 行くのは好きだ |
 
@@ -144,7 +144,7 @@ Di tabel ini, `（Adj stem）` berarti bagian dasar adjektiva sebelum akhiran, m
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat. Perhatikan konteks, bentuk sebelum pola, dan nuansa kalimat sebelum memilih.
 
 ::MiniPractice
 ---

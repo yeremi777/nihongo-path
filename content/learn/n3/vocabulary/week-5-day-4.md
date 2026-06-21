@@ -21,12 +21,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca kosakata dokter, pasien, gejala, pemeriksaan, obat, rawat inap, pulang dari rumah sakit, dan menjenguk.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat membaca kondisi tubuh, gejala, pemeriksaan, obat, dan aktivitas menjenguk orang sakit.
 
-Fokusnya adalah membaca kondisi tubuh dari petunjuk が, ある, 痛い, dan tindakan medis dengan する.
+Fokus hari ini bukan hanya menghafal arti kata seperti 医師, 医者, 看護師, dan 患者, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> bagian tubuh atau gejala sering ditandai dengan が, seperti 熱がある.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -69,6 +69,10 @@ Urutan umum teks medis adalah orang/tempat -> gejala -> pemeriksaan -> obat/pera
   <span>入院</span>
 </div>
 
+Bayangkan kamu sedang membaca atau mendengar situasi tentang kondisi tubuh bagaimana?: kata intinya bisa berupa 医師, 医者, dan 看護師; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
+
+
 ## Catatan Pemakaian
 
 - **Peran:** 医師 lebih formal, 医者 lebih umum dalam percakapan.
@@ -77,9 +81,9 @@ Urutan umum teks medis adalah orang/tempat -> gejala -> pemeriksaan -> obat/pera
 
 ## Pola yang Sering Muncul
 
-- **Nがある／出る:** gejala muncul atau ada.
+- **（N）がある／出る:** gejala muncul atau ada.
 - **薬を飲む:** を menandai obat yang diminum.
-- **Nを診察する:** dokter memeriksa pasien/bagian.
+- **（N）を診察する:** dokter memeriksa pasien/bagian.
 - **お見舞いに行く:** に menandai tujuan kegiatan.
 
 ## Contoh Kalimat
@@ -104,9 +108,11 @@ Urutan umum teks medis adalah orang/tempat -> gejala -> pemeriksaan -> obat/pera
 
 ## Mini Practice
 
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
+
 ::MiniPractice
 ---
-question: "Masuk rumah sakit."
+question: "Saya dirawat inap karena sakit."
 sentence: "病気で____する。"
 optionA: "入院"
 optionB: "退院"
@@ -139,7 +145,7 @@ explanation: "診察する berarti memeriksa secara medis."
 
 ::MiniPractice
 ---
-question: "Dokter menulis surat diagnosis formal."
+question: "Dokter menulis surat diagnosis."
 sentence: "____が診断書を書いた。"
 optionA: "医師"
 optionB: "医者"

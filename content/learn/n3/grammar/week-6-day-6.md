@@ -1,6 +1,6 @@
 ---
 title: "その上..."
-description: "Belajar pola grammar N3 untuk menambahkan informasi, menambah item dalam percakapan, memilih alternatif, dan memperkuat poin sebelumnya."
+description: "Belajar memahami grammar N3 untuk menambahkan informasi, menambah item dalam percakapan, memilih alternatif, dan memperkuat poin sebelumnya."
 level: "N3"
 category: "grammar"
 topic: "その上..."
@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali dan memakai pola pada topik **その上...** dalam konteks bacaan, percakapan, dan penjelasan N3. Fokusnya bukan hanya arti terjemahan, tetapi juga alasan memilih pola yang tepat.
+Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N3 untuk menambahkan informasi, menambah item dalam percakapan, memilih alternatif, dan memperkuat poin sebelumnya. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan nuansa konteks.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> それと dan あと menambah item, それとも memberi pilihan alternatif, sedangkan その上 menambahkan poin pendukung yang memperkuat pernyataan sebelumnya.
@@ -51,13 +51,13 @@ Di akhir pelajaran ini, kamu bisa mengenali dan memakai pola pada topik **その
 
 | Fungsi | Kerangka kalimat | Yang perlu dicek |
 |---|---|---|
-| Tambah item | （Sentence A）。それと、（Sentence B） | Apakah B ditambahkan ke A? |
-| Tambah santai | （Sentence A）。あと、（Sentence B） | Apakah gaya percakapan dan santai? |
+| Tambah item | （Kalimat A）。それと、（Kalimat B） | Apakah B ditambahkan ke A? |
+| Tambah santai | （Kalimat A）。あと、（Kalimat B） | Apakah gaya percakapan dan santai? |
 | Pilihan | （Option A）。それとも（Option B）か | Apakah lawan bicara harus memilih? |
-| Poin pendukung | （Sentence A）。その上、（Sentence B） | Apakah B memperkuat A? |
+| Poin pendukung | （Kalimat A）。その上、（Kalimat B） | Apakah B memperkuat A? |
 | Jumlah tambahan | あと（number） | Apakah artinya sisa/lagi sejumlah angka? |
 
-Di tabel ini, `（A）` dan `（B）` menandai pihak pertama dan pihak kedua dalam hubungan kalimat, `（N）` adalah nomina atau frasa nomina, `（V）` adalah verba, `（Adj）` adalah adjektiva, `（clause）` dan `（plain form）` adalah klausa atau bentuk biasa, `（Sentence A）` dan `（Sentence B）` adalah dua kalimat yang dihubungkan, `（Option A）` dan `（Option B）` adalah dua pilihan, sedangkan `（question）`, `（number）`, `（predicate）`, dan `（result）` menandai slot pertanyaan, angka, predikat, dan hasil.
+Simbol di tabel ini hanya penanda slot. `（N）` berarti nomina atau frasa nomina, `（V）` berarti verba, `（Adj）` berarti adjektiva, `（klausa）` atau `（bentuk biasa）` berarti klausa atau bentuk biasa, dan pasangan seperti `（A）／（B）` atau `（Kalimat A）／（Kalimat B）` dipakai untuk membedakan dua sisi kalimat.
 
 ## Cara Membentuk Pola
 
@@ -68,7 +68,7 @@ Di tabel ini, `（A）` dan `（B）` menandai pihak pertama dan pihak kedua dal
 | Dan paprika juga | それと（N）も | それと、ピーマンも |
 | Lalu apa lagi | あと、（question） | あと、何をすればいいですか |
 | Kopi atau teh | （Option A）か。それとも（Option B）か | コーヒーにしますか。それとも紅茶にしますか |
-| Enak dan murah | その上（Sentence） | その上値段も安い |
+| Enak dan murah | その上（Kalimat） | その上値段も安い |
 | Tiga lagi | あと（number） | あと3個 |
 
 ### 2. Masukkan ke fungsi kalimat
@@ -81,7 +81,7 @@ Di tabel ini, `（A）` dan `（B）` menandai pihak pertama dan pihak kedua dal
 | その上 | selain itu memperkuat | おいしい。その上安い |
 | あと＋数量 | lagi / tersisa | あと3個ください |
 
-Sebelum membaca contoh panjang, ambil bagian yang berubah lebih dulu: apakah slotnya `（N）`, `（V辞書形）`, `（V普通形）`, `（Vますstem）`, `（Adj）`, atau satu `（clause）` utuh. Setelah itu baru cek partikel, bentuk negatif, dan hubungan antarbagian kalimat.
+Saat membangun kalimat, jangan mulai dari terjemahan kata per kata. Tentukan dulu slot yang berubah, lalu cek partikel, bentuk akhir, dan hubungan antarbagian kalimat.
 
 ## Bangun Kalimat Bertahap
 
@@ -93,7 +93,7 @@ Sebelum membaca contoh panjang, ambil bagian yang berubah lebih dulu: apakah slo
 | Restoran enak dan murah | おいしい・安い | その上 | この店の料理はおいしいです。その上、値段も安いです。 |
 | Minta tiga lagi | 3個 | あと | すみません、あと3個ください。 |
 
-Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pecah dulu menjadi bahan, bentuk pola, lalu kalimat jadi.
+Bagian ini menghubungkan rumus dan contoh kalimat. Mulai dari bahan pendeknya dulu, lalu cek fungsi pola sebelum membaca kalimat lengkap.
 
 ## Catatan Pemakaian
 
@@ -119,7 +119,7 @@ Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pe
 | それと（N）も | dan （N） juga | それとトマトも |
 | あと、（question） | lalu / apa lagi | あと何をしますか |
 | （Option A）か。それとも（Option B）か | A atau B | コーヒーか。それとも紅茶か |
-| （Sentence）。その上、（Sentence） | selain itu | おいしい。その上安い |
+| （Kalimat）。その上、（Kalimat） | selain itu | おいしい。その上安い |
 | あと（number） | （number） lagi | あと3個 |
 
 ## Contoh Kalimat
@@ -153,7 +153,7 @@ Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pe
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat. Perhatikan konteks, bentuk sebelum pola, dan nuansa kalimat sebelum memilih.
 
 ::MiniPractice
 ---

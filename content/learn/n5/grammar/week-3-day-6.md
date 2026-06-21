@@ -1,6 +1,6 @@
 ---
 title: "かんじを書くのはむずかしいです。"
-description: "Belajar grammar N5 dasar untuk nominalisasi kata kerja dengan こと, nominalisasi kata kerja dengan の, bisa; kemampuan pada nomina dalam kalimat pendek."
+description: "Belajar memahami grammar N5 untuk nominalisasi kata kerja dengan こと, nominalisasi kata kerja dengan の, bisa; kemampuan pada nomina dalam kalimat pendek."
 level: "N5"
 category: "grammar"
 topic: "かんじを書くのはむずかしいです。"
@@ -25,21 +25,21 @@ tags:
 
 Mengenali pola dasar untuk nominalisasi kata kerja dengan こと, nominalisasi kata kerja dengan の, bisa; kemampuan pada nomina, bisa melakukan suatu aksi.
 
-Di akhir pelajaran ini, kamu bisa membaca kalimat seperti わたしのしゅみは映画を見ることです, かんじをおぼえるのはたいへんです, コンビニがあるから、いつでも買いものができます. Fokusnya adalah melihat bentuk kecil yang menjadi petunjuk arti.
+Di akhir pelajaran ini, kamu bisa membaca kalimat seperti わたしのしゅみは映画を見ることです, かんじをおぼえるのはたいへんです, コンビニがあるから、いつでも買いものができます. Fokusnya adalah memahami petunjuk kecil seperti partikel, bentuk kata, dan posisi kata dalam kalimat.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca pola dari kiri ke kanan. Tandai partikel, bentuk verba, atau kata penghubung sebelum menebak arti seluruh kalimat.
+  <strong>Fokus hari ini:</strong> baca kalimat pelan-pelan. Tandai partikel, bentuk kata, atau kata penghubung, lalu cocokkan dengan situasi yang sedang dibicarakan.
 </div>
 
 ## Pola Hari Ini
 
 | Fungsi | Pola | Arti praktis | Kapan dipakai |
 |---|---|---|---|
-| Nominalisasi kata kerja dengan こと | （V辞書形） + こと | Nominalisasi kata kerja dengan こと | Turns a verb phrase into a noun-like idea |
-| Nominalisasi kata kerja dengan の | （V辞書形） + の | Nominalisasi kata kerja dengan の | Turns a verb phrase into a noun-like phrase |
-| Bisa | （N） + ができます | Bisa; kemampuan pada nomina | Used for abilities, possible activities, or availability with （N） nouns |
-| Bisa melakukan suatu aksi | （V辞書形） + ことができます | Bisa melakukan suatu aksi | Formal/basic way to express ability or possibility for a verb action |
-| Bentuk potensial | （V可能形） | Bentuk potensial; bisa melakukan ~ | Shorter ability form |
+| Nominalisasi kata kerja dengan こと | （V辞書形） + こと | Nominalisasi kata kerja dengan こと | Mengubah frasa verba menjadi ide seperti nomina |
+| Nominalisasi kata kerja dengan の | （V辞書形） + の | Nominalisasi kata kerja dengan の | Mengubah frasa verba menjadi frasa seperti nomina |
+| Bisa | （N） + ができます | Bisa; kemampuan pada nomina | Dipakai untuk kemampuan, aktivitas yang bisa dilakukan, atau ketersediaan dengan nomina （N） |
+| Bisa melakukan suatu aksi | （V辞書形） + ことができます | Bisa melakukan suatu aksi | Cara dasar/formal untuk menyatakan kemampuan atau kemungkinan melakukan tindakan verba |
+| Bentuk potensial | （V可能形） | Bentuk potensial; bisa melakukan ~ | Bentuk kemampuan yang lebih pendek |
 
 ## Peta Pola
 
@@ -55,15 +55,15 @@ Pola hari ini saling terhubung sebagai alat beginner untuk keberadaan dan kepemi
 
 ## Cara Membentuk Pola
 
-Simbol utama: （N）= nomina, （V）= verba, （Adj）= kata sifat, （Place）= tempat, （Person）= orang, dan （Time）= waktu.
+Simbol utama: （N）= nomina, （V）= verba, （Adj）= kata sifat, （Tempat）= tempat, （Orang）= orang, dan （Waktu）= waktu.
 
 | Pola | Bentuk dasar | Catatan bentuk |
 |---|---|---|
-| （Vる）こと | （V辞書形） + こと | Turns a verb phrase into a noun-like idea |
-| （Vる）の | （V辞書形） + の | Turns a verb phrase into a noun-like phrase |
-| （N）ができます | （N） + ができます | Used for abilities, possible activities, or availability with （N） nouns |
-| （Vる）ことができます | （V辞書形） + ことができます | Formal/basic way to express ability or possibility for a verb action |
-| 可能形 | （V可能形） | Shorter ability form |
+| （Vる）こと | （V辞書形） + こと | Mengubah frasa verba menjadi ide seperti nomina |
+| （Vる）の | （V辞書形） + の | Mengubah frasa verba menjadi frasa seperti nomina |
+| （N）ができます | （N） + ができます | Dipakai untuk kemampuan, aktivitas yang bisa dilakukan, atau ketersediaan dengan nomina （N） |
+| （Vる）ことができます | （V辞書形） + ことができます | Cara dasar/formal untuk menyatakan kemampuan atau kemungkinan melakukan tindakan verba |
+| 可能形 | （V可能形） | Bentuk kemampuan yang lebih pendek |
 
 ## Bangun Kalimat Bertahap
 
@@ -82,17 +82,17 @@ Simbol utama: （N）= nomina, （V）= verba, （Adj）= kata sifat, （Place�
 
 ## Catatan Pemakaian
 
-- Nominalisasi kata kerja dengan こと: Turns a verb phrase into a noun-like idea. Safer for abstract ideas, rules, and definitions.
-- Nominalisasi kata kerja dengan の: Turns a verb phrase into a noun-like phrase. Often used for concrete actions, perception, likes/dislikes, and comments. Cannot replace こと in 〜は〜ことです.
-- Bisa: Used for abilities, possible activities, or availability with （N） nouns.
-- Bisa melakukan suatu aksi: Formal/basic way to express ability or possibility for a verb action.
-- Bentuk potensial: Shorter ability form. Group 1 changes final sound to e-row + る. Group 2 uses られる. する→できる, 来る→来られる.
+- Nominalisasi kata kerja dengan こと: Mengubah frasa verba menjadi ide seperti nomina. Lebih aman untuk ide abstrak, aturan, dan definisi.
+- Nominalisasi kata kerja dengan の: Mengubah frasa verba menjadi frasa seperti nomina. Sering dipakai untuk tindakan konkret, persepsi, suka/tidak suka, dan komentar. Tidak bisa menggantikan こと dalam 〜は〜ことです.
+- Bisa: Dipakai untuk kemampuan, aktivitas yang bisa dilakukan, atau ketersediaan dengan nomina （N）.
+- Bisa melakukan suatu aksi: Cara dasar/formal untuk menyatakan kemampuan atau kemungkinan melakukan tindakan verba.
+- Bentuk potensial: Bentuk kemampuan yang lebih pendek. Verba grup 1 mengubah bunyi akhir ke baris e + る. Verba grup 2 memakai られる. する→できる, 来る→来られる.
 
-Indonesian “bisa” can map to several Japanese forms:
+“Bisa” dalam bahasa Indonesia bisa menjadi beberapa bentuk Jepang:
 
-- （N）ができます = can do a noun activity
-- （Vる）ことができます = can do a verb action
-- 可能形 = natural potential verb form
+- （N）ができます = bisa melakukan aktivitas berbentuk nomina
+- （Vる）ことができます = bisa melakukan tindakan verba
+- 可能形 = bentuk potensial yang natural
 
 For N5, learn both:
 
@@ -112,86 +112,88 @@ For N5, learn both:
 ## Contoh Kalimat
 
 <div class="example-list">
-  <div><p class="jp">わたしのしゅみは映画を見ることです。</p><p>Kalimat ini menunjukkan fungsi: nominalisasi kata kerja dengan こと.</p></div>
-  <div><p class="jp">かんじをおぼえるのはたいへんです。</p><p>Kalimat ini menunjukkan fungsi: nominalisasi kata kerja dengan の.</p></div>
-  <div><p class="jp">コンビニがあるから、いつでも買いものができます。</p><p>Ada atau punya sesuatu dalam konteks sederhana.</p></div>
-  <div><p class="jp">だれでもこの部屋を使うことができます。</p><p>Kalimat ini menunjukkan fungsi: bisa melakukan suatu aksi.</p></div>
-  <div><p class="jp">ひらがなは書けますが、かんじは書けません。</p><p>Kalimat ini menunjukkan fungsi: bentuk potensial; bisa melakukan ~.</p></div>
+  <div><p class="jp">わたしのしゅみは映画を見ることです。</p><p>Hobi saya adalah menonton film.</p></div>
+  <div><p class="jp">かんじをおぼえるのはたいへんです。</p><p>Menghafal kanji itu berat.</p></div>
+  <div><p class="jp">コンビニがあるから、いつでも買いものができます。</p><p>Karena ada minimarket, kita bisa belanja kapan saja.</p></div>
+  <div><p class="jp">だれでもこの部屋を使うことができます。</p><p>Siapa pun bisa memakai ruangan ini.</p></div>
+  <div><p class="jp">ひらがなは書けますが、かんじは書けません。</p><p>Saya bisa menulis hiragana, tetapi belum bisa menulis kanji.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar
 
 | Pasangan | Cara membedakan |
 |---|---|
-| （Vる）こと / （Vる）の | More abstract/formal vs more concrete/natural in comments. Use こと for definitions, rules, and abstract ideas. Use の for concrete actions or comments. |
-| （Vる）ことです / （Vる）のです | Definition phrase vs explanation-style sentence. Use 〜は〜ことです for hobby or definition. Avoid replacing it with のです. |
-| （N）ができます / （Vる）ことができます | （N） ability/activity vs verb ability/action. Use （N）ができます with （N） nouns. Use （V）ることができます with （V） verbs. |
-| （Vる）ことができます / 可能形 | Longer/formal ability form vs shorter natural potential form. Use ことができます for clear textbook/formal expression. Use potential form in normal conversation. |
-| ができます（pola ini / pola ini） / はできません（pola ini note） | Positive ability often uses が; negative or contrast often uses は. Use は when contrasting what someone can and cannot do. |
+| （Vる）こと / （Vる）の | Lebih abstrak/formal vs lebih konkret/natural dalam komentar. Pakai こと untuk definisi, aturan, dan ide abstrak. Pakai の untuk tindakan konkret atau komentar. |
+| （Vる）ことです / （Vる）のです | Frasa definisi vs kalimat penjelasan. Pakai 〜は〜ことです untuk hobi atau definisi. Jangan menggantinya dengan のです. |
+| （N）ができます / （Vる）ことができます | Kemampuan/aktivitas berbentuk nomina vs kemampuan melakukan verba. Pakai （N）ができます dengan nomina （N）. Pakai （V）ることができます dengan verba （V）. |
+| （Vる）ことができます / 可能形 | Bentuk kemampuan yang lebih panjang/formal vs bentuk potensial yang lebih ringkas dan natural. Pakai ことができます untuk ungkapan yang jelas atau formal. Pakai bentuk potensial dalam percakapan biasa. |
+| ができます（pola ini / pola ini） / はできません（pola ini note） | Kemampuan positif sering memakai が; bentuk negatif atau kontras sering memakai は. Pakai は saat membandingkan apa yang bisa dan tidak bisa dilakukan. |
 
 ## Kesalahan Umum
 
 | Titik salah | Kurang tepat | Lebih tepat | Petunjuk |
 |---|---|---|---|
-| Hobby definitions usually use こと | わたしのしゅみは映画を見るのです。 | わたしのしゅみは映画を見ることです。 | Hobi saya adalah menonton film. |
-| Ability with a verb uses ことができます | 日本語を話すことをできます。 | 日本語を話すことができます。 | Saya bisa berbicara bahasa Jepang. |
-| Potential form is not made with できる after every verb | かんじを書きできません。 | かんじを書けません。 | Saya tidak bisa menulis kanji. |
-| Standard Group 2 potential uses られる | — | — | Saya bisa makan. |
+| Definisi hobi biasanya memakai こと | わたしのしゅみは映画を見るのです。 | わたしのしゅみは映画を見ることです。 | Hobi saya adalah menonton film. |
+| Kemampuan dengan verba memakai ことができます | 日本語を話すことをできます。 | 日本語を話すことができます。 | Saya bisa berbicara bahasa Jepang. |
+| Bentuk potensial tidak dibuat dengan menambahkan できる setelah semua verba | かんじを書きできません。 | かんじを書けません。 | Saya tidak bisa menulis kanji. |
+| Bentuk potensial standar verba grup 2 memakai られる | — | — | Saya bisa makan. |
 
 ## Mini Practice
 
+Pilih jawaban yang paling tepat. Perhatikan petunjuk partikel, bentuk kata, dan konteks kalimat sebelum memilih.
+
 ::MiniPractice
 ---
-question: "Nominalisasi kata kerja dengan こと."
-sentence: "わたしのしゅみは映画を見ることです。"
-optionA: "（Vる）こと"
-optionB: "（Vる）の"
-correct: "（Vる）こと"
-explanation: "（Vる）こと cocok karena fungsi kalimatnya adalah nominalisasi kata kerja dengan こと. Petunjuknya ada pada bentuk （V辞書形） + こと."
+question: "Hobi saya adalah menonton film."
+sentence: "わたしのしゅみは映画を見る____です。"
+optionA: "こと"
+optionB: "の"
+correct: "こと"
+explanation: "こと benar karena menjadikan kegiatan sebagai nomina untuk menjelaskan hobi."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Nominalisasi kata kerja dengan の."
-sentence: "かんじをおぼえるのはたいへんです。"
-optionA: "（Vる）の"
-optionB: "（Vる）こと"
-correct: "（Vる）の"
-explanation: "（Vる）の cocok karena fungsi kalimatnya adalah nominalisasi kata kerja dengan の. Petunjuknya ada pada bentuk （V辞書形） + の."
+question: "Menghafal kanji itu berat."
+sentence: "かんじをおぼえる____はたいへんです。"
+optionA: "の"
+optionB: "こと"
+correct: "の"
+explanation: "の benar karena membuat kegiatan terasa lebih konkret sebagai topik kalimat."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Bisa; kemampuan pada nomina."
-sentence: "コンビニがあるから、いつでも買いものができます。"
-optionA: "（N）ができます"
-optionB: "（Vる）こと"
-correct: "（N）ができます"
-explanation: "（N）ができます cocok karena fungsi kalimatnya adalah bisa; kemampuan pada nomina. Petunjuknya ada pada bentuk （N） + ができます."
+question: "Karena ada minimarket, saya bisa berbelanja kapan pun."
+sentence: "コンビニがあるから、いつでも買いもの____できます。"
+optionA: "が"
+optionB: "を"
+correct: "が"
+explanation: "が benar dalam pola Nができます untuk kemampuan atau kemungkinan pada nomina."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Bisa melakukan suatu aksi."
-sentence: "だれでもこの部屋を使うことができます。"
-optionA: "（Vる）ことができます"
-optionB: "（Vる）こと"
-correct: "（Vる）ことができます"
-explanation: "（Vる）ことができます cocok karena fungsi kalimatnya adalah bisa melakukan suatu aksi. Petunjuknya ada pada bentuk （V辞書形） + ことができます."
+question: "Siapa pun boleh memakai ruangan ini."
+sentence: "だれでもこの部屋を使う____ができます。"
+optionA: "こと"
+optionB: "の"
+correct: "こと"
+explanation: "Vることができます benar untuk 'bisa melakukan aksi'."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Bentuk potensial; bisa melakukan ~."
-sentence: "ひらがなは書けますが、かんじは書けません。"
-optionA: "可能形"
-optionB: "（Vる）こと"
-correct: "可能形"
-explanation: "可能形 cocok karena fungsi kalimatnya adalah bentuk potensial; bisa melakukan ~. Petunjuknya ada pada bentuk （V可能形）."
+question: "Hiragana bisa saya tulis, tetapi kanji belum bisa."
+sentence: "ひらがなは書____ますが、かんじは書けません。"
+optionA: "け"
+optionB: "き"
+correct: "け"
+explanation: "書けます benar sebagai bentuk potensial dari 書く. 書きます hanya berarti menulis."
 ---
 ::
 

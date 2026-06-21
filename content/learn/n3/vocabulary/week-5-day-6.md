@@ -21,12 +21,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca kosakata untuk keadaan alam, benda yang berubah, bunyi, warna, ukuran, dan tindakan yang dilakukan sembarangan.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat membaca perubahan alam, keadaan benda, bunyi, warna, ukuran, dan cara menjawab.
 
-Fokusnya adalah membedakan kata kerja keadaan seperti 咲く, 曇る, 割れる, dan 転ぶ.
+Fokus hari ini bukan hanya menghafal arti kata seperti 花が咲く, 空が曇る, 晴れる, dan ガラスが割れる, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> が sering menandai sesuatu yang mengalami perubahan: 花が咲く, ガラスが割れる.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -66,6 +66,10 @@ Kata hari ini menggambarkan keadaan yang terlihat: alam, benda, suara, cahaya, s
   <span>でたらめ</span>
 </div>
 
+Bayangkan kamu sedang membaca atau mendengar situasi tentang seperti apa keadaannya? (2): kata intinya bisa berupa 花が咲く, 空が曇る, dan 晴れる; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
+
+
 ## Catatan Pemakaian
 
 - **Alam:** 咲く khusus untuk bunga; 曇る untuk langit/permukaan yang menjadi buram.
@@ -74,9 +78,9 @@ Kata hari ini menggambarkan keadaan yang terlihat: alam, benda, suara, cahaya, s
 
 ## Pola yang Sering Muncul
 
-- **Nが咲く／割れる／鳴る:** が menandai benda yang mengalami keadaan.
-- **Adverb + V:** でたらめに答える menunjukkan cara menjawab.
-- **Nにそっくり:** に menandai hal/orang yang mirip.
+- **（N）が咲く／割れる／鳴る:** が menandai benda yang mengalami keadaan.
+- **（Adv）＋（V）:** でたらめに答える menunjukkan cara menjawab.
+- **（N）にそっくり:** に menandai hal/orang yang mirip.
 
 ## Contoh Kalimat
 
@@ -100,6 +104,8 @@ Kata hari ini menggambarkan keadaan yang terlihat: alam, benda, suara, cahaya, s
 
 ## Mini Practice
 
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
+
 ::MiniPractice
 ---
 question: "Bunga mekar."
@@ -107,51 +113,51 @@ sentence: "花が____。"
 optionA: "咲く"
 optionB: "割れる"
 correct: "咲く"
-explanation: "咲く khusus untuk bunga mekar."
+explanation: "咲く benar karena 花が咲く adalah kolokasi untuk bunga mekar. 割れる dipakai untuk benda yang pecah."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kaca pecah."
+question: "Kacanya pecah."
 sentence: "ガラスが____。"
 optionA: "割れる"
 optionB: "晴れる"
 correct: "割れる"
-explanation: "割れる cocok untuk benda pecah."
+explanation: "割れる benar karena ガラスが割れる berarti kaca pecah. 晴れる dipakai untuk cuaca yang cerah."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Menjawab sembarangan."
+question: "Saya menjawab asal-asalan."
 sentence: "____に答える。"
 optionA: "でたらめ"
 optionB: "そっくり"
 correct: "でたらめ"
-explanation: "でたらめに答える berarti menjawab asal-asalan."
+explanation: "でたらめに答える benar karena に mengubah でたらめ menjadi cara menjawab. そっくり berarti sangat mirip."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Bunga di taman mulai mekar."
+question: "Bunga mekar di taman."
 sentence: "庭で____。"
 optionA: "花が咲く"
 optionB: "空が曇る"
 correct: "花が咲く"
-explanation: "花が咲く khusus untuk bunga yang mekar."
+explanation: "花が咲く benar karena 庭で memberi konteks taman. 空が曇る membicarakan langit yang mendung."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Langit mulai mendung pada sore hari."
+question: "Langit mulai mendung sejak sore."
 sentence: "午後から____。"
 optionA: "空が曇る"
 optionB: "花が咲く"
 correct: "空が曇る"
-explanation: "空が曇る berarti langit menjadi mendung."
+explanation: "空が曇る benar karena 空が曇る berarti langit menjadi mendung. 花が咲く dipakai untuk bunga mekar."
 ---
 ::
 

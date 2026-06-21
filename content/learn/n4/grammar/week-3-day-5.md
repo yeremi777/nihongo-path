@@ -1,6 +1,6 @@
 ---
 title: "手伝ってくださいませんか。"
-description: "Belajar pola grammar N4 untuk bisakah anda membantu saya? dalam konteks belajar, percakapan, dan instruksi sederhana."
+description: "Belajar memahami grammar N4 untuk permintaan dan harapan agar bisa memilih bentuk, partikel, dan nuansa yang tepat."
 level: "N4"
 category: "grammar"
 topic: "手伝ってくださいませんか。"
@@ -22,27 +22,27 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa memakai pola N4 dalam topik **手伝ってくださいませんか。** untuk permintaan dan harapan. Fokusnya adalah memilih partikel, bentuk verba, atau ekspresi yang sesuai dengan konteks kalimat.
+Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N4 untuk permintaan dan harapan. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan konteks.
 
-Kamu juga akan membedakan pola yang mirip agar tidak menerjemahkan langsung dari bahasa Indonesia tanpa melihat petunjuk bentuk Jepangnya.
+Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya bergantung pada terjemahan bahasa Indonesia.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca fungsi komunikasinya dulu, lalu cek bentuk sebelum dan sesudah pola. Banyak kesalahan N4 muncul karena arti Indonesianya mirip, tetapi partikel atau bentuk akhirnya berbeda.
+  <strong>Fokus hari ini:</strong> baca fungsi kalimatnya dulu. Setelah itu cek partikel, bentuk verba, dan nuansa yang membuat satu pola lebih tepat daripada pola lain.
 </div>
 
 ## Pola Hari Ini
 
 | Fungsi | Pola | Arti praktis | Kapan dipakai |
 |---|---|---|---|
-| Bisakah melakukan  untuk saya? | 〜てくれませんか | Bisakah melakukan ~ untuk saya? | Dipakai saat ingin menyatakan bisakah melakukan ~ untuk saya? dengan bentuk （V）て + くれませんか. |
-| Bisakah saya meminta Anda melakukan ? | 〜てもらえませんか | Bisakah saya meminta Anda melakukan ~? | Dipakai saat ingin menyatakan bisakah saya meminta anda melakukan ~? dengan bentuk （V）て + もらえませんか. |
-| Bisakah Anda melakukan ? | 〜てくださいませんか | Bisakah Anda melakukan ~? | Dipakai saat ingin menyatakan bisakah anda melakukan ~? dengan bentuk （V）て + くださいませんか. |
-| Bisakah Anda berkenan melakukan ? | 〜ていただけませんか | Bisakah Anda berkenan melakukan ~? | Dipakai saat ingin menyatakan bisakah anda berkenan melakukan ~? dengan bentuk （V）て + いただけませんか. |
-| Ingin seseorang melakukan | 〜てほしい | Ingin seseorang melakukan ~ | Dipakai saat ingin menyatakan ingin seseorang melakukan ~ dengan bentuk （Person） に + （V）て + ほしい. |
-| Ingin meminta seseorang melakukan | 〜てもらいたい | Ingin meminta seseorang melakukan ~ | Dipakai saat ingin menyatakan ingin meminta seseorang melakukan ~ dengan bentuk （Person） に + （V）て + もらいたい. |
-| Ingin seseorang melakukan  secara sopan | 〜ていただきたい | Ingin seseorang melakukan ~ secara sopan | Dipakai saat ingin menyatakan ingin seseorang melakukan ~ secara sopan dengan bentuk （Person） に + （V）て + いただきたい. |
-| Bagaimana kalau ? | 〜たらどうですか | Bagaimana kalau ~? | Dipakai saat ingin menyatakan bagaimana kalau ~? dengan bentuk （V）たら + どうですか／いかがですか. |
-| Pembuka sebelum bertanya atau menyampaikan sesuatu | 〜が・〜けど… | Pembuka sebelum bertanya atau menyampaikan sesuatu | Dipakai saat ingin menyatakan pembuka sebelum bertanya atau menyampaikan sesuatu dengan bentuk （Clause） + が／けど…. |
+| Bisakah melakukan  untuk saya? | 〜てくれませんか | Bisakah melakukan ~ untuk saya? | dipakai saat bisakah melakukan ~ untuk saya?; bentuknya （V）て + くれませんか. |
+| Bisakah saya meminta Anda melakukan ? | 〜てもらえませんか | Bisakah saya meminta Anda melakukan ~? | dipakai saat bisakah saya meminta Anda melakukan ~?; bentuknya （V）て + もらえませんか. |
+| Bisakah Anda melakukan ? | 〜てくださいませんか | Bisakah Anda melakukan ~? | dipakai saat bisakah Anda melakukan ~?; bentuknya （V）て + くださいませんか. |
+| Bisakah Anda berkenan melakukan ? | 〜ていただけませんか | Bisakah Anda berkenan melakukan ~? | dipakai saat bisakah Anda berkenan melakukan ~?; bentuknya （V）て + いただけませんか. |
+| Ingin seseorang melakukan | 〜てほしい | Ingin seseorang melakukan ~ | dipakai saat ingin seseorang melakukan ~; bentuknya （Orang） に + （V）て + ほしい. |
+| Ingin meminta seseorang melakukan | 〜てもらいたい | Ingin meminta seseorang melakukan ~ | dipakai saat ingin meminta seseorang melakukan ~; bentuknya （Orang） に + （V）て + もらいたい. |
+| Ingin seseorang melakukan  secara sopan | 〜ていただきたい | Ingin seseorang melakukan ~ secara sopan | dipakai saat ingin seseorang melakukan ~ secara sopan; bentuknya （Orang） に + （V）て + いただきたい. |
+| Bagaimana kalau ? | 〜たらどうですか | Bagaimana kalau ~? | dipakai saat bagaimana kalau ~?; bentuknya （V）たら + どうですか／いかがですか. |
+| Pembuka sebelum bertanya atau menyampaikan sesuatu | 〜が・〜けど… | Pembuka sebelum bertanya atau menyampaikan sesuatu | dipakai saat pembuka sebelum bertanya atau menyampaikan sesuatu; bentuknya （Klausa） + が／けど…. |
 
 ## Peta Pola
 
@@ -58,112 +58,112 @@ Kamu juga akan membedakan pola yang mirip agar tidak menerjemahkan langsung dari
   <span>〜が・〜けど…</span>
 </div>
 
-Pola hari ini saling terhubung oleh fungsi **permintaan dan harapan**. Gunakan tabel pola sebagai peta cepat: pola yang terlihat mirip biasanya berbeda pada petunjuk seperti partikel, bentuk negatif, bentuk lampau, bentuk kamus, atau sudut pandang pembicara.
+Pola hari ini sama-sama dipakai untuk **permintaan dan harapan**, tetapi petunjuknya berbeda. Perhatikan partikel, bentuk negatif/lampau, bentuk kamus, dan siapa yang menjadi fokus kalimat.
 
 ## Cara Membentuk Pola
 
-Simbol utama: （N）= nomina, （V）= verba, （Clause）= klausa, （いAdj）= kata sifat-i, dan （なAdj）= kata sifat-na.
+Simbol utama: （N） berarti nomina, （V） berarti verba, （Klausa） berarti klausa, （いAdj） berarti kata sifat-i, dan （なAdj） berarti kata sifat-na.
 
 | Pola | Bentuk dasar | Catatan bentuk |
 |---|---|---|
-| 〜てくれませんか | （V）て + くれませんか | Gunakan bentuk ini untuk bisakah melakukan ~ untuk saya?. |
-| 〜てもらえませんか | （V）て + もらえませんか | Gunakan bentuk ini untuk bisakah saya meminta anda melakukan ~?. |
-| 〜てくださいませんか | （V）て + くださいませんか | Gunakan bentuk ini untuk bisakah anda melakukan ~?. |
-| 〜ていただけませんか | （V）て + いただけませんか | Gunakan bentuk ini untuk bisakah anda berkenan melakukan ~?. |
-| 〜てほしい | （Person） に + （V）て + ほしい | Gunakan bentuk ini untuk ingin seseorang melakukan ~. |
-| 〜てもらいたい | （Person） に + （V）て + もらいたい | Gunakan bentuk ini untuk ingin meminta seseorang melakukan ~. |
-| 〜ていただきたい | （Person） に + （V）て + いただきたい | Gunakan bentuk ini untuk ingin seseorang melakukan ~ secara sopan. |
-| 〜たらどうですか | （V）たら + どうですか／いかがですか | Gunakan bentuk ini untuk bagaimana kalau ~?. |
-| 〜が・〜けど… | （Clause） + が／けど… | Gunakan bentuk ini untuk pembuka sebelum bertanya atau menyampaikan sesuatu. |
+| 〜てくれませんか | （V）て + くれませんか | dipakai untuk bisakah melakukan ~ untuk saya?. |
+| 〜てもらえませんか | （V）て + もらえませんか | dipakai untuk bisakah saya meminta Anda melakukan ~?. |
+| 〜てくださいませんか | （V）て + くださいませんか | dipakai untuk bisakah Anda melakukan ~?. |
+| 〜ていただけませんか | （V）て + いただけませんか | dipakai untuk bisakah Anda berkenan melakukan ~?. |
+| 〜てほしい | （Orang） に + （V）て + ほしい | dipakai untuk ingin seseorang melakukan ~. |
+| 〜てもらいたい | （Orang） に + （V）て + もらいたい | dipakai untuk ingin meminta seseorang melakukan ~. |
+| 〜ていただきたい | （Orang） に + （V）て + いただきたい | dipakai untuk ingin seseorang melakukan ~ secara sopan. |
+| 〜たらどうですか | （V）たら + どうですか／いかがですか | dipakai untuk bagaimana kalau ~?. |
+| 〜が・〜けど… | （Klausa） + が／けど… | dipakai untuk pembuka sebelum bertanya atau menyampaikan sesuatu. |
 
 ## Bangun Kalimat Bertahap
 
 | Langkah | Jepang | Fungsi |
 |---|---|---|
-| Bahan | （V）て + くれませんか | Bentuk untuk bisakah melakukan  untuk saya? |
+| Bahan | （V）て + くれませんか | bentuk untuk bisakah melakukan ~ untuk saya? |
 | Kalimat | ちょっと手伝ってくれませんか。 | Bisakah melakukan ~ untuk saya? |
-| Bahan | （V）て + もらえませんか | Bentuk untuk bisakah saya meminta anda melakukan ? |
+| Bahan | （V）て + もらえませんか | bentuk untuk bisakah saya meminta Anda melakukan ~? |
 | Kalimat | 静かにしてもらえませんか。 | Bisakah saya meminta Anda melakukan ~? |
-| Bahan | （V）て + くださいませんか | Bentuk untuk bisakah anda melakukan ? |
+| Bahan | （V）て + くださいませんか | bentuk untuk bisakah Anda melakukan ~? |
 | Kalimat | もう一度言ってくださいませんか。 | Bisakah Anda melakukan ~? |
-| Bahan | （V）て + いただけませんか | Bentuk untuk bisakah anda berkenan melakukan ? |
+| Bahan | （V）て + いただけませんか | bentuk untuk bisakah Anda berkenan melakukan ~? |
 | Kalimat | この文章を見ていただけませんか。 | Bisakah Anda berkenan melakukan ~? |
-| Bahan | （Person） に + （V）て + ほしい | Bentuk untuk ingin seseorang melakukan |
+| Bahan | （Orang） に + （V）て + ほしい | bentuk untuk ingin seseorang melakukan |
 | Kalimat | 父に早く元気になってほしいです。 | Ingin seseorang melakukan ~ |
 
-Bagian ini menjembatani rumus dan kalimat penuh. Ambil bentuk pendeknya dulu, lalu masukkan ke kalimat yang punya konteks jelas.
+Bagian ini menghubungkan rumus dan kalimat penuh. Mulai dari bentuk pendeknya dulu, lalu cek fungsi pola sebelum membaca contoh lengkap.
 
 ## Catatan Pemakaian
 
 ### 〜てくれませんか
 
-Pola ini dipakai untuk **bisakah melakukan ~ untuk saya?**. Bentuk intinya adalah （V）て + くれませんか.
+Gunakan pola ini untuk **bisakah melakukan ~ untuk saya?**. Bentuk dasarnya: （V）て + くれませんか.
 
-Catatan praktis: Polite request, but still fairly direct.
+Catatan praktis: Permintaan sopan, tetapi masih cukup langsung.
 
 Contoh inti: ちょっと手伝ってくれませんか。
 
 ### 〜てもらえませんか
 
-Pola ini dipakai untuk **bisakah saya meminta anda melakukan ~?**. Bentuk intinya adalah （V）て + もらえませんか.
+Gunakan pola ini untuk **bisakah saya meminta Anda melakukan ~?**. Bentuk dasarnya: （V）て + もらえませんか.
 
-Catatan praktis: Softer request focusing on receiving help.
+Catatan praktis: Permintaan lebih lembut yang menekankan menerima bantuan.
 
 Contoh inti: 静かにしてもらえませんか。
 
 ### 〜てくださいませんか
 
-Pola ini dipakai untuk **bisakah anda melakukan ~?**. Bentuk intinya adalah （V）て + くださいませんか.
+Gunakan pola ini untuk **bisakah Anda melakukan ~?**. Bentuk dasarnya: （V）て + くださいませんか.
 
-Catatan praktis: More polite than 〜てくれませんか.
+Catatan praktis: Lebih sopan daripada 〜てくれませんか.
 
 Contoh inti: もう一度言ってくださいませんか。
 
 ### 〜ていただけませんか
 
-Pola ini dipakai untuk **bisakah anda berkenan melakukan ~?**. Bentuk intinya adalah （V）て + いただけませんか.
+Gunakan pola ini untuk **bisakah Anda berkenan melakukan ~?**. Bentuk dasarnya: （V）て + いただけませんか.
 
-Catatan praktis: Very polite request. Useful untuk teachers, staff, dan formal situations.
+Catatan praktis: Permintaan sangat sopan. Cocok untuk guru, staf, dan situasi formal.
 
 Contoh inti: この文章を見ていただけませんか。
 
 ### 〜てほしい
 
-Pola ini dipakai untuk **ingin seseorang melakukan ~**. Bentuk intinya adalah （Person） に + （V）て + ほしい.
+Gunakan pola ini untuk **ingin seseorang melakukan ~**. Bentuk dasarnya: （Orang） に + （V）て + ほしい.
 
-Catatan praktis: Directly states what you want someone to do.
+Catatan praktis: Menyatakan langsung hal yang kamu ingin orang lain lakukan.
 
 Contoh inti: 父に早く元気になってほしいです。
 
 ### 〜てもらいたい
 
-Pola ini dipakai untuk **ingin meminta seseorang melakukan ~**. Bentuk intinya adalah （Person） に + （V）て + もらいたい.
+Gunakan pola ini untuk **ingin meminta seseorang melakukan ~**. Bentuk dasarnya: （Orang） に + （V）て + もらいたい.
 
-Catatan praktis: Softer than 〜てほしい; focuses on receiving help.
+Catatan praktis: Lebih lembut daripada 〜てほしい dan menekankan bahwa pembicara menerima bantuan.
 
 Contoh inti: 友達に手伝ってもらいたいです。
 
 ### 〜ていただきたい
 
-Pola ini dipakai untuk **ingin seseorang melakukan ~ secara sopan**. Bentuk intinya adalah （Person） に + （V）て + いただきたい.
+Gunakan pola ini untuk **ingin seseorang melakukan ~ secara sopan**. Bentuk dasarnya: （Orang） に + （V）て + いただきたい.
 
-Catatan praktis: Polite version of wanting someone to do something.
+Catatan praktis: Versi sopan untuk menyatakan ingin seseorang melakukan sesuatu.
 
 Contoh inti: 先生に作文をチェックしていただきたいです。
 
 ### 〜たらどうですか
 
-Pola ini dipakai untuk **bagaimana kalau ~?**. Bentuk intinya adalah （V）たら + どうですか／いかがですか.
+Gunakan pola ini untuk **bagaimana kalau ~?**. Bentuk dasarnya: （V）たら + どうですか／いかがですか.
 
-Catatan praktis: Gives advice atau a suggestion. いかがですか is more polite.
+Catatan praktis: Memberi nasihat atau saran. いかがですか lebih sopan.
 
 Contoh inti: 少し休んだらどうですか。
 
 ### 〜が・〜けど…
 
-Pola ini dipakai untuk **pembuka sebelum bertanya atau menyampaikan sesuatu**. Bentuk intinya adalah （Clause） + が／けど….
+Gunakan pola ini untuk **pembuka sebelum bertanya atau menyampaikan sesuatu**. Bentuk dasarnya: （Klausa） + が／けど….
 
-Catatan praktis: Softens a request atau topic introduction. けど is more casual.
+Catatan praktis: Melembutkan permintaan atau membuka topik. けど lebih santai.
 
 Contoh inti: すみませんが、駅はどこですか。
 
@@ -175,11 +175,11 @@ Contoh inti: すみませんが、駅はどこですか。
 | （V）て + もらえませんか | Bisakah saya meminta Anda melakukan ~? | 静かにしてもらえませんか。 |
 | （V）て + くださいませんか | Bisakah Anda melakukan ~? | もう一度言ってくださいませんか。 |
 | （V）て + いただけませんか | Bisakah Anda berkenan melakukan ~? | この文章を見ていただけませんか。 |
-| （Person） に + （V）て + ほしい | Ingin seseorang melakukan ~ | 父に早く元気になってほしいです。 |
-| （Person） に + （V）て + もらいたい | Ingin meminta seseorang melakukan ~ | 友達に手伝ってもらいたいです。 |
-| （Person） に + （V）て + いただきたい | Ingin seseorang melakukan ~ secara sopan | 先生に作文をチェックしていただきたいです。 |
+| （Orang） に + （V）て + ほしい | Ingin seseorang melakukan ~ | 父に早く元気になってほしいです。 |
+| （Orang） に + （V）て + もらいたい | Ingin meminta seseorang melakukan ~ | 友達に手伝ってもらいたいです。 |
+| （Orang） に + （V）て + いただきたい | Ingin seseorang melakukan ~ secara sopan | 先生に作文をチェックしていただきたいです。 |
 | （V）たら + どうですか／いかがですか | Bagaimana kalau ~? | 少し休んだらどうですか。 |
-| （Clause） + が／けど… | Pembuka sebelum bertanya atau menyampaikan sesuatu | すみませんが、駅はどこですか。 |
+| （Klausa） + が／けど… | Pembuka sebelum bertanya atau menyampaikan sesuatu | すみませんが、駅はどこですか。 |
 
 ## Contoh Kalimat
 
@@ -187,34 +187,34 @@ Contoh inti: すみませんが、駅はどこですか。
   <div><p class="jp">手伝ってくれませんか。</p><p>Bisakah kamu membantu saya?</p></div>
   <div><p class="jp">先生、この作文を見ていただけませんか。</p><p>Sensei, bisakah Anda berkenan melihat karangan ini?</p></div>
   <div><p class="jp">父に早く元気になってほしいです。</p><p>Saya ingin ayah saya cepat sehat kembali.</p></div>
-  <div><p class="jp">ちょっと手伝ってくれませんか。</p><p>Kalimat ini memakai 〜てくれませんか untuk arti bisakah melakukan ~ untuk saya?.</p></div>
-  <div><p class="jp">静かにしてもらえませんか。</p><p>Kalimat ini memakai 〜てもらえませんか untuk arti bisakah saya meminta anda melakukan ~?.</p></div>
-  <div><p class="jp">もう一度言ってくださいませんか。</p><p>Kalimat ini memakai 〜てくださいませんか untuk arti bisakah anda melakukan ~?.</p></div>
+  <div><p class="jp">ちょっと手伝ってくれませんか。</p><p>Bisakah kamu membantu sebentar?</p></div>
+  <div><p class="jp">静かにしてもらえませんか。</p><p>Bisakah kamu tenang sebentar?</p></div>
+  <div><p class="jp">もう一度言ってくださいませんか。</p><p>Bisakah Anda mengatakannya sekali lagi?</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar
 
 | Pasangan | Cara membedakan |
 |---|---|
-| 〜てくれませんか / 〜てもらえませんか | Bedakan dari fungsi utamanya: Direct request dibanding softer received-help request. Petunjuk pilihan: Gunakan g319 dengan familiar people. gunakan g320 saat you want to sound softer.. |
-| 〜てくださいませんか / 〜ていただけませんか | Bedakan dari fungsi utamanya: Polite request dibanding very polite/humble request. Petunjuk pilihan: Gunakan g321 politely. gunakan g322 untuk formal situations atau higher-status people.. |
-| 〜てほしい / 〜てもらいたい | Bedakan dari fungsi utamanya: Direct want dibanding softer “want to receive help”. Petunjuk pilihan: Gunakan てほしい untuk personal desire. gunakan てもらいたい to sound less direct.. |
-| 〜てもらいたい / 〜ていただきたい | Bedakan dari fungsi utamanya: Normal polite dibanding more respectful. Petunjuk pilihan: Gunakan g325 untuk teachers, customers, atau formal writing.. |
-| 〜たらどうですか / 〜が・〜けど… | Bedakan dari fungsi utamanya: Suggestion dibanding preface. Petunjuk pilihan: Gunakan g326 to advise. gunakan g327 sebelum asking atau bringing up a topic.. |
+| 〜てくれませんか / 〜てもらえませんか | Bedakan dari fungsi utamanya: Permintaan langsung dibanding permintaan bantuan yang lebih lembut. Petunjuk pilihan: Gunakan pola pertama dengan orang yang akrab. Gunakan pola kedua saat ingin terdengar lebih lembut. |
+| 〜てくださいませんか / 〜ていただけませんか | Bedakan dari fungsi utamanya: Permintaan sopan dibanding permintaan sangat sopan/rendah hati. Petunjuk pilihan: Gunakan pola pertama dengan sopan. Gunakan pola kedua untuk situasi formal atau orang dengan posisi lebih tinggi. |
+| 〜てほしい / 〜てもらいたい | Bedakan dari fungsi utamanya: Keinginan langsung dibanding “ingin menerima bantuan” yang lebih lembut. Petunjuk pilihan: Gunakan てほしい untuk keinginan pribadi. Gunakan てもらいたい agar terdengar tidak terlalu langsung. |
+| 〜てもらいたい / 〜ていただきたい | Bedakan dari fungsi utamanya: Sopan biasa dibanding lebih hormat. Petunjuk pilihan: Gunakan pola pertama untuk guru, pelanggan, atau tulisan formal. |
+| 〜たらどうですか / 〜が・〜けど… | Bedakan dari fungsi utamanya: Saran dibanding pembuka sebelum menyampaikan topik. Petunjuk pilihan: Gunakan pola pertama untuk memberi saran. Gunakan pola kedua sebelum bertanya atau membuka topik. |
 
 ## Kesalahan Umum
 
 | Salah | Benar | Kenapa |
 |---|---|---|
-| 手伝るくれませんか。 | 手伝ってくれませんか。 | Polite request uses Vて form |
-| 先生、この作文を見てくれませんか。 | 先生、この作文を見ていただけませんか。 | いただけませんか is very polite |
-| 父を早く元気になってほしいです。 | 父に早く元気になってほしいです。 | Wanting someone to do something uses に |
+| 手伝るくれませんか。 | 手伝ってくれませんか。 | Permintaan sopan memakai bentuk Vて |
+| 先生、この作文を見てくれませんか。 | 先生、この作文を見ていただけませんか。 | いただけませんか sangat sopan |
+| 父を早く元気になってほしいです。 | 父に早く元気になってほしいです。 | Keinginan agar seseorang melakukan sesuatu memakai に |
 
-Catatan untuk pembelajar Indonesia: Indonesian “tolong” can sound polite in many situations, but Japanese has request levels. - 〜てくれませんか = polite but direct - 〜てもらえませんか = softer - 〜てくださいませんか = polite - 〜ていただけませんか = very polite - 〜てほしい = I want someone to do ~ - 〜てもらいたい = I want to receive help from someone
+Catatan untuk pembelajar Indonesia: “Tolong” dalam bahasa Indonesia bisa terdengar sopan dalam banyak situasi, tetapi bahasa Jepang punya tingkat permintaan. 〜てくれませんか = sopan tetapi langsung; 〜てもらえませんか = lebih lembut; 〜てくださいませんか = sopan; 〜ていただけませんか = sangat sopan; 〜てほしい = ingin seseorang melakukan sesuatu; 〜てもらいたい = ingin menerima bantuan dari seseorang.
 
 ## Mini Practice
 
-Pilih jawaban yang paling tepat untuk melengkapi kalimat. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat. Perhatikan petunjuk partikel, bentuk kata, dan konteks kalimat sebelum memilih.
 
 ::MiniPractice
 ---
@@ -223,7 +223,7 @@ sentence: "手伝____くれませんか。"
 optionA: "って"
 optionB: "る"
 correct: "って"
-explanation: "って benar. Polite request uses Vて form"
+explanation: "って benar. Permintaan sopan memakai bentuk Vて"
 ---
 ::
 
@@ -234,7 +234,7 @@ sentence: "先生、この作文を見て____ませんか。"
 optionA: "いただけ"
 optionB: "くれ"
 correct: "いただけ"
-explanation: "いただけ benar. いただけませんか is very polite"
+explanation: "いただけ benar. いただけませんか sangat sopan"
 ---
 ::
 
@@ -245,29 +245,29 @@ sentence: "父____早く元気になってほしいです。"
 optionA: "に"
 optionB: "を"
 correct: "に"
-explanation: "に benar. Wanting someone to do something uses に"
+explanation: "に benar. Keinginan agar seseorang melakukan sesuatu memakai に"
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pola apa yang dipakai untuk arti: Bisakah melakukan ~ untuk saya??"
-sentence: "例: ちょっと手伝ってくれませんか。 ポイント: ____"
-optionA: "〜てくれませんか"
-optionB: "〜てもらえませんか"
-correct: "〜てくれませんか"
-explanation: "〜てくれませんか benar karena kalimat contoh menunjukkan bisakah melakukan ~ untuk saya?."
+question: "Bisakah kamu membantu sebentar?"
+sentence: "ちょっと手伝って____ませんか。"
+optionA: "くれ"
+optionB: "もらえ"
+correct: "くれ"
+explanation: "てくれませんか benar untuk meminta lawan bicara melakukan sesuatu untuk pembicara."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pola apa yang dipakai untuk arti: Bisakah saya meminta Anda melakukan ~??"
-sentence: "例: 静かにしてもらえませんか。 ポイント: ____"
-optionA: "〜てもらえませんか"
-optionB: "〜てくださいませんか"
-correct: "〜てもらえませんか"
-explanation: "〜てもらえませんか benar karena kalimat contoh menunjukkan bisakah saya meminta anda melakukan ~?."
+question: "Bisakah kamu tenang sebentar?"
+sentence: "静かにして____ませんか。"
+optionA: "もらえ"
+optionB: "ほしい"
+correct: "もらえ"
+explanation: "てもらえませんか benar untuk meminta bantuan secara lebih lembut."
 ---
 ::
 

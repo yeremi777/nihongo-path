@@ -1,6 +1,6 @@
 ---
 title: "つまり・・・"
-description: "Belajar pola grammar N3 untuk menyatakan ulang, menunjukkan akibat, menyebut hasil proses, dan menjelaskan alasan setelah kesimpulan."
+description: "Belajar memahami grammar N3 untuk menyatakan ulang, menunjukkan akibat, menyebut hasil proses, dan menjelaskan alasan setelah kesimpulan."
 level: "N3"
 category: "grammar"
 topic: "つまり・・・"
@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali dan memakai pola pada topik **つまり・・・** dalam konteks bacaan, percakapan, dan penjelasan N3. Fokusnya bukan hanya arti terjemahan, tetapi juga alasan memilih pola yang tepat.
+Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N3 untuk menyatakan ulang, menunjukkan akibat, menyebut hasil proses, dan menjelaskan alasan setelah kesimpulan. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan nuansa konteks.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> pilih konektor dari hubungan logikanya. つまり menyatakan ulang, そのため menunjukkan akibat, その結果 menunjukkan hasil proses, dan なぜなら menjelaskan alasan setelah kesimpulan.
@@ -51,13 +51,13 @@ Di akhir pelajaran ini, kamu bisa mengenali dan memakai pola pada topik **つま
 
 | Fungsi | Kerangka kalimat | Yang perlu dicek |
 |---|---|---|
-| Menyatakan ulang | （Sentence A）。つまり、（Sentence B） | Apakah B menjelaskan A dengan kata lain? |
-| Definisi formal | （Sentence A）。すなわち、（Sentence B） | Apakah gaya tulisannya formal? |
-| Akibat | （Cause）。そのため、（Result） | Apakah B terjadi karena A? |
-| Hasil proses | （Action）。その結果、（Result） | Apakah B adalah hasil dari usaha/proses? |
-| Alasan setelah hasil | （Result）。なぜなら（Reason）からだ | Apakah alasan diberikan setelah kesimpulan? |
+| Menyatakan ulang | （Kalimat A）。つまり、（Kalimat B） | Apakah B menjelaskan A dengan kata lain? |
+| Definisi formal | （Kalimat A）。すなわち、（Kalimat B） | Apakah gaya tulisannya formal? |
+| Akibat | （Sebab）。そのため、（Hasil） | Apakah B terjadi karena A? |
+| Hasil proses | （Aksi）。その結果、（Hasil） | Apakah B adalah hasil dari usaha/proses? |
+| Alasan setelah hasil | （Hasil）。なぜなら（Alasan）からだ | Apakah alasan diberikan setelah kesimpulan? |
 
-Di tabel ini, `（A）` dan `（B）` menandai pihak pertama dan pihak kedua dalam hubungan kalimat, `（N）` adalah nomina atau frasa nomina, `（V）` adalah verba, `（Adj）` adalah adjektiva, `（clause）` dan `（plain form）` adalah klausa atau bentuk biasa, `（Sentence A）` dan `（Sentence B）` adalah dua kalimat yang dihubungkan, `（Option A）` dan `（Option B）` adalah dua pilihan, sedangkan `（question）`, `（number）`, `（predicate）`, dan `（result）` menandai slot pertanyaan, angka, predikat, dan hasil.
+Simbol di tabel ini hanya penanda slot. `（N）` berarti nomina atau frasa nomina, `（V）` berarti verba, `（Adj）` berarti adjektiva, `（klausa）` atau `（bentuk biasa）` berarti klausa atau bentuk biasa, dan pasangan seperti `（A）／（B）` atau `（Kalimat A）／（Kalimat B）` dipakai untuk membedakan dua sisi kalimat.
 
 ## Cara Membentuk Pola
 
@@ -65,11 +65,11 @@ Di tabel ini, `（A）` dan `（B）` menandai pihak pertama dan pihak kedua dal
 
 | Tujuan | Bentuk | Contoh bentuk |
 |---|---|---|
-| Dengan kata lain paman | （Sentence）。つまり、（Sentence） | 父の兄。つまり、伯父 |
+| Dengan kata lain paman | （Kalimat）。つまり、（Kalimat） | 父の兄。つまり、伯父 |
 | Yakni Tokyo | （N）、すなわち（N） | 首都、すなわち東京 |
-| Ada kecelakaan, karena itu terlambat | （Cause）。そのため、（Result） | 事故。そのため遅れる |
-| Diet tiga bulan, hasilnya turun | （Action）。その結果、（Result） | ダイエット。その結果やせた |
-| Saya pulang, alasannya ada pernikahan | （Result）。なぜなら（Reason）からです | 帰ります。なぜなら出席するからです |
+| Ada kecelakaan, karena itu terlambat | （Sebab）。そのため、（Hasil） | 事故。そのため遅れる |
+| Diet tiga bulan, hasilnya turun | （Aksi）。その結果、（Hasil） | ダイエット。その結果やせた |
+| Saya pulang, alasannya ada pernikahan | （Hasil）。なぜなら（Alasan）からです | 帰ります。なぜなら出席するからです |
 
 ### 2. Masukkan ke fungsi kalimat
 
@@ -81,7 +81,7 @@ Di tabel ini, `（A）` dan `（B）` menandai pihak pertama dan pihak kedua dal
 | その結果 | proses → hasil | 練習した。その結果勝った |
 | なぜなら〜からだ | kesimpulan → alasan | 行けません。なぜなら忙しいからです |
 
-Sebelum membaca contoh panjang, ambil bagian yang berubah lebih dulu: apakah slotnya `（N）`, `（V辞書形）`, `（V普通形）`, `（Vますstem）`, `（Adj）`, atau satu `（clause）` utuh. Setelah itu baru cek partikel, bentuk negatif, dan hubungan antarbagian kalimat.
+Saat membangun kalimat, jangan mulai dari terjemahan kata per kata. Tentukan dulu slot yang berubah, lalu cek partikel, bentuk akhir, dan hubungan antarbagian kalimat.
 
 ## Bangun Kalimat Bertahap
 
@@ -93,7 +93,7 @@ Sebelum membaca contoh panjang, ambil bagian yang berubah lebih dulu: apakah slo
 | Diet lalu turun berat | ダイエット・5キロやせる | その結果 | ３か月ダイエットを続けました。その結果、５キロやせました。 |
 | Pulang karena pernikahan | 国に帰る・結婚式 | なぜなら | 国に帰ります。なぜなら、親友の結婚式に出席するからです。 |
 
-Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pecah dulu menjadi bahan, bentuk pola, lalu kalimat jadi.
+Bagian ini menghubungkan rumus dan contoh kalimat. Mulai dari bahan pendeknya dulu, lalu cek fungsi pola sebelum membaca kalimat lengkap.
 
 ## Catatan Pemakaian
 
@@ -116,11 +116,11 @@ Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pe
 
 | Pola | Arti praktis | Contoh konteks |
 |---|---|---|
-| （Sentence）。つまり、（Sentence） | dengan kata lain | つまり無理です |
+| （Kalimat）。つまり、（Kalimat） | dengan kata lain | つまり無理です |
 | （N）、すなわち（N） | yakni / yaitu | 首都、すなわち東京 |
-| （Cause）。そのため、（Result） | karena itu | 事故。そのため遅れた |
-| （Action）。その結果、（Result） | hasilnya | 努力。その結果成功 |
-| （Result）。なぜなら（Reason）からです | alasannya karena | 帰ります。なぜなら用事があるからです |
+| （Sebab）。そのため、（Hasil） | karena itu | 事故。そのため遅れた |
+| （Aksi）。その結果、（Hasil） | hasilnya | 努力。その結果成功 |
+| （Hasil）。なぜなら（Alasan）からです | alasannya karena | 帰ります。なぜなら用事があるからです |
 
 ## Contoh Kalimat
 
@@ -153,7 +153,7 @@ Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pe
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat. Perhatikan konteks, bentuk sebelum pola, dan nuansa kalimat sebelum memilih.
 
 ::MiniPractice
 ---

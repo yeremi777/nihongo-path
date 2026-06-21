@@ -1,6 +1,6 @@
 ---
 title: "会社をやめさせられました。"
-description: "Belajar pola grammar N4 untuk saya dipaksa berhenti dari perusahaan dalam konteks belajar, percakapan, dan instruksi sederhana."
+description: "Belajar memahami grammar N4 untuk pasif dan kausatif agar bisa memilih bentuk, partikel, dan nuansa yang tepat."
 level: "N4"
 category: "grammar"
 topic: "会社をやめさせられました。"
@@ -22,22 +22,22 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa memakai pola N4 dalam topik **会社をやめさせられました。** untuk pasif dan kausatif. Fokusnya adalah memilih partikel, bentuk verba, atau ekspresi yang sesuai dengan konteks kalimat.
+Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N4 untuk pasif dan kausatif. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan konteks.
 
-Kamu juga akan membedakan pola yang mirip agar tidak menerjemahkan langsung dari bahasa Indonesia tanpa melihat petunjuk bentuk Jepangnya.
+Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya bergantung pada terjemahan bahasa Indonesia.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca fungsi komunikasinya dulu, lalu cek bentuk sebelum dan sesudah pola. Banyak kesalahan N4 muncul karena arti Indonesianya mirip, tetapi partikel atau bentuk akhirnya berbeda.
+  <strong>Fokus hari ini:</strong> baca fungsi kalimatnya dulu. Setelah itu cek partikel, bentuk verba, dan nuansa yang membuat satu pola lebih tepat daripada pola lain.
 </div>
 
 ## Pola Hari Ini
 
 | Fungsi | Pola | Arti praktis | Kapan dipakai |
 |---|---|---|---|
-| Bentuk pasif | 受身形 | Bentuk pasif; dikenai tindakan | Dipakai saat ingin menyatakan bentuk pasif; dikenai tindakan dengan bentuk （V passive）. |
-| Menyuruh/membiarkan seseorang melakukan | 〜させる | Menyuruh/membiarkan seseorang melakukan ~ | Dipakai saat ingin menyatakan menyuruh/membiarkan seseorang melakukan ~ dengan bentuk （V causative）. |
-| Dipaksa/disuruh melakukan | 〜させられる | Dipaksa/disuruh melakukan ~ | Dipakai saat ingin menyatakan dipaksa/disuruh melakukan ~ dengan bentuk （V causative-passive）. |
-| Izinkan saya melakukan | 〜させてください | Izinkan saya melakukan ~ | Dipakai saat ingin menyatakan izinkan saya melakukan ~ dengan bentuk （V causativeて） + ください. |
+| Bentuk pasif | 受身形 | Bentuk pasif; dikenai tindakan | dipakai saat bentuk pasif; dikenai tindakan; bentuknya （V受身形）. |
+| Menyuruh/membiarkan seseorang melakukan | 〜させる | Menyuruh/membiarkan seseorang melakukan ~ | dipakai saat menyuruh/membiarkan seseorang melakukan ~; bentuknya （V使役形）. |
+| Dipaksa/disuruh melakukan | 〜させられる | Dipaksa/disuruh melakukan ~ | dipakai saat dipaksa/disuruh melakukan ~; bentuknya （V使役受身形）. |
+| Izinkan saya melakukan | 〜させてください | Izinkan saya melakukan ~ | dipakai saat izinkan saya melakukan ~; bentuknya （V使役形て） + ください. |
 
 ## Peta Pola
 
@@ -48,65 +48,65 @@ Kamu juga akan membedakan pola yang mirip agar tidak menerjemahkan langsung dari
   <span>〜させてください</span>
 </div>
 
-Pola hari ini saling terhubung oleh fungsi **pasif dan kausatif**. Gunakan tabel pola sebagai peta cepat: pola yang terlihat mirip biasanya berbeda pada petunjuk seperti partikel, bentuk negatif, bentuk lampau, bentuk kamus, atau sudut pandang pembicara.
+Pola hari ini sama-sama dipakai untuk **pasif dan kausatif**, tetapi petunjuknya berbeda. Perhatikan partikel, bentuk negatif/lampau, bentuk kamus, dan siapa yang menjadi fokus kalimat.
 
 ## Cara Membentuk Pola
 
-Simbol utama: （N）= nomina, （V）= verba, （Clause）= klausa, （いAdj）= kata sifat-i, dan （なAdj）= kata sifat-na.
+Simbol utama: （N） berarti nomina, （V） berarti verba, （Klausa） berarti klausa, （いAdj） berarti kata sifat-i, dan （なAdj） berarti kata sifat-na.
 
 | Pola | Bentuk dasar | Catatan bentuk |
 |---|---|---|
-| 受身形 | （V passive） | Gunakan bentuk ini untuk bentuk pasif; dikenai tindakan. |
-| 〜させる | （V causative） | Gunakan bentuk ini untuk menyuruh/membiarkan seseorang melakukan ~. |
-| 〜させられる | （V causative-passive） | Gunakan bentuk ini untuk dipaksa/disuruh melakukan ~. |
-| 〜させてください | （V causativeて） + ください | Gunakan bentuk ini untuk izinkan saya melakukan ~. |
+| 受身形 | （V受身形） | dipakai untuk bentuk pasif; dikenai tindakan. |
+| 〜させる | （V使役形） | dipakai untuk menyuruh/membiarkan seseorang melakukan ~. |
+| 〜させられる | （V使役受身形） | dipakai untuk dipaksa/disuruh melakukan ~. |
+| 〜させてください | （V使役形て） + ください | dipakai untuk izinkan saya melakukan ~. |
 
 ## Bangun Kalimat Bertahap
 
 | Langkah | Jepang | Fungsi |
 |---|---|---|
-| Bahan | （V passive） | Bentuk untuk bentuk pasif |
+| Bahan | （V受身形） | bentuk untuk bentuk pasif |
 | Kalimat | 外国人に道を聞かれました。 | Bentuk pasif; dikenai tindakan |
-| Bahan | （V causative） | Bentuk untuk menyuruh/membiarkan seseorang melakukan |
+| Bahan | （V使役形） | bentuk untuk menyuruh/membiarkan seseorang melakukan |
 | Kalimat | 母は子どもに野菜を食べさせました。 | Menyuruh/membiarkan seseorang melakukan ~ |
-| Bahan | （V causative-passive） | Bentuk untuk dipaksa/disuruh melakukan |
+| Bahan | （V使役受身形） | bentuk untuk dipaksa/disuruh melakukan |
 | Kalimat | 子どものころ、野菜を食べさせられました。 | Dipaksa/disuruh melakukan ~ |
-| Bahan | （V causativeて） + ください | Bentuk untuk izinkan saya melakukan |
+| Bahan | （V使役形て） + ください | bentuk untuk izinkan saya melakukan |
 | Kalimat | ノートをコピーさせてください。 | Izinkan saya melakukan ~ |
 
-Bagian ini menjembatani rumus dan kalimat penuh. Ambil bentuk pendeknya dulu, lalu masukkan ke kalimat yang punya konteks jelas.
+Bagian ini menghubungkan rumus dan kalimat penuh. Mulai dari bentuk pendeknya dulu, lalu cek fungsi pola sebelum membaca contoh lengkap.
 
 ## Catatan Pemakaian
 
 ### 受身形
 
-Pola ini dipakai untuk **bentuk pasif; dikenai tindakan**. Bentuk intinya adalah （V passive）.
+Gunakan pola ini untuk **bentuk pasif; dikenai tindakan**. Bentuk dasarnya: （V受身形）.
 
-Catatan praktis: Used saat the subject receives an action, atau saat the doer is unknown/unimportant.
+Catatan praktis: Dipakai saat subjek menerima tindakan, atau saat pelaku tidak diketahui/tidak penting.
 
 Contoh inti: 外国人に道を聞かれました。
 
 ### 〜させる
 
-Pola ini dipakai untuk **menyuruh/membiarkan seseorang melakukan ~**. Bentuk intinya adalah （V causative）.
+Gunakan pola ini untuk **menyuruh/membiarkan seseorang melakukan ~**. Bentuk dasarnya: （V使役形）.
 
-Catatan praktis: Used saat someone makes, lets, atau allows another person to do something.
+Catatan praktis: Dipakai saat seseorang membuat, membiarkan, atau mengizinkan orang lain melakukan sesuatu.
 
 Contoh inti: 母は子どもに野菜を食べさせました。
 
 ### 〜させられる
 
-Pola ini dipakai untuk **dipaksa/disuruh melakukan ~**. Bentuk intinya adalah （V causative-passive）.
+Gunakan pola ini untuk **dipaksa/disuruh melakukan ~**. Bentuk dasarnya: （V使役受身形）.
 
-Catatan praktis: Used saat the subject is forced to do something. Often has a negative feeling.
+Catatan praktis: Dipakai saat subjek dipaksa melakukan sesuatu. Sering bernuansa negatif.
 
 Contoh inti: 子どものころ、野菜を食べさせられました。
 
 ### 〜させてください
 
-Pola ini dipakai untuk **izinkan saya melakukan ~**. Bentuk intinya adalah （V causativeて） + ください.
+Gunakan pola ini untuk **izinkan saya melakukan ~**. Bentuk dasarnya: （V使役形て） + ください.
 
-Catatan praktis: Used to ask permission to do the speaker's own action.
+Catatan praktis: Dipakai untuk meminta izin melakukan tindakan pembicara sendiri.
 
 Contoh inti: ノートをコピーさせてください。
 
@@ -114,10 +114,10 @@ Contoh inti: ノートをコピーさせてください。
 
 | Pola | Arti praktis | Contoh konteks |
 |---|---|---|
-| （V passive） | Bentuk pasif; dikenai tindakan | 外国人に道を聞かれました。 |
-| （V causative） | Menyuruh/membiarkan seseorang melakukan ~ | 母は子どもに野菜を食べさせました。 |
-| （V causative-passive） | Dipaksa/disuruh melakukan ~ | 子どものころ、野菜を食べさせられました。 |
-| （V causativeて） + ください | Izinkan saya melakukan ~ | ノートをコピーさせてください。 |
+| （V受身形） | Bentuk pasif; dikenai tindakan | 外国人に道を聞かれました。 |
+| （V使役形） | Menyuruh/membiarkan seseorang melakukan ~ | 母は子どもに野菜を食べさせました。 |
+| （V使役受身形） | Dipaksa/disuruh melakukan ~ | 子どものころ、野菜を食べさせられました。 |
+| （V使役形て） + ください | Izinkan saya melakukan ~ | ノートをコピーさせてください。 |
 
 ## Contoh Kalimat
 
@@ -125,33 +125,33 @@ Contoh inti: ノートをコピーさせてください。
   <div><p class="jp">母に野菜を食べさせられました。</p><p>Saya dipaksa makan sayur oleh ibu.</p></div>
   <div><p class="jp">ノートをコピーさせてください。</p><p>Tolong izinkan saya menyalin catatan Anda.</p></div>
   <div><p class="jp">友だちにさそわれて、パーティーに行きました。</p><p>Saya diajak oleh teman, jadi saya pergi ke pesta.</p></div>
-  <div><p class="jp">外国人に道を聞かれました。</p><p>Kalimat ini memakai 受身形 untuk arti bentuk pasif; dikenai tindakan.</p></div>
-  <div><p class="jp">母は子どもに野菜を食べさせました。</p><p>Kalimat ini memakai 〜させる untuk arti menyuruh/membiarkan seseorang melakukan ~.</p></div>
-  <div><p class="jp">子どものころ、野菜を食べさせられました。</p><p>Kalimat ini memakai 〜させられる untuk arti dipaksa/disuruh melakukan ~.</p></div>
+  <div><p class="jp">外国人に道を聞かれました。</p><p>Saya ditanya arah jalan oleh orang asing.</p></div>
+  <div><p class="jp">母は子どもに野菜を食べさせました。</p><p>Ibu menyuruh anaknya makan sayur.</p></div>
+  <div><p class="jp">子どものころ、野菜を食べさせられました。</p><p>Waktu kecil, saya dipaksa makan sayur.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar
 
 | Pasangan | Cara membedakan |
 |---|---|
-| 受身形 / 〜させる | Bedakan dari fungsi utamanya: Passive receives action dibanding causative makes/lets someone act. Petunjuk pilihan: Gunakan passive saat something is done to the subject. gunakan causative saat the subject makes/lets someone do something.. |
-| 〜させる / 〜させられる | Bedakan dari fungsi utamanya: Make/let someone do dibanding be forced to do. Petunjuk pilihan: Gunakan 〜させる from the controller's view. gunakan 〜させられる from the person forced to act.. |
-| 〜させてください / 〜てください | Bedakan dari fungsi utamanya: Let me do dibanding please do. Petunjuk pilihan: Gunakan 〜させてください saat asking permission untuk your own action. gunakan 〜てください saat asking someone else to act.. |
-| 受身形 / 〜させられる | Bedakan dari fungsi utamanya: Be acted on dibanding be forced to act. Petunjuk pilihan: Gunakan passive untuk receiving an action. gunakan causative-passive untuk being forced to do an action.. |
+| 受身形 / 〜させる | Bedakan dari fungsi utamanya: Pasif menerima tindakan dibanding kausatif membuat/mengizinkan seseorang bertindak. Petunjuk pilihan: Gunakan pasif saat sesuatu dilakukan kepada subjek. Gunakan kausatif saat subjek membuat/mengizinkan seseorang melakukan sesuatu. |
+| 〜させる / 〜させられる | Bedakan dari fungsi utamanya: Membuat/mengizinkan seseorang melakukan dibanding dipaksa melakukan. Petunjuk pilihan: Gunakan 〜させる dari sudut pihak yang mengontrol. Gunakan 〜させられる dari sudut orang yang dipaksa bertindak. |
+| 〜させてください / 〜てください | Bedakan dari fungsi utamanya: Izinkan saya melakukan dibanding tolong lakukan. Petunjuk pilihan: Gunakan 〜させてください saat meminta izin untuk tindakan sendiri. Gunakan 〜てください saat meminta orang lain bertindak. |
+| 受身形 / 〜させられる | Bedakan dari fungsi utamanya: Dikenai tindakan dibanding dipaksa bertindak. Petunjuk pilihan: Gunakan pasif untuk menerima atau dikenai tindakan. Gunakan kausatif-pasif untuk dipaksa melakukan tindakan. |
 
 ## Kesalahan Umum
 
 | Salah | Benar | Kenapa |
 |---|---|---|
-| 母に野菜を食べられました。 | 母に野菜を食べさせられました。 | Being forced to do something uses causative-passive |
-| ノートをコピーしてください。 | ノートをコピーさせてください。 | Asking permission uses 〜させてください |
-| 友だちにさそって、パーティーに行きました。 | 友だちにさそわれて、パーティーに行きました。 | Invitation can gunakan passive saat you are invited |
+| 母に野菜を食べられました。 | 母に野菜を食べさせられました。 | Dipaksa melakukan sesuatu memakai kausatif-pasif |
+| ノートをコピーしてください。 | ノートをコピーさせてください。 | Meminta izin memakai 〜させてください |
+| 友だちにさそって、パーティーに行きました。 | 友だちにさそわれて、パーティーに行きました。 | Saat diajak oleh orang lain, kalimat bisa memakai pasif |
 
-Catatan untuk pembelajar Indonesia: Indonesian “disuruh” can feel close to both 〜させる and 〜させられる. 母は子どもに食べさせました。 The mother made the child eat. Ibu menyuruh anak makan. 私は母に食べさせられました。 I was made to eat by my mother. Saya dipaksa/disuruh makan oleh ibu.
+Catatan untuk pembelajar Indonesia: “Disuruh” dalam bahasa Indonesia bisa terasa dekat dengan 〜させる dan 〜させられる. 母は子どもに食べさせました。= Ibu menyuruh anak makan. 私は母に食べさせられました。= Saya dipaksa/disuruh makan oleh ibu.
 
 ## Mini Practice
 
-Pilih jawaban yang paling tepat untuk melengkapi kalimat. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat. Perhatikan petunjuk partikel, bentuk kata, dan konteks kalimat sebelum memilih.
 
 ::MiniPractice
 ---
@@ -160,7 +160,7 @@ sentence: "ノートをコピー____てください。"
 optionA: "させ"
 optionB: "し"
 correct: "させ"
-explanation: "させ benar. Asking permission uses 〜させてください"
+explanation: "させ benar. Meminta izin memakai 〜させてください"
 ---
 ::
 
@@ -171,40 +171,40 @@ sentence: "友だちにさそ____て、パーティーに行きました。"
 optionA: "われ"
 optionB: "っ"
 correct: "われ"
-explanation: "われ benar. Invitation can gunakan passive saat you are invited"
+explanation: "われ benar. Saat diajak oleh orang lain, kalimat bisa memakai pasif"
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pola apa yang dipakai untuk arti: Bentuk pasif; dikenai tindakan?"
-sentence: "例: 外国人に道を聞かれました。 ポイント: ____"
-optionA: "受身形"
-optionB: "〜させる"
-correct: "受身形"
-explanation: "受身形 benar karena kalimat contoh menunjukkan bentuk pasif; dikenai tindakan."
+question: "Saya ditanya arah jalan oleh orang asing."
+sentence: "外国人に道を聞か____ました。"
+optionA: "れ"
+optionB: "せ"
+correct: "れ"
+explanation: "聞かれました benar karena subjek dikenai tindakan bertanya dari orang asing."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pola apa yang dipakai untuk arti: Menyuruh/membiarkan seseorang melakukan ~?"
-sentence: "例: 母は子どもに野菜を食べさせました。 ポイント: ____"
-optionA: "〜させる"
-optionB: "〜させられる"
-correct: "〜させる"
-explanation: "〜させる benar karena kalimat contoh menunjukkan menyuruh/membiarkan seseorang melakukan ~."
+question: "Ibu menyuruh anaknya makan sayur."
+sentence: "母は子どもに野菜を食べ____ました。"
+optionA: "させ"
+optionB: "させられ"
+correct: "させ"
+explanation: "食べさせました benar karena ibu membuat anak melakukan tindakan makan."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pola apa yang dipakai untuk arti: Dipaksa/disuruh melakukan ~?"
-sentence: "例: 子どものころ、野菜を食べさせられました。 ポイント: ____"
-optionA: "〜させられる"
-optionB: "〜させてください"
-correct: "〜させられる"
-explanation: "〜させられる benar karena kalimat contoh menunjukkan dipaksa/disuruh melakukan ~."
+question: "Waktu kecil, saya dipaksa makan sayur."
+sentence: "子どものころ、野菜を食べ____ました。"
+optionA: "させられ"
+optionB: "させ"
+correct: "させられ"
+explanation: "食べさせられました benar karena subjek melakukan tindakan karena disuruh atau dipaksa."
 ---
 ::
 

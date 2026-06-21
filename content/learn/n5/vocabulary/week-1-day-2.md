@@ -22,12 +22,12 @@ tags:
 
 ## Tujuan
 
-Mengenali kata kerja dasar untuk tinggal, bekerja, membuat sesuatu, menjual, tahu, menikah, dan rutinitas harian.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata dasar yang sering muncul saat menceritakan tempat tinggal, pekerjaan, rutinitas pagi, dan kegiatan sederhana.
 
-Di akhir pelajaran ini, kamu bisa membaca kalimat pendek seperti 日本にすんでいます, 会社ではたらいています, dan まいあさシャワーをあびます. Perhatikan partikel karena に, で, dan を membantu menentukan makna.
+Fokus hari ini bukan hanya menghafal arti kata seperti すむ, つとめる, はたらく, dan けっこんする, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> pakai に untuk tempat tinggal, で untuk tempat bekerja/beraktivitas, dan を untuk benda yang dibuat, dijual, dipakai, atau diletakkan.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -78,6 +78,10 @@ Kata kerja hari ini bisa dibaca sebagai alur satu hari: tinggal di suatu tempat,
   <span>家にかえる</span>
 </div>
 
+Bayangkan kamu sedang membaca atau mendengar situasi tentang kegiatan harian dan pekerjaan: kata intinya bisa berupa すむ, つとめる, dan はたらく; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
+
+
 ## Catatan Pemakaian
 
 - tempat tinggal: すむ biasanya memakai に, seperti 日本にすんでいます.
@@ -118,9 +122,11 @@ Jangan memakai で untuk すむ. Untuk tempat tinggal, pola dasarnya adalah （P
 
 ## Mini Practice
 
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
+
 ::MiniPractice
 ---
-question: "Seseorang tinggal di Jepang."
+question: "Saya tinggal di Jepang."
 sentence: "日本____すんでいます。"
 optionA: "に"
 optionB: "で"
@@ -131,7 +137,7 @@ explanation: "すむ memakai に untuk tempat tinggal. で dipakai untuk tempat 
 
 ::MiniPractice
 ---
-question: "Fokusnya adalah bekerja di pabrik sebagai aktivitas."
+question: "Saya bekerja di pabrik."
 sentence: "工場で____。"
 optionA: "はたらいています"
 optionB: "すんでいます"
@@ -142,7 +148,7 @@ explanation: "工場で menunjukkan tempat aktivitas. はたらいています c
 
 ::MiniPractice
 ---
-question: "Memasak makanan."
+question: "Saya memasak makanan."
 sentence: "料理を____。"
 optionA: "つくります"
 optionB: "つかいます"
@@ -164,7 +170,7 @@ explanation: "おく berarti meletakkan. Petunjuknya adalah かぎを dan tempat
 
 ::MiniPractice
 ---
-question: "Rutinitas mandi shower setiap pagi."
+question: "Setiap pagi saya mandi shower."
 sentence: "まいあさシャワーを____。"
 optionA: "あびます"
 optionB: "ねます"

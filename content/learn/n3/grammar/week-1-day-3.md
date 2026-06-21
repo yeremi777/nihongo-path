@@ -1,6 +1,6 @@
 ---
 title: "女らしい"
-description: "Belajar pola grammar N3 untuk membedakan kesan seperti, ciri yang khas, dan nuansa agak atau cenderung."
+description: "Belajar memahami grammar N3 untuk membedakan kesan seperti, ciri yang khas, dan nuansa agak atau cenderung."
 level: "N3"
 category: "grammar"
 topic: "女らしい"
@@ -54,9 +54,9 @@ Alurnya bisa dibaca seperti ini: **kelihatan seperti** memakai `〜みたい`, *
 | Perbandingan | （N）みたいだ／（N）みたいな（N） | Dibandingkan dengan apa? |
 | Cara/gaya | （N）みたいに（V） | Melakukan seperti siapa/apa? |
 | Ciri khas | （N）らしい／（N）らしく（V） | Apakah sifatnya terasa cocok dengan （N）? |
-| Kesan/cenderung | （N）／（Adj stem）／（Vます-stem）っぽい | Apakah hanya kesan, sifat, atau tekstur? |
+| Kesan/cenderung | （N）／（akar adjektiva）／（Vます-stem）っぽい | Apakah hanya kesan, sifat, atau tekstur? |
 
-Di tabel ini, `（N）` berarti nomina atau frasa nomina, `（V）` berarti verba, dan `（Adj stem）` berarti bagian dasar adjektiva sebelum akhiran.
+Di tabel ini, `（N）` berarti nomina atau frasa nomina, `（V）` berarti verba, dan `（akar adjektiva）` berarti bagian dasar adjektiva sebelum akhiran.
 
 ## Cara Membentuk Pola
 
@@ -144,7 +144,7 @@ Di tabel ini, `（N）` berarti nomina atau frasa nomina, `（V）` berarti verb
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat. Perhatikan konteks, bentuk sebelum pola, dan nuansa kalimat sebelum memilih.
 
 ::MiniPractice
 ---

@@ -1,6 +1,6 @@
 ---
 title: "しゅくだいは いえで しましょう。"
-description: "Belajar grammar N5 dasar untuk ke/pada/di; waktu, tujuan, tempat, orang, di/dengan/secara; tempat, cara, kendaraan, cakupan, juga; pun; dua-duanya dalam kontras berulang dalam kalimat pendek."
+description: "Belajar memahami grammar N5 untuk ke/pada/di; waktu, tujuan, tempat, orang, di/dengan/secara; tempat, cara, kendaraan, cakupan, juga; pun; dua-duanya dalam kontras berulang dalam kalimat pendek."
 level: "N5"
 category: "grammar"
 topic: "しゅくだいは いえで しましょう。"
@@ -25,19 +25,19 @@ tags:
 
 Mengenali pola dasar untuk ke/pada/di; waktu, tujuan, tempat, orang, di/dengan/secara; tempat, cara, kendaraan, cakupan, juga; pun; dua-duanya dalam kontras berulang.
 
-Di akhir pelajaran ini, kamu bisa membaca kalimat seperti 学校は9時に始まります, 公園で遊びました, 田中さんは25さいです。私も25さいです. Fokusnya adalah melihat bentuk kecil yang menjadi petunjuk arti.
+Di akhir pelajaran ini, kamu bisa membaca kalimat seperti 学校は9時に始まります, 公園で遊びました, 田中さんは25さいです。私も25さいです. Fokusnya adalah memahami petunjuk kecil seperti partikel, bentuk kata, dan posisi kata dalam kalimat.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca pola dari kiri ke kanan. Tandai partikel, bentuk verba, atau kata penghubung sebelum menebak arti seluruh kalimat.
+  <strong>Fokus hari ini:</strong> baca kalimat pelan-pelan. Tandai partikel, bentuk kata, atau kata penghubung, lalu cocokkan dengan situasi yang sedang dibicarakan.
 </div>
 
 ## Pola Hari Ini
 
 | Fungsi | Pola | Arti praktis | Kapan dipakai |
 |---|---|---|---|
-| Ke/pada/di | （N） + に + （V） | Ke/pada/di; waktu, tujuan, tempat, orang | Marks destination, existence location, specific time, target person, or direction |
-| Di/dengan/secara | （N） + で + （V） | Di/dengan/secara; tempat, cara, kendaraan, cakupan | Marks place of action, tool, method, vehicle, language, material, cause, or range |
-| Juga | （N） + も | Juga; pun; dua-duanya dalam kontras berulang | Shows the same situation applies |
+| Ke/pada/di | （N） + に + （V） | Ke/pada/di; waktu, tujuan, tempat, orang | Menandai tujuan, lokasi keberadaan, waktu spesifik, orang tujuan, atau arah |
+| Di/dengan/secara | （N） + で + （V） | Di/dengan/secara; tempat, cara, kendaraan, cakupan | Menandai tempat aksi, alat, cara, kendaraan, bahasa, bahan, sebab, atau cakupan |
+| Juga | （N） + も | Juga; pun; dua-duanya dalam kontras berulang | Menunjukkan situasi yang sama juga berlaku |
 
 ## Peta Pola
 
@@ -51,13 +51,13 @@ Pola hari ini saling terhubung sebagai alat beginner untuk keberadaan dan kepemi
 
 ## Cara Membentuk Pola
 
-Simbol utama: （N）= nomina, （V）= verba, （Adj）= kata sifat, （Place）= tempat, （Person）= orang, dan （Time）= waktu.
+Simbol utama: （N）= nomina, （V）= verba, （Adj）= kata sifat, （Tempat）= tempat, （Orang）= orang, dan （Waktu）= waktu.
 
 | Pola | Bentuk dasar | Catatan bentuk |
 |---|---|---|
-| 〜に（場所・方向・時間・相手） | （N） + に + （V） | Marks destination, existence location, specific time, target person, or direction |
-| 〜で（場所・方法・範囲） | （N） + で + （V） | Marks place of action, tool, method, vehicle, language, material, cause, or range |
-| 〜も | （N） + も | Shows the same situation applies |
+| 〜に（場所・方向・時間・相手） | （N） + に + （V） | Menandai tujuan, lokasi keberadaan, waktu spesifik, orang tujuan, atau arah |
+| 〜で（場所・方法・範囲） | （N） + で + （V） | Menandai tempat aksi, alat, cara, kendaraan, bahasa, bahan, sebab, atau cakupan |
+| 〜も | （N） + も | Menunjukkan situasi yang sama juga berlaku |
 
 ## Bangun Kalimat Bertahap
 
@@ -72,15 +72,15 @@ Simbol utama: （N）= nomina, （V）= verba, （Adj）= kata sifat, （Place�
 
 ## Catatan Pemakaian
 
-- Ke/pada/di: Marks destination, existence location, specific time, target person, or direction.
-- Di/dengan/secara: Marks place of action, tool, method, vehicle, language, material, cause, or range.
-- Juga: Shows the same situation applies. Repeated も can mean “both” or “neither” depending on the sentence.
+- Ke/pada/di: Menandai tujuan, lokasi keberadaan, waktu spesifik, orang tujuan, atau arah.
+- Di/dengan/secara: Menandai tempat aksi, alat, cara, kendaraan, bahasa, bahan, sebab, atau cakupan.
+- Juga: Menunjukkan situasi yang sama juga berlaku. も yang diulang bisa berarti “dua-duanya” atau “dua-duanya tidak”, tergantung bentuk kalimat.
 
-Indonesian “di” and “dengan” can map to several Japanese particles. The safest beginner rule:
+“Di” dan “dengan” dalam bahasa Indonesia bisa menjadi beberapa partikel Jepang. Aturan paling aman untuk pemula:
 
-- に = destination, existence point, exact time, target
-- で = action place, method, tool, vehicle, range
-- も = also / too
+- に = tujuan, titik keberadaan, waktu spesifik, target
+- で = tempat aksi, cara, alat, kendaraan, cakupan
+- も = juga
 
 ## Pola yang Sering Muncul
 
@@ -93,9 +93,9 @@ Indonesian “di” and “dengan” can map to several Japanese particles. The 
 ## Contoh Kalimat
 
 <div class="example-list">
-  <div><p class="jp">学校は9時に始まります。</p><p>Ada atau punya sesuatu dalam konteks sederhana.</p></div>
-  <div><p class="jp">公園で遊びました。</p><p>Kalimat ini menunjukkan fungsi: di/dengan/secara; tempat, cara, kendaraan, cakupan.</p></div>
-  <div><p class="jp">田中さんは25さいです。私も25さいです。</p><p>Kalimat ini menunjukkan fungsi: juga; pun; dua-duanya dalam kontras berulang.</p></div>
+  <div><p class="jp">学校は9時に始まります。</p><p>Sekolah mulai jam 9.</p></div>
+  <div><p class="jp">公園で遊びました。</p><p>Saya bermain di taman.</p></div>
+  <div><p class="jp">田中さんは25さいです。私も25さいです。</p><p>Tanaka-san berusia 25 tahun. Saya juga 25 tahun.</p></div>
   <div><p class="jp">今日はいい天気です。</p><p>Hari ini cuacanya bagus.</p></div>
   <div><p class="jp">すみません、もう一度お願いします。</p><p>Maaf, sekali lagi tolong.</p></div>
 </div>
@@ -104,75 +104,77 @@ Indonesian “di” and “dengan” can map to several Japanese particles. The 
 
 | Pasangan | Cara membedakan |
 |---|---|
-| に destination / で action place | Destination/existence point vs action location. Use に with 行く, 来る, 乗る, いる, ある. Use で where an action happens. |
-| に time / で range | Specific time vs range/limit. Use に for specific time. Use で for range like “in the world,” “among three.” |
-| に target person / と counterpart | Direction/target vs mutual counterpart. Use に for asking, giving, meeting target in some fixed expressions. Use と for doing together or mutual action. |
-| で method / に destination | Means/tool/vehicle vs destination. Use で for 電車で, ナイフで, 英語で. Use に for place reached. |
-| も single / も repeated | Also vs both/neither. Use repeated も to talk about two similar items. |
+| に tujuan / で tempat aksi | Titik tujuan/keberadaan vs lokasi aksi. Pakai に dengan 行く, 来る, 乗る, いる, ある. Pakai で untuk tempat suatu aksi terjadi. |
+| に waktu / で cakupan | Waktu spesifik vs cakupan/batas. Pakai に untuk waktu tertentu. Pakai で untuk cakupan seperti “di dunia” atau “di antara tiga”. |
+| に target orang / と pasangan tindakan | Arah/target vs pasangan tindakan. Pakai に untuk bertanya, memberi, atau bertemu dalam beberapa pasangan verba tetap. Pakai と untuk melakukan bersama atau aksi timbal balik. |
+| で cara / に tujuan | Cara/alat/kendaraan vs tujuan. Pakai で untuk 電車で, ナイフで, 英語で. Pakai に untuk tempat yang dituju. |
+| も tunggal / も berulang | “Juga” vs “dua-duanya/dua-duanya tidak”. Pakai も yang diulang untuk dua hal yang situasinya sama. |
 
 ## Kesalahan Umum
 
 | Titik salah | Kurang tepat | Lebih tepat | Petunjuk |
 |---|---|---|---|
-| Action place uses で | 公園に遊びました。 | 公園で遊びました。 | Saya bermain di taman. |
-| Specific time uses に | 学校は9時で始まります。 | 学校は9時に始まります。 | Sekolah mulai jam 9. |
-| Vehicle or method uses で | 電車に行きます。 | 電車で行きます。 | Saya pergi dengan kereta. |
-| Also uses も, replacing は or が | 私はもパーティーに行きます。 | 私もパーティーに行きます。 | Saya juga akan pergi ke pesta. |
+| Tempat aksi memakai で | 公園に遊びました。 | 公園で遊びました。 | Saya bermain di taman. |
+| Waktu spesifik memakai に | 学校は9時で始まります。 | 学校は9時に始まります。 | Sekolah mulai jam 9. |
+| Kendaraan atau cara memakai で | 電車に行きます。 | 電車で行きます。 | Saya pergi dengan kereta. |
+| “Juga” memakai も dan menggantikan は atau が | 私はもパーティーに行きます。 | 私もパーティーに行きます。 | Saya juga akan pergi ke pesta. |
 
 ## Mini Practice
 
+Pilih jawaban yang paling tepat. Perhatikan petunjuk partikel, bentuk kata, dan konteks kalimat sebelum memilih.
+
 ::MiniPractice
 ---
-question: "Ke/pada/di; waktu, tujuan, tempat, orang."
-sentence: "学校は9時に始まります。"
-optionA: "〜に（場所"
-optionB: "〜で（場所・方法・範囲）"
-correct: "〜に（場所"
-explanation: "〜に（場所 cocok karena fungsi kalimatnya adalah ke/pada/di; waktu, tujuan, tempat, orang. Petunjuknya ada pada bentuk （N） + に + （V）."
+question: "Sekolah mulai jam 9."
+sentence: "学校は9時____始まります。"
+optionA: "に"
+optionB: "で"
+correct: "に"
+explanation: "に benar karena 9時 adalah waktu spesifik. で tidak dipakai untuk jam mulai dalam kalimat ini."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Di/dengan/secara; tempat, cara, kendaraan, cakupan."
-sentence: "公園で遊びました。"
-optionA: "〜で（場所"
-optionB: "〜に（場所・方向・時間・相手）"
-correct: "〜で（場所"
-explanation: "〜で（場所 cocok karena fungsi kalimatnya adalah di/dengan/secara; tempat, cara, kendaraan, cakupan. Petunjuknya ada pada bentuk （N） + で + （V）."
+question: "Saya bermain di taman."
+sentence: "公園____遊びました。"
+optionA: "で"
+optionB: "に"
+correct: "で"
+explanation: "で benar karena 公園 adalah tempat aksi bermain terjadi. に lebih cocok untuk tujuan atau keberadaan."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Juga; pun; dua-duanya dalam kontras berulang."
-sentence: "田中さんは25さいです。私も25さいです。"
-optionA: "〜も"
-optionB: "〜に（場所・方向・時間・相手）"
-correct: "〜も"
-explanation: "〜も cocok karena fungsi kalimatnya adalah juga; pun; dua-duanya dalam kontras berulang. Petunjuknya ada pada bentuk （N） + も."
+question: "Tanaka-san 25 tahun. Saya juga 25 tahun."
+sentence: "田中さんは25さいです。私____25さいです。"
+optionA: "も"
+optionB: "は"
+correct: "も"
+explanation: "も benar karena situasi yang sama juga berlaku untuk saya. は hanya membuka topik tanpa makna 'juga'."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih bentuk yang sesuai untuk ke/pada/di; waktu, tujuan, tempat, orang."
-sentence: "学校は9時に始まります。"
-optionA: "〜に（場所・方向・時間・相手）"
-optionB: "〜です"
-correct: "〜に（場所・方向・時間・相手）"
-explanation: "〜に（場所・方向・時間・相手） sesuai dengan pola hari ini."
+question: "Saya pergi dengan kereta."
+sentence: "電車____行きます。"
+optionA: "で"
+optionB: "に"
+correct: "で"
+explanation: "で benar karena 電車 adalah kendaraan/cara pergi. に dipakai untuk tujuan seperti 駅に行きます."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih bentuk yang sesuai untuk di/dengan/secara; tempat, cara, kendaraan, cakupan."
-sentence: "公園で遊びました。"
-optionA: "〜で（場所・方法・範囲）"
-optionB: "〜です"
-correct: "〜で（場所・方法・範囲）"
-explanation: "〜で（場所・方法・範囲） sesuai dengan pola hari ini."
+question: "Saya bertemu teman di stasiun."
+sentence: "駅____友だちに会いました。"
+optionA: "で"
+optionB: "も"
+correct: "で"
+explanation: "で benar karena stasiun adalah tempat pertemuan terjadi. も berarti 'juga' dan tidak cocok di sini."
 ---
 ::
 

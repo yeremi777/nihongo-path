@@ -21,12 +21,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca kata keterangan yang menunjukkan perubahan bertahap, peningkatan, perasaan berdebar, atau variasi.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat membaca kata keterangan perubahan, perasaan, variasi, dan gerak yang berulang.
 
-Fokusnya adalah membedakan perubahan yang makin kuat dari perubahan yang terjadi pelan-pelan.
+Fokus hari ini bukan hanya menghafal arti kata seperti どきどき（する）, わくわく（する）, いらいら（する）, dan ぽろぽろ, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> ますます berarti makin/semakin; だんだん berarti bertahap.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -62,9 +62,13 @@ Kata hari ini menjelaskan dinamika: perasaan di dalam tubuh, perubahan tingkat, 
   <span>さまざま</span>
 </div>
 
+Bayangkan kamu sedang membaca atau mendengar situasi tentang kata keterangan perubahan: kata intinya bisa berupa どきどき（する）, わくわく（する）, dan いらいら（する）; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
+
+
 ## Catatan Pemakaian
 
-- **Perasaan:** どきどき, わくわく, dan いらいら bisa menjadi する-verbs.
+- **Perasaan:** どきどき, わくわく, dan いらいら bisa menjadi kata kerja する.
 - **Perubahan:** ますます untuk intensitas makin kuat; だんだん untuk proses bertahap.
 - **Variasi:** さまざま biasanya menjadi さまざまなN.
 
@@ -97,9 +101,11 @@ Kata hari ini menjelaskan dinamika: perasaan di dalam tubuh, perubahan tingkat, 
 
 ## Mini Practice
 
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
+
 ::MiniPractice
 ---
-question: "Perasaan makin kuat."
+question: "Bahasa Jepang menjadi semakin menarik."
 sentence: "日本語が____おもしろくなった。"
 optionA: "ますます"
 optionB: "ばらばら"
@@ -110,7 +116,7 @@ explanation: "ますます menunjukkan semakin bertambah."
 
 ::MiniPractice
 ---
-question: "Perubahan bertahap."
+question: "Cuaca perlahan-lahan menjadi dingin."
 sentence: "____寒くなってきた。"
 optionA: "だんだん"
 optionB: "ぽろぽろ"
@@ -132,22 +138,22 @@ explanation: "さまざまな berarti berbagai macam."
 
 ::MiniPractice
 ---
-question: "Sebelum wawancara, jantung berdebar."
-sentence: "面接の前に____する。"
-optionA: "どきどき（する）"
-optionB: "わくわく（する）"
-correct: "どきどき（する）"
+question: "Sebelum wawancara, jantung saya berdebar-debar."
+sentence: "面接の前に____。"
+optionA: "どきどきする"
+optionB: "わくわくする"
+correct: "どきどきする"
 explanation: "どきどきする cocok untuk gugup atau jantung berdebar sebelum wawancara."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Sebelum perjalanan, seseorang merasa antusias."
-sentence: "旅行の前は____する。"
-optionA: "わくわく（する）"
-optionB: "どきどき（する）"
-correct: "わくわく（する）"
+question: "Sebelum perjalanan, saya merasa bersemangat."
+sentence: "旅行の前は____。"
+optionA: "わくわくする"
+optionB: "どきどきする"
+correct: "わくわくする"
 explanation: "わくわくする menunjukkan rasa antusias/bersemangat."
 ---
 ::

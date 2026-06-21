@@ -21,12 +21,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca gabungan kata yang harus diingat sebagai pasangan, bukan sebagai terjemahan kata lepas.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat mengingat kolokasi dari pertemuan, antrean, panggilan, undangan, dan gerakan.
 
-Kolokasi seperti 理想の人に出会う, 列に並ぶ, dan プールに飛び込む menjadi lebih mudah jika objek dan partikel dibaca bersama verba.
+Fokus hari ini bukan hanya menghafal arti kata seperti 理想の人に出会う, 出会い, 友人を招待する, dan 迎えに行く, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> ingat pasangan benda + partikel + verba. Arti verba sering jelas setelah melihat pasangannya.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -63,6 +63,10 @@ Kosakata hari ini adalah peta pasangan: orang + に出会う, orang + を招待�
   <span>飛び込む</span>
 </div>
 
+Bayangkan kamu sedang membaca atau mendengar situasi tentang kombinasi kata: kata intinya bisa berupa 理想の人に出会う, 出会い, dan 友人を招待する; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
+
+
 ## Catatan Pemakaian
 
 - **Pertemuan:** 出会う memakai に untuk orang yang ditemui.
@@ -98,53 +102,55 @@ Untuk kolokasi, keputusan ada pada pasangan kata benda dan kata kerja. 出会う
 
 ## Mini Practice
 
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
+
 ::MiniPractice
 ---
-question: "Bertemu orang ideal."
+question: "Saya bertemu orang ideal."
 sentence: "理想の人に____。"
 optionA: "出会う"
 optionB: "飛び込む"
 correct: "出会う"
-explanation: "出会う cocok dengan 人に."
+explanation: "出会う benar karena 人に出会う berarti bertemu seseorang. 飛び込む perlu tempat tujuan seperti プールに."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Mengantre di barisan."
+question: "Saya mengantre di barisan."
 sentence: "列に____。"
 optionA: "並ぶ"
 optionB: "招待する"
 correct: "並ぶ"
-explanation: "列に並ぶ adalah kolokasi untuk antre."
+explanation: "列に並ぶ benar karena に menandai barisan yang dimasuki. 招待する memakai orang yang diundang sebagai objek."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Terjun ke kolam."
+question: "Saya melompat masuk ke kolam."
 sentence: "プールに____。"
 optionA: "飛び込む"
 optionB: "出会う"
 correct: "飛び込む"
-explanation: "飛び込む cocok dengan arah/tempat seperti プールに."
+explanation: "飛び込む benar karena プールに menunjukkan tempat yang dimasuki. 出会う dipakai untuk bertemu orang."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Seseorang bertemu orang ideal saat perjalanan."
+question: "Saya bertemu orang ideal di tempat perjalanan."
 sentence: "旅先で____。"
 optionA: "理想の人に出会う"
 optionB: "出会い"
 correct: "理想の人に出会う"
-explanation: "理想の人に出会う adalah frasa kerja untuk bertemu orang ideal."
+explanation: "理想の人に出会う benar karena kalimat membutuhkan frasa kerja setelah 旅先で. 出会い adalah kata benda."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Ada pertemuan yang berkesan."
+question: "Ada pertemuan yang indah."
 sentence: "すてきな____があった。"
 optionA: "出会い"
 optionB: "理想の人に出会う"

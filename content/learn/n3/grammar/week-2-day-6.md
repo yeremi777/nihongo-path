@@ -1,6 +1,6 @@
 ---
 title: "食べてごらん"
-description: "Belajar pola grammar N3 untuk memberi saran coba lakukan, melaporkan instruksi, larangan, dan permintaan langsung."
+description: "Belajar memahami grammar N3 untuk memberi saran coba lakukan, melaporkan instruksi, larangan, dan permintaan langsung."
 level: "N3"
 category: "grammar"
 topic: "食べてごらん"
@@ -153,7 +153,7 @@ Di tabel ini, `（A）` adalah orang yang memberi saran, instruksi, larangan, at
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat. Perhatikan konteks, bentuk sebelum pola, dan nuansa kalimat sebelum memilih.
 
 ::MiniPractice
 ---

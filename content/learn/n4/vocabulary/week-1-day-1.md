@@ -22,12 +22,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membedakan kata kerja N4 yang bunyinya sama atau mirip: ひく, ふく, dan はく. Fokusnya bukan hanya arti, tetapi juga objek yang biasanya muncul bersama kata kerja itu.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat membedakan kata kerja yang sama bunyi tetapi berbeda kanji, objek, dan konteks pemakaian.
 
-Kamu juga akan mengenali pasangan kata seperti 引く／押す, 空く／込む, serta pola tiba di tempat dengan 着く.
+Fokus hari ini bukan hanya menghafal arti kata seperti 引く, 風邪を引く, 辞書を引く, dan 押す, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> jangan memilih arti hanya dari bunyi. Cek kanji, objek sebelum を atau が, dan frasa tetap seperti 風邪を引く, 風が吹く, 手を拭く, dan 靴を履く.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -93,6 +93,10 @@ Kamu juga akan mengenali pasangan kata seperti 引く／押す, 空く／込む,
   <span>着く</span>
 </div>
 
+Bayangkan kamu sedang membaca atau mendengar situasi tentang kata kerja yang mirip bunyi: kata intinya bisa berupa 引く, 風邪を引く, dan 辞書を引く; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
+
+
 Alurnya bisa dibaca seperti ini: tangan bisa menarik atau menekan benda, alat musik memakai 弾く, angin memakai 吹く, tangan atau meja memakai 拭く, halaman memakai 掃く, kondisi badan bisa berakhir dengan 吐く, pakaian bawah memakai 履く, tempat bisa 空く atau 込む, dan tujuan perjalanan memakai 着く.
 
 ## Catatan Pemakaian
@@ -157,7 +161,7 @@ Strategi cepat: lihat kata sebelum partikel. Kalau ada 風が, kemungkinan besar
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
 
 ::MiniPractice
 ---

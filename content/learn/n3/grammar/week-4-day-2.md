@@ -1,6 +1,6 @@
 ---
 title: "そのかわり"
-description: "Belajar pola grammar N3 untuk menyebut sebab baik, sebab buruk, dugaan sebab, dan pengganti tindakan atau peran."
+description: "Belajar memahami grammar N3 untuk menyebut sebab baik, sebab buruk, dugaan sebab, dan pengganti tindakan atau peran."
 level: "N3"
 category: "grammar"
 topic: "そのかわり"
@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali dan memakai pola pada topik **そのかわり** dalam konteks bacaan, percakapan, dan penjelasan N3. Fokusnya bukan hanya arti terjemahan, tetapi juga alasan memilih pola yang tepat.
+Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N3 untuk menyebut sebab baik, sebab buruk, dugaan sebab, dan pengganti tindakan atau peran. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan nuansa konteks.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> jangan menerjemahkan semua karena sebagai から. おかげで memberi kredit positif, せいで menyalahkan sebab buruk, dan かわりに mengganti tindakan, benda, atau peran.
@@ -51,13 +51,13 @@ Alurnya: おかげで memberi sebab positif, せいで memberi sebab negatif, �
 
 | Fungsi | Kerangka kalimat | Yang perlu dicek |
 |---|---|---|
-| Berkat | （plain form）おかげで | Apakah hasilnya baik? |
-| Gara-gara | （plain form）せいで | Apakah hasilnya buruk dan sebabnya jelas? |
-| Mungkin karena | （plain form）せいか | Apakah sebabnya masih dugaan? |
+| Berkat | （bentuk biasa）おかげで | Apakah hasilnya baik? |
+| Gara-gara | （bentuk biasa）せいで | Apakah hasilnya buruk dan sebabnya jelas? |
+| Mungkin karena | （bentuk biasa）せいか | Apakah sebabnya masih dugaan? |
 | Sebagai ganti | （N）のかわりに／（V普通形）かわりに | Apa yang diganti? |
 | Mewakili | （N）にかわって | Siapa yang menggantikan peran siapa? |
 
-Di tabel ini, `（A）` dan `（B）` menandai pihak pertama dan pihak kedua dalam hubungan kalimat, `（N）` adalah nomina atau frasa nomina, `（V）` adalah verba, `（Adj）` adalah adjektiva, `（clause）` dan `（plain form）` adalah klausa atau bentuk biasa, `（Sentence A）` dan `（Sentence B）` adalah dua kalimat yang dihubungkan, `（Option A）` dan `（Option B）` adalah dua pilihan, sedangkan `（question）`, `（number）`, `（predicate）`, dan `（result）` menandai slot pertanyaan, angka, predikat, dan hasil.
+Simbol di tabel ini hanya penanda slot. `（N）` berarti nomina atau frasa nomina, `（V）` berarti verba, `（Adj）` berarti adjektiva, `（klausa）` atau `（bentuk biasa）` berarti klausa atau bentuk biasa, dan pasangan seperti `（A）／（B）` atau `（Kalimat A）／（Kalimat B）` dipakai untuk membedakan dua sisi kalimat.
 
 ## Cara Membentuk Pola
 
@@ -81,7 +81,7 @@ Di tabel ini, `（A）` dan `（B）` menandai pihak pertama dan pihak kedua dal
 | かわりに | substitusi umum | コーヒーのかわりにお茶 |
 | にかわって | pengganti peran | 先生にかわって説明する |
 
-Sebelum membaca contoh panjang, ambil bagian yang berubah lebih dulu: apakah slotnya `（N）`, `（V辞書形）`, `（V普通形）`, `（Vますstem）`, `（Adj）`, atau satu `（clause）` utuh. Setelah itu baru cek partikel, bentuk negatif, dan hubungan antarbagian kalimat.
+Saat membangun kalimat, jangan mulai dari terjemahan kata per kata. Tentukan dulu slot yang berubah, lalu cek partikel, bentuk akhir, dan hubungan antarbagian kalimat.
 
 ## Bangun Kalimat Bertahap
 
@@ -93,7 +93,7 @@ Sebelum membaca contoh panjang, ambil bagian yang berubah lebih dulu: apakah slo
 | Minta jus sebagai ganti bir | ビール・ジュース | ビールのかわりに | ビールのかわりに、ジュースをください。 |
 | Mewakili kepala bagian | 部長・あいさつする | 部長にかわって | 部長にかわって、私がごあいさつします。 |
 
-Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pecah dulu menjadi bahan, bentuk pola, lalu kalimat jadi.
+Bagian ini menghubungkan rumus dan contoh kalimat. Mulai dari bahan pendeknya dulu, lalu cek fungsi pola sebelum membaca kalimat lengkap.
 
 ## Catatan Pemakaian
 
@@ -118,7 +118,7 @@ Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pe
 |---|---|---|
 | （N）のおかげで | berkat （N） | 先生のおかげで合格 |
 | （N）のせいで | gara-gara （N） | 雨のせいで中止 |
-| （plain form）せいか | mungkin karena | 疲れたせいか |
+| （bentuk biasa）せいか | mungkin karena | 疲れたせいか |
 | （N）のかわりに | sebagai ganti （N） | ビールのかわりにジュース |
 | （V普通形）かわりに | sebagai gantinya melakukan | 手伝うかわりに |
 | （N）にかわって | mewakili （N） | 部長にかわって |
@@ -154,7 +154,7 @@ Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pe
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat. Perhatikan konteks, bentuk sebelum pola, dan nuansa kalimat sebelum memilih.
 
 ::MiniPractice
 ---

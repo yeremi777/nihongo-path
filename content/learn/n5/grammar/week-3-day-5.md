@@ -1,6 +1,6 @@
 ---
 title: "母は父よりせが高いです。"
-description: "Belajar grammar N5 dasar untuk a lebih ~ daripada b, b lebih ~ daripada a, antara a dan b, mana yang lebih ~? dalam kalimat pendek."
+description: "Belajar memahami grammar N5 untuk a lebih ~ daripada b, b lebih ~ daripada a, antara a dan b, mana yang lebih ~? dalam kalimat pendek."
 level: "N5"
 category: "grammar"
 topic: "母は父よりせが高いです。"
@@ -25,21 +25,21 @@ tags:
 
 Mengenali pola dasar untuk a lebih ~ daripada b, b lebih ~ daripada a, antara a dan b, mana yang lebih ~?, a paling ~.
 
-Di akhir pelajaran ini, kamu bisa membaca kalimat seperti 母は父より背が高いです, 父より母のほうが背が高いです, ペンとえんぴつとどちらをよく使いますか. Fokusnya adalah melihat bentuk kecil yang menjadi petunjuk arti.
+Di akhir pelajaran ini, kamu bisa membaca kalimat seperti 母は父より背が高いです, 父より母のほうが背が高いです, ペンとえんぴつとどちらをよく使いますか. Fokusnya adalah memahami petunjuk kecil seperti partikel, bentuk kata, dan posisi kata dalam kalimat.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca pola dari kiri ke kanan. Tandai partikel, bentuk verba, atau kata penghubung sebelum menebak arti seluruh kalimat.
+  <strong>Fokus hari ini:</strong> baca kalimat pelan-pelan. Tandai partikel, bentuk kata, atau kata penghubung, lalu cocokkan dengan situasi yang sedang dibicarakan.
 </div>
 
 ## Pola Hari Ini
 
 | Fungsi | Pola | Arti praktis | Kapan dipakai |
 |---|---|---|---|
-| A lebih ~ daripada B | （A）は（B）より + （Adj） | A lebih ~ daripada B | Direct comparison |
-| B lebih ~ daripada A | （A）より（B）のほうが + （Adj） | B lebih ~ daripada A | Compares two things while emphasizing B as the more adjective one |
-| Antara A dan B, mana yang lebih ~? | （A）と（B）とどちらが + （Adj） | Antara A dan B, mana yang lebih ~? | Used to ask a comparison question between two choices |
-| A paling ~ | （A）がいちばん + （Adj） | A paling ~ | Used for the top item in a group |
-| Melakukan hal seperti A dan B | （Vた） + り + （Vた） + りする | Melakukan hal seperti A dan B | Gives examples from several actions |
+| A lebih ~ daripada B | （A）は（B）より + （Adj） | A lebih ~ daripada B | Perbandingan langsung |
+| B lebih ~ daripada A | （A）より（B）のほうが + （Adj） | B lebih ~ daripada A | Membandingkan dua hal sambil menekankan B sebagai sisi yang lebih kuat sifatnya |
+| Antara A dan B, mana yang lebih ~? | （A）と（B）とどちらが + （Adj） | Antara A dan B, mana yang lebih ~? | Dipakai untuk menanyakan perbandingan antara dua pilihan |
+| A paling ~ | （A）がいちばん + （Adj） | A paling ~ | Dipakai untuk hal yang paling unggul dalam satu kelompok |
+| Melakukan hal seperti A dan B | （Vた） + り + （Vた） + りする | Melakukan hal seperti A dan B | Memberi contoh dari beberapa tindakan |
 
 ## Peta Pola
 
@@ -55,15 +55,15 @@ Pola hari ini saling terhubung sebagai alat beginner untuk keberadaan dan kepemi
 
 ## Cara Membentuk Pola
 
-Simbol utama: （N）= nomina, （V）= verba, （Adj）= kata sifat, （Place）= tempat, （Person）= orang, dan （Time）= waktu.
+Simbol utama: （N）= nomina, （V）= verba, （Adj）= kata sifat, （Tempat）= tempat, （Orang）= orang, dan （Waktu）= waktu.
 
 | Pola | Bentuk dasar | Catatan bentuk |
 |---|---|---|
-| （A）は（B）より〜 | （A）は（B）より + （Adj） | Direct comparison |
-| （A）より（B）のほうが〜 | （A）より（B）のほうが + （Adj） | Compares two things while emphasizing B as the more adjective one |
-| （A）と（B）とどちら〜 | （A）と（B）とどちらが + （Adj） | Used to ask a comparison question between two choices |
-| （A）がいちばん〜 | （A）がいちばん + （Adj） | Used for the top item in a group |
-| 〜たり〜たりします | （Vた） + り + （Vた） + りする | Gives examples from several actions |
+| （A）は（B）より〜 | （A）は（B）より + （Adj） | Perbandingan langsung |
+| （A）より（B）のほうが〜 | （A）より（B）のほうが + （Adj） | Membandingkan dua hal sambil menekankan B sebagai sisi yang lebih kuat sifatnya |
+| （A）と（B）とどちら〜 | （A）と（B）とどちらが + （Adj） | Dipakai untuk menanyakan perbandingan antara dua pilihan |
+| （A）がいちばん〜 | （A）がいちばん + （Adj） | Dipakai untuk hal yang paling unggul dalam satu kelompok |
+| 〜たり〜たりします | （Vた） + り + （Vた） + りする | Memberi contoh dari beberapa tindakan |
 
 ## Bangun Kalimat Bertahap
 
@@ -82,19 +82,19 @@ Simbol utama: （N）= nomina, （V）= verba, （Adj）= kata sifat, （Place�
 
 ## Catatan Pemakaian
 
-- A lebih ~ daripada B: Direct comparison. B is the comparison base.
-- B lebih ~ daripada A: Compares two things while emphasizing B as the more adjective one.
-- Antara A dan B, mana yang lebih ~?: Used to ask a comparison question between two choices. どっち is the casual form of どちら.
-- A paling ~: Used for the top item in a group. Often appears with Nの中で.
-- Melakukan hal seperti A dan B: Gives examples from several actions. The list is not complete.
+- A lebih ~ daripada B: Perbandingan langsung. B menjadi dasar perbandingan.
+- B lebih ~ daripada A: Membandingkan dua hal sambil menekankan B sebagai sisi yang lebih kuat sifatnya.
+- Antara A dan B, mana yang lebih ~?: Dipakai untuk menanyakan perbandingan antara dua pilihan. どっち adalah bentuk santai dari どちら.
+- A paling ~: Dipakai untuk hal yang paling unggul dalam satu kelompok. Often appears with Nの中で.
+- Melakukan hal seperti A dan B: Memberi contoh dari beberapa tindakan. Daftarnya bukan daftar lengkap.
 
-Indonesian comparison usually uses “lebih” and “paling,” but Japanese word order is important:
+Dalam bahasa Indonesia, perbandingan biasanya memakai “lebih” dan “paling”. Dalam bahasa Jepang, urutan katanya penting:
 
 - AはBより〜 = A lebih ~ daripada B
 - AよりBのほうが〜 = Dibanding A, B lebih ~
 - Aがいちばん〜 = A paling ~
 
-For 〜たり〜たりします, do not translate it as a complete list. It means “do things like...”
+Untuk 〜たり〜たりします, jangan membacanya sebagai daftar lengkap. Maknanya “melakukan hal seperti.”.
 
 ## Pola yang Sering Muncul
 
@@ -109,85 +109,87 @@ For 〜たり〜たりします, do not translate it as a complete list. It mean
 ## Contoh Kalimat
 
 <div class="example-list">
-  <div><p class="jp">母は父より背が高いです。</p><p>Ada atau punya sesuatu dalam konteks sederhana.</p></div>
-  <div><p class="jp">父より母のほうが背が高いです。</p><p>Ada atau punya sesuatu dalam konteks sederhana.</p></div>
-  <div><p class="jp">ペンとえんぴつとどちらをよく使いますか。</p><p>Membandingkan dua hal atau lebih.</p></div>
-  <div><p class="jp">くだものの中でりんごがいちばん好きです。</p><p>Membandingkan dua hal atau lebih.</p></div>
-  <div><p class="jp">休みの日は買いものに行ったり、食事をしたりします。</p><p>Kalimat ini menunjukkan fungsi: melakukan hal seperti a dan b.</p></div>
+  <div><p class="jp">母は父より背が高いです。</p><p>Ibu saya lebih tinggi daripada ayah saya.</p></div>
+  <div><p class="jp">父より母のほうが背が高いです。</p><p>Dibanding ayah, ibu saya lebih tinggi.</p></div>
+  <div><p class="jp">ペンとえんぴつとどちらをよく使いますか。</p><p>Antara pulpen dan pensil, mana yang lebih sering kamu pakai?</p></div>
+  <div><p class="jp">くだものの中でりんごがいちばん好きです。</p><p>Di antara buah-buahan, saya paling suka apel.</p></div>
+  <div><p class="jp">休みの日は買いものに行ったり、食事をしたりします。</p><p>Saat libur, saya melakukan hal seperti berbelanja dan makan di luar.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar
 
 | Pasangan | Cara membedakan |
 |---|---|
-| （A）は（B）より〜 / （A）より（B）のほうが〜 | A is more than B vs B is more than A. Gunakan pola ini when A is the main topic. Gunakan pola ini when emphasizing B as the stronger side. |
-| （A）と（B）とどちら〜 / （A）がいちばん〜 | Two-choice comparison vs top in a group. Use どちら for two choices. Use いちばん for three or more, or a group. |
-| どちら / どっち | Polite/neutral vs conversational. Use どちら in polite or written Japanese. Use どっち in casual speech. |
-| 〜たり〜たりする / （Vて）、（Vて） | Example actions vs sequence. Use たり for examples. Use て-form for clear sequence. |
-| 〜たり〜たりする / 〜や〜など | Example actions vs example nouns. Use たり for verbs. Use や／など for nouns. |
+| （A）は（B）より〜 / （A）より（B）のほうが〜 | A lebih daripada B vs B lebih daripada A. Pakai pola pertama saat A menjadi topik utama. Pakai pola kedua saat ingin menekankan B sebagai sisi yang lebih kuat. |
+| （A）と（B）とどちら〜 / （A）がいちばん〜 | Perbandingan dua pilihan vs yang paling dalam satu kelompok. Pakai どちら untuk dua pilihan. Pakai いちばん untuk tiga atau lebih, atau satu kelompok. |
+| どちら / どっち | Sopan/netral vs percakapan santai. Pakai どちら dalam bahasa sopan atau tulisan. Pakai どっち dalam percakapan santai. |
+| 〜たり〜たりする / （Vて）、（Vて） | Contoh beberapa tindakan vs urutan tindakan. Pakai たり untuk menyebut contoh kegiatan. Pakai bentuk て saat urutannya jelas. |
+| 〜たり〜たりする / 〜や〜など | Contoh tindakan vs contoh benda. Pakai たり untuk verba. Pakai や／など untuk nomina. |
 
 ## Kesalahan Umum
 
 | Titik salah | Kurang tepat | Lebih tepat | Petunjuk |
 |---|---|---|---|
-| Comparison uses より | 母は父から背が高いです。 | 母は父より背が高いです。 | Ibu saya lebih tinggi daripada ayah saya. |
+| Perbandingan memakai より | 母は父から背が高いです。 | 母は父より背が高いです。 | Ibu saya lebih tinggi daripada ayah saya. |
 | いちばん is for the top item in a group | くだものの中でりんごをいちばん好きです。 | くだものの中でりんごがいちばん好きです。 | Di antara buah-buahan, saya paling suka apel. |
-| たり uses the past-form base before り | 休みの日は本を読みたり、テレビを見たりします。 | 休みの日は本を読んだり、テレビを見たりします。 | Saat hari libur, saya melakukan hal seperti membaca buku dan menonton TV. |
+| たり memakai dasar bentuk lampau sebelum り | 休みの日は本を読みたり、テレビを見たりします。 | 休みの日は本を読んだり、テレビを見たりします。 | Saat hari libur, saya melakukan hal seperti membaca buku dan menonton TV. |
 
 ## Mini Practice
 
+Pilih jawaban yang paling tepat. Perhatikan petunjuk partikel, bentuk kata, dan konteks kalimat sebelum memilih.
+
 ::MiniPractice
 ---
-question: "A lebih ~ daripada B."
-sentence: "母は父より背が高いです。"
-optionA: "AはBより〜"
-optionB: "AよりBのほうが〜"
-correct: "AはBより〜"
-explanation: "AはBより〜 cocok karena fungsi kalimatnya adalah a lebih ~ daripada b. Petunjuknya ada pada bentuk （A）は（B）より + （Adj）."
+question: "Ibu lebih tinggi daripada ayah."
+sentence: "母は父____背が高いです。"
+optionA: "より"
+optionB: "のほうが"
+correct: "より"
+explanation: "より benar setelah pembanding dalam pola AはBより〜."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "B lebih ~ daripada A."
-sentence: "父より母のほうが背が高いです。"
-optionA: "AよりBのほうが〜"
-optionB: "AはBより〜"
-correct: "AよりBのほうが〜"
-explanation: "AよりBのほうが〜 cocok karena fungsi kalimatnya adalah b lebih ~ daripada a. Petunjuknya ada pada bentuk （A）より（B）のほうが + （Adj）."
+question: "Dibanding ayah, ibu lebih tinggi."
+sentence: "父より母____背が高いです。"
+optionA: "のほうが"
+optionB: "より"
+correct: "のほうが"
+explanation: "のほうが benar untuk menandai sisi yang lebih dalam pola AよりBのほうが〜."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Antara A dan B, mana yang lebih ~?."
-sentence: "ペンとえんぴつとどちらをよく使いますか。"
-optionA: "AとBとどちら〜"
-optionB: "AはBより〜"
-correct: "AとBとどちら〜"
-explanation: "AとBとどちら〜 cocok karena fungsi kalimatnya adalah antara a dan b, mana yang lebih ~?. Petunjuknya ada pada bentuk （A）と（B）とどちらが + （Adj）."
+question: "Antara pena dan pensil, mana yang sering kamu pakai?"
+sentence: "ペンとえんぴつと____をよく使いますか。"
+optionA: "どちら"
+optionB: "だれ"
+correct: "どちら"
+explanation: "どちら benar untuk memilih antara dua benda. だれ menanyakan orang."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "A paling ~."
-sentence: "くだものの中でりんごがいちばん好きです。"
-optionA: "Aがいちばん〜"
-optionB: "AはBより〜"
-correct: "Aがいちばん〜"
-explanation: "Aがいちばん〜 cocok karena fungsi kalimatnya adalah a paling ~. Petunjuknya ada pada bentuk （A）がいちばん + （Adj）."
+question: "Di antara buah, apel yang paling saya suka."
+sentence: "くだものの中でりんご____いちばん好きです。"
+optionA: "が"
+optionB: "より"
+correct: "が"
+explanation: "が benar untuk menandai pilihan yang paling dalam pola Aがいちばん〜."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Melakukan hal seperti A dan B."
-sentence: "休みの日は買いものに行ったり、食事をしたりします。"
-optionA: "〜たり〜たりします"
-optionB: "AはBより〜"
-correct: "〜たり〜たりします"
-explanation: "〜たり〜たりします cocok karena fungsi kalimatnya adalah melakukan hal seperti a dan b. Petunjuknya ada pada bentuk （Vた） + り + （Vた） + りする."
+question: "Pada hari libur, saya melakukan hal seperti belanja dan makan."
+sentence: "休みの日は買いものに行っ____、食事をし____します。"
+optionA: "たり / たり"
+optionB: "て / て"
+correct: "たり / たり"
+explanation: "たり / たり benar untuk menyebut beberapa contoh kegiatan, bukan urutan lengkap."
 ---
 ::
 

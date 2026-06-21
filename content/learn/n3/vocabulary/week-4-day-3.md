@@ -21,12 +21,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca kosakata yang sering muncul dalam ujian, tugas, laporan, pengumpulan, dan pemeriksaan ulang.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat membaca instruksi ujian, tugas, jawaban, nilai, draf, dan tenggat pengumpulan.
 
-Fokusnya adalah membedakan proses belajar: menulis jawaban, mengecek, memperbaiki, mengulang, menghafal, lalu menyerahkan tugas.
+Fokus hari ini bukan hanya menghafal arti kata seperti 答え, 問い, 記入する, dan 見直す, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> perhatikan kata kerja berakhiran 直す. Bentuk ini sering berarti melakukan ulang untuk memperbaiki, seperti 書き直す dan 聞き直す.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -90,6 +90,10 @@ Alurnya adalah soal -> jawaban -> pengecekan -> perbaikan -> pengumpulan. Untuk 
   <span>暗記する</span>
 </div>
 
+Bayangkan kamu sedang membaca atau mendengar situasi tentang pergi ke sekolah (3): kata intinya bisa berupa 答え, 問い, dan 記入する; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
+
+
 ## Catatan Pemakaian
 
 - **Ujian:** 試験で問われる menunjukkan materi yang diuji; 試験が済む menunjukkan ujian sudah selesai.
@@ -98,8 +102,8 @@ Alurnya adalah soal -> jawaban -> pengecekan -> perbaikan -> pengumpulan. Untuk 
 
 ## Pola yang Sering Muncul
 
-- **Nを見直す:** mengecek ulang N.
-- **Nを書き直す:** menulis ulang N.
+- **（N）を見直す:** mengecek ulang N.
+- **（N）を書き直す:** menulis ulang N.
 - **先生に教わる:** に menandai orang yang mengajari.
 - **提出期限を守る:** を menandai aturan/tenggat yang dipatuhi.
 
@@ -124,6 +128,8 @@ Alurnya adalah soal -> jawaban -> pengecekan -> perbaikan -> pengumpulan. Untuk 
 - Perhatikan partikel に pada 先生に教わる karena orang yang mengajari ditandai dengan に.
 
 ## Mini Practice
+
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
 
 ::MiniPractice
 ---

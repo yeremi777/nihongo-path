@@ -21,12 +21,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca kata sifat dan ungkapan untuk menilai kepribadian, sikap, perasaan, dan reaksi seseorang.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat membaca sifat orang, reaksi emosional, dan ungkapan penilaian dalam percakapan.
 
-Fokusnya adalah membaca nuansa: apakah kata itu pujian, kritik ringan, atau ungkapan keras dalam percakapan.
+Fokus hari ini bukan hanya menghafal arti kata seperti かしこい, まじめな, 素直な, dan 勝手な, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> bedakan まじめな sebagai serius/rajin dan いいかげんな sebagai asal-asalan.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -75,6 +75,10 @@ Kosakata ini berhubungan dengan orang -> sifat -> tindakan -> reaksi perasaan. S
   <span>感動</span>
 </div>
 
+Bayangkan kamu sedang membaca atau mendengar situasi tentang orang seperti apa yang disukai?: kata intinya bisa berupa かしこい, まじめな, dan 素直な; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
+
+
 ## Catatan Pemakaian
 
 - **Pujian:** かしこい, まじめな, 素直な, 頼りになる cenderung positif.
@@ -84,8 +88,8 @@ Kosakata ini berhubungan dengan orang -> sifat -> tindakan -> reaksi perasaan. S
 ## Pola yang Sering Muncul
 
 - **na-adjective + 人:** まじめな人, 勝手な人.
-- **Nになる:** perubahan kondisi/perasaan seperti 不安になる.
-- **Nに感動する:** に menandai hal yang membuat terharu.
+- **（N）になる:** perubahan kondisi/perasaan seperti 不安になる.
+- **（N）に感動する:** に menandai hal yang membuat terharu.
 
 ## Contoh Kalimat
 
@@ -109,9 +113,11 @@ Kosakata ini berhubungan dengan orang -> sifat -> tindakan -> reaksi perasaan. S
 
 ## Mini Practice
 
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
+
 ::MiniPractice
 ---
-question: "Orang yang asal-asalan."
+question: "Orang yang asal-asalan merepotkan."
 sentence: "____人は困ります。"
 optionA: "いいかげんな"
 optionB: "まじめな"

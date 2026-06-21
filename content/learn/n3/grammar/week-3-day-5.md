@@ -1,6 +1,6 @@
 ---
 title: "一人っきり"
-description: "Belajar pola grammar N3 untuk mengikuti instruksi, membiarkan keadaan, menunjukkan kelalaian, dan menyatakan hanya atau sejak itu tidak lagi."
+description: "Belajar memahami grammar N3 untuk mengikuti instruksi, membiarkan keadaan, menunjukkan kelalaian, dan menyatakan hanya atau sejak itu tidak lagi."
 level: "N3"
 category: "grammar"
 topic: "一人っきり"
@@ -160,7 +160,7 @@ Di tabel ini, `（V）` adalah verba/kata kerja, `（N）` adalah nomina atau fr
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat. Perhatikan konteks, bentuk sebelum pola, dan nuansa kalimat sebelum memilih.
 
 ::MiniPractice
 ---

@@ -21,12 +21,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca kata kerja umum yang punya banyak arti, terutama saat muncul dalam kolokasi seperti 席を立つ, 日記をつける, dan 作文を直す.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat membedakan makna kata kerja umum dari kolokasi seperti 立つ, 回る, 直す, dan つける.
 
-Fokusnya adalah menggunakan objek sebagai petunjuk utama.
+Fokus hari ini bukan hanya menghafal arti kata seperti 席を立つ, 予定が立つ, 駅の周りを回る, dan 順番が回ってくる, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> つける bisa berarti menyalakan, mencatat, memberi tanda, atau menempelkan tergantung objeknya.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -64,6 +64,10 @@ Kata kerja hari ini harus dibaca dengan objeknya: 席を立つ bukan hanya "berd
   <span>日記をつける</span>
 </div>
 
+Bayangkan kamu sedang membaca atau mendengar situasi tentang kata kerja bermakna ganda (2): kata intinya bisa berupa 席を立つ, 予定が立つ, dan 駅の周りを回る; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
+
+
 ## Catatan Pemakaian
 
 - **立つ:** dengan 席 berarti beranjak dari kursi; dengan 予定 berarti rencana tersusun.
@@ -75,8 +79,8 @@ Kata kerja hari ini harus dibaca dengan objeknya: 席を立つ bukan hanya "berd
 
 - **席を立つ:** を menandai titik yang ditinggalkan.
 - **周りを回る:** を menandai area yang dilalui.
-- **Nを直す:** memperbaiki/mengubah N.
-- **Nをつける:** beri/nyalakan/catat N, tergantung objek.
+- **（N）を直す:** memperbaiki/mengubah N.
+- **（N）をつける:** beri/nyalakan/catat N, tergantung objek.
 
 ## Contoh Kalimat
 
@@ -100,9 +104,11 @@ Kata kerja hari ini harus dibaca dengan objeknya: 席を立つ bukan hanya "berd
 
 ## Mini Practice
 
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
+
 ::MiniPractice
 ---
-question: "Beranjak dari kursi."
+question: "Saya beranjak dari kursi."
 sentence: "席を____。"
 optionA: "立つ"
 optionB: "回る"
@@ -135,7 +141,7 @@ explanation: "電気をつける berarti menyalakan lampu."
 
 ::MiniPractice
 ---
-question: "Karena kereta sudah sampai, seseorang beranjak dari kursi."
+question: "Karena sudah sampai di stasiun, saya beranjak dari kursi."
 sentence: "駅に着いたので____。"
 optionA: "席を立つ"
 optionB: "予定が立つ"
@@ -146,7 +152,7 @@ explanation: "席を立つ berarti beranjak dari tempat duduk."
 
 ::MiniPractice
 ---
-question: "Rencana perjalanan akhirnya tersusun."
+question: "Rencana perjalanan tersusun."
 sentence: "旅行の____。"
 optionA: "予定が立つ"
 optionB: "席を立つ"

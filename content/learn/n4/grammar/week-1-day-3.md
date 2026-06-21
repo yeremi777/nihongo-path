@@ -1,6 +1,6 @@
 ---
 title: "9時までに来てください。"
-description: "Belajar pola grammar N4 untuk tolong datang paling lambat jam 9 dalam konteks belajar, percakapan, dan instruksi sederhana."
+description: "Belajar memahami grammar N4 untuk batas waktu dan daftar aksi agar bisa memilih bentuk, partikel, dan nuansa yang tepat."
 level: "N4"
 category: "grammar"
 topic: "9時までに来てください。"
@@ -22,23 +22,23 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa memakai pola N4 dalam topik **9時までに来てください。** untuk batas waktu dan daftar aksi. Fokusnya adalah memilih partikel, bentuk verba, atau ekspresi yang sesuai dengan konteks kalimat.
+Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N4 untuk batas waktu dan daftar aksi. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan konteks.
 
-Kamu juga akan membedakan pola yang mirip agar tidak menerjemahkan langsung dari bahasa Indonesia tanpa melihat petunjuk bentuk Jepangnya.
+Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya bergantung pada terjemahan bahasa Indonesia.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca fungsi komunikasinya dulu, lalu cek bentuk sebelum dan sesudah pola. Banyak kesalahan N4 muncul karena arti Indonesianya mirip, tetapi partikel atau bentuk akhirnya berbeda.
+  <strong>Fokus hari ini:</strong> baca fungsi kalimatnya dulu. Setelah itu cek partikel, bentuk verba, dan nuansa yang membuat satu pola lebih tepat daripada pola lain.
 </div>
 
 ## Pola Hari Ini
 
 | Fungsi | Pola | Arti praktis | Kapan dipakai |
 |---|---|---|---|
-| Sampai | 〜まで | Sampai ~ | Dipakai saat ingin menyatakan sampai ~ dengan bentuk （N）/（V dict） + まで. |
-| Paling lambat | 〜までに | Paling lambat ~; sebelum tenggat | Dipakai saat ingin menyatakan paling lambat ~; sebelum tenggat dengan bentuk （N）/（V dict） + までに. |
-| Melakukan hal seperti  dan | 〜たり〜たりする | Melakukan hal seperti ~ dan ~ | Dipakai saat ingin menyatakan melakukan hal seperti ~ dan ~ dengan bentuk （V た） + り + （V た） + りする. |
-| Dan juga | 〜し〜し | Dan juga; selain itu; menyebutkan alasan/sifat | Dipakai saat ingin menyatakan dan juga; selain itu; menyebutkan alasan/sifat dengan bentuk （Clause） + し + （Clause） + し. |
-| Hanya | 〜ばかり | Hanya; melulu; banyak sekali ~ | Dipakai saat ingin menyatakan hanya; melulu; banyak sekali ~ dengan bentuk （N） + ばかり / （V て） + ばかりいる. |
+| Sampai | 〜まで | Sampai ~ | dipakai saat sampai ~; bentuknya （N）/（V辞書形） + まで. |
+| Paling lambat | 〜までに | Paling lambat ~; sebelum tenggat | dipakai saat paling lambat ~; sebelum tenggat; bentuknya （N）/（V辞書形） + までに. |
+| Melakukan hal seperti ~ dan | 〜たり〜たりする | Melakukan hal seperti ~ dan ~ | dipakai saat melakukan hal seperti ~ dan ~; bentuknya （Vた） + り + （Vた） + りする. |
+| Dan juga | 〜し〜し | Dan juga; selain itu; menyebutkan alasan/sifat | dipakai saat dan juga; selain itu; menyebutkan alasan/sifat; bentuknya （Klausa） + し + （Klausa） + し. |
+| Hanya | 〜ばかり | Hanya; melulu; banyak sekali ~ | dipakai saat hanya; melulu; banyak sekali ~; bentuknya （N） + ばかり / （Vて） + ばかりいる. |
 
 ## Peta Pola
 
@@ -50,50 +50,50 @@ Kamu juga akan membedakan pola yang mirip agar tidak menerjemahkan langsung dari
   <span>〜ばかり</span>
 </div>
 
-Pola hari ini saling terhubung oleh fungsi **batas waktu dan daftar aksi**. Gunakan tabel pola sebagai peta cepat: pola yang terlihat mirip biasanya berbeda pada petunjuk seperti partikel, bentuk negatif, bentuk lampau, bentuk kamus, atau sudut pandang pembicara.
+Pola hari ini sama-sama dipakai untuk **batas waktu dan daftar aksi**, tetapi petunjuknya berbeda. Perhatikan partikel, bentuk negatif/lampau, bentuk kamus, dan siapa yang menjadi fokus kalimat.
 
 ## Cara Membentuk Pola
 
-Simbol utama: （N）= nomina, （V）= verba, （Clause）= klausa, （いAdj）= kata sifat-i, dan （なAdj）= kata sifat-na.
+Simbol utama: （N） berarti nomina, （V） berarti verba, （Klausa） berarti klausa, （いAdj） berarti kata sifat-i, dan （なAdj） berarti kata sifat-na.
 
 | Pola | Bentuk dasar | Catatan bentuk |
 |---|---|---|
-| 〜まで | （N）/（V dict） + まで | Gunakan bentuk ini untuk sampai ~. |
-| 〜までに | （N）/（V dict） + までに | Gunakan bentuk ini untuk paling lambat ~; sebelum tenggat. |
-| 〜たり〜たりする | （V た） + り + （V た） + りする | Gunakan bentuk ini untuk melakukan hal seperti ~ dan ~. |
-| 〜し〜し | （Clause） + し + （Clause） + し | Gunakan bentuk ini untuk dan juga; selain itu; menyebutkan alasan/sifat. |
-| 〜ばかり | （N） + ばかり / （V て） + ばかりいる | Gunakan bentuk ini untuk hanya; melulu; banyak sekali ~. |
+| 〜まで | （N）/（V辞書形） + まで | dipakai untuk sampai ~. |
+| 〜までに | （N）/（V辞書形） + までに | dipakai untuk paling lambat ~; sebelum tenggat. |
+| 〜たり〜たりする | （Vた） + り + （Vた） + りする | dipakai untuk melakukan hal seperti ~ dan ~. |
+| 〜し〜し | （Klausa） + し + （Klausa） + し | dipakai untuk dan juga; selain itu; menyebutkan alasan/sifat. |
+| 〜ばかり | （N） + ばかり / （Vて） + ばかりいる | dipakai untuk hanya; melulu; banyak sekali ~. |
 
 ## Bangun Kalimat Bertahap
 
 | Langkah | Jepang | Fungsi |
 |---|---|---|
-| Bahan | （N）/（V dict） + まで | Bentuk untuk sampai |
+| Bahan | （N）/（V辞書形） + まで | bentuk untuk sampai |
 | Kalimat | 5時まで勉強します。 | Sampai ~ |
-| Bahan | （N）/（V dict） + までに | Bentuk untuk paling lambat |
+| Bahan | （N）/（V辞書形） + までに | bentuk untuk paling lambat |
 | Kalimat | 9時までに来てください。 | Paling lambat ~; sebelum tenggat |
-| Bahan | （V た） + り + （V た） + りする | Bentuk untuk melakukan hal seperti  dan |
+| Bahan | （Vた） + り + （Vた） + りする | bentuk untuk melakukan hal seperti ~ dan |
 | Kalimat | 休みの日は買い物に行ったり映画を見たりします。 | Melakukan hal seperti ~ dan ~ |
-| Bahan | （Clause） + し + （Clause） + し | Bentuk untuk dan juga |
+| Bahan | （Klausa） + し + （Klausa） + し | bentuk untuk dan juga |
 | Kalimat | この店は安いし、おいしいです。 | Dan juga; selain itu; menyebutkan alasan/sifat |
-| Bahan | （N） + ばかり / （V て） + ばかりいる | Bentuk untuk hanya |
+| Bahan | （N） + ばかり / （Vて） + ばかりいる | bentuk untuk hanya |
 | Kalimat | 甘いものばかり食べています。 | Hanya; melulu; banyak sekali ~ |
 
-Bagian ini menjembatani rumus dan kalimat penuh. Ambil bentuk pendeknya dulu, lalu masukkan ke kalimat yang punya konteks jelas.
+Bagian ini menghubungkan rumus dan kalimat penuh. Mulai dari bentuk pendeknya dulu, lalu cek fungsi pola sebelum membaca contoh lengkap.
 
 ## Catatan Pemakaian
 
 ### 〜まで
 
-Pola ini dipakai untuk **sampai ~**. Bentuk intinya adalah （N）/（V dict） + まで.
+Gunakan pola ini untuk **sampai ~**. Bentuk dasarnya: （N）/（V辞書形） + まで.
 
-Catatan praktis: menunjukkan the action atau state continues until that point.
+Catatan praktis: menunjukkan tindakan atau keadaan berlanjut sampai titik itu.
 
 Contoh inti: 5時まで勉強します。
 
 ### 〜までに
 
-Pola ini dipakai untuk **paling lambat ~; sebelum tenggat**. Bentuk intinya adalah （N）/（V dict） + までに.
+Gunakan pola ini untuk **paling lambat ~; sebelum tenggat**. Bentuk dasarnya: （N）/（V辞書形） + までに.
 
 Catatan praktis: Deadline marker. Do not confuse dengan まで = until.
 
@@ -101,7 +101,7 @@ Contoh inti: 9時までに来てください。
 
 ### 〜たり〜たりする
 
-Pola ini dipakai untuk **melakukan hal seperti ~ dan ~**. Bentuk intinya adalah （V た） + り + （V た） + りする.
+Gunakan pola ini untuk **melakukan hal seperti ~ dan ~**. Bentuk dasarnya: （Vた） + り + （Vた） + りする.
 
 Catatan praktis: Lists example actions atau repeated alternating actions.
 
@@ -109,17 +109,17 @@ Contoh inti: 休みの日は買い物に行ったり映画を見たりします�
 
 ### 〜し〜し
 
-Pola ini dipakai untuk **dan juga; selain itu; menyebutkan alasan/sifat**. Bentuk intinya adalah （Clause） + し + （Clause） + し.
+Gunakan pola ini untuk **dan juga; selain itu; menyebutkan alasan/sifat**. Bentuk dasarnya: （Klausa） + し + （Klausa） + し.
 
-Catatan praktis: Often lists multiple reasons, qualities, atau repeated things.
+Catatan praktis: Sering menyebut beberapa alasan, sifat, atau hal yang berulang.
 
 Contoh inti: この店は安いし、おいしいです。
 
 ### 〜ばかり
 
-Pola ini dipakai untuk **hanya; melulu; banyak sekali ~**. Bentuk intinya adalah （N） + ばかり / （V て） + ばかりいる.
+Gunakan pola ini untuk **hanya; melulu; banyak sekali ~**. Bentuk dasarnya: （N） + ばかり / （Vて） + ばかりいる.
 
-Catatan praktis: Often has a negative nuance saat it berarti doing only one thing too much.
+Catatan praktis: Sering bernuansa negatif saat artinya terlalu banyak melakukan satu hal saja.
 
 Contoh inti: 甘いものばかり食べています。
 
@@ -127,11 +127,11 @@ Contoh inti: 甘いものばかり食べています。
 
 | Pola | Arti praktis | Contoh konteks |
 |---|---|---|
-| （N）/（V dict） + まで | Sampai ~ | 5時まで勉強します。 |
-| （N）/（V dict） + までに | Paling lambat ~; sebelum tenggat | 9時までに来てください。 |
-| （V た） + り + （V た） + りする | Melakukan hal seperti ~ dan ~ | 休みの日は買い物に行ったり映画を見たりします。 |
-| （Clause） + し + （Clause） + し | Dan juga; selain itu; menyebutkan alasan/sifat | この店は安いし、おいしいです。 |
-| （N） + ばかり / （V て） + ばかりいる | Hanya; melulu; banyak sekali ~ | 甘いものばかり食べています。 |
+| （N）/（V辞書形） + まで | Sampai ~ | 5時まで勉強します。 |
+| （N）/（V辞書形） + までに | Paling lambat ~; sebelum tenggat | 9時までに来てください。 |
+| （Vた） + り + （Vた） + りする | Melakukan hal seperti ~ dan ~ | 休みの日は買い物に行ったり映画を見たりします。 |
+| （Klausa） + し + （Klausa） + し | Dan juga; selain itu; menyebutkan alasan/sifat | この店は安いし、おいしいです。 |
+| （N） + ばかり / （Vて） + ばかりいる | Hanya; melulu; banyak sekali ~ | 甘いものばかり食べています。 |
 
 ## Contoh Kalimat
 
@@ -140,34 +140,34 @@ Contoh inti: 甘いものばかり食べています。
   <div><p class="jp">5時まで待ちます。</p><p>Saya akan menunggu sampai jam 5.</p></div>
   <div><p class="jp">買い物に行ったり映画を見たりします。</p><p>Saya melakukan hal seperti pergi belanja dan menonton film.</p></div>
   <div><p class="jp">この店は安いし、おいしいです。</p><p>Restoran ini murah dan enak.</p></div>
-  <div><p class="jp">5時まで勉強します。</p><p>Kalimat ini memakai 〜まで untuk arti sampai ~.</p></div>
-  <div><p class="jp">休みの日は買い物に行ったり映画を見たりします。</p><p>Kalimat ini memakai 〜たり〜たりする untuk arti melakukan hal seperti ~ dan ~.</p></div>
+  <div><p class="jp">5時まで勉強します。</p><p>Saya belajar sampai pukul lima.</p></div>
+  <div><p class="jp">休みの日は買い物に行ったり映画を見たりします。</p><p>Pada hari libur, saya melakukan hal seperti berbelanja dan menonton film.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar
 
 | Pasangan | Cara membedakan |
 |---|---|
-| 〜まで / 〜までに | Bedakan dari fungsi utamanya: Until dibanding by a deadline. Petunjuk pilihan: Gunakan まで saat something continues. gunakan までに saat something must finish sebelum a point.. |
-| 〜たり〜たりする / 〜し〜し | Bedakan dari fungsi utamanya: Example actions dibanding reasons/qualities. Petunjuk pilihan: Gunakan たり untuk sample actions. gunakan し untuk reasons atau multiple qualities.. |
-| 〜たり〜たりする / 〜て〜て | Bedakan dari fungsi utamanya: Examples dibanding sequence. Petunjuk pilihan: Gunakan たり saat the list is not complete. gunakan て to show sequence atau connection.. |
-| 〜ばかり / 〜しか〜ない | Bedakan dari fungsi utamanya: Too much of one kind dibanding only dengan negative. Petunjuk pilihan: Gunakan ばかり untuk repeated atau excessive focus. gunakan しか〜ない untuk strict limitation.. |
-| 〜ばかり / 〜だけ | Bedakan dari fungsi utamanya: Often negative “nothing but” dibanding neutral “only”. Petunjuk pilihan: Gunakan ばかり saat it feels excessive. gunakan だけ saat it is neutral.. |
+| 〜まで / 〜までに | Bedakan dari fungsi utamanya: Until dibanding by a deadline. Petunjuk pilihan: Gunakan まで saat something continues. Gunakan までに saat something must finish sebelum a point. |
+| 〜たり〜たりする / 〜し〜し | Bedakan dari fungsi utamanya: Example actions dibanding reasons/qualities. Petunjuk pilihan: Gunakan たり untuk sample actions. Gunakan し untuk reasons atau multiple qualities. |
+| 〜たり〜たりする / 〜て〜て | Bedakan dari fungsi utamanya: Contoh tindakan dibanding urutan tindakan. Petunjuk pilihan: Gunakan たり saat daftarnya tidak lengkap. Gunakan て untuk menunjukkan urutan atau hubungan. |
+| 〜ばかり / 〜しか〜ない | Bedakan dari fungsi utamanya: Terlalu banyak satu jenis dibanding “hanya” dengan bentuk negatif. Petunjuk pilihan: Gunakan ばかり untuk hal berulang atau fokus berlebihan. Gunakan しか〜ない untuk batasan yang ketat. |
+| 〜ばかり / 〜だけ | Bedakan dari fungsi utamanya: “Hanya itu-itu saja” yang sering negatif dibanding “hanya” yang netral. Petunjuk pilihan: Gunakan ばかり saat terasa berlebihan. Gunakan だけ saat maknanya netral. |
 
 ## Kesalahan Umum
 
 | Salah | Benar | Kenapa |
 |---|---|---|
-| 9時まで来てください。 | 9時までに来てください。 | Deadline uses までに |
-| 5時までに待ちます。 | 5時まで待ちます。 | Continuing action uses まで |
-| 買い物に行ったり映画を見ます。 | 買い物に行ったり映画を見たりします。 | たり repeats setelah each example verb |
-| この店は安いしおいしいしです。 | この店は安いし、おいしいです。 | し connects full clauses |
+| 9時まで来てください。 | 9時までに来てください。 | Tenggat memakai までに |
+| 5時までに待ちます。 | 5時まで待ちます。 | Tindakan berlanjut memakai まで |
+| 買い物に行ったり映画を見ます。 | 買い物に行ったり映画を見たりします。 | たり diulang setelah setiap verba contoh |
+| この店は安いしおいしいしです。 | この店は安いし、おいしいです。 | し menghubungkan klausa lengkap |
 
-Catatan untuk pembelajar Indonesia: Indonesian “sampai” can mean both **まで** and **までに**, but Japanese separates them. - まで = sampai, action/state continues - までに = paling lambat, deadline This is one of the most important N4 distinctions.
+Catatan untuk pembelajar Indonesia: “Sampai” dalam bahasa Indonesia bisa berarti **まで** atau **までに**, tetapi bahasa Jepang membedakannya. まで = sampai, tindakan/keadaan berlanjut; までに = paling lambat, tenggat. Ini salah satu pembedaan N4 yang sangat penting.
 
 ## Mini Practice
 
-Pilih jawaban yang paling tepat untuk melengkapi kalimat. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat. Perhatikan petunjuk partikel, bentuk kata, dan konteks kalimat sebelum memilih.
 
 ::MiniPractice
 ---
@@ -176,51 +176,51 @@ sentence: "この店は安いし____です。"
 optionA: "、おいしい"
 optionB: "おいしいし"
 correct: "、おいしい"
-explanation: "、おいしい benar. し connects full clauses"
+explanation: "、おいしい benar. し menghubungkan klausa lengkap"
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pola apa yang dipakai untuk arti: Sampai ~?"
-sentence: "例: 5時まで勉強します。 ポイント: ____"
-optionA: "〜まで"
-optionB: "〜までに"
-correct: "〜まで"
-explanation: "〜まで benar karena kalimat contoh menunjukkan sampai ~."
+question: "Saya belajar sampai pukul lima."
+sentence: "5時____勉強します。"
+optionA: "まで"
+optionB: "までに"
+correct: "まで"
+explanation: "まで benar untuk batas akhir durasi kegiatan. までに berarti paling lambat sebelum tenggat."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pola apa yang dipakai untuk arti: Paling lambat ~; sebelum tenggat?"
-sentence: "例: 9時までに来てください。 ポイント: ____"
-optionA: "〜までに"
-optionB: "〜たり〜たりする"
-correct: "〜までに"
-explanation: "〜までに benar karena kalimat contoh menunjukkan paling lambat ~; sebelum tenggat."
+question: "Tolong datang paling lambat pukul sembilan."
+sentence: "9時____来てください。"
+optionA: "までに"
+optionB: "まで"
+correct: "までに"
+explanation: "までに benar untuk tenggat waktu: paling lambat sebelum pukul sembilan."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pola apa yang dipakai untuk arti: Melakukan hal seperti ~ dan ~?"
-sentence: "例: 休みの日は買い物に行ったり映画を見たりします。 ポイント: ____"
-optionA: "〜たり〜たりする"
-optionB: "〜し〜し"
-correct: "〜たり〜たりする"
-explanation: "〜たり〜たりする benar karena kalimat contoh menunjukkan melakukan hal seperti ~ dan ~."
+question: "Pada hari libur, saya melakukan hal seperti berbelanja dan menonton film."
+sentence: "休みの日は買い物に行っ____映画を見____します。"
+optionA: "たり / たり"
+optionB: "て / て"
+correct: "たり / たり"
+explanation: "たり / たり benar untuk menyebut contoh kegiatan, bukan urutan lengkap."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pola apa yang dipakai untuk arti: Dan juga; selain itu; menyebutkan alasan/sifat?"
-sentence: "例: この店は安いし、おいしいです。 ポイント: ____"
-optionA: "〜し〜し"
-optionB: "〜ばかり"
-correct: "〜し〜し"
-explanation: "〜し〜し benar karena kalimat contoh menunjukkan dan juga; selain itu; menyebutkan alasan/sifat."
+question: "Restoran ini murah dan juga enak."
+sentence: "この店は安い____、おいしいです。"
+optionA: "し"
+optionB: "ばかり"
+correct: "し"
+explanation: "し benar karena menghubungkan alasan atau sifat yang sama-sama mendukung penilaian."
 ---
 ::
 

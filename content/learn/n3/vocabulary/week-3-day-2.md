@@ -21,12 +21,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali kosakata N3 untuk Ayo bersiap-siap. Fokusnya adalah membaca kata sebagai bagian dari situasi nyata, bukan hanya menghafal arti satu per satu.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat membaca kegiatan bersiap, pakaian, penampilan, dan barang yang dibawa sebelum keluar.
 
-Pelajaran ini membantu kamu melihat hubungan antara istilah utama, benda, tindakan, kondisi, dan pola partikel yang sering muncul dalam kalimat pendek sehari-hari.
+Fokus hari ini bukan hanya menghafal arti kata seperti 額, まつげ, ほお／ほほ, dan ネックレス, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca kata sebagai kelompok makna. Perhatikan apakah kata itu menunjuk benda/tempat, tindakan dengan partikel seperti を・が・に・で, atau kondisi yang menjelaskan keadaan.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -35,42 +35,42 @@ Pelajaran ini membantu kamu melihat hubungan antara istilah utama, benda, tindak
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| 額 | ひたい | dahi; istilah dasar dalam topik hari ini. |
-| まつげ | まつげ | bulu mata; istilah dasar dalam topik hari ini. |
-| ほお／ほほ | ほお／ほほ | pipi; both readings are used |
-| ネックレス | ネックレス | kalung; istilah dasar dalam topik hari ini. |
-| まゆ／まゆげ | まゆ／まゆげ | alis; istilah dasar dalam topik hari ini. |
-| まぶた | まぶた | kelopak mata; istilah dasar dalam topik hari ini. |
-| イヤリング | イヤリング | anting-anting; istilah dasar dalam topik hari ini. |
-| 唇 | くちびる | bibir; istilah dasar dalam topik hari ini. |
-| ベルト | ベルト | sabuk; istilah dasar dalam topik hari ini. |
-| パンツ | パンツ | celana dalam; celana; can mean underwear or pants depending on context |
-| 下着 | したぎ | pakaian dalam; istilah dasar dalam topik hari ini. |
-| 上着 | うわぎ | jaket; pakaian luar; istilah dasar dalam topik hari ini. |
-| 歯みがき | はみがき | menyikat gigi; noun form |
-| 着替え | きがえ | pakaian ganti; noun form |
+| 額 | ひたい | dahi; sering muncul saat membaca kegiatan bersiap, pakaian, penampilan, dan barang yang dibawa sebelum keluar. |
+| まつげ | まつげ | bulu mata; sering muncul saat membaca kegiatan bersiap, pakaian, penampilan, dan barang yang dibawa sebelum keluar. |
+| ほお／ほほ | ほお／ほほ | pipi; dua bacaan sama-sama dipakai |
+| ネックレス | ネックレス | kalung; sering muncul saat membaca kegiatan bersiap, pakaian, penampilan, dan barang yang dibawa sebelum keluar. |
+| まゆ／まゆげ | まゆ／まゆげ | alis; sering muncul saat membaca kegiatan bersiap, pakaian, penampilan, dan barang yang dibawa sebelum keluar. |
+| まぶた | まぶた | kelopak mata; sering muncul saat membaca kegiatan bersiap, pakaian, penampilan, dan barang yang dibawa sebelum keluar. |
+| イヤリング | イヤリング | anting-anting; sering muncul saat membaca kegiatan bersiap, pakaian, penampilan, dan barang yang dibawa sebelum keluar. |
+| 唇 | くちびる | bibir; sering muncul saat membaca kegiatan bersiap, pakaian, penampilan, dan barang yang dibawa sebelum keluar. |
+| ベルト | ベルト | sabuk; sering muncul saat membaca kegiatan bersiap, pakaian, penampilan, dan barang yang dibawa sebelum keluar. |
+| パンツ | パンツ | celana dalam; celana; bisa berarti celana dalam atau celana, tergantung konteks |
+| 下着 | したぎ | pakaian dalam; sering muncul saat membaca kegiatan bersiap, pakaian, penampilan, dan barang yang dibawa sebelum keluar. |
+| 上着 | うわぎ | jaket; pakaian luar; sering muncul saat membaca kegiatan bersiap, pakaian, penampilan, dan barang yang dibawa sebelum keluar. |
+| 歯みがき | はみがき | menyikat gigi; bentuk nomina |
+| 着替え | きがえ | pakaian ganti; bentuk nomina |
 
 ### Tindakan dan Pola
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
 | 朝のしたくをする | あさのしたくをする | bersiap-siap pagi; したく = preparation |
-| シャワーを浴びる | シャワーをあびる | mandi shower; 浴びる is used for shower/sunlight |
-| 歯をみがく | はをみがく | menyikat gigi; istilah dasar dalam topik hari ini. |
+| シャワーを浴びる | シャワーをあびる | mandi shower; 浴びる dipakai untuk shower atau paparan sinar matahari |
+| 歯をみがく | はをみがく | menyikat gigi; sering muncul saat membaca kegiatan bersiap, pakaian, penampilan, dan barang yang dibawa sebelum keluar. |
 | 歯みがき粉をつける | はみがきこをつける | menaruh pasta gigi di sikat; 歯みがき粉 means toothpaste |
-| ひげをそる | ひげをそる | mencukur kumis/janggut; istilah dasar dalam topik hari ini. |
+| ひげをそる | ひげをそる | mencukur kumis/janggut; sering muncul saat membaca kegiatan bersiap, pakaian, penampilan, dan barang yang dibawa sebelum keluar. |
 | ドライヤーで髪を乾かす | ドライヤーでかみをかわかす | mengeringkan rambut dengan pengering; 乾かす = dry something |
-| 髪をとく／とかす | かみをとく／とかす | menyisir rambut; とく and とかす both used |
-| （お）化粧をする | （お）けしょうをする | berdandan; memakai riasan; お adds politeness |
-| 口紅を塗る／つける | くちべにをぬる／つける | memakai lipstik; 塗る = apply/spread |
-| 服を着替える | ふくをきがえる | mengganti pakaian; istilah dasar dalam topik hari ini. |
-| おしゃれをする | おしゃれをする | berdandan rapi/modis; istilah dasar dalam topik hari ini. |
-| おしゃれな人 | おしゃれなひと | orang yang berpakaian modis; istilah dasar dalam topik hari ini. |
-| ひもを結ぶ | ひもをむすぶ | mengikat tali; istilah dasar dalam topik hari ini. |
-| ほどく | ほどく | melepaskan ikatan; lawan kata of 結ぶ |
+| 髪をとく／とかす | かみをとく／とかす | menyisir rambut; とく dan とかす sama-sama dipakai |
+| （お）化粧をする | （お）けしょうをする | berdandan; memakai riasan; お menambah kesan sopan |
+| 口紅を塗る／つける | くちべにをぬる／つける | memakai lipstik; 塗る berarti mengoleskan atau meratakan |
+| 服を着替える | ふくをきがえる | mengganti pakaian; sering muncul saat membaca kegiatan bersiap, pakaian, penampilan, dan barang yang dibawa sebelum keluar. |
+| おしゃれをする | おしゃれをする | berdandan rapi/modis; sering muncul saat membaca kegiatan bersiap, pakaian, penampilan, dan barang yang dibawa sebelum keluar. |
+| おしゃれな人 | おしゃれなひと | orang yang berpakaian modis; sering muncul saat membaca kegiatan bersiap, pakaian, penampilan, dan barang yang dibawa sebelum keluar. |
+| ひもを結ぶ | ひもをむすぶ | mengikat tali; sering muncul saat membaca kegiatan bersiap, pakaian, penampilan, dan barang yang dibawa sebelum keluar. |
+| ほどく | ほどく | melepaskan ikatan; lawan kata dari 結ぶ |
 | マフラーを巻く／する | マフラーをまく／する | memakai syal; 巻く = wrap around |
-| 手袋をはめる／する | てぶくろをはめる／する | memakai sarung tangan; istilah dasar dalam topik hari ini. |
-| 指輪をはめる／する | ゆびわをはめる／する | memakai cincin; istilah dasar dalam topik hari ini. |
+| 手袋をはめる／する | てぶくろをはめる／する | memakai sarung tangan; sering muncul saat membaca kegiatan bersiap, pakaian, penampilan, dan barang yang dibawa sebelum keluar. |
+| 指輪をはめる／する | ゆびわをはめる／する | memakai cincin; sering muncul saat membaca kegiatan bersiap, pakaian, penampilan, dan barang yang dibawa sebelum keluar. |
 
 ## Peta Kata
 
@@ -87,7 +87,8 @@ Pelajaran ini membantu kamu melihat hubungan antara istilah utama, benda, tindak
   <span>パンツ</span>
 </div>
 
-Kata-kata hari ini bisa dibaca sebagai alur: istilah utama untuk mengenali konteks, benda atau tempat yang menjadi objek, tindakan yang dilakukan, lalu kondisi atau hasil yang perlu diperhatikan. Saat membaca teks pendek, cari dulu kata inti seperti 額, lalu lihat kata kerja dan partikelnya untuk memahami siapa melakukan apa.
+Bayangkan kamu sedang membaca atau mendengar situasi tentang bersiap-siap: kata intinya bisa berupa 額, まつげ, dan ほお／ほほ; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
 
 ## Catatan Pemakaian
 
@@ -112,44 +113,44 @@ Kata-kata hari ini bisa dibaca sebagai alur: istilah utama untuk mengenali konte
 | Pola | Arti praktis | Catatan membaca |
 |---|---|---|
 | 朝のしたくをする | bersiap-siap pagi | したく = preparation |
-| シャワーを浴びる | mandi shower | 浴びる is used for shower/sunlight |
-| 歯をみがく | menyikat gigi | istilah dasar dalam topik hari ini. |
-| 歯みがき | menyikat gigi | noun form |
+| シャワーを浴びる | mandi shower | 浴びる dipakai untuk shower atau paparan sinar matahari |
+| 歯をみがく | menyikat gigi | sering muncul saat membaca kegiatan bersiap, pakaian, penampilan, dan barang yang dibawa sebelum keluar. |
+| 歯みがき | menyikat gigi | bentuk nomina |
 | 歯みがき粉をつける | menaruh pasta gigi di sikat | 歯みがき粉 means toothpaste |
-| ひげをそる | mencukur kumis/janggut | istilah dasar dalam topik hari ini. |
+| ひげをそる | mencukur kumis/janggut | sering muncul saat membaca kegiatan bersiap, pakaian, penampilan, dan barang yang dibawa sebelum keluar. |
 | ドライヤーで髪を乾かす | mengeringkan rambut dengan pengering | 乾かす = dry something |
-| 髪をとく／とかす | menyisir rambut | とく and とかす both used |
+| 髪をとく／とかす | menyisir rambut | とく dan とかす sama-sama dipakai |
 
-Gunakan tabel ini sebagai pegangan saat melihat kata dalam kalimat. Kata kerja dan frasa sering lebih mudah dipahami jika kamu membaca seluruh pola, bukan hanya satu kata.
+Perhatikan pola partikel: `を` menandai objek tindakan, `が` sering menandai keadaan, `に` menunjukkan tujuan atau arah, dan `で` menunjukkan alat, tempat, atau cara.
 
 ## Contoh Kalimat
 
 <div class="example-list">
-  <div><p class="jp">朝のしたくをする。</p><p>bersiap-siap pagi.</p></div>
-  <div><p class="jp">シャワーを浴びる。</p><p>mandi shower.</p></div>
-  <div><p class="jp">歯をみがく。</p><p>menyikat gigi.</p></div>
-  <div><p class="jp">歯みがきです。</p><p>menyikat gigi.</p></div>
-  <div><p class="jp">歯みがき粉をつける。</p><p>menaruh pasta gigi di sikat.</p></div>
+  <div><p class="jp">出かける前にシャワーを浴びて、髪をとかしました。</p><p>Sebelum keluar, saya mandi shower lalu menyisir rambut.</p></div>
+  <div><p class="jp">歯みがき粉を少しつけて、歯をみがいてください。</p><p>Taruh sedikit pasta gigi lalu sikat gigi.</p></div>
+  <div><p class="jp">寒いので、上着を着てから出かけましょう。</p><p>Karena dingin, mari pakai jaket dulu sebelum keluar.</p></div>
+  <div><p class="jp">靴のひもを結んでから、急いで駅へ向かいました。</p><p>Saya mengikat tali sepatu lalu cepat-cepat menuju stasiun.</p></div>
+  <div><p class="jp">面接の日は、きちんとした服に着替えます。</p><p>Pada hari wawancara, saya berganti ke pakaian yang rapi.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar
 
 | Pasangan | Cara membedakan |
 |---|---|
-| まゆ／まゆげ / まぶた | まゆ／まゆげ cocok untuk alis; まぶた cocok untuk kelopak mata. Bedakan dari kata sekitar dan pola partikel yang muncul. |
-| シャワーを浴びる / 下着 | シャワーを浴びる cocok untuk mandi shower; 下着 cocok untuk pakaian dalam. Bedakan dari kata sekitar dan pola partikel yang muncul. |
-| 下着 / 上着 | 下着 cocok untuk pakaian dalam; 上着 cocok untuk jaket; pakaian luar. Bedakan dari kata sekitar dan pola partikel yang muncul. |
-| 上着 / 歯をみがく | 上着 cocok untuk jaket; pakaian luar; 歯をみがく cocok untuk menyikat gigi. Bedakan dari kata sekitar dan pola partikel yang muncul. |
+| まゆ／まゆげ / まぶた | まゆ／まゆげ cocok untuk alis; まぶた cocok untuk kelopak mata. Gunakan kata sekitar dan partikel sebagai petunjuk. |
+| シャワーを浴びる / 下着 | シャワーを浴びる cocok untuk mandi shower; 下着 cocok untuk pakaian dalam. Gunakan kata sekitar dan partikel sebagai petunjuk. |
+| 下着 / 上着 | 下着 cocok untuk pakaian dalam; 上着 cocok untuk jaket; pakaian luar. Gunakan kata sekitar dan partikel sebagai petunjuk. |
+| 上着 / 歯をみがく | 上着 cocok untuk jaket; pakaian luar; 歯をみがく cocok untuk menyikat gigi. Gunakan kata sekitar dan partikel sebagai petunjuk. |
 
 ## Kesalahan Umum
 
-Jangan memilih kata hanya karena terjemahannya mirip. Untuk kosakata N3, yang sering menentukan makna adalah pasangan katanya: objek dengan を, keadaan dengan が, tujuan dengan に, atau alat/tempat dengan で.
+Jangan menerjemahkan kata satu per satu tanpa melihat frasa lengkap. Banyak kata terlihat mirip dalam bahasa Indonesia, tetapi berbeda saat dipasangkan dengan partikel, benda, atau kata kerja tertentu.
 
-Strategi cepat: baca satu frasa penuh dulu, lalu baru cocokkan arti. Jika kata berupa frasa kerja, hafalkan bersama partikelnya.
+Strategi cepat: cari dulu kata intinya, lalu cek partikel dan kata kerja di dekatnya. Jika bentuknya frasa kerja, hafalkan bersama pasangan katanya, bukan sebagai kata tunggal.
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
 
 ::MiniPractice
 ---
@@ -186,7 +187,7 @@ explanation: "下着 benar. 下 berarti bawah; 上着 adalah jaket/outerwear."
 
 ::MiniPractice
 ---
-question: "Bagian di atas mata yang dibentuk dengan makeup."
+question: "Saya merapikan alis."
 sentence: "____を整える。"
 optionA: "まゆ／まゆげ"
 optionB: "まぶた"

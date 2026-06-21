@@ -22,12 +22,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa memilih kata yang tepat untuk menyatakan perasaan seperti senang, sedih, kesepian, malu, khawatir, lega, atau kaget. Kata-kata ini sering muncul saat menjawab pertanyaan tentang kabar, pengalaman, hasil ujian, atau rencana yang berubah.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat menyatakan perasaan, reaksi, dan keadaan hati dalam percakapan sehari-hari.
 
-Fokus hari ini adalah membedakan kata sifat perasaan, kata benda seperti 気持ち, dan kata kerja する seperti 心配する, 安心する, dan びっくりする.
+Fokus hari ini bukan hanya menghafal arti kata seperti 気持ち, うれしい, 悲しい, dan 寂しい, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> perhatikan apakah kata itu dipakai sebagai sifat sebelum です, sebagai kata kerja する, atau sebagai ekspresi tetap seperti 残念です dan 仕方がない.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -80,6 +80,10 @@ Fokus hari ini adalah membedakan kata sifat perasaan, kata benda seperti 気持�
   <span>びっくりする</span>
 </div>
 
+Bayangkan kamu sedang membaca atau mendengar situasi tentang kata untuk menyatakan perasaan: kata intinya bisa berupa 気持ち, うれしい, dan 悲しい; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
+
+
 Kata-kata ini biasanya bergerak dari sebab menuju reaksi: kabar baik membuat うれしい, kabar buruk bisa 残念 atau 悲しい, sendirian membuat 寂しい, hal mengejutkan membuat びっくりする, dan informasi yang jelas bisa mengubah 心配する menjadi 安心する.
 
 ## Catatan Pemakaian
@@ -87,7 +91,7 @@ Kata-kata ini biasanya bergerak dari sebab menuju reaksi: kabar baik membuat う
 ### Kata Sifat Perasaan
 
 - うれしい, 悲しい, 寂しい, つまらない, 面白い, 恥ずかしい, dan 気持ち悪い bisa langsung dipakai dengan です.
-- 残念な dan 嫌な adalah な-adjective. Untuk kalimat sederhana, gunakan 残念です atau 嫌です.
+- 残念な dan 嫌な adalah kata sifat-na. Untuk kalimat sederhana, gunakan 残念です atau 嫌です.
 - 気持ち悪い bisa berarti "merasa mual" saat subjeknya orang, atau "menjijikkan" saat membahas benda/situasi.
 
 ### Kata Kerja する
@@ -132,11 +136,11 @@ Kata-kata ini biasanya bergerak dari sebab menuju reaksi: kabar baik membuat う
 
 Jangan menerjemahkan semua kata perasaan sebagai "senang" atau "sedih". Cari pemicunya: kabar baik, kesepian, rasa malu, kondisi badan, atau perubahan dari khawatir menjadi lega.
 
-Untuk する-verb, jangan lupa bentuknya berubah seperti kata kerja: 心配しています, 安心しました, びっくりしました.
+Untuk kata kerja する, jangan lupa bentuknya berubah seperti kata kerja: 心配しています, 安心しました, びっくりしました.
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
 
 ::MiniPractice
 ---

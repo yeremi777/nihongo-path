@@ -22,12 +22,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa memilih kata sifat N4 yang tepat untuk rasa, warna, ketebalan benda, cuaca, suhu benda, kedalaman, ukuran diameter, kekuatan, suasana, dan rasa makanan.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat memilih kata sifat berpasangan sesuai benda, rasa, cuaca, kedalaman, ukuran, dan suasana.
 
-Topik ini tampak seperti daftar lawan kata, tetapi yang paling penting adalah mencocokkan kata sifat dengan benda yang diterangkan.
+Fokus hari ini bukan hanya menghafal arti kata seperti 濃い, 濃いコーヒー, 濃い色, dan 薄い, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> jangan menerjemahkan "tebal/panas/ramai" secara langsung. 厚い, 暑い, 熱い, 太い, にぎやかな, dan うるさい dipakai untuk jenis konteks yang berbeda.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -99,6 +99,10 @@ Topik ini tampak seperti daftar lawan kata, tetapi yang paling penting adalah me
   <span>うるさい・静かな</span>
 </div>
 
+Bayangkan kamu sedang membaca atau mendengar situasi tentang kata sifat berpasangan: kata intinya bisa berupa 濃い, 濃いコーヒー, dan 濃い色; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
+
+
 Hubungan katanya bergantung pada benda: kopi dan warna memakai 濃い／薄い, kertas memakai 厚い／薄い, cuaca memakai 暑い, minuman memakai 熱い, sungai memakai 浅い／深い, pena memakai 細い／太い, dan tempat bisa うるさい, にぎやかな, atau 静かな.
 
 ## Catatan Pemakaian
@@ -155,7 +159,7 @@ Saat melihat あつい, cek kanjinya dan benda yang diterangkan sebelum memilih 
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
 
 ::MiniPractice
 ---
@@ -192,7 +196,7 @@ explanation: "太い benar untuk diameter pena. 厚い dipakai untuk ketebalan b
 
 ::MiniPractice
 ---
-question: "Jalan di depan stasiun ramai dan hidup."
+question: "Di depan stasiun ada jalan yang ramai."
 sentence: "駅の前は____通りです。"
 optionA: "にぎやかな"
 optionB: "うるさい"

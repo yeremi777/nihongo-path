@@ -22,12 +22,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa menjawab pertanyaan どの人？ dengan ciri usia, rambut, kacamata, topi, payung, sifat, kemiripan, dan kegiatan.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat menggambarkan penampilan, pakaian yang dipakai, sifat, kemiripan, dan tindakan orang.
 
-Kosakata ini berguna saat mencari seseorang di tempat ramai, menjelaskan teman, atau membaca deskripsi orang dalam soal JLPT.
+Fokus hari ini bukan hanya menghafal arti kata seperti 若い, 年を取った, 年寄り, dan お年寄り, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kata "memakai" berubah menurut benda: めがねをかける, ぼうしをかぶる, dan かさをさす.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -88,6 +88,10 @@ Kosakata ini berguna saat mencari seseorang di tempat ramai, menjelaskan teman, 
   <span>勉強中</span>
 </div>
 
+Bayangkan kamu sedang membaca atau mendengar situasi tentang penampilan dan tindakan orang: kata intinya bisa berupa 若い, 年を取った, dan 年寄り; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
+
+
 Untuk menemukan "orang yang mana", mulai dari ciri yang terlihat: muda/tua, kurus, rambut panjang, kacamata/topi/payung. Setelah itu tambahkan sifat atau kegiatan: まじめな人, 歌っている人, 勉強中の人.
 
 ## Catatan Pemakaian
@@ -145,7 +149,7 @@ Untuk 似ている, jangan memakai を. Orang pembanding memakai に: 母に似�
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
 
 ::MiniPractice
 ---

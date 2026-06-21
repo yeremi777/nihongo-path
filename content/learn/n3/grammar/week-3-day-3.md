@@ -1,6 +1,6 @@
 ---
 title: "勉強するつもりでしたが…"
-description: "Belajar pola grammar N3 untuk membedakan niat, dugaan logis, kewajiban moral, dan ingatan kebiasaan masa lalu."
+description: "Belajar memahami grammar N3 untuk membedakan niat, dugaan logis, kewajiban moral, dan ingatan kebiasaan masa lalu."
 level: "N3"
 category: "grammar"
 topic: "勉強するつもりでしたが…"
@@ -55,12 +55,12 @@ Alurnya bisa dibaca seperti ini: `つもり` berasal dari **niat pembicara**, `�
 | Fungsi | Kerangka kalimat | Yang perlu dicek |
 |---|---|---|
 | Niat | （V辞書形）/（Vない）つもりだ | Apakah ini rencana pribadi? |
-| Dugaan | （plain form）はずだ | Apakah ada alasan logis? |
+| Dugaan | （bentuk biasa）はずだ | Apakah ada alasan logis? |
 | Kewajiban | （V辞書形）べきだ | Apakah ini saran moral/sosial? |
 | Kenangan | （Vた）ものだ | Apakah pembicara mengenang masa lalu? |
 | Norma | （V辞書形）ものではない | Apakah ini nasihat umum? |
 
-Di tabel ini, `（V）` adalah verba/kata kerja. `（plain form）` berarti bentuk biasa: verba biasa, adjektiva-i biasa, adjektiva-na + `な`, dan nomina + `の` sebelum `はずだ`.
+Di tabel ini, `（V）` adalah verba/kata kerja. `（bentuk biasa）` berarti bentuk biasa: verba biasa, adjektiva-i biasa, adjektiva-na + `な`, dan nomina + `の` sebelum `はずだ`.
 
 ## Cara Membentuk Pola
 
@@ -159,7 +159,7 @@ Di tabel ini, `（V）` adalah verba/kata kerja. `（plain form）` berarti bent
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat. Perhatikan konteks, bentuk sebelum pola, dan nuansa kalimat sebelum memilih.
 
 ::MiniPractice
 ---

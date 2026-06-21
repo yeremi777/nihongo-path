@@ -21,12 +21,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca kata keterangan yang menjelaskan derajat, frekuensi, jumlah, atau perubahan mendadak.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat membedakan kata keterangan derajat, frekuensi, jumlah, dan kejadian mendadak.
 
-Kata seperti 突然, かなり, ほとんど, dan いっぺんに membantu pembaca memahami seberapa sering, seberapa kuat, atau seberapa cepat sesuatu terjadi.
+Fokus hari ini bukan hanya menghafal arti kata seperti 突然, いきなり, たいてい, dan めったに, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> cari predikat yang dijelaskan oleh adverb. Jangan menerjemahkan adverb sendirian tanpa melihat verba atau kata sifat setelahnya.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -63,6 +63,10 @@ Kata keterangan hari ini menjelaskan skala: kapan terjadi, seberapa sering, sebe
   <span>いっぺんに</span>
 </div>
 
+Bayangkan kamu sedang membaca atau mendengar situasi tentang kata keterangan tingkat intensitas: kata intinya bisa berupa 突然, いきなり, dan たいてい; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
+
+
 ## Catatan Pemakaian
 
 - **Mendadak:** 突然 dan いきなり sama-sama mendadak, tetapi いきなり lebih percakapan dan terasa mengejutkan.
@@ -71,10 +75,10 @@ Kata keterangan hari ini menjelaskan skala: kapan terjadi, seberapa sering, sebe
 
 ## Pola yang Sering Muncul
 
-- **Adverb + V:** 突然電話が鳴る.
+- **（Adv）＋（V）:** 突然電話が鳴る.
 - **Adverb + adjective:** かなり難しい.
 - **ほとんど + negative:** ほとんど残っていない.
-- **NをいっぺんにV:** melakukan objek sekaligus.
+- **（N）をいっぺんにV:** melakukan objek sekaligus.
 
 ## Contoh Kalimat
 
@@ -98,47 +102,49 @@ Kata keterangan hari ini menjelaskan skala: kapan terjadi, seberapa sering, sebe
 
 ## Mini Practice
 
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
+
 ::MiniPractice
 ---
-question: "Telepon berbunyi mendadak."
+question: "Telepon berbunyi tanpa diduga."
 sentence: "____電話が鳴った。"
 optionA: "突然"
 optionB: "ほとんど"
 correct: "突然"
-explanation: "突然 menunjukkan kejadian mendadak."
+explanation: "突然 benar karena 電話が鳴った adalah kejadian yang terjadi mendadak. ほとんど berarti hampir/nyaris dan tidak cocok di sini."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Mengerjakan sekaligus."
+question: "Saya membereskan PR sekaligus."
 sentence: "宿題を____片付ける。"
 optionA: "いっぺんに"
 optionB: "たいてい"
 correct: "いっぺんに"
-explanation: "いっぺんに berarti sekaligus."
+explanation: "いっぺんに benar karena 片付ける menunjukkan tindakan dibereskan sekaligus. たいてい berarti biasanya."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Masalahnya cukup sulit."
+question: "Ini soal yang cukup sulit."
 sentence: "____難しい問題です。"
 optionA: "かなり"
 optionB: "めったに"
 correct: "かなり"
-explanation: "かなり menerangkan derajat sifat 難しい."
+explanation: "かなり benar karena menerangkan derajat sifat 難しい. めったに biasanya dipakai dengan bentuk negatif untuk 'jarang'."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Guru tiba-tiba mengajukan pertanyaan."
+question: "Saya tiba-tiba ditanya oleh guru."
 sentence: "先生に____質問された。"
 optionA: "いきなり"
 optionB: "しばしば"
 correct: "いきなり"
-explanation: "いきなり menunjukkan kejadian tiba-tiba dan mengejutkan."
+explanation: "いきなり benar karena menunjukkan kejadian tiba-tiba yang mengejutkan. しばしば menunjukkan frekuensi 'sering'."
 ---
 ::
 
@@ -149,7 +155,7 @@ sentence: "この言葉は新聞で____見る。"
 optionA: "しばしば"
 optionB: "いきなり"
 correct: "しばしば"
-explanation: "しばしば berarti sering kali; 見る memberi konteks frekuensi."
+explanation: "しばしば benar karena 見る di sini membicarakan frekuensi kemunculan. いきなり bukan frekuensi, tetapi kejadian tiba-tiba."
 ---
 ::
 

@@ -1,6 +1,6 @@
 ---
 title: "聞いてみるしかない"
-description: "Belajar pola grammar N3 untuk mengingat kembali informasi, menyatakan satu-satunya pilihan, melaporkan kabar kasual, dan memberi alasan emosional."
+description: "Belajar memahami grammar N3 untuk mengingat kembali informasi, menyatakan satu-satunya pilihan, melaporkan kabar kasual, dan memberi alasan emosional."
 level: "N3"
 category: "grammar"
 topic: "聞いてみるしかない"
@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali dan memakai pola pada topik **聞いてみるしかない** dalam konteks bacaan, percakapan, dan penjelasan N3. Fokusnya bukan hanya arti terjemahan, tetapi juga alasan memilih pola yang tepat.
+Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N3 untuk mengingat kembali informasi, menyatakan satu-satunya pilihan, melaporkan kabar kasual, dan memberi alasan emosional. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan nuansa konteks.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> cek apakah pembicara sedang mengingat, menyimpulkan tidak ada pilihan lain, menyampaikan katanya, atau memberi alasan kasual. Keempatnya sering muncul dalam percakapan.
@@ -51,13 +51,13 @@ Di akhir pelajaran ini, kamu bisa mengenali dan memakai pola pada topik **聞い
 
 | Fungsi | Kerangka kalimat | Yang perlu dicek |
 |---|---|---|
-| Ingat-ingat | （plain form）っけ | Apakah pembicara mencoba mengingat? |
+| Ingat-ingat | （bentuk biasa）っけ | Apakah pembicara mencoba mengingat? |
 | Tidak ada pilihan | （V辞書形）しかない | Apakah hanya tindakan itu yang tersisa? |
-| Kabar kasual | （plain form）んだって | Apakah informasi berasal dari orang lain? |
+| Kabar kasual | （bentuk biasa）んだって | Apakah informasi berasal dari orang lain? |
 | Kutipan isi | （N）だって | Apakah isi ucapannya dilaporkan singkat? |
-| Alasan emosional | （clause）んだもん／もの | Apakah alasannya terdengar kasual dan emosional? |
+| Alasan emosional | （klausa）んだもん／もの | Apakah alasannya terdengar kasual dan emosional? |
 
-Di tabel ini, `（A）` dan `（B）` menandai pihak pertama dan pihak kedua dalam hubungan kalimat, `（N）` adalah nomina atau frasa nomina, `（V）` adalah verba, `（Adj）` adalah adjektiva, `（clause）` dan `（plain form）` adalah klausa atau bentuk biasa, `（Sentence A）` dan `（Sentence B）` adalah dua kalimat yang dihubungkan, `（Option A）` dan `（Option B）` adalah dua pilihan, sedangkan `（question）`, `（number）`, `（predicate）`, dan `（result）` menandai slot pertanyaan, angka, predikat, dan hasil.
+Simbol di tabel ini hanya penanda slot. `（N）` berarti nomina atau frasa nomina, `（V）` berarti verba, `（Adj）` berarti adjektiva, `（klausa）` atau `（bentuk biasa）` berarti klausa atau bentuk biasa, dan pasangan seperti `（A）／（B）` atau `（Kalimat A）／（Kalimat B）` dipakai untuk membedakan dua sisi kalimat.
 
 ## Cara Membentuk Pola
 
@@ -81,7 +81,7 @@ Di tabel ini, `（A）` dan `（B）` menandai pihak pertama dan pihak kedua dal
 | だって | kutipan info | 明日は休みだって |
 | もん／もの | alasan emosional | だって忙しいんだもん |
 
-Sebelum membaca contoh panjang, ambil bagian yang berubah lebih dulu: apakah slotnya `（N）`, `（V辞書形）`, `（V普通形）`, `（Vますstem）`, `（Adj）`, atau satu `（clause）` utuh. Setelah itu baru cek partikel, bentuk negatif, dan hubungan antarbagian kalimat.
+Saat membangun kalimat, jangan mulai dari terjemahan kata per kata. Tentukan dulu slot yang berubah, lalu cek partikel, bentuk akhir, dan hubungan antarbagian kalimat.
 
 ## Bangun Kalimat Bertahap
 
@@ -93,7 +93,7 @@ Sebelum membaca contoh panjang, ambil bagian yang berubah lebih dulu: apakah slo
 | Katanya materi sampai 50 halaman | 50ページまで | だって | 試験の範囲は50ページまでだって。 |
 | Tidak mau karena tidak enak | まずい | まずいんだもん | だって、この薬はまずいんだもん。 |
 
-Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pecah dulu menjadi bahan, bentuk pola, lalu kalimat jadi.
+Bagian ini menghubungkan rumus dan contoh kalimat. Mulai dari bahan pendeknya dulu, lalu cek fungsi pola sebelum membaca kalimat lengkap.
 
 ## Catatan Pemakaian
 
@@ -118,10 +118,10 @@ Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pe
 |---|---|---|
 | （N）だったっけ | （N）, ya? | 来週だったっけ |
 | （V辞書形）しかない | tidak ada pilihan selain （V） | 聞くしかない |
-| （plain form）んだって | katanya | 結婚しているんだって |
+| （bentuk biasa）んだって | katanya | 結婚しているんだって |
 | （N）なんだって | katanya （N） | 学生なんだって |
 | （N）だって | katanya （N） | 明日は休みだって |
-| （clause）んだもん | soalnya | 忙しいんだもん |
+| （klausa）んだもん | soalnya | 忙しいんだもん |
 
 ## Contoh Kalimat
 
@@ -154,7 +154,7 @@ Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pe
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat. Perhatikan konteks, bentuk sebelum pola, dan nuansa kalimat sebelum memilih.
 
 ::MiniPractice
 ---

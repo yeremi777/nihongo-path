@@ -1,6 +1,6 @@
 ---
 title: "一日に二回、歯をみがきます。"
-description: "Belajar pola grammar N4 untuk saya menggosok gigi dua kali sehari dalam konteks belajar, percakapan, dan instruksi sederhana."
+description: "Belajar memahami grammar N4 untuk menyatakan tempat aksi, frekuensi seperti dua kali sehari, bahan asal, jumlah masing-masing, dan perbandingan sederhana."
 level: "N4"
 category: "grammar"
 topic: "一日に二回、歯をみがきます。"
@@ -22,27 +22,27 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa memakai pola N4 dalam topik **一日に二回、歯をみがきます。** untuk partikel dan perbandingan dasar. Fokusnya adalah memilih partikel, bentuk verba, atau ekspresi yang sesuai dengan konteks kalimat.
+Di akhir pelajaran ini, kamu bisa memakai pola N4 dalam topik **一日に二回、歯をみがきます。** untuk partikel dan perbandingan dasar. Fokusnya adalah memahami alasan memilih pola: partikel apa yang menjadi petunjuk, bentuk apa yang berubah, dan konteks apa yang sedang dibicarakan.
 
 Kamu juga akan membedakan pola yang mirip agar tidak menerjemahkan langsung dari bahasa Indonesia tanpa melihat petunjuk bentuk Jepangnya.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca fungsi komunikasinya dulu, lalu cek bentuk sebelum dan sesudah pola. Banyak kesalahan N4 muncul karena arti Indonesianya mirip, tetapi partikel atau bentuk akhirnya berbeda.
+  <strong>Fokus hari ini:</strong> jangan mulai dari terjemahan kata per kata. Cari dulu fungsi kalimatnya, lalu cek partikel, bentuk verba, dan nuansa yang membuat satu pola lebih tepat daripada pola lain.
 </div>
 
 ## Pola Hari Ini
 
 | Fungsi | Pola | Arti praktis | Kapan dipakai |
 |---|---|---|---|
-| Di | 〜で | Di ~; tempat terjadinya aksi | Dipakai saat ingin menyatakan di ~; tempat terjadinya aksi dengan bentuk （Place） + で + （V）. |
-| Bekerja di/untuk | 〜に勤める | Bekerja di/untuk ~ | Dipakai saat ingin menyatakan bekerja di/untuk ~ dengan bentuk （Company/Place） + に勤める. |
-| Terbuat dari | 〜から | Terbuat dari ~; bahan asal | Dipakai saat ingin menyatakan terbuat dari ~; bahan asal dengan bentuk （N） + から + 作る. |
-| Per | 〜に | Per ~; frekuensi dalam rentang waktu | Dipakai saat ingin menyatakan per ~; frekuensi dalam rentang waktu dengan bentuk （Time） + に + number/（Counter）. |
-| Bahkan | 〜も | Bahkan ~; sebanyak ~ | Dipakai saat ingin menyatakan bahkan ~; sebanyak ~ dengan bentuk （N）/（Quantity） + も. |
-| Masing-masing | 〜ずつ | Masing-masing; tiap kali; jumlah yang sama | Dipakai saat ingin menyatakan masing-masing; tiap kali; jumlah yang sama dengan bentuk （Counter） + ずつ. |
-| Tidak se seperti | 〜ほど〜ない | Tidak se~ seperti ~ | Dipakai saat ingin menyatakan tidak se~ seperti ~ dengan bentuk （N1）は（N2）ほど + （Adj negatif）. |
-| Partikel + は/も untuk kontras atau penekanan | 〜では・〜には・〜からも | Partikel + は/も untuk kontras atau penekanan | Dipakai saat ingin menyatakan partikel + は/も untuk kontras atau penekanan dengan bentuk Particle + は／も. |
-| Modifikasi kata benda | 名詞修飾 | Modifikasi kata benda; penjelas sebelum nomina | Dipakai saat ingin menyatakan modifikasi kata benda; penjelas sebelum nomina dengan bentuk Modifier + （N）. |
+| Tempat aksi | 〜で | di tempat tertentu | saat tindakan terjadi di suatu lokasi |
+| Tempat kerja | 〜に勤める | bekerja di/untuk | saat menyebut perusahaan atau tempat kerja tetap |
+| Bahan asal | 〜から | terbuat dari | saat bahan asal berubah bentuk dan tidak terlihat langsung |
+| Frekuensi | 〜に | per / dalam rentang | saat menyebut berapa kali dalam satu waktu |
+| Jumlah mengejutkan | 〜も | bahkan / sampai sebanyak | saat jumlahnya terasa lebih besar dari dugaan |
+| Jumlah sama | 〜ずつ | masing-masing / tiap kali | saat jumlah dibagi rata atau diulang sama |
+| Perbandingan negatif | 〜ほど〜ない | tidak se~ seperti | saat membandingkan dengan bentuk negatif |
+| Kontras/penekanan | 〜では・〜には・〜からも | di/pada/dari juga atau secara kontras | saat は atau も menempel setelah partikel lain |
+| Pewatas nomina | 名詞修飾 | penjelas sebelum nomina | saat seluruh penjelasan diletakkan sebelum benda yang dijelaskan |
 
 ## Peta Pola
 
@@ -62,52 +62,52 @@ Pola hari ini saling terhubung oleh fungsi **partikel dan perbandingan dasar**. 
 
 ## Cara Membentuk Pola
 
-Simbol utama: （N）= nomina, （V）= verba, （Clause）= klausa, （いAdj）= kata sifat-i, dan （なAdj）= kata sifat-na.
+Simbol utama: （N）= nomina, （V）= verba, （Klausa）= klausa, （いAdj）= kata sifat-i, dan （なAdj）= kata sifat-na.
 
 | Pola | Bentuk dasar | Catatan bentuk |
 |---|---|---|
-| 〜で | （Place） + で + （V） | Gunakan bentuk ini untuk di ~; tempat terjadinya aksi. |
-| 〜に勤める | （Company/Place） + に勤める | Gunakan bentuk ini untuk bekerja di/untuk ~. |
-| 〜から | （N） + から + 作る | Gunakan bentuk ini untuk terbuat dari ~; bahan asal. |
-| 〜に | （Time） + に + number/（Counter） | Gunakan bentuk ini untuk per ~; frekuensi dalam rentang waktu. |
-| 〜も | （N）/（Quantity） + も | Gunakan bentuk ini untuk bahkan ~; sebanyak ~. |
-| 〜ずつ | （Counter） + ずつ | Gunakan bentuk ini untuk masing-masing; tiap kali; jumlah yang sama. |
-| 〜ほど〜ない | （N1）は（N2）ほど + （Adj negatif） | Gunakan bentuk ini untuk tidak se~ seperti ~. |
-| 〜では・〜には・〜からも | Particle + は／も | Gunakan bentuk ini untuk partikel + は/も untuk kontras atau penekanan. |
-| 名詞修飾 | Modifier + （N） | Gunakan bentuk ini untuk modifikasi kata benda; penjelas sebelum nomina. |
+| 〜で | （Tempat） + で + （V） | tempat aksi terjadi |
+| 〜に勤める | （Perusahaan/Tempat） + に勤める | perusahaan/tempat kerja tetap |
+| 〜から | （N） + から + 作る | bahan asal yang berubah bentuk |
+| 〜に | （Waktu） + に + number/（Satuan hitung） | frekuensi dalam satu rentang waktu |
+| 〜も | （N）/（Jumlah） + も | jumlah yang terasa mengejutkan |
+| 〜ずつ | （Satuan hitung） + ずつ | jumlah yang dibagi/diulang sama |
+| 〜ほど〜ない | （N1）は（N2）ほど + （Adj negatif） | perbandingan negatif |
+| 〜では・〜には・〜からも | Partikel + は／も | kontras atau tambahan setelah partikel |
+| 名詞修飾 | Pewatas + （N） | penjelas diletakkan sebelum nomina |
 
 ## Bangun Kalimat Bertahap
 
 | Langkah | Jepang | Fungsi |
 |---|---|---|
-| Bahan | （Place） + で + （V） | Bentuk untuk di |
+| Bahan | （Tempat） + で + （V） | bentuk untuk di |
 | Kalimat | 図書館で勉強します。 | Di ~; tempat terjadinya aksi |
-| Bahan | （Company/Place） + に勤める | Bentuk untuk bekerja di/untuk |
+| Bahan | （Perusahaan/Tempat） + に勤める | bentuk untuk bekerja di/untuk |
 | Kalimat | 父は銀行に勤めています。 | Bekerja di/untuk ~ |
-| Bahan | （N） + から + 作る | Bentuk untuk terbuat dari |
+| Bahan | （N） + から + 作る | bentuk untuk terbuat dari |
 | Kalimat | ワインはぶどうから作ります。 | Terbuat dari ~; bahan asal |
-| Bahan | （Time） + に + number/（Counter） | Bentuk untuk per |
+| Bahan | （Waktu） + に + number/（Satuan hitung） | bentuk untuk per |
 | Kalimat | 一日に二回、歯をみがきます。 | Per ~; frekuensi dalam rentang waktu |
-| Bahan | （N）/（Quantity） + も | Bentuk untuk bahkan |
+| Bahan | （N）/（Jumlah） + も | bentuk untuk bahkan |
 | Kalimat | ビールを三本も飲みました。 | Bahkan ~; sebanyak ~ |
 
-Bagian ini menjembatani rumus dan kalimat penuh. Ambil bentuk pendeknya dulu, lalu masukkan ke kalimat yang punya konteks jelas.
+Bagian ini menjembatani rumus dan kalimat penuh. Ambil bentuk pendeknya dulu, lalu pastikan contoh kalimatnya benar-benar memakai fungsi pola yang sedang dipelajari.
 
 ## Catatan Pemakaian
 
 ### 〜で
 
-Pola ini dipakai untuk **di ~; tempat terjadinya aksi**. Bentuk intinya adalah （Place） + で + （V）.
+Pola ini dipakai untuk **di ~; tempat terjadinya aksi**. Bentuk intinya adalah （Tempat） + で + （V）.
 
-Catatan praktis: Marks where an action is done. Do not confuse dengan に untuk destination, existence, atau fixed verb partner.
+Catatan praktis: Menandai tempat suatu aksi dilakukan. Jangan tertukar dengan に untuk tujuan, keberadaan, atau pasangan verba tetap.
 
 Contoh inti: 図書館で勉強します。
 
 ### 〜に勤める
 
-Pola ini dipakai untuk **bekerja di/untuk ~**. Bentuk intinya adalah （Company/Place） + に勤める.
+Pola ini dipakai untuk **bekerja di/untuk ~**. Bentuk intinya adalah （Perusahaan/Tempat） + に勤める.
 
-Catatan praktis: Gunakan に dengan 勤める. More formal dan employment-focused than 働く.
+Catatan praktis: Gunakan に dengan 勤める. Lebih formal dan berfokus pada status kerja daripada 働く.
 
 Contoh inti: 父は銀行に勤めています。
 
@@ -115,55 +115,55 @@ Contoh inti: 父は銀行に勤めています。
 
 Pola ini dipakai untuk **terbuat dari ~; bahan asal**. Bentuk intinya adalah （N） + から + 作る.
 
-Catatan praktis: Used saat the original material is transformed dan not visually obvious.
+Catatan praktis: Dipakai saat bahan asalnya berubah bentuk dan tidak terlihat langsung.
 
 Contoh inti: ワインはぶどうから作ります。
 
 ### 〜に
 
-Pola ini dipakai untuk **per ~; frekuensi dalam rentang waktu**. Bentuk intinya adalah （Time） + に + number/（Counter）.
+Pola ini dipakai untuk **per ~; frekuensi dalam rentang waktu**. Bentuk intinya adalah （Waktu） + に + number/（Satuan hitung）.
 
-Catatan praktis: 一日に二回 berarti “twice a day.”
+Catatan praktis: 一日に二回 berarti “dua kali sehari”.
 
 Contoh inti: 一日に二回、歯をみがきます。
 
 ### 〜も
 
-Pola ini dipakai untuk **bahkan ~; sebanyak ~**. Bentuk intinya adalah （N）/（Quantity） + も.
+Pola ini dipakai untuk **bahkan ~; sebanyak ~**. Bentuk intinya adalah （N）/（Jumlah） + も.
 
-Catatan praktis: Emphasizes an extreme, surprising, atau large amount.
+Catatan praktis: Menekankan jumlah yang ekstrem, mengejutkan, atau besar.
 
 Contoh inti: ビールを三本も飲みました。
 
 ### 〜ずつ
 
-Pola ini dipakai untuk **masing-masing; tiap kali; jumlah yang sama**. Bentuk intinya adalah （Counter） + ずつ.
+Pola ini dipakai untuk **masing-masing; tiap kali; jumlah yang sama**. Bentuk intinya adalah （Satuan hitung） + ずつ.
 
-Catatan praktis: menunjukkan equal distribution atau repeated equal amount.
+Catatan praktis: menunjukkan pembagian jumlah yang sama atau jumlah yang sama setiap kali.
 
 Contoh inti: 一人に二つずつ配ります。
 
 ### 〜ほど〜ない
 
-Pola ini dipakai untuk **tidak se~ seperti ~**. Bentuk intinya adalah （N1）は（N2）ほど + Adj(neg).
+Pola ini dipakai untuk **tidak se~ seperti ~**. Bentuk intinya adalah （N1）は（N2）ほど + Adj negatif.
 
-Catatan praktis: Requires a negative ending. Often implies N2 is more ~ than N1.
+Catatan praktis: Perlu akhir negatif. Sering menyiratkan N2 lebih ~ daripada N1.
 
 Contoh inti: 日本はインドネシアほど暑くないです。
 
 ### 〜では・〜には・〜からも
 
-Pola ini dipakai untuk **partikel + は/も untuk kontras atau penekanan**. Bentuk intinya adalah Particle + は／も.
+Pola ini dipakai untuk **partikel + は/も untuk kontras atau penekanan**. Bentuk intinya adalah Partikel + は／も.
 
-Catatan praktis: は adds contrast. も adds “also/even” setelah another particle.
+Catatan praktis: は menambah kontras. も menambah makna “juga/bahkan” setelah partikel lain.
 
 Contoh inti: ここではたばこを吸わないでください。
 
 ### 名詞修飾
 
-Pola ini dipakai untuk **modifikasi kata benda; penjelas sebelum nomina**. Bentuk intinya adalah Modifier + （N）.
+Pola ini dipakai untuk **modifikasi kata benda; penjelas sebelum nomina**. Bentuk intinya adalah Pewatas + （N）.
 
-Catatan praktis: Put the full description sebelum the noun.
+Catatan praktis: Letakkan seluruh deskripsi sebelum nomina.
 
 Contoh inti: 姉にもらったバッグを使っています。
 
@@ -171,15 +171,15 @@ Contoh inti: 姉にもらったバッグを使っています。
 
 | Pola | Arti praktis | Contoh konteks |
 |---|---|---|
-| （Place） + で + （V） | Di ~; tempat terjadinya aksi | 図書館で勉強します。 |
-| （Company/Place） + に勤める | Bekerja di/untuk ~ | 父は銀行に勤めています。 |
+| （Tempat） + で + （V） | Di ~; tempat terjadinya aksi | 図書館で勉強します。 |
+| （Perusahaan/Tempat） + に勤める | Bekerja di/untuk ~ | 父は銀行に勤めています。 |
 | （N） + から + 作る | Terbuat dari ~; bahan asal | ワインはぶどうから作ります。 |
-| （Time） + に + number/（Counter） | Per ~; frekuensi dalam rentang waktu | 一日に二回、歯をみがきます。 |
-| （N）/（Quantity） + も | Bahkan ~; sebanyak ~ | ビールを三本も飲みました。 |
-| （Counter） + ずつ | Masing-masing; tiap kali; jumlah yang sama | 一人に二つずつ配ります。 |
+| （Waktu） + に + number/（Satuan hitung） | Per ~; frekuensi dalam rentang waktu | 一日に二回、歯をみがきます。 |
+| （N）/（Jumlah） + も | Bahkan ~; sebanyak ~ | ビールを三本も飲みました。 |
+| （Satuan hitung） + ずつ | Masing-masing; tiap kali; jumlah yang sama | 一人に二つずつ配ります。 |
 | （N1）は（N2）ほど + （Adj negatif） | Tidak se~ seperti ~ | 日本はインドネシアほど暑くないです。 |
-| Particle + は／も | Partikel + は/も untuk kontras atau penekanan | ここではたばこを吸わないでください。 |
-| Modifier + （N） | Modifikasi kata benda; penjelas sebelum nomina | 姉にもらったバッグを使っています。 |
+| Partikel + は／も | Partikel + は/も untuk kontras atau penekanan | ここではたばこを吸わないでください。 |
+| Pewatas + （N） | Modifikasi kata benda; penjelas sebelum nomina | 姉にもらったバッグを使っています。 |
 
 ## Contoh Kalimat
 
@@ -188,34 +188,34 @@ Contoh inti: 姉にもらったバッグを使っています。
   <div><p class="jp">銀行に勤めています。</p><p>Saya bekerja di bank.</p></div>
   <div><p class="jp">日本はインドネシアほど暑くないです。</p><p>Jepang tidak sepanas Indonesia.</p></div>
   <div><p class="jp">姉にもらったバッグを使っています。</p><p>Saya memakai tas yang saya terima dari kakak perempuan saya.</p></div>
-  <div><p class="jp">父は銀行に勤めています。</p><p>Kalimat ini memakai 〜に勤める untuk arti bekerja di/untuk ~.</p></div>
-  <div><p class="jp">ワインはぶどうから作ります。</p><p>Kalimat ini memakai 〜から untuk arti terbuat dari ~; bahan asal.</p></div>
+  <div><p class="jp">父は銀行に勤めています。</p><p>Ayah saya bekerja di bank.</p></div>
+  <div><p class="jp">ワインはぶどうから作ります。</p><p>Wine dibuat dari anggur.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar
 
 | Pasangan | Cara membedakan |
 |---|---|
-| 〜で / 〜に | Bedakan dari fungsi utamanya: Action place dibanding destination/existence/target. Petunjuk pilihan: Gunakan で untuk where an action happens. gunakan に untuk where something exists, goes, atau attaches.. |
-| 〜で働く / 〜に勤める | Bedakan dari fungsi utamanya: Work at a place dibanding be employed by an organization. Petunjuk pilihan: Gunakan 働く dengan で untuk work location. gunakan 勤める dengan に untuk employer/company.. |
-| 〜から / 〜で | Bedakan dari fungsi utamanya: Source material dibanding visible material/tool. Petunjuk pilihan: Gunakan から saat the material changes form. gunakan で saat the material/tool is still directly felt.. |
-| 〜も / 〜ずつ | Bedakan dari fungsi utamanya: Surprising amount dibanding equal amount. Petunjuk pilihan: Gunakan も to emphasize “as many as.” gunakan ずつ untuk “each” atau “at a time.”. |
-| 〜ほど〜ない / 〜より | Bedakan dari fungsi utamanya: Negative comparison dibanding direct comparison. Petunjuk pilihan: Gunakan ほど〜ない untuk “not as ~ as.” gunakan より untuk direct “more than.”. |
+| 〜で / 〜に | Bedakan dari fungsi utamanya: Tempat aksi dibanding tujuan/keberadaan/target. Petunjuk pilihan: Gunakan で untuk tempat aksi terjadi. Gunakan に untuk tempat sesuatu berada, pergi, atau menempel. |
+| 〜で働く / 〜に勤める | Bedakan dari fungsi utamanya: Bekerja di lokasi dibanding bekerja/terdaftar di organisasi. Petunjuk pilihan: Gunakan 働く dengan で untuk lokasi kerja. Gunakan 勤める dengan に untuk perusahaan/tempat kerja. |
+| 〜から / 〜で | Bedakan dari fungsi utamanya: Bahan asal dibanding bahan/alat yang terlihat. Petunjuk pilihan: Gunakan から saat bahannya berubah bentuk. Gunakan で saat bahan/alatnya masih terasa langsung. |
+| 〜も / 〜ずつ | Bedakan dari fungsi utamanya: Jumlah mengejutkan dibanding jumlah yang sama rata. Petunjuk pilihan: Gunakan も untuk menekankan “sebanyak itu”. Gunakan ずつ untuk “masing-masing” atau “setiap kali”. |
+| 〜ほど〜ない / 〜より | Bedakan dari fungsi utamanya: Perbandingan negatif dibanding perbandingan langsung. Petunjuk pilihan: Gunakan ほど〜ない untuk “tidak se~”. Gunakan より untuk perbandingan langsung “lebih dari”. |
 
 ## Kesalahan Umum
 
 | Salah | Benar | Kenapa |
 |---|---|---|
-| 図書館に勉強します。 | 図書館で勉強します。 | Action place uses で |
-| 銀行で勤めています。 | 銀行に勤めています。 | 勤める takes に |
-| 日本はインドネシアほど暑いです。 | 日本はインドネシアほど暑くないです。 | ほど comparison needs negative ending |
-| バッグ姉にもらったを使っています。 | 姉にもらったバッグを使っています。 | Noun modifier comes sebelum the noun |
+| 図書館に勉強します。 | 図書館で勉強します。 | Tempat aksi memakai で |
+| 銀行で勤めています。 | 銀行に勤めています。 | 勤める memakai に |
+| 日本はインドネシアほど暑いです。 | 日本はインドネシアほど暑くないです。 | Perbandingan ほど perlu bentuk negatif |
+| バッグ姉にもらったを使っています。 | 姉にもらったバッグを使っています。 | Pewatas nomina diletakkan sebelum nominanya |
 
-Catatan untuk pembelajar Indonesia: In Indonesian, “di” can become either で or に in Japanese. Use **で** when the place is where an action happens. Use **に** when the place is a destination, existence point, target, or fixed partner of a verb like 勤める.
+Catatan untuk pembelajar Indonesia: “Di” dalam bahasa Indonesia bisa menjadi で atau に dalam bahasa Jepang. Pakai **で** saat tempatnya adalah lokasi aksi. Pakai **に** saat tempatnya adalah tujuan, titik keberadaan, target, atau pasangan tetap verba seperti 勤める.
 
 ## Mini Practice
 
-Pilih jawaban yang paling tepat untuk melengkapi kalimat. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat. Perhatikan petunjuk partikel, bentuk kata, dan konteks kalimat sebelum memilih.
 
 ::MiniPractice
 ---
@@ -224,7 +224,7 @@ sentence: "図書館____勉強します。"
 optionA: "で"
 optionB: "に"
 correct: "で"
-explanation: "で benar. Action place uses で"
+explanation: "で benar. Tempat aksi memakai で"
 ---
 ::
 
@@ -235,7 +235,7 @@ sentence: "銀行____勤めています。"
 optionA: "に"
 optionB: "で"
 correct: "に"
-explanation: "に benar. 勤める takes に"
+explanation: "に benar. 勤める memakai に"
 ---
 ::
 
@@ -246,29 +246,29 @@ sentence: "____を使っています。"
 optionA: "姉にもらったバッグ"
 optionB: "バッグ姉にもらった"
 correct: "姉にもらったバッグ"
-explanation: "姉にもらったバッグ benar. Noun modifier comes sebelum the noun"
+explanation: "姉にもらったバッグ benar. Pewatas nomina diletakkan sebelum nominanya"
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pola apa yang dipakai untuk arti: Di ~; tempat terjadinya aksi?"
-sentence: "例: 図書館で勉強します。 ポイント: ____"
-optionA: "〜で"
-optionB: "〜に勤める"
-correct: "〜で"
-explanation: "〜で benar karena kalimat contoh menunjukkan di ~; tempat terjadinya aksi."
+question: "Saya menggosok gigi dua kali sehari."
+sentence: "一日____二回、歯をみがきます。"
+optionA: "に"
+optionB: "で"
+correct: "に"
+explanation: "に benar karena frekuensi dalam satu rentang waktu memakai （Waktu）に + jumlah."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pola apa yang dipakai untuk arti: Bekerja di/untuk ~?"
-sentence: "例: 父は銀行に勤めています。 ポイント: ____"
-optionA: "〜に勤める"
-optionB: "〜から"
-correct: "〜に勤める"
-explanation: "〜に勤める benar karena kalimat contoh menunjukkan bekerja di/untuk ~."
+question: "Wine dibuat dari anggur."
+sentence: "ワインはぶどう____作ります。"
+optionA: "から"
+optionB: "で"
+correct: "から"
+explanation: "から benar karena bahan asalnya berubah bentuk dan tidak terlihat langsung."
 ---
 ::
 

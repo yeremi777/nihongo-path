@@ -22,12 +22,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membedakan 自動詞 dan 他動詞 seperti 下がる／下げる, 上がる／上げる, serta kata kerja perjalanan seperti 降りる, 上る, 乗る, 遅れる, dan 間に合う.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat membedakan pasangan kata kerja turun-naik, memasukkan-mengeluarkan, terlambat, dan sempat.
 
-Topik ini sering muncul saat membaca jadwal, harga, transportasi, instruksi kelas, atau percakapan tentang terlambat dan tepat waktu.
+Fokus hari ini bukan hanya menghafal arti kata seperti 下がる, 値段が下がる, 下げる, dan 値段を下げる, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kalau benda berubah sendiri, biasanya が. Kalau seseorang mengubah benda, biasanya を. Bandingkan 値段が下がる dan 値段を下げる.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -89,6 +89,10 @@ Topik ini sering muncul saat membaca jadwal, harga, transportasi, instruksi kela
   <span>遅れる・間に合う</span>
 </div>
 
+Bayangkan kamu sedang membaca atau mendengar situasi tentang kata kerja berpasangan: kata intinya bisa berupa 下がる, 値段が下がる, dan 下げる; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
+
+
 Peta hari ini membentuk pasangan: harga bisa naik/turun sendiri, orang bisa menaikkan/menurunkan harga, penumpang naik atau turun kendaraan, jumlah orang bertambah/berkurang, benda dikeluarkan/dimasukkan, dan jadwal bisa terlambat atau masih sempat.
 
 ## Catatan Pemakaian
@@ -145,7 +149,7 @@ Untuk transportasi, hafalkan sebagai pasangan partikel: 電車に乗る, 電車�
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
 
 ::MiniPractice
 ---

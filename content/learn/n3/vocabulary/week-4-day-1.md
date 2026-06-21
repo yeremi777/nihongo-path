@@ -21,12 +21,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca kosakata sekolah seperti mata pelajaran, jenis sekolah, kegiatan hadir/absen, jadwal, dan hitungan dasar.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat membaca mata pelajaran, jadwal, semester, kegiatan kelas, dan hitungan dasar.
 
-Fokus hari ini adalah melihat hubungan antara pelajaran, kegiatan siswa, dan benda kelas agar kalimat sekolah tidak dibaca kata per kata.
+Fokus hari ini bukan hanya menghafal arti kata seperti 科目, 教科, 得意な, dan 苦手な, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> bedakan kata untuk sekolah dengan kata untuk kerja. 通学する dipakai untuk pergi ke sekolah, sedangkan 通勤する untuk pergi kerja.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -94,6 +94,10 @@ Kata hari ini bergerak dari sekolah -> pelajaran -> jadwal -> tindakan kelas -> 
   <span>計算</span>
 </div>
 
+Bayangkan kamu sedang membaca atau mendengar situasi tentang pergi ke sekolah (1): kata intinya bisa berupa 科目, 教科, dan 得意な; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
+
+
 ## Catatan Pemakaian
 
 - **Pelajaran:** 得意な科目 dan 苦手な科目 sering dipakai untuk menyebut pelajaran yang kuat/lemah.
@@ -103,7 +107,7 @@ Kata hari ini bergerak dari sekolah -> pelajaran -> jadwal -> tindakan kelas -> 
 
 ## Pola yang Sering Muncul
 
-- **Nが得意／苦手です:** menyatakan kuat atau lemah dalam bidang tertentu.
+- **（N）が得意／苦手です:** menyatakan kuat atau lemah dalam bidang tertentu.
 - **バスで通学する:** で menunjukkan alat/cara.
 - **式に出席する:** に menandai acara yang dihadiri.
 - **合計を出す:** を menandai hasil/objek yang dihitung.
@@ -130,9 +134,11 @@ Kata hari ini bergerak dari sekolah -> pelajaran -> jadwal -> tindakan kelas -> 
 
 ## Mini Practice
 
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
+
 ::MiniPractice
 ---
-question: "Jadwal pelajaran semester ini perlu dicek."
+question: "Saya mengecek jadwal pelajaran semester ini."
 sentence: "今学期の____を確認する。"
 optionA: "時間割"
 optionB: "給食"
@@ -154,7 +160,7 @@ explanation: "通学 benar untuk sekolah. 通勤 dipakai untuk pergi kerja."
 
 ::MiniPractice
 ---
-question: "Hitungan perlu dijumlahkan."
+question: "Saya menghitung totalnya."
 sentence: "合計を____。"
 optionA: "出す"
 optionB: "けずる"
@@ -165,7 +171,7 @@ explanation: "合計を出す adalah kolokasi untuk mendapatkan total."
 
 ::MiniPractice
 ---
-question: "Pelajaran yang paling dikuasai adalah matematika."
+question: "Mata pelajaran yang saya kuasai adalah matematika."
 sentence: "得意な____は数学です。"
 optionA: "科目"
 optionB: "教科"
@@ -176,7 +182,7 @@ explanation: "科目 cocok untuk nama mata pelajaran tertentu seperti 数学."
 
 ::MiniPractice
 ---
-question: "Kategori pelajaran SD mencakup bahasa Jepang dan aritmetika."
+question: "Di mata pelajaran SD ada bahasa Jepang dan aritmetika."
 sentence: "小学校の____には国語や算数がある。"
 optionA: "教科"
 optionB: "科目"

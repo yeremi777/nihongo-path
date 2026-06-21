@@ -47,7 +47,7 @@ Fokus hari ini bukan hanya menghafal benda seperti 冷蔵庫 atau エアコン, 
 | 電子レンジ | でんしレンジ | microwave; dipakai dengan pola 電子レンジで温める. |
 | 冷蔵庫 | れいぞうこ | kulkas; sering dipakai dengan に入れる. |
 | ガスレンジ | ガスレンジ | kompor gas; fokus pada kompor gas sebagai alat memasak. |
-| ガスコンロ | ガスコンロ | kompor gas / tungku gas; コンロ menekankan unit tungku atau burner. |
+| ガスコンロ | ガスコンロ | kompor gas / tungku gas; コンロ menekankan unit tungku atau kompor. |
 | 流し | ながし | bak cuci dapur; biasanya wastafel dapur, bukan wastafel kamar mandi. |
 | レバー | レバー | tuas; dipakai dengan 動かす atau konteks mengatur alat. |
 | ワイングラス | ワイングラス | gelas wine; wadah minum berkaki untuk wine. |
@@ -72,7 +72,7 @@ Fokus hari ini bukan hanya menghafal benda seperti 冷蔵庫 atau エアコン, 
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| コンセント | コンセント | stopkontak; false friend, bukan "consent" dalam bahasa Inggris. |
+| コンセント | コンセント | stopkontak; kata serapan; maknanya stopkontak, bukan izin/persetujuan. |
 | コード | コード | kabel; bisa muncul sebagai 電気コード. |
 | エアコン | エアコン | AC; alat pengatur suhu ruangan. |
 | ヒーター | ヒーター | pemanas ruangan; alat untuk menghangatkan ruangan. |
@@ -149,14 +149,14 @@ Bayangkan kamu sedang membaca deskripsi rumah atau instruksi singkat di rumah: t
 
 | Pola | Arti praktis | Contoh konteks |
 |---|---|---|
-| Nを温める | menghangatkan N | 残り物を温める |
-| Nを冷やす | mendinginkan N | ビールを冷やす |
-| Nが冷えている | N dalam keadaan dingin | ビールが冷えている |
-| Nに入れる | memasukkan ke N | 冷蔵庫に入れる |
-| NでV | memakai N sebagai alat/tempat | 電子レンジで温める |
+| （N）を温める | menghangatkan （N） | 残り物を温める |
+| （N）を冷やす | mendinginkan （N） | ビールを冷やす |
+| （N）が冷えている | （N） sudah dalam keadaan dingin | ビールが冷えている |
+| （N）に入れる | memasukkan ke （N） | 冷蔵庫に入れる |
+| （N）で（V） | memakai （N） sebagai alat/tempat untuk （V） | 電子レンジで温める |
 | スイッチを入れる / 切る | menyalakan / mematikan sakelar | alat listrik |
-| Nを敷く | menggelar N di permukaan | じゅうたんを敷く |
-| Nが効いている | N bekerja/efeknya terasa | クーラーが効いている |
+| （N）を敷く | menggelar （N） di permukaan | じゅうたんを敷く |
+| （N）が効いている | （N） bekerja/efeknya terasa | クーラーが効いている |
 
 Perhatikan pola partikel: `を` menandai benda yang kamu ubah atau operasikan, seperti 残り物を温める dan スイッチを切る. `が` sering menandai keadaan yang terjadi pada benda, seperti 水が凍る dan ビールが冷えている. `で` membantu menunjukkan alat, misalnya 電子レンジで温める.
 
@@ -177,7 +177,7 @@ Perhatikan pola partikel: `を` menandai benda yang kamu ubah atau operasikan, s
 |---|---|
 | キッチン / 台所 | キッチン lebih modern dan terasa seperti kata serapan; 台所 lebih domestik dan sering terasa seperti "dapur rumah". |
 | リビング / 居間 | リビング umum untuk gaya rumah modern; 居間 adalah kata Jepang yang lebih tradisional untuk ruang keluarga. |
-| じゅうたん / カーペット | Maknanya dekat. じゅうたん terasa sebagai kata Jepang sehari-hari, カーペット terasa sebagai loanword. Ikuti kata yang dipakai di teks. |
+| じゅうたん / カーペット | Maknanya dekat. じゅうたん terasa sebagai kata Jepang sehari-hari, カーペット terasa sebagai kata serapan. Ikuti kata yang dipakai di teks. |
 | 冷やす / 冷えている | Jika ada objek dengan を, biasanya tindakan: ビールを冷やす. Jika ada が dan ている, biasanya keadaan: ビールが冷えている. |
 | 暖める / 暖房をつける | 暖める menjelaskan tindakan membuat sesuatu hangat. 暖房をつける berarti menyalakan sistem pemanas. |
 | コンセント / コード | コンセント adalah stopkontak di dinding; コード adalah kabel yang tersambung ke alat. |
@@ -186,11 +186,11 @@ Perhatikan pola partikel: `を` menandai benda yang kamu ubah atau operasikan, s
 
 Jangan menerjemahkan kata satu per satu tanpa melihat pola kalimat. 電源を入れる sering berarti "menyalakan perangkat", bukan memasukkan listrik secara harfiah. スイッチを切る berarti mematikan sakelar, meskipun 切る juga bisa berarti memotong.
 
-Strategi cepat: cari dulu bendanya, lalu lihat partikelnya. Kalau polanya `NをV`, biasanya ada tindakan pada benda itu. Kalau polanya `NがVている`, sering kali yang penting adalah keadaan benda tersebut.
+Strategi cepat: cari dulu bendanya, lalu lihat partikelnya. Kalau polanya `（N）を（V）`, biasanya ada tindakan pada benda itu. Kalau polanya `（N）が（V）ている`, sering kali yang penting adalah keadaan benda tersebut.
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
 
 ::MiniPractice
 ---
@@ -199,46 +199,46 @@ sentence: "残り物を____で温める。"
 optionA: "電子レンジ"
 optionB: "冷蔵庫"
 correct: "電子レンジ"
-explanation: "電子レンジ benar. Pola NでV menunjukkan alat yang dipakai untuk melakukan tindakan."
+explanation: "電子レンジ benar. Partikel で menunjukkan alat yang dipakai untuk tindakan 温める. 冷蔵庫 biasanya menjadi tempat penyimpanan dengan に入れる."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Bir sudah dalam keadaan dingin."
-sentence: "ビールが____。"
-optionA: "冷やしている"
-optionB: "冷えている"
+question: "Birnya sudah benar-benar dingin."
+sentence: "ビールがよく____。"
+optionA: "冷えている"
+optionB: "冷やしている"
 correct: "冷えている"
-explanation: "冷えている benar. Pola NがVている di sini menunjukkan keadaan benda."
+explanation: "冷えている benar karena ビールが menunjukkan keadaan birnya. 冷やしている lebih cocok saat seseorang sedang mendinginkan sesuatu."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Yang dimaksud adalah stopkontak di dinding."
-sentence: "壁の____を使います。"
+question: "Kabel dicolokkan ke stopkontak di dinding."
+sentence: "壁の____にコードを差します。"
 optionA: "コンセント"
 optionB: "コード"
 correct: "コンセント"
-explanation: "コンセント benar. コード adalah kabel, sedangkan コンセント adalah stopkontak."
+explanation: "コンセント benar karena ada petunjuk 壁の dan コードを差します. コード adalah kabel yang dicolokkan ke stopkontak."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kamar mendapat sinar matahari yang baik."
-sentence: "この部屋は____。"
+question: "Kamar ini menghadap selatan dan mendapat banyak sinar matahari."
+sentence: "この部屋は南向きで、____。"
 optionA: "日当たりがいい"
 optionB: "冷房が効いている"
 correct: "日当たりがいい"
-explanation: "日当たりがいい benar. Ini dipakai untuk kondisi cahaya matahari pada kamar atau rumah."
+explanation: "日当たりがいい benar. Petunjuk 南向き mengarah ke kondisi sinar matahari, bukan efek pendingin ruangan."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Matikan sakelar sebelum keluar."
+question: "Sebelum keluar rumah, matikan sakelarnya."
 sentence: "出かける前に、スイッチを____。"
 optionA: "入れる"
 optionB: "切る"

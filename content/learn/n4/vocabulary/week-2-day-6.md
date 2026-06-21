@@ -22,12 +22,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membedakan tindakan menjatuhkan, rusak, kehilangan, mencari, menemukan, dan memungut barang. Fokus utamanya adalah pasangan 他動詞 dan 自動詞.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat kehilangan barang, mencari, menemukan, memungut, dan membedakan kata kerja transitif-intransitif.
 
-Topik ini sering muncul dalam percakapan panik sederhana: dompet hilang, paspor tidak ada, ponsel rusak, atau barang yang dicari akhirnya ketemu.
+Fokus hari ini bukan hanya menghafal arti kata seperti 落とす, 財布を落とす, 落ちる, dan 財布が落ちる, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> cek partikel. 財布を落とす adalah seseorang menjatuhkan dompet, sedangkan 財布が落ちる berarti dompet jatuh.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -91,6 +91,10 @@ Topik ini sering muncul dalam percakapan panik sederhana: dompet hilang, paspor 
   <span>大切にする</span>
 </div>
 
+Bayangkan kamu sedang membaca atau mendengar situasi tentang kehilangan dan menemukan: kata intinya bisa berupa 落とす, 財布を落とす, dan 落ちる; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
+
+
 Alurnya sering berupa masalah lalu penyelesaian: 財布を落とす, パスポートがなくなる, 大変！と言う, なくした物を捜す, 誰かが拾う, なくした物が見つかる, lalu よかったね！.
 
 ## Catatan Pemakaian
@@ -145,7 +149,7 @@ Saat panik, frasa pendek seperti 大変！, どうしよう！, dan あ、あっ
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
 
 ::MiniPractice
 ---

@@ -1,6 +1,6 @@
 ---
 title: "もっと勉強したほうがいいですよ。"
-description: "Belajar pola grammar N4 untuk kamu sebaiknya belajar lebih banyak dalam konteks belajar, percakapan, dan instruksi sederhana."
+description: "Belajar memahami grammar N4 untuk nasihat dan perintah agar bisa memilih bentuk, partikel, dan nuansa yang tepat."
 level: "N4"
 category: "grammar"
 topic: "もっと勉強したほうがいいですよ。"
@@ -22,23 +22,23 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa memakai pola N4 dalam topik **もっと勉強したほうがいいですよ。** untuk nasihat dan perintah. Fokusnya adalah memilih partikel, bentuk verba, atau ekspresi yang sesuai dengan konteks kalimat.
+Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N4 untuk nasihat dan perintah. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan konteks.
 
-Kamu juga akan membedakan pola yang mirip agar tidak menerjemahkan langsung dari bahasa Indonesia tanpa melihat petunjuk bentuk Jepangnya.
+Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya bergantung pada terjemahan bahasa Indonesia.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca fungsi komunikasinya dulu, lalu cek bentuk sebelum dan sesudah pola. Banyak kesalahan N4 muncul karena arti Indonesianya mirip, tetapi partikel atau bentuk akhirnya berbeda.
+  <strong>Fokus hari ini:</strong> baca fungsi kalimatnya dulu. Setelah itu cek partikel, bentuk verba, dan nuansa yang membuat satu pola lebih tepat daripada pola lain.
 </div>
 
 ## Pola Hari Ini
 
 | Fungsi | Pola | Arti praktis | Kapan dipakai |
 |---|---|---|---|
-| Sebaiknya melakukan | 〜たほうがいい | Sebaiknya melakukan ~ | Dipakai saat ingin menyatakan sebaiknya melakukan ~ dengan bentuk （V）た + ほうがいい. |
-| Sebaiknya tidak melakukan | 〜ないほうがいい | Sebaiknya tidak melakukan ~ | Dipakai saat ingin menyatakan sebaiknya tidak melakukan ~ dengan bentuk （V）ない + ほうがいい. |
-| Bentuk perintah langsung | 命令形 | Bentuk perintah langsung | Dipakai saat ingin menyatakan bentuk perintah langsung dengan bentuk （V imperative）. |
-| Bentuk larangan | 禁止形・〜るな | Bentuk larangan; jangan ~ | Dipakai saat ingin menyatakan bentuk larangan; jangan ~ dengan bentuk （V 辞書形） + な. |
-| Lakukan | 〜なさい | Lakukan ~; perintah sopan/tegas | Dipakai saat ingin menyatakan lakukan ~; perintah sopan/tegas dengan bentuk （V ます-stem） + なさい. |
+| Sebaiknya melakukan | 〜たほうがいい | Sebaiknya melakukan ~ | dipakai saat sebaiknya melakukan ~; bentuknya （V）た + ほうがいい. |
+| Sebaiknya tidak melakukan | 〜ないほうがいい | Sebaiknya tidak melakukan ~ | dipakai saat sebaiknya tidak melakukan ~; bentuknya （Vない形） + ほうがいい. |
+| Bentuk perintah langsung | 命令形 | Bentuk perintah langsung | dipakai saat bentuk perintah langsung; bentuknya （V命令形）. |
+| Bentuk larangan | 禁止形・〜るな | Bentuk larangan; jangan ~ | dipakai saat bentuk larangan; jangan ~; bentuknya （V辞書形） + な. |
+| Lakukan | 〜なさい | Lakukan ~; perintah sopan/tegas | dipakai saat lakukan ~; perintah sopan/tegas; bentuknya （Vますstem） + なさい. |
 
 ## Peta Pola
 
@@ -50,50 +50,50 @@ Kamu juga akan membedakan pola yang mirip agar tidak menerjemahkan langsung dari
   <span>〜なさい</span>
 </div>
 
-Pola hari ini saling terhubung oleh fungsi **nasihat dan perintah**. Gunakan tabel pola sebagai peta cepat: pola yang terlihat mirip biasanya berbeda pada petunjuk seperti partikel, bentuk negatif, bentuk lampau, bentuk kamus, atau sudut pandang pembicara.
+Pola hari ini sama-sama dipakai untuk **nasihat dan perintah**, tetapi petunjuknya berbeda. Perhatikan partikel, bentuk negatif/lampau, bentuk kamus, dan siapa yang menjadi fokus kalimat.
 
 ## Cara Membentuk Pola
 
-Simbol utama: （N）= nomina, （V）= verba, （Clause）= klausa, （いAdj）= kata sifat-i, dan （なAdj）= kata sifat-na.
+Simbol utama: （N） berarti nomina, （V） berarti verba, （Klausa） berarti klausa, （いAdj） berarti kata sifat-i, dan （なAdj） berarti kata sifat-na.
 
 | Pola | Bentuk dasar | Catatan bentuk |
 |---|---|---|
-| 〜たほうがいい | （V）た + ほうがいい | Gunakan bentuk ini untuk sebaiknya melakukan ~. |
-| 〜ないほうがいい | （V）ない + ほうがいい | Gunakan bentuk ini untuk sebaiknya tidak melakukan ~. |
-| 命令形 | （V imperative） | Gunakan bentuk ini untuk bentuk perintah langsung. |
-| 禁止形・〜るな | （V 辞書形） + な | Gunakan bentuk ini untuk bentuk larangan; jangan ~. |
-| 〜なさい | （V ます-stem） + なさい | Gunakan bentuk ini untuk lakukan ~; perintah sopan/tegas. |
+| 〜たほうがいい | （V）た + ほうがいい | dipakai untuk sebaiknya melakukan ~. |
+| 〜ないほうがいい | （Vない形） + ほうがいい | dipakai untuk sebaiknya tidak melakukan ~. |
+| 命令形 | （V命令形） | dipakai untuk bentuk perintah langsung. |
+| 禁止形・〜るな | （V辞書形） + な | dipakai untuk bentuk larangan; jangan ~. |
+| 〜なさい | （Vますstem） + なさい | dipakai untuk lakukan ~; perintah sopan/tegas. |
 
 ## Bangun Kalimat Bertahap
 
 | Langkah | Jepang | Fungsi |
 |---|---|---|
-| Bahan | （V）た + ほうがいい | Bentuk untuk sebaiknya melakukan |
+| Bahan | （V）た + ほうがいい | bentuk untuk sebaiknya melakukan |
 | Kalimat | わからないところは先生に聞いたほうがいいです。 | Sebaiknya melakukan ~ |
-| Bahan | （V）ない + ほうがいい | Bentuk untuk sebaiknya tidak melakukan |
+| Bahan | （Vない形） + ほうがいい | bentuk untuk sebaiknya tidak melakukan |
 | Kalimat | その川では泳がないほうがいいでしょう。 | Sebaiknya tidak melakukan ~ |
-| Bahan | （V imperative） | Bentuk untuk bentuk perintah langsung |
+| Bahan | （V命令形） | bentuk untuk bentuk perintah langsung |
 | Kalimat | 時間がないから、早くしろ。 | Bentuk perintah langsung |
-| Bahan | （V 辞書形） + な | Bentuk untuk bentuk larangan |
+| Bahan | （V辞書形） + な | bentuk untuk bentuk larangan |
 | Kalimat | スピードを出すな。 | Bentuk larangan; jangan ~ |
-| Bahan | （V ます-stem） + なさい | Bentuk untuk lakukan |
+| Bahan | （Vますstem） + なさい | bentuk untuk lakukan |
 | Kalimat | 早く起きなさい。 | Lakukan ~; perintah sopan/tegas |
 
-Bagian ini menjembatani rumus dan kalimat penuh. Ambil bentuk pendeknya dulu, lalu masukkan ke kalimat yang punya konteks jelas.
+Bagian ini menghubungkan rumus dan kalimat penuh. Mulai dari bentuk pendeknya dulu, lalu cek fungsi pola sebelum membaca contoh lengkap.
 
 ## Catatan Pemakaian
 
 ### 〜たほうがいい
 
-Pola ini dipakai untuk **sebaiknya melakukan ~**. Bentuk intinya adalah （V）た + ほうがいい.
+Gunakan pola ini untuk **sebaiknya melakukan ~**. Bentuk dasarnya: （V）た + ほうがいい.
 
-Catatan praktis: Advice. Stronger dan more direct than 〜といい.
+Catatan praktis: Nasihat. Lebih kuat dan lebih langsung daripada 〜といい.
 
 Contoh inti: わからないところは先生に聞いたほうがいいです。
 
 ### 〜ないほうがいい
 
-Pola ini dipakai untuk **sebaiknya tidak melakukan ~**. Bentuk intinya adalah （V）ない + ほうがいい.
+Gunakan pola ini untuk **sebaiknya tidak melakukan ~**. Bentuk dasarnya: （Vない形） + ほうがいい.
 
 Catatan praktis: Advice against doing something.
 
@@ -101,25 +101,25 @@ Contoh inti: その川では泳がないほうがいいでしょう。
 
 ### 命令形
 
-Pola ini dipakai untuk **bentuk perintah langsung**. Bentuk intinya adalah （V imperative）.
+Gunakan pola ini untuk **bentuk perintah langsung**. Bentuk dasarnya: （V命令形）.
 
-Catatan praktis: Strong command. Used in direct orders, signs, cheers, atau quoted speech.
+Catatan praktis: Bentuk perintah yang kuat. Dipakai dalam perintah langsung, papan peringatan, dukungan, atau kutipan ucapan.
 
 Contoh inti: 時間がないから、早くしろ。
 
 ### 禁止形・〜るな
 
-Pola ini dipakai untuk **bentuk larangan; jangan ~**. Bentuk intinya adalah （V 辞書形） + な.
+Gunakan pola ini untuk **bentuk larangan; jangan ~**. Bentuk dasarnya: （V辞書形） + な.
 
-Catatan praktis: Strong “don’t do ~.” Used in warnings, orders, signs, dan quoted speech.
+Catatan praktis: Larangan yang kuat. Dipakai dalam peringatan, perintah, tanda, atau kutipan ucapan.
 
 Contoh inti: スピードを出すな。
 
 ### 〜なさい
 
-Pola ini dipakai untuk **lakukan ~; perintah sopan/tegas**. Bentuk intinya adalah （V ます-stem） + なさい.
+Gunakan pola ini untuk **lakukan ~; perintah sopan/tegas**. Bentuk dasarnya: （Vますstem） + なさい.
 
-Catatan praktis: Often used by parents atau teachers toward children/students. Softer than 命令形 but still firm.
+Catatan praktis: Sering dipakai orang tua atau guru kepada anak/murid. Lebih lembut daripada 命令形, tetapi tetap tegas.
 
 Contoh inti: 早く起きなさい。
 
@@ -128,10 +128,10 @@ Contoh inti: 早く起きなさい。
 | Pola | Arti praktis | Contoh konteks |
 |---|---|---|
 | （V）た + ほうがいい | Sebaiknya melakukan ~ | わからないところは先生に聞いたほうがいいです。 |
-| （V）ない + ほうがいい | Sebaiknya tidak melakukan ~ | その川では泳がないほうがいいでしょう。 |
-| （V imperative） | Bentuk perintah langsung | 時間がないから、早くしろ。 |
-| （V 辞書形） + な | Bentuk larangan; jangan ~ | スピードを出すな。 |
-| （V ます-stem） + なさい | Lakukan ~; perintah sopan/tegas | 早く起きなさい。 |
+| （Vない形） + ほうがいい | Sebaiknya tidak melakukan ~ | その川では泳がないほうがいいでしょう。 |
+| （V命令形） | Bentuk perintah langsung | 時間がないから、早くしろ。 |
+| （V辞書形） + な | Bentuk larangan; jangan ~ | スピードを出すな。 |
+| （Vますstem） + なさい | Lakukan ~; perintah sopan/tegas | 早く起きなさい。 |
 
 ## Contoh Kalimat
 
@@ -141,34 +141,34 @@ Contoh inti: 早く起きなさい。
   <div><p class="jp">スピードを出すな。</p><p>Jangan mengebut.</p></div>
   <div><p class="jp">早く起きなさい。</p><p>Cepat bangun.</p></div>
   <div><p class="jp">医者に酒を飲むなと言われました。</p><p>Saya dilarang dokter untuk minum alkohol.</p></div>
-  <div><p class="jp">わからないところは先生に聞いたほうがいいです。</p><p>Kalimat ini memakai 〜たほうがいい untuk arti sebaiknya melakukan ~.</p></div>
+  <div><p class="jp">わからないところは先生に聞いたほうがいいです。</p><p>Sebaiknya tanyakan bagian yang tidak kamu mengerti kepada guru.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar
 
 | Pasangan | Cara membedakan |
 |---|---|
-| 〜たほうがいい / 〜ないほうがいい | Bedakan dari fungsi utamanya: Advice to do dibanding advice not to do. Petunjuk pilihan: Gunakan g230 untuk positive advice. gunakan g231 untuk warning/advice against an action.. |
-| 〜たほうがいい / 〜といい | Bedakan dari fungsi utamanya: Direct advice dibanding softer suggestion. Petunjuk pilihan: Gunakan 〜たほうがいい saat the advice is clearer. gunakan 〜といい untuk softer advice atau hope.. |
-| 命令形 / 〜なさい | Bedakan dari fungsi utamanya: Strong command dibanding firm instruction. Petunjuk pilihan: Gunakan 命令形 carefully. gunakan 〜なさい from parent/teacher to child/student.. |
-| 禁止形・〜るな / 〜ないでください | Bedakan dari fungsi utamanya: Strong prohibition dibanding polite request not to do. Petunjuk pilihan: Gunakan 〜るな untuk signs/orders/quoted speech. gunakan 〜ないでください politely.. |
-| 命令形・禁止形（g232/g233） / 〜と言われる | Bedakan dari fungsi utamanya: Direct command dibanding quoted command. Petunjuk pilihan: Gunakan command forms saat quoting what someone said.. |
+| 〜たほうがいい / 〜ないほうがいい | Bedakan dari fungsi utamanya: Nasihat untuk melakukan dibanding nasihat agar tidak melakukan. Petunjuk pilihan: Gunakan pola pertama untuk nasihat positif. Gunakan pola kedua untuk peringatan atau nasihat agar tidak melakukan tindakan. |
+| 〜たほうがいい / 〜といい | Bedakan dari fungsi utamanya: Nasihat langsung dibanding saran yang lebih lembut. Petunjuk pilihan: Gunakan 〜たほうがいい saat nasihatnya lebih jelas. Gunakan 〜といい untuk nasihat atau harapan yang lebih lembut. |
+| 命令形 / 〜なさい | Bedakan dari fungsi utamanya: Perintah kuat dibanding instruksi tegas. Petunjuk pilihan: Gunakan 命令形 dengan hati-hati. Gunakan 〜なさい dari orang tua/guru kepada anak/murid. |
+| 禁止形・〜るな / 〜ないでください | Bedakan dari fungsi utamanya: Larangan kuat dibanding permintaan sopan agar tidak melakukan sesuatu. Petunjuk pilihan: Gunakan 〜るな untuk tanda, perintah, atau kutipan ucapan. Gunakan 〜ないでください dengan sopan. |
+| 命令形・禁止形 / 〜と言われる | Bedakan dari fungsi utamanya: Perintah langsung dibanding perintah yang dikutip. Petunjuk pilihan: Gunakan bentuk perintah saat mengutip perkataan seseorang. |
 
 ## Kesalahan Umum
 
 | Salah | Benar | Kenapa |
 |---|---|---|
-| もっと勉強するほうがいいです。 | もっと勉強したほうがいいです。 | Positive advice uses Vた+ほうがいい |
-| あぶないところには行ったないほうがいいです。 | あぶないところには行かないほうがいいです。 | Negative advice uses Vない+ほうがいい |
-| スピードを出さないな。 | スピードを出すな。 | Prohibition uses dictionary form + な |
-| 早く起きるなさい。 | 早く起きなさい。 | 〜なさい uses the masu-stem |
-| 医者に酒を飲まないと言われました。 | 医者に酒を飲むなと言われました。 | Quoted prohibition uses V辞書形+なと言われる |
+| もっと勉強するほうがいいです。 | もっと勉強したほうがいいです。 | Saran positif memakai Vた + ほうがいい |
+| あぶないところには行ったないほうがいいです。 | あぶないところには行かないほうがいいです。 | Saran negatif memakai Vない + ほうがいい |
+| スピードを出さないな。 | スピードを出すな。 | Larangan langsung memakai bentuk kamus + な |
+| 早く起きるなさい。 | 早く起きなさい。 | 〜なさい memakai bentuk sebelum ます |
+| 医者に酒を飲まないと言われました。 | 医者に酒を飲むなと言われました。 | Larangan yang dikutip memakai V辞書形 + なと言われる |
 
-Catatan untuk pembelajar Indonesia: Indonesian “jangan” can become several Japanese forms. - 〜ないでください = please do not ~ - 〜ないほうがいい = you should not ~ - 〜るな = don’t ~, strong command - 〜てはいけない = must not / not allowed Use **〜るな** carefully because it sounds strong.
+Catatan untuk pembelajar Indonesia: “Jangan” dalam bahasa Indonesia bisa menjadi beberapa bentuk Jepang: 〜ないでください = tolong jangan; 〜ないほうがいい = sebaiknya jangan; 〜るな = jangan, perintah kuat; 〜てはいけない = tidak boleh. Pakai **〜るな** dengan hati-hati karena terdengar kuat.
 
 ## Mini Practice
 
-Pilih jawaban yang paling tepat untuk melengkapi kalimat. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat. Perhatikan petunjuk partikel, bentuk kata, dan konteks kalimat sebelum memilih.
 
 ::MiniPractice
 ---
@@ -177,7 +177,7 @@ sentence: "もっと勉強____ほうがいいです。"
 optionA: "した"
 optionB: "する"
 correct: "した"
-explanation: "した benar. Positive advice uses Vた+ほうがいい"
+explanation: "した benar. Saran positif memakai Vた + ほうがいい"
 ---
 ::
 
@@ -188,7 +188,7 @@ sentence: "あぶないところには行____ないほうがいいです。"
 optionA: "か"
 optionB: "った"
 correct: "か"
-explanation: "か benar. Negative advice uses Vない+ほうがいい"
+explanation: "か benar. Saran negatif memakai Vない + ほうがいい"
 ---
 ::
 
@@ -199,7 +199,7 @@ sentence: "スピードを出____な。"
 optionA: "す"
 optionB: "さない"
 correct: "す"
-explanation: "す benar. Prohibition uses dictionary form + な"
+explanation: "す benar. Larangan langsung memakai bentuk kamus + な"
 ---
 ::
 
@@ -210,18 +210,18 @@ sentence: "医者に酒を飲____と言われました。"
 optionA: "むな"
 optionB: "まない"
 correct: "むな"
-explanation: "むな benar. Quoted prohibition uses V辞書形+なと言われる"
+explanation: "むな benar. Larangan yang dikutip memakai V辞書形 + なと言われる"
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pola apa yang dipakai untuk arti: Sebaiknya melakukan ~?"
-sentence: "例: わからないところは先生に聞いたほうがいいです。 ポイント: ____"
-optionA: "〜たほうがいい"
-optionB: "〜ないほうがいい"
-correct: "〜たほうがいい"
-explanation: "〜たほうがいい benar karena kalimat contoh menunjukkan sebaiknya melakukan ~."
+question: "Sebaiknya tanyakan bagian yang tidak kamu mengerti kepada guru."
+sentence: "わからないところは先生に聞い____ほうがいいです。"
+optionA: "た"
+optionB: "ない"
+correct: "た"
+explanation: "Vた + ほうがいい benar untuk saran agar melakukan sesuatu."
 ---
 ::
 

@@ -22,12 +22,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membicarakan jadwal, kecocokan waktu, situasi tertentu, reservasi, pemberitahuan, rencana menginap, dan janji bertemu.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat jadwal, kecocokan waktu, reservasi, pemberitahuan, menginap, dan janji bertemu.
 
-Kata-kata ini sering muncul saat membuat janji, mengubah jadwal, memesan hotel, atau memberi tahu alamat baru.
+Fokus hari ini bukan hanya menghafal arti kata seperti 予定, 予定がある, 予定がない, dan 都合, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> 予定 adalah isi jadwal/rencana, sedangkan 都合 adalah cocok atau tidaknya waktu dan keadaan untuk seseorang.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -87,6 +87,10 @@ Kata-kata ini sering muncul saat membuat janji, mengubah jadwal, memesan hotel, 
   <span>遅れる</span>
 </div>
 
+Bayangkan kamu sedang membaca atau mendengar situasi tentang jadwal dan janji bertemu: kata intinya bisa berupa 予定, 予定がある, dan 予定がない; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
+
+
 Alurnya adalah membuat rencana: cek 予定, tanyakan 都合, pikirkan 場合, 予約する jika perlu, 知らせる informasi baru, 泊まる di hotel, 待ち合わせる di stasiun, lalu beri kabar jika 遅れる.
 
 ## Catatan Pemakaian
@@ -143,7 +147,7 @@ Untuk 待ち合わせる, tempat pertemuan memakai で: 駅で待ち合わせる
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
 
 ::MiniPractice
 ---

@@ -1,6 +1,6 @@
 ---
 title: "もし私じゃなかったら"
-description: "Belajar pola grammar N3 untuk membuat kondisi andaikan, kondisi masa lalu yang tidak terjadi, dan konsesi hipotetis."
+description: "Belajar memahami grammar N3 untuk membuat kondisi andaikan, kondisi masa lalu yang tidak terjadi, dan konsesi hipotetis."
 level: "N3"
 category: "grammar"
 topic: "もし私じゃなかったら"
@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali dan memakai pola pada topik **もし私じゃなかったら** dalam konteks bacaan, percakapan, dan penjelasan N3. Fokusnya bukan hanya arti terjemahan, tetapi juga alasan memilih pola yang tepat.
+Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N3 untuk membuat kondisi andaikan, kondisi masa lalu yang tidak terjadi, dan konsesi hipotetis. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan nuansa konteks.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> なら bereaksi pada asumsi, もし menambah rasa seandainya, bentuk lampau seperti たなら melihat kondisi yang tidak terjadi, dan としても berarti hasil tetap sama walau asumsi itu benar.
@@ -51,13 +51,13 @@ Di akhir pelajaran ini, kamu bisa mengenali dan memakai pola pada topik **もし
 
 | Fungsi | Kerangka kalimat | Yang perlu dicek |
 |---|---|---|
-| Kalau | （plain form）なら | Apakah pembicara bereaksi pada asumsi? |
-| Kalau memang | （plain form）のなら | Apakah situasinya dijelaskan sebagai fakta yang diasumsikan? |
+| Kalau | （bentuk biasa）なら | Apakah pembicara bereaksi pada asumsi? |
+| Kalau memang | （bentuk biasa）のなら | Apakah situasinya dijelaskan sebagai fakta yang diasumsikan? |
 | Seandainya | もし（condition）なら | Apakah kondisinya hipotetis? |
 | Kalau saja dulu | もし（past condition）なら | Apakah realitanya dulu berbeda? |
-| Walaupun seandainya | もし（clause）としても | Apakah hasilnya tetap tidak berubah? |
+| Walaupun seandainya | もし（klausa）としても | Apakah hasilnya tetap tidak berubah? |
 
-Di tabel ini, `（A）` dan `（B）` menandai pihak pertama dan pihak kedua dalam hubungan kalimat, `（N）` adalah nomina atau frasa nomina, `（V）` adalah verba, `（Adj）` adalah adjektiva, `（clause）` dan `（plain form）` adalah klausa atau bentuk biasa, `（Sentence A）` dan `（Sentence B）` adalah dua kalimat yang dihubungkan, `（Option A）` dan `（Option B）` adalah dua pilihan, sedangkan `（question）`, `（number）`, `（predicate）`, dan `（result）` menandai slot pertanyaan, angka, predikat, dan hasil.
+Simbol di tabel ini hanya penanda slot. `（N）` berarti nomina atau frasa nomina, `（V）` berarti verba, `（Adj）` berarti adjektiva, `（klausa）` atau `（bentuk biasa）` berarti klausa atau bentuk biasa, dan pasangan seperti `（A）／（B）` atau `（Kalimat A）／（Kalimat B）` dipakai untuk membedakan dua sisi kalimat.
 
 ## Cara Membentuk Pola
 
@@ -69,7 +69,7 @@ Di tabel ini, `（A）` dan `（B）` menandai pihak pertama dan pihak kedua dal
 | Kalau memang tidak pergi | （V普通形）のなら | 行かないのなら |
 | Seandainya terlahir kembali | もし（V可能形）なら | もし生まれ変われるなら |
 | Kalau saja mengikuti ujian | もし（Vていた）なら | もし試験を受けていたなら |
-| Walaupun dapat cuti | もし（plain form）としても | もし休みが取れたとしても |
+| Walaupun dapat cuti | もし（bentuk biasa）としても | もし休みが取れたとしても |
 
 ### 2. Masukkan ke fungsi kalimat
 
@@ -81,7 +81,7 @@ Di tabel ini, `（A）` dan `（B）` menandai pihak pertama dan pihak kedua dal
 | もし〜たなら | kalau saja dulu | もし受けていたなら |
 | としても | walaupun seandainya | 休めたとしても行かない |
 
-Sebelum membaca contoh panjang, ambil bagian yang berubah lebih dulu: apakah slotnya `（N）`, `（V辞書形）`, `（V普通形）`, `（Vますstem）`, `（Adj）`, atau satu `（clause）` utuh. Setelah itu baru cek partikel, bentuk negatif, dan hubungan antarbagian kalimat.
+Saat membangun kalimat, jangan mulai dari terjemahan kata per kata. Tentukan dulu slot yang berubah, lalu cek partikel, bentuk akhir, dan hubungan antarbagian kalimat.
 
 ## Bangun Kalimat Bertahap
 
@@ -93,7 +93,7 @@ Sebelum membaca contoh panjang, ambil bagian yang berubah lebih dulu: apakah slo
 | Kalau dulu ikut ujian | 試験を受けていた・合格した | もし〜ていたなら | もし試験を受けていたなら、合格していたと思います。 |
 | Walaupun dapat cuti tidak pergi | 休みが取れる・旅行に行かない | 取れたとしても | もし休みが取れたとしても、旅行には行きません。 |
 
-Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pecah dulu menjadi bahan, bentuk pola, lalu kalimat jadi.
+Bagian ini menghubungkan rumus dan contoh kalimat. Mulai dari bahan pendeknya dulu, lalu cek fungsi pola sebelum membaca kalimat lengkap.
 
 ## Catatan Pemakaian
 
@@ -117,10 +117,10 @@ Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pe
 | Pola | Arti praktis | Contoh konteks |
 |---|---|---|
 | （V普通形）なら | kalau （V） | 行くなら |
-| （plain form）のなら | kalau memang | 行かないのなら |
+| （bentuk biasa）のなら | kalau memang | 行かないのなら |
 | もし（condition）なら | seandainya | もし雨なら |
 | もし（past condition）なら | kalau saja dulu | もし受けていたなら |
-| もし（clause）としても | walaupun seandainya | 休めたとしても |
+| もし（klausa）としても | walaupun seandainya | 休めたとしても |
 
 ## Contoh Kalimat
 
@@ -153,7 +153,7 @@ Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pe
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat. Perhatikan konteks, bentuk sebelum pola, dan nuansa kalimat sebelum memilih.
 
 ::MiniPractice
 ---

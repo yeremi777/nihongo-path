@@ -21,12 +21,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca kosakata pekerjaan, kerja paruh waktu, lamaran kerja, gaji, jam kerja, dan status dipekerjakan/dipecat.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat membaca jenis pekerjaan, lowongan, wawancara, gaji, jam kerja, dan hubungan kerja.
 
-Kosakata ini sering muncul dalam iklan lowongan, percakapan kerja, atau cerita tentang pengalaman bekerja.
+Fokus hari ini bukan hanya menghafal arti kata seperti 仕事, レストランでバイト／アルバイト, 工場でパート, dan コンビニの店員, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> bedakan 翻訳する untuk tulisan dan 通訳する untuk lisan.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -86,6 +86,10 @@ Urutkan kata kerja sebagai proses kerja: 仕事を探す -> 履歴書を書く -
   <span>勤務時間</span>
 </div>
 
+Bayangkan kamu sedang membaca atau mendengar situasi tentang bekerja: kata intinya bisa berupa 仕事, レストランでバイト／アルバイト, dan 工場でパート; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
+
+
 ## Catatan Pemakaian
 
 - **Jenis kerja:** バイト, アルバイト, dan パート berhubungan dengan kerja paruh waktu.
@@ -121,9 +125,11 @@ Urutkan kata kerja sebagai proses kerja: 仕事を探す -> 履歴書を書く -
 
 ## Mini Practice
 
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
+
 ::MiniPractice
 ---
-question: "Pekerjaan penerjemahan lisan."
+question: "Saya menerjemahkan lisan di rapat."
 sentence: "会議で____する。"
 optionA: "通訳"
 optionB: "翻訳"
@@ -134,7 +140,7 @@ explanation: "通訳する benar untuk lisan; 翻訳する untuk tulisan."
 
 ::MiniPractice
 ---
-question: "Transport ditanggung perusahaan."
+question: "Biaya transportasi diberikan."
 sentence: "交通費が____。"
 optionA: "出る"
 optionB: "済む"
@@ -167,7 +173,7 @@ explanation: "仕事を探す adalah kolokasi untuk mencari pekerjaan."
 
 ::MiniPractice
 ---
-question: "Akhir pekan dipakai untuk kerja paruh waktu di restoran."
+question: "Pada akhir pekan saya bekerja paruh waktu di restoran."
 sentence: "週末は____をしている。"
 optionA: "レストランでバイト／アルバイト"
 optionB: "仕事"

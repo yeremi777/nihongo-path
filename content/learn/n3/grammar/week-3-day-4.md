@@ -1,6 +1,6 @@
 ---
 title: "会うたびに"
-description: "Belajar pola grammar N3 untuk mengatakan sekalian, setiap kali, tepat sesudah, dan sedang di tengah suatu kegiatan."
+description: "Belajar memahami grammar N3 untuk mengatakan sekalian, setiap kali, tepat sesudah, dan sedang di tengah suatu kegiatan."
 level: "N3"
 category: "grammar"
 topic: "会うたびに"
@@ -154,7 +154,7 @@ Di tabel ini, `（V）` adalah verba/kata kerja, `（N）` adalah nomina atau fr
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat. Perhatikan konteks, bentuk sebelum pola, dan nuansa kalimat sebelum memilih.
 
 ::MiniPractice
 ---

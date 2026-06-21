@@ -1,6 +1,6 @@
 ---
 title: "もう少しで乗り遅れるところだった"
-description: "Belajar pola grammar N3 untuk menyatakan hasil setelah mencoba/bertanya, hampir terjadi, baru sadar setelah pengalaman, dan bertindak selagi kesempatan masih ada."
+description: "Belajar memahami grammar N3 untuk menyatakan hasil setelah mencoba/bertanya, hampir terjadi, baru sadar setelah pengalaman, dan bertindak selagi kesempatan masih ada."
 level: "N3"
 category: "grammar"
 topic: "もう少しで乗り遅れるところだった"
@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali dan memakai pola pada topik **もう少しで乗り遅れるところだった** dalam konteks bacaan, percakapan, dan penjelasan N3. Fokusnya bukan hanya arti terjemahan, tetapi juga alasan memilih pola yang tepat.
+Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N3 untuk menyatakan hasil setelah mencoba/bertanya, hampir terjadi, baru sadar setelah pengalaman, dan bertindak selagi kesempatan masih ada. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan nuansa konteks.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> ところ di sini bukan hanya baru saja. たところ berarti setelah mencoba/bertanya ternyata, ところだった berarti hampir terjadi, てはじめて berarti baru setelah pengalaman, dan うちに berarti selagi kesempatan masih ada.
@@ -51,13 +51,13 @@ Di akhir pelajaran ini, kamu bisa mengenali dan memakai pola pada topik **もう
 
 | Fungsi | Kerangka kalimat | Yang perlu dicek |
 |---|---|---|
-| Setelah mencoba | （Vた）ところ、（result） | Apakah ada hasil setelah bertanya/mencoba? |
+| Setelah mencoba | （Vた）ところ、（hasil） | Apakah ada hasil setelah bertanya/mencoba? |
 | Hampir terjadi | （V辞書形）ところだった | Apakah aksi hampir terjadi? |
 | Sangat dekat | もう少しで（V辞書形）ところだった | Apakah hampir sekali? |
 | Baru setelah | （Vて）はじめて | Apakah pengalaman itu membuat sadar/bisa? |
 | Selagi | （V辞書形）／（Vている）うちに | Apakah kesempatan bisa hilang? |
 
-Di tabel ini, `（A）` dan `（B）` menandai pihak pertama dan pihak kedua dalam hubungan kalimat, `（N）` adalah nomina atau frasa nomina, `（V）` adalah verba, `（Adj）` adalah adjektiva, `（clause）` dan `（plain form）` adalah klausa atau bentuk biasa, `（Sentence A）` dan `（Sentence B）` adalah dua kalimat yang dihubungkan, `（Option A）` dan `（Option B）` adalah dua pilihan, sedangkan `（question）`, `（number）`, `（predicate）`, dan `（result）` menandai slot pertanyaan, angka, predikat, dan hasil.
+Simbol di tabel ini hanya penanda slot. `（N）` berarti nomina atau frasa nomina, `（V）` berarti verba, `（Adj）` berarti adjektiva, `（klausa）` atau `（bentuk biasa）` berarti klausa atau bentuk biasa, dan pasangan seperti `（A）／（B）` atau `（Kalimat A）／（Kalimat B）` dipakai untuk membedakan dua sisi kalimat.
 
 ## Cara Membentuk Pola
 
@@ -83,7 +83,7 @@ Di tabel ini, `（A）` dan `（B）` menandai pihak pertama dan pihak kedua dal
 | うちに | selagi / sebelum berubah | 明るいうちに |
 | ないうちに | sebelum | 忘れないうちに |
 
-Sebelum membaca contoh panjang, ambil bagian yang berubah lebih dulu: apakah slotnya `（N）`, `（V辞書形）`, `（V普通形）`, `（Vますstem）`, `（Adj）`, atau satu `（clause）` utuh. Setelah itu baru cek partikel, bentuk negatif, dan hubungan antarbagian kalimat.
+Saat membangun kalimat, jangan mulai dari terjemahan kata per kata. Tentukan dulu slot yang berubah, lalu cek partikel, bentuk akhir, dan hubungan antarbagian kalimat.
 
 ## Bangun Kalimat Bertahap
 
@@ -95,7 +95,7 @@ Sebelum membaca contoh panjang, ambil bagian yang berubah lebih dulu: apakah slo
 | Pulang selagi terang | 明るい・帰る | 明るいうちに | 明るいうちに帰ってきなさい。 |
 | Catat sebelum lupa | 忘れない・メモする | 忘れないうちに | 忘れないうちに、メモをしておきます。 |
 
-Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pecah dulu menjadi bahan, bentuk pola, lalu kalimat jadi.
+Bagian ini menghubungkan rumus dan contoh kalimat. Mulai dari bahan pendeknya dulu, lalu cek fungsi pola sebelum membaca kalimat lengkap.
 
 ## Catatan Pemakaian
 
@@ -117,7 +117,7 @@ Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pe
 
 | Pola | Arti praktis | Contoh konteks |
 |---|---|---|
-| （Vた）ところ、（result） | setelah （V）, ternyata | 聞いたところ |
+| （Vた）ところ、（hasil） | setelah （V）, ternyata | 聞いたところ |
 | （V辞書形）ところだった | hampir （V） | 遅刻するところだった |
 | もう少しで（V辞書形）ところだった | hampir saja （V） | 乗り遅れるところだった |
 | （Vて）はじめて | baru setelah （V） | 注意されてはじめて |
@@ -155,7 +155,7 @@ Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pe
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat. Perhatikan konteks, bentuk sebelum pola, dan nuansa kalimat sebelum memilih.
 
 ::MiniPractice
 ---

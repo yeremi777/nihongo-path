@@ -1,6 +1,6 @@
 ---
 title: "ところで..."
-description: "Belajar pola grammar N3 untuk membedakan kontras biasa, hasil yang tidak terduga, perpindahan topik, dan penghubung alasan ke akibat."
+description: "Belajar memahami grammar N3 untuk membedakan kontras biasa, hasil yang tidak terduga, perpindahan topik, dan penghubung alasan ke akibat."
 level: "N3"
 category: "grammar"
 topic: "ところで..."
@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali dan memakai pola pada topik **ところで...** dalam konteks bacaan, percakapan, dan penjelasan N3. Fokusnya bukan hanya arti terjemahan, tetapi juga alasan memilih pola yang tepat.
+Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N3 untuk membedakan kontras biasa, hasil yang tidak terduga, perpindahan topik, dan penghubung alasan ke akibat. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan nuansa konteks.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> jangan memakai ところが untuk semua tapi. だけど adalah kontras biasa, ところが hasil berlawanan dugaan, ところで pindah topik, dan だから／ですから menghubungkan alasan ke akibat.
@@ -51,13 +51,13 @@ Di akhir pelajaran ini, kamu bisa mengenali dan memakai pola pada topik **とこ
 
 | Fungsi | Kerangka kalimat | Yang perlu dicek |
 |---|---|---|
-| Kontras biasa | （Sentence A）。だけど、（Sentence B） | Apakah B hanya berlawanan dengan A? |
-| Kontras formal | （Sentence A）。しかし、（Sentence B） | Apakah gaya tulisan lebih formal? |
-| Alasan → akibat | （Reason）。だから／ですから、（Result） | Apakah B akibat dari A? |
+| Kontras biasa | （Kalimat A）。だけど、（Kalimat B） | Apakah B hanya berlawanan dengan A? |
+| Kontras formal | （Kalimat A）。しかし、（Kalimat B） | Apakah gaya tulisan lebih formal? |
+| Alasan → akibat | （Alasan）。だから／ですから、（Hasil） | Apakah B akibat dari A? |
 | Dugaan → hasil berbeda | （Expected）。ところが、（Unexpected） | Apakah hasilnya di luar dugaan? |
-| Pindah topik | （Sentence）。ところで、（new topic） | Apakah topiknya berubah? |
+| Pindah topik | （Kalimat）。ところで、（topik baru） | Apakah topiknya berubah? |
 
-Di tabel ini, `（A）` dan `（B）` menandai pihak pertama dan pihak kedua dalam hubungan kalimat, `（N）` adalah nomina atau frasa nomina, `（V）` adalah verba, `（Adj）` adalah adjektiva, `（clause）` dan `（plain form）` adalah klausa atau bentuk biasa, `（Sentence A）` dan `（Sentence B）` adalah dua kalimat yang dihubungkan, `（Option A）` dan `（Option B）` adalah dua pilihan, sedangkan `（question）`, `（number）`, `（predicate）`, dan `（result）` menandai slot pertanyaan, angka, predikat, dan hasil.
+Simbol di tabel ini hanya penanda slot. `（N）` berarti nomina atau frasa nomina, `（V）` berarti verba, `（Adj）` berarti adjektiva, `（klausa）` atau `（bentuk biasa）` berarti klausa atau bentuk biasa, dan pasangan seperti `（A）／（B）` atau `（Kalimat A）／（Kalimat B）` dipakai untuk membedakan dua sisi kalimat.
 
 ## Cara Membentuk Pola
 
@@ -65,8 +65,8 @@ Di tabel ini, `（A）` dan `（B）` menandai pihak pertama dan pihak kedua dal
 
 | Tujuan | Bentuk | Contoh bentuk |
 |---|---|---|
-| Ingin pergi tapi tidak bisa | （Sentence）。だけど、（Sentence） | 行きたい。だけど行けない |
-| Hujan, jadi perlu payung | （Reason）。だから、（Result） | 雨だ。だから傘がいる |
+| Ingin pergi tapi tidak bisa | （Kalimat）。だけど、（Kalimat） | 行きたい。だけど行けない |
+| Hujan, jadi perlu payung | （Alasan）。だから、（Hasil） | 雨だ。だから傘がいる |
 | Rencana pergi, tetapi sakit | （Expected）。ところが、（Unexpected） | 行く予定だった。ところが病気になった |
 | Ngomong-ngomong minggu depan kosong? | ところで（question） | ところで来週は空いてる？ |
 | Namun secara formal | しかし | 行きたい。しかし行けない |
@@ -81,7 +81,7 @@ Di tabel ini, `（A）` dan `（B）` menandai pihak pertama dan pihak kedua dal
 | ところが | tetapi ternyata | 行く予定だった。ところが病気 |
 | ところで | ngomong-ngomong | ところで来週は？ |
 
-Sebelum membaca contoh panjang, ambil bagian yang berubah lebih dulu: apakah slotnya `（N）`, `（V辞書形）`, `（V普通形）`, `（Vますstem）`, `（Adj）`, atau satu `（clause）` utuh. Setelah itu baru cek partikel, bentuk negatif, dan hubungan antarbagian kalimat.
+Saat membangun kalimat, jangan mulai dari terjemahan kata per kata. Tentukan dulu slot yang berubah, lalu cek partikel, bentuk akhir, dan hubungan antarbagian kalimat.
 
 ## Bangun Kalimat Bertahap
 
@@ -93,7 +93,7 @@ Sebelum membaca contoh panjang, ambil bagian yang berubah lebih dulu: apakah slo
 | Pindah topik ke jadwal minggu depan | 明日は試験・来週 | ところで | 明日は試験です。ところで、来週は空いていますか。 |
 | Kontras formal | 行きたい・行けない | しかし | 行きたい。しかし、行けません。 |
 
-Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pecah dulu menjadi bahan, bentuk pola, lalu kalimat jadi.
+Bagian ini menghubungkan rumus dan contoh kalimat. Mulai dari bahan pendeknya dulu, lalu cek fungsi pola sebelum membaca kalimat lengkap.
 
 ## Catatan Pemakaian
 
@@ -116,12 +116,12 @@ Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pe
 
 | Pola | Arti praktis | Contoh konteks |
 |---|---|---|
-| （Sentence）。だけど、（Sentence） | tapi | 行きたい。だけど行けない |
-| （Sentence）。しかし、（Sentence） | namun | 行きたい。しかし行けない |
-| （Reason）。だから、（Result） | jadi | 雨だ。だから傘がいる |
-| （Reason）。ですから、（Result） | oleh karena itu | 雨です。ですから必要です |
+| （Kalimat）。だけど、（Kalimat） | tapi | 行きたい。だけど行けない |
+| （Kalimat）。しかし、（Kalimat） | namun | 行きたい。しかし行けない |
+| （Alasan）。だから、（Hasil） | jadi | 雨だ。だから傘がいる |
+| （Alasan）。ですから、（Hasil） | oleh karena itu | 雨です。ですから必要です |
 | （Expected）。ところが、（Unexpected） | tetapi ternyata | 予定だった。ところが中止 |
-| （Sentence）。ところで、（new topic） | ngomong-ngomong | ところで来週は？ |
+| （Kalimat）。ところで、（topik baru） | ngomong-ngomong | ところで来週は？ |
 
 ## Contoh Kalimat
 
@@ -154,7 +154,7 @@ Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pe
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat. Perhatikan konteks, bentuk sebelum pola, dan nuansa kalimat sebelum memilih.
 
 ::MiniPractice
 ---

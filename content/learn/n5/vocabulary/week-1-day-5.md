@@ -22,12 +22,12 @@ tags:
 
 ## Tujuan
 
-Mengenali istilah keluarga N5 untuk keluarga sendiri dan keluarga orang lain.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata dasar yang sering muncul saat menyebut keluarga sendiri, keluarga orang lain, kepemilikan, dan pertanyaan sopan tentang keluarga.
 
-Di akhir pelajaran ini, kamu bisa membedakan ちち dan おとうさん, はは dan おかあさん, serta memakai pertanyaan sopan seperti ごきょうだいがいらっしゃいますか dan おいくつですか. Pelajaran ini penting karena bahasa Jepang memilih kata keluarga berdasarkan sudut pandang dan kesopanan.
+Fokus hari ini bukan hanya menghafal arti kata seperti わたしの, あなたの, あの人の, dan そふ, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> saat menyebut keluarga sendiri kepada orang lain, gunakan bentuk sederhana seperti ちち, はは, あに, dan あね. Untuk keluarga orang lain, gunakan bentuk sopan seperti おとうさん dan おかあさん.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -113,6 +113,10 @@ Pelajaran ini bergerak dari keluarga inti ke keluarga besar. Pola utamanya adala
   <span>おっと／しゅじん ↔ ごしゅじん</span>
 </div>
 
+Bayangkan kamu sedang membaca atau mendengar situasi tentang keluarga sendiri dan orang lain: kata intinya bisa berupa わたしの, あなたの, dan あの人の; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
+
+
 ## Catatan Pemakaian
 
 - keluarga sendiri: ちち, はは, あに, あね, そふ, そぼ, つま, dan おっと dipakai saat berbicara tentang keluarga sendiri kepada orang lain.
@@ -153,9 +157,11 @@ Jangan otomatis menambahkan お pada keluarga sendiri saat memperkenalkan mereka
 
 ## Mini Practice
 
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
+
 ::MiniPractice
 ---
-question: "Menyebut ayah sendiri kepada orang lain."
+question: "Ayah saya bekerja di perusahaan."
 sentence: "私の____は会社ではたらいています。"
 optionA: "ちち"
 optionB: "おとうさん"
@@ -166,7 +172,7 @@ explanation: "ちち dipakai untuk ayah sendiri saat berbicara kepada orang lain
 
 ::MiniPractice
 ---
-question: "Bertanya sopan apakah lawan bicara punya saudara."
+question: "Apakah Anda punya saudara?"
 sentence: "____がいらっしゃいますか。"
 optionA: "ごきょうだい"
 optionB: "きょうだい"
@@ -177,7 +183,7 @@ explanation: "ごきょうだい adalah bentuk sopan untuk saudara kandung orang
 
 ::MiniPractice
 ---
-question: "Kata untuk paman, bukan kakek."
+question: "Paman saya tinggal di Tokyo."
 sentence: "私の____は東京にすんでいます。"
 optionA: "おじ"
 optionB: "おじいさん"
@@ -188,7 +194,7 @@ explanation: "おじ berarti paman. おじいさん berarti kakek atau pria tua.
 
 ::MiniPractice
 ---
-question: "Menyebut istri orang lain."
+question: "Istri Pak Tanaka adalah guru."
 sentence: "田中さんの____は先生です。"
 optionA: "おくさん"
 optionB: "つま"
@@ -199,7 +205,7 @@ explanation: "おくさん dipakai untuk istri orang lain. つま atau かない
 
 ::MiniPractice
 ---
-question: "Pertanyaan sopan tentang umur."
+question: "Berapa umur ibu Anda?"
 sentence: "お母さんは____。"
 optionA: "おいくつですか"
 optionB: "いらっしゃいますか"

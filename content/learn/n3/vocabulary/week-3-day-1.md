@@ -21,12 +21,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali kosakata N3 untuk Ayo ajak kencan. Fokusnya adalah membaca kata sebagai bagian dari situasi nyata, bukan hanya menghafal arti satu per satu.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat membaca ajakan, janji bertemu, respons, dan ungkapan perasaan dalam hubungan sosial.
 
-Pelajaran ini membantu kamu melihat hubungan antara istilah utama, benda, tindakan, kondisi, dan pola partikel yang sering muncul dalam kalimat pendek sehari-hari.
+Fokus hari ini bukan hanya menghafal arti kata seperti 交際する, 付き合う, けんかする, dan 仲直りする, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca kata sebagai kelompok makna. Perhatikan apakah kata itu menunjuk benda/tempat, tindakan dengan partikel seperti を・が・に・で, atau kondisi yang menjelaskan keadaan.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -35,41 +35,41 @@ Pelajaran ini membantu kamu melihat hubungan antara istilah utama, benda, tindak
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| 交際する | こうさいする | berpacaran; menjalin hubungan; formal/written for dating or social relations |
-| 付き合う | つきあう | berpacaran; bergaul dengan; can mean dating or accompanying someone |
-| けんかする | けんかする | bertengkar; istilah dasar dalam topik hari ini. |
-| 仲直りする | なかなおりする | berbaikan; istilah dasar dalam topik hari ini. |
-| 気になる | きになる | penasaran; ingin tahu; often used when someone/something stays on your mind |
-| きらいになる | きらいになる | menjadi tidak suka; istilah dasar dalam topik hari ini. |
-| いやになる | いやになる | muak; tidak berminat lagi; istilah dasar dalam topik hari ini. |
+| 交際する | こうさいする | berpacaran; menjalin hubungan; formal atau tertulis untuk hubungan romantis atau hubungan sosial |
+| 付き合う | つきあう | berpacaran; bergaul dengan; bisa berarti berpacaran atau menemani seseorang |
+| けんかする | けんかする | bertengkar; sering muncul saat membaca ajakan, janji bertemu, respons, dan ungkapan perasaan dalam hubungan sosial. |
+| 仲直りする | なかなおりする | berbaikan; sering muncul saat membaca ajakan, janji bertemu, respons, dan ungkapan perasaan dalam hubungan sosial. |
+| 気になる | きになる | penasaran; ingin tahu; sering dipakai saat seseorang atau sesuatu terus terpikirkan |
+| きらいになる | きらいになる | menjadi tidak suka; sering muncul saat membaca ajakan, janji bertemu, respons, dan ungkapan perasaan dalam hubungan sosial. |
+| いやになる | いやになる | muak; tidak berminat lagi; sering muncul saat membaca ajakan, janji bertemu, respons, dan ungkapan perasaan dalam hubungan sosial. |
 | コンサートにさそう | コンサートにさそう | mengajak ke konser; さそう = invite someone out |
-| いやがる | いやがる | tidak mau; menunjukkan rasa tidak suka; dipakai untuk another person's visible dislike |
-| ふる | ふる | menolak cinta/ajakan; casual dating context |
-| 好かれる | すかれる | disukai; passive of 好く |
-| きらわれる | きらわれる | tidak disukai; passive of きらう |
-| いやがられる | いやがられる | dianggap mengganggu/tidak disukai; passive of いやがる |
-| ふられる | ふられる | ditolak; diputuskan; passive of ふる |
-| あこがれる | あこがれる | mengagumi; mendambakan; often admiration toward a person/lifestyle |
-| 夢中になる | むちゅうになる | tergila-gila; asyik dengan; istilah dasar dalam topik hari ini. |
-| 恋をする | こいをする | jatuh cinta; istilah dasar dalam topik hari ini. |
+| いやがる | いやがる | tidak mau; menunjukkan rasa tidak suka; dipakai untuk rasa tidak suka orang lain yang terlihat |
+| ふる | ふる | menolak cinta/ajakan; kasual dalam konteks hubungan |
+| 好かれる | すかれる | disukai; bentuk pasif dari 好く |
+| きらわれる | きらわれる | tidak disukai; bentuk pasif dari きらう |
+| いやがられる | いやがられる | dianggap mengganggu/tidak disukai; bentuk pasif dari いやがる |
+| ふられる | ふられる | ditolak; diputuskan; bentuk pasif dari ふる |
+| あこがれる | あこがれる | mengagumi; mendambakan; sering untuk kekaguman kepada orang atau gaya hidup |
+| 夢中になる | むちゅうになる | tergila-gila; asyik dengan; sering muncul saat membaca ajakan, janji bertemu, respons, dan ungkapan perasaan dalam hubungan sosial. |
+| 恋をする | こいをする | jatuh cinta; sering muncul saat membaca ajakan, janji bertemu, respons, dan ungkapan perasaan dalam hubungan sosial. |
 | 女性にもてる | じょせいにもてる | populer di kalangan wanita; もてる = be popular romantically |
 | （お）互いに気に入る | （お）たがいにきにいる | saling menyukai; 互いに = each other |
-| 都合をつける | つごうをつける | menyesuaikan jadwal; you arrange your schedule |
-| 都合がつく | つごうがつく | waktunya cocok; bisa; the schedule becomes possible |
+| 都合をつける | つごうをつける | menyesuaikan jadwal; kamu yang menyesuaikan jadwalmu |
+| 都合がつく | つごうがつく | waktunya cocok; bisa; jadwalnya menjadi cocok atau memungkinkan |
 | 買い物に付き合う | かいものにつきあう | menemani belanja; 付き合う here means accompany |
-| 結婚を申し込む | けっこんをもうしこむ | melamar menikah; istilah dasar dalam topik hari ini. |
-| 断る | ことわる | menolak; istilah dasar dalam topik hari ini. |
+| 結婚を申し込む | けっこんをもうしこむ | melamar menikah; sering muncul saat membaca ajakan, janji bertemu, respons, dan ungkapan perasaan dalam hubungan sosial. |
+| 断る | ことわる | menolak; sering muncul saat membaca ajakan, janji bertemu, respons, dan ungkapan perasaan dalam hubungan sosial. |
 | あいまいな返事をする | あいまいなへんじをする | memberi jawaban samar; あいまい = vague/ambiguous |
 
 ### Sifat dan Kondisi
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| 仲がいい | なかがいい | akrab; hubungan baik; istilah dasar dalam topik hari ini. |
-| 仲良しだ | なかよしだ | berteman baik; istilah dasar dalam topik hari ini. |
-| 好きになる | すきになる | mulai suka; change into liking someone/something |
-| うらやましい | うらやましい | iri; istilah dasar dalam topik hari ini. |
-| 気がある | きがある | tertarik pada; punya perasaan; often romantic interest |
+| 仲がいい | なかがいい | akrab; hubungan baik; sering muncul saat membaca ajakan, janji bertemu, respons, dan ungkapan perasaan dalam hubungan sosial. |
+| 仲良しだ | なかよしだ | berteman baik; sering muncul saat membaca ajakan, janji bertemu, respons, dan ungkapan perasaan dalam hubungan sosial. |
+| 好きになる | すきになる | mulai suka; mulai menyukai seseorang atau sesuatu |
+| うらやましい | うらやましい | iri; sering muncul saat membaca ajakan, janji bertemu, respons, dan ungkapan perasaan dalam hubungan sosial. |
+| 気がある | きがある | tertarik pada; punya perasaan; sering berarti ketertarikan romantis |
 
 ### Waktu dan Jadwal
 
@@ -81,10 +81,10 @@ Pelajaran ini membantu kamu melihat hubungan antara istilah utama, benda, tindak
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| 付き合い | つきあい | hubungan; pergaulan; noun form of 付き合う |
-| 恋人 | こいびと | kekasih; pacar; gender-neutral |
-| 彼／彼氏 | かれ／かれし | dia laki-laki; pacar laki-laki; 彼 can mean he or boyfriend depending on context |
-| 彼女 | かのじょ | dia perempuan; pacar perempuan; depends on context |
+| 付き合い | つきあい | hubungan; pergaulan; bentuk nomina of 付き合う |
+| 恋人 | こいびと | kekasih; pacar; netral gender |
+| 彼／彼氏 | かれ／かれし | dia laki-laki; pacar laki-laki; 彼 bisa berarti dia laki-laki atau pacar laki-laki, tergantung konteks |
+| 彼女 | かのじょ | dia perempuan; pacar perempuan; tergantung konteks |
 
 ## Peta Kata
 
@@ -101,7 +101,8 @@ Pelajaran ini membantu kamu melihat hubungan antara istilah utama, benda, tindak
   <span>いやになる</span>
 </div>
 
-Kata-kata hari ini bisa dibaca sebagai alur: istilah utama untuk mengenali konteks, benda atau tempat yang menjadi objek, tindakan yang dilakukan, lalu kondisi atau hasil yang perlu diperhatikan. Saat membaca teks pendek, cari dulu kata inti seperti 交際する, lalu lihat kata kerja dan partikelnya untuk memahami siapa melakukan apa.
+Bayangkan kamu sedang membaca atau mendengar situasi tentang mengajak kencan: kata intinya bisa berupa 交際する, 付き合う, dan けんかする; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
 
 ## Catatan Pemakaian
 
@@ -125,45 +126,45 @@ Kata-kata hari ini bisa dibaca sebagai alur: istilah utama untuk mengenali konte
 
 | Pola | Arti praktis | Catatan membaca |
 |---|---|---|
-| 交際する | berpacaran; menjalin hubungan | formal/written for dating or social relations |
-| 付き合う | berpacaran; bergaul dengan | can mean dating or accompanying someone |
-| けんかする | bertengkar | istilah dasar dalam topik hari ini. |
-| 仲直りする | berbaikan | istilah dasar dalam topik hari ini. |
-| 仲がいい | akrab; hubungan baik | istilah dasar dalam topik hari ini. |
-| 気になる | penasaran; ingin tahu | often used when someone/something stays on your mind |
-| 好きになる | mulai suka | change into liking someone/something |
-| きらいになる | menjadi tidak suka | istilah dasar dalam topik hari ini. |
+| 交際する | berpacaran; menjalin hubungan | formal atau tertulis untuk hubungan romantis atau hubungan sosial |
+| 付き合う | berpacaran; bergaul dengan | bisa berarti berpacaran atau menemani seseorang |
+| けんかする | bertengkar | sering muncul saat membaca ajakan, janji bertemu, respons, dan ungkapan perasaan dalam hubungan sosial. |
+| 仲直りする | berbaikan | sering muncul saat membaca ajakan, janji bertemu, respons, dan ungkapan perasaan dalam hubungan sosial. |
+| 仲がいい | akrab; hubungan baik | sering muncul saat membaca ajakan, janji bertemu, respons, dan ungkapan perasaan dalam hubungan sosial. |
+| 気になる | penasaran; ingin tahu | sering dipakai saat seseorang atau sesuatu terus terpikirkan |
+| 好きになる | mulai suka | mulai menyukai seseorang atau sesuatu |
+| きらいになる | menjadi tidak suka | sering muncul saat membaca ajakan, janji bertemu, respons, dan ungkapan perasaan dalam hubungan sosial. |
 
-Gunakan tabel ini sebagai pegangan saat melihat kata dalam kalimat. Kata kerja dan frasa sering lebih mudah dipahami jika kamu membaca seluruh pola, bukan hanya satu kata.
+Perhatikan pola partikel: `を` menandai objek tindakan, `が` sering menandai keadaan, `に` menunjukkan tujuan atau arah, dan `で` menunjukkan alat, tempat, atau cara.
 
 ## Contoh Kalimat
 
 <div class="example-list">
-  <div><p class="jp">交際する。</p><p>berpacaran; menjalin hubungan.</p></div>
-  <div><p class="jp">けんかする。</p><p>bertengkar.</p></div>
-  <div><p class="jp">仲直りする。</p><p>berbaikan.</p></div>
-  <div><p class="jp">仲がいいです。</p><p>akrab; hubungan baik.</p></div>
-  <div><p class="jp">気になる。</p><p>penasaran; ingin tahu.</p></div>
+  <div><p class="jp">二人は大学のころから交際しています。</p><p>Mereka berpacaran sejak masa kuliah.</p></div>
+  <div><p class="jp">けんかしたあと、すぐに仲直りしました。</p><p>Setelah bertengkar, mereka segera berbaikan.</p></div>
+  <div><p class="jp">来週の予定はまだ都合がつくか分かりません。</p><p>Saya belum tahu apakah jadwal minggu depan memungkinkan.</p></div>
+  <div><p class="jp">彼女のことが気になって、なかなか勉強に集中できません。</p><p>Saya terus memikirkan dia, jadi sulit berkonsentrasi belajar.</p></div>
+  <div><p class="jp">友だちにデートに誘われましたが、今回は断りました。</p><p>Saya diajak kencan oleh teman, tetapi kali ini saya menolak.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar
 
 | Pasangan | Cara membedakan |
 |---|---|
-| 交際する / 付き合う | 交際する cocok untuk berpacaran; menjalin hubungan; 付き合う cocok untuk berpacaran; bergaul dengan. Bedakan dari kata sekitar dan pola partikel yang muncul. |
-| 仲直りする / 仲がいい | 仲直りする cocok untuk berbaikan; 仲がいい cocok untuk akrab; hubungan baik. Bedakan dari kata sekitar dan pola partikel yang muncul. |
-| 仲がいい / 仲良しだ | 仲がいい cocok untuk akrab; hubungan baik; 仲良しだ cocok untuk berteman baik. Bedakan dari kata sekitar dan pola partikel yang muncul. |
-| 都合をつける / 都合がつく | 都合をつける cocok untuk menyesuaikan jadwal; 都合がつく cocok untuk waktunya cocok; bisa. Bedakan dari kata sekitar dan pola partikel yang muncul. |
+| 交際する / 付き合う | 交際する cocok untuk berpacaran; menjalin hubungan; 付き合う cocok untuk berpacaran; bergaul dengan. Gunakan kata sekitar dan partikel sebagai petunjuk. |
+| 仲直りする / 仲がいい | 仲直りする cocok untuk berbaikan; 仲がいい cocok untuk akrab; hubungan baik. Gunakan kata sekitar dan partikel sebagai petunjuk. |
+| 仲がいい / 仲良しだ | 仲がいい cocok untuk akrab; hubungan baik; 仲良しだ cocok untuk berteman baik. Gunakan kata sekitar dan partikel sebagai petunjuk. |
+| 都合をつける / 都合がつく | 都合をつける cocok untuk menyesuaikan jadwal; 都合がつく cocok untuk waktunya cocok; bisa. Gunakan kata sekitar dan partikel sebagai petunjuk. |
 
 ## Kesalahan Umum
 
-Jangan memilih kata hanya karena terjemahannya mirip. Untuk kosakata N3, yang sering menentukan makna adalah pasangan katanya: objek dengan を, keadaan dengan が, tujuan dengan に, atau alat/tempat dengan で.
+Jangan menerjemahkan kata satu per satu tanpa melihat frasa lengkap. Banyak kata terlihat mirip dalam bahasa Indonesia, tetapi berbeda saat dipasangkan dengan partikel, benda, atau kata kerja tertentu.
 
-Strategi cepat: baca satu frasa penuh dulu, lalu baru cocokkan arti. Jika kata berupa frasa kerja, hafalkan bersama partikelnya.
+Strategi cepat: cari dulu kata intinya, lalu cek partikel dan kata kerja di dekatnya. Jika bentuknya frasa kerja, hafalkan bersama pasangan katanya, bukan sebagai kata tunggal.
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
 
 ::MiniPractice
 ---
@@ -172,7 +173,7 @@ sentence: "友だちを映画に____。"
 optionA: "誘う"
 optionB: "断る"
 correct: "誘う"
-explanation: "誘う benar. 人をNに誘う berarti mengajak seseorang ke suatu kegiatan."
+explanation: "誘う benar. 人を（N）に誘う berarti mengajak seseorang ke suatu kegiatan."
 ---
 ::
 

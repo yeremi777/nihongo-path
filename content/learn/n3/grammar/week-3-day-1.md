@@ -1,6 +1,6 @@
 ---
 title: "いくら安くても"
-description: "Belajar pola grammar N3 untuk menyatakan meskipun, seberapa pun, dan melakukan sesuatu tanpa tindakan tertentu."
+description: "Belajar memahami grammar N3 untuk menyatakan meskipun, seberapa pun, dan melakukan sesuatu tanpa tindakan tertentu."
 level: "N3"
 category: "grammar"
 topic: "いくら安くても"
@@ -157,7 +157,7 @@ Untuk `〜ずに`, bentuk dasarnya adalah bentuk negatif tanpa `ない`, lalu ta
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat. Perhatikan konteks, bentuk sebelum pola, dan nuansa kalimat sebelum memilih.
 
 ::MiniPractice
 ---

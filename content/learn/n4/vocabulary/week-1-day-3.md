@@ -22,12 +22,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa menjelaskan kondisi badan, memberi saran agar tidak memaksakan diri, dan membedakan kata kerja membawa orang dengan membawa barang.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat membicarakan kondisi tubuh, sakit, berganti pakaian, dan membawa orang atau barang.
 
-Topik ini penting dalam percakapan sehari-hari: saat teman terlihat tidak sehat, saat mengganti pakaian, atau saat membuat janji untuk menjemput dan mengantar seseorang.
+Fokus hari ini bukan hanya menghafal arti kata seperti 気分, 病気をする, 病気になる, dan けがをする, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> orang atau hewan memakai 連れて行く／連れて来る, sedangkan barang memakai 持って行く／持って来る. Perhatikan juga arah 行く dan 来る.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -82,6 +82,10 @@ Topik ini penting dalam percakapan sehari-hari: saat teman terlihat tidak sehat,
   <span>持って行く</span>
   <span>迎えに行く</span>
 </div>
+
+Bayangkan kamu sedang membaca atau mendengar situasi tentang kondisi tubuh dan antar-jemput: kata intinya bisa berupa 気分, 病気をする, dan 病気になる; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
+
 
 Alurnya dimulai dari kondisi badan: 気分が悪い, 病気をする, atau けがをする. Dari situ muncul saran seperti 無理をしないで. Setelah itu, kegiatan praktis muncul: 着替える, membawa お弁当, menjemput teman, atau mengantar keluarga ke stasiun.
 
@@ -139,7 +143,7 @@ Untuk kata kerja arah, bayangkan posisi pembicara. Kalau orang/barang bergerak k
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
 
 ::MiniPractice
 ---

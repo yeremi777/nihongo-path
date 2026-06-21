@@ -21,12 +21,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca kata keterangan yang menjelaskan cara melakukan sesuatu: ceroboh, sengaja, rapi, jelas, pelan, atau diam-diam.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat membedakan kata keterangan cara seperti sengaja, rapi, diam-diam, dan perlahan.
 
-Fokusnya adalah melihat sikap pembicara terhadap tindakan, bukan hanya arti kamus.
+Fokus hari ini bukan hanya menghafal arti kata seperti うっかり（する）, つい, わざと, dan ちゃんと, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> bedakan うっかり sebagai tidak sengaja dan わざと sebagai sengaja.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -62,6 +62,10 @@ Adverb hari ini menjelaskan kualitas tindakan. Sebagian menilai kesalahan, sebag
   <span>そっと</span>
 </div>
 
+Bayangkan kamu sedang membaca atau mendengar situasi tentang kata keterangan cara: kata intinya bisa berupa うっかり（する）, つい, dan わざと; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+
+
+
 ## Catatan Pemakaian
 
 - **Kesalahan:** うっかり dan つい sering menjelaskan tindakan yang terjadi tanpa niat kuat.
@@ -71,9 +75,9 @@ Adverb hari ini menjelaskan kualitas tindakan. Sebagian menilai kesalahan, sebag
 
 ## Pola yang Sering Muncul
 
-- **うっかりNを忘れる:** lupa tanpa sengaja.
+- **うっかり（N）を忘れる:** lupa tanpa sengaja.
 - **わざとV:** sengaja melakukan.
-- **ちゃんとNをV:** melakukan dengan benar.
+- **ちゃんと（N）をV:** melakukan dengan benar.
 - **そっとV:** melakukan pelan/lembut.
 
 ## Contoh Kalimat
@@ -97,6 +101,8 @@ Adverb hari ini menjelaskan kualitas tindakan. Sebagian menilai kesalahan, sebag
 - Cari verba setelah adverb untuk menentukan cara tindakannya.
 
 ## Mini Practice
+
+Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
 
 ::MiniPractice
 ---
@@ -133,21 +139,21 @@ explanation: "そっと cocok untuk gerakan pelan/lembut."
 
 ::MiniPractice
 ---
-question: "PR lupa dibawa tanpa sengaja."
+question: "Saya tidak sengaja lupa membawa PR."
 sentence: "____宿題を忘れた。"
-optionA: "うっかり（する）"
+optionA: "うっかり"
 optionB: "つい"
-correct: "うっかり（する）"
+correct: "うっかり"
 explanation: "うっかり menunjukkan kelupaan atau ceroboh tanpa sengaja."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Sesuatu terlanjur diucapkan tanpa sadar."
+question: "Saya tanpa sadar mengatakan hal yang sebenarnya."
 sentence: "____本当のことを言ってしまった。"
 optionA: "つい"
-optionB: "うっかり（する）"
+optionB: "うっかり"
 correct: "つい"
 explanation: "つい cocok dengan 言ってしまった untuk tindakan yang terlanjur terjadi."
 ---

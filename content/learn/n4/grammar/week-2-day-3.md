@@ -1,6 +1,6 @@
 ---
 title: "教えてくれてありがとう。"
-description: "Belajar pola grammar N4 untuk terima kasih sudah mengajari saya dalam konteks belajar, percakapan, dan instruksi sederhana."
+description: "Belajar memahami grammar N4 untuk memberi dan menerima bantuan agar bisa memilih bentuk, partikel, dan nuansa yang tepat."
 level: "N4"
 category: "grammar"
 topic: "教えてくれてありがとう。"
@@ -22,24 +22,24 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa memakai pola N4 dalam topik **教えてくれてありがとう。** untuk memberi dan menerima bantuan. Fokusnya adalah memilih partikel, bentuk verba, atau ekspresi yang sesuai dengan konteks kalimat.
+Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N4 untuk memberi dan menerima bantuan. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan konteks.
 
-Kamu juga akan membedakan pola yang mirip agar tidak menerjemahkan langsung dari bahasa Indonesia tanpa melihat petunjuk bentuk Jepangnya.
+Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya bergantung pada terjemahan bahasa Indonesia.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca fungsi komunikasinya dulu, lalu cek bentuk sebelum dan sesudah pola. Banyak kesalahan N4 muncul karena arti Indonesianya mirip, tetapi partikel atau bentuk akhirnya berbeda.
+  <strong>Fokus hari ini:</strong> baca fungsi kalimatnya dulu. Setelah itu cek partikel, bentuk verba, dan nuansa yang membuat satu pola lebih tepat daripada pola lain.
 </div>
 
 ## Pola Hari Ini
 
 | Fungsi | Pola | Arti praktis | Kapan dipakai |
 |---|---|---|---|
-| Memberi / menerima barang | 〜をあげる・〜をくれる・〜をもらう | Memberi / menerima barang | Dipakai saat ingin menyatakan memberi / menerima barang dengan bentuk （N）をあげる／くれる／もらう. |
-| Melakukan sesuatu untuk orang lain | 〜てあげる | Melakukan sesuatu untuk orang lain | Dipakai saat ingin menyatakan melakukan sesuatu untuk orang lain dengan bentuk （V）て + あげる. |
-| Seseorang melakukan sesuatu untuk saya/kita | 〜てくれる | Seseorang melakukan sesuatu untuk saya/kita | Dipakai saat ingin menyatakan seseorang melakukan sesuatu untuk saya/kita dengan bentuk （V）て + くれる. |
-| Mendapat bantuan / meminta seseorang melakukan | 〜てもらう | Mendapat bantuan / meminta seseorang melakukan ~ | Dipakai saat ingin menyatakan mendapat bantuan / meminta seseorang melakukan ~ dengan bentuk （V）て + もらう. |
-| Kata kerja sopan untuk memberi dan menerima | 〜さしあげる・〜くださる・〜いただく | Kata kerja sopan untuk memberi dan menerima | Dipakai saat ingin menyatakan kata kerja sopan untuk memberi dan menerima dengan bentuk （N）をさしあげる／くださる／いただく. |
-| Bentuk sopan untuk memberi/menerima bantuan tindakan | 〜てさしあげる・〜てくださる・〜ていただく | Bentuk sopan untuk memberi/menerima bantuan tindakan | Dipakai saat ingin menyatakan bentuk sopan untuk memberi/menerima bantuan tindakan dengan bentuk （V）て + さしあげる／くださる／いただく. |
+| Memberi / menerima barang | 〜をあげる・〜をくれる・〜をもらう | Memberi / menerima barang | dipakai saat memberi / menerima barang; bentuknya （N）をあげる／くれる／もらう. |
+| Melakukan sesuatu untuk orang lain | 〜てあげる | Melakukan sesuatu untuk orang lain | dipakai saat melakukan sesuatu untuk orang lain; bentuknya （V）て + あげる. |
+| Seseorang melakukan sesuatu untuk saya/kita | 〜てくれる | Seseorang melakukan sesuatu untuk saya/kita | dipakai saat seseorang melakukan sesuatu untuk saya/kita; bentuknya （V）て + くれる. |
+| Mendapat bantuan / meminta seseorang melakukan | 〜てもらう | Mendapat bantuan / meminta seseorang melakukan ~ | dipakai saat mendapat bantuan / meminta seseorang melakukan ~; bentuknya （V）て + もらう. |
+| Kata kerja sopan untuk memberi dan menerima | 〜さしあげる・〜くださる・〜いただく | Kata kerja sopan untuk memberi dan menerima | dipakai saat kata kerja sopan untuk memberi dan menerima; bentuknya （N）をさしあげる／くださる／いただく. |
+| Bentuk sopan untuk memberi/menerima bantuan tindakan | 〜てさしあげる・〜てくださる・〜ていただく | Bentuk sopan untuk memberi/menerima bantuan tindakan | dipakai saat bentuk sopan untuk memberi/menerima bantuan tindakan; bentuknya （V）て + さしあげる／くださる／いただく. |
 
 ## Peta Pola
 
@@ -52,85 +52,85 @@ Kamu juga akan membedakan pola yang mirip agar tidak menerjemahkan langsung dari
   <span>〜てさしあげる・〜てくださる・〜ていただく</span>
 </div>
 
-Pola hari ini saling terhubung oleh fungsi **memberi dan menerima bantuan**. Gunakan tabel pola sebagai peta cepat: pola yang terlihat mirip biasanya berbeda pada petunjuk seperti partikel, bentuk negatif, bentuk lampau, bentuk kamus, atau sudut pandang pembicara.
+Pola hari ini sama-sama dipakai untuk **memberi dan menerima bantuan**, tetapi petunjuknya berbeda. Perhatikan partikel, bentuk negatif/lampau, bentuk kamus, dan siapa yang menjadi fokus kalimat.
 
 ## Cara Membentuk Pola
 
-Simbol utama: （N）= nomina, （V）= verba, （Clause）= klausa, （いAdj）= kata sifat-i, dan （なAdj）= kata sifat-na.
+Simbol utama: （N） berarti nomina, （V） berarti verba, （Klausa） berarti klausa, （いAdj） berarti kata sifat-i, dan （なAdj） berarti kata sifat-na.
 
 | Pola | Bentuk dasar | Catatan bentuk |
 |---|---|---|
-| 〜をあげる・〜をくれる・〜をもらう | （N）をあげる／くれる／もらう | Gunakan bentuk ini untuk memberi / menerima barang. |
-| 〜てあげる | （V）て + あげる | Gunakan bentuk ini untuk melakukan sesuatu untuk orang lain. |
-| 〜てくれる | （V）て + くれる | Gunakan bentuk ini untuk seseorang melakukan sesuatu untuk saya/kita. |
-| 〜てもらう | （V）て + もらう | Gunakan bentuk ini untuk mendapat bantuan / meminta seseorang melakukan ~. |
-| 〜さしあげる・〜くださる・〜いただく | （N）をさしあげる／くださる／いただく | Gunakan bentuk ini untuk kata kerja sopan untuk memberi dan menerima. |
-| 〜てさしあげる・〜てくださる・〜ていただく | （V）て + さしあげる／くださる／いただく | Gunakan bentuk ini untuk bentuk sopan untuk memberi/menerima bantuan tindakan. |
+| 〜をあげる・〜をくれる・〜をもらう | （N）をあげる／くれる／もらう | dipakai untuk memberi / menerima barang. |
+| 〜てあげる | （V）て + あげる | dipakai untuk melakukan sesuatu untuk orang lain. |
+| 〜てくれる | （V）て + くれる | dipakai untuk seseorang melakukan sesuatu untuk saya/kita. |
+| 〜てもらう | （V）て + もらう | dipakai untuk mendapat bantuan / meminta seseorang melakukan ~. |
+| 〜さしあげる・〜くださる・〜いただく | （N）をさしあげる／くださる／いただく | dipakai untuk kata kerja sopan untuk memberi dan menerima. |
+| 〜てさしあげる・〜てくださる・〜ていただく | （V）て + さしあげる／くださる／いただく | dipakai untuk bentuk sopan untuk memberi/menerima bantuan tindakan. |
 
 ## Bangun Kalimat Bertahap
 
 | Langkah | Jepang | Fungsi |
 |---|---|---|
-| Bahan | （N）をあげる／くれる／もらう | Bentuk untuk memberi / menerima barang |
+| Bahan | （N）をあげる／くれる／もらう | bentuk untuk memberi / menerima barang |
 | Kalimat | 田中さんが私にセーターをくれました。 | Memberi / menerima barang |
-| Bahan | （V）て + あげる | Bentuk untuk melakukan sesuatu untuk orang lain |
+| Bahan | （V）て + あげる | bentuk untuk melakukan sesuatu untuk orang lain |
 | Kalimat | 友だちの引っこしを手伝ってあげました。 | Melakukan sesuatu untuk orang lain |
-| Bahan | （V）て + くれる | Bentuk untuk seseorang melakukan sesuatu untuk saya/kita |
+| Bahan | （V）て + くれる | bentuk untuk seseorang melakukan sesuatu untuk saya/kita |
 | Kalimat | 田中さんは私に地図をかいてくれました。 | Seseorang melakukan sesuatu untuk saya/kita |
-| Bahan | （V）て + もらう | Bentuk untuk mendapat bantuan / meminta seseorang melakukan |
+| Bahan | （V）て + もらう | bentuk untuk mendapat bantuan / meminta seseorang melakukan |
 | Kalimat | 田中さんに地図をかいてもらいました。 | Mendapat bantuan / meminta seseorang melakukan ~ |
-| Bahan | （N）をさしあげる／くださる／いただく | Bentuk untuk kata kerja sopan untuk memberi dan menerima |
+| Bahan | （N）をさしあげる／くださる／いただく | bentuk untuk kata kerja sopan untuk memberi dan menerima |
 | Kalimat | 先生が本をくださいました。 | Kata kerja sopan untuk memberi dan menerima |
 
-Bagian ini menjembatani rumus dan kalimat penuh. Ambil bentuk pendeknya dulu, lalu masukkan ke kalimat yang punya konteks jelas.
+Bagian ini menghubungkan rumus dan kalimat penuh. Mulai dari bentuk pendeknya dulu, lalu cek fungsi pola sebelum membaca contoh lengkap.
 
 ## Catatan Pemakaian
 
 ### 〜をあげる・〜をくれる・〜をもらう
 
-Pola ini dipakai untuk **memberi / menerima barang**. Bentuk intinya adalah （N）をあげる／くれる／もらう.
+Gunakan pola ini untuk **memberi / menerima barang**. Bentuk dasarnya: （N）をあげる／くれる／もらう.
 
-Catatan praktis: あげる moves away from speaker side. くれる moves toward speaker side. もらう focuses on receiving.
+Catatan praktis: あげる bergerak menjauh dari sisi pembicara. くれる bergerak menuju sisi pembicara. もらう berfokus pada menerima.
 
 Contoh inti: 田中さんが私にセーターをくれました。
 
 ### 〜てあげる
 
-Pola ini dipakai untuk **melakukan sesuatu untuk orang lain**. Bentuk intinya adalah （V）て + あげる.
+Gunakan pola ini untuk **melakukan sesuatu untuk orang lain**. Bentuk dasarnya: （V）て + あげる.
 
-Catatan praktis: The speaker atau subject does a helpful action untuk another person.
+Catatan praktis: Pembicara atau subjek melakukan tindakan bantuan untuk orang lain.
 
 Contoh inti: 友だちの引っこしを手伝ってあげました。
 
 ### 〜てくれる
 
-Pola ini dipakai untuk **seseorang melakukan sesuatu untuk saya/kita**. Bentuk intinya adalah （V）て + くれる.
+Gunakan pola ini untuk **seseorang melakukan sesuatu untuk saya/kita**. Bentuk dasarnya: （V）て + くれる.
 
-Catatan praktis: menunjukkan that someone does an action untuk the speaker’s side. Often menunjukkan gratitude.
+Catatan praktis: menunjukkan seseorang melakukan tindakan untuk pihak pembicara. Sering terasa sebagai rasa terima kasih.
 
 Contoh inti: 田中さんは私に地図をかいてくれました。
 
 ### 〜てもらう
 
-Pola ini dipakai untuk **mendapat bantuan / meminta seseorang melakukan ~**. Bentuk intinya adalah （V）て + もらう.
+Gunakan pola ini untuk **mendapat bantuan / meminta seseorang melakukan ~**. Bentuk dasarnya: （V）て + もらう.
 
-Catatan praktis: Focuses on receiving help atau benefit from another person.
+Catatan praktis: Berfokus pada menerima bantuan atau manfaat dari orang lain.
 
 Contoh inti: 田中さんに地図をかいてもらいました。
 
 ### 〜さしあげる・〜くださる・〜いただく
 
-Pola ini dipakai untuk **kata kerja sopan untuk memberi dan menerima**. Bentuk intinya adalah （N）をさしあげる／くださる／いただく.
+Gunakan pola ini untuk **kata kerja sopan untuk memberi dan menerima**. Bentuk dasarnya: （N）をさしあげる／くださる／いただく.
 
-Catatan praktis: Polite giving-receiving verbs used dengan seniors atau outside people.
+Catatan praktis: Verba memberi-menerima yang sopan dipakai kepada senior atau orang luar kelompok sendiri.
 
 Contoh inti: 先生が本をくださいました。
 
 ### 〜てさしあげる・〜てくださる・〜ていただく
 
-Pola ini dipakai untuk **bentuk sopan untuk memberi/menerima bantuan tindakan**. Bentuk intinya adalah （V）て + さしあげる／くださる／いただく.
+Gunakan pola ini untuk **bentuk sopan untuk memberi/menerima bantuan tindakan**. Bentuk dasarnya: （V）て + さしあげる／くださる／いただく.
 
-Catatan praktis: Polite version of 〜てあげる／〜てくれる／〜てもらう.
+Catatan praktis: Sopan version of 〜てあげる／〜てくれる／〜てもらう.
 
 Contoh inti: 先生に地図をかいていただきました。
 
@@ -152,34 +152,34 @@ Contoh inti: 先生に地図をかいていただきました。
   <div><p class="jp">私は田中さんにセーターをもらいました。</p><p>Saya menerima sweater dari Tanaka-san.</p></div>
   <div><p class="jp">教えてくれてありがとう。</p><p>Terima kasih sudah mengajari saya.</p></div>
   <div><p class="jp">友だちに東京駅まで連れて行ってもらいました。</p><p>Saya mendapat bantuan teman untuk mengantar saya ke Stasiun Tokyo.</p></div>
-  <div><p class="jp">友だちの引っこしを手伝ってあげました。</p><p>Kalimat ini memakai 〜てあげる untuk arti melakukan sesuatu untuk orang lain.</p></div>
-  <div><p class="jp">田中さんは私に地図をかいてくれました。</p><p>Kalimat ini memakai 〜てくれる untuk arti seseorang melakukan sesuatu untuk saya/kita.</p></div>
+  <div><p class="jp">友だちの引っこしを手伝ってあげました。</p><p>Saya membantu teman pindah rumah.</p></div>
+  <div><p class="jp">田中さんは私に地図をかいてくれました。</p><p>Tanaka-san menggambarkan peta untuk saya.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar
 
 | Pasangan | Cara membedakan |
 |---|---|
-| あげる / くれる | Bedakan dari fungsi utamanya: Give away from speaker side dibanding give toward speaker side. Petunjuk pilihan: Gunakan あげる saat I/my side gives. gunakan くれる saat someone gives to me/my side.. |
-| くれる / もらう | Bedakan dari fungsi utamanya: Someone gives to me dibanding I receive from someone. Petunjuk pilihan: Gunakan くれる saat the giver is subject. gunakan もらう saat the receiver is subject.. |
-| 〜てあげる / 〜てくれる | Bedakan dari fungsi utamanya: Do untuk someone else dibanding someone does untuk me. Petunjuk pilihan: Gunakan 〜てあげる saat the helper is speaker side. gunakan 〜てくれる saat the helper benefits speaker side.. |
-| 〜てくれる / 〜てもらう | Bedakan dari fungsi utamanya: Someone kindly does untuk me dibanding I receive help. Petunjuk pilihan: Gunakan 〜てくれる to show gratitude toward the helper. gunakan 〜てもらう to focus on receiving help.. |
-| 〜てあげる / 〜てさしあげる | Bedakan dari fungsi utamanya: Normal help dibanding polite/humble help. Petunjuk pilihan: Gunakan 〜てさしあげる carefully. It can sound too direct if overused.. |
+| あげる / くれる | Bedakan dari fungsi utamanya: Memberi menjauh dari sisi pembicara dibanding memberi menuju sisi pembicara. Petunjuk pilihan: Gunakan あげる saat saya/pihak saya memberi. Gunakan くれる saat seseorang memberi kepada saya/pihak saya. |
+| くれる / もらう | Bedakan dari fungsi utamanya: Seseorang memberi kepada saya dibanding saya menerima dari seseorang. Petunjuk pilihan: Gunakan くれる saat pemberi menjadi subjek. Gunakan もらう saat penerima menjadi subjek. |
+| 〜てあげる / 〜てくれる | Bedakan dari fungsi utamanya: Melakukan untuk orang lain dibanding seseorang melakukan untuk saya. Petunjuk pilihan: Gunakan 〜てあげる saat pemberi bantuan ada di sisi pembicara. Gunakan 〜てくれる saat bantuan menguntungkan sisi pembicara. |
+| 〜てくれる / 〜てもらう | Bedakan dari fungsi utamanya: Seseorang melakukan untuk saya dibanding saya menerima bantuan. Petunjuk pilihan: Gunakan 〜てくれる untuk menunjukkan terima kasih kepada pemberi bantuan. Gunakan 〜てもらう untuk berfokus pada penerimaan bantuan. |
+| 〜てあげる / 〜てさしあげる | Bedakan dari fungsi utamanya: Bantuan biasa dibanding bantuan sopan/rendah hati. Petunjuk pilihan: Gunakan 〜てさしあげる dengan hati-hati. It can suara too direct if overused. |
 
 ## Kesalahan Umum
 
 | Salah | Benar | Kenapa |
 |---|---|---|
-| 田中さんが私にセーターをあげました。 | 田中さんが私にセーターをくれました。 | くれる is untuk actions toward me/my side |
-| 田中さんは私にセーターをもらいました。 | 私は田中さんにセーターをもらいました。 | もらう uses the receiver as subject |
-| 教えてあげてありがとう。 | 教えてくれてありがとう。 | Thanking someone untuk help uses 〜てくれる |
-| 友だちを東京駅まで連れて行ってもらいました。 | 友だちに東京駅まで連れて行ってもらいました。 | Receiving help uses person に + 〜てもらう |
+| 田中さんが私にセーターをあげました。 | 田中さんが私にセーターをくれました。 | くれる dipakai untuk tindakan yang mengarah ke saya/pihak saya |
+| 田中さんは私にセーターをもらいました。 | 私は田中さんにセーターをもらいました。 | もらう memakai penerima sebagai subjek |
+| 教えてあげてありがとう。 | 教えてくれてありがとう。 | Berterima kasih atas bantuan seseorang memakai 〜てくれる |
+| 友だちを東京駅まで連れて行ってもらいました。 | 友だちに東京駅まで連れて行ってもらいました。 | Menerima bantuan memakai orang + に + 〜てもらう |
 
-Catatan untuk pembelajar Indonesia: Indonesian “memberi” and “menerima” do not show direction as strongly as Japanese. Japanese always cares about direction. - あげる = I/my side gives outward - くれる = someone gives toward me/my side - もらう = I/my side receives - 〜てくれる = someone does something for me - 〜てもらう = I receive help / get someone to do something
+Catatan untuk pembelajar Indonesia: “Memberi” dan “menerima” dalam bahasa Indonesia tidak selalu menunjukkan arah sekuat bahasa Jepang. Bahasa Jepang sangat memperhatikan arah: あげる = saya/pihak saya memberi keluar; くれる = seseorang memberi ke saya/pihak saya; もらう = saya/pihak saya menerima; 〜てくれる = seseorang melakukan sesuatu untuk saya; 〜てもらう = saya menerima bantuan / meminta seseorang melakukan sesuatu.
 
 ## Mini Practice
 
-Pilih jawaban yang paling tepat untuk melengkapi kalimat. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat. Perhatikan petunjuk partikel, bentuk kata, dan konteks kalimat sebelum memilih.
 
 ::MiniPractice
 ---
@@ -188,7 +188,7 @@ sentence: "田中さんが私にセーターを____ました。"
 optionA: "くれ"
 optionB: "あげ"
 correct: "くれ"
-explanation: "くれ benar. くれる is untuk actions toward me/my side"
+explanation: "くれ benar. くれる dipakai untuk tindakan yang mengarah ke saya/pihak saya"
 ---
 ::
 
@@ -199,7 +199,7 @@ sentence: "____にセーターをもらいました。"
 optionA: "私は田中さん"
 optionB: "田中さんは私"
 correct: "私は田中さん"
-explanation: "私は田中さん benar. もらう uses the receiver as subject"
+explanation: "私は田中さん benar. もらう memakai penerima sebagai subjek"
 ---
 ::
 
@@ -210,7 +210,7 @@ sentence: "教えて____てありがとう。"
 optionA: "くれ"
 optionB: "あげ"
 correct: "くれ"
-explanation: "くれ benar. Thanking someone untuk help uses 〜てくれる"
+explanation: "くれ benar. Berterima kasih atas bantuan seseorang memakai 〜てくれる"
 ---
 ::
 
@@ -221,18 +221,18 @@ sentence: "友だち____東京駅まで連れて行ってもらいました。"
 optionA: "に"
 optionB: "を"
 correct: "に"
-explanation: "に benar. Receiving help uses person に + 〜てもらう"
+explanation: "に benar. Menerima bantuan memakai orang + に + 〜てもらう"
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pola apa yang dipakai untuk arti: Memberi / menerima barang?"
-sentence: "例: 田中さんが私にセーターをくれました。 ポイント: ____"
-optionA: "〜をあげる・〜をくれる・〜をもらう"
-optionB: "〜てあげる"
-correct: "〜をあげる・〜をくれる・〜をもらう"
-explanation: "〜をあげる・〜をくれる・〜をもらう benar karena kalimat contoh menunjukkan memberi / menerima barang."
+question: "Saya memberi hadiah kepada adik perempuan."
+sentence: "妹____プレゼントをあげました。"
+optionA: "に"
+optionB: "が"
+correct: "に"
+explanation: "に benar karena penerima dalam pola あげる ditandai dengan に."
 ---
 ::
 

@@ -1,6 +1,6 @@
 ---
 title: "炊きたて"
-description: "Belajar pola grammar N3 untuk menyatakan pekerjaan selesai, tindakan selesai sepenuhnya, pekerjaan setengah jalan, dan hasil yang baru selesai."
+description: "Belajar memahami grammar N3 untuk menyatakan pekerjaan selesai, tindakan selesai sepenuhnya, pekerjaan setengah jalan, dan hasil yang baru selesai."
 level: "N3"
 category: "grammar"
 topic: "炊きたて"
@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali dan memakai pola pada topik **炊きたて** dalam konteks bacaan, percakapan, dan penjelasan N3. Fokusnya bukan hanya arti terjemahan, tetapi juga alasan memilih pola yang tepat.
+Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N3 untuk menyatakan pekerjaan selesai, tindakan selesai sepenuhnya, pekerjaan setengah jalan, dan hasil yang baru selesai. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan nuansa konteks.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> semua pola memakai stem verba, tetapi maknanya berbeda. 上げる／上がる melihat penyelesaian, 切る melihat tuntas sampai habis, かけ melihat belum selesai, dan たて melihat baru selesai serta masih segar.
@@ -35,7 +35,7 @@ Di akhir pelajaran ini, kamu bisa mengenali dan memakai pola pada topik **炊き
 | Menjadi selesai | 〜上がる | selesai / jadi | benda, makanan, atau pekerjaan selesai |
 | Tuntas sepenuhnya | 〜切る・〜切れる・〜切れない | habis / selesai total / tidak sanggup habis | aksi sampai batas akhir |
 | Setengah jalan | 〜かけ・〜かける | belum selesai / mulai / hampir | aksi sudah mulai tetapi belum selesai |
-| Baru selesai | 〜たて・〜たての | baru saja / fresh | makanan, produk, atau hasil baru selesai |
+| Baru selesai | 〜たて・〜たての | baru saja / masih segar | makanan, produk, atau hasil baru selesai |
 
 ## Peta Pola
 
@@ -47,7 +47,7 @@ Di akhir pelajaran ini, kamu bisa mengenali dan memakai pola pada topik **炊き
   <span>焼きたて</span>
 </div>
 
-上げる dan 上がる melihat penyelesaian dari sisi transitif dan intransitif. 切る menekankan tuntas sepenuhnya. かけ menunjukkan aksi belum selesai atau baru mulai. たて menunjukkan hasil yang baru selesai dan masih terasa fresh.
+上げる dan 上がる melihat penyelesaian dari sisi transitif dan intransitif. 切る menekankan tuntas sepenuhnya. かけ menunjukkan aksi belum selesai atau baru mulai. たて menunjukkan hasil yang baru selesai dan masih terasa segar.
 
 | Fungsi | Kerangka kalimat | Yang perlu dicek |
 |---|---|---|
@@ -55,9 +55,9 @@ Di akhir pelajaran ini, kamu bisa mengenali dan memakai pola pada topik **炊き
 | Benda selesai | （Vますstem）上がる | Apakah benda/hasilnya menjadi selesai? |
 | Tuntas | （Vますstem）切る | Apakah aksi selesai sampai habis? |
 | Tidak sanggup tuntas | （Vますstem）切れない | Apakah jumlah/tugas terlalu banyak? |
-| Belum selesai / fresh | （Vますstem）かけ／たて | Apakah aksi belum selesai atau baru selesai? |
+| Belum selesai / baru selesai | （Vますstem）かけ／たて | Apakah aksi belum selesai atau baru selesai? |
 
-Di tabel ini, `（A）` dan `（B）` menandai pihak pertama dan pihak kedua dalam hubungan kalimat, `（N）` adalah nomina atau frasa nomina, `（V）` adalah verba, `（Adj）` adalah adjektiva, `（clause）` dan `（plain form）` adalah klausa atau bentuk biasa, `（Sentence A）` dan `（Sentence B）` adalah dua kalimat yang dihubungkan, `（Option A）` dan `（Option B）` adalah dua pilihan, sedangkan `（question）`, `（number）`, `（predicate）`, dan `（result）` menandai slot pertanyaan, angka, predikat, dan hasil.
+Simbol di tabel ini hanya penanda slot. `（N）` berarti nomina atau frasa nomina, `（V）` berarti verba, `（Adj）` berarti adjektiva, `（klausa）` atau `（bentuk biasa）` berarti klausa atau bentuk biasa, dan pasangan seperti `（A）／（B）` atau `（Kalimat A）／（Kalimat B）` dipakai untuk membedakan dua sisi kalimat.
 
 ## Cara Membentuk Pola
 
@@ -81,9 +81,9 @@ Di tabel ini, `（A）` dan `（B）` menandai pihak pertama dan pihak kedua dal
 | 切る | tuntas sampai habis | 小説を読み切る |
 | 切れない | tidak sanggup habis | 食べ切れない |
 | かけ | setengah jalan | 読みかけの本 |
-| たて | baru selesai dan fresh | 炊きたてのご飯 |
+| たて | baru selesai dan masih segar | 炊きたてのご飯 |
 
-Sebelum membaca contoh panjang, ambil bagian yang berubah lebih dulu: apakah slotnya `（N）`, `（V辞書形）`, `（V普通形）`, `（Vますstem）`, `（Adj）`, atau satu `（clause）` utuh. Setelah itu baru cek partikel, bentuk negatif, dan hubungan antarbagian kalimat.
+Saat membangun kalimat, jangan mulai dari terjemahan kata per kata. Tentukan dulu slot yang berubah, lalu cek partikel, bentuk akhir, dan hubungan antarbagian kalimat.
 
 ## Bangun Kalimat Bertahap
 
@@ -95,7 +95,7 @@ Sebelum membaca contoh panjang, ambil bagian yang berubah lebih dulu: apakah slo
 | Nasi terlalu banyak | ご飯を食べる | 食べ切れない | ご飯が多くて、食べ切れません。 |
 | Roti baru dipanggang | パンを焼く | 焼きたて | 焼きたてのパンはいいにおいがします。 |
 
-Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pecah dulu menjadi bahan, bentuk pola, lalu kalimat jadi.
+Bagian ini menghubungkan rumus dan contoh kalimat. Mulai dari bahan pendeknya dulu, lalu cek fungsi pola sebelum membaca kalimat lengkap.
 
 ## Catatan Pemakaian
 
@@ -112,7 +112,7 @@ Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pe
 ### Belum selesai dan baru selesai
 
 - かけ menunjukkan aksi di tengah jalan atau hampir terjadi.
-- たて dipakai saat hasil baru selesai dan masih fresh, terutama makanan atau produk.
+- たて dipakai saat hasil baru selesai dan masih segar, terutama makanan atau produk.
 
 ## Pola yang Sering Muncul
 
@@ -144,7 +144,7 @@ Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pe
 | 切る / 上げる | 切る berarti tuntas sampai habis. 上げる sering untuk menyelesaikan karya/tugas dengan usaha. |
 | 切れない / られない | 切れない berarti tidak sanggup menyelesaikan sepenuhnya. られない hanya tidak bisa secara umum. |
 | かけ / 途中 | かけ menempel pada stem verba. 途中 adalah nomina umum untuk di tengah proses/perjalanan. |
-| たて / たばかり | たて menekankan fresh setelah selesai. たばかり hanya baru saja terjadi. |
+| たて / たばかり | たて menekankan kesegaran setelah selesai. たばかり hanya baru saja terjadi. |
 
 ## Kesalahan Umum
 
@@ -157,7 +157,7 @@ Bagian ini adalah jembatan sebelum contoh penuh. Jika kalimat terasa panjang, pe
 
 ## Mini Practice
 
-Pilih satu dari dua jawaban. Penjelasan baru muncul setelah kamu memilih.
+Pilih jawaban yang paling tepat. Perhatikan konteks, bentuk sebelum pola, dan nuansa kalimat sebelum memilih.
 
 ::MiniPractice
 ---
@@ -210,7 +210,7 @@ sentence: "____パンはおいしいです。"
 optionA: "焼きたての"
 optionB: "焼きかけの"
 correct: "焼きたての"
-explanation: "焼きたての benar karena roti baru selesai dipanggang dan masih fresh."
+explanation: "焼きたての benar karena roti baru selesai dipanggang dan masih segar."
 ---
 ::
 
