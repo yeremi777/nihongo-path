@@ -85,9 +85,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 ## Mini Practice
 
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
+
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: kios."
+question: "Kata mana yang berarti kios?"
 optionA: "売店"
 optionB: "貸出"
 correct: "売店"
@@ -97,7 +99,7 @@ explanation: "売店 berarti kios. 貸出 berarti peminjaman keluar."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: utang."
+question: "Kata mana yang berarti utang?"
 optionA: "借金"
 optionB: "座席"
 correct: "借金"
@@ -107,7 +109,7 @@ explanation: "借金 berarti utang. 座席 berarti tempat duduk."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: latihan."
+question: "Kata mana yang berarti latihan?"
 optionA: "練習"
 optionB: "乗車"
 correct: "練習"
@@ -117,7 +119,7 @@ explanation: "練習 berarti latihan. 乗車 berarti naik kendaraan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: kematian."
+question: "Kata mana yang berarti kematian?"
 optionA: "死亡"
 optionB: "不足"
 correct: "死亡"
@@ -127,7 +129,7 @@ explanation: "死亡 berarti kematian. 不足 berarti kekurangan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: tidak praktis."
+question: "Kata mana yang berarti tidak praktis?"
 optionA: "不便"
 optionB: "不安"
 correct: "不便"

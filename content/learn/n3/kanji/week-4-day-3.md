@@ -21,9 +21,9 @@ tags:
 
 ## Tujuan
 
-Mengenali kanji N3 yang sering muncul saat membaca 通信販売: 米、級、残、型、税、込、価、格。
+Mengenali kanji N3 yang sering muncul di halaman belanja online, katalog produk, pajak, harga, stok, dan ongkos pembelian: 米、級、残、型、税、込、価、格。
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 米、米国、高級、中級、残り、残業 dalam konteks nyata. Fokus hari ini bukan menghafal semua bacaan sekaligus, tetapi membaca kata majemuk utuh dan melihat fungsi kanji di dalam kalimat pendek.
+Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 米、米国、高級、中級、残り、残業 di halaman belanja online, katalog produk, pajak, harga, stok, dan ongkos pembelian. Fokus hari ini bukan menghafal semua bacaan sekaligus, tetapi mengenali kata yang paling mungkin muncul dalam konteks tersebut.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> bedakan harga dasar, pajak, harga termasuk pajak, dan status sisa barang.
@@ -56,7 +56,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: ベイ</span><span>kunyomi: こめ</span></span>
       </span>
     </summary>
-    <p>Dalam topik 通信販売, 米 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam halaman belanja online dan katalog produk, 米 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>米<rt>こめ</rt></ruby></span> - beras</li>
       <li><span class="ruby-word"><ruby>米国<rt>べいこく</rt></ruby></span> - Amerika Serikat</li>
@@ -72,7 +72,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: キュウ</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 通信販売, 級 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam halaman belanja online dan katalog produk, 級 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>高級<rt>こうきゅう</rt></ruby></span> - kelas tinggi</li>
       <li><span class="ruby-word"><ruby>中級<rt>ちゅうきゅう</rt></ruby></span> - tingkat menengah</li>
@@ -88,7 +88,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: ザン</span><span>kunyomi: のこる, のこす</span></span>
       </span>
     </summary>
-    <p>Dalam topik 通信販売, 残 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam halaman belanja online dan katalog produk, 残 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>残り<rt>のこり</rt></ruby></span> - sisa</li>
       <li><span class="ruby-word"><ruby>残業<rt>ざんぎょう</rt></ruby></span> - lembur</li>
@@ -104,7 +104,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: かた</span></span>
       </span>
     </summary>
-    <p>Dalam topik 通信販売, 型 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam halaman belanja online dan katalog produk, 型 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>新型<rt>しんがた</rt></ruby></span> - model baru</li>
       <li><span class="ruby-word"><ruby>小型<rt>こがた</rt></ruby></span> - ukuran kecil</li>
@@ -120,7 +120,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: ゼイ</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 通信販売, 税 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam halaman belanja online dan katalog produk, 税 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>消費税<rt>しょうひぜい</rt></ruby></span> - pajak konsumsi</li>
       <li><span class="ruby-word"><ruby>税金<rt>ぜいきん</rt></ruby></span> - pajak</li>
@@ -136,7 +136,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: こむ</span></span>
       </span>
     </summary>
-    <p>Dalam topik 通信販売, 込 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam halaman belanja online dan katalog produk, 込 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>税込<rt>ぜいこみ</rt></ruby></span> - termasuk pajak</li>
       <li><span class="ruby-word"><ruby>込む<rt>こむ</rt></ruby></span> - penuh sesak</li>
@@ -152,7 +152,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: カ</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 通信販売, 価 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam halaman belanja online dan katalog produk, 価 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>価格<rt>かかく</rt></ruby></span> - harga</li>
       <li><span class="ruby-word"><ruby>定価<rt>ていか</rt></ruby></span> - harga tetap</li>
@@ -168,7 +168,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: カク</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 通信販売, 格 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam halaman belanja online dan katalog produk, 格 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>格安<rt>かくやす</rt></ruby></span> - sangat murah</li>
       <li><span class="ruby-word"><ruby>合格<rt>ごうかく</rt></ruby></span> - lulus</li>
@@ -241,11 +241,11 @@ Kesalahan yang sering terjadi adalah memaksa kunyomi ke semua kata majemuk. Stra
 
 ## Mini Practice
 
-Pilih kata kanji yang paling sesuai dengan arti berikut. Penjelasan baru muncul setelah kamu memilih.
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: Amerika Serikat."
+question: "Kata mana yang berarti Amerika Serikat?"
 optionA: "米国"
 optionB: "高級"
 correct: "米国"
@@ -255,7 +255,7 @@ explanation: "米国 benar, dibaca べいこく, artinya Amerika Serikat."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: kelas tinggi."
+question: "Kata mana yang berarti kelas tinggi?"
 optionA: "中級"
 optionB: "高級"
 correct: "高級"
@@ -265,7 +265,7 @@ explanation: "高級 benar, dibaca こうきゅう, artinya kelas tinggi."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: tingkat menengah."
+question: "Kata mana yang berarti tingkat menengah?"
 optionA: "中級"
 optionB: "残業"
 correct: "中級"
@@ -275,7 +275,7 @@ explanation: "中級 benar, dibaca ちゅうきゅう, artinya tingkat menengah.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: lembur."
+question: "Kata mana yang berarti lembur?"
 optionA: "新型"
 optionB: "残業"
 correct: "残業"
@@ -285,7 +285,7 @@ explanation: "残業 benar, dibaca ざんぎょう, artinya lembur."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: ukuran kecil."
+question: "Kata mana yang berarti ukuran kecil?"
 optionA: "小型"
 optionB: "消費税"
 correct: "小型"

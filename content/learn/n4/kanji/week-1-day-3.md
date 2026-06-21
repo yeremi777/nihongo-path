@@ -89,9 +89,11 @@ Jangan menerjemahkan 遠慮 sebagai "jauh" secara langsung. Dalam percakapan, �
 
 ## Mini Practice
 
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
+
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: lingkungan sekitar."
+question: "Kata mana yang berarti lingkungan sekitar?"
 optionA: "近所"
 optionB: "最近"
 correct: "近所"
@@ -101,7 +103,7 @@ explanation: "近所 berarti lingkungan sekitar. 最近 berarti akhir-akhir ini.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: karyawisata."
+question: "Kata mana yang berarti karyawisata?"
 optionA: "遠足"
 optionB: "遠慮"
 correct: "遠足"
@@ -111,7 +113,7 @@ explanation: "遠足 berarti karyawisata. 遠慮 berarti sungkan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: penjelasan."
+question: "Kata mana yang berarti penjelasan?"
 optionA: "説明"
 optionB: "暗記"
 correct: "説明"
@@ -121,7 +123,7 @@ explanation: "説明 berarti penjelasan. 暗記 berarti hafalan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: praktis."
+question: "Kata mana yang berarti praktis?"
 optionA: "便利"
 optionB: "利用"
 correct: "便利"
@@ -131,7 +133,7 @@ explanation: "便利 berarti praktis. 利用 berarti penggunaan atau memanfaatka
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: cuaca buruk."
+question: "Kata mana yang berarti cuaca buruk?"
 optionA: "悪天候"
 optionB: "強風"
 correct: "悪天候"

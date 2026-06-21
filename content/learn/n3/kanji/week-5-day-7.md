@@ -23,7 +23,7 @@ tags:
 
 Mengenali enam kanji tambahan N3 dari minggu kelima: 厚, 泣, 鳴, 初, 泊, dan 葉.
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 厚い, 厚着, 泣く, 鳴る, 最初, 初めて, 宿泊, dan 言葉 dalam cerita pendek dan pengumuman perjalanan.
+Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 厚い, 厚着, 泣く, 鳴る, 最初, 初めて, 宿泊, dan 言葉 dalam cerita pendek, 案内 perjalanan, dan pengumuman penginapan.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> bedakan 泣 dan 鳴 dari subjeknya. Orang atau bayi 泣く; burung, bel, atau alarm 鳴る.
@@ -228,11 +228,11 @@ Strategi bacanya: perhatikan okurigana setelah kanji. 泣く dan 鳴る keduanya
 
 ## Mini Practice
 
-Pilih kata kanji yang paling sesuai dengan arti berikut. Penjelasan baru muncul setelah kamu memilih.
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: berpakaian tebal."
+question: "Kata mana yang berarti berpakaian tebal?"
 optionA: "厚着"
 optionB: "泣き声"
 correct: "厚着"
@@ -242,7 +242,7 @@ explanation: "厚着 benar, dibaca あつぎ, artinya berpakaian tebal."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: suara tangis."
+question: "Kata mana yang berarti suara tangis?"
 optionA: "最初"
 optionB: "泣き声"
 correct: "泣き声"
@@ -252,7 +252,7 @@ explanation: "泣き声 benar, dibaca なきごえ, artinya suara tangis."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: awal, yang pertama."
+question: "Kata mana yang berarti awal, yang pertama?"
 optionA: "最初"
 optionB: "初級"
 correct: "最初"
@@ -262,7 +262,7 @@ explanation: "最初 benar, dibaca さいしょ, artinya awal, yang pertama."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: tingkat pemula."
+question: "Kata mana yang berarti tingkat pemula?"
 optionA: "宿泊"
 optionB: "初級"
 correct: "初級"
@@ -272,7 +272,7 @@ explanation: "初級 benar, dibaca しょきゅう, artinya tingkat pemula."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: daun musim gugur."
+question: "Kata mana yang berarti daun musim gugur?"
 optionA: "紅葉"
 optionB: "言葉"
 correct: "紅葉"

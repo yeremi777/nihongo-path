@@ -104,9 +104,11 @@ Jangan menerjemahkan 新聞 sebagai kanji 新 + 聞 secara terpisah. 新聞 adal
 
 ## Mini Practice
 
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
+
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: murah."
+question: "Kata mana yang berarti murah?"
 optionA: "安い"
 optionB: "高い"
 correct: "安い"
@@ -116,7 +118,7 @@ explanation: "安い berarti murah. 高い berarti tinggi atau mahal."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: sekolah dasar."
+question: "Kata mana yang berarti sekolah dasar?"
 optionA: "小学校"
 optionB: "中学校"
 correct: "小学校"
@@ -126,7 +128,7 @@ explanation: "小学校 berarti sekolah dasar. 中学校 berarti SMP."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: koran."
+question: "Kata mana yang berarti koran?"
 optionA: "新聞"
 optionB: "聞く"
 correct: "新聞"
@@ -136,7 +138,7 @@ explanation: "新聞 berarti koran. 聞く berarti mendengar atau bertanya."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: perusahaan."
+question: "Kata mana yang berarti perusahaan?"
 optionA: "会社"
 optionB: "社員"
 correct: "会社"
@@ -146,7 +148,7 @@ explanation: "会社 berarti perusahaan. 社員 berarti pegawai perusahaan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: sedikit."
+question: "Kata mana yang berarti sedikit?"
 optionA: "少し"
 optionB: "多い"
 correct: "少し"

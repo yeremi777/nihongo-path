@@ -89,9 +89,11 @@ Jangan membaca 写真 dengan menebak bacaan 写 dan 真 secara terpisah. 写真 
 
 ## Mini Practice
 
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
+
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: perjalanan."
+question: "Kata mana yang berarti perjalanan?"
 optionA: "旅行"
 optionB: "去年"
 correct: "旅行"
@@ -101,7 +103,7 @@ explanation: "旅行 berarti perjalanan. 去年 berarti tahun lalu."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: museum seni."
+question: "Kata mana yang berarti museum seni?"
 optionA: "美術館"
 optionB: "大使館"
 correct: "美術館"
@@ -111,7 +113,7 @@ explanation: "美術館 adalah museum seni. 大使館 adalah kedutaan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: terkenal."
+question: "Kata mana yang berarti terkenal?"
 optionA: "有名"
 optionB: "主語"
 correct: "有名"
@@ -121,7 +123,7 @@ explanation: "有名 berarti terkenal. 主語 berarti subjek kalimat."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: foto."
+question: "Kata mana yang berarti foto?"
 optionA: "写真"
 optionB: "夕飯"
 correct: "写真"
@@ -131,7 +133,7 @@ explanation: "写真 berarti foto. 夕飯 berarti makan malam."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: keduanya."
+question: "Kata mana yang berarti keduanya?"
 optionA: "両方"
 optionB: "夕方"
 correct: "両方"

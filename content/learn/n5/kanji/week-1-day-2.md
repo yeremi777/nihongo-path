@@ -97,9 +97,11 @@ Jangan membaca 時 dan 時間 dengan arti yang sama. 九時 adalah titik jam, �
 
 ## Mini Practice
 
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
+
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: jam berapa."
+question: "Kata mana yang berarti jam berapa?"
 optionA: "何時"
 optionB: "何語"
 correct: "何時"
@@ -109,7 +111,7 @@ explanation: "何時 berarti jam berapa. 何語 berarti bahasa apa."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: setengah."
+question: "Kata mana yang berarti setengah?"
 optionA: "半分"
 optionB: "五分"
 correct: "半分"
@@ -119,7 +121,7 @@ explanation: "半分 berarti setengah. 五分 berarti lima menit."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: minggu ini."
+question: "Kata mana yang berarti minggu ini?"
 optionA: "今週"
 optionB: "先週"
 correct: "今週"
@@ -129,7 +131,7 @@ explanation: "今週 berarti minggu ini. 先週 berarti minggu lalu."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: setiap hari."
+question: "Kata mana yang berarti setiap hari?"
 optionA: "毎日"
 optionB: "毎年"
 correct: "毎日"
@@ -139,7 +141,7 @@ explanation: "毎日 berarti setiap hari. 毎年 berarti setiap tahun."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: sore/PM."
+question: "Kata mana yang berarti sore/PM?"
 optionA: "午後"
 optionB: "午前"
 correct: "午後"

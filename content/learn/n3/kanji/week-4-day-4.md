@@ -21,9 +21,9 @@ tags:
 
 ## Tujuan
 
-Mengenali kanji N3 yang sering muncul saat membaca 申込書: 申、記、例、齢、歳、性、連、絡。
+Mengenali kanji N3 yang sering muncul di formulir pendaftaran, kolom usia, jenis kelamin, catatan kontak, dan data pribadi: 申、記、例、齢、歳、性、連、絡。
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 申し込む、申込書、記入、日記、例、例えば dalam konteks nyata. Fokus hari ini bukan menghafal semua bacaan sekaligus, tetapi membaca kata majemuk utuh dan melihat fungsi kanji di dalam kalimat pendek.
+Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 申し込む、申込書、記入、日記、例、例えば di formulir pendaftaran, kolom usia, jenis kelamin, catatan kontak, dan data pribadi. Fokus hari ini bukan menghafal semua bacaan sekaligus, tetapi mengenali kata yang paling mungkin muncul dalam konteks tersebut.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> baca label formulir sebagai kategori data: nama, umur, jenis kelamin, dan kontak.
@@ -56,7 +56,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: シン</span><span>kunyomi: もうす</span></span>
       </span>
     </summary>
-    <p>Dalam topik 申込書, 申 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam formulir pendaftaran dan data pribadi, 申 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>申し込む<rt>もうしこむ</rt></ruby></span> - mendaftar</li>
       <li><span class="ruby-word"><ruby>申込書<rt>もうしこみしょ</rt></ruby></span> - formulir pendaftaran</li>
@@ -72,7 +72,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: キ</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 申込書, 記 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam formulir pendaftaran dan data pribadi, 記 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>記入<rt>きにゅう</rt></ruby></span> - pengisian</li>
       <li><span class="ruby-word"><ruby>日記<rt>にっき</rt></ruby></span> - buku harian</li>
@@ -88,7 +88,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: レイ</span><span>kunyomi: たとえる</span></span>
       </span>
     </summary>
-    <p>Dalam topik 申込書, 例 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam formulir pendaftaran dan data pribadi, 例 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>例<rt>れい</rt></ruby></span> - contoh</li>
       <li><span class="ruby-word"><ruby>例えば<rt>たとえば</rt></ruby></span> - misalnya</li>
@@ -104,7 +104,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: レイ</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 申込書, 齢 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam formulir pendaftaran dan data pribadi, 齢 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>年齢<rt>ねんれい</rt></ruby></span> - umur</li>
       <li><span class="ruby-word"><ruby>高齢<rt>こうれい</rt></ruby></span> - lanjut usia</li>
@@ -120,7 +120,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: サイ</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 申込書, 歳 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam formulir pendaftaran dan data pribadi, 歳 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>二十歳<rt>はたち</rt></ruby></span> - 20 tahun</li>
       <li><span class="ruby-word"><ruby>三歳<rt>さんさい</rt></ruby></span> - 3 tahun</li>
@@ -136,7 +136,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: セイ</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 申込書, 性 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam formulir pendaftaran dan data pribadi, 性 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>性別<rt>せいべつ</rt></ruby></span> - jenis kelamin</li>
       <li><span class="ruby-word"><ruby>性格<rt>せいかく</rt></ruby></span> - kepribadian</li>
@@ -152,7 +152,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: レン</span><span>kunyomi: つれる</span></span>
       </span>
     </summary>
-    <p>Dalam topik 申込書, 連 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam formulir pendaftaran dan data pribadi, 連 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>連絡<rt>れんらく</rt></ruby></span> - kontak</li>
       <li><span class="ruby-word"><ruby>連休<rt>れんきゅう</rt></ruby></span> - libur beruntun</li>
@@ -168,7 +168,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: ラク</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 申込書, 絡 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam formulir pendaftaran dan data pribadi, 絡 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>連絡<rt>れんらく</rt></ruby></span> - kontak</li>
       <li><span class="ruby-word"><ruby>連絡先<rt>れんらくさき</rt></ruby></span> - alamat kontak</li>
@@ -239,11 +239,11 @@ Kesalahan yang sering terjadi adalah memaksa kunyomi ke semua kata majemuk. Stra
 
 ## Mini Practice
 
-Pilih kata kanji yang paling sesuai dengan arti berikut. Penjelasan baru muncul setelah kamu memilih.
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: mendaftar."
+question: "Kata mana yang berarti mendaftar?"
 optionA: "申し込む"
 optionB: "申込書"
 correct: "申し込む"
@@ -253,7 +253,7 @@ explanation: "申し込む benar, dibaca もうしこむ, artinya mendaftar."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: formulir pendaftaran."
+question: "Kata mana yang berarti formulir pendaftaran?"
 optionA: "記入"
 optionB: "申込書"
 correct: "申込書"
@@ -263,7 +263,7 @@ explanation: "申込書 benar, dibaca もうしこみしょ, artinya formulir pe
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: pengisian."
+question: "Kata mana yang berarti pengisian?"
 optionA: "記入"
 optionB: "日記"
 correct: "記入"
@@ -273,7 +273,7 @@ explanation: "記入 benar, dibaca きにゅう, artinya pengisian."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: buku harian."
+question: "Kata mana yang berarti buku harian?"
 optionA: "年齢"
 optionB: "日記"
 correct: "日記"
@@ -283,7 +283,7 @@ explanation: "日記 benar, dibaca にっき, artinya buku harian."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: lanjut usia."
+question: "Kata mana yang berarti lanjut usia?"
 optionA: "高齢"
 optionB: "二十歳"
 correct: "高齢"

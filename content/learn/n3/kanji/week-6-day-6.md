@@ -21,9 +21,9 @@ tags:
 
 ## Tujuan
 
-Mengenali kanji N3 yang sering muncul saat membaca 政治: 政、府、改、否、的、実、欠、専。
+Mengenali kanji N3 yang sering muncul di berita politik, pemerintah, perubahan aturan, penolakan, tujuan kebijakan, fakta, kekurangan, dan bidang khusus: 政、府、改、否、的、実、欠、専。
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 政治、政治家、政府、都道府県、改正、改める dalam konteks nyata. Fokus hari ini bukan menghafal semua bacaan sekaligus, tetapi membaca kata majemuk utuh dan melihat fungsi kanji di dalam kalimat pendek.
+Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 政治、政治家、政府、都道府県、改正、改める di berita politik, pemerintah, perubahan aturan, penolakan, tujuan kebijakan, fakta, kekurangan, dan bidang khusus. Fokus hari ini bukan menghafal semua bacaan sekaligus, tetapi mengenali kata yang paling mungkin muncul dalam konteks tersebut.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> bedakan lembaga pemerintah, tindakan revisi, sikap negatif, dan fakta dalam berita.
@@ -56,7 +56,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: セイ</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 政治, 政 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam berita politik dan kebijakan, 政 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>政治<rt>せいじ</rt></ruby></span> - politik</li>
       <li><span class="ruby-word"><ruby>政治家<rt>せいじか</rt></ruby></span> - politikus</li>
@@ -72,7 +72,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: フ</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 政治, 府 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam berita politik dan kebijakan, 府 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>政府<rt>せいふ</rt></ruby></span> - pemerintah</li>
       <li><span class="ruby-word"><ruby>都道府県<rt>とどうふけん</rt></ruby></span> - prefektur Jepang</li>
@@ -88,7 +88,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: カイ</span><span>kunyomi: あらためる</span></span>
       </span>
     </summary>
-    <p>Dalam topik 政治, 改 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam berita politik dan kebijakan, 改 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>改正<rt>かいせい</rt></ruby></span> - revisi hukum</li>
       <li><span class="ruby-word"><ruby>改める<rt>あらためる</rt></ruby></span> - memperbarui</li>
@@ -104,7 +104,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: ヒ</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 政治, 否 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam berita politik dan kebijakan, 否 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>否定<rt>ひてい</rt></ruby></span> - penyangkalan</li>
       <li><span class="ruby-word"><ruby>否定的<rt>ひていてき</rt></ruby></span> - negatif</li>
@@ -120,7 +120,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: テキ</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 政治, 的 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam berita politik dan kebijakan, 的 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>目的<rt>もくてき</rt></ruby></span> - tujuan</li>
       <li><span class="ruby-word"><ruby>国際的<rt>こくさいてき</rt></ruby></span> - internasional</li>
@@ -136,7 +136,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: ジツ</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 政治, 実 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam berita politik dan kebijakan, 実 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>実際<rt>じっさい</rt></ruby></span> - kenyataannya</li>
       <li><span class="ruby-word"><ruby>実は<rt>じつは</rt></ruby></span> - sebenarnya</li>
@@ -152,7 +152,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: ケツ</span><span>kunyomi: かける</span></span>
       </span>
     </summary>
-    <p>Dalam topik 政治, 欠 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam berita politik dan kebijakan, 欠 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>欠点<rt>けってん</rt></ruby></span> - kekurangan</li>
       <li><span class="ruby-word"><ruby>欠席<rt>けっせき</rt></ruby></span> - absen</li>
@@ -168,7 +168,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: セン</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 政治, 専 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam berita politik dan kebijakan, 専 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>専門<rt>せんもん</rt></ruby></span> - spesialisasi</li>
       <li><span class="ruby-word"><ruby>専門家<rt>せんもんか</rt></ruby></span> - ahli</li>
@@ -244,11 +244,11 @@ Kesalahan yang sering terjadi adalah memaksa kunyomi ke semua kata majemuk. Stra
 
 ## Mini Practice
 
-Pilih kata kanji yang paling sesuai dengan arti berikut. Penjelasan baru muncul setelah kamu memilih.
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: politik."
+question: "Kata mana yang berarti politik?"
 optionA: "政治"
 optionB: "政治家"
 correct: "政治"
@@ -258,7 +258,7 @@ explanation: "政治 benar, dibaca せいじ, artinya politik."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: politikus."
+question: "Kata mana yang berarti politikus?"
 optionA: "政府"
 optionB: "政治家"
 correct: "政治家"
@@ -268,7 +268,7 @@ explanation: "政治家 benar, dibaca せいじか, artinya politikus."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: pemerintah."
+question: "Kata mana yang berarti pemerintah?"
 optionA: "政府"
 optionB: "都道府県"
 correct: "政府"
@@ -278,7 +278,7 @@ explanation: "政府 benar, dibaca せいふ, artinya pemerintah."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: prefektur Jepang."
+question: "Kata mana yang berarti prefektur Jepang?"
 optionA: "改正"
 optionB: "都道府県"
 correct: "都道府県"
@@ -288,7 +288,7 @@ explanation: "都道府県 benar, dibaca とどうふけん, artinya prefektur J
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: penyangkalan."
+question: "Kata mana yang berarti penyangkalan?"
 optionA: "否定"
 optionB: "否定的"
 correct: "否定"

@@ -4,7 +4,7 @@ description: "Belajar kanji N3 yang sering muncul pada halte bus, tiket, pembaya
 level: "N3"
 category: "kanji"
 topic: "バス"
-topicLabel: "Bus"
+topicLabel: "Bus dan tiket"
 week: 1
 day: 6
 order: 6
@@ -71,7 +71,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <span>降車口</span>
 </div>
 
-Pada bus lokal, kata-kata ini sering muncul sebagai instruksi pendek di dekat pintu, mesin pembayaran, atau area kursi. Bacalah sebagai alur: バス停 untuk tempat menunggu, 整理券 untuk tiket/nomor tarif, 現金 dan 両替 untuk pembayaran, 優先席 untuk etika duduk, dan 降車口 untuk pintu turun.
+Pada bus lokal, kata-kata ini sering muncul sebagai 案内 pendek di dekat pintu, mesin pembayaran, atau area kursi. Bacalah sebagai alur: バス停 untuk tempat menunggu, 整理券 untuk tiket/nomor tarif, 現金 dan 両替 untuk pembayaran, 優先席 untuk etika duduk, dan 降車口 untuk pintu turun.
 
 ## Catatan Pemakaian
 
@@ -116,11 +116,11 @@ Jangan menyamakan 両替 dengan pembayaran. 両替 itu menukar pecahan uang, buk
 
 ## Mini Practice
 
-Pilih kata kanji yang paling sesuai dengan arti berikut. Penjelasan baru muncul setelah kamu memilih.
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: berhenti (kendaraan)."
+question: "Kata mana yang berarti berhenti (kendaraan)?"
 optionA: "停車"
 optionB: "整理"
 correct: "停車"
@@ -130,7 +130,7 @@ explanation: "停車 benar, dibaca ていしゃ, artinya berhenti (kendaraan)."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: merapikan / mengatur."
+question: "Kata mana yang berarti merapikan / mengatur?"
 optionA: "整理券"
 optionB: "整理"
 correct: "整理"
@@ -140,7 +140,7 @@ explanation: "整理 benar, dibaca せいり, artinya merapikan / mengatur."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: tiket nomor antrean."
+question: "Kata mana yang berarti tiket nomor antrean?"
 optionA: "整理券"
 optionB: "乗車券"
 correct: "整理券"
@@ -150,7 +150,7 @@ explanation: "整理券 benar, dibaca せいりけん, artinya tiket nomor antre
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: tiket naik."
+question: "Kata mana yang berarti tiket naik?"
 optionA: "回数券"
 optionB: "乗車券"
 correct: "乗車券"
@@ -160,7 +160,7 @@ explanation: "乗車券 benar, dibaca じょうしゃけん, artinya tiket naik.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: uang tunai."
+question: "Kata mana yang berarti uang tunai?"
 optionA: "現金"
 optionB: "現在"
 correct: "現金"

@@ -89,9 +89,11 @@ Untuk keluarga, cari 妹 dan 弟. Untuk warna, cari 赤, 黄, 色, dan 黒. Untu
 
 ## Mini Practice
 
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
+
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: saudara perempuan."
+question: "Kata mana yang berarti saudara perempuan?"
 optionA: "姉妹"
 optionB: "兄弟"
 correct: "姉妹"
@@ -101,7 +103,7 @@ explanation: "姉妹 berarti saudara perempuan. 兄弟 berarti saudara laki-laki
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: kuning."
+question: "Kata mana yang berarti kuning?"
 optionA: "黄色"
 optionB: "茶色"
 correct: "黄色"
@@ -111,7 +113,7 @@ explanation: "黄色 berarti kuning. 茶色 berarti cokelat."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: papan tulis."
+question: "Kata mana yang berarti papan tulis?"
 optionA: "黒板"
 optionB: "赤道"
 correct: "黒板"
@@ -121,7 +123,7 @@ explanation: "黒板 berarti papan tulis. 赤道 berarti khatulistiwa."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: wajah tersenyum."
+question: "Kata mana yang berarti wajah tersenyum?"
 optionA: "笑顔"
 optionB: "頭痛"
 correct: "笑顔"
@@ -131,7 +133,7 @@ explanation: "笑顔 berarti wajah tersenyum. 頭痛 berarti sakit kepala."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: ibu kota."
+question: "Kata mana yang berarti ibu kota?"
 optionA: "首都"
 optionB: "手首"
 correct: "首都"

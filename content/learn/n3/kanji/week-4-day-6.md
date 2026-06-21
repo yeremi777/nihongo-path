@@ -21,9 +21,9 @@ tags:
 
 ## Tujuan
 
-Mengenali kanji N3 yang sering muncul saat membaca 不在通知: 在、取、預、衣、参、達、勤、帯。
+Mengenali kanji N3 yang sering muncul di slip pengiriman gagal, pemberitahuan paket, tempat penitipan, dan informasi waktu penerimaan: 在、取、預、衣、参、達、勤、帯。
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 不在、現在、取る、受け取る、預金、預ける dalam konteks nyata. Fokus hari ini bukan menghafal semua bacaan sekaligus, tetapi membaca kata majemuk utuh dan melihat fungsi kanji di dalam kalimat pendek.
+Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 不在、現在、取る、受け取る、預金、預ける di slip pengiriman gagal, pemberitahuan paket, tempat penitipan, dan informasi waktu penerimaan. Fokus hari ini bukan menghafal semua bacaan sekaligus, tetapi mengenali kata yang paling mungkin muncul dalam konteks tersebut.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> cari status penerima lebih dulu: 不在, 受け取る, 預ける, 速達.
@@ -56,7 +56,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: ザイ</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 不在通知, 在 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam pemberitahuan paket dan slip pengiriman gagal, 在 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>不在<rt>ふざい</rt></ruby></span> - tidak ada di tempat</li>
       <li><span class="ruby-word"><ruby>現在<rt>げんざい</rt></ruby></span> - saat ini</li>
@@ -72,7 +72,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: とる</span></span>
       </span>
     </summary>
-    <p>Dalam topik 不在通知, 取 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam pemberitahuan paket dan slip pengiriman gagal, 取 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>取る<rt>とる</rt></ruby></span> - mengambil</li>
       <li><span class="ruby-word"><ruby>受け取る<rt>うけとる</rt></ruby></span> - menerima</li>
@@ -88,7 +88,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: ヨ</span><span>kunyomi: あずける</span></span>
       </span>
     </summary>
-    <p>Dalam topik 不在通知, 預 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam pemberitahuan paket dan slip pengiriman gagal, 預 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>預金<rt>よきん</rt></ruby></span> - deposito</li>
       <li><span class="ruby-word"><ruby>預ける<rt>あずける</rt></ruby></span> - menitipkan</li>
@@ -104,7 +104,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: イ</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 不在通知, 衣 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam pemberitahuan paket dan slip pengiriman gagal, 衣 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>衣類<rt>いるい</rt></ruby></span> - pakaian</li>
       <li><span class="ruby-word"><ruby>衣服<rt>いふく</rt></ruby></span> - pakaian</li>
@@ -120,7 +120,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: サン</span><span>kunyomi: まいる</span></span>
       </span>
     </summary>
-    <p>Dalam topik 不在通知, 参 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam pemberitahuan paket dan slip pengiriman gagal, 参 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>参加<rt>さんか</rt></ruby></span> - ikut serta</li>
       <li><span class="ruby-word"><ruby>参考書<rt>さんこうしょ</rt></ruby></span> - buku referensi</li>
@@ -136,7 +136,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: タツ</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 不在通知, 達 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam pemberitahuan paket dan slip pengiriman gagal, 達 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>速達<rt>そくたつ</rt></ruby></span> - kiriman ekspres</li>
       <li><span class="ruby-word"><ruby>上達<rt>じょうたつ</rt></ruby></span> - kemajuan</li>
@@ -152,7 +152,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: キン</span><span>kunyomi: つとめる</span></span>
       </span>
     </summary>
-    <p>Dalam topik 不在通知, 勤 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam pemberitahuan paket dan slip pengiriman gagal, 勤 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>通勤<rt>つうきん</rt></ruby></span> - perjalanan kerja</li>
       <li><span class="ruby-word"><ruby>勤める<rt>つとめる</rt></ruby></span> - bekerja di</li>
@@ -168,7 +168,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: タイ</span><span>kunyomi: おび</span></span>
       </span>
     </summary>
-    <p>Dalam topik 不在通知, 帯 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam pemberitahuan paket dan slip pengiriman gagal, 帯 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>携帯電話<rt>けいたいでんわ</rt></ruby></span> - ponsel</li>
       <li><span class="ruby-word"><ruby>時間帯<rt>じかんたい</rt></ruby></span> - rentang waktu</li>
@@ -239,11 +239,11 @@ Kesalahan yang sering terjadi adalah memaksa kunyomi ke semua kata majemuk. Stra
 
 ## Mini Practice
 
-Pilih kata kanji yang paling sesuai dengan arti berikut. Penjelasan baru muncul setelah kamu memilih.
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: tidak ada di tempat."
+question: "Kata mana yang berarti tidak ada di tempat?"
 optionA: "不在"
 optionB: "現在"
 correct: "不在"
@@ -253,7 +253,7 @@ explanation: "不在 benar, dibaca ふざい, artinya tidak ada di tempat."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: saat ini."
+question: "Kata mana yang berarti saat ini?"
 optionA: "受け取る"
 optionB: "現在"
 correct: "現在"
@@ -263,7 +263,7 @@ explanation: "現在 benar, dibaca げんざい, artinya saat ini."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: menerima."
+question: "Kata mana yang berarti menerima?"
 optionA: "受け取る"
 optionB: "預金"
 correct: "受け取る"
@@ -273,7 +273,7 @@ explanation: "受け取る benar, dibaca うけとる, artinya menerima."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: deposito."
+question: "Kata mana yang berarti deposito?"
 optionA: "衣類"
 optionB: "預金"
 correct: "預金"
@@ -283,7 +283,7 @@ explanation: "預金 benar, dibaca よきん, artinya deposito."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: pakaian."
+question: "Kata mana yang berarti pakaian?"
 optionA: "衣服"
 optionB: "参加"
 correct: "衣服"

@@ -81,9 +81,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 ## Mini Practice
 
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
+
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: bahasa Inggris."
+question: "Kata mana yang berarti bahasa Inggris?"
 optionA: "英語"
 optionB: "紅茶"
 correct: "英語"
@@ -93,7 +95,7 @@ explanation: "英語 berarti bahasa Inggris. 紅茶 berarti teh hitam."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: kafe."
+question: "Kata mana yang berarti kafe?"
 optionA: "喫茶店"
 optionB: "送別会"
 correct: "喫茶店"
@@ -103,7 +105,7 @@ explanation: "喫茶店 berarti kafe. 送別会 berarti acara perpisahan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: formulir/kertas isian."
+question: "Kata mana yang berarti formulir/kertas isian?"
 optionA: "用紙"
 optionB: "手紙"
 correct: "用紙"
@@ -113,7 +115,7 @@ explanation: "用紙 berarti formulir atau kertas isian. 手紙 berarti surat."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: swasta."
+question: "Kata mana yang berarti swasta?"
 optionA: "私立"
 optionB: "私用"
 correct: "私立"
@@ -123,7 +125,7 @@ explanation: "私立 berarti swasta. 私用 berarti urusan pribadi."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: siaran."
+question: "Kata mana yang berarti siaran?"
 optionA: "放送"
 optionB: "郵送"
 correct: "放送"

@@ -91,9 +91,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 ## Mini Practice
 
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
+
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: perasaan."
+question: "Kata mana yang berarti perasaan?"
 optionA: "気持ち"
 optionB: "招待"
 correct: "気持ち"
@@ -103,7 +105,7 @@ explanation: "気持ち berarti perasaan. 招待 berarti undangan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: ekspres khusus."
+question: "Kata mana yang berarti ekspres khusus?"
 optionA: "特急"
 optionB: "特別"
 correct: "特急"
@@ -113,7 +115,7 @@ explanation: "特急 berarti ekspres khusus. 特別 berarti spesial."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: hutan."
+question: "Kata mana yang berarti hutan?"
 optionA: "森林"
 optionB: "村人"
 correct: "森林"
@@ -123,7 +125,7 @@ explanation: "森林 berarti hutan. 村人 berarti orang desa."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: cucian."
+question: "Kata mana yang berarti cucian?"
 optionA: "洗濯"
 optionB: "曜日"
 correct: "洗濯"
@@ -133,7 +135,7 @@ explanation: "洗濯 berarti cucian/mencuci pakaian. 曜日 berarti hari dalam m
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: PR."
+question: "Kata mana yang berarti PR?"
 optionA: "宿題"
 optionB: "質問"
 correct: "宿題"

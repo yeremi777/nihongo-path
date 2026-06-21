@@ -234,11 +234,11 @@ Strategi bacanya: lihat kata utuh lebih dulu, lalu cocokkan dengan konteks kalim
 
 ## Mini Practice
 
-Pilih kata kanji yang paling sesuai dengan arti berikut. Penjelasan baru muncul setelah kamu memilih.
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: warna kuning."
+question: "Kata mana yang berarti warna kuning?"
 optionA: "黄色"
 optionB: "黄色い"
 correct: "黄色"
@@ -248,7 +248,7 @@ explanation: "黄色 benar, dibaca きいろ, artinya warna kuning."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: kuning."
+question: "Kata mana yang berarti kuning?"
 optionA: "絵画"
 optionB: "黄色い"
 correct: "黄色い"
@@ -258,7 +258,7 @@ explanation: "黄色い benar, dibaca きいろい, artinya kuning."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: lukisan."
+question: "Kata mana yang berarti lukisan?"
 optionA: "絵画"
 optionB: "絵本"
 correct: "絵画"
@@ -268,7 +268,7 @@ explanation: "絵画 benar, dibaca かいが, artinya lukisan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: buku bergambar."
+question: "Kata mana yang berarti buku bergambar?"
 optionA: "三組"
 optionB: "絵本"
 correct: "絵本"
@@ -278,7 +278,7 @@ explanation: "絵本 benar, dibaca えほん, artinya buku bergambar."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: program acara."
+question: "Kata mana yang berarti program acara?"
 optionA: "番組"
 optionB: "約束"
 correct: "番組"

@@ -87,9 +87,11 @@ Jangan menyamakan 用事 dan 仕事. 用事 adalah urusan yang perlu dilakukan, 
 
 ## Mini Practice
 
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
+
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: film."
+question: "Kata mana yang berarti film?"
 optionA: "映画"
 optionB: "計画"
 correct: "映画"
@@ -99,7 +101,7 @@ explanation: "映画 berarti film. 計画 berarti rencana."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: peta."
+question: "Kata mana yang berarti peta?"
 optionA: "地図"
 optionB: "時計"
 correct: "地図"
@@ -109,7 +111,7 @@ explanation: "地図 berarti peta. 時計 berarti jam."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: pekerjaan."
+question: "Kata mana yang berarti pekerjaan?"
 optionA: "仕事"
 optionB: "用事"
 correct: "仕事"
@@ -119,7 +121,7 @@ explanation: "仕事 berarti pekerjaan. 用事 berarti urusan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: perpustakaan."
+question: "Kata mana yang berarti perpustakaan?"
 optionA: "図書館"
 optionB: "映画館"
 correct: "図書館"
@@ -129,7 +131,7 @@ explanation: "図書館 adalah perpustakaan. 映画館 adalah bioskop."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: kereta bawah tanah."
+question: "Kata mana yang berarti kereta bawah tanah?"
 optionA: "地下鉄"
 optionB: "鉄道"
 correct: "地下鉄"

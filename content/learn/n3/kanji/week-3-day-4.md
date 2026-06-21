@@ -270,11 +270,11 @@ Strategi bacanya: lihat kata utuh lebih dulu, lalu cocokkan dengan konteks kalim
 
 ## Mini Practice
 
-Pilih kata kanji yang paling sesuai dengan arti berikut. Penjelasan baru muncul setelah kamu memilih.
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: bahan."
+question: "Kata mana yang berarti bahan?"
 optionA: "材料"
 optionB: "教材"
 correct: "材料"
@@ -284,7 +284,7 @@ explanation: "材料 benar, dibaca ざいりょう, artinya bahan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: materi ajar."
+question: "Kata mana yang berarti materi ajar?"
 optionA: "卵焼き"
 optionB: "教材"
 correct: "教材"
@@ -294,7 +294,7 @@ explanation: "教材 benar, dibaca きょうざい, artinya materi ajar."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: telur dadar gulung Jepang."
+question: "Kata mana yang berarti telur dadar gulung Jepang?"
 optionA: "卵焼き"
 optionB: "牛乳"
 correct: "卵焼き"
@@ -304,7 +304,7 @@ explanation: "卵焼き benar, dibaca たまごやき, artinya telur dadar gulun
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: susu sapi."
+question: "Kata mana yang berarti susu sapi?"
 optionA: "乳製品"
 optionB: "牛乳"
 correct: "牛乳"
@@ -314,7 +314,7 @@ explanation: "牛乳 benar, dibaca ぎゅうにゅう, artinya susu sapi."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: tepung terigu."
+question: "Kata mana yang berarti tepung terigu?"
 optionA: "小麦粉"
 optionB: "紙袋"
 correct: "小麦粉"

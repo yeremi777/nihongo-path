@@ -238,11 +238,11 @@ Strategi bacanya: lihat kata utuh lebih dulu, lalu cocokkan dengan konteks kalim
 
 ## Mini Practice
 
-Pilih kata kanji yang paling sesuai dengan arti berikut. Penjelasan baru muncul setelah kamu memilih.
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: pendidikan."
+question: "Kata mana yang berarti pendidikan?"
 optionA: "教育"
 optionB: "種類"
 correct: "教育"
@@ -252,7 +252,7 @@ explanation: "教育 benar, dibaca きょういく, artinya pendidikan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: jenis."
+question: "Kata mana yang berarti jenis?"
 optionA: "書類"
 optionB: "種類"
 correct: "種類"
@@ -262,7 +262,7 @@ explanation: "種類 benar, dibaca しゅるい, artinya jenis."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: dokumen."
+question: "Kata mana yang berarti dokumen?"
 optionA: "書類"
 optionB: "分類"
 correct: "書類"
@@ -272,7 +272,7 @@ explanation: "書類 benar, dibaca しょるい, artinya dokumen."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: klasifikasi."
+question: "Kata mana yang berarti klasifikasi?"
 optionA: "人類"
 optionB: "分類"
 correct: "分類"
@@ -282,7 +282,7 @@ explanation: "分類 benar, dibaca ぶんるい, artinya klasifikasi."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: guru."
+question: "Kata mana yang berarti guru?"
 optionA: "教師"
 optionB: "医師"
 correct: "教師"

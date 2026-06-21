@@ -89,9 +89,11 @@ Jangan membaca 風邪 sebagai "angin jahat" secara harfiah. Di konteks kesehatan
 
 ## Mini Practice
 
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
+
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: lalu lintas."
+question: "Kata mana yang berarti lalu lintas?"
 optionA: "交通"
 optionB: "降車"
 correct: "交通"
@@ -101,7 +103,7 @@ explanation: "交通 berarti lalu lintas. 降車 berarti turun dari kendaraan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: bahan makanan."
+question: "Kata mana yang berarti bahan makanan?"
 optionA: "食料品"
 optionB: "建物"
 correct: "食料品"
@@ -111,7 +113,7 @@ explanation: "食料品 adalah bahan makanan atau groceries. 建物 adalah bangu
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: barang bawaan."
+question: "Kata mana yang berarti barang bawaan?"
 optionA: "荷物"
 optionB: "動物"
 correct: "荷物"
@@ -121,7 +123,7 @@ explanation: "荷物 berarti barang bawaan. 動物 berarti hewan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: topan."
+question: "Kata mana yang berarti topan?"
 optionA: "台風"
 optionB: "風邪"
 correct: "台風"
@@ -131,7 +133,7 @@ explanation: "台風 berarti topan. 風邪 berarti masuk angin atau pilek."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: bangunan."
+question: "Kata mana yang berarti bangunan?"
 optionA: "建物"
 optionB: "着物"
 correct: "建物"

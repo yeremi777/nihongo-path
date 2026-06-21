@@ -118,11 +118,11 @@ Banyak pelajar fokus ke tujuan akhir kereta, tapi lupa cek jenis keretanya. Di J
 
 ## Mini Practice
 
-Pilih kata kanji yang paling sesuai dengan arti berikut. Penjelasan baru muncul setelah kamu memilih.
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: Jalur Yamanote."
+question: "Kata mana yang berarti Jalur Yamanote?"
 optionA: "山手線"
 optionB: "三番線"
 correct: "山手線"
@@ -132,7 +132,7 @@ explanation: "山手線 benar, dibaca やまのてせん, artinya Jalur Yamanote
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: peron jalur 3."
+question: "Kata mana yang berarti peron jalur 3?"
 optionA: "方面"
 optionB: "三番線"
 correct: "三番線"
@@ -142,7 +142,7 @@ explanation: "三番線 benar, dibaca さんばんせん, artinya peron jalur 3.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: arah tujuan."
+question: "Kata mana yang berarti arah tujuan?"
 optionA: "方面"
 optionB: "画面"
 correct: "方面"
@@ -152,7 +152,7 @@ explanation: "方面 benar, dibaca ほうめん, artinya arah tujuan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: layar."
+question: "Kata mana yang berarti layar?"
 optionA: "普通"
 optionB: "画面"
 correct: "画面"
@@ -162,7 +162,7 @@ explanation: "画面 benar, dibaca がめん, artinya layar."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: berhenti di setiap stasiun."
+question: "Kata mana yang berarti berhenti di setiap stasiun?"
 optionA: "各駅停車"
 optionB: "各自"
 correct: "各駅停車"

@@ -21,9 +21,9 @@ tags:
 
 ## Tujuan
 
-Mengenali kanji N3 yang sering muncul saat membaca 問診票ー健康診断: 身、酒、吸、欲、眠、疲、息、呼。
+Mengenali kanji N3 yang sering muncul di formulir pemeriksaan kesehatan, tinggi badan, alkohol, rokok, nafsu makan, tidur, lelah, dan napas: 身、酒、吸、欲、眠、疲、息、呼。
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 身長、独身、お酒、日本酒、吸う、呼吸 dalam konteks nyata. Fokus hari ini bukan menghafal semua bacaan sekaligus, tetapi membaca kata majemuk utuh dan melihat fungsi kanji di dalam kalimat pendek.
+Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 身長、独身、お酒、日本酒、吸う、呼吸 di formulir pemeriksaan kesehatan, tinggi badan, alkohol, rokok, nafsu makan, tidur, lelah, dan napas. Fokus hari ini bukan menghafal semua bacaan sekaligus, tetapi mengenali kata yang paling mungkin muncul dalam konteks tersebut.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> baca gejala sebagai kategori tubuh: 身長, 酒, 吸う, 食欲, 睡眠, 疲れる, 呼吸.
@@ -56,7 +56,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: シン</span><span>kunyomi: み</span></span>
       </span>
     </summary>
-    <p>Dalam topik 問診票ー健康診断, 身 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam formulir pemeriksaan kesehatan, 身 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>身長<rt>しんちょう</rt></ruby></span> - tinggi badan</li>
       <li><span class="ruby-word"><ruby>独身<rt>どくしん</rt></ruby></span> - lajang</li>
@@ -72,7 +72,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: シュ</span><span>kunyomi: さけ, さか</span></span>
       </span>
     </summary>
-    <p>Dalam topik 問診票ー健康診断, 酒 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam formulir pemeriksaan kesehatan, 酒 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>お酒<rt>おさけ</rt></ruby></span> - alkohol</li>
       <li><span class="ruby-word"><ruby>日本酒<rt>にほんしゅ</rt></ruby></span> - sake Jepang</li>
@@ -88,7 +88,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: キュウ</span><span>kunyomi: すう</span></span>
       </span>
     </summary>
-    <p>Dalam topik 問診票ー健康診断, 吸 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam formulir pemeriksaan kesehatan, 吸 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>吸う<rt>すう</rt></ruby></span> - mengisap</li>
       <li><span class="ruby-word"><ruby>呼吸<rt>こきゅう</rt></ruby></span> - pernapasan</li>
@@ -104,7 +104,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: ヨク</span><span>kunyomi: ほしい</span></span>
       </span>
     </summary>
-    <p>Dalam topik 問診票ー健康診断, 欲 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam formulir pemeriksaan kesehatan, 欲 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>食欲<rt>しょくよく</rt></ruby></span> - nafsu makan</li>
       <li><span class="ruby-word"><ruby>欲しい<rt>ほしい</rt></ruby></span> - ingin</li>
@@ -120,7 +120,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: ミン</span><span>kunyomi: ねむい, ねむる</span></span>
       </span>
     </summary>
-    <p>Dalam topik 問診票ー健康診断, 眠 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam formulir pemeriksaan kesehatan, 眠 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>睡眠<rt>すいみん</rt></ruby></span> - tidur</li>
       <li><span class="ruby-word"><ruby>眠い<rt>ねむい</rt></ruby></span> - mengantuk</li>
@@ -136,7 +136,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: つかれる</span></span>
       </span>
     </summary>
-    <p>Dalam topik 問診票ー健康診断, 疲 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam formulir pemeriksaan kesehatan, 疲 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>疲れる<rt>つかれる</rt></ruby></span> - lelah</li>
       <li><span class="ruby-word"><ruby>疲れ<rt>つかれ</rt></ruby></span> - kelelahan</li>
@@ -152,7 +152,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: いき</span></span>
       </span>
     </summary>
-    <p>Dalam topik 問診票ー健康診断, 息 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam formulir pemeriksaan kesehatan, 息 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>息<rt>いき</rt></ruby></span> - napas</li>
       <li><span class="ruby-word"><ruby>息切れ<rt>いきぎれ</rt></ruby></span> - sesak napas</li>
@@ -168,7 +168,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: コ</span><span>kunyomi: よぶ</span></span>
       </span>
     </summary>
-    <p>Dalam topik 問診票ー健康診断, 呼 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam formulir pemeriksaan kesehatan, 呼 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>呼吸<rt>こきゅう</rt></ruby></span> - pernapasan</li>
       <li><span class="ruby-word"><ruby>呼ぶ<rt>よぶ</rt></ruby></span> - memanggil</li>
@@ -239,11 +239,11 @@ Kesalahan yang sering terjadi adalah memaksa kunyomi ke semua kata majemuk. Stra
 
 ## Mini Practice
 
-Pilih kata kanji yang paling sesuai dengan arti berikut. Penjelasan baru muncul setelah kamu memilih.
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: tinggi badan."
+question: "Kata mana yang berarti tinggi badan?"
 optionA: "身長"
 optionB: "独身"
 correct: "身長"
@@ -253,7 +253,7 @@ explanation: "身長 benar, dibaca しんちょう, artinya tinggi badan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: lajang."
+question: "Kata mana yang berarti lajang?"
 optionA: "日本酒"
 optionB: "独身"
 correct: "独身"
@@ -263,7 +263,7 @@ explanation: "独身 benar, dibaca どくしん, artinya lajang."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: sake Jepang."
+question: "Kata mana yang berarti sake Jepang?"
 optionA: "日本酒"
 optionB: "呼吸"
 correct: "日本酒"
@@ -273,7 +273,7 @@ explanation: "日本酒 benar, dibaca にほんしゅ, artinya sake Jepang."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: pernapasan."
+question: "Kata mana yang berarti pernapasan?"
 optionA: "食欲"
 optionB: "呼吸"
 correct: "呼吸"
@@ -283,7 +283,7 @@ explanation: "呼吸 benar, dibaca こきゅう, artinya pernapasan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: tidur."
+question: "Kata mana yang berarti tidur?"
 optionA: "睡眠"
 optionB: "息切れ"
 correct: "睡眠"

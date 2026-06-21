@@ -113,9 +113,11 @@ Jangan memakai satu bacaan angka untuk semua konteks. Tanggal seperti 一日, �
 
 ## Mini Practice
 
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
+
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: hari Senin."
+question: "Kata mana yang berarti hari Senin?"
 optionA: "月曜日"
 optionB: "木曜日"
 correct: "月曜日"
@@ -125,7 +127,7 @@ explanation: "月曜日 berarti hari Senin. 木曜日 berarti hari Kamis."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: hari ini."
+question: "Kata mana yang berarti hari ini?"
 optionA: "今日"
 optionB: "一日"
 correct: "今日"
@@ -135,7 +137,7 @@ explanation: "今日 berarti hari ini. 一日 bisa berarti tanggal satu atau sat
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: sepuluh ribu."
+question: "Kata mana yang berarti sepuluh ribu?"
 optionA: "万"
 optionB: "千"
 correct: "万"
@@ -145,7 +147,7 @@ explanation: "万 berarti sepuluh ribu. 千 berarti seribu."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: hari Jumat."
+question: "Kata mana yang berarti hari Jumat?"
 optionA: "金曜日"
 optionB: "土曜日"
 correct: "金曜日"
@@ -155,7 +157,7 @@ explanation: "金曜日 berarti hari Jumat. 土曜日 berarti hari Sabtu."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: air."
+question: "Kata mana yang berarti air?"
 optionA: "水"
 optionB: "火"
 correct: "水"

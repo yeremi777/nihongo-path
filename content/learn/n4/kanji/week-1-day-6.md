@@ -93,9 +93,11 @@ Untuk membaca alamat Jepang, cari urutan besar ke kecil: 都, 府, 県, 市, lal
 
 ## Mini Practice
 
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
+
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: sarapan."
+question: "Kata mana yang berarti sarapan?"
 optionA: "朝食"
 optionB: "昼食"
 correct: "朝食"
@@ -105,7 +107,7 @@ explanation: "朝食 berarti sarapan. 昼食 berarti makan siang."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: libur musim panas."
+question: "Kata mana yang berarti libur musim panas?"
 optionA: "夏休み"
 optionB: "春休み"
 correct: "夏休み"
@@ -115,7 +117,7 @@ explanation: "夏休み adalah libur musim panas. 春休み adalah libur musim s
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: Tokyo Metropolis."
+question: "Kata mana yang berarti Tokyo Metropolis?"
 optionA: "東京都"
 optionB: "京都府"
 correct: "東京都"
@@ -125,7 +127,7 @@ explanation: "東京都 adalah Tokyo Metropolis. 京都府 adalah Prefektur Kyot
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: balai kota."
+question: "Kata mana yang berarti balai kota?"
 optionA: "市役所"
 optionB: "県庁"
 correct: "市役所"
@@ -135,7 +137,7 @@ explanation: "市役所 adalah balai kota. 県庁 adalah kantor prefektur."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: warga kota."
+question: "Kata mana yang berarti warga kota?"
 optionA: "市民"
 optionB: "県民"
 correct: "市民"

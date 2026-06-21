@@ -244,11 +244,11 @@ Strategi bacanya: lihat kata utuh lebih dulu, lalu cocokkan dengan konteks kalim
 
 ## Mini Practice
 
-Pilih kata kanji yang paling sesuai dengan arti berikut. Penjelasan baru muncul setelah kamu memilih.
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: penutup jendela."
+question: "Kata mana yang berarti penutup jendela?"
 optionA: "雨戸"
 optionB: "戸棚"
 correct: "雨戸"
@@ -258,7 +258,7 @@ explanation: "雨戸 benar, dibaca あまど, artinya penutup jendela."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: lemari dinding."
+question: "Kata mana yang berarti lemari dinding?"
 optionA: "船便"
 optionB: "戸棚"
 correct: "戸棚"
@@ -268,7 +268,7 @@ explanation: "戸棚 benar, dibaca とだな, artinya lemari dinding."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: pos kapal."
+question: "Kata mana yang berarti pos kapal?"
 optionA: "船便"
 optionB: "風船"
 correct: "船便"
@@ -278,7 +278,7 @@ explanation: "船便 benar, dibaca ふなびん, artinya pos kapal."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: balon."
+question: "Kata mana yang berarti balon?"
 optionA: "三角形"
 optionB: "風船"
 correct: "風船"
@@ -288,7 +288,7 @@ explanation: "風船 benar, dibaca ふうせん, artinya balon."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: berbentuk persegi."
+question: "Kata mana yang berarti berbentuk persegi?"
 optionA: "四角い"
 optionB: "夫婦"
 correct: "四角い"

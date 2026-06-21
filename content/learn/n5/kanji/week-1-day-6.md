@@ -107,9 +107,11 @@ Jangan membaca 上手 sebagai 上 + 手 secara terpisah. 上手な berarti mahir
 
 ## Mini Practice
 
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
+
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: cuaca."
+question: "Kata mana yang berarti cuaca?"
 optionA: "天気"
 optionB: "電気"
 correct: "天気"
@@ -119,7 +121,7 @@ explanation: "天気 berarti cuaca. 電気 berarti listrik."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: susu."
+question: "Kata mana yang berarti susu?"
 optionA: "牛乳"
 optionB: "牛肉"
 correct: "牛乳"
@@ -129,7 +131,7 @@ explanation: "牛乳 berarti susu. 牛肉 berarti daging sapi."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: toko ikan."
+question: "Kata mana yang berarti toko ikan?"
 optionA: "魚屋"
 optionB: "喫茶店"
 correct: "魚屋"
@@ -139,7 +141,7 @@ explanation: "魚屋 berarti toko ikan. 喫茶店 berarti kafe."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: tangan."
+question: "Kata mana yang berarti tangan?"
 optionA: "手"
 optionB: "足"
 correct: "手"
@@ -149,7 +151,7 @@ explanation: "手 berarti tangan. 足 berarti kaki."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: putih."
+question: "Kata mana yang berarti putih?"
 optionA: "白い"
 optionB: "空"
 correct: "白い"

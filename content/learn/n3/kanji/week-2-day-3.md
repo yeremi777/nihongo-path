@@ -253,11 +253,11 @@ Strategi bacanya: lihat kata utuh lebih dulu, lalu cocokkan dengan konteks kalim
 
 ## Mini Practice
 
-Pilih kata kanji yang paling sesuai dengan arti berikut. Penjelasan baru muncul setelah kamu memilih.
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: wisata."
+question: "Kata mana yang berarti wisata?"
 optionA: "観光"
 optionB: "観客"
 correct: "観光"
@@ -267,7 +267,7 @@ explanation: "観光 benar, dibaca かんこう, artinya wisata."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: penonton."
+question: "Kata mana yang berarti penonton?"
 optionA: "動物園"
 optionB: "観客"
 correct: "観客"
@@ -277,7 +277,7 @@ explanation: "観客 benar, dibaca かんきゃく, artinya penonton."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: kebun binatang."
+question: "Kata mana yang berarti kebun binatang?"
 optionA: "動物園"
 optionB: "遊園地"
 correct: "動物園"
@@ -287,7 +287,7 @@ explanation: "動物園 benar, dibaca どうぶつえん, artinya kebun binatang
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: taman bermain."
+question: "Kata mana yang berarti taman bermain?"
 optionA: "空港"
 optionB: "遊園地"
 correct: "遊園地"
@@ -297,7 +297,7 @@ explanation: "遊園地 benar, dibaca ゆうえんち, artinya taman bermain."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: Pelabuhan Kobe."
+question: "Kata mana yang berarti Pelabuhan Kobe?"
 optionA: "神戸港"
 optionB: "美術館"
 correct: "神戸港"

@@ -87,9 +87,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 ## Mini Practice
 
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
+
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: lulus."
+question: "Kata mana yang berarti lulus?"
 optionA: "合格"
 optionB: "試合"
 correct: "合格"
@@ -99,7 +101,7 @@ explanation: "合格 berarti lulus. 試合 berarti pertandingan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: kanji."
+question: "Kata mana yang berarti kanji?"
 optionA: "漢字"
 optionB: "文字"
 correct: "漢字"
@@ -109,7 +111,7 @@ explanation: "漢字 berarti kanji. 文字 berarti huruf/tulisan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: perangko."
+question: "Kata mana yang berarti perangko?"
 optionA: "切手"
 optionB: "切符"
 correct: "切手"
@@ -119,7 +121,7 @@ explanation: "切手 berarti perangko. 切符 berarti tiket."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: diri sendiri."
+question: "Kata mana yang berarti diri sendiri?"
 optionA: "自分"
 optionB: "自由"
 correct: "自分"
@@ -129,7 +131,7 @@ explanation: "自分 berarti diri sendiri. 自由 berarti bebas."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: ruang rapat."
+question: "Kata mana yang berarti ruang rapat?"
 optionA: "会議室"
 optionB: "教室"
 correct: "会議室"

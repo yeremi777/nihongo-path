@@ -21,9 +21,9 @@ tags:
 
 ## Tujuan
 
-Mengenali kanji N3 yang sering muncul saat membaca 天気予報: 報、晴、雲、吹、暖、雪、震、波。
+Mengenali kanji N3 yang sering muncul di prakiraan cuaca, berita gempa, suhu, salju, angin, dan ombak: 報、晴、雲、吹、暖、雪、震、波。
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 予報、報告、晴れる、晴れ、雲、雨雲 dalam konteks nyata. Fokus hari ini bukan menghafal semua bacaan sekaligus, tetapi membaca kata majemuk utuh dan melihat fungsi kanji di dalam kalimat pendek.
+Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 予報、報告、晴れる、晴れ、雲、雨雲 di prakiraan cuaca, berita gempa, suhu, salju, angin, dan ombak. Fokus hari ini bukan menghafal semua bacaan sekaligus, tetapi mengenali kata yang paling mungkin muncul dalam konteks tersebut.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> mulai dari jenis informasi: cuaca biasa, suhu, angin, atau peringatan bencana.
@@ -56,7 +56,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: ホウ</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 天気予報, 報 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam prakiraan cuaca dan berita alam, 報 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>予報<rt>よほう</rt></ruby></span> - prakiraan</li>
       <li><span class="ruby-word"><ruby>報告<rt>ほうこく</rt></ruby></span> - laporan</li>
@@ -72,7 +72,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: はれる</span></span>
       </span>
     </summary>
-    <p>Dalam topik 天気予報, 晴 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam prakiraan cuaca dan berita alam, 晴 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>晴れる<rt>はれる</rt></ruby></span> - menjadi cerah</li>
       <li><span class="ruby-word"><ruby>晴れ<rt>はれ</rt></ruby></span> - cuaca cerah</li>
@@ -88,7 +88,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: くも</span></span>
       </span>
     </summary>
-    <p>Dalam topik 天気予報, 雲 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam prakiraan cuaca dan berita alam, 雲 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>雲<rt>くも</rt></ruby></span> - awan</li>
       <li><span class="ruby-word"><ruby>雨雲<rt>あまぐも</rt></ruby></span> - awan hujan</li>
@@ -104,7 +104,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: ふく</span></span>
       </span>
     </summary>
-    <p>Dalam topik 天気予報, 吹 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam prakiraan cuaca dan berita alam, 吹 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>吹く<rt>ふく</rt></ruby></span> - bertiup</li>
       <li><span class="ruby-word"><ruby>吹雪<rt>ふぶき</rt></ruby></span> - badai salju</li>
@@ -120,7 +120,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: ダン</span><span>kunyomi: あたたかい</span></span>
       </span>
     </summary>
-    <p>Dalam topik 天気予報, 暖 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam prakiraan cuaca dan berita alam, 暖 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>暖房<rt>だんぼう</rt></ruby></span> - pemanas ruangan</li>
       <li><span class="ruby-word"><ruby>暖かい<rt>あたたかい</rt></ruby></span> - hangat</li>
@@ -136,7 +136,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: ゆき</span></span>
       </span>
     </summary>
-    <p>Dalam topik 天気予報, 雪 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam prakiraan cuaca dan berita alam, 雪 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>雪<rt>ゆき</rt></ruby></span> - salju</li>
       <li><span class="ruby-word"><ruby>大雪<rt>おおゆき</rt></ruby></span> - salju lebat</li>
@@ -152,7 +152,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: シン</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 天気予報, 震 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam prakiraan cuaca dan berita alam, 震 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>地震<rt>じしん</rt></ruby></span> - gempa bumi</li>
       <li><span class="ruby-word"><ruby>震度<rt>しんど</rt></ruby></span> - skala intensitas gempa</li>
@@ -168,7 +168,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: ハ</span><span>kunyomi: なみ</span></span>
       </span>
     </summary>
-    <p>Dalam topik 天気予報, 波 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam prakiraan cuaca dan berita alam, 波 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>波<rt>なみ</rt></ruby></span> - ombak</li>
       <li><span class="ruby-word"><ruby>津波<rt>つなみ</rt></ruby></span> - tsunami</li>
@@ -243,11 +243,11 @@ Kesalahan yang sering terjadi adalah memaksa kunyomi ke semua kata majemuk. Stra
 
 ## Mini Practice
 
-Pilih kata kanji yang paling sesuai dengan arti berikut. Penjelasan baru muncul setelah kamu memilih.
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: prakiraan."
+question: "Kata mana yang berarti prakiraan?"
 optionA: "予報"
 optionB: "報告"
 correct: "予報"
@@ -257,7 +257,7 @@ explanation: "予報 benar, dibaca よほう, artinya prakiraan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: laporan."
+question: "Kata mana yang berarti laporan?"
 optionA: "雨雲"
 optionB: "報告"
 correct: "報告"
@@ -267,7 +267,7 @@ explanation: "報告 benar, dibaca ほうこく, artinya laporan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: awan hujan."
+question: "Kata mana yang berarti awan hujan?"
 optionA: "雨雲"
 optionB: "吹雪"
 correct: "雨雲"
@@ -277,7 +277,7 @@ explanation: "雨雲 benar, dibaca あまぐも, artinya awan hujan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: badai salju."
+question: "Kata mana yang berarti badai salju?"
 optionA: "暖房"
 optionB: "吹雪"
 correct: "吹雪"
@@ -287,7 +287,7 @@ explanation: "吹雪 benar, dibaca ふぶき, artinya badai salju."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: salju lebat."
+question: "Kata mana yang berarti salju lebat?"
 optionA: "大雪"
 optionB: "地震"
 correct: "大雪"

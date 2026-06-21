@@ -81,9 +81,11 @@ Untuk instruksi pintu, cari 押, 引, 開, dan 閉. Untuk pengumuman peringatan,
 
 ## Mini Practice
 
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
+
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: lemari dinding."
+question: "Kata mana yang berarti lemari dinding?"
 optionA: "押入れ"
 optionB: "引出し"
 correct: "押入れ"
@@ -93,7 +95,7 @@ explanation: "押入れ adalah lemari dinding. 引出し adalah laci."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: toko buka."
+question: "Kata mana yang berarti toko buka?"
 optionA: "開店"
 optionB: "閉店"
 correct: "開店"
@@ -103,7 +105,7 @@ explanation: "開店 berarti toko buka. 閉店 berarti toko tutup."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: larangan."
+question: "Kata mana yang berarti larangan?"
 optionA: "禁止"
 optionB: "中止"
 correct: "禁止"
@@ -113,7 +115,7 @@ explanation: "禁止 berarti larangan. 中止 berarti pembatalan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: penghentian."
+question: "Kata mana yang berarti penghentian?"
 optionA: "停止"
 optionB: "開始"
 correct: "停止"
@@ -123,7 +125,7 @@ explanation: "停止 berarti penghentian. 開始 berarti mulai."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: diskon."
+question: "Kata mana yang berarti diskon?"
 optionA: "割引"
 optionB: "受取"
 correct: "割引"

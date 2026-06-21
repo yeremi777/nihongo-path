@@ -253,11 +253,11 @@ Strategi bacanya: lihat kata utuh lebih dulu, lalu cocokkan dengan konteks kalim
 
 ## Mini Practice
 
-Pilih kata kanji yang paling sesuai dengan arti berikut. Penjelasan baru muncul setelah kamu memilih.
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: penjualan."
+question: "Kata mana yang berarti penjualan?"
 optionA: "販売"
 optionB: "自動販売機"
 correct: "販売"
@@ -267,7 +267,7 @@ explanation: "販売 benar, dibaca はんばい, artinya penjualan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: mesin penjual otomatis."
+question: "Kata mana yang berarti mesin penjual otomatis?"
 optionA: "機械"
 optionB: "自動販売機"
 correct: "自動販売機"
@@ -277,7 +277,7 @@ explanation: "自動販売機 benar, dibaca じどうはんばいき, artinya me
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: mesin."
+question: "Kata mana yang berarti mesin?"
 optionA: "機械"
 optionB: "機会"
 correct: "機械"
@@ -287,7 +287,7 @@ explanation: "機械 benar, dibaca きかい, artinya mesin."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: kesempatan."
+question: "Kata mana yang berarti kesempatan?"
 optionA: "増加"
 optionB: "機会"
 correct: "機会"
@@ -297,7 +297,7 @@ explanation: "機会 benar, dibaca きかい, artinya kesempatan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: penurunan."
+question: "Kata mana yang berarti penurunan?"
 optionA: "減少"
 optionB: "数量"
 correct: "減少"

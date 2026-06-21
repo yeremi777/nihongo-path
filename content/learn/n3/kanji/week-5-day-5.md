@@ -21,9 +21,9 @@ tags:
 
 ## Tujuan
 
-Mengenali kanji N3 yang sering muncul saat membaca 問診票ー歯科で: 痛、熱、虫、歯、治、汚、並、他。
+Mengenali kanji N3 yang sering muncul di formulir klinik gigi, keluhan nyeri, demam, kondisi gigi, perawatan, dan keadaan mulut: 痛、熱、虫、歯、治、汚、並、他。
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 頭痛、痛い、熱、熱心、虫、虫歯 dalam konteks nyata. Fokus hari ini bukan menghafal semua bacaan sekaligus, tetapi membaca kata majemuk utuh dan melihat fungsi kanji di dalam kalimat pendek.
+Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 頭痛、痛い、熱、熱心、虫、虫歯 di formulir klinik gigi, keluhan nyeri, demam, kondisi gigi, perawatan, dan keadaan mulut. Fokus hari ini bukan menghafal semua bacaan sekaligus, tetapi mengenali kata yang paling mungkin muncul dalam konteks tersebut.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> hubungkan gejala dengan bagian tubuh: 痛い, 熱, 虫歯, 歯科, 治療.
@@ -56,7 +56,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: ツウ</span><span>kunyomi: いたい</span></span>
       </span>
     </summary>
-    <p>Dalam topik 問診票ー歯科で, 痛 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam formulir klinik gigi dan catatan keluhan, 痛 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>頭痛<rt>ずつう</rt></ruby></span> - sakit kepala</li>
       <li><span class="ruby-word"><ruby>痛い<rt>いたい</rt></ruby></span> - sakit</li>
@@ -72,7 +72,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: ネツ</span><span>kunyomi: あつい</span></span>
       </span>
     </summary>
-    <p>Dalam topik 問診票ー歯科で, 熱 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam formulir klinik gigi dan catatan keluhan, 熱 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>熱<rt>ねつ</rt></ruby></span> - demam</li>
       <li><span class="ruby-word"><ruby>熱心<rt>ねっしん</rt></ruby></span> - antusias</li>
@@ -88,7 +88,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: むし</span></span>
       </span>
     </summary>
-    <p>Dalam topik 問診票ー歯科で, 虫 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam formulir klinik gigi dan catatan keluhan, 虫 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>虫<rt>むし</rt></ruby></span> - serangga</li>
       <li><span class="ruby-word"><ruby>虫歯<rt>むしば</rt></ruby></span> - gigi berlubang</li>
@@ -104,7 +104,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: シ</span><span>kunyomi: は</span></span>
       </span>
     </summary>
-    <p>Dalam topik 問診票ー歯科で, 歯 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam formulir klinik gigi dan catatan keluhan, 歯 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>歯科<rt>しか</rt></ruby></span> - kedokteran gigi</li>
       <li><span class="ruby-word"><ruby>歯医者<rt>はいしゃ</rt></ruby></span> - dokter gigi</li>
@@ -120,7 +120,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: ジ</span><span>kunyomi: なおる, なおす</span></span>
       </span>
     </summary>
-    <p>Dalam topik 問診票ー歯科で, 治 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam formulir klinik gigi dan catatan keluhan, 治 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>治療<rt>ちりょう</rt></ruby></span> - perawatan medis</li>
       <li><span class="ruby-word"><ruby>治る<rt>なおる</rt></ruby></span> - sembuh</li>
@@ -136,7 +136,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: きたない, よごれる</span></span>
       </span>
     </summary>
-    <p>Dalam topik 問診票ー歯科で, 汚 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam formulir klinik gigi dan catatan keluhan, 汚 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>汚い<rt>きたない</rt></ruby></span> - kotor</li>
       <li><span class="ruby-word"><ruby>汚れる<rt>よごれる</rt></ruby></span> - menjadi kotor</li>
@@ -152,7 +152,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: ならぶ, ならべる</span></span>
       </span>
     </summary>
-    <p>Dalam topik 問診票ー歯科で, 並 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam formulir klinik gigi dan catatan keluhan, 並 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>並ぶ<rt>ならぶ</rt></ruby></span> - berbaris</li>
       <li><span class="ruby-word"><ruby>歯並び<rt>はならび</rt></ruby></span> - susunan gigi</li>
@@ -168,7 +168,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: タ</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 問診票ー歯科で, 他 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam formulir klinik gigi dan catatan keluhan, 他 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>他の<rt>ほかの</rt></ruby></span> - yang lain</li>
       <li><span class="ruby-word"><ruby>その他<rt>そのた</rt></ruby></span> - lainnya</li>
@@ -240,11 +240,11 @@ Kesalahan yang sering terjadi adalah memaksa kunyomi ke semua kata majemuk. Stra
 
 ## Mini Practice
 
-Pilih kata kanji yang paling sesuai dengan arti berikut. Penjelasan baru muncul setelah kamu memilih.
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: sakit kepala."
+question: "Kata mana yang berarti sakit kepala?"
 optionA: "頭痛"
 optionB: "熱心"
 correct: "頭痛"
@@ -254,7 +254,7 @@ explanation: "頭痛 benar, dibaca ずつう, artinya sakit kepala."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: antusias."
+question: "Kata mana yang berarti antusias?"
 optionA: "虫歯"
 optionB: "熱心"
 correct: "熱心"
@@ -264,7 +264,7 @@ explanation: "熱心 benar, dibaca ねっしん, artinya antusias."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: gigi berlubang."
+question: "Kata mana yang berarti gigi berlubang?"
 optionA: "虫歯"
 optionB: "歯科"
 correct: "虫歯"
@@ -274,7 +274,7 @@ explanation: "虫歯 benar, dibaca むしば, artinya gigi berlubang."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: kedokteran gigi."
+question: "Kata mana yang berarti kedokteran gigi?"
 optionA: "歯医者"
 optionB: "歯科"
 correct: "歯科"
@@ -284,7 +284,7 @@ explanation: "歯科 benar, dibaca しか, artinya kedokteran gigi."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: perawatan medis."
+question: "Kata mana yang berarti perawatan medis?"
 optionA: "治療"
 optionB: "歯並び"
 correct: "治療"

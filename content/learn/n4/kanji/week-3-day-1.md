@@ -83,9 +83,11 @@ Untuk bangunan dan toko, cari 屋. Untuk bagian atau departemen, cari 部. Untuk
 
 ## Mini Practice
 
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
+
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: kamar."
+question: "Kata mana yang berarti kamar?"
 optionA: "部屋"
 optionB: "屋上"
 correct: "部屋"
@@ -95,7 +97,7 @@ explanation: "部屋 berarti kamar. 屋上 berarti atap gedung."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: oleh-oleh."
+question: "Kata mana yang berarti oleh-oleh?"
 optionA: "お土産"
 optionB: "産業"
 correct: "お土産"
@@ -105,7 +107,7 @@ explanation: "お土産 berarti oleh-oleh. 産業 berarti industri."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: saudara laki-laki/saudara."
+question: "Kata mana yang berarti saudara laki-laki/saudara?"
 optionA: "兄弟"
 optionB: "姉妹"
 correct: "兄弟"
@@ -115,7 +117,7 @@ explanation: "兄弟 berarti saudara laki-laki atau saudara. 姉妹 berarti saud
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: dunia."
+question: "Kata mana yang berarti dunia?"
 optionA: "世界"
 optionB: "世話"
 correct: "世界"
@@ -125,7 +127,7 @@ explanation: "世界 berarti dunia. 世話 berarti bantuan/perawatan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: toko buku."
+question: "Kata mana yang berarti toko buku?"
 optionA: "本屋"
 optionB: "花屋"
 correct: "本屋"

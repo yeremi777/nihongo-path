@@ -21,9 +21,9 @@ tags:
 
 ## Tujuan
 
-Mengenali kanji N3 yang sering muncul saat membaca 作文: 昨、君、結、婚、祝、曲、奥、寝。
+Mengenali kanji N3 yang sering muncul di karangan pendek tentang pengalaman, keluarga, pernikahan, hari libur, lagu, rumah, dan tidur: 昨、君、結、婚、祝、曲、奥、寝。
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 昨日、昨年、君、田中君、結婚、結局 dalam konteks nyata. Fokus hari ini bukan menghafal semua bacaan sekaligus, tetapi membaca kata majemuk utuh dan melihat fungsi kanji di dalam kalimat pendek.
+Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 昨日、昨年、君、田中君、結婚、結局 di karangan pendek tentang pengalaman, keluarga, pernikahan, hari libur, lagu, rumah, dan tidur. Fokus hari ini bukan menghafal semua bacaan sekaligus, tetapi mengenali kata yang paling mungkin muncul dalam konteks tersebut.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> pakai petunjuk waktu dan hubungan cerita: 昨日, 結婚, 祝う, 曲がる, 奥, 寝る.
@@ -56,7 +56,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: サク</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 作文, 昨 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam karangan pendek dan cerita pengalaman, 昨 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>昨日<rt>きのう</rt></ruby></span> - kemarin</li>
       <li><span class="ruby-word"><ruby>昨年<rt>さくねん</rt></ruby></span> - tahun lalu</li>
@@ -72,7 +72,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: クン</span><span>kunyomi: きみ</span></span>
       </span>
     </summary>
-    <p>Dalam topik 作文, 君 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam karangan pendek dan cerita pengalaman, 君 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>君<rt>きみ</rt></ruby></span> - kamu</li>
       <li><span class="ruby-word"><ruby>田中君<rt>たなかくん</rt></ruby></span> - Tanaka-kun</li>
@@ -88,7 +88,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: ケツ</span><span>kunyomi: むすぶ</span></span>
       </span>
     </summary>
-    <p>Dalam topik 作文, 結 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam karangan pendek dan cerita pengalaman, 結 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>結婚<rt>けっこん</rt></ruby></span> - pernikahan</li>
       <li><span class="ruby-word"><ruby>結局<rt>けっきょく</rt></ruby></span> - akhirnya</li>
@@ -104,7 +104,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: コン</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 作文, 婚 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam karangan pendek dan cerita pengalaman, 婚 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>結婚<rt>けっこん</rt></ruby></span> - menikah</li>
       <li><span class="ruby-word"><ruby>婚約<rt>こんやく</rt></ruby></span> - tunangan</li>
@@ -120,7 +120,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: シュク</span><span>kunyomi: いわう</span></span>
       </span>
     </summary>
-    <p>Dalam topik 作文, 祝 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam karangan pendek dan cerita pengalaman, 祝 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>祝日<rt>しゅくじつ</rt></ruby></span> - hari libur nasional</li>
       <li><span class="ruby-word"><ruby>祝う<rt>いわう</rt></ruby></span> - merayakan</li>
@@ -136,7 +136,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: キョク</span><span>kunyomi: まがる, まげる</span></span>
       </span>
     </summary>
-    <p>Dalam topik 作文, 曲 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam karangan pendek dan cerita pengalaman, 曲 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>曲<rt>きょく</rt></ruby></span> - lagu</li>
       <li><span class="ruby-word"><ruby>曲がる<rt>まがる</rt></ruby></span> - berbelok</li>
@@ -152,7 +152,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: おく</span></span>
       </span>
     </summary>
-    <p>Dalam topik 作文, 奥 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam karangan pendek dan cerita pengalaman, 奥 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>奥<rt>おく</rt></ruby></span> - bagian dalam</li>
       <li><span class="ruby-word"><ruby>奥さん<rt>おくさん</rt></ruby></span> - istri orang lain</li>
@@ -168,7 +168,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: ねる</span></span>
       </span>
     </summary>
-    <p>Dalam topik 作文, 寝 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam karangan pendek dan cerita pengalaman, 寝 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>寝る<rt>ねる</rt></ruby></span> - tidur</li>
       <li><span class="ruby-word"><ruby>昼寝<rt>ひるね</rt></ruby></span> - tidur siang</li>
@@ -237,11 +237,11 @@ Kesalahan yang sering terjadi adalah memaksa kunyomi ke semua kata majemuk. Stra
 
 ## Mini Practice
 
-Pilih kata kanji yang paling sesuai dengan arti berikut. Penjelasan baru muncul setelah kamu memilih.
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: kemarin."
+question: "Kata mana yang berarti kemarin?"
 optionA: "昨日"
 optionB: "昨年"
 correct: "昨日"
@@ -251,7 +251,7 @@ explanation: "昨日 benar, dibaca きのう, artinya kemarin."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: tahun lalu."
+question: "Kata mana yang berarti tahun lalu?"
 optionA: "田中君"
 optionB: "昨年"
 correct: "昨年"
@@ -261,7 +261,7 @@ explanation: "昨年 benar, dibaca さくねん, artinya tahun lalu."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: Tanaka-kun."
+question: "Kata mana yang berarti Tanaka-kun?"
 optionA: "田中君"
 optionB: "結婚"
 correct: "田中君"
@@ -271,7 +271,7 @@ explanation: "田中君 benar, dibaca たなかくん, artinya Tanaka-kun."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: pernikahan."
+question: "Kata mana yang berarti pernikahan?"
 optionA: "結局"
 optionB: "結婚"
 correct: "結婚"
@@ -281,7 +281,7 @@ explanation: "結婚 benar, dibaca けっこん, artinya pernikahan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: tunangan."
+question: "Kata mana yang berarti tunangan?"
 optionA: "婚約"
 optionB: "祝日"
 correct: "婚約"

@@ -69,7 +69,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <span>救助</span>
 </div>
 
-Kata-kata hari ini tidak berasal dari satu tempat seperti parkir atau stasiun. Karena itu, cara belajarnya sedikit berbeda: pasangkan setiap kanji dengan satu kata yang paling stabil. 未 dan 末 dipakai untuk waktu/urutan, 晩 untuk waktu malam, 島 dan 皿 untuk benda/tempat sehari-hari, 血 dan 助 untuk kondisi tubuh atau pertolongan.
+Kata-kata hari ini tidak berasal dari satu tempat seperti parkir atau stasiun. Karena itu, cara belajarnya sedikit berbeda: pasangkan setiap kanji dengan satu kata yang paling stabil. 未 dan 末 sering muncul pada papan jadwal, 晩 untuk waktu malam, 島 dan 皿 untuk benda/tempat sehari-hari, 血 dan 助 untuk kondisi tubuh atau pertolongan.
 
 ## Catatan Pemakaian
 
@@ -116,11 +116,11 @@ Pelajar sering menghafal bentuk 未 dan 末 tanpa kata contoh. Pakai pasangan ka
 
 ## Mini Practice
 
-Pilih kata kanji yang paling sesuai dengan arti berikut. Penjelasan baru muncul setelah kamu memilih.
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: belum diputuskan."
+question: "Kata mana yang berarti belum diputuskan?"
 optionA: "未定"
 optionB: "未来"
 correct: "未定"
@@ -130,7 +130,7 @@ explanation: "未定 benar, dibaca みてい, artinya belum diputuskan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: masa depan."
+question: "Kata mana yang berarti masa depan?"
 optionA: "週末"
 optionB: "未来"
 correct: "未来"
@@ -140,7 +140,7 @@ explanation: "未来 benar, dibaca みらい, artinya masa depan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: akhir pekan."
+question: "Kata mana yang berarti akhir pekan?"
 optionA: "週末"
 optionB: "年末"
 correct: "週末"
@@ -150,7 +150,7 @@ explanation: "週末 benar, dibaca しゅうまつ, artinya akhir pekan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: akhir tahun."
+question: "Kata mana yang berarti akhir tahun?"
 optionA: "今晩"
 optionB: "年末"
 correct: "年末"
@@ -160,7 +160,7 @@ explanation: "年末 benar, dibaca ねんまつ, artinya akhir tahun."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: setiap malam."
+question: "Kata mana yang berarti setiap malam?"
 optionA: "毎晩"
 optionB: "広島"
 correct: "毎晩"

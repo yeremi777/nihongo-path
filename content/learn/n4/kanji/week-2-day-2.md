@@ -93,9 +93,11 @@ Jangan membaca 電池 sebagai kolam listrik secara harfiah. 電池 adalah kata t
 
 ## Mini Practice
 
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
+
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: universitas."
+question: "Kata mana yang berarti universitas?"
 optionA: "大学"
 optionB: "太陽"
 correct: "大学"
@@ -105,7 +107,7 @@ explanation: "大学 berarti universitas. 太陽 berarti matahari."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: kenangan."
+question: "Kata mana yang berarti kenangan?"
 optionA: "思い出"
 optionB: "知人"
 correct: "思い出"
@@ -115,7 +117,7 @@ explanation: "思い出 berarti kenangan. 知人 berarti kenalan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: ruang gaya Jepang."
+question: "Kata mana yang berarti ruang gaya Jepang?"
 optionA: "和室"
 optionB: "家族"
 correct: "和室"
@@ -125,7 +127,7 @@ explanation: "和室 berarti ruang gaya Jepang. 家族 berarti keluarga."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: baterai."
+question: "Kata mana yang berarti baterai?"
 optionA: "電池"
 optionB: "青空"
 correct: "電池"
@@ -135,7 +137,7 @@ explanation: "電池 berarti baterai. 青空 berarti langit biru."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: spesial."
+question: "Kata mana yang berarti spesial?"
 optionA: "特別"
 optionB: "平和"
 correct: "特別"

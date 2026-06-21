@@ -254,11 +254,11 @@ Strategi bacanya: lihat kata utuh lebih dulu, lalu cocokkan dengan konteks kalim
 
 ## Mini Practice
 
-Pilih kata kanji yang paling sesuai dengan arti berikut. Penjelasan baru muncul setelah kamu memilih.
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: kantor kota."
+question: "Kata mana yang berarti kantor kota?"
 optionA: "市役所"
 optionB: "役員"
 correct: "市役所"
@@ -268,7 +268,7 @@ explanation: "市役所 benar, dibaca しやくしょ, artinya kantor kota."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: pengurus."
+question: "Kata mana yang berarti pengurus?"
 optionA: "役に立つ"
 optionB: "役員"
 correct: "役員"
@@ -278,7 +278,7 @@ explanation: "役員 benar, dibaca やくいん, artinya pengurus."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: berguna."
+question: "Kata mana yang berarti berguna?"
 optionA: "役に立つ"
 optionB: "郵便"
 correct: "役に立つ"
@@ -288,7 +288,7 @@ explanation: "役に立つ benar, dibaca やくにたつ, artinya berguna."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: pos, surat."
+question: "Kata mana yang berarti pos, surat?"
 optionA: "郵便局"
 optionB: "郵便"
 correct: "郵便"
@@ -298,7 +298,7 @@ explanation: "郵便 benar, dibaca ゆうびん, artinya pos, surat."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: apotek."
+question: "Kata mana yang berarti apotek?"
 optionA: "薬局"
 optionB: "交番"
 correct: "薬局"

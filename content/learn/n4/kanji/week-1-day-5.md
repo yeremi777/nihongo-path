@@ -87,9 +87,11 @@ Jangan menyamakan 家族 dan 作家 hanya karena keduanya memakai 家. 家族 ad
 
 ## Mini Practice
 
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
+
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: dokter."
+question: "Kata mana yang berarti dokter?"
 optionA: "医者"
 optionB: "学者"
 correct: "医者"
@@ -99,7 +101,7 @@ explanation: "医者 berarti dokter. 学者 berarti ilmuwan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: pegawai perusahaan."
+question: "Kata mana yang berarti pegawai perusahaan?"
 optionA: "会社員"
 optionB: "市民"
 correct: "会社員"
@@ -109,7 +111,7 @@ explanation: "会社員 adalah pegawai perusahaan. 市民 adalah warga kota."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: penyanyi."
+question: "Kata mana yang berarti penyanyi?"
 optionA: "歌手"
 optionB: "運転手"
 correct: "歌手"
@@ -119,7 +121,7 @@ explanation: "歌手 berarti penyanyi. 運転手 berarti pengemudi."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: sepeda."
+question: "Kata mana yang berarti sepeda?"
 optionA: "自転車"
 optionB: "運動"
 correct: "自転車"
@@ -129,7 +131,7 @@ explanation: "自転車 berarti sepeda. 運動 berarti olahraga."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: novel."
+question: "Kata mana yang berarti novel?"
 optionA: "小説"
 optionB: "家族"
 correct: "小説"

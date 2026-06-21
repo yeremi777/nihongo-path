@@ -103,9 +103,11 @@ Jangan menghafal kanji tindakan tanpa okurigana. 見, 見る, 見える, dan 見
 
 ## Mini Practice
 
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
+
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: membaca."
+question: "Kata mana yang berarti membaca?"
 optionA: "読む"
 optionB: "書く"
 correct: "読む"
@@ -115,7 +117,7 @@ explanation: "読む berarti membaca. 書く berarti menulis."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: telepon."
+question: "Kata mana yang berarti telepon?"
 optionA: "電話"
 optionB: "電車"
 correct: "電話"
@@ -125,7 +127,7 @@ explanation: "電話 berarti telepon. 電車 berarti kereta listrik."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: membeli."
+question: "Kata mana yang berarti membeli?"
 optionA: "買う"
 optionB: "飲む"
 correct: "買う"
@@ -135,7 +137,7 @@ explanation: "買う berarti membeli. 飲む berarti minum."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: minggu depan."
+question: "Kata mana yang berarti minggu depan?"
 optionA: "来週"
 optionB: "来月"
 correct: "来週"
@@ -145,7 +147,7 @@ explanation: "来週 berarti minggu depan. 来月 berarti bulan depan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: percakapan."
+question: "Kata mana yang berarti percakapan?"
 optionA: "会話"
 optionB: "会社"
 correct: "会話"

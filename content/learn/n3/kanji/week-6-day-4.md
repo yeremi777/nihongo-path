@@ -21,9 +21,9 @@ tags:
 
 ## Tujuan
 
-Mengenali kanji N3 yang sering muncul saat membaca 経済: 戦、経、済、成、貿、易、輸、相。
+Mengenali kanji N3 yang sering muncul di berita ekonomi, perdagangan, ekspor-impor, pertumbuhan, pengalaman perusahaan, dan hubungan antarnegara: 戦、経、済、成、貿、易、輸、相。
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 戦後、戦う、経済、経験、経済、済む dalam konteks nyata. Fokus hari ini bukan menghafal semua bacaan sekaligus, tetapi membaca kata majemuk utuh dan melihat fungsi kanji di dalam kalimat pendek.
+Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 戦後、戦う、経済、経験、経済、済む di berita ekonomi, perdagangan, ekspor-impor, pertumbuhan, pengalaman perusahaan, dan hubungan antarnegara. Fokus hari ini bukan menghafal semua bacaan sekaligus, tetapi mengenali kata yang paling mungkin muncul dalam konteks tersebut.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> kelompokkan kata berita: kondisi ekonomi, perdagangan, pengiriman, dan pihak yang saling berhubungan.
@@ -56,7 +56,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: セン</span><span>kunyomi: たたかう</span></span>
       </span>
     </summary>
-    <p>Dalam topik 経済, 戦 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam berita ekonomi dan perdagangan, 戦 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>戦後<rt>せんご</rt></ruby></span> - setelah perang</li>
       <li><span class="ruby-word"><ruby>戦う<rt>たたかう</rt></ruby></span> - bertarung</li>
@@ -72,7 +72,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: ケイ</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 経済, 経 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam berita ekonomi dan perdagangan, 経 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>経済<rt>けいざい</rt></ruby></span> - ekonomi</li>
       <li><span class="ruby-word"><ruby>経験<rt>けいけん</rt></ruby></span> - pengalaman</li>
@@ -88,7 +88,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: サイ</span><span>kunyomi: すむ</span></span>
       </span>
     </summary>
-    <p>Dalam topik 経済, 済 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam berita ekonomi dan perdagangan, 済 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>経済<rt>けいざい</rt></ruby></span> - ekonomi</li>
       <li><span class="ruby-word"><ruby>済む<rt>すむ</rt></ruby></span> - selesai</li>
@@ -104,7 +104,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: セイ</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 経済, 成 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam berita ekonomi dan perdagangan, 成 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>成長<rt>せいちょう</rt></ruby></span> - pertumbuhan</li>
       <li><span class="ruby-word"><ruby>完成<rt>かんせい</rt></ruby></span> - selesai lengkap</li>
@@ -120,7 +120,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: ボウ</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 経済, 貿 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam berita ekonomi dan perdagangan, 貿 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>貿易<rt>ぼうえき</rt></ruby></span> - perdagangan internasional</li>
       <li><span class="ruby-word"><ruby>貿易会社<rt>ぼうえきがいしゃ</rt></ruby></span> - perusahaan dagang</li>
@@ -136,7 +136,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: エキ</span><span>kunyomi: やさしい</span></span>
       </span>
     </summary>
-    <p>Dalam topik 経済, 易 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam berita ekonomi dan perdagangan, 易 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>貿易<rt>ぼうえき</rt></ruby></span> - perdagangan</li>
       <li><span class="ruby-word"><ruby>易しい<rt>やさしい</rt></ruby></span> - mudah</li>
@@ -152,7 +152,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: ユ</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 経済, 輸 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam berita ekonomi dan perdagangan, 輸 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>輸出<rt>ゆしゅつ</rt></ruby></span> - ekspor</li>
       <li><span class="ruby-word"><ruby>輸入<rt>ゆにゅう</rt></ruby></span> - impor</li>
@@ -168,7 +168,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: ソウ, ショウ</span><span>kunyomi: あい</span></span>
       </span>
     </summary>
-    <p>Dalam topik 経済, 相 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam berita ekonomi dan perdagangan, 相 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>相談<rt>そうだん</rt></ruby></span> - konsultasi</li>
       <li><span class="ruby-word"><ruby>首相<rt>しゅしょう</rt></ruby></span> - perdana menteri</li>
@@ -242,11 +242,11 @@ Kesalahan yang sering terjadi adalah memaksa kunyomi ke semua kata majemuk. Stra
 
 ## Mini Practice
 
-Pilih kata kanji yang paling sesuai dengan arti berikut. Penjelasan baru muncul setelah kamu memilih.
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: setelah perang."
+question: "Kata mana yang berarti setelah perang?"
 optionA: "戦後"
 optionB: "経済"
 correct: "戦後"
@@ -256,7 +256,7 @@ explanation: "戦後 benar, dibaca せんご, artinya setelah perang."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: ekonomi."
+question: "Kata mana yang berarti ekonomi?"
 optionA: "経験"
 optionB: "経済"
 correct: "経済"
@@ -266,7 +266,7 @@ explanation: "経済 benar, dibaca けいざい, artinya ekonomi."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: pengalaman."
+question: "Kata mana yang berarti pengalaman?"
 optionA: "経験"
 optionB: "成長"
 correct: "経験"
@@ -276,7 +276,7 @@ explanation: "経験 benar, dibaca けいけん, artinya pengalaman."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: pertumbuhan."
+question: "Kata mana yang berarti pertumbuhan?"
 optionA: "完成"
 optionB: "成長"
 correct: "成長"
@@ -286,7 +286,7 @@ explanation: "成長 benar, dibaca せいちょう, artinya pertumbuhan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: perdagangan internasional."
+question: "Kata mana yang berarti perdagangan internasional?"
 optionA: "貿易"
 optionB: "貿易会社"
 correct: "貿易"

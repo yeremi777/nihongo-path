@@ -91,9 +91,11 @@ Jangan membaca 元気 sebagai "asal udara". Ini kata tetap yang berarti sehat at
 
 ## Mini Practice
 
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
+
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: berat badan."
+question: "Kata mana yang berarti berat badan?"
 optionA: "体重"
 optionB: "軽食"
 correct: "体重"
@@ -103,7 +105,7 @@ explanation: "体重 berarti berat badan. 軽食 berarti makanan ringan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: lapangan."
+question: "Kata mana yang berarti lapangan?"
 optionA: "広場"
 optionB: "病院"
 correct: "広場"
@@ -113,7 +115,7 @@ explanation: "広場 berarti lapangan. 病院 berarti rumah sakit."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: bangun tidur."
+question: "Kata mana yang berarti bangun tidur?"
 optionA: "起床"
 optionB: "寝室"
 correct: "起床"
@@ -123,7 +125,7 @@ explanation: "起床 berarti bangun tidur. 寝室 berarti kamar tidur."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: mulai kerja atau sekolah."
+question: "Kata mana yang berarti mulai kerja atau sekolah?"
 optionA: "始業"
 optionB: "終了"
 correct: "始業"
@@ -133,7 +135,7 @@ explanation: "始業 berarti mulai kerja/sekolah. 終了 berarti selesai."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: kereta terakhir."
+question: "Kata mana yang berarti kereta terakhir?"
 optionA: "終電"
 optionB: "終点"
 correct: "終電"

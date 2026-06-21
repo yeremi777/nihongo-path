@@ -87,9 +87,11 @@ Jangan selalu membaca 米 sebagai beras. Dalam 米国, 米 berarti Amerika Serik
 
 ## Mini Practice
 
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
+
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: masakan."
+question: "Kata mana yang berarti masakan?"
 optionA: "料理"
 optionB: "理由"
 correct: "料理"
@@ -99,7 +101,7 @@ explanation: "料理 berarti masakan. 理由 berarti alasan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: bahan makanan."
+question: "Kata mana yang berarti bahan makanan?"
 optionA: "食料品"
 optionB: "米国"
 correct: "食料品"
@@ -109,7 +111,7 @@ explanation: "食料品 berarti bahan makanan. 米国 berarti Amerika Serikat."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: cucian."
+question: "Kata mana yang berarti cucian?"
 optionA: "洗濯"
 optionB: "野菜"
 correct: "洗濯"
@@ -119,7 +121,7 @@ explanation: "洗濯 berarti cucian/mencuci pakaian. 野菜 berarti sayuran."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: daging sapi."
+question: "Kata mana yang berarti daging sapi?"
 optionA: "牛肉"
 optionB: "日本酒"
 correct: "牛肉"
@@ -129,7 +131,7 @@ explanation: "牛肉 berarti daging sapi. 日本酒 berarti sake Jepang."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: minat."
+question: "Kata mana yang berarti minat?"
 optionA: "興味"
 optionB: "趣味"
 correct: "興味"

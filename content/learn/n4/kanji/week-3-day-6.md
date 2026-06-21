@@ -85,9 +85,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 ## Mini Practice
 
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
+
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: bank."
+question: "Kata mana yang berarti bank?"
 optionA: "銀行"
 optionB: "食堂"
 correct: "銀行"
@@ -97,7 +99,7 @@ explanation: "銀行 berarti bank. 食堂 berarti kantin."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: rumah sakit."
+question: "Kata mana yang berarti rumah sakit?"
 optionA: "病院"
 optionB: "大学院"
 correct: "病院"
@@ -107,7 +109,7 @@ explanation: "病院 berarti rumah sakit. 大学院 berarti pascasarjana."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: jalan-jalan."
+question: "Kata mana yang berarti jalan-jalan?"
 optionA: "散歩"
 optionB: "競走"
 correct: "散歩"
@@ -117,7 +119,7 @@ explanation: "散歩 berarti jalan-jalan. 競走 berarti lomba lari."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: pantai."
+question: "Kata mana yang berarti pantai?"
 optionA: "海岸"
 optionB: "海外"
 correct: "海岸"
@@ -127,7 +129,7 @@ explanation: "海岸 berarti pantai/pesisir. 海外 berarti luar negeri."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: pulang ke negara asal."
+question: "Kata mana yang berarti pulang ke negara asal?"
 optionA: "帰国"
 optionB: "帰宅"
 correct: "帰国"

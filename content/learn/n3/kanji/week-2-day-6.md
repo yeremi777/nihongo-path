@@ -253,11 +253,11 @@ Strategi bacanya: lihat kata utuh lebih dulu, lalu cocokkan dengan konteks kalim
 
 ## Mini Practice
 
-Pilih kata kanji yang paling sesuai dengan arti berikut. Penjelasan baru muncul setelah kamu memilih.
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: saat kesulitan."
+question: "Kata mana yang berarti saat kesulitan?"
 optionA: "困った時"
 optionB: "消防"
 correct: "困った時"
@@ -267,7 +267,7 @@ explanation: "困った時 benar, dibaca こまったとき, artinya saat kesuli
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: pemadam kebakaran."
+question: "Kata mana yang berarti pemadam kebakaran?"
 optionA: "予防"
 optionB: "消防"
 correct: "消防"
@@ -277,7 +277,7 @@ explanation: "消防 benar, dibaca しょうぼう, artinya pemadam kebakaran."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: pencegahan."
+question: "Kata mana yang berarti pencegahan?"
 optionA: "予防"
 optionB: "救急車"
 correct: "予防"
@@ -287,7 +287,7 @@ explanation: "予防 benar, dibaca よぼう, artinya pencegahan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: ambulans."
+question: "Kata mana yang berarti ambulans?"
 optionA: "救助"
 optionB: "救急車"
 correct: "救急車"
@@ -297,7 +297,7 @@ explanation: "救急車 benar, dibaca きゅうきゅうしゃ, artinya ambulans
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: polisi."
+question: "Kata mana yang berarti polisi?"
 optionA: "警官"
 optionB: "警察"
 correct: "警官"

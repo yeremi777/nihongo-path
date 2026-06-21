@@ -87,9 +87,11 @@ Untuk angka dan batas, cari 以, 号, 番, dan 度. Untuk ruang, cari 内. Untuk
 
 ## Mini Practice
 
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
+
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: dalam batas."
+question: "Kata mana yang berarti dalam batas?"
 optionA: "以内"
 optionB: "以上"
 correct: "以内"
@@ -99,7 +101,7 @@ explanation: "以内 berarti dalam batas. 以上 berarti sekian ke atas atau leb
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: nomor."
+question: "Kata mana yang berarti nomor?"
 optionA: "番号"
 optionB: "交番"
 correct: "番号"
@@ -109,7 +111,7 @@ explanation: "番号 berarti nomor. 交番 berarti pos polisi."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: kali ini/lain kali."
+question: "Kata mana yang berarti kali ini/lain kali?"
 optionA: "今度"
 optionB: "一度"
 correct: "今度"
@@ -119,7 +121,7 @@ explanation: "今度 berarti kali ini atau lain kali. 一度 berarti sekali."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: aman."
+question: "Kata mana yang berarti aman?"
 optionA: "安全"
 optionB: "全部"
 correct: "安全"
@@ -129,7 +131,7 @@ explanation: "安全 berarti aman. 全部 berarti semua."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: pakaian Barat."
+question: "Kata mana yang berarti pakaian Barat?"
 optionA: "洋服"
 optionB: "和服"
 correct: "洋服"

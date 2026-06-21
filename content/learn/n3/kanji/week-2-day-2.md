@@ -251,11 +251,11 @@ Strategi bacanya: lihat kata utuh lebih dulu, lalu cocokkan dengan konteks kalim
 
 ## Mini Practice
 
-Pilih kata kanji yang paling sesuai dengan arti berikut. Penjelasan baru muncul setelah kamu memilih.
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: dilarang merokok."
+question: "Kata mana yang berarti dilarang merokok?"
 optionA: "禁煙"
 optionB: "本当"
 correct: "禁煙"
@@ -265,7 +265,7 @@ explanation: "禁煙 benar, dibaca きんえん, artinya dilarang merokok."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: benar."
+question: "Kata mana yang berarti benar?"
 optionA: "当店"
 optionB: "本当"
 correct: "本当"
@@ -275,7 +275,7 @@ explanation: "本当 benar, dibaca ほんとう, artinya benar."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: toko/restoran ini."
+question: "Kata mana yang berarti toko/restoran ini?"
 optionA: "当店"
 optionB: "全部"
 correct: "当店"
@@ -285,7 +285,7 @@ explanation: "当店 benar, dibaca とうてん, artinya toko/restoran ini."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: semua."
+question: "Kata mana yang berarti semua?"
 optionA: "全席"
 optionB: "全部"
 correct: "全部"
@@ -295,7 +295,7 @@ explanation: "全部 benar, dibaca ぜんぶ, artinya semua."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: aman."
+question: "Kata mana yang berarti aman?"
 optionA: "安全"
 optionB: "お客様"
 correct: "安全"

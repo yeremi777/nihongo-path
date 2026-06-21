@@ -91,9 +91,11 @@ Untuk kesehatan, cari 体 dan 薬. Untuk ujian, cari 試 dan 験. Untuk perasaan
 
 ## Mini Practice
 
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
+
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: suhu tubuh."
+question: "Kata mana yang berarti suhu tubuh?"
 optionA: "体温"
 optionB: "体重"
 correct: "体温"
@@ -103,7 +105,7 @@ explanation: "体温 berarti suhu tubuh. 体重 berarti berat badan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: apotek."
+question: "Kata mana yang berarti apotek?"
 optionA: "薬局"
 optionB: "正月"
 correct: "薬局"
@@ -113,7 +115,7 @@ explanation: "薬局 berarti apotek. 正月 berarti Tahun Baru."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: kereta ekspres."
+question: "Kata mana yang berarti kereta ekspres?"
 optionA: "急行"
 optionB: "試合"
 correct: "急行"
@@ -123,7 +125,7 @@ explanation: "急行 berarti kereta ekspres. 試合 berarti pertandingan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: ujian."
+question: "Kata mana yang berarti ujian?"
 optionA: "試験"
 optionB: "経験"
 correct: "試験"
@@ -133,7 +135,7 @@ explanation: "試験 berarti ujian. 経験 berarti pengalaman."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: pengisi suara."
+question: "Kata mana yang berarti pengisi suara?"
 optionA: "声優"
 optionB: "安心"
 correct: "声優"

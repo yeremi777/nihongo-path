@@ -269,11 +269,11 @@ Strategi bacanya: lihat kata utuh lebih dulu, lalu cocokkan dengan konteks kalim
 
 ## Mini Practice
 
-Pilih kata kanji yang paling sesuai dengan arti berikut. Penjelasan baru muncul setelah kamu memilih.
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: perlu."
+question: "Kata mana yang berarti perlu?"
 optionA: "必要"
 optionB: "重要"
 correct: "必要"
@@ -283,7 +283,7 @@ explanation: "必要 benar, dibaca ひつよう, artinya perlu."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: penting."
+question: "Kata mana yang berarti penting?"
 optionA: "冷房"
 optionB: "重要"
 correct: "重要"
@@ -293,7 +293,7 @@ explanation: "重要 benar, dibaca じゅうよう, artinya penting."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: AC pendingin."
+question: "Kata mana yang berarti AC pendingin?"
 optionA: "冷房"
 optionB: "冷蔵庫"
 correct: "冷房"
@@ -303,7 +303,7 @@ explanation: "冷房 benar, dibaca れいぼう, artinya AC pendingin."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: kulkas."
+question: "Kata mana yang berarti kulkas?"
 optionA: "冷蔵"
 optionB: "冷蔵庫"
 correct: "冷蔵庫"
@@ -313,7 +313,7 @@ explanation: "冷蔵庫 benar, dibaca れいぞうこ, artinya kulkas."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: freezer."
+question: "Kata mana yang berarti freezer?"
 optionA: "冷凍庫"
 optionB: "金庫"
 correct: "冷凍庫"

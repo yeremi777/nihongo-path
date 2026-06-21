@@ -254,11 +254,11 @@ Strategi bacanya: lihat kata utuh lebih dulu, lalu cocokkan dengan konteks kalim
 
 ## Mini Practice
 
-Pilih kata kanji yang paling sesuai dengan arti berikut. Penjelasan baru muncul setelah kamu memilih.
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: biaya."
+question: "Kata mana yang berarti biaya?"
 optionA: "費用"
 optionB: "旅費"
 correct: "費用"
@@ -268,7 +268,7 @@ explanation: "費用 benar, dibaca ひよう, artinya biaya."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: biaya perjalanan."
+question: "Kata mana yang berarti biaya perjalanan?"
 optionA: "消費者"
 optionB: "旅費"
 correct: "旅費"
@@ -278,7 +278,7 @@ explanation: "旅費 benar, dibaca りょひ, artinya biaya perjalanan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: konsumen."
+question: "Kata mana yang berarti konsumen?"
 optionA: "消費者"
 optionB: "期間"
 correct: "消費者"
@@ -288,7 +288,7 @@ explanation: "消費者 benar, dibaca しょうひしゃ, artinya konsumen."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: periode."
+question: "Kata mana yang berarti periode?"
 optionA: "長期"
 optionB: "期間"
 correct: "期間"
@@ -298,7 +298,7 @@ explanation: "期間 benar, dibaca きかん, artinya periode."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: tiket langganan."
+question: "Kata mana yang berarti tiket langganan?"
 optionA: "定期券"
 optionB: "期限"
 correct: "定期券"

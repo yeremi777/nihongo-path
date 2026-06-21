@@ -177,11 +177,11 @@ Jangan menerjemahkan 非常 selalu sebagai “sangat”. Pada rambu publik, 非�
 
 ## Mini Practice
 
-Pilih kata kanji yang paling sesuai dengan arti berikut. Penjelasan baru muncul setelah kamu memilih.
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: darurat."
+question: "Kata mana yang berarti darurat?"
 optionA: "非常"
 optionB: "非常口"
 correct: "非常"
@@ -191,7 +191,7 @@ explanation: "非常 benar, dibaca ひじょう, artinya darurat."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: pintu darurat."
+question: "Kata mana yang berarti pintu darurat?"
 optionA: "日常"
 optionB: "非常口"
 correct: "非常口"
@@ -201,7 +201,7 @@ explanation: "非常口 benar, dibaca ひじょうぐち, artinya pintu darurat.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: keseharian."
+question: "Kata mana yang berarti keseharian?"
 optionA: "日常"
 optionB: "一階"
 correct: "日常"
@@ -211,7 +211,7 @@ explanation: "日常 benar, dibaca にちじょう, artinya keseharian."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: lantai satu."
+question: "Kata mana yang berarti lantai satu?"
 optionA: "階段"
 optionB: "一階"
 correct: "一階"
@@ -221,7 +221,7 @@ explanation: "一階 benar, dibaca いっかい, artinya lantai satu."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: beda tinggi lantai."
+question: "Kata mana yang berarti beda tinggi lantai?"
 optionA: "段差"
 optionB: "危険"
 correct: "段差"

@@ -21,9 +21,9 @@ tags:
 
 ## Tujuan
 
-Mengenali kanji N3 yang sering muncul saat membaca 地球温暖化: 化、比、原、因、際、議、活、変。
+Mengenali kanji N3 yang sering muncul di artikel lingkungan, pemanasan global, penyebab perubahan, perbandingan, rapat, dan aktivitas sosial: 化、比、原、因、際、議、活、変。
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 変化、文化、比べる、比較、原因、原料 dalam konteks nyata. Fokus hari ini bukan menghafal semua bacaan sekaligus, tetapi membaca kata majemuk utuh dan melihat fungsi kanji di dalam kalimat pendek.
+Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 変化、文化、比べる、比較、原因、原料 di artikel lingkungan, pemanasan global, penyebab perubahan, perbandingan, rapat, dan aktivitas sosial. Fokus hari ini bukan menghafal semua bacaan sekaligus, tetapi mengenali kata yang paling mungkin muncul dalam konteks tersebut.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> baca alur sebab-akibat: 原因, 変化, 温暖化, 国際会議, 活動.
@@ -56,7 +56,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: カ, ケ</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 地球温暖化, 化 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam artikel lingkungan dan pemanasan global, 化 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>変化<rt>へんか</rt></ruby></span> - perubahan</li>
       <li><span class="ruby-word"><ruby>文化<rt>ぶんか</rt></ruby></span> - budaya</li>
@@ -72,7 +72,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: くらべる</span></span>
       </span>
     </summary>
-    <p>Dalam topik 地球温暖化, 比 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam artikel lingkungan dan pemanasan global, 比 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>比べる<rt>くらべる</rt></ruby></span> - membandingkan</li>
       <li><span class="ruby-word"><ruby>比較<rt>ひかく</rt></ruby></span> - perbandingan</li>
@@ -88,7 +88,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: ゲン</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 地球温暖化, 原 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam artikel lingkungan dan pemanasan global, 原 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>原因<rt>げんいん</rt></ruby></span> - penyebab</li>
       <li><span class="ruby-word"><ruby>原料<rt>げんりょう</rt></ruby></span> - bahan baku</li>
@@ -104,7 +104,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: イン</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 地球温暖化, 因 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam artikel lingkungan dan pemanasan global, 因 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>原因<rt>げんいん</rt></ruby></span> - penyebab</li>
       <li><span class="ruby-word"><ruby>要因<rt>よういん</rt></ruby></span> - faktor utama</li>
@@ -120,7 +120,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: サイ</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 地球温暖化, 際 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam artikel lingkungan dan pemanasan global, 際 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>国際<rt>こくさい</rt></ruby></span> - internasional</li>
       <li><span class="ruby-word"><ruby>実際<rt>じっさい</rt></ruby></span> - kenyataannya</li>
@@ -136,7 +136,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: ギ</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 地球温暖化, 議 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam artikel lingkungan dan pemanasan global, 議 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>会議<rt>かいぎ</rt></ruby></span> - rapat</li>
       <li><span class="ruby-word"><ruby>議員<rt>ぎいん</rt></ruby></span> - anggota dewan</li>
@@ -152,7 +152,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: カツ</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 地球温暖化, 活 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam artikel lingkungan dan pemanasan global, 活 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>生活<rt>せいかつ</rt></ruby></span> - kehidupan</li>
       <li><span class="ruby-word"><ruby>活動<rt>かつどう</rt></ruby></span> - aktivitas</li>
@@ -168,7 +168,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: ヘン</span><span>kunyomi: かわる, かえる</span></span>
       </span>
     </summary>
-    <p>Dalam topik 地球温暖化, 変 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam artikel lingkungan dan pemanasan global, 変 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>変化<rt>へんか</rt></ruby></span> - perubahan</li>
       <li><span class="ruby-word"><ruby>変わる<rt>かわる</rt></ruby></span> - berubah</li>
@@ -241,11 +241,11 @@ Kesalahan yang sering terjadi adalah memaksa kunyomi ke semua kata majemuk. Stra
 
 ## Mini Practice
 
-Pilih kata kanji yang paling sesuai dengan arti berikut. Penjelasan baru muncul setelah kamu memilih.
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: perubahan."
+question: "Kata mana yang berarti perubahan?"
 optionA: "変化"
 optionB: "文化"
 correct: "変化"
@@ -255,7 +255,7 @@ explanation: "変化 benar, dibaca へんか, artinya perubahan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: budaya."
+question: "Kata mana yang berarti budaya?"
 optionA: "比較"
 optionB: "文化"
 correct: "文化"
@@ -265,7 +265,7 @@ explanation: "文化 benar, dibaca ぶんか, artinya budaya."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: perbandingan."
+question: "Kata mana yang berarti perbandingan?"
 optionA: "比較"
 optionB: "原因"
 correct: "比較"
@@ -275,7 +275,7 @@ explanation: "比較 benar, dibaca ひかく, artinya perbandingan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: penyebab."
+question: "Kata mana yang berarti penyebab?"
 optionA: "原料"
 optionB: "原因"
 correct: "原因"
@@ -285,7 +285,7 @@ explanation: "原因 benar, dibaca げんいん, artinya penyebab."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: faktor utama."
+question: "Kata mana yang berarti faktor utama?"
 optionA: "要因"
 optionB: "国際"
 correct: "要因"

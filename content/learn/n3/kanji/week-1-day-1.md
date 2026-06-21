@@ -279,55 +279,55 @@ Contohnya, 向 dibaca むかう pada verba 向かう, tetapi dibaca こう pada 
 
 ## Mini Practice
 
-Pilih kata kanji yang paling sesuai dengan arti berikut. Penjelasan baru muncul setelah kamu memilih.
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: parkir kendaraan."
-optionA: "駐車"
-optionB: "駐車場"
-correct: "駐車"
-explanation: "駐車 benar, dibaca ちゅうしゃ, artinya parkir kendaraan."
----
-::
-
-::MiniPractice
----
-question: "Pilih kata untuk arti: tempat parkir."
-optionA: "駐車禁止"
-optionB: "駐車場"
+question: "Kata mana yang berarti tempat parkir?"
+optionA: "駐車場"
+optionB: "駐車禁止"
 correct: "駐車場"
-explanation: "駐車場 benar, dibaca ちゅうしゃじょう, artinya tempat parkir."
+explanation: "駐車場 benar, dibaca ちゅうしゃじょう, artinya tempat parkir. 駐車禁止 adalah larangan parkir."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: dilarang parkir."
-optionA: "駐車禁止"
-optionB: "無料"
-correct: "駐車禁止"
-explanation: "駐車禁止 benar, dibaca ちゅうしゃきんし, artinya dilarang parkir."
----
-::
-
-::MiniPractice
----
-question: "Pilih kata untuk arti: gratis."
-optionA: "無休"
-optionB: "無料"
-correct: "無料"
-explanation: "無料 benar, dibaca むりょう, artinya gratis."
----
-::
-
-::MiniPractice
----
-question: "Pilih kata untuk arti: tanpa izin."
-optionA: "無断"
+question: "Kata mana yang berarti parkir penuh?"
+optionA: "満員"
 optionB: "満車"
-correct: "無断"
-explanation: "無断 benar, dibaca むだん. 満車 adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+correct: "満車"
+explanation: "満車 benar, dibaca まんしゃ, dipakai saat tempat parkir penuh. 満員 dipakai untuk kapasitas orang yang penuh."
+---
+::
+
+::MiniPractice
+---
+question: "Kata mana yang berarti gratis?"
+optionA: "無料"
+optionB: "無断"
+correct: "無料"
+explanation: "無料 benar, dibaca むりょう, artinya gratis. 無断 berarti tanpa izin, bukan soal biaya."
+---
+::
+
+::MiniPractice
+---
+question: "Kata mana yang berarti parkir tanpa izin?"
+optionA: "無断駐車"
+optionB: "駐車禁止"
+correct: "無断駐車"
+explanation: "無断駐車 benar, artinya parkir tanpa izin. 駐車禁止 berarti dilarang parkir."
+---
+::
+
+::MiniPractice
+---
+question: "Kata mana yang berarti petugas?"
+optionA: "関係者"
+optionB: "係員"
+correct: "係員"
+explanation: "係員 benar, dibaca かかりいん, artinya petugas. 関係者 berarti pihak terkait."
 ---
 ::
 

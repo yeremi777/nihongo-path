@@ -89,9 +89,11 @@ Jangan menganggap semua 回 berarti berputar. Jika ada angka atau kata tanya sep
 
 ## Mini Practice
 
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
+
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: bersamaan."
+question: "Kata mana yang berarti bersamaan?"
 optionA: "同時"
 optionB: "何回"
 correct: "同時"
@@ -101,7 +103,7 @@ explanation: "同時 berarti pada waktu yang sama. 何回 berarti berapa kali."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: setiap malam."
+question: "Kata mana yang berarti setiap malam?"
 optionA: "毎晩"
 optionB: "同級生"
 correct: "毎晩"
@@ -111,7 +113,7 @@ explanation: "毎晩 berarti setiap malam. 同級生 berarti teman sekelas."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: karangan."
+question: "Kata mana yang berarti karangan?"
 optionA: "作文"
 optionB: "文章"
 correct: "作文"
@@ -121,7 +123,7 @@ explanation: "作文 adalah karangan yang dibuat. 文章 adalah teks atau kalima
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: kantor pos."
+question: "Kata mana yang berarti kantor pos?"
 optionA: "郵便局"
 optionB: "大使館"
 correct: "郵便局"
@@ -131,7 +133,7 @@ explanation: "郵便局 adalah kantor pos. 大使館 adalah kedutaan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: belajar."
+question: "Kata mana yang berarti belajar?"
 optionA: "勉強"
 optionB: "集合"
 correct: "勉強"

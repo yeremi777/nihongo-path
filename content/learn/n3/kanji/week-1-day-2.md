@@ -248,55 +248,55 @@ Banyak pelajar membaca 押しボタン式 per bagian lalu berhenti di 押. Biasa
 
 ## Mini Practice
 
-Pilih kata kanji yang paling sesuai dengan arti berikut. Penjelasan baru muncul setelah kamu memilih.
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: menyeberang secara melintang."
+question: "Kata mana yang berarti menyeberang secara melintang?"
 optionA: "横断"
 optionB: "横断歩道"
 correct: "横断"
-explanation: "横断 benar, dibaca おうだん, artinya menyeberang secara melintang."
+explanation: "横断 benar, dibaca おうだん, artinya menyeberang secara melintang. 横断歩道 adalah tempat penyeberangannya."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: zebra cross."
+question: "Kata mana yang berarti penyeberangan pejalan kaki?"
 optionA: "方式"
 optionB: "横断歩道"
 correct: "横断歩道"
-explanation: "横断歩道 benar, dibaca おうだんほどう, artinya zebra cross."
+explanation: "横断歩道 benar, dibaca おうだんほどう, artinya zebra cross atau penyeberangan pejalan kaki. 方式 berarti metode/sistem."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: metode, sistem."
+question: "Kata mana yang berarti metode atau sistem?"
 optionA: "方式"
 optionB: "押しボタン式"
 correct: "方式"
-explanation: "方式 benar, dibaca ほうしき, artinya metode, sistem."
+explanation: "方式 benar, dibaca ほうしき, artinya metode atau sistem. 押しボタン式 adalah sistem tombol tekan yang lebih spesifik."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: sistem tombol tekan."
+question: "Kata mana yang berarti sistem tombol tekan?"
 optionA: "信号"
 optionB: "押しボタン式"
 correct: "押しボタン式"
-explanation: "押しボタン式 benar, dibaca おしぼたんしき, artinya sistem tombol tekan."
+explanation: "押しボタン式 benar, dibaca おしぼたんしき, artinya sistem tombol tekan. 信号 adalah lampu lalu lintas/sinyal."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: kepercayaan."
+question: "Kata mana yang berarti kepercayaan?"
 optionA: "信用"
 optionB: "一号車"
 correct: "信用"
-explanation: "信用 benar, dibaca しんよう. 一号車 adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+explanation: "信用 benar, dibaca しんよう, artinya kepercayaan. 一号車 memakai 号 untuk nomor gerbong."
 ---
 ::
 

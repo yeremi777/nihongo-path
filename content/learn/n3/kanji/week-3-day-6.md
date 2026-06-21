@@ -255,11 +255,11 @@ Strategi bacanya: lihat kata utuh lebih dulu, lalu cocokkan dengan konteks kalim
 
 ## Mini Practice
 
-Pilih kata kanji yang paling sesuai dengan arti berikut. Penjelasan baru muncul setelah kamu memilih.
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: koneksi."
+question: "Kata mana yang berarti koneksi?"
 optionA: "接続"
 optionB: "面接"
 correct: "接続"
@@ -269,7 +269,7 @@ explanation: "接続 benar, dibaca せつぞく, artinya koneksi."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: wawancara."
+question: "Kata mana yang berarti wawancara?"
 optionA: "表示"
 optionB: "面接"
 correct: "面接"
@@ -279,7 +279,7 @@ explanation: "面接 benar, dibaca めんせつ, artinya wawancara."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: tampilan."
+question: "Kata mana yang berarti tampilan?"
 optionA: "表示"
 optionB: "指示"
 correct: "表示"
@@ -289,7 +289,7 @@ explanation: "表示 benar, dibaca ひょうじ, artinya tampilan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: instruksi."
+question: "Kata mana yang berarti instruksi?"
 optionA: "完了"
 optionB: "指示"
 correct: "指示"
@@ -299,7 +299,7 @@ explanation: "指示 benar, dibaca しじ, artinya instruksi."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: sempurna, lengkap."
+question: "Kata mana yang berarti sempurna, lengkap?"
 optionA: "完全"
 optionB: "了解"
 correct: "完全"

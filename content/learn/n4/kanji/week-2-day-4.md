@@ -91,9 +91,11 @@ Untuk lokasi, cari 住 dan 所. Untuk peringatan dan pesanan, cari 注. Untuk se
 
 ## Mini Practice
 
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
+
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: penelitian."
+question: "Kata mana yang berarti penelitian?"
 optionA: "研究"
 optionB: "住所"
 correct: "研究"
@@ -103,7 +105,7 @@ explanation: "研究 berarti penelitian. 住所 berarti alamat."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: hati-hati/perhatian."
+question: "Kata mana yang berarti hati-hati/perhatian?"
 optionA: "注意"
 optionB: "注文"
 correct: "注意"
@@ -113,7 +115,7 @@ explanation: "注意 berarti perhatian atau hati-hati. 注文 berarti pesanan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: kelas."
+question: "Kata mana yang berarti kelas?"
 optionA: "教室"
 optionB: "研究室"
 correct: "教室"
@@ -123,7 +125,7 @@ explanation: "教室 adalah kelas. 研究室 adalah ruang penelitian."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: pengucapan."
+question: "Kata mana yang berarti pengucapan?"
 optionA: "発音"
 optionB: "音楽"
 correct: "発音"
@@ -133,7 +135,7 @@ explanation: "発音 berarti pengucapan. 音楽 berarti musik."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: pabrik."
+question: "Kata mana yang berarti pabrik?"
 optionA: "工場"
 optionB: "工業"
 correct: "工場"

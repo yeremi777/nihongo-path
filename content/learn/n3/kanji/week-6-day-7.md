@@ -23,7 +23,7 @@ tags:
 
 Mengenali delapan kanji tambahan N3 dari minggu keenam: 亡, 忙, 忘, 祭, 労, 加, 情, dan 反.
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 死亡, 忙しい, 忘れ物, 文化祭, 参加, 情報, dan 反対 dalam berita singkat, pengumuman sekolah, dan percakapan sehari-hari.
+Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 死亡, 忙しい, 忘れ物, 文化祭, 参加, 情報, dan 反対 dalam 記事 berita singkat, pengumuman sekolah, dan percakapan sehari-hari.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> perhatikan bentuk mirip 亡, 忙, dan 忘. Maknanya berbeda: hilang/meninggal, sibuk, lalu lupa.
@@ -256,11 +256,11 @@ Strategi bacanya: jika kanji bentuknya mirip seperti 亡, 忙, dan 忘, baca kat
 
 ## Mini Practice
 
-Pilih kata kanji yang paling sesuai dengan arti berikut. Penjelasan baru muncul setelah kamu memilih.
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: kematian."
+question: "Kata mana yang berarti kematian?"
 optionA: "死亡"
 optionB: "多忙"
 correct: "死亡"
@@ -270,7 +270,7 @@ explanation: "死亡 benar, dibaca しぼう, artinya kematian."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: sangat sibuk."
+question: "Kata mana yang berarti sangat sibuk?"
 optionA: "忘年会"
 optionB: "多忙"
 correct: "多忙"
@@ -280,7 +280,7 @@ explanation: "多忙 benar, dibaca たぼう, artinya sangat sibuk."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: pesta akhir tahun."
+question: "Kata mana yang berarti pesta akhir tahun?"
 optionA: "忘年会"
 optionB: "忘れ物"
 correct: "忘年会"
@@ -290,7 +290,7 @@ explanation: "忘年会 benar, dibaca ぼうねんかい, artinya pesta akhir ta
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: barang tertinggal."
+question: "Kata mana yang berarti barang tertinggal?"
 optionA: "文化祭"
 optionB: "忘れ物"
 correct: "忘れ物"
@@ -300,7 +300,7 @@ explanation: "忘れ物 benar, dibaca わすれもの, artinya barang tertinggal
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: kesulitan, jerih payah."
+question: "Kata mana yang berarti kesulitan, jerih payah?"
 optionA: "苦労"
 optionB: "労働者"
 correct: "苦労"

@@ -254,11 +254,11 @@ Strategi bacanya: lihat kata utuh lebih dulu, lalu cocokkan dengan konteks kalim
 
 ## Mini Practice
 
-Pilih kata kanji yang paling sesuai dengan arti berikut. Penjelasan baru muncul setelah kamu memilih.
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: belajar di luar negeri."
+question: "Kata mana yang berarti belajar di luar negeri?"
 optionA: "留学"
 optionB: "留守番"
 correct: "留学"
@@ -268,7 +268,7 @@ explanation: "留学 benar, dibaca りゅうがく, artinya belajar di luar nege
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: menjaga rumah saat orang pergi."
+question: "Kata mana yang berarti menjaga rumah saat orang pergi?"
 optionA: "留守"
 optionB: "留守番"
 correct: "留守番"
@@ -278,7 +278,7 @@ explanation: "留守番 benar, dibaca るすばん, artinya menjaga rumah saat o
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: tidak ada di rumah/kantor."
+question: "Kata mana yang berarti tidak ada di rumah/kantor?"
 optionA: "留守"
 optionB: "守備"
 correct: "留守"
@@ -288,7 +288,7 @@ explanation: "留守 benar, dibaca るす, artinya tidak ada di rumah/kantor."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: pertahanan."
+question: "Kata mana yang berarti pertahanan?"
 optionA: "濃度"
 optionB: "守備"
 correct: "守備"
@@ -298,7 +298,7 @@ explanation: "守備 benar, dibaca しゅび, artinya pertahanan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: bagian."
+question: "Kata mana yang berarti bagian?"
 optionA: "部分"
 optionB: "部長"
 correct: "部分"

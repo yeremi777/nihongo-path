@@ -254,11 +254,11 @@ Strategi bacanya: lihat kata utuh lebih dulu, lalu cocokkan dengan konteks kalim
 
 ## Mini Practice
 
-Pilih kata kanji yang paling sesuai dengan arti berikut. Penjelasan baru muncul setelah kamu memilih.
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: menerima pesan/sinyal."
+question: "Kata mana yang berarti menerima pesan/sinyal?"
 optionA: "受信"
 optionB: "受験"
 correct: "受信"
@@ -268,7 +268,7 @@ explanation: "受信 benar, dibaca じゅしん, artinya menerima pesan/sinyal."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: mengikuti ujian."
+question: "Kata mana yang berarti mengikuti ujian?"
 optionA: "受付"
 optionB: "受験"
 correct: "受験"
@@ -278,7 +278,7 @@ explanation: "受験 benar, dibaca じゅけん, artinya mengikuti ujian."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: pendaftaran, resepsionis."
+question: "Kata mana yang berarti pendaftaran, resepsionis?"
 optionA: "受付"
 optionB: "片付ける"
 correct: "受付"
@@ -288,7 +288,7 @@ explanation: "受付 benar, dibaca うけつけ, artinya pendaftaran, resepsioni
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: merapikan."
+question: "Kata mana yang berarti merapikan?"
 optionA: "内科"
 optionB: "片付ける"
 correct: "片付ける"
@@ -298,7 +298,7 @@ explanation: "片付ける benar, dibaca かたづける, artinya merapikan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: bedah."
+question: "Kata mana yang berarti bedah?"
 optionA: "外科"
 optionB: "教科書"
 correct: "外科"

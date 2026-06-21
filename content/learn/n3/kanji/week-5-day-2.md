@@ -21,9 +21,9 @@ tags:
 
 ## Tujuan
 
-Mengenali kanji N3 yang sering muncul saat membaca アンケート: 調、査、移、難、簡、単、感、想。
+Mengenali kanji N3 yang sering muncul di survei, kuesioner, pertanyaan pendapat, tingkat kesulitan, dan kesan setelah layanan: 調、査、移、難、簡、単、感、想。
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 調査、調子、調査、検査、移動、移る dalam konteks nyata. Fokus hari ini bukan menghafal semua bacaan sekaligus, tetapi membaca kata majemuk utuh dan melihat fungsi kanji di dalam kalimat pendek.
+Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 調査、調子、調査、検査、移動、移る di survei, kuesioner, pertanyaan pendapat, tingkat kesulitan, dan kesan setelah layanan. Fokus hari ini bukan menghafal semua bacaan sekaligus, tetapi mengenali kata yang paling mungkin muncul dalam konteks tersebut.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> lihat apakah kata itu meminta data, menilai tingkat mudah/sulit, atau meminta perasaan.
@@ -56,7 +56,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: チョウ</span><span>kunyomi: しらべる</span></span>
       </span>
     </summary>
-    <p>Dalam topik アンケート, 調 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam survei dan kuesioner, 調 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>調査<rt>ちょうさ</rt></ruby></span> - survei</li>
       <li><span class="ruby-word"><ruby>調子<rt>ちょうし</rt></ruby></span> - kondisi</li>
@@ -72,7 +72,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: サ</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik アンケート, 査 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam survei dan kuesioner, 査 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>調査<rt>ちょうさ</rt></ruby></span> - survei</li>
       <li><span class="ruby-word"><ruby>検査<rt>けんさ</rt></ruby></span> - pemeriksaan</li>
@@ -88,7 +88,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: イ</span><span>kunyomi: うつる, うつす</span></span>
       </span>
     </summary>
-    <p>Dalam topik アンケート, 移 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam survei dan kuesioner, 移 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>移動<rt>いどう</rt></ruby></span> - perpindahan</li>
       <li><span class="ruby-word"><ruby>移る<rt>うつる</rt></ruby></span> - berpindah</li>
@@ -104,7 +104,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: ナン</span><span>kunyomi: むずかしい</span></span>
       </span>
     </summary>
-    <p>Dalam topik アンケート, 難 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam survei dan kuesioner, 難 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>難しい<rt>むずかしい</rt></ruby></span> - sulit</li>
       <li><span class="ruby-word"><ruby>困難<rt>こんなん</rt></ruby></span> - kesulitan</li>
@@ -120,7 +120,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: カン</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik アンケート, 簡 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam survei dan kuesioner, 簡 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>簡単<rt>かんたん</rt></ruby></span> - mudah</li>
       <li><span class="ruby-word"><ruby>簡単な<rt>かんたんな</rt></ruby></span> - sederhana</li>
@@ -136,7 +136,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: タン</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik アンケート, 単 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam survei dan kuesioner, 単 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>単語<rt>たんご</rt></ruby></span> - kosakata</li>
       <li><span class="ruby-word"><ruby>単位<rt>たんい</rt></ruby></span> - satuan kredit/unit</li>
@@ -152,7 +152,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: カン</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik アンケート, 感 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam survei dan kuesioner, 感 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>感じる<rt>かんじる</rt></ruby></span> - merasa</li>
       <li><span class="ruby-word"><ruby>感動<rt>かんどう</rt></ruby></span> - terharu</li>
@@ -168,7 +168,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: ソウ</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik アンケート, 想 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam survei dan kuesioner, 想 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>感想<rt>かんそう</rt></ruby></span> - kesan</li>
       <li><span class="ruby-word"><ruby>予想<rt>よそう</rt></ruby></span> - prediksi</li>
@@ -239,11 +239,11 @@ Kesalahan yang sering terjadi adalah memaksa kunyomi ke semua kata majemuk. Stra
 
 ## Mini Practice
 
-Pilih kata kanji yang paling sesuai dengan arti berikut. Penjelasan baru muncul setelah kamu memilih.
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: survei."
+question: "Kata mana yang berarti survei?"
 optionA: "調査"
 optionB: "調子"
 correct: "調査"
@@ -253,7 +253,7 @@ explanation: "調査 benar, dibaca ちょうさ, artinya survei."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: kondisi."
+question: "Kata mana yang berarti kondisi?"
 optionA: "検査"
 optionB: "調子"
 correct: "調子"
@@ -263,7 +263,7 @@ explanation: "調子 benar, dibaca ちょうし, artinya kondisi."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: pemeriksaan."
+question: "Kata mana yang berarti pemeriksaan?"
 optionA: "検査"
 optionB: "移動"
 correct: "検査"
@@ -273,7 +273,7 @@ explanation: "検査 benar, dibaca けんさ, artinya pemeriksaan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: perpindahan."
+question: "Kata mana yang berarti perpindahan?"
 optionA: "困難"
 optionB: "移動"
 correct: "移動"
@@ -283,7 +283,7 @@ explanation: "移動 benar, dibaca いどう, artinya perpindahan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: mudah."
+question: "Kata mana yang berarti mudah?"
 optionA: "簡単"
 optionB: "簡単な"
 correct: "簡単"

@@ -21,9 +21,9 @@ tags:
 
 ## Tujuan
 
-Mengenali kanji N3 yang sering muncul saat membaca 求人広告: 求、募、職、容、技、般、務、課。
+Mengenali kanji N3 yang sering muncul di iklan lowongan kerja, syarat posisi, isi pekerjaan, kemampuan teknis, tugas kantor, dan bagian perusahaan: 求、募、職、容、技、般、務、課。
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 求人、求める、募集、応募、職場、職業 dalam konteks nyata. Fokus hari ini bukan menghafal semua bacaan sekaligus, tetapi membaca kata majemuk utuh dan melihat fungsi kanji di dalam kalimat pendek.
+Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 求人、求める、募集、応募、職場、職業 di iklan lowongan kerja, syarat posisi, isi pekerjaan, kemampuan teknis, tugas kantor, dan bagian perusahaan. Fokus hari ini bukan menghafal semua bacaan sekaligus, tetapi mengenali kata yang paling mungkin muncul dalam konteks tersebut.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> bedakan kata untuk mencari orang, jenis pekerjaan, isi tugas, dan departemen.
@@ -56,7 +56,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: キュウ</span><span>kunyomi: もとめる</span></span>
       </span>
     </summary>
-    <p>Dalam topik 求人広告, 求 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam iklan lowongan kerja, 求 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>求人<rt>きゅうじん</rt></ruby></span> - lowongan kerja</li>
       <li><span class="ruby-word"><ruby>求める<rt>もとめる</rt></ruby></span> - mencari</li>
@@ -72,7 +72,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: ボ</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 求人広告, 募 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam iklan lowongan kerja, 募 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>募集<rt>ぼしゅう</rt></ruby></span> - perekrutan</li>
       <li><span class="ruby-word"><ruby>応募<rt>おうぼ</rt></ruby></span> - melamar</li>
@@ -88,7 +88,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: ショク</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 求人広告, 職 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam iklan lowongan kerja, 職 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>職場<rt>しょくば</rt></ruby></span> - tempat kerja</li>
       <li><span class="ruby-word"><ruby>職業<rt>しょくぎょう</rt></ruby></span> - pekerjaan</li>
@@ -104,7 +104,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: ヨウ</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 求人広告, 容 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam iklan lowongan kerja, 容 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>内容<rt>ないよう</rt></ruby></span> - isi</li>
       <li><span class="ruby-word"><ruby>美容院<rt>びよういん</rt></ruby></span> - salon</li>
@@ -120,7 +120,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: ギ</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 求人広告, 技 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam iklan lowongan kerja, 技 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>技術<rt>ぎじゅつ</rt></ruby></span> - teknologi/keahlian</li>
       <li><span class="ruby-word"><ruby>技術者<rt>ぎじゅつしゃ</rt></ruby></span> - teknisi</li>
@@ -136,7 +136,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: ハン</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 求人広告, 般 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam iklan lowongan kerja, 般 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>一般<rt>いっぱん</rt></ruby></span> - umum</li>
       <li><span class="ruby-word"><ruby>一般に<rt>いっぱんに</rt></ruby></span> - secara umum</li>
@@ -152,7 +152,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: ム</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 求人広告, 務 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam iklan lowongan kerja, 務 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>事務<rt>じむ</rt></ruby></span> - administrasi</li>
       <li><span class="ruby-word"><ruby>事務所<rt>じむしょ</rt></ruby></span> - kantor</li>
@@ -168,7 +168,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: カ</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 求人広告, 課 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam iklan lowongan kerja, 課 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>第1課<rt>だいいっか</rt></ruby></span> - bab 1</li>
       <li><span class="ruby-word"><ruby>課長<rt>かちょう</rt></ruby></span> - kepala seksi</li>
@@ -242,11 +242,11 @@ Kesalahan yang sering terjadi adalah memaksa kunyomi ke semua kata majemuk. Stra
 
 ## Mini Practice
 
-Pilih kata kanji yang paling sesuai dengan arti berikut. Penjelasan baru muncul setelah kamu memilih.
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: lowongan kerja."
+question: "Kata mana yang berarti lowongan kerja?"
 optionA: "求人"
 optionB: "募集"
 correct: "求人"
@@ -256,7 +256,7 @@ explanation: "求人 benar, dibaca きゅうじん, artinya lowongan kerja."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: perekrutan."
+question: "Kata mana yang berarti perekrutan?"
 optionA: "応募"
 optionB: "募集"
 correct: "募集"
@@ -266,7 +266,7 @@ explanation: "募集 benar, dibaca ぼしゅう, artinya perekrutan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: melamar."
+question: "Kata mana yang berarti melamar?"
 optionA: "応募"
 optionB: "職場"
 correct: "応募"
@@ -276,7 +276,7 @@ explanation: "応募 benar, dibaca おうぼ, artinya melamar."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: tempat kerja."
+question: "Kata mana yang berarti tempat kerja?"
 optionA: "職業"
 optionB: "職場"
 correct: "職場"
@@ -286,7 +286,7 @@ explanation: "職場 benar, dibaca しょくば, artinya tempat kerja."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: isi."
+question: "Kata mana yang berarti isi?"
 optionA: "内容"
 optionB: "美容院"
 correct: "内容"

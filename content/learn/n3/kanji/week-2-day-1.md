@@ -251,11 +251,11 @@ Strategi bacanya: lihat kata utuh lebih dulu, lalu cocokkan dengan konteks kalim
 
 ## Mini Practice
 
-Pilih kata kanji yang paling sesuai dengan arti berikut. Penjelasan baru muncul setelah kamu memilih.
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: persiapan."
+question: "Kata mana yang berarti persiapan?"
 optionA: "準備"
 optionB: "準備中"
 correct: "準備"
@@ -265,7 +265,7 @@ explanation: "準備 benar, dibaca じゅんび, artinya persiapan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: sedang persiapan."
+question: "Kata mana yang berarti sedang persiapan?"
 optionA: "営業"
 optionB: "準備中"
 correct: "準備中"
@@ -275,7 +275,7 @@ explanation: "準備中 benar, dibaca じゅんびちゅう, artinya sedang pers
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: operasi bisnis."
+question: "Kata mana yang berarti operasi bisnis?"
 optionA: "営業"
 optionB: "営業時間"
 correct: "営業"
@@ -285,7 +285,7 @@ explanation: "営業 benar, dibaca えいぎょう, artinya operasi bisnis."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: jam operasional."
+question: "Kata mana yang berarti jam operasional?"
 optionA: "開閉"
 optionB: "営業時間"
 correct: "営業時間"
@@ -295,7 +295,7 @@ explanation: "営業時間 benar, dibaca えいぎょうじかん, artinya jam o
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: panduan, informasi."
+question: "Kata mana yang berarti panduan, informasi?"
 optionA: "案内"
 optionB: "店内"
 correct: "案内"

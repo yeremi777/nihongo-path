@@ -69,7 +69,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <span>理由</span>
 </div>
 
-Kata-kata hari ini sering muncul pada layar mesin tiket dan tiket cetak. Bacalah hubungannya seperti data tiket: 指定席/自由席 menjelaskan aturan duduk, 番号 menjelaskan nomor, 窓側/通路側 menjelaskan posisi, dan 窓口 menunjukkan tempat bertanya atau membeli lewat petugas.
+Kata-kata hari ini sering muncul pada layar mesin tiket di 駅 dan tiket cetak. Bacalah hubungannya seperti data tiket: 指定席/自由席 menjelaskan aturan duduk, 番号 menjelaskan nomor, 窓側/通路側 menjelaskan posisi, dan 窓口 menunjukkan tempat bertanya atau membeli lewat petugas.
 
 ## Catatan Pemakaian
 
@@ -116,11 +116,11 @@ Sebagian pelajar mengira 自由席 berarti pasti bisa duduk. Sebenarnya 自由�
 
 ## Mini Practice
 
-Pilih kata kanji yang paling sesuai dengan arti berikut. Penjelasan baru muncul setelah kamu memilih.
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: penetapan, reservasi."
+question: "Kata mana yang berarti penetapan, reservasi?"
 optionA: "指定"
 optionB: "定期"
 correct: "指定"
@@ -130,7 +130,7 @@ explanation: "指定 benar, dibaca してい, artinya penetapan, reservasi."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: berkala / periodik."
+question: "Kata mana yang berarti berkala / periodik?"
 optionA: "指定席"
 optionB: "定期"
 correct: "定期"
@@ -140,7 +140,7 @@ explanation: "定期 benar, dibaca ていき, artinya berkala / periodik."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: kursi reservasi."
+question: "Kata mana yang berarti kursi reservasi?"
 optionA: "指定席"
 optionB: "自由席"
 correct: "指定席"
@@ -150,7 +150,7 @@ explanation: "指定席 benar, dibaca していせき, artinya kursi reservasi."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: kursi bebas."
+question: "Kata mana yang berarti kursi bebas?"
 optionA: "自由"
 optionB: "自由席"
 correct: "自由席"
@@ -160,7 +160,7 @@ explanation: "自由席 benar, dibaca じゆうせき, artinya kursi bebas."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: alasan."
+question: "Kata mana yang berarti alasan?"
 optionA: "理由"
 optionB: "番号"
 correct: "理由"

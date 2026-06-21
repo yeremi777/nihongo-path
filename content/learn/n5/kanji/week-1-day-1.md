@@ -104,9 +104,11 @@ Jangan menebak 人 selalu dibaca ひと. Dalam kata seperti 日本人, bacanya �
 
 ## Mini Practice
 
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
+
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: guru."
+question: "Kata mana yang berarti guru?"
 optionA: "先生"
 optionB: "学生"
 correct: "先生"
@@ -116,7 +118,7 @@ explanation: "先生 berarti guru. 学生 berarti murid atau mahasiswa."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: bahasa Jepang."
+question: "Kata mana yang berarti bahasa Jepang?"
 optionA: "日本語"
 optionB: "英語"
 correct: "日本語"
@@ -126,7 +128,7 @@ explanation: "日本語 berarti bahasa Jepang. 英語 berarti bahasa Inggris."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: nama."
+question: "Kata mana yang berarti nama?"
 optionA: "名前"
 optionB: "有名な"
 correct: "名前"
@@ -136,7 +138,7 @@ explanation: "名前 berarti nama. 有名な berarti terkenal."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: teman."
+question: "Kata mana yang berarti teman?"
 optionA: "友だち"
 optionB: "子ども"
 correct: "友だち"
@@ -146,7 +148,7 @@ explanation: "友だち berarti teman. 子ども berarti anak."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: orang Jepang."
+question: "Kata mana yang berarti orang Jepang?"
 optionA: "日本人"
 optionB: "外国人"
 correct: "日本人"

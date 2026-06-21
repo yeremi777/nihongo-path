@@ -21,9 +21,9 @@ tags:
 
 ## Tujuan
 
-Mengenali kanji N3 yang sering muncul saat membaca スポーツ記事: 球、決、勝、対、流、負、投、果。
+Mengenali kanji N3 yang sering muncul di artikel olahraga, skor pertandingan, kemenangan, kekalahan, lawan, lemparan, dan hasil akhir: 球、決、勝、対、流、負、投、果。
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 野球、地球、決勝、決める、勝つ、優勝 dalam konteks nyata. Fokus hari ini bukan menghafal semua bacaan sekaligus, tetapi membaca kata majemuk utuh dan melihat fungsi kanji di dalam kalimat pendek.
+Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 野球、地球、決勝、決める、勝つ、優勝 di artikel olahraga, skor pertandingan, kemenangan, kekalahan, lawan, lemparan, dan hasil akhir. Fokus hari ini bukan menghafal semua bacaan sekaligus, tetapi mengenali kata yang paling mungkin muncul dalam konteks tersebut.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> cari struktur pertandingan: tim/lawan, skor, menang-kalah, lalu hasil.
@@ -56,7 +56,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: キュウ</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik スポーツ記事, 球 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam artikel olahraga dan laporan pertandingan, 球 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>野球<rt>やきゅう</rt></ruby></span> - bisbol</li>
       <li><span class="ruby-word"><ruby>地球<rt>ちきゅう</rt></ruby></span> - bumi</li>
@@ -72,7 +72,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: ケツ</span><span>kunyomi: きめる, きまる</span></span>
       </span>
     </summary>
-    <p>Dalam topik スポーツ記事, 決 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam artikel olahraga dan laporan pertandingan, 決 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>決勝<rt>けっしょう</rt></ruby></span> - final</li>
       <li><span class="ruby-word"><ruby>決める<rt>きめる</rt></ruby></span> - memutuskan</li>
@@ -88,7 +88,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: ショウ</span><span>kunyomi: かつ</span></span>
       </span>
     </summary>
-    <p>Dalam topik スポーツ記事, 勝 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam artikel olahraga dan laporan pertandingan, 勝 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>勝つ<rt>かつ</rt></ruby></span> - menang</li>
       <li><span class="ruby-word"><ruby>優勝<rt>ゆうしょう</rt></ruby></span> - juara</li>
@@ -104,7 +104,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: タイ</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik スポーツ記事, 対 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam artikel olahraga dan laporan pertandingan, 対 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>一対二<rt>いちたいに</rt></ruby></span> - 1 lawan 2</li>
       <li><span class="ruby-word"><ruby>反対<rt>はんたい</rt></ruby></span> - berlawanan</li>
@@ -120,7 +120,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: ながれる, ながす</span></span>
       </span>
     </summary>
-    <p>Dalam topik スポーツ記事, 流 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam artikel olahraga dan laporan pertandingan, 流 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>流れる<rt>ながれる</rt></ruby></span> - mengalir</li>
       <li><span class="ruby-word"><ruby>流す<rt>ながす</rt></ruby></span> - mengalirkan</li>
@@ -136,7 +136,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: フ</span><span>kunyomi: まける</span></span>
       </span>
     </summary>
-    <p>Dalam topik スポーツ記事, 負 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam artikel olahraga dan laporan pertandingan, 負 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>負ける<rt>まける</rt></ruby></span> - kalah</li>
       <li><span class="ruby-word"><ruby>勝負<rt>しょうぶ</rt></ruby></span> - pertandingan</li>
@@ -152,7 +152,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: トウ</span><span>kunyomi: なげる</span></span>
       </span>
     </summary>
-    <p>Dalam topik スポーツ記事, 投 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam artikel olahraga dan laporan pertandingan, 投 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>投手<rt>とうしゅ</rt></ruby></span> - pitcher</li>
       <li><span class="ruby-word"><ruby>投げる<rt>なげる</rt></ruby></span> - melempar</li>
@@ -168,7 +168,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: カ</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik スポーツ記事, 果 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Dalam artikel olahraga dan laporan pertandingan, 果 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>結果<rt>けっか</rt></ruby></span> - hasil</li>
       <li><span class="ruby-word"><ruby>果物<rt>くだもの</rt></ruby></span> - buah</li>
@@ -243,11 +243,11 @@ Kesalahan yang sering terjadi adalah memaksa kunyomi ke semua kata majemuk. Stra
 
 ## Mini Practice
 
-Pilih kata kanji yang paling sesuai dengan arti berikut. Penjelasan baru muncul setelah kamu memilih.
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: bisbol."
+question: "Kata mana yang berarti bisbol?"
 optionA: "野球"
 optionB: "地球"
 correct: "野球"
@@ -257,7 +257,7 @@ explanation: "野球 benar, dibaca やきゅう, artinya bisbol."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: bumi."
+question: "Kata mana yang berarti bumi?"
 optionA: "決勝"
 optionB: "地球"
 correct: "地球"
@@ -267,7 +267,7 @@ explanation: "地球 benar, dibaca ちきゅう, artinya bumi."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: final."
+question: "Kata mana yang berarti final?"
 optionA: "決勝"
 optionB: "優勝"
 correct: "決勝"
@@ -277,7 +277,7 @@ explanation: "決勝 benar, dibaca けっしょう, artinya final."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: juara."
+question: "Kata mana yang berarti juara?"
 optionA: "一対二"
 optionB: "優勝"
 correct: "優勝"
@@ -287,7 +287,7 @@ explanation: "優勝 benar, dibaca ゆうしょう, artinya juara."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: berlawanan."
+question: "Kata mana yang berarti berlawanan?"
 optionA: "反対"
 optionB: "勝負"
 correct: "反対"

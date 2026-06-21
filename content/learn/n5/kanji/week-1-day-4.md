@@ -99,9 +99,11 @@ Jangan membaca 東口 sebagai dua kata terpisah dalam tanda stasiun. Artinya pin
 
 ## Mini Practice
 
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
+
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: pintu masuk."
+question: "Kata mana yang berarti pintu masuk?"
 optionA: "入口"
 optionB: "出口"
 correct: "入口"
@@ -111,7 +113,7 @@ explanation: "入口 berarti pintu masuk. 出口 berarti pintu keluar."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: pintu timur."
+question: "Kata mana yang berarti pintu timur?"
 optionA: "東口"
 optionB: "西口"
 correct: "東口"
@@ -121,7 +123,7 @@ explanation: "東口 berarti pintu timur. 西口 berarti pintu barat."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: bawah."
+question: "Kata mana yang berarti bawah?"
 optionA: "下"
 optionB: "上"
 correct: "下"
@@ -131,7 +133,7 @@ explanation: "下 berarti bawah. 上 berarti atas."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: tangan kiri."
+question: "Kata mana yang berarti tangan kiri?"
 optionA: "左手"
 optionB: "右手"
 correct: "左手"
@@ -141,7 +143,7 @@ explanation: "左手 berarti tangan kiri. 右手 berarti tangan kanan."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: luar negeri."
+question: "Kata mana yang berarti luar negeri?"
 optionA: "外国"
 optionB: "駅前"
 correct: "外国"

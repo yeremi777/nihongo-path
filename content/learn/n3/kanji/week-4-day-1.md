@@ -21,9 +21,9 @@ tags:
 
 ## Tujuan
 
-Mengenali kanji N3 yang sering muncul saat membaca 日用品: 砂、塩、油、緑、紅、冊、個、枚。
+Mengenali kanji N3 yang sering muncul di daftar belanja, label bahan makanan, dan keterangan jumlah barang sehari-hari: 砂、塩、油、緑、紅、冊、個、枚。
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 砂糖、砂、食塩、塩、しょう油、油 dalam konteks nyata. Fokus hari ini bukan menghafal semua bacaan sekaligus, tetapi membaca kata majemuk utuh dan melihat fungsi kanji di dalam kalimat pendek.
+Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 砂糖、砂、食塩、塩、しょう油、油 di daftar belanja, label bahan makanan, dan keterangan jumlah barang sehari-hari. Fokus hari ini bukan menghafal semua bacaan sekaligus, tetapi mengenali kata yang paling mungkin muncul dalam konteks tersebut.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> pisahkan kata benda harian dari penghitung jumlah seperti 冊, 個, dan 枚.
@@ -56,7 +56,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: サ</span><span>kunyomi: すな</span></span>
       </span>
     </summary>
-    <p>Dalam topik 日用品, 砂 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Pada label bahan makanan dan daftar belanja, 砂 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>砂糖<rt>さとう</rt></ruby></span> - gula</li>
       <li><span class="ruby-word"><ruby>砂<rt>すな</rt></ruby></span> - pasir</li>
@@ -72,7 +72,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: エン</span><span>kunyomi: しお</span></span>
       </span>
     </summary>
-    <p>Dalam topik 日用品, 塩 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Pada label bahan makanan dan daftar belanja, 塩 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>食塩<rt>しょくえん</rt></ruby></span> - garam dapur</li>
       <li><span class="ruby-word"><ruby>塩<rt>しお</rt></ruby></span> - garam</li>
@@ -88,7 +88,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: ユ</span><span>kunyomi: あぶら</span></span>
       </span>
     </summary>
-    <p>Dalam topik 日用品, 油 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Pada label bahan makanan dan daftar belanja, 油 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>しょう油<rt>しょうゆ</rt></ruby></span> - kecap asin</li>
       <li><span class="ruby-word"><ruby>油<rt>あぶら</rt></ruby></span> - minyak</li>
@@ -104,7 +104,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: リョク</span><span>kunyomi: みどり</span></span>
       </span>
     </summary>
-    <p>Dalam topik 日用品, 緑 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Pada label bahan makanan dan daftar belanja, 緑 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>緑茶<rt>りょくちゃ</rt></ruby></span> - teh hijau</li>
       <li><span class="ruby-word"><ruby>緑<rt>みどり</rt></ruby></span> - hijau</li>
@@ -120,7 +120,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: コウ</span><span>kunyomi: べに</span></span>
       </span>
     </summary>
-    <p>Dalam topik 日用品, 紅 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Pada label bahan makanan dan daftar belanja, 紅 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>紅茶<rt>こうちゃ</rt></ruby></span> - teh hitam</li>
       <li><span class="ruby-word"><ruby>口紅<rt>くちべに</rt></ruby></span> - lipstik</li>
@@ -136,7 +136,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: サツ</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 日用品, 冊 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Pada label bahan makanan dan daftar belanja, 冊 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>一冊<rt>いっさつ</rt></ruby></span> - satu buku</li>
       <li><span class="ruby-word"><ruby>冊数<rt>さっすう</rt></ruby></span> - jumlah buku</li>
@@ -152,7 +152,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: コ</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 日用品, 個 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Pada label bahan makanan dan daftar belanja, 個 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>一個<rt>いっこ</rt></ruby></span> - satu buah</li>
       <li><span class="ruby-word"><ruby>個人<rt>こじん</rt></ruby></span> - individu</li>
@@ -168,7 +168,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
         <span class="kanji-reading"><span>onyomi: マイ</span><span>kunyomi: -</span></span>
       </span>
     </summary>
-    <p>Dalam topik 日用品, 枚 membantu mengenali kata yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+    <p>Pada label bahan makanan dan daftar belanja, 枚 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
     <ul>
       <li><span class="ruby-word"><ruby>一枚<rt>いちまい</rt></ruby></span> - satu lembar</li>
       <li><span class="ruby-word"><ruby>枚数<rt>まいすう</rt></ruby></span> - jumlah lembar</li>
@@ -239,11 +239,11 @@ Kesalahan yang sering terjadi adalah memaksa kunyomi ke semua kata majemuk. Stra
 
 ## Mini Practice
 
-Pilih kata kanji yang paling sesuai dengan arti berikut. Penjelasan baru muncul setelah kamu memilih.
+Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti kata utuh sebelum memilih.
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: gula."
+question: "Kata mana yang berarti gula?"
 optionA: "砂糖"
 optionB: "食塩"
 correct: "砂糖"
@@ -253,7 +253,7 @@ explanation: "砂糖 benar, dibaca さとう, artinya gula."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: garam dapur."
+question: "Kata mana yang berarti garam dapur?"
 optionA: "緑茶"
 optionB: "食塩"
 correct: "食塩"
@@ -263,7 +263,7 @@ explanation: "食塩 benar, dibaca しょくえん, artinya garam dapur."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: teh hijau."
+question: "Kata mana yang berarti teh hijau?"
 optionA: "緑茶"
 optionB: "紅茶"
 correct: "緑茶"
@@ -273,7 +273,7 @@ explanation: "緑茶 benar, dibaca りょくちゃ, artinya teh hijau."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: teh hitam."
+question: "Kata mana yang berarti teh hitam?"
 optionA: "口紅"
 optionB: "紅茶"
 correct: "紅茶"
@@ -283,7 +283,7 @@ explanation: "紅茶 benar, dibaca こうちゃ, artinya teh hitam."
 
 ::MiniPractice
 ---
-question: "Pilih kata untuk arti: satu buku."
+question: "Kata mana yang berarti satu buku?"
 optionA: "一冊"
 optionB: "冊数"
 correct: "一冊"
