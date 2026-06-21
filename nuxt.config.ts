@@ -45,6 +45,10 @@ export default defineNuxtConfig({
     ...(isDevelopment ? [] : ['@vite-pwa/nuxt'])
   ],
 
+  routeRules: {
+    '/learn': { redirect: '/' }
+  },
+
   nitro: {
     handlers: [
       ...(isDevelopment

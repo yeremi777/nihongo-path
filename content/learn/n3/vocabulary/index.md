@@ -1,6 +1,6 @@
 ---
 title: "Vocabulary"
-description: "Perdalam kosakata lewat situasi rumah tangga, perjalanan, pekerjaan, dan hubungan sosial, supaya kamu bisa memahami dan memakai kata yang muncul di percakapan sehari-hari."
+description: "Perdalam kosakata lewat rumah tangga, perjalanan, pekerjaan, dan hubungan sosial, supaya kamu bisa memahami dan memakai kata dalam percakapan maupun teks sehari-hari."
 level: "N3"
 category: "vocabulary"
 order: 2

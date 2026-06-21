@@ -1,4 +1,7 @@
 <script setup lang="ts">
+import { levelSummaries } from '~/utils/levelTracks'
+import { buildSectionDescriptions } from '~/utils/sectionContent'
+
 type OutlineItem = {
   title: string
   description?: string
@@ -188,20 +191,9 @@ const sidebarSectionLabels: Record<string, string> = {
   kanji: 'Kanji'
 }
 
-const levelSummaries: Record<string, { title: string, description: string }> = {
-  n5: {
-    title: 'N5',
-    description: 'Mulai dari kana, kosakata dasar, dan pola kalimat sederhana untuk membangun fondasi yang kuat.'
-  },
-  n4: {
-    title: 'N4',
-    description: 'Latih pola bahasa sehari-hari agar membaca, mendengar, dan merespons terasa lebih alami.'
-  },
-  n3: {
-    title: 'N3',
-    description: 'Perkuat kemampuan menengah dengan tata bahasa bernuansa, kosakata luas, dan pemahaman bacaan.'
-  }
-}
+const sectionDescriptionsFromContent = computed(() =>
+  buildSectionDescriptions(levelDocs.value || [], rootPath.value)
+)
 
 const defaultOutlines: Record<string, OutlineSection[]> = {
   n5: [
@@ -376,12 +368,20 @@ const sidebarSectionWeekGroups = computed<Record<string, SidebarWeekGroup[]>>(()
 })
 
 const levelSectionCards = computed(() => {
-  return availableSections.value.map((section, index) => ({
-    key: section.key,
-    title: sidebarSectionLabels[section.key] || section.key,
-    number: String(index + 1).padStart(2, '0'),
-    to: `${rootPath.value}/${section.key}`
-  }))
+  return availableSections.value.map((section) => {
+    const lessonCount = section.items.length
+    const meta = lessonCount
+      ? `${lessonCount} lesson${lessonCount === 1 ? '' : 's'}`
+      : 'Coming soon'
+
+    return {
+      key: section.key,
+      title: sidebarSectionLabels[section.key] || section.key,
+      description: sectionDescriptionsFromContent.value[section.key] || '',
+      meta,
+      to: `${rootPath.value}/${section.key}`
+    }
+  })
 })
 
 const existingLinks = computed(() => {
@@ -690,7 +690,7 @@ const pageDescription = computed(() => {
     return normalizeDescription(levelSummaries[levelKey.value].description)
   }
 
-  const description = (page.value as any)?.description
+  const description = (page.value as ContentLessonDoc | null)?.description
   return normalizeDescription(description)
 })
 
@@ -1541,23 +1541,12 @@ useSeoMeta({
               Bagian Utama
             </h2>
 
-            <div class="mt-5 grid gap-4 sm:gap-5 xl:grid-cols-2">
-              <NuxtLink
+            <div class="mt-6 grid gap-6 lg:grid-cols-2">
+              <LessonCard
                 v-for="section in levelSectionCards"
                 :key="section.key"
-                :to="section.to"
-                class="group relative flex min-h-28 flex-col justify-between rounded-lg border border-[color:var(--color-border)] bg-[color:var(--color-surface)] p-5 transition hover:border-[color:var(--color-primary)] sm:min-h-32 sm:p-6"
-              >
-                <span class="absolute right-5 top-5 text-xl text-[color:var(--color-muted)] transition group-hover:text-[color:var(--color-primary)] sm:right-6 sm:top-6" aria-hidden="true">
-                  ↗
-                </span>
-                <span class="text-base font-bold tabular-nums text-[color:var(--color-primary)] sm:text-lg">
-                  {{ section.number }}
-                </span>
-                <h3 class="mt-5 pr-8 text-xl font-semibold leading-snug text-[color:var(--color-text)] sm:mt-6 sm:text-2xl">
-                  {{ section.title }}
-                </h3>
-              </NuxtLink>
+                v-bind="section"
+              />
             </div>
           </section>
 

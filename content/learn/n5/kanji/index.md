@@ -1,6 +1,6 @@
 ---
 title: "Kanji"
-description: "Kenali karakter Jepang lewat tema pemula seperti nama, waktu, arah, dan angka, agar kamu mulai bisa membacanya dalam kata dan kalimat sederhana."
+description: "Kenali kanji lewat tema pemula seperti nama, waktu, arah, dan angka, agar kamu mulai bisa membacanya dalam kata dan kalimat sederhana."
 level: "N5"
 category: "kanji"
 order: 1

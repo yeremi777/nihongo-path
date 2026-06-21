@@ -1,6 +1,6 @@
 ---
 title: "Kanji"
-description: "Kenali karakter Jepang lewat papan petunjuk, label, formulir, dan teks sehari-hari, agar kamu bisa membacanya dalam kata dan situasi nyata, bukan sekadar menghafal bentuknya."
+description: "Kenali kanji lewat papan petunjuk, label, formulir, dan teks sehari-hari, agar kamu bisa membacanya dalam kata dan situasi nyata, bukan sekadar menghafal bentuknya."
 level: "N3"
 category: "kanji"
 order: 1

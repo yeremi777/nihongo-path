@@ -14,7 +14,7 @@ export const LEVEL_PROFILES = {
   N5: {
     label: 'some basic Japanese',
     maxExampleJapaneseChars: 60,
-    maxKanjiCards: 16,
+    maxKanjiCards: 20,
     contexts: ['daily life', 'classroom', 'self', 'family', 'food', 'time', 'place'],
   },
   N4: {

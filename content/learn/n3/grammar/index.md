@@ -1,6 +1,6 @@
 ---
 title: "Grammar"
-description: "Pelajari pola kalimat yang lebih matang, dari menceritakan kejadian yang dialami dan menyampaikan niat, hingga memberi alasan, pendapat, dan nuansa dalam percakapan sehari-hari."
+description: "Pelajari pola kalimat yang lebih matang, dari menceritakan pengalaman dan niat, hingga alasan, pendapat, dan nuansa dalam percakapan maupun tulisan sehari-hari."
 level: "N3"
 category: "grammar"
 order: 3

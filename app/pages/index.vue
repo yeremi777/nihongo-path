@@ -1,4 +1,6 @@
 <script setup lang="ts">
+import { levelTracks } from '~/utils/levelTracks'
+
 useSeoMeta({
   title: 'Nihongo Path',
   description: '一緒に勉強しましょう。'
@@ -7,27 +9,6 @@ useSeoMeta({
 useHead({
   titleTemplate: '%s'
 })
-
-const tracks = [
-  {
-    title: 'N5',
-    description: 'Mulai dari kana, kanji dasar, kosakata, dan pola kalimat sederhana untuk membangun fondasi yang kuat.',
-    meta: '4 sections',
-    to: '/learn/n5'
-  },
-  {
-    title: 'N4',
-    description: 'Perkuat kanji dan kosakata sebelum masuk ke pola bahasa sehari-hari.',
-    meta: '3 sections',
-    to: '/learn/n4'
-  },
-  {
-    title: 'N3',
-    description: 'Bangun kemampuan menengah lewat kanji, kosakata, dan grammar bernuansa.',
-    meta: '3 sections',
-    to: '/learn/n3'
-  }
-]
 </script>
 
 <template>
@@ -48,9 +29,12 @@ const tracks = [
 
       <div class="mt-16 grid gap-6 lg:grid-cols-2">
         <LessonCard
-          v-for="track in tracks"
+          v-for="track in levelTracks"
           :key="track.to"
-          v-bind="track"
+          :title="track.title"
+          :description="track.description"
+          :meta="track.meta"
+          :to="track.to"
         />
       </div>
     </div>
