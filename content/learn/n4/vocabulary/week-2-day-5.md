@@ -22,12 +22,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat Belajar kosakata N4 berupa adverbia untuk dugaan, akhirnya, durasi, waktu dekat, kebiasaan, perubahan, dan keputusan ulang.
+Di akhir pelajaran ini, kamu bisa mengenali adverbia N4 untuk dugaan, hasil yang akhirnya terjadi, durasi, waktu dekat, kebiasaan, perubahan, dan keputusan ulang.
 
 Fokus hari ini bukan hanya menghafal arti kata seperti きっと, きっと合格するでしょう, やっと, dan やっとバスが来た, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan fungsinya di kalimat: benda atau orang, tindakan, keadaan, waktu, tempat, dan cara. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan atau arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -84,7 +84,7 @@ Fokus hari ini bukan hanya menghafal arti kata seperti きっと, きっと合�
   <span>やっぱり</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang kata keterangan waktu dan nuansa: kata intinya bisa berupa きっと, きっと合格するでしょう, dan やっと; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+Bayangkan kamu sedang membaca atau mendengar situasi tentang kata keterangan waktu dan nuansa: kata intinya bisa berupa きっと, きっと合格するでしょう, dan やっと; kata lain memberi konteks tambahan. Mulai dari kata inti, lalu lihat pasangan kata dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
 
 
 
@@ -99,8 +99,8 @@ Peta waktunya: さっき baru saja terjadi, 最近 menggambarkan belakangan ini,
 
 ### ずっと Dua Makna
 
-- Perbandingan: ずっと背が高い = jauh lebih tinggi.
-- Durasi: 朝からずっと勉強している = terus belajar sejak pagi.
+- Perbandingan: ずっと背が高い berarti jauh lebih tinggi.
+- Durasi: 朝からずっと勉強している berarti terus belajar sejak pagi.
 
 ## Pola yang Sering Muncul
 

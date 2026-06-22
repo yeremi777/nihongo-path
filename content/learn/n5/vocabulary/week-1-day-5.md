@@ -22,12 +22,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali kosakata dasar yang sering muncul saat menyebut keluarga sendiri, keluarga orang lain, kepemilikan, dan pertanyaan sopan tentang keluarga.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata dasar untuk menyebut keluarga sendiri, keluarga orang lain, kepemilikan, dan pertanyaan sopan tentang keluarga.
 
 Fokus hari ini bukan hanya menghafal arti kata seperti わたしの, あなたの, あの人の, dan そふ, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan fungsinya di kalimat: benda atau orang, tindakan, keadaan, waktu, tempat, dan cara. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan atau arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -113,7 +113,7 @@ Pelajaran ini bergerak dari keluarga inti ke keluarga besar. Pola utamanya adala
   <span>おっと／しゅじん ↔ ごしゅじん</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang keluarga sendiri dan orang lain: kata intinya bisa berupa わたしの, あなたの, dan あの人の; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+Bayangkan kamu sedang membaca atau mendengar situasi tentang keluarga sendiri dan orang lain: kata intinya bisa berupa わたしの, あなたの, dan あの人の; kata lain memberi konteks tambahan. Mulai dari kata inti, lalu lihat pasangan kata dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
 
 
 

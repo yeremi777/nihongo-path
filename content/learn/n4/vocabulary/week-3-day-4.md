@@ -22,12 +22,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat membuat rencana, mempersiapkan tempat, membandingkan bentuk, menanam, menghias, dan memindahkan benda.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata untuk membuat rencana, mempersiapkan tempat, membandingkan bentuk, menanam, menghias, dan memindahkan benda.
 
 Fokus hari ini bukan hanya menghafal arti kata seperti 計画, 計画を立てる, 準備, dan 準備する, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan fungsinya di kalimat: benda atau orang, tindakan, keadaan, waktu, tempat, dan cara. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan atau arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -88,7 +88,7 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 計画, 計画を立て�
   <span>移す</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang rencana dan persiapan: kata intinya bisa berupa 計画, 計画を立てる, dan 準備; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+Bayangkan kamu sedang membaca atau mendengar situasi tentang rencana dan persiapan: kata intinya bisa berupa 計画, 計画を立てる, dan 準備; kata lain memberi konteks tambahan. Mulai dari kata inti, lalu lihat pasangan kata dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
 
 
 

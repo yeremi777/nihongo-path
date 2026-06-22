@@ -22,12 +22,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat ucapan sosial, perayaan, menjenguk orang sakit, pindah rumah, pengantaran paket, dan respons sopan.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata untuk ucapan sosial, perayaan, menjenguk orang sakit, pindah rumah, pengantaran paket, dan respons sopan.
 
 Fokus hari ini bukan hanya menghafal arti kata seperti 案内する, お祝い, お祝いをする, dan お見舞い, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan fungsinya di kalimat: benda atau orang, tindakan, keadaan, waktu, tempat, dan cara. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan atau arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -88,7 +88,7 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 案内する, お祝い, 
   <span>お大事に</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang ucapan dan hubungan sosial: kata intinya bisa berupa 案内する, お祝い, dan お祝いをする; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+Bayangkan kamu sedang membaca atau mendengar situasi tentang ucapan dan hubungan sosial: kata intinya bisa berupa 案内する, お祝い, dan お祝いをする; kata lain memberi konteks tambahan. Mulai dari kata inti, lalu lihat pasangan kata dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
 
 
 

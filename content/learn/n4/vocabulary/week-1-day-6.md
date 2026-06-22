@@ -22,12 +22,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat memilih kata sifat berpasangan sesuai benda, rasa, cuaca, kedalaman, ukuran, dan suasana.
+Di akhir pelajaran ini, kamu bisa memilih kata sifat berpasangan yang cocok untuk benda, rasa, cuaca, kedalaman, ukuran, dan suasana.
 
 Fokus hari ini bukan hanya menghafal arti kata seperti 濃い, 濃いコーヒー, 濃い色, dan 薄い, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan fungsinya di kalimat: benda atau orang, tindakan, keadaan, waktu, tempat, dan cara. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan atau arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -99,7 +99,7 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 濃い, 濃いコーヒ�
   <span>うるさい・静かな</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang kata sifat berpasangan: kata intinya bisa berupa 濃い, 濃いコーヒー, dan 濃い色; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+Bayangkan kamu sedang membaca atau mendengar situasi tentang kata sifat berpasangan: kata intinya bisa berupa 濃い, 濃いコーヒー, dan 濃い色; kata lain memberi konteks tambahan. Mulai dari kata inti, lalu lihat pasangan kata dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
 
 
 

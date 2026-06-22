@@ -22,12 +22,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat menggambarkan penampilan, pakaian yang dipakai, sifat, kemiripan, dan tindakan orang.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata untuk menggambarkan penampilan, pakaian yang dipakai, sifat, kemiripan, dan tindakan orang.
 
 Fokus hari ini bukan hanya menghafal arti kata seperti 若い, 年を取った, 年寄り, dan お年寄り, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan fungsinya di kalimat: benda atau orang, tindakan, keadaan, waktu, tempat, dan cara. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan atau arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -88,7 +88,7 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 若い, 年を取った, 
   <span>勉強中</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang penampilan dan tindakan orang: kata intinya bisa berupa 若い, 年を取った, dan 年寄り; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+Bayangkan kamu sedang membaca atau mendengar situasi tentang penampilan dan tindakan orang: kata intinya bisa berupa 若い, 年を取った, dan 年寄り; kata lain memberi konteks tambahan. Mulai dari kata inti, lalu lihat pasangan kata dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
 
 
 

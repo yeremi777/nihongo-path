@@ -22,12 +22,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat menanyakan ukuran, durasi, jarak, jumlah, satuan, belanja, dan kegiatan sehari-hari.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata untuk menanyakan ukuran, durasi, jarak, jumlah, satuan, belanja, dan kegiatan sehari-hari.
 
 Fokus hari ini bukan hanya menghafal arti kata seperti どのぐらい, 飛ぶ, 空を飛ぶ, dan 跳ぶ, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan fungsinya di kalimat: benda atau orang, tindakan, keadaan, waktu, tempat, dan cara. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan atau arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -97,7 +97,7 @@ Fokus hari ini bukan hanya menghafal arti kata seperti どのぐらい, 飛ぶ, 
   <span>大きさ</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang ukuran, jumlah, dan durasi: kata intinya bisa berupa どのぐらい, 飛ぶ, dan 空を飛ぶ; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+Bayangkan kamu sedang membaca atau mendengar situasi tentang ukuran, jumlah, dan durasi: kata intinya bisa berupa どのぐらい, 飛ぶ, dan 空を飛ぶ; kata lain memberi konteks tambahan. Mulai dari kata inti, lalu lihat pasangan kata dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
 
 
 

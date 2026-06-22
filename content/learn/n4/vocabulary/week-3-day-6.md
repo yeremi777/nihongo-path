@@ -22,12 +22,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat bahasa sopan dasar, sonkeigo, kenjougo, ungkapan restoran, dan cara berbicara yang hati-hati.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata untuk bahasa sopan dasar, sonkeigo, kenjougo, ungkapan restoran, dan cara berbicara yang hati-hati.
 
 Fokus hari ini bukan hanya menghafal arti kata seperti 丁寧な, 丁寧な話し方, 尊敬する, dan 遠慮する, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan fungsinya di kalimat: benda atau orang, tindakan, keadaan, waktu, tempat, dan cara. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan atau arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -80,7 +80,7 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 丁寧な, 丁寧な話�
   <span>頂く</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang bahasa sopan dasar: kata intinya bisa berupa 丁寧な, 丁寧な話し方, dan 尊敬する; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+Bayangkan kamu sedang membaca atau mendengar situasi tentang bahasa sopan dasar: kata intinya bisa berupa 丁寧な, 丁寧な話し方, dan 尊敬する; kata lain memberi konteks tambahan. Mulai dari kata inti, lalu lihat pasangan kata dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
 
 
 

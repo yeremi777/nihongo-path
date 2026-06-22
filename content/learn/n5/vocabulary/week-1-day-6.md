@@ -22,12 +22,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali kosakata dasar yang sering muncul saat menyebut musim, warna, tempat, olahraga, musik, buah, kendaraan, cuaca, alat makan, perabot, dan peralatan rumah.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata dasar untuk menyebut musim, warna, tempat, olahraga, musik, buah, kendaraan, cuaca, alat makan, perabot, dan peralatan rumah.
 
 Fokus hari ini bukan hanya menghafal arti kata seperti きせつ, はる, なつ, dan あき, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan fungsinya di kalimat: benda atau orang, tindakan, keadaan, waktu, tempat, dan cara. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan atau arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -145,7 +145,7 @@ Kata hari ini dipakai untuk menjawab pertanyaan sederhana: musim apa yang kamu s
   <span>かぐ → ベッド／つくえ</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang musim, warna, tempat, dan benda: kata intinya bisa berupa きせつ, はる, dan なつ; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+Bayangkan kamu sedang membaca atau mendengar situasi tentang musim, warna, tempat, dan benda: kata intinya bisa berupa きせつ, はる, dan なつ; kata lain memberi konteks tambahan. Mulai dari kata inti, lalu lihat pasangan kata dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
 
 
 

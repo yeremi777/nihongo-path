@@ -22,12 +22,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat membedakan kata kerja yang sama bunyi tetapi berbeda kanji, objek, dan konteks pemakaian.
+Di akhir pelajaran ini, kamu bisa membedakan kata kerja yang bunyinya sama, tetapi kanji, objek, dan pemakaiannya berbeda.
 
 Fokus hari ini bukan hanya menghafal arti kata seperti 引く, 風邪を引く, 辞書を引く, dan 押す, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan fungsinya di kalimat: benda atau orang, tindakan, keadaan, waktu, tempat, dan cara. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan atau arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -93,7 +93,7 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 引く, 風邪を引く, 
   <span>着く</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang kata kerja yang mirip bunyi: kata intinya bisa berupa 引く, 風邪を引く, dan 辞書を引く; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+Bayangkan kamu sedang membaca atau mendengar situasi tentang kata kerja yang mirip bunyi: kata intinya bisa berupa 引く, 風邪を引く, dan 辞書を引く; kata lain memberi konteks tambahan. Mulai dari kata inti, lalu lihat pasangan kata dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
 
 
 

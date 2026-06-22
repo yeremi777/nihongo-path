@@ -22,12 +22,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali kosakata dasar yang sering muncul saat waktu, biaya, buka-tutup, nyala-mati, telepon, lapar, haus, dan kondisi tempat.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata dasar untuk membicarakan waktu, biaya, buka-tutup, nyala-mati, telepon, lapar, haus, dan kondisi tempat.
 
 Fokus hari ini bukan hanya menghafal arti kata seperti かかる, あける, しめる, dan つける, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan fungsinya di kalimat: benda atau orang, tindakan, keadaan, waktu, tempat, dan cara. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan atau arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -81,7 +81,7 @@ Kata hari ini banyak berupa pasangan aksi dan keadaan. Kamu membuka pintu dengan
   <span>おなかがすく</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang waktu, biaya, dan kondisi: kata intinya bisa berupa かかる, あける, dan しめる; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+Bayangkan kamu sedang membaca atau mendengar situasi tentang waktu, biaya, dan kondisi: kata intinya bisa berupa かかる, あける, dan しめる; kata lain memberi konteks tambahan. Mulai dari kata inti, lalu lihat pasangan kata dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
 
 
 

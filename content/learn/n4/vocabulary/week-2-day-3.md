@@ -22,12 +22,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat membaca petunjuk cara memakai alat, tombol, file, lampu, jalan, dan keselamatan.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul dalam petunjuk penggunaan alat, tombol, file, lampu, jalan, dan keselamatan.
 
 Fokus hari ini bukan hanya menghafal arti kata seperti どうやって, 洗剤, 動く, dan 機械が動く, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan fungsinya di kalimat: benda atau orang, tindakan, keadaan, waktu, tempat, dan cara. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan atau arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -93,7 +93,7 @@ Fokus hari ini bukan hanya menghafal arti kata seperti どうやって, 洗剤, 
   <span>信号</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang petunjuk dan keselamatan: kata intinya bisa berupa どうやって, 洗剤, dan 動く; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+Bayangkan kamu sedang membaca atau mendengar situasi tentang petunjuk dan keselamatan: kata intinya bisa berupa どうやって, 洗剤, dan 動く; kata lain memberi konteks tambahan. Mulai dari kata inti, lalu lihat pasangan kata dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
 
 
 

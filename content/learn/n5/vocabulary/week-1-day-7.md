@@ -22,12 +22,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali kosakata dasar yang sering muncul saat bagian tubuh, cara memakai pakaian, dan kata hitung umum untuk benda, orang, lembaran, kendaraan, benda panjang, dan buku.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata dasar untuk bagian tubuh, cara memakai pakaian, dan kata hitung umum untuk benda, orang, lembaran, kendaraan, benda panjang, dan buku.
 
 Fokus hari ini bukan hanya menghafal arti kata seperti からだ, かお, あたま, dan くび, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan fungsinya di kalimat: benda atau orang, tindakan, keadaan, waktu, tempat, dan cara. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan atau arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -164,7 +164,7 @@ Pelajaran ini punya tiga peta besar. Pertama, tubuh: kepala sampai kaki. Kedua, 
   <span>〜まい／〜だい／〜ほん／〜さつ</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang tubuh, pakaian, dan kata hitung: kata intinya bisa berupa からだ, かお, dan あたま; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+Bayangkan kamu sedang membaca atau mendengar situasi tentang tubuh, pakaian, dan kata hitung: kata intinya bisa berupa からだ, かお, dan あたま; kata lain memberi konteks tambahan. Mulai dari kata inti, lalu lihat pasangan kata dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
 
 
 

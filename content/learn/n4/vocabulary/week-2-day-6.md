@@ -22,12 +22,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat kehilangan barang, mencari, menemukan, memungut, dan membedakan kata kerja transitif-intransitif.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata untuk kehilangan barang, mencari, menemukan, memungut, dan membedakan kata kerja transitif-intransitif.
 
 Fokus hari ini bukan hanya menghafal arti kata seperti 落とす, 財布を落とす, 落ちる, dan 財布が落ちる, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan fungsinya di kalimat: benda atau orang, tindakan, keadaan, waktu, tempat, dan cara. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan atau arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -91,7 +91,7 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 落とす, 財布を落�
   <span>大切にする</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang kehilangan dan menemukan: kata intinya bisa berupa 落とす, 財布を落とす, dan 落ちる; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+Bayangkan kamu sedang membaca atau mendengar situasi tentang kehilangan dan menemukan: kata intinya bisa berupa 落とす, 財布を落とす, dan 落ちる; kata lain memberi konteks tambahan. Mulai dari kata inti, lalu lihat pasangan kata dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
 
 
 

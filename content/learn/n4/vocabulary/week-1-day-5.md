@@ -22,12 +22,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat Belajar kosakata N4 yang mudah tertukar saat menjelaskan urutan, pikiran, ingatan, gerakan, dan kebiasaan.
+Di akhir pelajaran ini, kamu bisa membedakan kosakata yang mudah tertukar saat menjelaskan urutan, pikiran, ingatan, gerakan, dan kebiasaan.
 
 Fokus hari ini bukan hanya menghafal arti kata seperti 初めは, 初めて, 初めに, dan 次に, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan fungsinya di kalimat: benda atau orang, tindakan, keadaan, waktu, tempat, dan cara. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan atau arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -86,7 +86,7 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 初めは, 初めて, 初
   <span>慣れる</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang kosakata yang mudah tertukar: kata intinya bisa berupa 初めは, 初めて, dan 初めに; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+Bayangkan kamu sedang membaca atau mendengar situasi tentang kosakata yang mudah tertukar: kata intinya bisa berupa 初めは, 初めて, dan 初めに; kata lain memberi konteks tambahan. Mulai dari kata inti, lalu lihat pasangan kata dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
 
 
 

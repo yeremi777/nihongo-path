@@ -22,12 +22,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat membicarakan kondisi tubuh, sakit, berganti pakaian, dan membawa orang atau barang.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata untuk membicarakan kondisi tubuh, sakit, berganti pakaian, serta membawa orang atau barang.
 
 Fokus hari ini bukan hanya menghafal arti kata seperti 気分, 病気をする, 病気になる, dan けがをする, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan fungsinya di kalimat: benda atau orang, tindakan, keadaan, waktu, tempat, dan cara. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan atau arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
 ## Daftar Kata
@@ -83,7 +83,7 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 気分, 病気をする, 
   <span>迎えに行く</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang kondisi tubuh dan antar-jemput: kata intinya bisa berupa 気分, 病気をする, dan 病気になる; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+Bayangkan kamu sedang membaca atau mendengar situasi tentang kondisi tubuh dan antar-jemput: kata intinya bisa berupa 気分, 病気をする, dan 病気になる; kata lain memberi konteks tambahan. Mulai dari kata inti, lalu lihat pasangan kata dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
 
 
 
