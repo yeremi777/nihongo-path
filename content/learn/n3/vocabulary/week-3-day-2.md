@@ -54,12 +54,12 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 額, まつげ, ほお／
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| 朝のしたくをする | あさのしたくをする | bersiap-siap pagi; したく = preparation |
+| 朝のしたくをする | あさのしたくをする | bersiap-siap pagi; したく berarti persiapan. |
 | シャワーを浴びる | シャワーをあびる | mandi shower; 浴びる dipakai untuk shower atau paparan sinar matahari |
 | 歯をみがく | はをみがく | menyikat gigi; sering muncul saat membaca kegiatan bersiap, pakaian, penampilan, dan barang yang dibawa sebelum keluar. |
 | 歯みがき粉をつける | はみがきこをつける | menaruh pasta gigi di sikat; 歯みがき粉 means toothpaste |
 | ひげをそる | ひげをそる | mencukur kumis/janggut; sering muncul saat membaca kegiatan bersiap, pakaian, penampilan, dan barang yang dibawa sebelum keluar. |
-| ドライヤーで髪を乾かす | ドライヤーでかみをかわかす | mengeringkan rambut dengan pengering; 乾かす = dry something |
+| ドライヤーで髪を乾かす | ドライヤーでかみをかわかす | mengeringkan rambut dengan pengering; 乾かす berarti membuat sesuatu menjadi kering. |
 | 髪をとく／とかす | かみをとく／とかす | menyisir rambut; とく dan とかす sama-sama dipakai |
 | （お）化粧をする | （お）けしょうをする | berdandan; memakai riasan; お menambah kesan sopan |
 | 口紅を塗る／つける | くちべにをぬる／つける | memakai lipstik; 塗る berarti mengoleskan atau meratakan |
@@ -68,7 +68,7 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 額, まつげ, ほお／
 | おしゃれな人 | おしゃれなひと | orang yang berpakaian modis; sering muncul saat membaca kegiatan bersiap, pakaian, penampilan, dan barang yang dibawa sebelum keluar. |
 | ひもを結ぶ | ひもをむすぶ | mengikat tali; sering muncul saat membaca kegiatan bersiap, pakaian, penampilan, dan barang yang dibawa sebelum keluar. |
 | ほどく | ほどく | melepaskan ikatan; lawan kata dari 結ぶ |
-| マフラーを巻く／する | マフラーをまく／する | memakai syal; 巻く = wrap around |
+| マフラーを巻く／する | マフラーをまく／する | memakai syal; 巻く berarti melilitkan. |
 | 手袋をはめる／する | てぶくろをはめる／する | memakai sarung tangan; sering muncul saat membaca kegiatan bersiap, pakaian, penampilan, dan barang yang dibawa sebelum keluar. |
 | 指輪をはめる／する | ゆびわをはめる／する | memakai cincin; sering muncul saat membaca kegiatan bersiap, pakaian, penampilan, dan barang yang dibawa sebelum keluar. |
 
@@ -112,13 +112,13 @@ Bayangkan kamu sedang membaca atau mendengar situasi tentang bersiap-siap: kata 
 
 | Pola | Arti praktis | Catatan membaca |
 |---|---|---|
-| 朝のしたくをする | bersiap-siap pagi | したく = preparation |
+| 朝のしたくをする | bersiap-siap pagi | したく berarti persiapan. |
 | シャワーを浴びる | mandi shower | 浴びる dipakai untuk shower atau paparan sinar matahari |
 | 歯をみがく | menyikat gigi | sering muncul saat membaca kegiatan bersiap, pakaian, penampilan, dan barang yang dibawa sebelum keluar. |
 | 歯みがき | menyikat gigi | bentuk nomina |
 | 歯みがき粉をつける | menaruh pasta gigi di sikat | 歯みがき粉 means toothpaste |
 | ひげをそる | mencukur kumis/janggut | sering muncul saat membaca kegiatan bersiap, pakaian, penampilan, dan barang yang dibawa sebelum keluar. |
-| ドライヤーで髪を乾かす | mengeringkan rambut dengan pengering | 乾かす = dry something |
+| ドライヤーで髪を乾かす | mengeringkan rambut dengan pengering | 乾かす berarti membuat sesuatu menjadi kering. |
 | 髪をとく／とかす | menyisir rambut | とく dan とかす sama-sama dipakai |
 
 Perhatikan pola partikel: `を` menandai objek tindakan, `が` sering menandai keadaan, `に` menunjukkan tujuan atau arah, dan `で` menunjukkan alat, tempat, atau cara.

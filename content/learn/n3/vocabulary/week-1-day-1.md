@@ -21,9 +21,9 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat membicarakan dapur, ruang keluarga, peralatan rumah, suhu, dan kondisi ruangan.
+Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat membaca atau membicarakan dapur, ruang keluarga, peralatan rumah, suhu, dan kondisi ruangan.
 
-Fokus hari ini bukan hanya menghafal benda seperti 冷蔵庫 atau エアコン, tetapi juga membaca pasangan kata kerja seperti 温める, 冷やす, 冷えている, つける, 切る, dan 敷く dalam kalimat rumah tangga sehari-hari.
+Fokus hari ini bukan hanya menghafal nama benda seperti 冷蔵庫 atau エアコン, tetapi juga membaca pasangan kata kerja seperti 温める, 冷やす, 冷えている, つける, 切る, dan 敷く dalam kalimat rumah tangga sehari-hari.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> kelompokkan kata dari tempat, benda, alat elektronik, tindakan, lalu kondisi. Saat ada kata kerja, cek partikelnya: を biasanya tindakan yang dilakukan pada benda, sedangkan が sering menunjukkan keadaan benda itu sendiri.
@@ -97,8 +97,8 @@ Fokus hari ini bukan hanya menghafal benda seperti 冷蔵庫 atau エアコン, 
 | 暖房をつける | だんぼうをつける | menyalakan pemanas; 暖房 berarti pemanas/sistem pemanas. |
 | クーラーが効いている | クーラーがきいている | AC-nya terasa / bekerja baik; 効く berarti efeknya bekerja. |
 | 冷房が効いている | れいぼうがきいている | pendinginnya efektif; polanya sama dengan クーラーが効いている. |
-| 日当たりがいい | ひあたりがいい | mendapat sinar matahari yang baik; dipakai untuk kamar atau rumah. |
-| 日当たりが悪い | ひあたりがわるい | kurang mendapat sinar matahari; lawan dari 日当たりがいい. |
+| 日当たりがいい | ひあたりがいい | terkena sinar matahari dengan baik; dipakai untuk kamar atau rumah. |
+| 日当たりが悪い | ひあたりがわるい | kurang terkena sinar matahari; lawan dari 日当たりがいい. |
 
 ## Peta Kata
 
@@ -114,7 +114,7 @@ Fokus hari ini bukan hanya menghafal benda seperti 冷蔵庫 atau エアコン, 
   <span>日当たり</span>
 </div>
 
-Bayangkan kamu sedang membaca deskripsi rumah atau instruksi singkat di rumah: tempatnya adalah キッチン, 台所, リビング, atau 居間; bendanya berupa 冷蔵庫, 電子レンジ, 流し, 床, dan じゅうたん; alatnya berupa エアコン, ヒーター, コンセント, コード, dan スイッチ; tindakannya adalah 温める, 冷やす, 入れる, 切る, 敷く, dan つける; kondisinya terbaca dari 冷えている, 効いている, 日当たりがいい, dan 日当たりが悪い.
+Bayangkan kamu sedang membaca deskripsi rumah atau instruksi singkat di rumah. Tempatnya adalah キッチン, 台所, リビング, atau 居間. Bendanya berupa 冷蔵庫, 電子レンジ, 流し, 床, dan じゅうたん. Alatnya berupa エアコン, ヒーター, コンセント, コード, dan スイッチ. Tindakannya adalah 温める, 冷やす, 入れる, 切る, 敷く, dan つける. Kondisinya terbaca dari 冷えている, 効いている, 日当たりがいい, dan 日当たりが悪い.
 
 ## Catatan Pemakaian
 
@@ -165,7 +165,7 @@ Perhatikan pola partikel: `を` menandai benda yang kamu ubah atau operasikan, s
 <div class="example-list">
   <div><p class="jp">残り物を電子レンジで温めました。</p><p>Saya menghangatkan makanan sisa dengan microwave.</p></div>
   <div><p class="jp">ビールは冷蔵庫に入れて、よく冷やしてください。</p><p>Masukkan bir ke kulkas dan dinginkan dengan baik.</p></div>
-  <div><p class="jp">この部屋は日当たりがいいので、昼は暖かいです。</p><p>Kamar ini mendapat sinar matahari yang baik, jadi siang hari terasa hangat.</p></div>
+  <div><p class="jp">この部屋は日当たりがいいので、昼は暖かいです。</p><p>Kamar ini terkena sinar matahari dengan baik, jadi siang hari terasa hangat.</p></div>
   <div><p class="jp">出かける前に、エアコンのスイッチを切ってください。</p><p>Sebelum keluar, matikan sakelar AC.</p></div>
   <div><p class="jp">リビングの床に新しいカーペットを敷きました。</p><p>Saya menggelar karpet baru di lantai ruang keluarga.</p></div>
   <div><p class="jp">冷房が効いているので、窓を開けなくても大丈夫です。</p><p>Pendinginnya bekerja dengan baik, jadi tidak perlu membuka jendela.</p></div>
@@ -180,7 +180,7 @@ Perhatikan pola partikel: `を` menandai benda yang kamu ubah atau operasikan, s
 | じゅうたん / カーペット | Maknanya dekat. じゅうたん terasa sebagai kata Jepang sehari-hari, カーペット terasa sebagai kata serapan. Ikuti kata yang dipakai di teks. |
 | 冷やす / 冷えている | Jika ada objek dengan を, biasanya tindakan: ビールを冷やす. Jika ada が dan ている, biasanya keadaan: ビールが冷えている. |
 | 暖める / 暖房をつける | 暖める menjelaskan tindakan membuat sesuatu hangat. 暖房をつける berarti menyalakan sistem pemanas. |
-| コンセント / コード | コンセント adalah stopkontak di dinding; コード adalah kabel yang tersambung ke alat. |
+| コンセント / コード | コンセント adalah stopkontak di dinding; コード adalah kabel yang tersambung ke alat. Jika ada 差す, biasanya コード dimasukkan ke コンセント. |
 
 ## Kesalahan Umum
 

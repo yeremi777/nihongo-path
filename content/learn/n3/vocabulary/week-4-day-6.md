@@ -38,9 +38,9 @@ Fokus hari ini bukan hanya menghafal arti kata seperti メール, 受信トレ�
 | メール | メール | email. |
 | 受信トレイ | じゅしんトレイ | kotak masuk. |
 | 送信トレイ | そうしんトレイ | kotak keluar. |
-| 送信済みアイテム | そうしんずみアイテム | item terkirim. |
+| 送信済みアイテム | そうしんずみアイテム | pesan yang sudah terkirim. |
 | 下書き | したがき | draf. |
-| 削除済みアイテム | さくじょずみアイテム | item terhapus. |
+| 削除済みアイテム | さくじょずみアイテム | pesan yang sudah dihapus. |
 | アドレス帳 | アドレスちょう | buku alamat. |
 | 差出人 | さしだしにん | pengirim. |
 | 件名 | けんめい | subjek/judul email. |

@@ -44,7 +44,7 @@ Fokus hari ini bukan hanya menghafal arti kata seperti なべ, フライパン, 
 |---|---|---|
 | ふた | ふた | tutup panci; juga bisa ditulis 蓋 |
 | おたま | おたま | sendok sayur; sering muncul saat membaca bahan, alat, takaran, langkah persiapan, dan instruksi memasak sederhana. |
-| フライ返し | フライがえし | spatula; 返し from 返す |
+| フライ返し | フライがえし | spatula; 返し berasal dari 返す. |
 | 炊飯器 | すいはんき | penanak nasi; sering muncul saat membaca bahan, alat, takaran, langkah persiapan, dan instruksi memasak sederhana. |
 | しゃもじ | しゃもじ | centong nasi; sering muncul saat membaca bahan, alat, takaran, langkah persiapan, dan instruksi memasak sederhana. |
 | できあがり | できあがり | hasil jadi / selesai; sering dipakai setelah masakan selesai |
@@ -57,22 +57,22 @@ Fokus hari ini bukan hanya menghafal arti kata seperti なべ, フライパン, 
 | お湯が沸く | おゆがわく | air mendidih; 沸く memakai が |
 | お湯を冷ます | おゆをさます | mendinginkan air panas; 冷ます berarti membuat atau membiarkan sesuatu menjadi dingin |
 | お湯が冷める | おゆがさめる | air panas menjadi dingin; 冷める berarti menjadi dingin |
-| なべを火にかける | なべをひにかける | menaruh panci di atas api; 火にかける = put on heat |
+| なべを火にかける | なべをひにかける | menaruh panci di atas api; 火にかける berarti memanaskan di atas api. |
 | 水を切る | みずをきる | meniriskan air; 切る bisa berarti membuang atau meniriskan |
 | ご飯を炊く | ごはんをたく | menanak nasi; 炊く dipakai untuk menanak nasi |
 | 混ぜる | まぜる | mencampur; baca bersama objek dan partikelnya. |
-| 油を熱する | あぶらをねっする | memanaskan minyak; 熱する = heat something |
+| 油を熱する | あぶらをねっする | memanaskan minyak; 熱する berarti membuat sesuatu panas. |
 | こげる | こげる | gosong; makanan menjadi gosong |
-| 油で揚げる | あぶらであげる | menggoreng deep-fry; 揚げる = fry in oil |
+| 油で揚げる | あぶらであげる | menggoreng dengan minyak banyak; 揚げる dipakai untuk gorengan yang terendam minyak. |
 | 煮る | にる | merebus / memasak berkuah; sering dipakai untuk masakan berkuah atau bersaus |
 | ゆでる | ゆでる | merebus; biasanya di dalam air |
 | いためる | いためる | menumis; juga bisa ditulis 炒める |
 | 蒸す | むす | mengukus; baca bersama objek dan partikelnya. |
 | ひっくり返す | ひっくりかえす | membalik; kasual dan umum dipakai |
 | 裏返す | うらがえす | membalik; lebih harfiah: sisi belakang dibuat menghadap luar |
-| 味をつける | あじをつける | memberi rasa / membumbui; 味 = taste/flavor |
-| 塩を加える | しおをくわえる | menambahkan garam; 加える = add |
-| こしょうを振る | こしょうをふる | menaburkan lada; 振る = shake/sprinkle |
+| 味をつける | あじをつける | memberi rasa / membumbui; 味 berarti rasa. |
+| 塩を加える | しおをくわえる | menambahkan garam; 加える berarti menambahkan sesuatu. |
+| こしょうを振る | こしょうをふる | menaburkan lada; 振る di sini berarti menggoyangkan agar bumbu tersebar. |
 | 味見をする | あじみをする | mencicipi; mengecek rasa saat memasak |
 | 味を見る | あじをみる | mencicipi rasa; mirip dengan 味見をする |
 | できあがる | できあがる | selesai / jadi; dipakai saat masakan atau hasil kerja sudah selesai |
@@ -81,8 +81,8 @@ Fokus hari ini bukan hanya menghafal arti kata seperti なべ, フライパン, 
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| 味が濃い | あじがこい | rasanya kuat / pekat; 濃い = strong/thick/dense |
-| 味が薄い | あじがうすい | rasanya hambar / kurang kuat; 薄い = weak/thin/light |
+| 味が濃い | あじがこい | rasanya kuat / pekat; 濃い dipakai untuk rasa yang terlalu tebal atau kuat. |
+| 味が薄い | あじがうすい | rasanya hambar / kurang kuat; 薄い dipakai untuk rasa yang kurang terasa. |
 | からい | からい | pedas / asin kuat; konteks menentukan apakah artinya pedas atau asin kuat |
 | 塩からい | しおからい | asin; lebih kuat daripada sekadar 塩味 |
 | すっぱい | すっぱい | asam; sering muncul saat membaca bahan, alat, takaran, langkah persiapan, dan instruksi memasak sederhana. |
@@ -131,7 +131,7 @@ Bayangkan kamu sedang membaca atau mendengar situasi tentang mari memasak (2): k
 | お湯が沸く | air mendidih | 沸く memakai が |
 | お湯を冷ます | mendinginkan air panas | 冷ます berarti membuat atau membiarkan sesuatu menjadi dingin |
 | お湯が冷める | air panas menjadi dingin | 冷める berarti menjadi dingin |
-| なべを火にかける | menaruh panci di atas api | 火にかける = put on heat |
+| なべを火にかける | menaruh panci di atas api | 火にかける berarti memanaskan di atas api. |
 | 水を切る | meniriskan air | 切る bisa berarti membuang atau meniriskan |
 | ご飯を炊く | menanak nasi | 炊く dipakai untuk menanak nasi |
 | 混ぜる | mencampur | baca bersama objek dan partikelnya. |

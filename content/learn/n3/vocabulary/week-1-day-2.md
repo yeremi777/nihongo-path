@@ -61,7 +61,7 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 肉じゃが, 材料, 牛
 | 夕食のおかず | ゆうしょくのおかず | lauk makan malam; おかず berarti lauk yang dimakan bersama nasi |
 | 栄養のバランスを考える | えいようのバランスをかんがえる | mempertimbangkan keseimbangan gizi; sering muncul saat membaca bahan, alat, takaran, langkah persiapan, dan instruksi memasak sederhana. |
 | はかりで量る | はかりではかる | menimbang dengan timbangan; 量る berarti mengukur atau menimbang |
-| 塩を少々入れる | しおをしょうしょういれる | memasukkan sedikit garam; 少々 = sedikit; terasa agak formal |
+| 塩を少々入れる | しおをしょうしょういれる | memasukkan sedikit garam; 少々 berarti sedikit dan terasa agak resmi. |
 | 皮をむく | かわをむく | mengupas kulit; dipakai untuk kulit buah atau sayur |
 | 材料を刻む | ざいりょうをきざむ | mencincang bahan; 刻む berarti mencincang halus |
 | 大きめに切る | おおきめにきる | memotong agak besar; め menunjukkan agak/lebih |
@@ -140,7 +140,7 @@ Bayangkan kamu sedang membaca atau mendengar situasi tentang mari memasak (1): k
 | 栄養のバランスを考える | mempertimbangkan keseimbangan gizi | sering muncul saat membaca bahan, alat, takaran, langkah persiapan, dan instruksi memasak sederhana. |
 | カロリーが高い食品 | makanan tinggi kalori | 食品 berarti bahan atau produk makanan |
 | はかりで量る | menimbang dengan timbangan | 量る berarti mengukur atau menimbang |
-| 塩を少々入れる | memasukkan sedikit garam | 少々 = sedikit; terasa agak formal |
+| 塩を少々入れる | memasukkan sedikit garam | 少々 berarti sedikit dan terasa agak resmi. |
 
 Perhatikan pola partikel: `を` menandai objek tindakan, `が` sering menandai keadaan, `に` menunjukkan tujuan atau arah, dan `で` menunjukkan alat, tempat, atau cara.
 

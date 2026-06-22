@@ -36,29 +36,29 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 世話, 散歩してい�
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
 | 世話 | せわ | perawatan / mengurus; 子どもの世話をする |
-| 散歩している犬 | さんぽしているいぬ | anjing yang sedang diajak jalan; 散歩する = take a walk |
+| 散歩している犬 | さんぽしているいぬ | anjing yang sedang diajak jalan; 散歩する berarti berjalan-jalan. |
 | 甘やかす | あまやかす | memanjakan; 子どもを甘やかす |
 | おんぶする | おんぶする | menggendong di punggung; baca bersama objek dan partikelnya. |
 | 抱っこする | だっこする | menggendong di depan; biasanya untuk bayi, anak kecil, atau hewan peliharaan |
 | ほえる | ほえる | menggonggong; menggonggong seperti anjing |
-| しっぽを振る | しっぽをふる | mengibas-ngibaskan ekor; 振る = shake/wave |
+| しっぽを振る | しっぽをふる | mengibas-ngibaskan ekor; 振る berarti mengayunkan atau menggoyangkan. |
 | 人になれる | ひとになれる | jinak/terbiasa dengan manusia; 慣れる berarti menjadi terbiasa |
 | うなる | うなる | menggeram; baca bersama objek dan partikelnya. |
-| 穴を掘る | あなをほる | menggali lubang; 掘る = dig |
+| 穴を掘る | あなをほる | menggali lubang; 掘る berarti menggali. |
 | 穴をうめる | あなをうめる | menutup lubang; juga bisa ditulis 埋める |
-| 子どもが成長する | こどもがせいちょうする | anak tumbuh; 成長する = grow/develop |
-| 頭をなでる | あたまをなでる | mengelus kepala; なでる = stroke/pat |
+| 子どもが成長する | こどもがせいちょうする | anak tumbuh; 成長する berarti tumbuh atau berkembang. |
+| 頭をなでる | あたまをなでる | mengelus kepala; なでる berarti mengusap dengan lembut. |
 | お尻をたたく | おしりをたたく | menepuk/memukul pantat; di pelajaran ini juga muncul ぶつ |
-| お尻をぶつ | おしりをぶつ | memukul pantat; ぶつ = hit/strike |
+| お尻をぶつ | おしりをぶつ | memukul pantat; ぶつ berarti memukul. |
 | いたずらをする | いたずらをする | berbuat nakal; sering muncul saat membaca sifat anak atau hewan peliharaan, tindakan merawat, dan situasi pengasuhan sehari-hari. |
 | 手をつなぐ | てをつなぐ | bergandengan tangan; baca bersama objek dan partikelnya. |
 | はなす | はなす | melepaskan; untuk arti ini biasanya ditulis 離す |
-| 子どもが迷子になる | こどもがまいごになる | anak tersesat; 迷子 = lost child/person |
-| 子どもが母親の後をついていく | こどもがははおやのあとをついていく | anak mengikuti ibunya; 後をついていく = follow behind |
-| 犬を飼う | いぬをかう | memelihara anjing; 飼う = keep/raise animal |
+| 子どもが迷子になる | こどもがまいごになる | anak tersesat; 迷子 berarti orang, terutama anak, yang tersesat. |
+| 子どもが母親の後をついていく | こどもがははおやのあとをついていく | anak mengikuti ibunya; 後をついていく berarti mengikuti dari belakang. |
+| 犬を飼う | いぬをかう | memelihara anjing; 飼う dipakai untuk memelihara hewan. |
 | 散歩に連れていく | さんぽにつれていく | mengajak jalan-jalan; dipakai untuk anjing atau anak-anak |
-| 犬にえさをやる | いぬにえさをやる | memberi makan anjing; やる is kasual; dipakai kepada pihak yang posisinya lebih rendah atau kepada hewan |
-| 犬にえさを与える | いぬにえさをあたえる | memberi makanan kepada anjing; 与える is lebih formal |
+| 犬にえさをやる | いぬにえさをやる | memberi makan anjing; やる terasa kasual dan dipakai kepada hewan atau pihak yang posisinya lebih rendah. |
+| 犬にえさを与える | いぬにえさをあたえる | memberi makanan kepada anjing; 与える terasa lebih formal daripada やる. |
 
 ### Istilah Utama
 
@@ -67,8 +67,8 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 世話, 散歩してい�
 | 子ども | こども | anak; sering muncul saat membaca sifat anak atau hewan peliharaan, tindakan merawat, dan situasi pengasuhan sehari-hari. |
 | ペット | ペット | hewan peliharaan; sering muncul saat membaca sifat anak atau hewan peliharaan, tindakan merawat, dan situasi pengasuhan sehari-hari. |
 | 犬 | いぬ | anjing; sering muncul saat membaca sifat anak atau hewan peliharaan, tindakan merawat, dan situasi pengasuhan sehari-hari. |
-| 育児 | いくじ | pengasuhan anak; lebih formal |
-| 子育て | こそだて | membesarkan anak; lebih sehari-hari daripada |
+| 育児 | いくじ | pengasuhan anak; lebih formal daripada 子育て. |
+| 子育て | こそだて | membesarkan anak; lebih sehari-hari daripada 育児. |
 | 幼児 | ようじ | anak kecil / balita; 幼い子ども |
 
 ### Sifat dan Kondisi
@@ -83,9 +83,9 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 世話, 散歩してい�
 | 人なつっこい | ひとなつっこい | mudah akrab; juga bisa ditulis 人なつこい |
 | わがままな | わがままな | egois / semaunya sendiri; sering muncul saat membaca sifat anak atau hewan peliharaan, tindakan merawat, dan situasi pengasuhan sehari-hari. |
 | 生意気な | なまいきな | sok tahu / kurang ajar; sering bernuansa negatif |
-| 生意気な態度 | なまいきなたいど | sikap kurang ajar; 態度 = attitude |
+| 生意気な態度 | なまいきなたいど | sikap kurang ajar; 態度 berarti sikap. |
 | かわいがる | かわいがる | menyayangi; sering diarahkan kepada anak-anak atau hewan peliharaan |
-| わがままに育つ | わがままにそだつ | tumbuh manja/egois; 育つ = grow up |
+| わがままに育つ | わがままにそだつ | tumbuh manja/egois; 育つ berarti tumbuh atau dibesarkan. |
 | えらい | えらい | hebat / pintar; juga dipakai untuk memuji anak-anak |
 | いたずらな | いたずらな | nakal / jahil; sering muncul saat membaca sifat anak atau hewan peliharaan, tindakan merawat, dan situasi pengasuhan sehari-hari. |
 
@@ -130,10 +130,10 @@ Bayangkan kamu sedang membaca atau mendengar situasi tentang merawat anak dan he
 | Pola | Arti praktis | Catatan membaca |
 |---|---|---|
 | 世話 | perawatan / mengurus | 子どもの世話をする |
-| 散歩している犬 | anjing yang sedang diajak jalan | 散歩する = take a walk |
+| 散歩している犬 | anjing yang sedang diajak jalan | 散歩する berarti berjalan-jalan. |
 | 行儀がいい | sopan / berperilaku baik | untuk anak-anak, hewan peliharaan, atau orang |
 | わがままな | egois / semaunya sendiri | sering muncul saat membaca sifat anak atau hewan peliharaan, tindakan merawat, dan situasi pengasuhan sehari-hari. |
-| 生意気な態度 | sikap kurang ajar | 態度 = attitude |
+| 生意気な態度 | sikap kurang ajar | 態度 berarti sikap. |
 | 甘やかす | memanjakan | 子どもを甘やかす |
 | かわいがる | menyayangi | sering diarahkan kepada anak-anak atau hewan peliharaan |
 | おんぶする | menggendong di punggung | baca bersama objek dan partikelnya. |

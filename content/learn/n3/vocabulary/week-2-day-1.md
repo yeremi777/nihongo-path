@@ -35,10 +35,10 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 一昨日, 昨日, 今日
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| 一昨日 | おととい | dua hari yang lalu; juga bisa dibaca いっさくじつ dalam tulisan formal |
-| 昨日 | きのう | kemarin; bacaan formal: さくじつ |
+| 一昨日 | おととい | dua hari yang lalu; juga bisa dibaca いっさくじつ dalam tulisan resmi. |
+| 昨日 | きのう | kemarin; bacaan formalnya さくじつ. |
 | 今日 | きょう | hari ini; kata waktu dasar untuk membedakan tanggal |
-| 明日 | あした | besok; bacaan formal: あす／みょうにち |
+| 明日 | あした | besok; bacaan formal atau tertulisnya あす／みょうにち. |
 | あさって | あさって | lusa; biasanya ditulis hiragana |
 | しあさって | しあさって | tiga hari dari sekarang; biasanya ditulis hiragana |
 | さきおととい | さきおととい | tiga hari yang lalu; biasanya ditulis hiragana |
@@ -51,7 +51,7 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 一昨日, 昨日, 今日
 | 平日 | へいじつ | hari kerja; hari biasa; hari kerja biasa, bukan hari libur |
 | 祝日 | しゅくじつ | hari libur nasional; hari libur resmi nasional |
 | 祭日 | さいじつ | hari raya; hari libur; istilah lama/umum yang sering dipasangkan dengan 祝日 |
-| 昨年 | さくねん | tahun lalu; lebih formal daripada 去年 |
+| 昨年 | さくねん | tahun lalu; lebih formal daripada 去年. |
 | 一昨年 | いっさくねん | dua tahun lalu; maknanya sama dengan おととし |
 | 再来年 | さらいねん | dua tahun lagi; dua tahun setelah tahun ini |
 | 先々月 | せんせんげつ | dua bulan lalu; dua bulan sebelum bulan ini |
@@ -66,7 +66,7 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 一昨日, 昨日, 今日
 | 日程 | にってい | jadwal; rencana perjalanan; sering dipakai untuk perjalanan atau acara |
 | スケジュール | スケジュール | jadwal; kata serapan, umum dalam percakapan sehari-hari |
 | 二泊三日で温泉に行く | にはくみっかでおんせんにいく | pergi ke onsen selama 2 malam 3 hari; 泊 menghitung malam; 日 menghitung hari |
-| 日帰りで温泉に行く | ひがえりでおんせんにいく | pergi pulang hari ke onsen; 日帰り = perjalanan pulang-pergi pada hari yang sama |
+| 日帰りで温泉に行く | ひがえりでおんせんにいく | pergi pulang hari ke onsen; 日帰り berarti perjalanan pulang-pergi pada hari yang sama. |
 
 ### Istilah Utama
 
@@ -80,15 +80,15 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 一昨日, 昨日, 今日
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| 休暇を取る | きゅうかをとる | mengambil cuti; 休暇 adalah kata formal untuk cuti atau liburan |
+| 休暇を取る | きゅうかをとる | mengambil cuti; 休暇 adalah kata formal untuk cuti atau liburan. |
 | 調整する | ちょうせいする | menyesuaikan; mengatur; dipakai untuk penyesuaian jadwal atau waktu |
-| 変更する | へんこうする | mengubah; lebih formal daripada 変える |
+| 変更する | へんこうする | mengubah; lebih formal daripada 変える. |
 | ずらす | ずらす | menggeser; sering dipakai untuk tanggal atau waktu |
 | 旅行会社に申し込む | りょこうがいしゃにもうしこむ | mendaftar/memesan lewat agen perjalanan; 申し込む berarti mengajukan, mendaftar, atau memesan secara resmi |
 | 予約を取り消す | よやくをとりけす | membatalkan reservasi; mirip dengan キャンセルする |
 | キャンセルする | キャンセルする | membatalkan; kata serapan, umum untuk reservasi |
 | 荷物を詰める | にもつをつめる | mengemasi barang bawaan; 詰める berarti memasukkan sampai padat atau rapat |
-| 旅館に宿泊する | りょかんにしゅくはくする | menginap di ryokan; 宿泊する lebih formal daripada 泊まる |
+| 旅館に宿泊する | りょかんにしゅくはくする | menginap di ryokan; 宿泊する lebih formal daripada 泊まる. |
 
 ## Peta Kata
 
@@ -130,10 +130,10 @@ Bayangkan kamu sedang membaca atau mendengar situasi tentang membuat rencana: ka
 
 | Pola | Arti praktis | Catatan membaca |
 |---|---|---|
-| 休暇を取る | mengambil cuti | 休暇 adalah kata formal untuk cuti atau liburan |
+| 休暇を取る | mengambil cuti | 休暇 adalah kata formal untuk cuti atau liburan. |
 | 日にち | tanggal | kata percakapan sehari-hari |
 | 調整する | menyesuaikan; mengatur | dipakai untuk penyesuaian jadwal atau waktu |
-| 変更する | mengubah | lebih formal daripada 変える |
+| 変更する | mengubah | lebih formal daripada 変える. |
 | ずらす | menggeser | sering dipakai untuk tanggal atau waktu |
 | 旅行会社に申し込む | mendaftar/memesan lewat agen perjalanan | 申し込む berarti mengajukan, mendaftar, atau memesan secara resmi |
 | 予約を取り消す | membatalkan reservasi | mirip dengan キャンセルする |

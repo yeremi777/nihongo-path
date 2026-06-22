@@ -36,13 +36,13 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 通行止め, 踏切, 線
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
 | 通行止め | つうこうどめ | jalan ditutup; sering terlihat di rambu jalan |
-| 踏切 | ふみきり | perlintasan kereta; same area as 線路 |
-| 線路 | せんろ | rel kereta; train tracks |
+| 踏切 | ふみきり | perlintasan kereta; berada di area yang berhubungan dengan 線路. |
+| 線路 | せんろ | rel kereta; jalur rel. |
 | 信号 | しんごう | lampu lalu lintas; sinyal; juga dipakai untuk arti sinyal |
 | 横断歩道 | おうだんほどう | penyeberangan pejalan kaki; zebra cross; kosakata yang sering muncul di rambu umum |
-| バス停 | バスてい | halte bus; short form of バスの停留所 |
-| 停留所 | ていりゅうじょ | halte; tempat pemberhentian; kata formal untuk halte bus atau trem |
-| 四つ角 | よつかど | persimpangan empat; harfiahly four corners |
+| バス停 | バスてい | halte bus; bentuk pendek dari バスの停留所. |
+| 停留所 | ていりゅうじょ | halte; tempat pemberhentian; kata formal untuk halte bus atau trem. |
+| 四つ角 | よつかど | persimpangan empat; secara harfiah berarti empat sudut. |
 | 交差点 | こうさてん | persimpangan; kata umum untuk konteks jalan |
 | 一方通行 | いっぽうつうこう | jalan satu arah; kata yang sering muncul di rambu jalan |
 | 信号無視 | しんごうむし | pelanggaran lampu lalu lintas; bentuk nomina |
@@ -51,30 +51,30 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 通行止め, 踏切, 線
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| 工事中 | こうじちゅう | sedang dalam perbaikan/konstruksi; 〜中 = in the middle of |
-| 渋滞 | じゅうたい | kemacetan; can be 渋滞する |
-| 道路が混んでいる | どうろがこんでいる | jalan sedang macet/ramai; 混んでいる = crowded/congested |
-| 道路が渋滞している | どうろがじゅうたいしている | jalan sedang macet; more traffic-specific than 混んでいる |
-| すいている | すいている | tidak ramai; lengang; lawan kata of 混んでいる |
-| 回り道をする | まわりみちをする | memutar jalan; detour around something |
-| 遠回りをする | とおまわりをする | mengambil jalan memutar yang jauh; emphasizes longer route |
-| 近道をする | ちかみちをする | mengambil jalan pintas; lawan kata of 遠回り |
-| 突き当たりを左に曲がる | つきあたりをひだりにまがる | belok kiri di ujung jalan; 突き当たり = dead end/end point |
-| バスが停車する | バスがていしゃする | bus berhenti; 停車する = stop a vehicle/train |
-| 線路を越える | せんろをこえる | menyeberangi rel kereta; 越える = cross over |
-| トラックを追い越す | トラックをおいこす | menyalip truk; 追い越す = overtake |
-| 時速100キロで走る | じそくひゃっキロではしる | melaju 100 km per jam; 時速 = speed per hour |
-| スピード違反で捕まる | スピードいはんでつかまる | tertangkap karena pelanggaran kecepatan; 違反 = violation |
+| 工事中 | こうじちゅう | sedang dalam perbaikan/konstruksi; 〜中 berarti sedang dalam proses. |
+| 渋滞 | じゅうたい | kemacetan; bisa menjadi 渋滞する. |
+| 道路が混んでいる | どうろがこんでいる | jalan sedang macet/ramai; 混んでいる menunjukkan kondisi ramai atau padat. |
+| 道路が渋滞している | どうろがじゅうたいしている | jalan sedang macet; 渋滞している lebih khusus untuk kemacetan lalu lintas daripada 混んでいる. |
+| すいている | すいている | tidak ramai; lengang; lawan kata 混んでいる. |
+| 回り道をする | まわりみちをする | memutar jalan; mengambil jalur lain karena tidak langsung. |
+| 遠回りをする | とおまわりをする | mengambil jalan memutar yang jauh; menekankan rute yang lebih panjang. |
+| 近道をする | ちかみちをする | mengambil jalan pintas; lawan kata 遠回り. |
+| 突き当たりを左に曲がる | つきあたりをひだりにまがる | belok kiri di ujung jalan; 突き当たり adalah titik mentok di jalan atau lorong. |
+| バスが停車する | バスがていしゃする | bus berhenti; 停車する berarti kendaraan berhenti. |
+| 線路を越える | せんろをこえる | menyeberangi rel kereta; 越える berarti melewati atau menyeberangi batas. |
+| トラックを追い越す | トラックをおいこす | menyalip truk; 追い越す berarti melewati kendaraan/orang dari belakang. |
+| 時速100キロで走る | じそくひゃっキロではしる | melaju 100 km per jam; 時速 menunjukkan kecepatan per jam. |
+| スピード違反で捕まる | スピードいはんでつかまる | tertangkap karena pelanggaran kecepatan; 違反 berarti pelanggaran aturan. |
 | 駐車違反をする | ちゅうしゃいはんをする | melakukan pelanggaran parkir; sering berujung pada tilang parkir |
-| 信号を無視する | しんごうをむしする | menerobos/mengabaikan lampu lalu lintas; 無視する = ignore |
-| 車をぶつける | くるまをぶつける | menabrakkan mobil ke sesuatu; transitif: the driver causes the hit |
-| 車がぶつかる | くるまがぶつかる | mobil bertabrakan/menabrak; intransitif: the car collides |
+| 信号を無視する | しんごうをむしする | menerobos/mengabaikan lampu lalu lintas; 無視する berarti mengabaikan. |
+| 車をぶつける | くるまをぶつける | menabrakkan mobil ke sesuatu; bentuk transitif, jadi pelaku menyebabkan tabrakan. |
+| 車がぶつかる | くるまがぶつかる | mobil bertabrakan/menabrak; bentuk intransitif, jadi fokusnya pada mobil yang bertabrakan. |
 | 猫をひく | ねこをひく | menabrak/melindas kucing; 轢く sering ditulis dengan kana |
-| 猫が車にひかれる | ねこがくるまにひかれる | kucing tertabrak/terlindas mobil; passive form of ひく |
-| 交通事故にあう | こうつうじこにあう | mengalami kecelakaan lalu lintas; 事故にあう = have/meet with an accident |
-| 車に気をつける | くるまにきをつける | hati-hati terhadap mobil; 気をつける = be careful |
+| 猫が車にひかれる | ねこがくるまにひかれる | kucing tertabrak/terlindas mobil; bentuk pasif dari ひく. |
+| 交通事故にあう | こうつうじこにあう | mengalami kecelakaan lalu lintas; 事故にあう berarti mengalami kecelakaan. |
+| 車に気をつける | くるまにきをつける | hati-hati terhadap mobil; 気をつける berarti berhati-hati. |
 | ななめに横断する | ななめにおうだんする | menyeberang secara diagonal; sering tidak aman atau melanggar aturan |
-| 道路を横切る | どうろをよこぎる | menyeberangi jalan; 横切る = cut across |
+| 道路を横切る | どうろをよこぎる | menyeberangi jalan; 横切る berarti melintas memotong jalur. |
 
 ## Peta Kata
 
@@ -116,14 +116,14 @@ Bayangkan kamu sedang membaca atau mendengar situasi tentang naik mobil (2): kat
 
 | Pola | Arti praktis | Catatan membaca |
 |---|---|---|
-| 工事中 | sedang dalam perbaikan/konstruksi | 〜中 = in the middle of |
-| 渋滞 | kemacetan | can be 渋滞する |
-| 道路が混んでいる | jalan sedang macet/ramai | 混んでいる = crowded/congested |
-| 道路が渋滞している | jalan sedang macet | more traffic-specific than 混んでいる |
-| すいている | tidak ramai; lengang | lawan kata of 混んでいる |
-| 回り道をする | memutar jalan | detour around something |
-| 遠回りをする | mengambil jalan memutar yang jauh | emphasizes longer route |
-| 近道をする | mengambil jalan pintas | lawan kata of 遠回り |
+| 工事中 | sedang dalam perbaikan/konstruksi | 〜中 berarti sedang dalam proses. |
+| 渋滞 | kemacetan | bisa menjadi 渋滞する. |
+| 道路が混んでいる | jalan sedang macet/ramai | 混んでいる menunjukkan kondisi ramai atau padat. |
+| 道路が渋滞している | jalan sedang macet | 渋滞している lebih khusus untuk kemacetan lalu lintas daripada 混んでいる. |
+| すいている | tidak ramai; lengang | lawan kata 混んでいる. |
+| 回り道をする | memutar jalan | mengambil jalur lain karena tidak langsung. |
+| 遠回りをする | mengambil jalan memutar yang jauh | menekankan rute yang lebih panjang. |
+| 近道をする | mengambil jalan pintas | lawan kata 遠回り. |
 
 Perhatikan pola partikel: `を` menandai objek tindakan, `が` sering menandai keadaan, `に` menunjukkan tujuan atau arah, dan `で` menunjukkan alat, tempat, atau cara.
 

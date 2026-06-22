@@ -35,41 +35,41 @@ Fokus hari ini bukan hanya menghafal arti kata seperti フロントガラス, �
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| フロントガラス | フロントガラス | kaca depan mobil; car part |
-| ワイパー | ワイパー | wiper mobil; car part |
-| ボンネット | ボンネット | kap mesin; car part |
-| ライト | ライト | lampu depan; car part |
+| フロントガラス | フロントガラス | kaca depan mobil; bagian kaca depan pada mobil. |
+| ワイパー | ワイパー | wiper mobil; alat penyapu air pada kaca mobil. |
+| ボンネット | ボンネット | kap mesin; bagian depan yang menutup mesin mobil. |
+| ライト | ライト | lampu depan; bagian mobil untuk penerangan. |
 | バックミラー | バックミラー | kaca spion tengah; untuk kaca spion mobil dipakai ミラー |
 | サイドミラー | サイドミラー | kaca spion samping; untuk kaca spion mobil dipakai ミラー |
-| 運転席 | うんてんせき | kursi pengemudi; 運転 = driving |
-| 助手席 | じょしゅせき | kursi penumpang depan; beside the driver |
-| トランク | トランク | bagasi mobil; car storage space |
-| タイヤ | タイヤ | ban; car part |
-| カーナビ | カーナビ | navigasi mobil; short for カーナビゲーション |
+| 運転席 | うんてんせき | kursi pengemudi; 運転 berarti mengemudi. |
+| 助手席 | じょしゅせき | kursi penumpang depan; berada di samping pengemudi. |
+| トランク | トランク | bagasi mobil; ruang penyimpanan di mobil. |
+| タイヤ | タイヤ | ban; bagian mobil. |
+| カーナビ | カーナビ | navigasi mobil; bentuk pendek dari カーナビゲーション. |
 | ハンドル | ハンドル | setir; di konteks lain juga bisa berarti pegangan |
 | キー | キー | kunci mobil; kunci; kata serapan |
-| 運転免許証 | うんてんめんきょしょう | SIM; surat izin mengemudi; 免許証 = license/certificate |
-| 急ブレーキ | きゅうブレーキ | rem mendadak; 急 = sudden |
+| 運転免許証 | うんてんめんきょしょう | SIM; surat izin mengemudi; 免許証 berarti surat izin atau lisensi. |
+| 急ブレーキ | きゅうブレーキ | rem mendadak; 急 menunjukkan sesuatu yang tiba-tiba. |
 
 ### Tindakan dan Pola
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
 | ドライブをする | ドライブをする | berkendara; jalan-jalan naik mobil; kata serapan |
-| レンタカーを借りる | レンタカーをかりる | menyewa mobil; レンタカー = rental car |
-| トランクに荷物を積む | トランクにもつをつむ | memuat barang ke bagasi mobil; 積む = load/pile up |
-| 人を乗せる | ひとをのせる | memberi tumpangan kepada orang; 乗せる = let someone ride |
-| シートベルトを締める | シートベルトをしめる | mengencangkan sabuk pengaman; 締める = fasten/tighten |
-| エンジンをかける | エンジンをかける | menyalakan mesin; かける has many uses |
-| バックミラーで確認する | バックミラーでかくにんする | mengecek lewat kaca spion tengah; 確認する = confirm/check |
-| ハンドルを握る | ハンドルをにぎる | memegang setir; 握る = grip/hold |
-| アクセルを踏む | アクセルをふむ | menginjak gas; 踏む = step on |
+| レンタカーを借りる | レンタカーをかりる | menyewa mobil; レンタカー adalah mobil sewaan. |
+| トランクに荷物を積む | トランクにもつをつむ | memuat barang ke bagasi mobil; 積む berarti menumpuk atau memuat barang. |
+| 人を乗せる | ひとをのせる | memberi tumpangan kepada orang; 乗せる berarti membuat orang naik kendaraan. |
+| シートベルトを締める | シートベルトをしめる | mengencangkan sabuk pengaman; 締める berarti mengencangkan atau mengikat. |
+| エンジンをかける | エンジンをかける | menyalakan mesin; かける punya banyak makna, jadi baca bersama objeknya. |
+| バックミラーで確認する | バックミラーでかくにんする | mengecek lewat kaca spion tengah; 確認する berarti memastikan atau mengecek. |
+| ハンドルを握る | ハンドルをにぎる | memegang setir; 握る berarti menggenggam. |
+| アクセルを踏む | アクセルをふむ | menginjak gas; 踏む berarti menginjak. |
 | ブレーキをかける | ブレーキをかける | menginjak/mengerem; ungkapan umum saat mengemudi |
-| ライトをつける | ライトをつける | menyalakan lampu; つける = turn on/attach |
-| ワイパーを動かす | ワイパーをうごかす | menyalakan/menggerakkan wiper; 動かす = move/operate |
-| ガソリンスタンドに寄る | ガソリンスタンドによる | mampir ke pom bensin; 寄る = stop by |
+| ライトをつける | ライトをつける | menyalakan lampu; つける berarti menyalakan atau memasang, tergantung objeknya. |
+| ワイパーを動かす | ワイパーをうごかす | menyalakan/menggerakkan wiper; 動かす berarti menggerakkan atau mengoperasikan. |
+| ガソリンスタンドに寄る | ガソリンスタンドによる | mampir ke pom bensin; 寄る berarti mampir. |
 | 高速道路に乗る | こうそくどうろにのる | masuk ke jalan tol; sering dipendekkan menjadi 高速に乗る |
-| タイヤがパンクする | タイヤがパンクする | ban bocor/kempes; パンクする = get punctured/flat |
+| タイヤがパンクする | タイヤがパンクする | ban bocor/kempes; パンクする berarti ban kempes atau bocor. |
 
 ## Peta Kata
 
@@ -112,13 +112,13 @@ Bayangkan kamu sedang membaca atau mendengar situasi tentang naik mobil (1): kat
 | Pola | Arti praktis | Catatan membaca |
 |---|---|---|
 | ドライブをする | berkendara; jalan-jalan naik mobil | kata serapan |
-| レンタカーを借りる | menyewa mobil | レンタカー = rental car |
-| トランクに荷物を積む | memuat barang ke bagasi mobil | 積む = load/pile up |
-| 人を乗せる | memberi tumpangan kepada orang | 乗せる = let someone ride |
-| シートベルトを締める | mengencangkan sabuk pengaman | 締める = fasten/tighten |
-| エンジンをかける | menyalakan mesin | かける has many uses |
-| バックミラーで確認する | mengecek lewat kaca spion tengah | 確認する = confirm/check |
-| ハンドルを握る | memegang setir | 握る = grip/hold |
+| レンタカーを借りる | menyewa mobil | レンタカー adalah mobil sewaan. |
+| トランクに荷物を積む | memuat barang ke bagasi mobil | 積む berarti menumpuk atau memuat barang. |
+| 人を乗せる | memberi tumpangan kepada orang | 乗せる berarti membuat orang naik kendaraan. |
+| シートベルトを締める | mengencangkan sabuk pengaman | 締める berarti mengencangkan atau mengikat. |
+| エンジンをかける | menyalakan mesin | かける punya banyak makna, jadi baca bersama objeknya. |
+| バックミラーで確認する | mengecek lewat kaca spion tengah | 確認する berarti memastikan atau mengecek. |
+| ハンドルを握る | memegang setir | 握る berarti menggenggam. |
 
 Perhatikan pola partikel: `を` menandai objek tindakan, `が` sering menandai keadaan, `に` menunjukkan tujuan atau arah, dan `で` menunjukkan alat, tempat, atau cara.
 

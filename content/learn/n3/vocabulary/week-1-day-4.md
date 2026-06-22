@@ -40,30 +40,30 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 掃除, エプロンを�
 | エプロンをする | エプロンをする | memakai celemek; する bisa berarti memakai untuk beberapa aksesori |
 | エプロンをつける | エプロンをつける | memakai celemek; sering muncul saat membaca alat bersih-bersih, kondisi ruangan, tindakan merapikan, dan pemilahan sampah. |
 | ソファーをどける | ソファーをどける | memindahkan sofa ke samping; どける memakai を |
-| どく | どく | menyingkir / minggir; person/object moves aside by itself |
+| どく | どく | menyingkir / minggir; subjeknya bergerak menjauh sendiri. |
 | 部屋を散らかす | へやをちらかす | membuat kamar berantakan; 散らかす memakai を |
 | 部屋が散らかる | へやがちらかる | kamar berantakan; 散らかる memakai が |
 | 部屋を片づける | へやをかたづける | merapikan kamar; 片づける memakai を |
 | 部屋が片づく | へやがかたづく | kamar menjadi rapi; 片づく memakai が |
 | ジュースをこぼす | ジュースをこぼす | menumpahkan jus; こぼす memakai を |
 | ジュースがこぼれる | ジュースがこぼれる | jus tumpah; こぼれる memakai が |
-| ほこりがたまる | ほこりがたまる | debu menumpuk; たまる = accumulate |
+| ほこりがたまる | ほこりがたまる | debu menumpuk; たまる menunjukkan sesuatu terkumpul sedikit demi sedikit. |
 | ほこりがつもる | ほこりがつもる | debu menumpuk; つもる juga dipakai untuk salju |
 | 雪がつもる | ゆきがつもる | salju menumpuk; baca bersama objek dan partikelnya. |
-| ほこりを取る | ほこりをとる | membersihkan debu; 取る = remove/take |
+| ほこりを取る | ほこりをとる | membersihkan debu; 取る berarti mengambil atau menghilangkan. |
 | 掃除機をかける | そうじきをかける | menggunakan vacuum cleaner; かける kolokasi |
-| 床をふく | ゆかをふく | mengepel/mengelap lantai; ふく = wipe |
-| ほうきで掃く | ほうきではく | menyapu dengan sapu; 掃く = sweep |
-| ふきんで食器をふく | ふきんでしょっきをふく | mengelap peralatan makan dengan kain; 食器 = dishes/tableware |
+| 床をふく | ゆかをふく | mengepel/mengelap lantai; ふく berarti menyeka permukaan. |
+| ほうきで掃く | ほうきではく | menyapu dengan sapu; 掃く dipakai untuk gerakan menyapu. |
+| ふきんで食器をふく | ふきんでしょっきをふく | mengelap peralatan makan dengan kain; 食器 berarti piring, mangkuk, dan alat makan. |
 | 水をくむ | みずをくむ | mengambil air; biasanya ke ember atau wadah |
-| 台ふきんでテーブルをふく | だいふきんでテーブルをふく | mengelap meja dengan kain lap; 台ふきん = table cloth/rag |
+| 台ふきんでテーブルをふく | だいふきんでテーブルをふく | mengelap meja dengan kain lap; 台ふきん adalah kain untuk mengelap meja. |
 | ぞうきんをぬらす | ぞうきんをぬらす | membasahi kain lap; ぬらす memakai を |
-| 家具をみがく | かぐをみがく | mengilapkan perabot; みがく = polish/brush |
+| 家具をみがく | かぐをみがく | mengilapkan perabot; みがく berarti menggosok sampai bersih atau mengilap. |
 | ぞうきんをしぼる | ぞうきんをしぼる | memeras kain lap; baca bersama objek dan partikelnya. |
-| ブラシでこする | ブラシでこする | menggosok dengan sikat; こする = rub/scrub |
+| ブラシでこする | ブラシでこする | menggosok dengan sikat; こする berarti menggosok permukaan. |
 | ゴミを分ける | ゴミをわける | memilah sampah; baca bersama objek dan partikelnya. |
-| スリッパをそろえる | スリッパをそろえる | merapikan sandal rumah; そろえる = align/arrange |
-| 物置にしまう | ものおきにしまう | menyimpan di gudang; 物置 = storage room/shed |
+| スリッパをそろえる | スリッパをそろえる | merapikan sandal rumah; そろえる berarti membuatnya sejajar atau rapi. |
+| 物置にしまう | ものおきにしまう | menyimpan di gudang; 物置 adalah ruang atau tempat penyimpanan barang. |
 
 ### Benda dan Alat
 
@@ -137,7 +137,7 @@ Bayangkan kamu sedang membaca atau mendengar situasi tentang mari bersih-bersih:
 | エプロンをする | memakai celemek | する bisa berarti memakai untuk beberapa aksesori |
 | エプロンをつける | memakai celemek | sering muncul saat membaca alat bersih-bersih, kondisi ruangan, tindakan merapikan, dan pemilahan sampah. |
 | ソファーをどける | memindahkan sofa ke samping | どける memakai を |
-| どく | menyingkir / minggir | person/object moves aside by itself |
+| どく | menyingkir / minggir | subjeknya bergerak menjauh sendiri. |
 | 部屋を散らかす | membuat kamar berantakan | 散らかす memakai を |
 | 部屋が散らかる | kamar berantakan | 散らかる memakai が |
 

@@ -35,7 +35,7 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 宴会を開く, （お�
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| 宴会を開く | えんかいをひらく | mengadakan pesta/jamuan; 宴会 = party/banquet |
+| 宴会を開く | えんかいをひらく | mengadakan pesta/jamuan; 宴会 berarti pesta atau jamuan. |
 | （お）酒を注ぐ | （お）さけをつぐ | menuangkan sake/alkohol; 注ぐ reads つぐ here |
 | （お）湯を注ぐ | （お）ゆをそそぐ | menuangkan air panas; di sini 注ぐ dibaca そそぐ |
 | 乾杯する | かんぱいする | bersulang; sering muncul saat membaca minuman, ajakan minum, kondisi mabuk, dan etika di tempat minum. |
@@ -44,8 +44,8 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 宴会を開く, （お�
 | あふれる | あふれる | meluap; intransitif |
 | こぼす | こぼす | menumpahkan; transitif |
 | こぼれる | こぼれる | tumpah; intransitif |
-| ビールを一気に飲む | ビールをいっきにのむ | minum bir sekali teguk; 一気に = in one go |
-| （お）酒によう | （お）さけによう | mabuk karena alkohol; よう = become drunk |
+| ビールを一気に飲む | ビールをいっきにのむ | minum bir sekali teguk; 一気に berarti sekaligus. |
+| （お）酒によう | （お）さけによう | mabuk karena alkohol; よう berarti mabuk. |
 | よっぱらう | よっぱらう | mabuk; kasual |
 | あばれる | あばれる | mengamuk; bertindak liar; sering muncul saat membaca minuman, ajakan minum, kondisi mabuk, dan etika di tempat minum. |
 | さわぐ | さわぐ | ribut; gaduh; verb form |
@@ -53,7 +53,7 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 宴会を開く, （お�
 | グラスが割れる | グラスがわれる | gelas pecah; intransitif |
 | ビールびんを倒す | ビールびんをたおす | menjatuhkan botol bir; transitif |
 | ビールびんが倒れる | ビールびんがたおれる | botol bir jatuh; intransitif |
-| ほかの客に迷惑をかける | ほかのきゃくにめいわくをかける | mengganggu pelanggan lain; 迷惑をかける = cause trouble |
+| ほかの客に迷惑をかける | ほかのきゃくにめいわくをかける | mengganggu pelanggan lain; 迷惑をかける berarti merepotkan atau mengganggu orang lain. |
 | 迷惑がかかる | めいわくがかかる | terkena gangguan/masalah; ungkapan sisi intransitif |
 
 ### Istilah Utama
@@ -63,11 +63,11 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 宴会を開く, （お�
 | 飲み会 | のみかい | acara minum bersama; sering muncul saat membaca minuman, ajakan minum, kondisi mabuk, dan etika di tempat minum. |
 | 送別会 | そうべつかい | pesta perpisahan; sering muncul saat membaca minuman, ajakan minum, kondisi mabuk, dan etika di tempat minum. |
 | 歓迎会 | かんげいかい | pesta penyambutan; sering muncul saat membaca minuman, ajakan minum, kondisi mabuk, dan etika di tempat minum. |
-| 飲み放題 | のみほうだい | minum sepuasnya; 〜放題 = unlimited |
-| 食べ放題 | たべほうだい | makan sepuasnya; 〜放題 = unlimited |
+| 飲み放題 | のみほうだい | minum sepuasnya; 〜放題 berarti bebas melakukan sebanyak yang diizinkan. |
+| 食べ放題 | たべほうだい | makan sepuasnya; 〜放題 berarti bebas melakukan sebanyak yang diizinkan. |
 | ビールの泡 | ビールのあわ | busa bir; sering muncul saat membaca minuman, ajakan minum, kondisi mabuk, dan etika di tempat minum. |
 | ウイスキーの水割り | ウイスキーのみずわり | wiski dicampur air; sering muncul saat membaca minuman, ajakan minum, kondisi mabuk, dan etika di tempat minum. |
-| （お）つまみのチーズ | （お）つまみのチーズ | keju camilan; つまみ = snack with alcohol |
+| （お）つまみのチーズ | （お）つまみのチーズ | keju camilan; つまみ adalah camilan pendamping minuman alkohol. |
 | よっぱらい | よっぱらい | orang mabuk; bentuk nomina |
 | たばこの煙 | たばこのけむり | asap rokok; sering muncul saat membaca minuman, ajakan minum, kondisi mabuk, dan etika di tempat minum. |
 
@@ -121,7 +121,7 @@ Bayangkan kamu sedang membaca atau mendengar situasi tentang minum alkohol: kata
 
 | Pola | Arti praktis | Catatan membaca |
 |---|---|---|
-| 宴会を開く | mengadakan pesta/jamuan | 宴会 = party/banquet |
+| 宴会を開く | mengadakan pesta/jamuan | 宴会 berarti pesta atau jamuan. |
 | （お）酒を注ぐ | menuangkan sake/alkohol | 注ぐ reads つぐ here |
 | （お）湯を注ぐ | menuangkan air panas | di sini 注ぐ dibaca そそぐ |
 | 乾杯する | bersulang | sering muncul saat membaca minuman, ajakan minum, kondisi mabuk, dan etika di tempat minum. |

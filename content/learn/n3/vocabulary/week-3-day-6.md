@@ -43,28 +43,28 @@ Fokus hari ini bukan hanya menghafal arti kata seperti レジ, おごり, 交通
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| 勘定を済ませる | かんじょうをすませる | menyelesaikan pembayaran; 勘定 = bill/check |
+| 勘定を済ませる | かんじょうをすませる | menyelesaikan pembayaran; 勘定 berarti tagihan atau perhitungan pembayaran. |
 | 別々に払う | べつべつにはらう | bayar masing-masing; sering muncul saat membaca uang tunai, kartu, pembayaran, kembalian, dan pembagian biaya. |
 | 割り勘にする | わりかんにする | patungan; bagi rata; sering muncul saat membaca uang tunai, kartu, pembayaran, kembalian, dan pembagian biaya. |
 | おごる | おごる | membayari; mentraktir; sering muncul saat membaca uang tunai, kartu, pembayaran, kembalian, dan pembagian biaya. |
 | 現金で払う | げんきんではらう | bayar tunai; sering muncul saat membaca uang tunai, kartu, pembayaran, kembalian, dan pembagian biaya. |
 | （クレジット）カードで払う | （クレジット）カードではらう | bayar dengan kartu kredit; sering muncul saat membaca uang tunai, kartu, pembayaran, kembalian, dan pembagian biaya. |
-| カードの有効期限を確認する | カードのゆうこうきげんをかくにんする | mengecek masa berlaku kartu; 有効期限 = expiration date |
-| （お）札をくずす | （お）さつをくずす | menukar uang besar; くずす here means make change |
+| カードの有効期限を確認する | カードのゆうこうきげんをかくにんする | mengecek masa berlaku kartu; 有効期限 berarti tanggal berlaku sampai kapan. |
+| （お）札をくずす | （お）さつをくずす | menukar uang besar; くずす di sini berarti menukar menjadi pecahan kecil. |
 | （お）つりをもらう | （お）つりをもらう | menerima kembalian; sering muncul saat membaca uang tunai, kartu, pembayaran, kembalian, dan pembagian biaya. |
-| レシート／領収書をもらう | レシート／りょうしゅうしょをもらう | meminta/menerima struk/kwitansi; 領収書 lebih formal daripada レシート |
+| レシート／領収書をもらう | レシート／りょうしゅうしょをもらう | meminta/menerima struk/kwitansi; 領収書 lebih formal daripada レシート. |
 | ぜいたくをする | ぜいたくをする | bermewah-mewahan; sering muncul saat membaca uang tunai, kartu, pembayaran, kembalian, dan pembagian biaya. |
 | むだづかいをする | むだづかいをする | boros uang; sering muncul saat membaca uang tunai, kartu, pembayaran, kembalian, dan pembagian biaya. |
-| 請求書が届く | せいきゅうしょがとどく | tagihan datang; 届く = arrive/reach |
+| 請求書が届く | せいきゅうしょがとどく | tagihan datang; 届く berarti sampai atau tiba. |
 | 費用がかかる | ひようがかかる | memerlukan biaya; sering muncul saat membaca uang tunai, kartu, pembayaran, kembalian, dan pembagian biaya. |
 | お金が足りる | おかねがたりる | uang cukup; sering muncul saat membaca uang tunai, kartu, pembayaran, kembalian, dan pembagian biaya. |
-| 食費を節約する | しょくひをせつやくする | menghemat biaya makan; 節約する = economize/save |
-| むだを省く | むだをはぶく | menghilangkan pemborosan; 省く = omit/eliminate |
-| むだをなくす | むだをなくす | menghilangkan pemborosan; なくす = get rid of |
+| 食費を節約する | しょくひをせつやくする | menghemat biaya makan; 節約する berarti berhemat. |
+| むだを省く | むだをはぶく | menghilangkan pemborosan; 省く berarti mengurangi atau menghilangkan bagian yang tidak perlu. |
+| むだをなくす | むだをなくす | menghilangkan pemborosan; なくす berarti membuat sesuatu tidak ada lagi. |
 | 貧乏になる | びんぼうになる | menjadi miskin; sering muncul saat membaca uang tunai, kartu, pembayaran, kembalian, dan pembagian biaya. |
-| （お）金持ちになる | （お）かねもちになる | menjadi kaya; 金持ち = rich person |
-| 貧しい生活 | まずしいせいかつ | hidup miskin/sederhana; 貧しい = poor |
-| 借金をする | しゃっきんをする | berutang; 借金 = debt |
+| （お）金持ちになる | （お）かねもちになる | menjadi kaya; 金持ち berarti orang kaya. |
+| 貧しい生活 | まずしいせいかつ | hidup miskin/sederhana; 貧しい berarti miskin atau kekurangan. |
+| 借金をする | しゃっきんをする | berutang; 借金 berarti utang. |
 
 ### Sifat dan Kondisi
 
@@ -72,13 +72,13 @@ Fokus hari ini bukan hanya menghafal arti kata seperti レジ, おごり, 交通
 |---|---|---|
 | お勘定をお願いします。 | おかんじょうをおねがいします。 | Tolong bon/tagihannya; ungkapan yang sering dipakai di restoran |
 | 別々でお願いします。 | べつべつでおねがいします。 | Tolong bayar terpisah; ungkapan yang sering dipakai di restoran |
-| 足りない | たりない | tidak cukup; kurang; negative of 足りる |
+| 足りない | たりない | tidak cukup; kurang; bentuk negatif dari 足りる. |
 
 ### Waktu dan Jadwal
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| 今月の生活費が不足する | こんげつのせいかつひがふそくする | kekurangan biaya hidup bulan ini; 生活費 = living expenses |
+| 今月の生活費が不足する | こんげつのせいかつひがふそくする | kekurangan biaya hidup bulan ini; 生活費 berarti biaya hidup. |
 
 ## Peta Kata
 
@@ -120,7 +120,7 @@ Bayangkan kamu sedang membaca atau mendengar situasi tentang membayar: kata inti
 
 | Pola | Arti praktis | Catatan membaca |
 |---|---|---|
-| 勘定を済ませる | menyelesaikan pembayaran | 勘定 = bill/check |
+| 勘定を済ませる | menyelesaikan pembayaran | 勘定 berarti tagihan atau perhitungan pembayaran. |
 | お勘定をお願いします。 | Tolong bon/tagihannya. | ungkapan yang sering dipakai di restoran |
 | 別々に払う | bayar masing-masing | sering muncul saat membaca uang tunai, kartu, pembayaran, kembalian, dan pembagian biaya. |
 | 別々でお願いします。 | Tolong bayar terpisah. | ungkapan yang sering dipakai di restoran |

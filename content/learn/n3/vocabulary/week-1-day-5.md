@@ -38,44 +38,44 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 洗濯, たまる, 乾く
 | 洗濯 | せんたく | cucian / mencuci; 洗濯をする |
 | たまる | たまる | menumpuk; 洗濯物がたまる |
 | 乾く | かわく | kering; 洗濯物が乾く |
-| 真っ白に仕上がる | まっしろにしあがる | menjadi putih bersih; 仕上がる = be finished |
+| 真っ白に仕上がる | まっしろにしあがる | menjadi putih bersih; 仕上がる menunjukkan hasil akhir setelah proses selesai. |
 | 洗濯物をためる | せんたくものをためる | membiarkan cucian menumpuk; ためる memakai を |
 | ぬらす | ぬらす | membasahi; ぬらす memakai を |
 | 干す | ほす | menjemur; 洗濯物を干す |
-| 乾燥機で乾かす | かんそうきでかわかす | mengeringkan dengan mesin pengering; 乾かす = dry something |
+| 乾燥機で乾かす | かんそうきでかわかす | mengeringkan dengan mesin pengering; 乾かす berarti membuat sesuatu menjadi kering. |
 | たたむ | たたむ | melipat; 服をたたむ |
 | 服を汚す | ふくをよごす | mengotori pakaian; 汚す memakai を |
 | そでが真っ黒に汚れる | そでがまっくろによごれる | lengan baju menjadi sangat kotor; 汚れる memakai が |
 | 洗剤を入れる | せんざいをいれる | memasukkan deterjen; 洗濯用洗剤 / 台所用洗剤 |
-| スーツをクリーニングに出す | スーツをクリーニングにだす | membawa jas ke laundry dry clean; 出す = send out/submit |
+| スーツをクリーニングに出す | スーツをクリーニングにだす | membawa jas ke laundry; 出す berarti menyerahkan sesuatu ke layanan atau tempat tertentu. |
 | コインランドリーで洗濯をする | コインランドリーでせんたくをする | mencuci di laundry koin; sering muncul saat membaca cucian, kondisi pakaian, tindakan menjemur, menyetrika, dan noda. |
 | タオルを干す | タオルをほす | menjemur handuk; sering muncul saat membaca cucian, kondisi pakaian, tindakan menjemur, menyetrika, dan noda. |
-| 服をつるす | ふくをつるす | menggantung pakaian; つるす = hang |
+| 服をつるす | ふくをつるす | menggantung pakaian; つるす berarti menggantung dari atas. |
 | ワイシャツにアイロンをかける | ワイシャツにアイロンをかける | menyetrika kemeja; アイロンをかける kolokasi |
 | しわを伸ばす | しわをのばす | merapikan kerutan; 伸ばす memakai を |
 | しわが伸びる | しわがのびる | kerutan menjadi rata; 伸びる memakai が |
-| ウールのセーターが縮む | ウールのセーターがちぢむ | sweater wol menyusut; 縮む = shrink |
-| ジーンズの色が落ちる | ジーンズのいろがおちる | warna jeans memudar; 色が落ちる = color fades/comes off |
+| ウールのセーターが縮む | ウールのセーターがちぢむ | sweater wol menyusut; 縮む berarti ukuran menjadi lebih kecil. |
+| ジーンズの色が落ちる | ジーンズのいろがおちる | warna jeans memudar atau luntur; 色が落ちる dipakai saat warna berkurang atau lepas. |
 
 ### Istilah Utama
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| 洗濯物 | せんたくもの | cucian; clothes/items to wash or dry |
-| 汚れ | よごれ | kotoran / noda; from 汚れる |
+| 洗濯物 | せんたくもの | cucian; pakaian atau barang yang akan dicuci/dikeringkan. |
+| 汚れ | よごれ | kotoran / noda; berasal dari 汚れる. |
 
 ### Sifat dan Kondisi
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
 | ぬれている | ぬれている | basah; bentuk keadaan dari ぬれる |
-| 湿っている | しめっている | lembap / belum kering; less wet than ぬれている |
+| 湿っている | しめっている | lembap / belum kering; kadar basahnya lebih ringan daripada ぬれている. |
 
 ### Benda dan Alat
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| 台所用洗剤 | だいどころようせんざい | sabun cuci piring; 用 = for use |
+| 台所用洗剤 | だいどころようせんざい | sabun cuci piring; 用 menunjukkan kegunaan. |
 
 ## Peta Kata
 
@@ -120,11 +120,11 @@ Bayangkan kamu sedang membaca atau mendengar situasi tentang mari mencuci: kata 
 | 洗濯 | cucian / mencuci | 洗濯をする |
 | たまる | menumpuk | 洗濯物がたまる |
 | 乾く | kering | 洗濯物が乾く |
-| 真っ白に仕上がる | menjadi putih bersih | 仕上がる = be finished |
+| 真っ白に仕上がる | menjadi putih bersih | 仕上がる menunjukkan hasil akhir setelah proses selesai. |
 | 洗濯物をためる | membiarkan cucian menumpuk | ためる memakai を |
 | ぬらす | membasahi | ぬらす memakai を |
 | 干す | menjemur | 洗濯物を干す |
-| 乾燥機で乾かす | mengeringkan dengan mesin pengering | 乾かす = dry something |
+| 乾燥機で乾かす | mengeringkan dengan mesin pengering | 乾かす berarti membuat sesuatu menjadi kering. |
 
 Perhatikan pola partikel: `を` menandai objek tindakan, `が` sering menandai keadaan, `に` menunjukkan tujuan atau arah, dan `で` menunjukkan alat, tempat, atau cara.
 

@@ -35,14 +35,14 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 交際する, 付き合�
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| 交際する | こうさいする | berpacaran; menjalin hubungan; formal atau tertulis untuk hubungan romantis atau hubungan sosial |
+| 交際する | こうさいする | berpacaran; menjalin hubungan; terasa formal atau tertulis untuk hubungan romantis maupun sosial. |
 | 付き合う | つきあう | berpacaran; bergaul dengan; bisa berarti berpacaran atau menemani seseorang |
 | けんかする | けんかする | bertengkar; sering muncul saat membaca ajakan, janji bertemu, respons, dan ungkapan perasaan dalam hubungan sosial. |
 | 仲直りする | なかなおりする | berbaikan; sering muncul saat membaca ajakan, janji bertemu, respons, dan ungkapan perasaan dalam hubungan sosial. |
 | 気になる | きになる | penasaran; ingin tahu; sering dipakai saat seseorang atau sesuatu terus terpikirkan |
 | きらいになる | きらいになる | menjadi tidak suka; sering muncul saat membaca ajakan, janji bertemu, respons, dan ungkapan perasaan dalam hubungan sosial. |
 | いやになる | いやになる | muak; tidak berminat lagi; sering muncul saat membaca ajakan, janji bertemu, respons, dan ungkapan perasaan dalam hubungan sosial. |
-| コンサートにさそう | コンサートにさそう | mengajak ke konser; さそう = invite someone out |
+| コンサートにさそう | コンサートにさそう | mengajak ke konser; さそう berarti mengajak seseorang pergi atau ikut. |
 | いやがる | いやがる | tidak mau; menunjukkan rasa tidak suka; dipakai untuk rasa tidak suka orang lain yang terlihat |
 | ふる | ふる | menolak cinta/ajakan; kasual dalam konteks hubungan |
 | 好かれる | すかれる | disukai; bentuk pasif dari 好く |
@@ -52,14 +52,14 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 交際する, 付き合�
 | あこがれる | あこがれる | mengagumi; mendambakan; sering untuk kekaguman kepada orang atau gaya hidup |
 | 夢中になる | むちゅうになる | tergila-gila; asyik dengan; sering muncul saat membaca ajakan, janji bertemu, respons, dan ungkapan perasaan dalam hubungan sosial. |
 | 恋をする | こいをする | jatuh cinta; sering muncul saat membaca ajakan, janji bertemu, respons, dan ungkapan perasaan dalam hubungan sosial. |
-| 女性にもてる | じょせいにもてる | populer di kalangan wanita; もてる = be popular romantically |
-| （お）互いに気に入る | （お）たがいにきにいる | saling menyukai; 互いに = each other |
+| 女性にもてる | じょせいにもてる | populer di kalangan wanita; もてる berarti disukai secara romantis. |
+| （お）互いに気に入る | （お）たがいにきにいる | saling menyukai; 互いに berarti satu sama lain. |
 | 都合をつける | つごうをつける | menyesuaikan jadwal; kamu yang menyesuaikan jadwalmu |
 | 都合がつく | つごうがつく | waktunya cocok; bisa; jadwalnya menjadi cocok atau memungkinkan |
-| 買い物に付き合う | かいものにつきあう | menemani belanja; 付き合う here means accompany |
+| 買い物に付き合う | かいものにつきあう | menemani belanja; 付き合う di sini berarti menemani. |
 | 結婚を申し込む | けっこんをもうしこむ | melamar menikah; sering muncul saat membaca ajakan, janji bertemu, respons, dan ungkapan perasaan dalam hubungan sosial. |
 | 断る | ことわる | menolak; sering muncul saat membaca ajakan, janji bertemu, respons, dan ungkapan perasaan dalam hubungan sosial. |
-| あいまいな返事をする | あいまいなへんじをする | memberi jawaban samar; あいまい = vague/ambiguous |
+| あいまいな返事をする | あいまいなへんじをする | memberi jawaban samar; あいまい berarti tidak jelas atau ambigu. |
 
 ### Sifat dan Kondisi
 
@@ -75,13 +75,13 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 交際する, 付き合�
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| 相手の予定を聞く | あいてのよていをきく | menanyakan jadwal lawan bicara; 相手 = the other person |
+| 相手の予定を聞く | あいてのよていをきく | menanyakan jadwal lawan bicara; 相手 berarti pihak/orang yang dihadapi. |
 
 ### Istilah Utama
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| 付き合い | つきあい | hubungan; pergaulan; bentuk nomina of 付き合う |
+| 付き合い | つきあい | hubungan; pergaulan; bentuk nomina dari 付き合う. |
 | 恋人 | こいびと | kekasih; pacar; netral gender |
 | 彼／彼氏 | かれ／かれし | dia laki-laki; pacar laki-laki; 彼 bisa berarti dia laki-laki atau pacar laki-laki, tergantung konteks |
 | 彼女 | かのじょ | dia perempuan; pacar perempuan; tergantung konteks |
@@ -126,7 +126,7 @@ Bayangkan kamu sedang membaca atau mendengar situasi tentang mengajak kencan: ka
 
 | Pola | Arti praktis | Catatan membaca |
 |---|---|---|
-| 交際する | berpacaran; menjalin hubungan | formal atau tertulis untuk hubungan romantis atau hubungan sosial |
+| 交際する | berpacaran; menjalin hubungan | terasa formal atau tertulis untuk hubungan romantis maupun sosial. |
 | 付き合う | berpacaran; bergaul dengan | bisa berarti berpacaran atau menemani seseorang |
 | けんかする | bertengkar | sering muncul saat membaca ajakan, janji bertemu, respons, dan ungkapan perasaan dalam hubungan sosial. |
 | 仲直りする | berbaikan | sering muncul saat membaca ajakan, janji bertemu, respons, dan ungkapan perasaan dalam hubungan sosial. |

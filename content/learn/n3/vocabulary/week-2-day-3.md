@@ -35,25 +35,25 @@ Fokus hari ini bukan hanya menghafal arti kata seperti プラットホームが�
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| プラットホームが混雑している | プラットホームがこんざつしている | peron sedang ramai/padat; 混雑する = be crowded/congested |
-| 黄色い線 | きいろいせん | garis kuning; stand behind/inside this line on platforms |
+| プラットホームが混雑している | プラットホームがこんざつしている | peron sedang ramai/padat; 混雑する berarti penuh atau padat. |
+| 黄色い線 | きいろいせん | garis kuning; di peron, biasanya menjadi batas aman untuk berdiri di belakangnya. |
 | 下がる | さがる | mundur; turun; pengumuman peron sering memakai 内側に下がる |
-| 特急が通過する | とっきゅうがつうかする | kereta ekspres lewat tanpa berhenti; 通過する = pass through |
-| 乗車する | じょうしゃする | naik kereta/kendaraan; bentuk yang lebih formal dari 乗る |
-| 下車する | げしゃする | turun dari kereta/kendaraan; bentuk yang lebih formal dari 降りる |
+| 特急が通過する | とっきゅうがつうかする | kereta ekspres lewat tanpa berhenti; 通過する berarti melewati suatu titik. |
+| 乗車する | じょうしゃする | naik kereta/kendaraan; bentuk yang lebih formal dari 乗る. |
+| 下車する | げしゃする | turun dari kereta/kendaraan; bentuk yang lebih formal dari 降りる. |
 | 発車する | はっしゃする | berangkat; dipakai untuk kereta atau bus |
-| 電車の中はがらがらだ | でんしゃのなかはがらがらだ | di dalam kereta sangat kosong; がらがら = almost empty |
-| 満員電車で通勤する | まんいんでんしゃでつうきんする | berangkat kerja dengan kereta penuh sesak; 満員 = full of people |
-| 電車が揺れる | でんしゃがゆれる | kereta berguncang; 揺れる = shake/sway |
-| 始発駅から乗る | しはつえきからのる | naik dari stasiun awal; 始発駅 = first/origin station |
-| 終点で降りる | しゅうてんでおりる | turun di stasiun/halte terakhir; 終点 = final stop |
-| 急行から各駅停車に乗り換える | きゅうこうからかくえきていしゃにのりかえる | pindah dari kereta ekspres ke kereta lokal; 各駅停車 stops at every station |
-| 乗り遅れる | のりおくれる | ketinggalan kereta; 遅れる = be late |
+| 電車の中はがらがらだ | でんしゃのなかはがらがらだ | di dalam kereta sangat kosong; がらがら menunjukkan tempat yang hampir kosong. |
+| 満員電車で通勤する | まんいんでんしゃでつうきんする | berangkat kerja dengan kereta penuh sesak; 満員 berarti penuh orang. |
+| 電車が揺れる | でんしゃがゆれる | kereta berguncang; 揺れる berarti bergoyang atau berayun. |
+| 始発駅から乗る | しはつえきからのる | naik dari stasiun awal; 始発駅 adalah stasiun asal keberangkatan. |
+| 終点で降りる | しゅうてんでおりる | turun di stasiun/halte terakhir; 終点 adalah titik akhir rute. |
+| 急行から各駅停車に乗り換える | きゅうこうからかくえきていしゃにのりかえる | pindah dari kereta ekspres ke kereta lokal; 各駅停車 berhenti di setiap stasiun. |
+| 乗り遅れる | のりおくれる | ketinggalan kereta; 遅れる berarti terlambat. |
 | 乗り過ごす | のりすごす | terlewat stasiun/halte tujuan; kamu terlalu lama tetap naik sampai melewati tujuan |
 | 乗り越す | のりこす | melewati tujuan dengan kendaraan; maknanya dekat dengan 乗り過ごす; sering terkait tarif |
 | 運賃を精算する | うんちんをせいさんする | menyesuaikan/melunasi ongkos; dipakai saat ongkos kurang atau rute berubah |
-| 車掌が車内アナウンスをする | しゃしょうがしゃないアナウンスをする | kondektur memberi pengumuman di dalam kereta; 車内 = inside the train/car |
-| 携帯電話の使用を控える | けいたいでんわのしようをひかえる | menahan diri untuk tidak memakai ponsel; 控える = refrain/avoid |
+| 車掌が車内アナウンスをする | しゃしょうがしゃないアナウンスをする | kondektur memberi pengumuman di dalam kereta; 車内 berarti bagian dalam kendaraan. |
+| 携帯電話の使用を控える | けいたいでんわのしようをひかえる | menahan diri untuk tidak memakai ponsel; 控える berarti membatasi atau menahan diri. |
 | 席を譲る | せきをゆずる | memberikan tempat duduk; sering dipakai untuk penumpang lansia atau penyandang disabilitas |
 | 体の不自由な人 | からだのふじゆうなひと | orang dengan disabilitas fisik; ungkapan sopan dalam pengumuman umum |
 | 痴漢にあう | ちかんにあう | mengalami pelecehan seksual; di teks pembelajar sering ditulis ちかん |
@@ -67,7 +67,7 @@ Fokus hari ini bukan hanya menghafal arti kata seperti プラットホームが�
 | 外側 | そとがわ | sisi luar; lawan kata: 内側 |
 | 空っぽ | からっぽ | kosong; sering untuk wadah atau ruang |
 | 終電 | しゅうでん | kereta terakhir; kata yang sangat umum dalam kehidupan sehari-hari |
-| 乗り換え | のりかえ | pindah kendaraan/kereta; bentuk nomina of 乗り換える |
+| 乗り換え | のりかえ | pindah kendaraan/kereta; bentuk nomina dari 乗り換える. |
 | 乗り越し | のりこし | kelebihan perjalanan dari tiket; biasanya perlu penyesuaian ongkos |
 | 老人 | ろうじん | orang tua/lansia; lebih langsung; bisa terdengar kurang halus daripada お年寄り |
 | 優先席 | ゆうせんせき | kursi prioritas; untuk lansia, penyandang disabilitas, ibu hamil, dan sebagainya |
@@ -77,7 +77,7 @@ Fokus hari ini bukan hanya menghafal arti kata seperti プラットホームが�
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
 | 始発電車 | しはつでんしゃ | kereta pertama hari itu; sering dipendekkan menjadi 始発 |
-| 駅の売店 | えきのばいてん | kios di stasiun; 売店 = small shop/kiosk |
+| 駅の売店 | えきのばいてん | kios di stasiun; 売店 adalah kios atau toko kecil. |
 
 ### Waktu dan Jadwal
 
@@ -125,14 +125,14 @@ Bayangkan kamu sedang membaca atau mendengar situasi tentang naik kereta (2): ka
 
 | Pola | Arti praktis | Catatan membaca |
 |---|---|---|
-| プラットホームが混雑している | peron sedang ramai/padat | 混雑する = be crowded/congested |
-| 黄色い線 | garis kuning | stand behind/inside this line on platforms |
+| プラットホームが混雑している | peron sedang ramai/padat | 混雑する berarti penuh atau padat. |
+| 黄色い線 | garis kuning | di peron, biasanya menjadi batas aman untuk berdiri di belakangnya. |
 | 下がる | mundur; turun | pengumuman peron sering memakai 内側に下がる |
-| 特急が通過する | kereta ekspres lewat tanpa berhenti | 通過する = pass through |
-| 乗車する | naik kereta/kendaraan | bentuk yang lebih formal dari 乗る |
-| 下車する | turun dari kereta/kendaraan | bentuk yang lebih formal dari 降りる |
+| 特急が通過する | kereta ekspres lewat tanpa berhenti | 通過する berarti melewati suatu titik. |
+| 乗車する | naik kereta/kendaraan | bentuk yang lebih formal dari 乗る. |
+| 下車する | turun dari kereta/kendaraan | bentuk yang lebih formal dari 降りる. |
 | 発車する | berangkat | dipakai untuk kereta atau bus |
-| 電車の中はがらがらだ | di dalam kereta sangat kosong | がらがら = almost empty |
+| 電車の中はがらがらだ | di dalam kereta sangat kosong | がらがら menunjukkan tempat yang hampir kosong. |
 
 Perhatikan pola partikel: `を` menandai objek tindakan, `が` sering menandai keadaan, `に` menunjukkan tujuan atau arah, dan `で` menunjukkan alat, tempat, atau cara.
 

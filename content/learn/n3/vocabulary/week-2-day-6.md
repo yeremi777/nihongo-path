@@ -37,9 +37,9 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 通帳, はんこ, 印鑑
 |---|---|---|
 | 通帳 | つうちょう | buku tabungan; dipakai di bank atau ATM |
 | はんこ | はんこ | stempel/cap pribadi; juga disebut 印鑑 |
-| 印鑑 | いんかん | stempel/cap resmi; lebih formal daripada はんこ |
+| 印鑑 | いんかん | stempel/cap resmi; lebih formal daripada はんこ. |
 | サイン | サイン | tanda tangan; tanda; dalam konteks bank/pos berarti tanda tangan |
-| 紙幣 | しへい | uang kertas; kata yang lebih formal |
+| 紙幣 | しへい | uang kertas; kata yang lebih formal. |
 | 暗証番号 | あんしょうばんごう | nomor PIN; nomor identifikasi pribadi |
 | 振り込み | ふりこみ | transfer bank; bentuk nomina dari 振り込む |
 | 支払い | しはらい | pembayaran; bentuk nomina dari 支払う |
@@ -53,43 +53,43 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 通帳, はんこ, 印鑑
 |---|---|---|
 | キャッシュカード | キャッシュカード | kartu ATM; kartu bank; sering dipakai di ATM |
 | お札 | おさつ | uang kertas; kata sehari-hari untuk 紙幣 |
-| 硬貨 | こうか | uang koin; kata umum yang cukup formal |
+| 硬貨 | こうか | uang koin; kata umum yang cukup resmi. |
 
 ### Ukuran dan Jumlah
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| 千円札 | せんえんさつ | uang kertas 1.000 yen; 札 = bill/note |
+| 千円札 | せんえんさつ | uang kertas 1.000 yen; 札 dipakai untuk lembar uang. |
 | 百円玉 | ひゃくえんだま | koin 100 yen; 玉 dipakai untuk koin |
 
 ### Waktu dan Jadwal
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| 給料日 | きゅうりょうび | hari gajian; 給料 = salary |
+| 給料日 | きゅうりょうび | hari gajian; 給料 berarti gaji. |
 
 ### Tindakan dan Pola
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| お金を貯める | おかねをためる | menabung uang; 貯める = save/store up |
+| お金を貯める | おかねをためる | menabung uang; 貯める berarti mengumpulkan atau menyimpan sedikit demi sedikit. |
 | 貯金する | ちょきんする | menabung; kata sehari-hari yang umum |
 | 預金する | よきんする | menyetor/menyimpan uang di bank; setara dengan 銀行にお金を預ける |
-| 給料を引き出す | きゅうりょうをひきだす | menarik gaji dari rekening; 引き出す = withdraw/pull out |
+| 給料を引き出す | きゅうりょうをひきだす | menarik gaji dari rekening; 引き出す berarti menarik keluar. |
 | 給料を下ろす | きゅうりょうをおろす | mengambil/menarik gaji; 下ろす umum dipakai untuk menarik uang di ATM |
 | 通帳記入をする | つうちょうきにゅうをする | mencetak/memperbarui buku tabungan; setara dengan 通帳に記入する |
-| 銀行の本店 | ぎんこうのほんてん | kantor pusat bank; 本店 = main branch |
-| 銀行の支店 | ぎんこうのしてん | cabang bank; 支店 = branch |
-| 口座を開く | こうざをひらく | membuka rekening; 口座 = bank account |
-| 家賃を振り込む | やちんをふりこむ | mentransfer uang sewa bulanan; 振り込む = transfer money into an account |
+| 銀行の本店 | ぎんこうのほんてん | kantor pusat bank; 本店 adalah cabang utama. |
+| 銀行の支店 | ぎんこうのしてん | cabang bank; 支店 adalah cabang. |
+| 口座を開く | こうざをひらく | membuka rekening; 口座 berarti rekening bank. |
+| 家賃を振り込む | やちんをふりこむ | mentransfer uang sewa bulanan; 振り込む berarti mentransfer ke rekening. |
 | 公共料金を支払う | こうきょうりょうきんをしはらう | membayar tagihan utilitas; mencakup listrik, gas, air, telepon, dan sebagainya |
 | 商品の代金を払う | しょうひんのだいきんをはらう | membayar harga barang; 代金 berarti harga atau pembayaran untuk barang |
-| 窓口で両替をする | まどぐちでりょうがえをする | menukar uang di loket; 両替 = currency exchange/change money |
-| 送金する | そうきんする | mengirim uang; kata formal yang sering dipakai di konteks bank |
+| 窓口で両替をする | まどぐちでりょうがえをする | menukar uang di loket; 両替 berarti penukaran uang. |
+| 送金する | そうきんする | mengirim uang; kata formal yang sering dipakai di bank. |
 | 仕送りする | しおくりする | mengirim uang bulanan/biaya hidup; sering dari orang tua kepada anak atau pelajar |
-| 手数料がかかる | てすうりょうがかかる | kena biaya administrasi; 手数料 = handling/transaction fee |
-| 手紙を速達で出す | てがみをそくたつでだす | mengirim surat dengan pos kilat; 速達 = express mail |
-| 送料がかかる | そうりょうがかかる | kena ongkos kirim; 送料 = shipping fee |
+| 手数料がかかる | てすうりょうがかかる | kena biaya administrasi; 手数料 berarti biaya layanan atau transaksi. |
+| 手紙を速達で出す | てがみをそくたつでだす | mengirim surat dengan pos kilat; 速達 berarti pengiriman ekspres. |
+| 送料がかかる | そうりょうがかかる | kena ongkos kirim; 送料 berarti biaya pengiriman. |
 
 ## Peta Kata
 
@@ -131,14 +131,14 @@ Bayangkan kamu sedang membaca atau mendengar situasi tentang menyelesaikan urusa
 
 | Pola | Arti praktis | Catatan membaca |
 |---|---|---|
-| お金を貯める | menabung uang | 貯める = save/store up |
+| お金を貯める | menabung uang | 貯める berarti mengumpulkan atau menyimpan sedikit demi sedikit. |
 | 貯金する | menabung | kata sehari-hari yang umum |
 | 預金する | menyetor/menyimpan uang di bank | setara dengan 銀行にお金を預ける |
-| 給料を引き出す | menarik gaji dari rekening | 引き出す = withdraw/pull out |
+| 給料を引き出す | menarik gaji dari rekening | 引き出す berarti menarik keluar. |
 | 給料を下ろす | mengambil/menarik gaji | 下ろす umum dipakai untuk menarik uang di ATM |
 | 通帳記入をする | mencetak/memperbarui buku tabungan | setara dengan 通帳に記入する |
-| 銀行の本店 | kantor pusat bank | 本店 = main branch |
-| 銀行の支店 | cabang bank | 支店 = branch |
+| 銀行の本店 | kantor pusat bank | 本店 adalah cabang utama. |
+| 銀行の支店 | cabang bank | 支店 adalah cabang. |
 
 Perhatikan pola partikel: `を` menandai objek tindakan, `が` sering menandai keadaan, `に` menunjukkan tujuan atau arah, dan `で` menunjukkan alat, tempat, atau cara.
 

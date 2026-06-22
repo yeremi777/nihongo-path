@@ -36,47 +36,47 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 窓側, 通路側, 上り
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
 | 窓側 | まどがわ | sisi jendela; kursi dekat jendela; dalam kereta/pesawat, sering berarti kursi dekat jendela |
-| 通路側 | つうろがわ | sisi lorong; kursi dekat lorong; lawan kata of 窓側 |
-| 上り電車 | のぼりでんしゃ | kereta menuju pusat/kota besar; sering menuju Tokyo or a major city |
-| 下り電車 | くだりでんしゃ | kereta keluar dari pusat/kota besar; lawan kata of 上り電車 |
+| 通路側 | つうろがわ | sisi lorong; kursi dekat lorong; lawan kata 窓側. |
+| 上り電車 | のぼりでんしゃ | kereta menuju pusat/kota besar; sering mengarah ke Tokyo atau kota utama. |
+| 下り電車 | くだりでんしゃ | kereta keluar dari pusat/kota besar; lawan kata 上り電車. |
 | 車掌 | しゃしょう | kondektur kereta; petugas yang memeriksa tiket dan memberi pengumuman |
 | 乗車券 | じょうしゃけん | tiket kereta/bus; tiket dasar untuk naik kendaraan |
-| 片道切符 | かたみちきっぷ | tiket sekali jalan; 片道 = one way |
-| 往復切符 | おうふくきっぷ | tiket pulang-pergi; 往復 = go and return |
+| 片道切符 | かたみちきっぷ | tiket sekali jalan; 片道 berarti satu arah. |
+| 往復切符 | おうふくきっぷ | tiket pulang-pergi; 往復 berarti pergi dan kembali. |
 | 特急券 | とっきゅうけん | tiket kereta ekspres khusus; sering terpisah dari tiket dasar |
 | 特急料金 | とっきゅうりょうきん | biaya kereta ekspres khusus; biaya tambahan untuk layanan kereta ekspres khusus |
-| 回数券 | かいすうけん | tiket kupon; tiket diskon beberapa kali pakai; bought in sets |
+| 回数券 | かいすうけん | tiket kupon; tiket diskon beberapa kali pakai; dibeli dalam satu set. |
 | 定期券 | ていきけん | kartu langganan perjalanan; sering dipendekkan menjadi 定期 |
 
 ### Tindakan dan Pola
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| 上る | のぼる | naik; mendaki; dipakai untuk stairs, slopes, and moving upward |
+| 上る | のぼる | naik; mendaki; dipakai untuk tangga, tanjakan, dan gerakan ke atas. |
 | 上がる | あがる | naik; meningkat; intransitif; menunjukkan hasil atau keadaan yang naik |
 | 下る | くだる | turun; menuju jauh dari pusat; juga dipakai untuk kereta yang menjauh dari pusat |
-| 下りる | おりる | turun; turun dari kendaraan; juga bisa ditulis 降りる for getting off a vehicle |
-| エスカレーターの上り | エスカレーターののぼり | eskalator naik; 上り = arah naik |
-| エスカレーターの下り | エスカレーターのくだり | eskalator turun; 下り = arah turun |
+| 下りる | おりる | turun; turun dari kendaraan; untuk kendaraan juga sering ditulis 降りる. |
+| エスカレーターの上り | エスカレーターののぼり | eskalator naik; 上り menunjukkan arah naik. |
+| エスカレーターの下り | エスカレーターのくだり | eskalator turun; 下り menunjukkan arah turun. |
 | 東京方面行き | とうきょうほうめんいき | menuju arah Tokyo; di konteks stasiun, 行き juga bisa dibaca ゆき |
-| 青森方面行き | あおもりほうめんいき | menuju arah Aomori; 方面 = arah atau area |
-| 列車の時刻を調べる | れっしゃのじこくをしらべる | mengecek jadwal kereta; 時刻 = specific time |
-| 東京発横浜行き | とうきょうはつよこはまいき | berangkat dari Tokyo menuju Yokohama; 発 = departing from; 行き = bound for |
-| 座席を指定する | ざせきをしていする | memesan/menentukan kursi; 指定する = designate/specify |
-| 改札口を通る | かいさつぐちをとおる | melewati gerbang tiket; 改札口 = ticket gate |
-| 切符を払い戻す | きっぷをはらいもどす | meminta pengembalian uang tiket; 払い戻す = refund |
+| 青森方面行き | あおもりほうめんいき | menuju arah Aomori; 方面 berarti arah atau area. |
+| 列車の時刻を調べる | れっしゃのじこくをしらべる | mengecek jadwal kereta; 時刻 berarti waktu yang spesifik. |
+| 東京発横浜行き | とうきょうはつよこはまいき | berangkat dari Tokyo menuju Yokohama; 発 menunjukkan titik berangkat, 行き menunjukkan tujuan. |
+| 座席を指定する | ざせきをしていする | memesan/menentukan kursi; 指定する berarti menunjuk atau menentukan. |
+| 改札口を通る | かいさつぐちをとおる | melewati gerbang tiket; 改札口 adalah gerbang pemeriksaan tiket. |
+| 切符を払い戻す | きっぷをはらいもどす | meminta pengembalian uang tiket; 払い戻す berarti mengembalikan uang pembayaran. |
 
 ### Istilah Utama
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| 階段 | かいだん | tangga; use 階段を上る／下りる |
+| 階段 | かいだん | tangga; gunakan dalam pola 階段を上る／下りる. |
 | 時刻表 | じこくひょう | jadwal; tabel waktu; dipakai untuk kereta atau bus |
 | 私鉄 | してつ | jalur kereta swasta; lawan dari JR atau jalur umum dalam konteks ini |
-| 新幹線 | しんかんせん | kereta cepat Shinkansen; high-speed rail |
-| 指定席 | していせき | kursi reservasi; seat assigned in advance |
-| 自由席 | じゆうせき | kursi bebas; tanpa reservasi; no assigned seat |
-| 払い戻し | はらいもどし | pengembalian uang; bentuk nomina of 払い戻す |
+| 新幹線 | しんかんせん | kereta cepat Shinkansen; kereta berkecepatan tinggi. |
+| 指定席 | していせき | kursi reservasi; kursi yang sudah ditentukan sebelumnya. |
+| 自由席 | じゆうせき | kursi bebas; tanpa reservasi; tidak ada nomor kursi tetap. |
+| 払い戻し | はらいもどし | pengembalian uang; bentuk nomina dari 払い戻す. |
 
 ## Peta Kata
 
@@ -118,14 +118,14 @@ Bayangkan kamu sedang membaca atau mendengar situasi tentang naik kereta (1): ka
 
 | Pola | Arti praktis | Catatan membaca |
 |---|---|---|
-| 上る | naik; mendaki | dipakai untuk stairs, slopes, and moving upward |
+| 上る | naik; mendaki | dipakai untuk tangga, tanjakan, dan gerakan ke atas. |
 | 上がる | naik; meningkat | intransitif; menunjukkan hasil atau keadaan yang naik |
 | 下る | turun; menuju jauh dari pusat | juga dipakai untuk kereta yang menjauh dari pusat |
-| 下りる | turun; turun dari kendaraan | juga bisa ditulis 降りる for getting off a vehicle |
-| エスカレーターの上り | eskalator naik | 上り = arah naik |
-| エスカレーターの下り | eskalator turun | 下り = arah turun |
+| 下りる | turun; turun dari kendaraan | untuk kendaraan juga sering ditulis 降りる. |
+| エスカレーターの上り | eskalator naik | 上り menunjukkan arah naik. |
+| エスカレーターの下り | eskalator turun | 下り menunjukkan arah turun. |
 | 東京方面行き | menuju arah Tokyo | di konteks stasiun, 行き juga bisa dibaca ゆき |
-| 青森方面行き | menuju arah Aomori | 方面 = arah atau area |
+| 青森方面行き | menuju arah Aomori | 方面 berarti arah atau area. |
 
 Perhatikan pola partikel: `を` menandai objek tindakan, `が` sering menandai keadaan, `に` menunjukkan tujuan atau arah, dan `で` menunjukkan alat, tempat, atau cara.
 

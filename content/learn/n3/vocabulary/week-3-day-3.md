@@ -55,17 +55,17 @@ Fokus hari ini bukan hanya menghafal arti kata seperti そでなし, 半そで, 
 |---|---|---|
 | 似合う | にあう | cocok; pantas dipakai; dipakai untuk pakaian, warna, atau gaya |
 | 気に入る | きにいる | suka; tertarik pada; sering setelah melihat atau mencoba sesuatu |
-| 好む | このむ | menyukai; lebih suka; lebih formal daripada 好き |
-| 目立つ色 | めだついろ | warna mencolok; 目立つ = stand out |
+| 好む | このむ | menyukai; lebih suka; lebih formal daripada 好き. |
+| 目立つ色 | めだついろ | warna mencolok; 目立つ berarti menarik perhatian. |
 | 人気のあるデザイン | にんきのあるデザイン | desain populer; sering muncul saat membaca toko, ukuran, harga, barang, pilihan, dan percakapan saat berbelanja. |
 | はやっている | はやっている | sedang tren; sering muncul saat membaca toko, ukuran, harga, barang, pilihan, dan percakapan saat berbelanja. |
 | サイズを確かめる／確認する | サイズをたしかめる／かくにんする | mengecek ukuran; 確かめる dan 確認する maknanya dekat |
 | サイズが合う | サイズがあう | ukurannya cocok; sering muncul saat membaca toko, ukuran, harga, barang, pilihan, dan percakapan saat berbelanja. |
-| 品物をかごに入れる | しなものをかごにいれる | memasukkan barang ke keranjang; 品物 = goods/item |
+| 品物をかごに入れる | しなものをかごにいれる | memasukkan barang ke keranjang; 品物 berarti barang dagangan. |
 | セール／バーゲンで買う | セール／バーゲンでかう | membeli saat diskon; sering muncul saat membaca toko, ukuran, harga, barang, pilihan, dan percakapan saat berbelanja. |
-| デパートの特売品 | デパートのとくばいひん | barang obral department store; 特売品 = special bargain item |
+| デパートの特売品 | デパートのとくばいひん | barang obral di department store; 特売品 berarti barang dengan harga promo. |
 | 売り切れる | うりきれる | habis terjual; verba intransitif |
-| 本物のダイヤモンド | ほんもののダイヤモンド | berlian asli; 本物 = real/genuine thing |
+| 本物のダイヤモンド | ほんもののダイヤモンド | berlian asli; 本物 berarti barang asli. |
 | 得をする | とくをする | untung; sering muncul saat membaca toko, ukuran, harga, barang, pilihan, dan percakapan saat berbelanja. |
 | 損をする | そんをする | rugi; lawan kata dari 得をする |
 
@@ -126,8 +126,8 @@ Bayangkan kamu sedang membaca atau mendengar situasi tentang berbelanja: kata in
 | 似合う | cocok; pantas dipakai | dipakai untuk pakaian, warna, atau gaya |
 | 気に入る | suka; tertarik pada | sering setelah melihat atau mencoba sesuatu |
 | お気に入り | favorit | bentuk nomina |
-| 好む | menyukai; lebih suka | lebih formal daripada 好き |
-| 目立つ色 | warna mencolok | 目立つ = stand out |
+| 好む | menyukai; lebih suka | lebih formal daripada 好き. |
+| 目立つ色 | warna mencolok | 目立つ berarti menarik perhatian. |
 
 Perhatikan pola partikel: `を` menandai objek tindakan, `が` sering menandai keadaan, `に` menunjukkan tujuan atau arah, dan `で` menunjukkan alat, tempat, atau cara.
 

@@ -38,25 +38,25 @@ Fokus hari ini bukan hanya menghafal arti kata seperti ウエートレス, ウ�
 | ウエートレス | ウエートレス | pelayan perempuan; staf restoran |
 | ウエーター | ウエーター | pelayan laki-laki; staf restoran |
 | メニュー | メニュー | menu; sering muncul saat membaca reservasi, menu, pesanan, rasa, layanan, dan situasi makan di luar. |
-| 子ども連れ | こどもづれ | membawa anak; pelanggan dengan anak; 連れ = companion/accompanied by |
+| 子ども連れ | こどもづれ | membawa anak; pelanggan dengan anak; 連れ menunjukkan orang yang ikut bersama. |
 | ランチ | ランチ | makan siang; kata serapan |
 | 満席 | まんせき | penuh; tidak ada kursi kosong; sering muncul saat membaca reservasi, menu, pesanan, rasa, layanan, dan situasi makan di luar. |
 | 禁煙席 | きんえんせき | kursi bebas rokok; sering muncul saat membaca reservasi, menu, pesanan, rasa, layanan, dan situasi makan di luar. |
 | 喫煙席 | きつえんせき | kursi merokok; sering muncul saat membaca reservasi, menu, pesanan, rasa, layanan, dan situasi makan di luar. |
-| コーヒーのおかわり | コーヒーのおかわり | tambah kopi; refill kopi; おかわり = another serving |
+| コーヒーのおかわり | コーヒーのおかわり | tambah kopi; isi ulang kopi; おかわり berarti tambahan porsi/minuman. |
 
 ### Sifat dan Kondisi
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| 家族そろって（＝家族全員で） | かぞくそろって（＝かぞくぜんいんで） | sekeluarga; bersama seluruh keluarga; そろって = all together |
-| 雰囲気のいい店 | ふんいきのいいみせ | restoran dengan suasana bagus; 雰囲気 = atmosphere |
-| 量が多い | りょうがおおい | porsinya banyak; 量 = amount |
+| 家族そろって（＝家族全員で） | かぞくそろって（＝かぞくぜんいんで） | sekeluarga; bersama seluruh keluarga; そろって berarti semuanya berkumpul. |
+| 雰囲気のいい店 | ふんいきのいいみせ | restoran dengan suasana bagus; 雰囲気 berarti suasana. |
+| 量が多い | りょうがおおい | porsinya banyak; 量 berarti jumlah atau volume. |
 | 量が少ない | りょうがすくない | porsinya sedikit; sering muncul saat membaca reservasi, menu, pesanan, rasa, layanan, dan situasi makan di luar. |
-| 無料／ただ | むりょう／ただ | gratis; 無料 lebih formal |
-| もったいない | もったいない | sayang; mubazir; dipakai saat something is wasted |
+| 無料／ただ | むりょう／ただ | gratis; 無料 lebih formal daripada ただ. |
+| もったいない | もったいない | sayang; mubazir; dipakai saat sesuatu terbuang sia-sia. |
 | 何名様ですか。 | なんめいさまですか。 | Berapa orang?; ungkapan sopan yang sering dipakai di restoran |
-| 2人です。 | ふたりです。 | Kami berdua.; counter for people |
+| 2人です。 | ふたりです。 | Kami berdua.; cara menghitung jumlah orang. |
 | 申し訳ありません。 | もうしわけありません。 | Mohon maaf.; permintaan maaf yang sangat sopan |
 | もう少々お待ちください。 | もうしょうしょうおまちください。 | Mohon tunggu sebentar lagi.; ungkapan sopan dalam layanan |
 | お待たせいたしました。 | おまたせいたしました。 | Maaf membuat Anda menunggu.; sangat sopan |
@@ -66,19 +66,19 @@ Fokus hari ini bukan hanya menghafal arti kata seperti ウエートレス, ウ�
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| 子どもを連れる | こどもをつれる | membawa anak; 連れる = take someone along |
+| 子どもを連れる | こどもをつれる | membawa anak; 連れる berarti membawa seseorang ikut bersama. |
 | 腹（＝おなか）がへる | はら（＝おなか）がへる | lapar; 腹 lebih kasual dan lebih langsung daripada おなか |
 | 外食をする | がいしょくをする | makan di luar; sering muncul saat membaca reservasi, menu, pesanan, rasa, layanan, dan situasi makan di luar. |
-| お昼を食べる／昼食をとる | おひるをたべる／ちゅうしょくをとる | makan siang; 昼食 lebih formal |
-| すいている | すいている | lengang; tidak ramai; lawan kata of 混んでいる |
+| お昼を食べる／昼食をとる | おひるをたべる／ちゅうしょくをとる | makan siang; 昼食 lebih formal daripada お昼. |
+| すいている | すいている | lengang; tidak ramai; lawan kata 混んでいる. |
 | 列に並ぶ | れつにならぶ | antre; sering muncul saat membaca reservasi, menu, pesanan, rasa, layanan, dan situasi makan di luar. |
 | 行列ができる | ぎょうれつができる | antrean terbentuk; sering muncul saat membaca reservasi, menu, pesanan, rasa, layanan, dan situasi makan di luar. |
-| ウエートレスにおすすめを聞く | ウエートレスにおすすめをきく | menanyakan rekomendasi ke pelayan; おすすめ = recommendation |
-| 注文が決まる | ちゅうもんがきまる | pesanan sudah diputuskan; intransitif: the order is decided |
+| ウエートレスにおすすめを聞く | ウエートレスにおすすめをきく | menanyakan rekomendasi ke pelayan; おすすめ berarti rekomendasi. |
+| 注文が決まる | ちゅうもんがきまる | pesanan sudah diputuskan; bentuk intransitif, jadi fokusnya pada pesanan yang sudah jelas. |
 | 注文する | ちゅうもんする | memesan; sering muncul saat membaca reservasi, menu, pesanan, rasa, layanan, dan situasi makan di luar. |
-| 注文を取る／受ける | ちゅうもんをとる／うける | menerima pesanan; staf restoran action |
-| デザートを追加する | デザートをついかする | menambah pesanan makanan penutup; 追加する = add |
-| 食器を下げる | しょっきをさげる | membereskan piring; 食器 = tableware |
+| 注文を取る／受ける | ちゅうもんをとる／うける | menerima pesanan; tindakan yang dilakukan staf restoran. |
+| デザートを追加する | デザートをついかする | menambah pesanan makanan penutup; 追加する berarti menambahkan. |
+| 食器を下げる | しょっきをさげる | membereskan piring; 食器 berarti piring, mangkuk, dan alat makan. |
 | 料理を残す | りょうりをのこす | menyisakan makanan; sering muncul saat membaca reservasi, menu, pesanan, rasa, layanan, dan situasi makan di luar. |
 
 ## Peta Kata
@@ -121,13 +121,13 @@ Bayangkan kamu sedang membaca atau mendengar situasi tentang pergi makan: kata i
 
 | Pola | Arti praktis | Catatan membaca |
 |---|---|---|
-| 家族そろって（＝家族全員で） | sekeluarga; bersama seluruh keluarga | そろって = all together |
-| 子どもを連れる | membawa anak | 連れる = take someone along |
+| 家族そろって（＝家族全員で） | sekeluarga; bersama seluruh keluarga | そろって berarti semuanya berkumpul. |
+| 子どもを連れる | membawa anak | 連れる berarti membawa seseorang ikut bersama. |
 | 腹（＝おなか）がへる | lapar | 腹 lebih kasual dan lebih langsung daripada おなか |
 | 外食をする | makan di luar | sering muncul saat membaca reservasi, menu, pesanan, rasa, layanan, dan situasi makan di luar. |
-| お昼を食べる／昼食をとる | makan siang | 昼食 lebih formal |
-| 雰囲気のいい店 | restoran dengan suasana bagus | 雰囲気 = atmosphere |
-| すいている | lengang; tidak ramai | lawan kata of 混んでいる |
+| お昼を食べる／昼食をとる | makan siang | 昼食 lebih formal daripada お昼. |
+| 雰囲気のいい店 | restoran dengan suasana bagus | 雰囲気 berarti suasana. |
+| すいている | lengang; tidak ramai | lawan kata 混んでいる. |
 | 列に並ぶ | antre | sering muncul saat membaca reservasi, menu, pesanan, rasa, layanan, dan situasi makan di luar. |
 
 Perhatikan pola partikel: `を` menandai objek tindakan, `が` sering menandai keadaan, `に` menunjukkan tujuan atau arah, dan `で` menunjukkan alat, tempat, atau cara.
