@@ -23,7 +23,7 @@ tags:
 
 Mengenali delapan kanji N3 yang sering muncul saat ada masalah atau keadaan darurat: 困, 消, 防, 救, 警, 察, 故, dan 伝.
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 困る, 消防, 救急車, 警察, 事故, 故障, dan 伝言 dalam pengumuman atau situasi darurat.
+Di akhir pelajaran ini, kamu bisa membaca kata seperti 困る, 消防, 救急車, 警察, 事故, 故障, dan 伝言 dalam pengumuman atau situasi darurat.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> pisahkan kata darurat menjadi masalah, bantuan, pihak berwenang, penyebab, dan pesan.
@@ -45,7 +45,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>困 dipakai ketika seseorang berada dalam masalah atau tidak tahu harus melakukan apa.</p>
   <ul>
     <li><span class="ruby-word"><ruby>困る<rt>こまる</rt></ruby></span> - kesulitan, bingung</li>
-    <li><span class="ruby-word"><ruby>困った時<rt>こまったとき</rt></ruby></span> - saat kesulitan</li>
+    <li><span class="ruby-word"><ruby>困った時<rt>こまったとき</rt></ruby></span> - kesulitan, susah</li>
   </ul>
 </details>
 
@@ -62,6 +62,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>消防<rt>しょうぼう</rt></ruby></span> - pemadam kebakaran</li>
     <li><span class="ruby-word"><ruby>消す<rt>けす</rt></ruby></span> - memadamkan, menghapus</li>
     <li><span class="ruby-word"><ruby>消える<rt>きえる</rt></ruby></span> - padam, hilang</li>
+    <li><span class="ruby-word"><ruby>消しゴム<rt>けしゴム</rt></ruby></span> - memadamkan, menghilang</li>
   </ul>
 </details>
 
@@ -138,8 +139,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>故 memberi rasa sebab atau kejadian tidak beres. Dalam 事故 dan 故障, maknanya berbeda menurut pasangan kanjinya.</p>
   <ul>
     <li><span class="ruby-word"><ruby>事故<rt>じこ</rt></ruby></span> - kecelakaan</li>
+    <li><span class="ruby-word"><ruby>故〇〇<rt>こ〇〇</rt></ruby></span> - pola kata untuk alasan</li>
     <li><span class="ruby-word"><ruby>故障<rt>こしょう</rt></ruby></span> - kerusakan</li>
-    <li><span class="ruby-word"><ruby>故人<rt>こじん</rt></ruby></span> - almarhum</li>
   </ul>
 </details>
 
@@ -217,7 +218,7 @@ Kata-kata hari ini membentuk alur saat ada masalah. 困る adalah kondisi kesuli
 
 ## Hal yang Mudah Tertukar
 
-| Pasangan | Bedanya |
+| Pasangan | Cara membedakan |
 |---|---|
 | 消防 / 予防 | 消防 berkaitan dengan memadamkan/menangani kebakaran. 予防 adalah mencegah sebelum terjadi. |
 | 警察 / 警官 | 警察 adalah institusi polisi. 警官 adalah petugas polisinya. |

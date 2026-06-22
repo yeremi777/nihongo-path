@@ -44,8 +44,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>停 menandai tempat atau tindakan berhenti. Pada bus, バス停 adalah lokasi utama yang perlu cepat dikenali.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>バス停<rt>ばすてい</rt></ruby></span> - halte bus</li>
     <li><span class="ruby-word"><ruby>停車<rt>ていしゃ</rt></ruby></span> - berhenti (kendaraan)</li>
+    <li><span class="ruby-word"><ruby>バス停<rt>ばすてい</rt></ruby></span> - halte bus</li>
   </ul>
 </details>
 
@@ -74,8 +74,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>券 adalah kanji tiket. Saat naik transportasi, kanji ini biasanya berarti bukti naik, kupon, atau nomor tarif.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>乗車券<rt>じょうしゃけん</rt></ruby></span> - tiket naik</li>
+    <li><span class="ruby-word"><ruby>駐車券<rt>ちゅうしゃけん</rt></ruby></span> - tiket, kupon</li>
     <li><span class="ruby-word"><ruby>回数券<rt>かいすうけん</rt></ruby></span> - tiket kupon beberapa kali</li>
+    <li><span class="ruby-word"><ruby>乗車券<rt>じょうしゃけん</rt></ruby></span> - tiket naik</li>
+    <li><span class="ruby-word"><ruby>整理券<rt>せいりけん</rt></ruby></span> - tiket nomor antrean</li>
   </ul>
 </details>
 
@@ -90,6 +92,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>現 sering muncul dalam 現金 untuk metode pembayaran tunai. Pada bus, ini membantu membedakan uang tunai dari kartu.</p>
   <ul>
     <li><span class="ruby-word"><ruby>現金<rt>げんきん</rt></ruby></span> - uang tunai</li>
+    <li><span class="ruby-word"><ruby>現れる<rt>あらわれる</rt></ruby></span> - sekarang, muncul</li>
+    <li><span class="ruby-word"><ruby>表現<rt>ひょうげん</rt></ruby></span> - sekarang, muncul</li>
     <li><span class="ruby-word"><ruby>現在<rt>げんざい</rt></ruby></span> - saat ini</li>
   </ul>
 </details>
@@ -104,8 +108,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>両 muncul dalam 両替 untuk penukaran uang. Dalam bus, kata ini biasanya berkaitan dengan pecahan uang.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>両替<rt>りょうがえ</rt></ruby></span> - tukar uang kecil/besar</li>
     <li><span class="ruby-word"><ruby>両親<rt>りょうしん</rt></ruby></span> - kedua orang tua</li>
+    <li><span class="ruby-word"><ruby>〜両<rt>〜りょう</rt></ruby></span> - pola kata untuk keduanya</li>
+    <li><span class="ruby-word"><ruby>両替<rt>りょうがえ</rt></ruby></span> - tukar uang kecil/besar</li>
   </ul>
 </details>
 
@@ -119,8 +124,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>替 memberi rasa mengganti atau menukar. Bersama 両, maknanya menjadi menukar pecahan uang.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>両替<rt>りょうがえ</rt></ruby></span> - penukaran uang</li>
+    <li><span class="ruby-word"><ruby>取り替える<rt>とりかえる</rt></ruby></span> - menukar, mengganti</li>
     <li><span class="ruby-word"><ruby>着替える<rt>きがえる</rt></ruby></span> - ganti pakaian</li>
+    <li><span class="ruby-word"><ruby>両替<rt>りょうがえ</rt></ruby></span> - tukar uang kecil/besar</li>
   </ul>
 </details>
 
@@ -136,6 +142,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>優先席<rt>ゆうせんせき</rt></ruby></span> - kursi prioritas</li>
     <li><span class="ruby-word"><ruby>優しい<rt>やさしい</rt></ruby></span> - lembut/baik</li>
+    <li><span class="ruby-word"><ruby>女優<rt>じょゆう</rt></ruby></span> - lembut, unggul</li>
   </ul>
 </details>
 
@@ -151,6 +158,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>座席<rt>ざせき</rt></ruby></span> - tempat duduk</li>
     <li><span class="ruby-word"><ruby>座る<rt>すわる</rt></ruby></span> - duduk</li>
+    <li><span class="ruby-word"><ruby>正座<rt>せいざ</rt></ruby></span> - duduk, kursi</li>
   </ul>
 </details>
 
@@ -166,6 +174,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>降車口<rt>こうしゃぐち</rt></ruby></span> - pintu turun</li>
     <li><span class="ruby-word"><ruby>降りる<rt>おりる</rt></ruby></span> - turun (kendaraan)</li>
+    <li><span class="ruby-word"><ruby>以降<rt>いこう</rt></ruby></span> - turun, turun kendaraan</li>
+    <li><span class="ruby-word"><ruby>降る<rt>ふる</rt></ruby></span> - turun, turun kendaraan</li>
+    <li><span class="ruby-word"><ruby>降車<rt>こうしゃ</rt></ruby></span> - turun, turun kendaraan</li>
   </ul>
 </details>
 </div>
@@ -214,7 +225,7 @@ Pada bus lokal, kata-kata ini sering muncul sebagai 案内 pendek di dekat pintu
 
 ## Hal yang Mudah Tertukar
 
-| Pasangan | Bedanya |
+| Pasangan | Cara membedakan |
 |---|---|
 | 停車 / 降車 | Lihat subjeknya: 停車 adalah kendaraan berhenti, 降車 adalah penumpang turun. |
 | 整理券 / 乗車券 | 整理券 biasanya membantu menentukan tarif/urutan, sedangkan 乗車券 adalah tiket untuk naik. |

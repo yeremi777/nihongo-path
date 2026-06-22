@@ -23,7 +23,7 @@ tags:
 
 Mengenali sembilan kanji N3 yang sering muncul pada label penyimpanan makanan: 要, 冷, 蔵, 凍, 庫, 召, 保, 存, dan 必.
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 要冷蔵, 冷蔵庫, 冷凍庫, 召し上がる, 保存, ご存じ, 必要, dan 必ず pada kemasan makanan.
+Di akhir pelajaran ini, kamu bisa membaca kata seperti 要冷蔵, 冷蔵庫, 冷凍庫, 召し上がる, 保存, ご存じ, 必要, dan 必ず pada kemasan makanan.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> baca label makanan dari kebutuhan, suhu penyimpanan, tempat simpan, lalu instruksi konsumsi.
@@ -44,8 +44,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>要 menandai kebutuhan. Pada label, kanji ini sering berarti sesuatu wajib dilakukan.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>必要<rt>ひつよう</rt></ruby></span> - perlu</li>
+    <li><span class="ruby-word"><ruby>必要(な)<rt>ひつよう</rt></ruby></span> - perlu</li>
     <li><span class="ruby-word"><ruby>要る<rt>いる</rt></ruby></span> - memerlukan</li>
+    <li><span class="ruby-word"><ruby>重要(な)<rt>じゅうよう</rt></ruby></span> - penting</li>
+    <li><span class="ruby-word"><ruby>必要<rt>ひつよう</rt></ruby></span> - perlu</li>
     <li><span class="ruby-word"><ruby>重要<rt>じゅうよう</rt></ruby></span> - penting</li>
   </ul>
 </details>
@@ -62,7 +64,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>冷房<rt>れいぼう</rt></ruby></span> - AC pendingin</li>
     <li><span class="ruby-word"><ruby>冷やす<rt>ひやす</rt></ruby></span> - mendinginkan</li>
+    <li><span class="ruby-word"><ruby>冷める<rt>さめる</rt></ruby></span> - menjadi tidak panas</li>
     <li><span class="ruby-word"><ruby>冷たい<rt>つめたい</rt></ruby></span> - dingin</li>
+    <li><span class="ruby-word"><ruby>冷える<rt>ひえる</rt></ruby></span> - menjadi dingin</li>
   </ul>
 </details>
 
@@ -78,6 +82,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>冷蔵庫<rt>れいぞうこ</rt></ruby></span> - kulkas</li>
     <li><span class="ruby-word"><ruby>冷蔵<rt>れいぞう</rt></ruby></span> - penyimpanan dingin</li>
+    <li><span class="ruby-word"><ruby>要冷蔵<rt>ようれいぞう</rt></ruby></span> - perlu disimpan di kulkas</li>
   </ul>
 </details>
 
@@ -93,6 +98,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>冷凍庫<rt>れいとうこ</rt></ruby></span> - freezer</li>
     <li><span class="ruby-word"><ruby>凍る<rt>こおる</rt></ruby></span> - membeku</li>
+    <li><span class="ruby-word"><ruby>冷凍<rt>れいとう</rt></ruby></span> - membekukan, beku</li>
   </ul>
 </details>
 
@@ -106,9 +112,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>庫 menunjuk tempat penyimpanan. Dalam 冷蔵庫 dan 冷凍庫, artinya alat/tempat simpan.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>冷蔵庫<rt>れいぞうこ</rt></ruby></span> - kulkas</li>
     <li><span class="ruby-word"><ruby>金庫<rt>きんこ</rt></ruby></span> - brankas</li>
     <li><span class="ruby-word"><ruby>車庫<rt>しゃこ</rt></ruby></span> - garasi</li>
+    <li><span class="ruby-word"><ruby>冷蔵庫<rt>れいぞうこ</rt></ruby></span> - kulkas</li>
+    <li><span class="ruby-word"><ruby>冷凍庫<rt>れいとうこ</rt></ruby></span> - freezer</li>
   </ul>
 </details>
 
@@ -136,8 +143,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>保 memberi rasa menjaga kondisi. Dalam 保存, artinya menyimpan agar tetap baik.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>保存<rt>ほぞん</rt></ruby></span> - penyimpanan</li>
-    <li><span class="ruby-word"><ruby>保険<rt>ほけん</rt></ruby></span> - asuransi</li>
+    <li><span class="ruby-word"><ruby>保存する<rt>ほぞんする</rt></ruby></span> - menyimpan, mengawetkan</li>
+    <li><span class="ruby-word"><ruby>保存<rt>ほぞん</rt></ruby></span> - penyimpanan, pengawetan</li>
   </ul>
 </details>
 
@@ -151,9 +158,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>存 muncul pada kata menyimpan dan ungkapan tahu secara hormat/rendah hati.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>保存<rt>ほぞん</rt></ruby></span> - penyimpanan</li>
-    <li><span class="ruby-word"><ruby>ご存じ<rt>ごぞんじ</rt></ruby></span> - mengetahui</li>
+    <li><span class="ruby-word"><ruby>ご存じです<rt>ごぞんじです</rt></ruby></span> - mengetahui (hormat)</li>
     <li><span class="ruby-word"><ruby>存じません<rt>ぞんじません</rt></ruby></span> - tidak tahu (rendah hati)</li>
+    <li><span class="ruby-word"><ruby>保存<rt>ほぞん</rt></ruby></span> - penyimpanan, pengawetan</li>
+    <li><span class="ruby-word"><ruby>ご存じ<rt>ごぞんじ</rt></ruby></span> - mengetahui (hormat)</li>
   </ul>
 </details>
 
@@ -167,9 +175,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>必 memberi rasa pasti atau wajib. Bedakan 必要 sebagai kebutuhan dan 必ず sebagai adverbia.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>必要<rt>ひつよう</rt></ruby></span> - perlu</li>
+    <li><span class="ruby-word"><ruby>必要(な)<rt>ひつよう</rt></ruby></span> - perlu</li>
     <li><span class="ruby-word"><ruby>必ず<rt>かならず</rt></ruby></span> - pasti, harus</li>
-    <li><span class="ruby-word"><ruby>必死<rt>ひっし</rt></ruby></span> - mati-matian</li>
+    <li><span class="ruby-word"><ruby>必死(に)<rt>ひっし(に)</rt></ruby></span> - pasti, tentu</li>
+    <li><span class="ruby-word"><ruby>必要<rt>ひつよう</rt></ruby></span> - perlu</li>
   </ul>
 </details>
 </div>
@@ -231,7 +240,7 @@ Kata-kata hari ini membentuk instruksi pada kemasan. 要 dan 必 menandai kebutu
 
 ## Hal yang Mudah Tertukar
 
-| Pasangan | Bedanya |
+| Pasangan | Cara membedakan |
 |---|---|
 | 必要 / 必ず | 必要 adalah “perlu/diperlukan”. 必ず berarti “pasti/harus dilakukan”. |
 | 冷蔵 / 冷凍 | 冷蔵 adalah penyimpanan dingin di kulkas. 冷凍 adalah pembekuan di freezer. |

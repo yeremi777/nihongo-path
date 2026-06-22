@@ -21,9 +21,9 @@ tags:
 
 ## Tujuan
 
-Mengenali kanji N3 yang sering muncul di email promosi, kupon diskon, harga barang, dan informasi pembayaran toko: 告、利、割、倍、値、商、支、払。
+Mengenali kanji N3 yang sering muncul di email promosi, diskon, harga, dan pembayaran toko: 告, 利, 割, 倍, 値, 商, 支, dan 払.
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 広告、報告、便利、利用、割引、割合 di email promosi, kupon diskon, harga barang, dan informasi pembayaran toko. Fokus hari ini bukan menghafal semua bacaan sekaligus, tetapi mengenali kata yang paling mungkin muncul dalam konteks tersebut.
+Di akhir pelajaran ini, kamu bisa membaca kata seperti 広告, 便利, 利用, 割引, 値段, 商品, 支店, dan 支払い saat melihat email promosi atau informasi toko. Fokuskan pada alur pesan: iklan, manfaat, diskon, barang, lalu pembayaran.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> perhatikan angka, harga, dan kata seperti 割引 atau 支払い sebelum memutuskan makna kalimat.
@@ -42,7 +42,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: コク</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-  <p>Dalam email promosi dan informasi pembayaran, 告 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>告 berkaitan dengan memberi tahu atau mengumumkan. Dalam 広告, kanji ini muncul pada iklan dan promosi.</p>
   <ul>
     <li><span class="ruby-word"><ruby>広告<rt>こうこく</rt></ruby></span> - iklan</li>
     <li><span class="ruby-word"><ruby>報告<rt>ほうこく</rt></ruby></span> - laporan</li>
@@ -57,10 +57,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: リ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-  <p>Dalam email promosi dan informasi pembayaran, 利 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>利 memberi rasa manfaat atau praktis. Pada promosi, 便利 dan 利用 sering menjelaskan keuntungan memakai layanan.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>便利<rt>べんり</rt></ruby></span> - praktis</li>
+    <li><span class="ruby-word"><ruby>便利(な)<rt>べんり</rt></ruby></span> - praktis</li>
     <li><span class="ruby-word"><ruby>利用<rt>りよう</rt></ruby></span> - pemakaian</li>
+    <li><span class="ruby-word"><ruby>便利<rt>べんり</rt></ruby></span> - praktis</li>
   </ul>
 </details>
 
@@ -72,10 +73,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: カツ</span><span>kunyomi: わる, われる</span></span>
     </span>
   </summary>
-  <p>Dalam email promosi dan informasi pembayaran, 割 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>割 berhubungan dengan membagi atau diskon. Dalam 割引, fokusnya adalah potongan harga.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>割引<rt>わりびき</rt></ruby></span> - diskon</li>
+    <li><span class="ruby-word"><ruby>割る<rt>われる</rt></ruby></span> - membagi, memecah</li>
+    <li><span class="ruby-word"><ruby>割れる<rt>われる</rt></ruby></span> - membagi, memecah</li>
     <li><span class="ruby-word"><ruby>割合<rt>わりあい</rt></ruby></span> - rasio</li>
+    <li><span class="ruby-word"><ruby>割引<rt>わりびき</rt></ruby></span> - diskon</li>
   </ul>
 </details>
 
@@ -87,10 +90,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: バイ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-  <p>Dalam email promosi dan informasi pembayaran, 倍 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>倍 menunjukkan kelipatan. Cari angka di dekatnya, seperti 二倍 atau 三倍, untuk membaca perbandingan jumlah.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>二倍<rt>にばい</rt></ruby></span> - dua kali lipat</li>
+    <li><span class="ruby-word"><ruby>〜倍<rt>ばい</rt></ruby></span> - kali</li>
     <li><span class="ruby-word"><ruby>倍<rt>ばい</rt></ruby></span> - kali</li>
+    <li><span class="ruby-word"><ruby>二倍<rt>にばい</rt></ruby></span> - kali lipat, dua kali</li>
   </ul>
 </details>
 
@@ -102,9 +106,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: ね</span></span>
     </span>
   </summary>
-  <p>Dalam email promosi dan informasi pembayaran, 値 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>値 berkaitan dengan harga atau nilai. Dalam 値段, kanji ini menunjuk harga barang.</p>
   <ul>
     <li><span class="ruby-word"><ruby>値段<rt>ねだん</rt></ruby></span> - harga</li>
+    <li><span class="ruby-word"><ruby>値上げ<rt>ねあげ</rt></ruby></span> - harga, nilai</li>
     <li><span class="ruby-word"><ruby>値下げ<rt>ねさげ</rt></ruby></span> - penurunan harga</li>
   </ul>
 </details>
@@ -117,7 +122,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ショウ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-  <p>Dalam email promosi dan informasi pembayaran, 商 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>商 sering muncul pada kata barang dagangan atau toko. 商品 berarti produk yang dijual.</p>
   <ul>
     <li><span class="ruby-word"><ruby>商品<rt>しょうひん</rt></ruby></span> - produk</li>
     <li><span class="ruby-word"><ruby>商店<rt>しょうてん</rt></ruby></span> - toko</li>
@@ -132,10 +137,13 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: シ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-  <p>Dalam email promosi dan informasi pembayaran, 支 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>支 bisa berkaitan dengan cabang atau pembayaran. Bedakan 支店 sebagai cabang toko dari 支払い sebagai pembayaran.</p>
   <ul>
     <li><span class="ruby-word"><ruby>支店<rt>してん</rt></ruby></span> - cabang toko</li>
     <li><span class="ruby-word"><ruby>支社<rt>ししゃ</rt></ruby></span> - kantor cabang</li>
+    <li><span class="ruby-word"><ruby>本店<rt>ほんてん</rt></ruby></span> - cabang, mendukung</li>
+    <li><span class="ruby-word"><ruby>本社<rt>ほんしゃ</rt></ruby></span> - cabang, mendukung</li>
+    <li><span class="ruby-word"><ruby>支払い<rt>しはらい</rt></ruby></span> - pembayaran</li>
   </ul>
 </details>
 
@@ -147,7 +155,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: はらう</span></span>
     </span>
   </summary>
-  <p>Dalam email promosi dan informasi pembayaran, 払 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>払 menandai tindakan membayar. Dalam 支払い, bacalah sebagai proses pembayaran atau metode bayar.</p>
   <ul>
     <li><span class="ruby-word"><ruby>払う<rt>はらう</rt></ruby></span> - membayar</li>
     <li><span class="ruby-word"><ruby>支払い<rt>しはらい</rt></ruby></span> - pembayaran</li>
@@ -169,7 +177,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <span>値段</span>
 </div>
 
-Hubungan kata hari ini bisa dibaca sebagai alur: iklan -> manfaat -> diskon/perbandingan -> harga -> pembayaran. Dengan membaca hubungan ini, kamu tidak perlu menerjemahkan kata satu per satu; cukup tentukan apakah kata itu menunjukkan benda, status, tindakan, jumlah, orang, atau informasi tambahan.
+Peta kata hari ini mengikuti isi email promosi: 広告 memberi konteks iklan, 便利 dan 利用 menjelaskan manfaat, 割引 dan 倍 berhubungan dengan diskon atau perbandingan, 値段 dan 商品 menunjuk harga serta barang, lalu 支払い menutupnya dengan pembayaran.
 
 ## Catatan Pemakaian
 
@@ -211,11 +219,16 @@ Hubungan kata hari ini bisa dibaca sebagai alur: iklan -> manfaat -> diskon/perb
 
 ## Hal yang Mudah Tertukar
 
-Jangan memilih bacaan dari satu kanji secara terpisah. Untuk kata majemuk seperti 広告 atau 便利, baca seluruh kata dulu, lalu cocokkan dengan konteks: apakah sedang membahas barang, formulir, kesehatan, berita, atau pengumuman. Jika kata berada dekat angka, biasanya fungsinya berbeda dari kata yang berada dekat nama tempat atau tindakan.
+| Pasangan | Cara membedakan |
+|---|---|
+| 広告 / 報告 | 広告 adalah iklan. 報告 adalah laporan atau pemberitahuan hasil. |
+| 割引 / 割合 | 割引 berarti diskon. 割合 berarti rasio atau proporsi. |
+| 値段 / 商品 | 値段 adalah harga. 商品 adalah barang yang dijual. |
+| 支店 / 支払い | 支店 menunjuk cabang toko. 支払い menunjuk tindakan atau metode pembayaran. |
 
 ## Kesalahan Umum
 
-Kesalahan yang sering terjadi adalah memaksa kunyomi ke semua kata majemuk. Strateginya: lihat apakah kata terdiri dari dua kanji atau lebih; kalau ya, coba baca sebagai satu blok dengan onyomi lebih dulu, lalu cek apakah ada okurigana seperti る, す, atau い yang menandakan bacaan kunyomi.
+Saat membaca promosi, jangan langsung memilih arti “membagi” untuk 割. Jika muncul dalam 割引, yang dimaksud adalah potongan harga. Cari kata harga, barang, atau pembayaran di sekitarnya untuk memastikan.
 
 ## Mini Practice
 

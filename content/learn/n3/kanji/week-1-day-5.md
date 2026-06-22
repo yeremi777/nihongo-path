@@ -46,6 +46,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>指定<rt>してい</rt></ruby></span> - penetapan, reservasi</li>
     <li><span class="ruby-word"><ruby>指<rt>ゆび</rt></ruby></span> - jari</li>
+    <li><span class="ruby-word"><ruby>指定席<rt>していせき</rt></ruby></span> - kursi reservasi</li>
+    <li><span class="ruby-word"><ruby>指輪<rt>ゆびわ</rt></ruby></span> - jari, menunjuk</li>
   </ul>
 </details>
 
@@ -59,8 +61,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>定 memberi rasa tetap atau sudah diputuskan. Bersama 指, kanji ini membuat 指定 terasa seperti “sudah ditetapkan”.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>指定<rt>してい</rt></ruby></span> - ditentukan</li>
-    <li><span class="ruby-word"><ruby>定期<rt>ていき</rt></ruby></span> - berkala / periodik</li>
+    <li><span class="ruby-word"><ruby>定休日<rt>ていきゅうび</rt></ruby></span> - memutuskan, menetapkan</li>
+    <li><span class="ruby-word"><ruby>安定<rt>あんてい</rt></ruby></span> - memutuskan, menetapkan</li>
+    <li><span class="ruby-word"><ruby>指定席<rt>していせき</rt></ruby></span> - kursi reservasi</li>
+    <li><span class="ruby-word"><ruby>指定<rt>してい</rt></ruby></span> - penetapan, reservasi</li>
   </ul>
 </details>
 
@@ -74,6 +78,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>席 adalah kanji inti untuk kursi. Saat membaca tiket, cari kanji ini untuk memahami jenis tempat duduk.</p>
   <ul>
+    <li><span class="ruby-word"><ruby>席<rt>せき</rt></ruby></span> - kursi, tempat duduk</li>
+    <li><span class="ruby-word"><ruby>出席<rt>しゅっせき</rt></ruby></span> - kursi, tempat duduk</li>
+    <li><span class="ruby-word"><ruby>欠席<rt>けっせき</rt></ruby></span> - absen</li>
     <li><span class="ruby-word"><ruby>指定席<rt>していせき</rt></ruby></span> - kursi reservasi</li>
     <li><span class="ruby-word"><ruby>自由席<rt>じゆうせき</rt></ruby></span> - kursi bebas</li>
   </ul>
@@ -89,8 +96,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>由 muncul dalam 自由 untuk rasa bebas. Dalam 自由席, bebas berarti bebas memilih kursi kosong, bukan pasti mendapat kursi.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>自由<rt>じゆう</rt></ruby></span> - bebas</li>
+    <li><span class="ruby-word"><ruby>自由な<rt>じゆう</rt></ruby></span> - bebas</li>
     <li><span class="ruby-word"><ruby>理由<rt>りゆう</rt></ruby></span> - alasan</li>
+    <li><span class="ruby-word"><ruby>自由席<rt>じゆうせき</rt></ruby></span> - kursi bebas</li>
+    <li><span class="ruby-word"><ruby>自由<rt>じゆう</rt></ruby></span> - bebas</li>
   </ul>
 </details>
 
@@ -105,7 +114,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>番 membantu membaca nomor urut. Pada tiket, kanji ini sering muncul untuk nomor kursi, loket, atau urutan.</p>
   <ul>
     <li><span class="ruby-word"><ruby>番号<rt>ばんごう</rt></ruby></span> - nomor</li>
-    <li><span class="ruby-word"><ruby>一番<rt>いちばん</rt></ruby></span> - nomor satu</li>
+    <li><span class="ruby-word"><ruby>〜番線<rt>〜ばんせん</rt></ruby></span> - pola kata untuk garis</li>
+    <li><span class="ruby-word"><ruby>〜番<rt>〜ばん</rt></ruby></span> - pola kata untuk nomor</li>
   </ul>
 </details>
 
@@ -121,6 +131,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>窓<rt>まど</rt></ruby></span> - jendela</li>
     <li><span class="ruby-word"><ruby>窓口<rt>まどぐち</rt></ruby></span> - loket</li>
+    <li><span class="ruby-word"><ruby>窓側<rt>まどがわ</rt></ruby></span> - sisi jendela</li>
   </ul>
 </details>
 
@@ -134,8 +145,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>側 menentukan sisi. Dalam reservasi kursi, kanji ini membantu membedakan posisi jendela dan lorong.</p>
   <ul>
+    <li><span class="ruby-word"><ruby>両側<rt>りょうがわ</rt></ruby></span> - sisi, samping</li>
     <li><span class="ruby-word"><ruby>窓側<rt>まどがわ</rt></ruby></span> - sisi jendela</li>
-    <li><span class="ruby-word"><ruby>通路側<rt>つうろがわ</rt></ruby></span> - sisi lorong</li>
+    <li><span class="ruby-word"><ruby>右側<rt>みぎがわ</rt></ruby></span> - sisi, samping</li>
+    <li><span class="ruby-word"><ruby>通路側<rt>つうろがわ</rt></ruby></span> - sisi, samping</li>
   </ul>
 </details>
 
@@ -150,7 +163,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>路 berarti jalan atau jalur. Dalam gerbong, 通路 adalah lorong tempat orang lewat.</p>
   <ul>
     <li><span class="ruby-word"><ruby>通路<rt>つうろ</rt></ruby></span> - lorong</li>
+    <li><span class="ruby-word"><ruby>線路<rt>せんろ</rt></ruby></span> - jalan, jalur</li>
     <li><span class="ruby-word"><ruby>道路<rt>どうろ</rt></ruby></span> - jalan raya</li>
+    <li><span class="ruby-word"><ruby>通路側<rt>つうろがわ</rt></ruby></span> - jalan, jalur</li>
   </ul>
 </details>
 </div>
@@ -201,7 +216,7 @@ Kata-kata hari ini sering muncul pada layar mesin tiket di 駅 dan tiket cetak. 
 
 ## Hal yang Mudah Tertukar
 
-| Pasangan | Bedanya |
+| Pasangan | Cara membedakan |
 |---|---|
 | 指定席 / 自由席 | Lihat aturan duduknya: 指定席 sudah ditentukan, 自由席 hanya bebas memilih jika masih ada kursi kosong. |
 | 窓口 / 窓側 | Lihat kanji kedua: 口 menunjuk loket/tempat layanan, 側 menunjuk sisi. |

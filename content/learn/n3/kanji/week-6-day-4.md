@@ -1,6 +1,6 @@
 ---
 title: "経済"
-description: "Belajar kanji N3 yang sering muncul di berita ekonomi, perdagangan, ekspor-impor, pertumbuhan, pengalaman perusahaan, dan hubungan antarnegara."
+description: "Belajar kanji N3 yang sering muncul di artikel ekonomi, perdagangan, ekspor-impor, pertumbuhan, pengalaman perusahaan, dan hubungan antarnegara."
 level: "N3"
 category: "kanji"
 topic: "経済"
@@ -21,9 +21,9 @@ tags:
 
 ## Tujuan
 
-Mengenali kanji N3 yang sering muncul di berita ekonomi, perdagangan, ekspor-impor, pertumbuhan, pengalaman perusahaan, dan hubungan antarnegara: 戦、経、済、成、貿、易、輸、相。
+Mengenali kanji N3 yang sering muncul di berita ekonomi dan perdagangan: 戦, 経, 済, 成, 貿, 易, 輸, dan 相.
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 戦後、戦う、経済、経験、経済、済む di berita ekonomi, perdagangan, ekspor-impor, pertumbuhan, pengalaman perusahaan, dan hubungan antarnegara. Fokus hari ini bukan menghafal semua bacaan sekaligus, tetapi mengenali kata yang paling mungkin muncul dalam konteks tersebut.
+Di akhir pelajaran ini, kamu bisa membaca kata berita seperti 戦後, 経済, 経験, 成長, 貿易, 輸出, 輸入, 相談, dan 首相. Fokuskan pada apakah teks sedang membahas latar sejarah, kondisi ekonomi, perdagangan, atau pihak yang saling berhubungan.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> kelompokkan kata berita: kondisi ekonomi, perdagangan, pengiriman, dan pihak yang saling berhubungan.
@@ -42,9 +42,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: セン</span><span>kunyomi: たたかう</span></span>
     </span>
   </summary>
-  <p>Dalam berita ekonomi dan perdagangan, 戦 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>戦 sering muncul dalam latar sejarah atau persaingan. Dalam 戦後, bacalah sebagai penanda waktu setelah perang.</p>
   <ul>
     <li><span class="ruby-word"><ruby>戦後<rt>せんご</rt></ruby></span> - setelah perang</li>
+    <li><span class="ruby-word"><ruby>戦争<rt>せんそう</rt></ruby></span> - berperang, pertempuran</li>
     <li><span class="ruby-word"><ruby>戦う<rt>たたかう</rt></ruby></span> - bertarung</li>
   </ul>
 </details>
@@ -57,10 +58,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ケイ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-  <p>Dalam berita ekonomi dan perdagangan, 経 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>経 muncul pada kata ekonomi dan pengalaman. Dalam 経済, kanji ini menjadi bagian tetap dari kata “ekonomi”.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>経済<rt>けいざい</rt></ruby></span> - ekonomi</li>
     <li><span class="ruby-word"><ruby>経験<rt>けいけん</rt></ruby></span> - pengalaman</li>
+    <li><span class="ruby-word"><ruby>経営<rt>けいえい</rt></ruby></span> - melewati, mengelola</li>
+    <li><span class="ruby-word"><ruby>経済<rt>けいざい</rt></ruby></span> - ekonomi</li>
   </ul>
 </details>
 
@@ -72,7 +74,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: サイ</span><span>kunyomi: すむ</span></span>
     </span>
   </summary>
-  <p>Dalam berita ekonomi dan perdagangan, 済 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>済 bisa berarti selesai, tetapi dalam 経済 artinya tidak dibaca sendiri. Selalu cek kata utuh sebelum menerjemahkan.</p>
   <ul>
     <li><span class="ruby-word"><ruby>経済<rt>けいざい</rt></ruby></span> - ekonomi</li>
     <li><span class="ruby-word"><ruby>済む<rt>すむ</rt></ruby></span> - selesai</li>
@@ -87,7 +89,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: セイ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-  <p>Dalam berita ekonomi dan perdagangan, 成 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>成 memberi rasa menjadi atau selesai terbentuk. Dalam berita, 成長 sering dipakai untuk pertumbuhan ekonomi atau perusahaan.</p>
   <ul>
     <li><span class="ruby-word"><ruby>成長<rt>せいちょう</rt></ruby></span> - pertumbuhan</li>
     <li><span class="ruby-word"><ruby>完成<rt>かんせい</rt></ruby></span> - selesai lengkap</li>
@@ -102,10 +104,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ボウ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-  <p>Dalam berita ekonomi dan perdagangan, 貿 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>貿 hampir selalu muncul bersama 易 dalam 貿易. Anggap pasangan ini sebagai satu kata untuk perdagangan internasional.</p>
   <ul>
     <li><span class="ruby-word"><ruby>貿易<rt>ぼうえき</rt></ruby></span> - perdagangan internasional</li>
-    <li><span class="ruby-word"><ruby>貿易会社<rt>ぼうえきがいしゃ</rt></ruby></span> - perusahaan dagang</li>
+    <li><span class="ruby-word"><ruby>貿易会社<rt>ぼうえきかいしゃ</rt></ruby></span> - perdagangan, niaga</li>
   </ul>
 </details>
 
@@ -117,10 +119,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: エキ</span><span>kunyomi: やさしい</span></span>
     </span>
   </summary>
-  <p>Dalam berita ekonomi dan perdagangan, 易 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>易 bisa berarti mudah dalam 易しい, tetapi dalam 貿易 bacanya えき dan berhubungan dengan perdagangan.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>貿易<rt>ぼうえき</rt></ruby></span> - perdagangan</li>
+    <li><span class="ruby-word"><ruby>貿易<rt>ぼうえき</rt></ruby></span> - perdagangan internasional</li>
     <li><span class="ruby-word"><ruby>易しい<rt>やさしい</rt></ruby></span> - mudah</li>
+    <li><span class="ruby-word"><ruby>貿易会社<rt>ぼうえきかいしゃ</rt></ruby></span> - mudah, perdagangan</li>
   </ul>
 </details>
 
@@ -132,10 +135,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ユ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-  <p>Dalam berita ekonomi dan perdagangan, 輸 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>輸 menandai arus barang antarnegara. 輸出 dan 輸入 adalah pasangan penting untuk ekspor dan impor.</p>
   <ul>
     <li><span class="ruby-word"><ruby>輸出<rt>ゆしゅつ</rt></ruby></span> - ekspor</li>
     <li><span class="ruby-word"><ruby>輸入<rt>ゆにゅう</rt></ruby></span> - impor</li>
+    <li><span class="ruby-word"><ruby>輸送<rt>ゆそう</rt></ruby></span> - mengangkut, mengekspor</li>
   </ul>
 </details>
 
@@ -147,10 +151,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ソウ, ショウ</span><span>kunyomi: あい</span></span>
     </span>
   </summary>
-  <p>Dalam berita ekonomi dan perdagangan, 相 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>相 memberi rasa saling, lawan bicara, atau jabatan tertentu. Dalam berita, 首相 berarti perdana menteri.</p>
   <ul>
     <li><span class="ruby-word"><ruby>相談<rt>そうだん</rt></ruby></span> - konsultasi</li>
     <li><span class="ruby-word"><ruby>首相<rt>しゅしょう</rt></ruby></span> - perdana menteri</li>
+    <li><span class="ruby-word"><ruby>相手<rt>あいて</rt></ruby></span> - saling, penampilan</li>
   </ul>
 </details>
 </div>
@@ -169,7 +174,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <span>貿易</span>
 </div>
 
-Hubungan kata hari ini bisa dibaca sebagai alur: perang/sejarah -> ekonomi/manajemen -> pertumbuhan -> perdagangan/transport -> hubungan. Dengan membaca hubungan ini, kamu tidak perlu menerjemahkan kata satu per satu; cukup tentukan apakah kata itu menunjukkan benda, status, tindakan, jumlah, orang, atau informasi tambahan.
+Hubungan kata hari ini bisa dibaca dari latar ke isi berita: 戦後 memberi latar waktu, 経済 dan 成長 menjelaskan kondisi, 貿易 serta 輸出/輸入 menjelaskan arus barang, sedangkan 相談 dan 首相 menunjuk komunikasi atau pelaku dalam berita.
 
 ## Catatan Pemakaian
 
@@ -192,7 +197,7 @@ Hubungan kata hari ini bisa dibaca sebagai alur: perang/sejarah -> ekonomi/manaj
 ### Hubungan
 
 - 相談 berarti konsultasi.
-- 易しい berarti mudah—bedakan konteks ekonomi formal.
+- 易しい berarti mudah. Dalam teks ekonomi, bedakan dari 貿易 yang berarti perdagangan internasional.
 
 ## Contoh Kalimat
 
@@ -213,11 +218,16 @@ Hubungan kata hari ini bisa dibaca sebagai alur: perang/sejarah -> ekonomi/manaj
 
 ## Hal yang Mudah Tertukar
 
-Jangan memilih bacaan dari satu kanji secara terpisah. Untuk kata majemuk seperti 戦後 atau 経済, baca seluruh kata dulu, lalu cocokkan dengan konteks: apakah sedang membahas barang, formulir, kesehatan, berita, atau pengumuman. Jika kata berada dekat angka, biasanya fungsinya berbeda dari kata yang berada dekat nama tempat atau tindakan.
+| Pasangan | Cara membedakan |
+|---|---|
+| 経済 / 経験 | 経済 membahas ekonomi. 経験 membahas pengalaman seseorang atau perusahaan. |
+| 成長 / 完成 | 成長 adalah proses tumbuh. 完成 berarti sesuatu sudah selesai dibuat. |
+| 輸出 / 輸入 | 出 memberi petunjuk keluar negeri, 入 memberi petunjuk masuk dari luar negeri. |
+| 貿易 / 易しい | 貿易 adalah kata majemuk perdagangan. 易しい punya okurigana しい dan berarti mudah. |
 
 ## Kesalahan Umum
 
-Kesalahan yang sering terjadi adalah memaksa kunyomi ke semua kata majemuk. Strateginya: lihat apakah kata terdiri dari dua kanji atau lebih; kalau ya, coba baca sebagai satu blok dengan onyomi lebih dulu, lalu cek apakah ada okurigana seperti る, す, atau い yang menandakan bacaan kunyomi.
+Jangan menerjemahkan 経済 sebagai gabungan “mengelola + selesai”. Kata ini sudah menjadi satu istilah: ekonomi. Untuk berita, baca kata majemuk umum sebagai satu blok dulu, baru lihat apakah ada okurigana seperti pada 戦う atau 済む.
 
 ## Mini Practice
 

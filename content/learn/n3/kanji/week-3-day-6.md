@@ -23,7 +23,7 @@ tags:
 
 Mengenali delapan kanji N3 yang sering muncul saat memakai ponsel: 接, 続, 示, 戻, 完, 了, 登, dan 録.
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 接続, 表示, 戻る, 完了, 了解, 登録, 記録, 録音, dan 録画 pada layar ponsel atau formulir digital.
+Di akhir pelajaran ini, kamu bisa membaca kata seperti 接続, 表示, 戻る, 完了, 了解, 登録, 記録, 録音, dan 録画 pada layar ponsel atau formulir digital.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> baca layar ponsel sebagai alur tindakan: sambungkan, tampilkan, kembali, selesai, lalu daftar/simpan.
@@ -107,6 +107,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>完 menandai sesuatu yang lengkap/selesai. Dalam 完了, proses sudah berakhir.</p>
   <ul>
     <li><span class="ruby-word"><ruby>完了<rt>かんりょう</rt></ruby></span> - selesai</li>
+    <li><span class="ruby-word"><ruby>完全(な)<rt>かんぜん</rt></ruby></span> - sempurna, lengkap</li>
     <li><span class="ruby-word"><ruby>完全<rt>かんぜん</rt></ruby></span> - sempurna, lengkap</li>
   </ul>
 </details>
@@ -156,6 +157,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>記録<rt>きろく</rt></ruby></span> - catatan, rekor</li>
     <li><span class="ruby-word"><ruby>録音<rt>ろくおん</rt></ruby></span> - rekaman suara</li>
     <li><span class="ruby-word"><ruby>録画<rt>ろくが</rt></ruby></span> - rekaman video</li>
+    <li><span class="ruby-word"><ruby>登録<rt>とうろく</rt></ruby></span> - pendaftaran</li>
   </ul>
 </details>
 </div>
@@ -219,7 +221,7 @@ Kata-kata hari ini sangat sering muncul pada UI. 接続 menunjukkan koneksi, 表
 
 ## Hal yang Mudah Tertukar
 
-| Pasangan | Bedanya |
+| Pasangan | Cara membedakan |
 |---|---|
 | 接続 / 続ける | 接続 adalah menyambungkan koneksi. 続ける berarti melanjutkan tindakan. |
 | 表示 / 指示 | 表示 adalah sesuatu yang tampil di layar. 指示 adalah arahan/instruksi. |

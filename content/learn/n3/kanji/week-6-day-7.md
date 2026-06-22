@@ -23,7 +23,7 @@ tags:
 
 Mengenali delapan kanji tambahan N3 dari minggu keenam: 亡, 忙, 忘, 祭, 労, 加, 情, dan 反.
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 死亡, 忙しい, 忘れ物, 文化祭, 参加, 情報, dan 反対 dalam 記事 berita singkat, pengumuman sekolah, dan percakapan sehari-hari.
+Di akhir pelajaran ini, kamu bisa membaca kata seperti 死亡, 忙しい, 忘れ物, 文化祭, 参加, 情報, dan 反対 dalam berita singkat, pengumuman sekolah, dan percakapan sehari-hari.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> perhatikan bentuk mirip 亡, 忙, dan 忘. Maknanya berbeda: hilang/meninggal, sibuk, lalu lupa.
@@ -59,8 +59,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>忙 menandai kesibukan. Sering muncul dalam percakapan kerja dan alasan tidak sempat melakukan sesuatu.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>多忙<rt>たぼう</rt></ruby></span> - sangat sibuk</li>
+    <li><span class="ruby-word"><ruby>多忙(な)<rt>たぼう</rt></ruby></span> - sangat sibuk</li>
     <li><span class="ruby-word"><ruby>忙しい<rt>いそがしい</rt></ruby></span> - sibuk</li>
+    <li><span class="ruby-word"><ruby>多忙<rt>たぼう</rt></ruby></span> - sangat sibuk</li>
   </ul>
 </details>
 
@@ -91,7 +92,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>祭 berkaitan dengan festival atau perayaan. 文化祭 sering muncul pada pengumuman sekolah.</p>
   <ul>
     <li><span class="ruby-word"><ruby>文化祭<rt>ぶんかさい</rt></ruby></span> - festival budaya sekolah</li>
-    <li><span class="ruby-word"><ruby>お祭り<rt>おまつり</rt></ruby></span> - festival</li>
+    <li><span class="ruby-word"><ruby>(お)祭り<rt>おまつり</rt></ruby></span> - festival</li>
   </ul>
 </details>
 
@@ -120,7 +121,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>加 bisa berarti menambahkan atau ikut serta. 参加 adalah kata penting untuk acara dan kegiatan.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>参加<rt>さんか</rt></ruby></span> - partisipasi</li>
+    <li><span class="ruby-word"><ruby>参加<rt>さんか</rt></ruby></span> - ikut serta</li>
     <li><span class="ruby-word"><ruby>増加<rt>ぞうか</rt></ruby></span> - peningkatan</li>
     <li><span class="ruby-word"><ruby>加える<rt>くわえる</rt></ruby></span> - menambahkan</li>
   </ul>
@@ -138,6 +139,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>情報<rt>じょうほう</rt></ruby></span> - informasi</li>
     <li><span class="ruby-word"><ruby>表情<rt>ひょうじょう</rt></ruby></span> - ekspresi wajah</li>
+    <li><span class="ruby-word"><ruby>事情<rt>じじょう</rt></ruby></span> - perasaan, emosi</li>
     <li><span class="ruby-word"><ruby>感情<rt>かんじょう</rt></ruby></span> - perasaan</li>
   </ul>
 </details>
@@ -152,8 +154,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>反 menandai lawan, penentangan, atau reaksi. Sering muncul dalam diskusi pendapat dan berita.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>反対<rt>はんたい</rt></ruby></span> - menentang, berlawanan</li>
-    <li><span class="ruby-word"><ruby>反応<rt>はんのう</rt></ruby></span> - reaksi</li>
+    <li><span class="ruby-word"><ruby>反対<rt>はんたい</rt></ruby></span> - berlawanan</li>
+    <li><span class="ruby-word"><ruby>反応<rt>はんのう</rt></ruby></span> - anti-, berlawanan</li>
   </ul>
 </details>
 </div>
@@ -219,7 +221,7 @@ Kata-kata hari ini bisa dibaca sebagai alur: kehilangan atau kesibukan → lupa 
 
 ## Hal yang Mudah Tertukar
 
-| Pasangan | Bedanya |
+| Pasangan | Cara membedakan |
 |---|---|
 | 亡 / 忙 / 忘 | 亡 berkaitan dengan hilang atau meninggal. 忙 berarti sibuk. 忘 berarti lupa. |
 | 祭 / 祝 | 祭 berarti festival. 祝 berarti merayakan; keduanya bisa muncul pada acara, tetapi nuansanya berbeda. |

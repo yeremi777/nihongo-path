@@ -23,7 +23,7 @@ tags:
 
 Mengenali delapan kanji N3 yang sering muncul pada papan larangan dan informasi pelanggan: 煙, 当, 全, 客, 様, 解, 協, dan 願.
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 禁煙, 全席, お客様, 理解, 協力, dan お願いします pada papan restoran atau fasilitas umum.
+Di akhir pelajaran ini, kamu bisa membaca kata seperti 禁煙, 全席, お客様, 理解, 協力, dan お願いします pada papan restoran atau fasilitas umum.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> perhatikan siapa yang dibicarakan: area/aturan, pelanggan, lalu permintaan kerja sama.
@@ -61,7 +61,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>本当<rt>ほんとう</rt></ruby></span> - benar</li>
     <li><span class="ruby-word"><ruby>当たる<rt>あたる</rt></ruby></span> - kena, tepat</li>
-    <li><span class="ruby-word"><ruby>当店<rt>とうてん</rt></ruby></span> - toko/restoran ini</li>
+    <li><span class="ruby-word"><ruby>当〇〇<rt>とう〇〇</rt></ruby></span> - pola kata untuk mengenai</li>
+    <li><span class="ruby-word"><ruby>当たり前<rt>あたりまえ</rt></ruby></span> - mengenai, benar</li>
+    <li><span class="ruby-word"><ruby>当店<rt>とうてん</rt></ruby></span> - mengenai, benar</li>
   </ul>
 </details>
 
@@ -77,6 +79,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>全部<rt>ぜんぶ</rt></ruby></span> - semua</li>
     <li><span class="ruby-word"><ruby>全席<rt>ぜんせき</rt></ruby></span> - semua kursi</li>
+    <li><span class="ruby-word"><ruby>安全な<rt>あんぜん</rt></ruby></span> - aman</li>
     <li><span class="ruby-word"><ruby>安全<rt>あんぜん</rt></ruby></span> - aman</li>
   </ul>
 </details>
@@ -107,6 +110,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>様 bisa menjadi akhiran hormat atau berarti keadaan. Bedakan dari konteks kata setelah atau sebelumnya.</p>
   <ul>
     <li><span class="ruby-word"><ruby>様子<rt>ようす</rt></ruby></span> - keadaan, situasi</li>
+    <li><span class="ruby-word"><ruby>〇〇様<rt>〇〇よう</rt></ruby></span> - pola kata untuk cara</li>
     <li><span class="ruby-word"><ruby>お客様<rt>おきゃくさま</rt></ruby></span> - pelanggan, tamu terhormat</li>
   </ul>
 </details>
@@ -124,6 +128,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>理解<rt>りかい</rt></ruby></span> - pemahaman</li>
     <li><span class="ruby-word"><ruby>解説<rt>かいせつ</rt></ruby></span> - penjelasan</li>
     <li><span class="ruby-word"><ruby>解答<rt>かいとう</rt></ruby></span> - jawaban</li>
+    <li><span class="ruby-word"><ruby>分解<rt>ぶんかい</rt></ruby></span> - memahami, memecahkan</li>
   </ul>
 </details>
 
@@ -138,7 +143,6 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>協 memberi rasa bekerja bersama. Dalam pengumuman, 協力 hampir selalu berarti kerja sama yang diminta.</p>
   <ul>
     <li><span class="ruby-word"><ruby>協力<rt>きょうりょく</rt></ruby></span> - kerja sama</li>
-    <li><span class="ruby-word"><ruby>協会<rt>きょうかい</rt></ruby></span> - asosiasi</li>
   </ul>
 </details>
 
@@ -153,7 +157,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>願 dipakai untuk permintaan dan harapan. Dalam pengumuman sopan, お願いします sangat sering muncul.</p>
   <ul>
     <li><span class="ruby-word"><ruby>願う<rt>ねがう</rt></ruby></span> - berharap, memohon</li>
-    <li><span class="ruby-word"><ruby>お願い<rt>おねがい</rt></ruby></span> - permintaan, mohon</li>
+    <li><span class="ruby-word"><ruby>お願い<rt>おねがい</rt></ruby></span> - berharap, memohon</li>
   </ul>
 </details>
 </div>
@@ -215,7 +219,7 @@ Kata-kata hari ini sering muncul sebagai pengumuman sopan. 禁煙 dan 全席 men
 
 ## Hal yang Mudah Tertukar
 
-| Pasangan | Bedanya |
+| Pasangan | Cara membedakan |
 |---|---|
 | 客 / 様 | 客 berarti tamu atau pelanggan. 様 adalah akhiran hormat; dalam お客様 keduanya membentuk sapaan sopan. |
 | 全 / 安 | 全 berarti seluruh/semua. 安 berarti aman atau murah; dalam 安全, urutannya 安 + 全 membentuk “aman”. |

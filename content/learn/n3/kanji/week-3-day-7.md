@@ -1,6 +1,6 @@
 ---
 title: "クイズ③"
-description: "Belajar kanji tambahan N3 dari minggu ketiga yang sering muncul pada pendidikan, jenis, pekerjaan profesional, keluarga, hewan, dan bahan."
+description: "Belajar kanji tambahan N3 yang sering muncul di dokumen sekolah, daftar jenis, profesi, keluarga, hewan, dan bahan sehari-hari."
 level: "N3"
 category: "kanji"
 topic: "クイズ③"
@@ -23,10 +23,10 @@ tags:
 
 Mengenali tujuh kanji tambahan N3 dari minggu ketiga: 育, 種, 類, 師, 妻, 馬, dan 石.
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 教育, 種類, 書類, 教師, 医師, 妻, 馬, 石けん, dan 石油 dalam bacaan umum.
+Di akhir pelajaran ini, kamu bisa membaca kata seperti 教育, 種類, 書類, 教師, 医師, 妻, 馬, 石けん, dan 石油 dalam dokumen, pengumuman sekolah, profil profesi, atau bacaan sehari-hari.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> anggap hari ini sebagai penguat bacaan umum. Cari pola kata: pendidikan, klasifikasi, profesi, keluarga, dan benda alam.
+  <strong>Fokus hari ini:</strong> anggap hari ini sebagai penguat bacaan lintas topik. Cari pola kata: pendidikan, klasifikasi, profesi, keluarga, hewan, dan bahan.
 </div>
 
 ## Daftar Kanji
@@ -78,6 +78,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>書類<rt>しょるい</rt></ruby></span> - dokumen</li>
     <li><span class="ruby-word"><ruby>分類<rt>ぶんるい</rt></ruby></span> - klasifikasi</li>
     <li><span class="ruby-word"><ruby>人類<rt>じんるい</rt></ruby></span> - umat manusia</li>
+    <li><span class="ruby-word"><ruby>種類<rt>しゅるい</rt></ruby></span> - jenis</li>
   </ul>
 </details>
 
@@ -107,8 +108,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>妻 berarti istri. Dalam 夫妻, kanji ini muncul bersama 夫 untuk pasangan suami-istri.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>妻<rt>つま</rt></ruby></span> - istri</li>
     <li><span class="ruby-word"><ruby>夫妻<rt>ふさい</rt></ruby></span> - suami istri</li>
+    <li><span class="ruby-word"><ruby>妻<rt>つま</rt></ruby></span> - istri</li>
   </ul>
 </details>
 
@@ -120,7 +121,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: バ</span><span>kunyomi: うま</span></span>
     </span>
   </summary>
-    <p>馬 muncul pada topik hewan dan transportasi berkuda. Saat melihat 乗馬, fokus pada kegiatan naik atau menunggang kuda.</p>
+  <p>馬 muncul pada topik hewan dan transportasi berkuda. Saat melihat 乗馬, fokus pada kegiatan naik atau menunggang kuda.</p>
   <ul>
     <li><span class="ruby-word"><ruby>馬<rt>うま</rt></ruby></span> - kuda</li>
     <li><span class="ruby-word"><ruby>乗馬<rt>じょうば</rt></ruby></span> - berkuda</li>
@@ -137,9 +138,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>石 berarti batu, tetapi juga muncul dalam kata bahan seperti 石油 dan 石けん.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>石<rt>いし</rt></ruby></span> - batu</li>
-    <li><span class="ruby-word"><ruby>石油<rt>せきゆ</rt></ruby></span> - minyak bumi</li>
     <li><span class="ruby-word"><ruby>石けん<rt>せっけん</rt></ruby></span> - sabun</li>
+    <li><span class="ruby-word"><ruby>石油<rt>せきゆ</rt></ruby></span> - minyak bumi</li>
+    <li><span class="ruby-word"><ruby>石<rt>いし</rt></ruby></span> - batu</li>
   </ul>
 </details>
 </div>
@@ -204,7 +205,7 @@ Kata-kata hari ini tersebar di beberapa konteks umum. 育 berkaitan dengan mendi
 
 ## Hal yang Mudah Tertukar
 
-| Pasangan | Bedanya |
+| Pasangan | Cara membedakan |
 |---|---|
 | 種 / 類 | 種 bisa berarti jenis atau biji. 類 lebih kuat sebagai kategori/kelompok; dalam 種類 keduanya membentuk “jenis”. |
 | 教師 / 教授 | 教師 adalah guru. 教授 adalah profesor atau tindakan mengajar tingkat tinggi. |

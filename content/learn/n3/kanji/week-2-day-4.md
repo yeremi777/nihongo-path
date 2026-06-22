@@ -23,7 +23,7 @@ tags:
 
 Mengenali delapan kanji N3 yang sering muncul pada peta kota: 役, 郵, 局, 交, 差, 点, 橋, dan 公.
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 市役所, 郵便局, 交番, 交差点, 歩道橋, dan 公園 saat mencari arah di kota.
+Di akhir pelajaran ini, kamu bisa membaca kata seperti 市役所, 郵便局, 交番, 交差点, 歩道橋, dan 公園 saat mencari arah di kota.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> baca peta kota dengan tiga kelompok: kantor layanan, titik jalan, dan fasilitas umum.
@@ -91,8 +91,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>交 memberi rasa pertemuan atau pertukaran. Pada peta, sering berkaitan dengan jalan dan pos polisi.</p>
   <ul>
     <li><span class="ruby-word"><ruby>交番<rt>こうばん</rt></ruby></span> - pos polisi</li>
-    <li><span class="ruby-word"><ruby>交通<rt>こうつう</rt></ruby></span> - lalu lintas</li>
     <li><span class="ruby-word"><ruby>交換<rt>こうかん</rt></ruby></span> - pertukaran</li>
+    <li><span class="ruby-word"><ruby>交通<rt>こうつう</rt></ruby></span> - lalu lintas</li>
+    <li><span class="ruby-word"><ruby>交差点<rt>こうさてん</rt></ruby></span> - persimpangan</li>
   </ul>
 </details>
 
@@ -109,6 +110,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>差<rt>さ</rt></ruby></span> - perbedaan</li>
     <li><span class="ruby-word"><ruby>差し出す<rt>さしだす</rt></ruby></span> - mengulurkan</li>
     <li><span class="ruby-word"><ruby>差出人<rt>さしだしにん</rt></ruby></span> - pengirim</li>
+    <li><span class="ruby-word"><ruby>交差点<rt>こうさてん</rt></ruby></span> - persimpangan</li>
   </ul>
 </details>
 
@@ -123,8 +125,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>点 menandai titik atau poin. Dalam 交差点, artinya titik pertemuan jalan.</p>
   <ul>
     <li><span class="ruby-word"><ruby>交差点<rt>こうさてん</rt></ruby></span> - persimpangan</li>
+    <li><span class="ruby-word"><ruby>〜点<rt>〜てん</rt></ruby></span> - pola kata untuk poin</li>
     <li><span class="ruby-word"><ruby>点数<rt>てんすう</rt></ruby></span> - nilai angka</li>
-    <li><span class="ruby-word"><ruby>三点<rt>さんてん</rt></ruby></span> - tiga poin</li>
   </ul>
 </details>
 
@@ -154,7 +156,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>公 memberi rasa umum atau publik. Dalam 公園, artinya taman umum.</p>
   <ul>
     <li><span class="ruby-word"><ruby>公園<rt>こうえん</rt></ruby></span> - taman umum</li>
-    <li><span class="ruby-word"><ruby>公共<rt>こうきょう</rt></ruby></span> - publik, umum</li>
+    <li><span class="ruby-word"><ruby>公共<rt>こうきょう</rt></ruby></span> - publik, resmi</li>
   </ul>
 </details>
 </div>
@@ -218,7 +220,7 @@ Kata-kata hari ini membentuk peta kota yang praktis. 市役所, 郵便局, dan �
 
 ## Hal yang Mudah Tertukar
 
-| Pasangan | Bedanya |
+| Pasangan | Cara membedakan |
 |---|---|
 | 郵便局 / 薬局 | Keduanya memakai 局, tetapi 郵便 menunjuk pos, 薬 menunjuk obat. Lihat dua kanji sebelum 局. |
 | 交番 / 交差点 | 交番 adalah tempat/pos polisi. 交差点 adalah titik jalan; 点 memberi petunjuk titik. |

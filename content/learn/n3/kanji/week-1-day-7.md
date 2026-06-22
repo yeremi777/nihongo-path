@@ -45,6 +45,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>未 memberi rasa “belum”. Gunakan 未定 sebagai jangkar karena sering muncul pada jadwal atau rencana yang belum diputuskan.</p>
   <ul>
     <li><span class="ruby-word"><ruby>未定<rt>みてい</rt></ruby></span> - belum diputuskan</li>
+    <li><span class="ruby-word"><ruby>〜未満<rt>〜みまん</rt></ruby></span> - pola kata untuk belum</li>
     <li><span class="ruby-word"><ruby>未来<rt>みらい</rt></ruby></span> - masa depan</li>
   </ul>
 </details>
@@ -61,6 +62,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>週末<rt>しゅうまつ</rt></ruby></span> - akhir pekan</li>
     <li><span class="ruby-word"><ruby>年末<rt>ねんまつ</rt></ruby></span> - akhir tahun</li>
+    <li><span class="ruby-word"><ruby>月末<rt>げつまつ</rt></ruby></span> - akhir, ujung</li>
   </ul>
 </details>
 
@@ -88,6 +90,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>晩 membantu membaca waktu malam dalam frasa tetap. Biasakan membaca 今晩 dan 毎晩 sebagai satu kata.</p>
   <ul>
+    <li><span class="ruby-word"><ruby>晩<rt>ばん</rt></ruby></span> - malam, petang</li>
+    <li><span class="ruby-word"><ruby>晩ご飯<rt>ばんごはん</rt></ruby></span> - malam, petang</li>
     <li><span class="ruby-word"><ruby>今晩<rt>こんばん</rt></ruby></span> - malam ini</li>
     <li><span class="ruby-word"><ruby>毎晩<rt>まいばん</rt></ruby></span> - setiap malam</li>
   </ul>
@@ -103,8 +107,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>島 berarti pulau dan sering muncul pada nama tempat. Bacaan nama tempat bisa khusus, jadi hafalkan sebagai kata utuh.</p>
   <ul>
+    <li><span class="ruby-word"><ruby>〇〇島<rt>しま</rt></ruby></span> - pulau</li>
     <li><span class="ruby-word"><ruby>島<rt>しま</rt></ruby></span> - pulau</li>
-    <li><span class="ruby-word"><ruby>広島<rt>ひろしま</rt></ruby></span> - Hiroshima</li>
+    <li><span class="ruby-word"><ruby>広島<rt>ひろしま</rt></ruby></span> - pulau</li>
   </ul>
 </details>
 
@@ -133,8 +138,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>血 sering muncul dalam konteks tubuh atau medis dasar. Untuk kata majemuk seperti 出血, bacaan onyomi lebih sering muncul.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>血<rt>ち</rt></ruby></span> - darah</li>
     <li><span class="ruby-word"><ruby>出血<rt>しゅっけつ</rt></ruby></span> - pendarahan</li>
+    <li><span class="ruby-word"><ruby>血<rt>ち</rt></ruby></span> - darah</li>
   </ul>
 </details>
 
@@ -148,8 +153,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>助 adalah kanji penting untuk bantuan. Dalam situasi darurat, 助ける dan 救助 sama-sama berkaitan dengan pertolongan.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>助ける<rt>たすける</rt></ruby></span> - menolong</li>
     <li><span class="ruby-word"><ruby>救助<rt>きゅうじょ</rt></ruby></span> - penyelamatan</li>
+    <li><span class="ruby-word"><ruby>助ける<rt>たすける</rt></ruby></span> - menolong</li>
   </ul>
 </details>
 </div>
@@ -200,7 +205,7 @@ Kata-kata hari ini tidak berasal dari satu tempat seperti parkir atau stasiun. K
 
 ## Hal yang Mudah Tertukar
 
-| Pasangan | Bedanya |
+| Pasangan | Cara membedakan |
 |---|---|
 | 未 / 末 | Gunakan kata jangkar: 未定 untuk “belum”, 週末 untuk “akhir”. Jangan bedakan hanya dari bentuk visual. |
 | 晩 / 夜 | 晩 sering muncul di frasa waktu tetap seperti 今晩, sedangkan 夜 lebih umum untuk konsep malam. |

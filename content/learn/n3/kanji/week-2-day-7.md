@@ -23,7 +23,7 @@ tags:
 
 Mengenali tujuh kanji tambahan N3 dari minggu kedua: 黄, 絵, 組, 束, 授, 渡, dan 昔.
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 黄色, 絵本, 番組, 約束, 授業, 渡る, dan 昔 dalam bacaan pendek sehari-hari.
+Di akhir pelajaran ini, kamu bisa membaca kata seperti 黄色, 絵本, 番組, 約束, 授業, 渡る, dan 昔 dalam bacaan pendek sehari-hari.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> anggap hari ini sebagai penguat kosa kata lintas konteks, bukan latihan soal. Fokus pada kata yang paling sering muncul.
@@ -75,9 +75,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>組 bisa berarti kelompok/kelas atau tindakan menyusun sesuatu.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>三組<rt>さんくみ</rt></ruby></span> - kelas/kelompok 3</li>
+    <li><span class="ruby-word"><ruby>〜組<rt>〜ぐみ</rt></ruby></span> - pola kata untuk kelompok</li>
     <li><span class="ruby-word"><ruby>組む<rt>くむ</rt></ruby></span> - menyusun, bekerja sama</li>
     <li><span class="ruby-word"><ruby>番組<rt>ばんぐみ</rt></ruby></span> - program acara</li>
+    <li><span class="ruby-word"><ruby>組み立てる<rt>くみたてる</rt></ruby></span> - kelompok, menggabungkan</li>
+    <li><span class="ruby-word"><ruby>三組<rt>さんくみ</rt></ruby></span> - kelompok, menggabungkan</li>
   </ul>
 </details>
 
@@ -92,8 +94,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>束 menunjuk sesuatu yang diikat menjadi satu. Dalam 約束, maknanya menjadi janji.</p>
   <ul>
     <li><span class="ruby-word"><ruby>約束<rt>やくそく</rt></ruby></span> - janji</li>
+    <li><span class="ruby-word"><ruby>〜束<rt>〜たば</rt></ruby></span> - pola kata untuk ikat</li>
     <li><span class="ruby-word"><ruby>花束<rt>はなたば</rt></ruby></span> - buket bunga</li>
-    <li><span class="ruby-word"><ruby>一束<rt>ひとたば</rt></ruby></span> - satu ikat</li>
   </ul>
 </details>
 
@@ -138,7 +140,6 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>昔 menunjuk masa lampau yang terasa cukup jauh dari sekarang.</p>
   <ul>
     <li><span class="ruby-word"><ruby>昔<rt>むかし</rt></ruby></span> - dahulu</li>
-    <li><span class="ruby-word"><ruby>昔話<rt>むかしばなし</rt></ruby></span> - cerita zaman dulu</li>
   </ul>
 </details>
 </div>
@@ -200,7 +201,7 @@ Kata-kata hari ini tidak berada pada satu tempat saja, tetapi tetap punya pola. 
 
 ## Hal yang Mudah Tertukar
 
-| Pasangan | Bedanya |
+| Pasangan | Cara membedakan |
 |---|---|
 | 組 / 束 | 組 adalah kelompok atau susunan. 束 adalah ikatan/bundel; dalam 約束 maknanya menjadi janji. |
 | 渡る / 渡す | 渡る berarti subjek menyeberang. 渡す berarti seseorang menyerahkan sesuatu kepada orang lain. |

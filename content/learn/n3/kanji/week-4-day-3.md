@@ -1,6 +1,6 @@
 ---
 title: "通信販売"
-description: "Belajar kanji N3 yang sering muncul di halaman belanja online, katalog produk, pajak, harga, stok, dan ongkos pembelian."
+description: "Belajar kanji N3 yang sering muncul di halaman belanja online, katalog produk, iklan toko, pajak, harga, stok, dan ongkos pembelian."
 level: "N3"
 category: "kanji"
 topic: "通信販売"
@@ -21,9 +21,9 @@ tags:
 
 ## Tujuan
 
-Mengenali kanji N3 yang sering muncul di halaman belanja online, katalog produk, pajak, harga, stok, dan ongkos pembelian: 米、級、残、型、税、込、価、格。
+Mengenali kanji N3 yang sering muncul di halaman belanja online, katalog produk, pajak, harga, stok, dan ongkos pembelian: 米, 級, 残, 型, 税, 込, 価, dan 格.
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 米、米国、高級、中級、残り、残業 di halaman belanja online, katalog produk, pajak, harga, stok, dan ongkos pembelian. Fokus hari ini bukan menghafal semua bacaan sekaligus, tetapi mengenali kata yang paling mungkin muncul dalam konteks tersebut.
+Di akhir pelajaran ini, kamu bisa membaca kata seperti 米国, 高級, 残り, 新型, 消費税, 税込, 価格, dan 格安 di katalog atau halaman belanja. Fokuskan pada petunjuk asal, kelas barang, stok, ukuran/model, pajak, dan harga.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> bedakan harga dasar, pajak, harga termasuk pajak, dan status sisa barang.
@@ -42,10 +42,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ベイ</span><span>kunyomi: こめ</span></span>
     </span>
   </summary>
-  <p>Dalam halaman belanja online dan katalog produk, 米 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>米 bisa berarti beras atau singkatan Amerika. Dalam halaman produk, tentukan dari kata di sekitarnya apakah membahas bahan atau negara.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>米<rt>こめ</rt></ruby></span> - beras</li>
     <li><span class="ruby-word"><ruby>米国<rt>べいこく</rt></ruby></span> - Amerika Serikat</li>
+    <li><span class="ruby-word"><ruby>米<rt>こめ</rt></ruby></span> - beras</li>
   </ul>
 </details>
 
@@ -57,9 +57,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: キュウ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-  <p>Dalam halaman belanja online dan katalog produk, 級 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>級 menandai kelas atau tingkat. Dalam 高級, kanji ini menunjukkan barang kelas tinggi atau premium.</p>
   <ul>
     <li><span class="ruby-word"><ruby>高級<rt>こうきゅう</rt></ruby></span> - kelas tinggi</li>
+    <li><span class="ruby-word"><ruby>上級<rt>じょうきゅう</rt></ruby></span> - kelas, tingkatan</li>
     <li><span class="ruby-word"><ruby>中級<rt>ちゅうきゅう</rt></ruby></span> - tingkat menengah</li>
   </ul>
 </details>
@@ -72,10 +73,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ザン</span><span>kunyomi: のこる, のこす</span></span>
     </span>
   </summary>
-  <p>Dalam halaman belanja online dan katalog produk, 残 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>残 memberi rasa sisa atau tersisa. Pada belanja online, 残り sering memberi petunjuk stok yang masih ada.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>残り<rt>のこり</rt></ruby></span> - sisa</li>
     <li><span class="ruby-word"><ruby>残業<rt>ざんぎょう</rt></ruby></span> - lembur</li>
+    <li><span class="ruby-word"><ruby>残り<rt>のこり</rt></ruby></span> - sisa</li>
+    <li><span class="ruby-word"><ruby>残る<rt>のこる</rt></ruby></span> - sisa, tersisa</li>
+    <li><span class="ruby-word"><ruby>残す<rt>のこす</rt></ruby></span> - sisa, tersisa</li>
   </ul>
 </details>
 
@@ -87,8 +90,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: かた</span></span>
     </span>
   </summary>
-  <p>Dalam halaman belanja online dan katalog produk, 型 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>型 menunjuk tipe, model, atau ukuran. 新型 dan 小型 sering dipakai pada deskripsi produk.</p>
   <ul>
+    <li><span class="ruby-word"><ruby>大型<rt>おおがた</rt></ruby></span> - tipe, model</li>
     <li><span class="ruby-word"><ruby>新型<rt>しんがた</rt></ruby></span> - model baru</li>
     <li><span class="ruby-word"><ruby>小型<rt>こがた</rt></ruby></span> - ukuran kecil</li>
   </ul>
@@ -102,10 +106,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ゼイ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-  <p>Dalam halaman belanja online dan katalog produk, 税 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>税 menandai pajak. Dalam 消費税 atau 税込, kanji ini membantu membaca apakah harga sudah termasuk pajak.</p>
   <ul>
     <li><span class="ruby-word"><ruby>消費税<rt>しょうひぜい</rt></ruby></span> - pajak konsumsi</li>
     <li><span class="ruby-word"><ruby>税金<rt>ぜいきん</rt></ruby></span> - pajak</li>
+    <li><span class="ruby-word"><ruby>税込<rt>ぜいこみ</rt></ruby></span> - termasuk pajak</li>
   </ul>
 </details>
 
@@ -117,10 +122,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: こむ</span></span>
     </span>
   </summary>
-  <p>Dalam halaman belanja online dan katalog produk, 込 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>込 memberi rasa masuk atau termasuk. 税込 berarti pajak sudah termasuk di harga yang ditampilkan.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>税込<rt>ぜいこみ</rt></ruby></span> - termasuk pajak</li>
     <li><span class="ruby-word"><ruby>込む<rt>こむ</rt></ruby></span> - penuh sesak</li>
+    <li><span class="ruby-word"><ruby>振り込む<rt>ふりこむ</rt></ruby></span> - penuh sesak, termasuk</li>
+    <li><span class="ruby-word"><ruby>税込<rt>ぜいこみ</rt></ruby></span> - termasuk pajak</li>
   </ul>
 </details>
 
@@ -132,7 +138,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: カ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-  <p>Dalam halaman belanja online dan katalog produk, 価 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>価 berkaitan dengan harga atau nilai. Dalam 価格, bacalah sebagai harga barang atau layanan.</p>
   <ul>
     <li><span class="ruby-word"><ruby>価格<rt>かかく</rt></ruby></span> - harga</li>
     <li><span class="ruby-word"><ruby>定価<rt>ていか</rt></ruby></span> - harga tetap</li>
@@ -147,10 +153,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: カク</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-  <p>Dalam halaman belanja online dan katalog produk, 格 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>格 bisa berarti status atau harga dalam kata tertentu. 格安 berarti harga murah, bukan “status murah”.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>格安<rt>かくやす</rt></ruby></span> - sangat murah</li>
     <li><span class="ruby-word"><ruby>合格<rt>ごうかく</rt></ruby></span> - lulus</li>
+    <li><span class="ruby-word"><ruby>格安<rt>かくやす</rt></ruby></span> - sangat murah</li>
+    <li><span class="ruby-word"><ruby>価格<rt>かかく</rt></ruby></span> - harga</li>
   </ul>
 </details>
 </div>
@@ -169,7 +176,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <span>消費税</span>
 </div>
 
-Hubungan kata hari ini bisa dibaca sebagai alur: produk -> kelas/model -> sisa/stok -> pajak -> harga. Dengan membaca hubungan ini, kamu tidak perlu menerjemahkan kata satu per satu; cukup tentukan apakah kata itu menunjukkan benda, status, tindakan, jumlah, orang, atau informasi tambahan.
+Peta kata hari ini mengikuti informasi produk: 米国 dapat menunjuk asal, 高級 memberi kelas barang, 残り memberi stok, 新型 atau 小型 memberi model/ukuran, 消費税 dan 税込 menjelaskan pajak, sedangkan 価格 dan 格安 menjelaskan harga.
 
 ## Catatan Pemakaian
 
@@ -212,11 +219,16 @@ Hubungan kata hari ini bisa dibaca sebagai alur: produk -> kelas/model -> sisa/s
 
 ## Hal yang Mudah Tertukar
 
-Jangan memilih bacaan dari satu kanji secara terpisah. Untuk kata majemuk seperti 米 atau 高級, baca seluruh kata dulu, lalu cocokkan dengan konteks: apakah sedang membahas barang, formulir, kesehatan, berita, atau pengumuman. Jika kata berada dekat angka, biasanya fungsinya berbeda dari kata yang berada dekat nama tempat atau tindakan.
+| Pasangan | Cara membedakan |
+|---|---|
+| 米 / 米国 | 米 saja bisa berarti beras. 米国 berarti Amerika Serikat. |
+| 高級 / 中級 | 高級 biasanya untuk kelas barang atau layanan. 中級 untuk tingkat menengah. |
+| 消費税 / 税込 | 消費税 adalah pajaknya. 税込 berarti harga sudah termasuk pajak. |
+| 価格 / 格安 | 価格 adalah harga. 格安 berarti murah atau harga sangat terjangkau. |
 
 ## Kesalahan Umum
 
-Kesalahan yang sering terjadi adalah memaksa kunyomi ke semua kata majemuk. Strateginya: lihat apakah kata terdiri dari dua kanji atau lebih; kalau ya, coba baca sebagai satu blok dengan onyomi lebih dulu, lalu cek apakah ada okurigana seperti る, す, atau い yang menandakan bacaan kunyomi.
+Saat membaca harga, jangan melewatkan 税込. Harga yang tertulis bisa berbeda makna tergantung apakah pajak sudah termasuk atau belum. Cari 税, 込, 価格, dan 格安 sebagai petunjuk utama.
 
 ## Mini Practice
 

@@ -1,6 +1,6 @@
 ---
 title: "天気予報"
-description: "Belajar kanji N3 yang sering muncul di prakiraan cuaca, berita angin, awan, salju, gempa, gelombang, dan peringatan alam."
+description: "Belajar kanji N3 yang sering muncul di prakiraan cuaca, berita alam, dan peringatan gempa atau gelombang."
 level: "N3"
 category: "kanji"
 topic: "天気予報"
@@ -23,7 +23,7 @@ tags:
 
 Mengenali kanji N3 yang sering muncul di prakiraan cuaca, berita gempa, suhu, salju, angin, dan ombak: 報、晴、雲、吹、暖、雪、震、波。
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 予報、報告、晴れる、晴れ、雲、雨雲 di prakiraan cuaca, berita gempa, suhu, salju, angin, dan ombak. Fokus hari ini bukan menghafal semua bacaan sekaligus, tetapi mengenali kata yang paling mungkin muncul dalam konteks tersebut.
+Di akhir pelajaran ini, kamu bisa membaca kata seperti 予報, 晴れ, 雨雲, 吹雪, 暖房, 地震, 震度, dan 津波. Fokuskan pada jenis informasinya: cuaca harian, suhu, angin/salju, atau peringatan bencana.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> mulai dari jenis informasi: cuaca biasa, suhu, angin, atau peringatan bencana.
@@ -42,7 +42,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ホウ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-  <p>Dalam prakiraan cuaca dan berita alam, 報 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>報 memberi rasa laporan atau pemberitahuan. Pada cuaca, 予報 adalah prakiraan; pada berita, 報告 adalah laporan.</p>
   <ul>
     <li><span class="ruby-word"><ruby>予報<rt>よほう</rt></ruby></span> - prakiraan</li>
     <li><span class="ruby-word"><ruby>報告<rt>ほうこく</rt></ruby></span> - laporan</li>
@@ -57,7 +57,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: はれる</span></span>
     </span>
   </summary>
-  <p>Dalam prakiraan cuaca dan berita alam, 晴 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>晴 menandai cuaca cerah. Dalam prakiraan, bacalah bersama kata sekitar untuk melihat apakah sedang membahas kondisi hari ini atau besok.</p>
   <ul>
     <li><span class="ruby-word"><ruby>晴れる<rt>はれる</rt></ruby></span> - menjadi cerah</li>
     <li><span class="ruby-word"><ruby>晴れ<rt>はれ</rt></ruby></span> - cuaca cerah</li>
@@ -72,10 +72,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: くも</span></span>
     </span>
   </summary>
-  <p>Dalam prakiraan cuaca dan berita alam, 雲 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>雲 menunjuk awan. Jika digabung dengan 雨, 雨雲 memberi petunjuk bahwa langit berawan hujan.</p>
   <ul>
     <li><span class="ruby-word"><ruby>雲<rt>くも</rt></ruby></span> - awan</li>
-    <li><span class="ruby-word"><ruby>雨雲<rt>あまぐも</rt></ruby></span> - awan hujan</li>
+    <li><span class="ruby-word"><ruby>雨雲<rt>あまぐも</rt></ruby></span> - awan, berawan</li>
   </ul>
 </details>
 
@@ -87,10 +87,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: ふく</span></span>
     </span>
   </summary>
-  <p>Dalam prakiraan cuaca dan berita alam, 吹 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>吹 berkaitan dengan sesuatu yang bertiup. Pada cuaca, biasanya subjeknya angin; dalam 吹雪, maknanya menjadi badai salju.</p>
   <ul>
     <li><span class="ruby-word"><ruby>吹く<rt>ふく</rt></ruby></span> - bertiup</li>
-    <li><span class="ruby-word"><ruby>吹雪<rt>ふぶき</rt></ruby></span> - badai salju</li>
+    <li><span class="ruby-word"><ruby>吹雪<rt>ふぶき</rt></ruby></span> - bertiup, meniup</li>
   </ul>
 </details>
 
@@ -102,7 +102,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ダン</span><span>kunyomi: あたたかい</span></span>
     </span>
   </summary>
-  <p>Dalam prakiraan cuaca dan berita alam, 暖 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>暖 memberi rasa hangat. Perhatikan bedanya 暖かい untuk kondisi hangat dan 暖房 untuk alat atau sistem pemanas.</p>
   <ul>
     <li><span class="ruby-word"><ruby>暖房<rt>だんぼう</rt></ruby></span> - pemanas ruangan</li>
     <li><span class="ruby-word"><ruby>暖かい<rt>あたたかい</rt></ruby></span> - hangat</li>
@@ -117,10 +117,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: ゆき</span></span>
     </span>
   </summary>
-  <p>Dalam prakiraan cuaca dan berita alam, 雪 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>雪 berarti salju. Dalam 大雪, kanji 大 menambah makna salju lebat, jadi cocok untuk peringatan cuaca buruk.</p>
   <ul>
     <li><span class="ruby-word"><ruby>雪<rt>ゆき</rt></ruby></span> - salju</li>
-    <li><span class="ruby-word"><ruby>大雪<rt>おおゆき</rt></ruby></span> - salju lebat</li>
+    <li><span class="ruby-word"><ruby>吹雪<rt>ふぶき</rt></ruby></span> - salju</li>
+    <li><span class="ruby-word"><ruby>大雪<rt>おおゆき</rt></ruby></span> - salju</li>
   </ul>
 </details>
 
@@ -132,7 +133,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: シン</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-  <p>Dalam prakiraan cuaca dan berita alam, 震 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>震 berkaitan dengan getaran. Dalam berita bencana, 地震 menunjuk gempa bumi dan 震度 menunjukkan tingkat guncangannya.</p>
   <ul>
     <li><span class="ruby-word"><ruby>地震<rt>じしん</rt></ruby></span> - gempa bumi</li>
     <li><span class="ruby-word"><ruby>震度<rt>しんど</rt></ruby></span> - skala intensitas gempa</li>
@@ -147,8 +148,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ハ</span><span>kunyomi: なみ</span></span>
     </span>
   </summary>
-  <p>Dalam prakiraan cuaca dan berita alam, 波 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>波 berarti ombak atau gelombang. Dalam 津波, bacalah sebagai satu kata khusus untuk tsunami, bukan ombak biasa.</p>
   <ul>
+    <li><span class="ruby-word"><ruby>電波<rt>でんぱ</rt></ruby></span> - gelombang, ombak</li>
     <li><span class="ruby-word"><ruby>波<rt>なみ</rt></ruby></span> - ombak</li>
     <li><span class="ruby-word"><ruby>津波<rt>つなみ</rt></ruby></span> - tsunami</li>
   </ul>
@@ -169,7 +171,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <span>暖房</span>
 </div>
 
-Hubungan kata hari ini bisa dibaca sebagai alur: laporan -> cuaca -> suhu/angin -> salju/gempa/gelombang. Dengan membaca hubungan ini, kamu tidak perlu menerjemahkan kata satu per satu; cukup tentukan apakah kata itu menunjukkan benda, status, tindakan, jumlah, orang, atau informasi tambahan.
+Peta kata hari ini mengikuti alur: laporan -> cuaca -> suhu/angin -> salju/gempa/gelombang. Gunakan alur ini untuk melihat fungsi kata sebelum menerjemahkan satu per satu.
 
 ## Catatan Pemakaian
 
@@ -214,11 +216,11 @@ Hubungan kata hari ini bisa dibaca sebagai alur: laporan -> cuaca -> suhu/angin 
 
 ## Hal yang Mudah Tertukar
 
-Jangan memilih bacaan dari satu kanji secara terpisah. Untuk kata majemuk seperti 予報 atau 晴れる, baca seluruh kata dulu, lalu cocokkan dengan konteks: apakah sedang membahas barang, formulir, kesehatan, berita, atau pengumuman. Jika kata berada dekat angka, biasanya fungsinya berbeda dari kata yang berada dekat nama tempat atau tindakan.
+Baca kata sebagai satu blok dulu, terutama pada contoh seperti 予報 atau 晴れる. Setelah itu cocokkan dengan konteks pelajaran, karena satu kanji bisa berubah fungsi saat masuk kata majemuk.
 
 ## Kesalahan Umum
 
-Kesalahan yang sering terjadi adalah memaksa kunyomi ke semua kata majemuk. Strateginya: lihat apakah kata terdiri dari dua kanji atau lebih; kalau ya, coba baca sebagai satu blok dengan onyomi lebih dulu, lalu cek apakah ada okurigana seperti る, す, atau い yang menandakan bacaan kunyomi.
+Kesalahan umum: memaksa satu bacaan ke semua kata. Jika ada okurigana seperti る, す, atau い, biasanya bacaan kunyomi lebih mungkin muncul. Jika kata terdiri dari beberapa kanji tanpa okurigana, baca sebagai kata majemuk lebih dulu.
 
 ## Mini Practice
 

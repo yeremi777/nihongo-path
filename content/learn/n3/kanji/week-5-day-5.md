@@ -23,7 +23,7 @@ tags:
 
 Mengenali kanji N3 yang sering muncul di formulir klinik gigi, keluhan nyeri, demam, kondisi gigi, perawatan, dan keadaan mulut: 痛、熱、虫、歯、治、汚、並、他。
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 頭痛、痛い、熱、熱心、虫、虫歯 di formulir klinik gigi, keluhan nyeri, demam, kondisi gigi, perawatan, dan keadaan mulut. Fokus hari ini bukan menghafal semua bacaan sekaligus, tetapi mengenali kata yang paling mungkin muncul dalam konteks tersebut.
+Di akhir pelajaran ini, kamu bisa membaca kata seperti 頭痛, 痛い, 熱, 熱心, 虫歯, 歯科, 治療, 汚れる, 歯並び, dan その他 di formulir klinik gigi. Fokuskan pada bagian tubuh, gejala, perawatan, dan pilihan “lainnya”.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> hubungkan gejala dengan bagian tubuh: 痛い, 熱, 虫歯, 歯科, 治療.
@@ -42,9 +42,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ツウ</span><span>kunyomi: いたい</span></span>
     </span>
   </summary>
-  <p>Dalam formulir klinik gigi dan catatan keluhan, 痛 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>痛 menandai rasa sakit. Dalam formulir medis, 頭痛 menunjuk jenis keluhan, sedangkan 痛い menjelaskan gejalanya.</p>
   <ul>
     <li><span class="ruby-word"><ruby>頭痛<rt>ずつう</rt></ruby></span> - sakit kepala</li>
+    <li><span class="ruby-word"><ruby>腹痛<rt>はらいた</rt></ruby></span> - sakit, nyeri</li>
     <li><span class="ruby-word"><ruby>痛い<rt>いたい</rt></ruby></span> - sakit</li>
   </ul>
 </details>
@@ -57,9 +58,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ネツ</span><span>kunyomi: あつい</span></span>
     </span>
   </summary>
-  <p>Dalam formulir klinik gigi dan catatan keluhan, 熱 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>熱 bisa berarti demam atau panas. Di klinik, 熱 biasanya keluhan demam; dalam 熱心, maknanya berubah menjadi antusias.</p>
   <ul>
     <li><span class="ruby-word"><ruby>熱<rt>ねつ</rt></ruby></span> - demam</li>
+    <li><span class="ruby-word"><ruby>熱心(な)<rt>ねっしん</rt></ruby></span> - antusias</li>
+    <li><span class="ruby-word"><ruby>熱い<rt>あつい</rt></ruby></span> - panas, demam</li>
     <li><span class="ruby-word"><ruby>熱心<rt>ねっしん</rt></ruby></span> - antusias</li>
   </ul>
 </details>
@@ -72,7 +75,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: むし</span></span>
     </span>
   </summary>
-  <p>Dalam formulir klinik gigi dan catatan keluhan, 虫 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>虫 berarti serangga, tetapi dalam 虫歯 maknanya gigi berlubang. Bacalah sebagai satu kata saat muncul di konteks gigi.</p>
   <ul>
     <li><span class="ruby-word"><ruby>虫<rt>むし</rt></ruby></span> - serangga</li>
     <li><span class="ruby-word"><ruby>虫歯<rt>むしば</rt></ruby></span> - gigi berlubang</li>
@@ -87,10 +90,13 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: シ</span><span>kunyomi: は</span></span>
     </span>
   </summary>
-  <p>Dalam formulir klinik gigi dan catatan keluhan, 歯 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>歯 berarti gigi. Kata seperti 歯科 dan 歯医者 membantu mengenali bagian atau layanan klinik gigi.</p>
   <ul>
     <li><span class="ruby-word"><ruby>歯科<rt>しか</rt></ruby></span> - kedokteran gigi</li>
+    <li><span class="ruby-word"><ruby>歯<rt>は</rt></ruby></span> - gigi, kedokteran gigi</li>
     <li><span class="ruby-word"><ruby>歯医者<rt>はいしゃ</rt></ruby></span> - dokter gigi</li>
+    <li><span class="ruby-word"><ruby>虫歯<rt>むしば</rt></ruby></span> - gigi berlubang</li>
+    <li><span class="ruby-word"><ruby>歯並び<rt>はならび</rt></ruby></span> - susunan gigi</li>
   </ul>
 </details>
 
@@ -102,10 +108,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ジ</span><span>kunyomi: なおる, なおす</span></span>
     </span>
   </summary>
-  <p>Dalam formulir klinik gigi dan catatan keluhan, 治 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>治 berkaitan dengan sembuh atau merawat. Dalam 治療, fokusnya adalah tindakan perawatan medis.</p>
   <ul>
+    <li><span class="ruby-word"><ruby>政治<rt>せいじ</rt></ruby></span> - politik</li>
     <li><span class="ruby-word"><ruby>治療<rt>ちりょう</rt></ruby></span> - perawatan medis</li>
     <li><span class="ruby-word"><ruby>治る<rt>なおる</rt></ruby></span> - sembuh</li>
+    <li><span class="ruby-word"><ruby>治す<rt>なおす</rt></ruby></span> - sembuh, mengobati</li>
   </ul>
 </details>
 
@@ -117,7 +125,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: きたない, よごれる</span></span>
     </span>
   </summary>
-  <p>Dalam formulir klinik gigi dan catatan keluhan, 汚 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>汚 menandai kotor atau menjadi kotor. Dalam catatan kebersihan mulut, kanji ini membantu membaca kondisi yang perlu dibersihkan.</p>
   <ul>
     <li><span class="ruby-word"><ruby>汚い<rt>きたない</rt></ruby></span> - kotor</li>
     <li><span class="ruby-word"><ruby>汚れる<rt>よごれる</rt></ruby></span> - menjadi kotor</li>
@@ -132,10 +140,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: ならぶ, ならべる</span></span>
     </span>
   </summary>
-  <p>Dalam formulir klinik gigi dan catatan keluhan, 並 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>並 memberi rasa berjajar atau susunan. Dalam 歯並び, fokusnya adalah susunan gigi.</p>
   <ul>
     <li><span class="ruby-word"><ruby>並ぶ<rt>ならぶ</rt></ruby></span> - berbaris</li>
     <li><span class="ruby-word"><ruby>歯並び<rt>はならび</rt></ruby></span> - susunan gigi</li>
+    <li><span class="ruby-word"><ruby>並べる<rt>ならべる</rt></ruby></span> - berbaris, mengantri</li>
   </ul>
 </details>
 
@@ -147,7 +156,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: タ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-  <p>Dalam formulir klinik gigi dan catatan keluhan, 他 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>他 berarti lainnya. Pada formulir, その他 biasanya menjadi pilihan untuk keluhan atau informasi yang tidak masuk kategori sebelumnya.</p>
   <ul>
     <li><span class="ruby-word"><ruby>他の<rt>ほかの</rt></ruby></span> - yang lain</li>
     <li><span class="ruby-word"><ruby>その他<rt>そのた</rt></ruby></span> - lainnya</li>
@@ -169,7 +178,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <span>治療</span>
 </div>
 
-Hubungan kata hari ini bisa dibaca sebagai alur: gejala -> bagian tubuh -> perawatan -> kondisi kebersihan/susunan -> informasi lain. Dengan membaca hubungan ini, kamu tidak perlu menerjemahkan kata satu per satu; cukup tentukan apakah kata itu menunjukkan benda, status, tindakan, jumlah, orang, atau informasi tambahan.
+Peta kata hari ini mengikuti alur: gejala -> bagian tubuh -> perawatan -> kondisi kebersihan/susunan -> informasi lain. Gunakan alur ini untuk melihat fungsi kata sebelum menerjemahkan satu per satu.
 
 ## Catatan Pemakaian
 
@@ -211,11 +220,11 @@ Hubungan kata hari ini bisa dibaca sebagai alur: gejala -> bagian tubuh -> peraw
 
 ## Hal yang Mudah Tertukar
 
-Jangan memilih bacaan dari satu kanji secara terpisah. Untuk kata majemuk seperti 頭痛 atau 熱, baca seluruh kata dulu, lalu cocokkan dengan konteks: apakah sedang membahas barang, formulir, kesehatan, berita, atau pengumuman. Jika kata berada dekat angka, biasanya fungsinya berbeda dari kata yang berada dekat nama tempat atau tindakan.
+Baca kata sebagai satu blok dulu, terutama pada contoh seperti 頭痛 atau 熱. Setelah itu cocokkan dengan konteks pelajaran, karena satu kanji bisa berubah fungsi saat masuk kata majemuk.
 
 ## Kesalahan Umum
 
-Kesalahan yang sering terjadi adalah memaksa kunyomi ke semua kata majemuk. Strateginya: lihat apakah kata terdiri dari dua kanji atau lebih; kalau ya, coba baca sebagai satu blok dengan onyomi lebih dulu, lalu cek apakah ada okurigana seperti る, す, atau い yang menandakan bacaan kunyomi.
+Kesalahan umum: memaksa satu bacaan ke semua kata. Jika ada okurigana seperti る, す, atau い, biasanya bacaan kunyomi lebih mungkin muncul. Jika kata terdiri dari beberapa kanji tanpa okurigana, baca sebagai kata majemuk lebih dulu.
 
 ## Mini Practice
 

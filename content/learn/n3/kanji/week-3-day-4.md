@@ -23,7 +23,7 @@ tags:
 
 Mengenali sembilan kanji N3 yang sering muncul pada resep: 材, 卵, 乳, 粉, 袋, 混, 焼, 表, dan 裏.
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 材料, 卵焼き, 牛乳, 小麦粉, 袋, 混ぜる, 焼く, 表, dan 裏 pada resep atau kemasan.
+Di akhir pelajaran ini, kamu bisa membaca kata seperti 材料, 卵焼き, 牛乳, 小麦粉, 袋, 混ぜる, 焼く, 表, dan 裏 pada resep atau kemasan.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> baca resep dari bahan, wadah, tindakan memasak, lalu posisi informasi di kemasan.
@@ -75,7 +75,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>乳 berkaitan dengan susu. Dalam resep, paling sering muncul dalam 牛乳.</p>
   <ul>
     <li><span class="ruby-word"><ruby>牛乳<rt>ぎゅうにゅう</rt></ruby></span> - susu sapi</li>
-    <li><span class="ruby-word"><ruby>乳製品<rt>にゅうせいひん</rt></ruby></span> - produk susu</li>
+    <li><span class="ruby-word"><ruby>乳製品<rt>にゅうせいひん</rt></ruby></span> - susu, produk susu</li>
   </ul>
 </details>
 
@@ -105,8 +105,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>袋 menunjuk kantong atau wadah. Pada resep/kemasan, sering berarti bungkus produk.</p>
   <ul>
     <li><span class="ruby-word"><ruby>袋<rt>ふくろ</rt></ruby></span> - kantong</li>
+    <li><span class="ruby-word"><ruby>ごみ袋<rt>ごみぶくろ</rt></ruby></span> - kantong, tas</li>
     <li><span class="ruby-word"><ruby>紙袋<rt>かみぶくろ</rt></ruby></span> - kantong kertas</li>
     <li><span class="ruby-word"><ruby>手袋<rt>てぶくろ</rt></ruby></span> - sarung tangan</li>
+    <li><span class="ruby-word"><ruby>足袋<rt>たび</rt></ruby></span> - kantong, tas</li>
   </ul>
 </details>
 
@@ -120,8 +122,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>混 dipakai untuk mencampur bahan atau keadaan bercampur. Dalam resep, fokusnya 混ぜる.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>混ぜる<rt>まぜる</rt></ruby></span> - mencampur</li>
     <li><span class="ruby-word"><ruby>混雑<rt>こんざつ</rt></ruby></span> - ramai, padat</li>
+    <li><span class="ruby-word"><ruby>混ぜる<rt>まぜる</rt></ruby></span> - mencampur</li>
   </ul>
 </details>
 
@@ -137,7 +139,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>焼く<rt>やく</rt></ruby></span> - memanggang</li>
     <li><span class="ruby-word"><ruby>焼ける<rt>やける</rt></ruby></span> - matang, terbakar</li>
-    <li><span class="ruby-word"><ruby>卵焼き<rt>たまごやき</rt></ruby></span> - telur dadar gulung</li>
+    <li><span class="ruby-word"><ruby>卵焼き<rt>たまごやき</rt></ruby></span> - telur dadar gulung Jepang</li>
   </ul>
 </details>
 
@@ -152,8 +154,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>表 bisa menunjuk sisi depan/permukaan atau tindakan menyatakan.</p>
   <ul>
     <li><span class="ruby-word"><ruby>表<rt>おもて</rt></ruby></span> - depan</li>
-    <li><span class="ruby-word"><ruby>表面<rt>ひょうめん</rt></ruby></span> - permukaan</li>
     <li><span class="ruby-word"><ruby>発表<rt>はっぴょう</rt></ruby></span> - presentasi, pengumuman</li>
+    <li><span class="ruby-word"><ruby>表面<rt>ひょうめん</rt></ruby></span> - permukaan</li>
+    <li><span class="ruby-word"><ruby>代表<rt>だいひょう</rt></ruby></span> - permukaan, tabel</li>
+    <li><span class="ruby-word"><ruby>表す<rt>あらわす</rt></ruby></span> - permukaan, tabel</li>
   </ul>
 </details>
 
@@ -232,7 +236,7 @@ Kata-kata hari ini mengikuti langkah memasak. 材料 berisi 卵・乳・粉, 袋
 
 ## Hal yang Mudah Tertukar
 
-| Pasangan | Bedanya |
+| Pasangan | Cara membedakan |
 |---|---|
 | 表 / 裏 | 表 adalah depan/permukaan yang terlihat. 裏 adalah belakang atau sisi sebaliknya. |
 | 焼く / 焼ける | 焼く adalah seseorang memanggang. 焼ける berarti sesuatu matang/terpanggang. |

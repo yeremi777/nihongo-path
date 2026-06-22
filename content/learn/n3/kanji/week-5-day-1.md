@@ -21,9 +21,9 @@ tags:
 
 ## Tujuan
 
-Mengenali kanji N3 yang sering muncul di email sopan, balasan terlambat, ucapan terima kasih, permintaan maaf, dan ekspresi perasaan: 礼、伺、遅、失、汗、念、涙、笑。
+Mengenali kanji N3 yang sering muncul di email sopan, balasan terlambat, permintaan maaf, dan ungkapan perasaan: 礼, 伺, 遅, 失, 汗, 念, 涙, dan 笑.
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti お礼、失礼、伺う、お伺い、遅刻、遅れる di email sopan, balasan terlambat, ucapan terima kasih, permintaan maaf, dan ekspresi perasaan. Fokus hari ini bukan menghafal semua bacaan sekaligus, tetapi mengenali kata yang paling mungkin muncul dalam konteks tersebut.
+Di akhir pelajaran ini, kamu bisa membaca kata seperti お礼, 失礼, 伺う, 遅れる, 残念, 涙, dan 笑顔 dalam email atau pesan sopan. Fokuskan pada fungsi ungkapan: berterima kasih, meminta maaf, merendahkan diri, terlambat, atau menyampaikan perasaan.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> bedakan kata sopan untuk email dari kata emosi seperti 残念, 涙, dan 笑顔.
@@ -42,7 +42,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: レイ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-  <p>Dalam email sopan dan balasan tertulis, 礼 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>礼 berkaitan dengan sopan santun dan ucapan terima kasih. Dalam email, お礼 biasanya muncul saat menyampaikan apresiasi.</p>
   <ul>
     <li><span class="ruby-word"><ruby>お礼<rt>おれい</rt></ruby></span> - ucapan terima kasih</li>
     <li><span class="ruby-word"><ruby>失礼<rt>しつれい</rt></ruby></span> - tidak sopan</li>
@@ -57,10 +57,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: うかがう</span></span>
     </span>
   </summary>
-  <p>Dalam email sopan dan balasan tertulis, 伺 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>伺 dipakai dalam ungkapan rendah hati. Saat membaca email sopan, 伺う sering berarti bertanya atau berkunjung dengan nada hormat.</p>
   <ul>
     <li><span class="ruby-word"><ruby>伺う<rt>うかがう</rt></ruby></span> - berkunjung/bertanya</li>
-    <li><span class="ruby-word"><ruby>お伺い<rt>おうかがい</rt></ruby></span> - kunjungan/pertanyaan</li>
+    <li><span class="ruby-word"><ruby>お伺い<rt>おうかがい</rt></ruby></span> - mengunjungi, bertanya (rendah hati)</li>
   </ul>
 </details>
 
@@ -72,9 +72,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: チ</span><span>kunyomi: おそい, おくれる</span></span>
     </span>
   </summary>
-  <p>Dalam email sopan dan balasan tertulis, 遅 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>遅 menandai keterlambatan. Dalam balasan email, 遅れる atau 遅くなる sering menjelaskan respons yang telat.</p>
   <ul>
     <li><span class="ruby-word"><ruby>遅刻<rt>ちこく</rt></ruby></span> - terlambat</li>
+    <li><span class="ruby-word"><ruby>遅い<rt>おそい</rt></ruby></span> - terlambat, lambat</li>
     <li><span class="ruby-word"><ruby>遅れる<rt>おくれる</rt></ruby></span> - terlambat</li>
   </ul>
 </details>
@@ -87,10 +88,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: シツ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-  <p>Dalam email sopan dan balasan tertulis, 失 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>失 memberi rasa kehilangan atau kesalahan. Dalam 失礼, maknanya menjadi permintaan maaf atau ungkapan sopan saat mengganggu.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>失礼<rt>しつれい</rt></ruby></span> - permisi/tidak sopan</li>
+    <li><span class="ruby-word"><ruby>失礼(な)<rt>しつれい</rt></ruby></span> - tidak sopan</li>
     <li><span class="ruby-word"><ruby>失敗<rt>しっぱい</rt></ruby></span> - gagal</li>
+    <li><span class="ruby-word"><ruby>失礼する<rt>しつれいする</rt></ruby></span> - kehilangan, gagal</li>
+    <li><span class="ruby-word"><ruby>失礼<rt>しつれい</rt></ruby></span> - tidak sopan</li>
   </ul>
 </details>
 
@@ -102,7 +105,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: あせ</span></span>
     </span>
   </summary>
-  <p>Dalam email sopan dan balasan tertulis, 汗 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>汗 berarti keringat. Dalam tulisan pribadi, kanji ini bisa muncul saat menjelaskan rasa gugup, kerja keras, atau kondisi tubuh.</p>
   <ul>
     <li><span class="ruby-word"><ruby>汗<rt>あせ</rt></ruby></span> - keringat</li>
     <li><span class="ruby-word"><ruby>汗をかく<rt>あせをかく</rt></ruby></span> - berkeringat</li>
@@ -117,10 +120,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ネン</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-  <p>Dalam email sopan dan balasan tertulis, 念 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>念 berkaitan dengan pikiran atau perasaan yang tertinggal. Dalam 残念, fokusnya adalah rasa kecewa atau sayang sekali.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>残念<rt>ざんねん</rt></ruby></span> - sayang sekali</li>
+    <li><span class="ruby-word"><ruby>残念(な)<rt>ざんねん</rt></ruby></span> - sayang sekali</li>
     <li><span class="ruby-word"><ruby>記念<rt>きねん</rt></ruby></span> - peringatan</li>
+    <li><span class="ruby-word"><ruby>残念<rt>ざんねん</rt></ruby></span> - sayang sekali</li>
   </ul>
 </details>
 
@@ -132,7 +136,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: なみだ</span></span>
     </span>
   </summary>
-  <p>Dalam email sopan dan balasan tertulis, 涙 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>涙 berarti air mata. Kanji ini biasanya muncul ketika pesan menyampaikan perasaan sedih, haru, atau kecewa.</p>
   <ul>
     <li><span class="ruby-word"><ruby>涙<rt>なみだ</rt></ruby></span> - air mata</li>
     <li><span class="ruby-word"><ruby>涙を流す<rt>なみだをながす</rt></ruby></span> - meneteskan air mata</li>
@@ -147,10 +151,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: わらう, えむ</span></span>
     </span>
   </summary>
-  <p>Dalam email sopan dan balasan tertulis, 笑 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>笑 berkaitan dengan tertawa atau senyum. Dalam 笑顔, fokusnya adalah ekspresi wajah yang ramah.</p>
   <ul>
     <li><span class="ruby-word"><ruby>笑う<rt>わらう</rt></ruby></span> - tertawa</li>
     <li><span class="ruby-word"><ruby>笑顔<rt>えがお</rt></ruby></span> - wajah tersenyum</li>
+    <li><span class="ruby-word"><ruby>笑い<rt>わらい</rt></ruby></span> - tertawa, senyum</li>
   </ul>
 </details>
 </div>
@@ -169,7 +174,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <span>汗</span>
 </div>
 
-Hubungan kata hari ini bisa dibaca sebagai alur: sapaan sopan -> keterlambatan/permintaan maaf -> perasaan -> ekspresi wajah. Dengan membaca hubungan ini, kamu tidak perlu menerjemahkan kata satu per satu; cukup tentukan apakah kata itu menunjukkan benda, status, tindakan, jumlah, orang, atau informasi tambahan.
+Peta kata hari ini mengikuti alur: sapaan sopan -> keterlambatan/permintaan maaf -> perasaan -> ekspresi wajah. Gunakan alur ini untuk melihat fungsi kata sebelum menerjemahkan satu per satu.
 
 ## Catatan Pemakaian
 
@@ -209,11 +214,11 @@ Hubungan kata hari ini bisa dibaca sebagai alur: sapaan sopan -> keterlambatan/p
 
 ## Hal yang Mudah Tertukar
 
-Jangan memilih bacaan dari satu kanji secara terpisah. Untuk kata majemuk seperti お礼 atau 伺う, baca seluruh kata dulu, lalu cocokkan dengan konteks: apakah sedang membahas barang, formulir, kesehatan, berita, atau pengumuman. Jika kata berada dekat angka, biasanya fungsinya berbeda dari kata yang berada dekat nama tempat atau tindakan.
+Baca kata sebagai satu blok dulu, terutama pada contoh seperti お礼 atau 伺う. Setelah itu cocokkan dengan konteks pelajaran, karena satu kanji bisa berubah fungsi saat masuk kata majemuk.
 
 ## Kesalahan Umum
 
-Kesalahan yang sering terjadi adalah memaksa kunyomi ke semua kata majemuk. Strateginya: lihat apakah kata terdiri dari dua kanji atau lebih; kalau ya, coba baca sebagai satu blok dengan onyomi lebih dulu, lalu cek apakah ada okurigana seperti る, す, atau い yang menandakan bacaan kunyomi.
+Dalam email sopan, arti kata sangat bergantung pada ungkapan tetap. Jangan menerjemahkan 失礼 sebagai “kehilangan sopan” per kanji; baca 失礼します dan 失礼しました sebagai frasa sopan.
 
 ## Mini Practice
 

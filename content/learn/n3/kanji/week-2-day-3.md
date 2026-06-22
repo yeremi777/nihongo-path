@@ -23,7 +23,7 @@ tags:
 
 Mengenali delapan kanji N3 yang sering muncul pada peta wisata: 観, 園, 港, 遊, 美, 術, 神, dan 寺.
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 観光, 動物園, 空港, 遊園地, 美術館, 神社, dan お寺 saat melihat peta atau brosur wisata.
+Di akhir pelajaran ini, kamu bisa membaca kata seperti 観光, 動物園, 空港, 遊園地, 美術館, 神社, dan お寺 saat melihat peta atau brosur wisata.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan jenis tempat: transportasi, rekreasi, seni, dan tempat ibadah.
@@ -46,6 +46,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>観光<rt>かんこう</rt></ruby></span> - wisata</li>
     <li><span class="ruby-word"><ruby>観客<rt>かんきゃく</rt></ruby></span> - penonton</li>
+    <li><span class="ruby-word"><ruby>観光地図<rt>かんこうちず</rt></ruby></span> - melihat, mengamati</li>
   </ul>
 </details>
 
@@ -61,6 +62,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>動物園<rt>どうぶつえん</rt></ruby></span> - kebun binatang</li>
     <li><span class="ruby-word"><ruby>遊園地<rt>ゆうえんち</rt></ruby></span> - taman bermain</li>
+    <li><span class="ruby-word"><ruby>公園<rt>こうえん</rt></ruby></span> - taman umum</li>
   </ul>
 </details>
 
@@ -76,7 +78,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>空港<rt>くうこう</rt></ruby></span> - bandara</li>
     <li><span class="ruby-word"><ruby>港<rt>みなと</rt></ruby></span> - pelabuhan</li>
-    <li><span class="ruby-word"><ruby>神戸港<rt>こうべこう</rt></ruby></span> - Pelabuhan Kobe</li>
+    <li><span class="ruby-word"><ruby>〇〇港<rt>みなと</rt></ruby></span> - pelabuhan</li>
+    <li><span class="ruby-word"><ruby>神戸港<rt>こうべこう</rt></ruby></span> - pelabuhan</li>
   </ul>
 </details>
 
@@ -108,6 +111,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>美術館<rt>びじゅつかん</rt></ruby></span> - museum seni</li>
     <li><span class="ruby-word"><ruby>美しい<rt>うつくしい</rt></ruby></span> - indah</li>
     <li><span class="ruby-word"><ruby>美人<rt>びじん</rt></ruby></span> - orang cantik</li>
+    <li><span class="ruby-word"><ruby>美術<rt>びじゅつ</rt></ruby></span> - seni rupa</li>
   </ul>
 </details>
 
@@ -122,8 +126,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>術 bisa berarti seni, teknik, atau operasi tergantung kata. Dalam topik wisata, fokusnya 美術.</p>
   <ul>
     <li><span class="ruby-word"><ruby>美術<rt>びじゅつ</rt></ruby></span> - seni rupa</li>
-    <li><span class="ruby-word"><ruby>技術<rt>ぎじゅつ</rt></ruby></span> - teknik</li>
     <li><span class="ruby-word"><ruby>手術<rt>しゅじゅつ</rt></ruby></span> - operasi</li>
+    <li><span class="ruby-word"><ruby>技術<rt>ぎじゅつ</rt></ruby></span> - teknik</li>
+    <li><span class="ruby-word"><ruby>美術館<rt>びじゅつかん</rt></ruby></span> - museum seni</li>
   </ul>
 </details>
 
@@ -139,7 +144,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>神社<rt>じんじゃ</rt></ruby></span> - kuil Shinto</li>
     <li><span class="ruby-word"><ruby>神様<rt>かみさま</rt></ruby></span> - dewa</li>
-    <li><span class="ruby-word"><ruby>神経質<rt>しんけいしつ</rt></ruby></span> - sensitif, mudah tegang</li>
+    <li><span class="ruby-word"><ruby>神経質な<rt>しんけいしつ</rt></ruby></span> - sensitif, mudah tegang</li>
+    <li><span class="ruby-word"><ruby>神戸港<rt>こうべこう</rt></ruby></span> - dewa, roh</li>
   </ul>
 </details>
 
@@ -153,8 +159,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>寺 menunjuk kuil Buddha atau vihara. Pada nama tempat, sering ditempel di akhir nama.</p>
   <ul>
+    <li><span class="ruby-word"><ruby>〇〇寺<rt>〇〇てら</rt></ruby></span> - pola kata untuk kuil</li>
     <li><span class="ruby-word"><ruby>お寺<rt>おてら</rt></ruby></span> - kuil Buddha</li>
-    <li><span class="ruby-word"><ruby>金閣寺<rt>きんかくじ</rt></ruby></span> - Kinkakuji</li>
   </ul>
 </details>
 </div>
@@ -217,7 +223,7 @@ Kata-kata hari ini membantu membaca peta tempat wisata. 観光 adalah kegiatan w
 
 ## Hal yang Mudah Tertukar
 
-| Pasangan | Bedanya |
+| Pasangan | Cara membedakan |
 |---|---|
 | 神社 / 寺 | 神社 adalah kuil Shinto, 寺 adalah kuil Buddha. Pada peta, jangan terjemahkan keduanya sebagai tempat yang sama. |
 | 美術 / 手術 | 美術 berkaitan dengan seni. 手術 berkaitan dengan operasi medis; lihat kanji pertama 美 atau 手. |

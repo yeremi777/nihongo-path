@@ -44,8 +44,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>非 memberi rasa “bukan/di luar keadaan biasa”. Dalam fasilitas umum, pasangan 非常 biasanya berarti darurat.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>非常<rt>ひじょう</rt></ruby></span> - darurat</li>
+    <li><span class="ruby-word"><ruby>非常の<rt>ひじょう</rt></ruby></span> - darurat</li>
     <li><span class="ruby-word"><ruby>非常口<rt>ひじょうぐち</rt></ruby></span> - pintu darurat</li>
+    <li><span class="ruby-word"><ruby>非常に<rt>ひじょうに</rt></ruby></span> - bukan, tidak</li>
+    <li><span class="ruby-word"><ruby>非常<rt>ひじょう</rt></ruby></span> - darurat</li>
+    <li><span class="ruby-word"><ruby>非常階段<rt>ひじょうかいだん</rt></ruby></span> - bukan, tidak</li>
   </ul>
 </details>
 
@@ -59,8 +62,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>常 berarti keadaan biasa atau normal. Ketika digabung dengan 非, maknanya berubah menjadi keadaan darurat.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>日常<rt>にちじょう</rt></ruby></span> - keseharian</li>
-    <li><span class="ruby-word"><ruby>非常<rt>ひじょう</rt></ruby></span> - keadaan darurat</li>
+    <li><span class="ruby-word"><ruby>日常の<rt>にちじょう</rt></ruby></span> - keseharian</li>
+    <li><span class="ruby-word"><ruby>正常な<rt>せいじょうな</rt></ruby></span> - normal, selalu</li>
+    <li><span class="ruby-word"><ruby>非常口<rt>ひじょうぐち</rt></ruby></span> - pintu darurat</li>
+    <li><span class="ruby-word"><ruby>非常<rt>ひじょう</rt></ruby></span> - darurat</li>
   </ul>
 </details>
 
@@ -74,8 +79,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>階 membantu membaca tingkat bangunan. Di gedung atau stasiun, kanji ini sering menunjuk lantai atau tangga.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>一階<rt>いっかい</rt></ruby></span> - lantai satu</li>
+    <li><span class="ruby-word"><ruby>〜階<rt>〜かい</rt></ruby></span> - pola kata untuk lantai</li>
     <li><span class="ruby-word"><ruby>階段<rt>かいだん</rt></ruby></span> - tangga</li>
+    <li><span class="ruby-word"><ruby>一階<rt>いちかい</rt></ruby></span> - lantai, tingkat</li>
   </ul>
 </details>
 
@@ -90,7 +96,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>段 memberi rasa tingkatan atau anak tangga. Pada peringatan, kanji ini sering muncul ketika ada beda tinggi lantai.</p>
   <ul>
     <li><span class="ruby-word"><ruby>階段<rt>かいだん</rt></ruby></span> - tangga</li>
-    <li><span class="ruby-word"><ruby>段差<rt>だんさ</rt></ruby></span> - beda tinggi lantai</li>
+    <li><span class="ruby-word"><ruby>段差<rt>だんさ</rt></ruby></span> - langkah, tingkatan</li>
+    <li><span class="ruby-word"><ruby>非常階段<rt>ひじょうかいだん</rt></ruby></span> - langkah, tingkatan</li>
   </ul>
 </details>
 
@@ -119,8 +126,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>危 adalah tanda risiko. Saat muncul di papan, baca sebagai sinyal untuk berhenti atau lebih hati-hati.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>危険<rt>きけん</rt></ruby></span> - bahaya</li>
+    <li><span class="ruby-word"><ruby>危険な<rt>きけん</rt></ruby></span> - bahaya</li>
     <li><span class="ruby-word"><ruby>危ない<rt>あぶない</rt></ruby></span> - berbahaya</li>
+    <li><span class="ruby-word"><ruby>危険<rt>きけん</rt></ruby></span> - bahaya</li>
   </ul>
 </details>
 
@@ -134,6 +142,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>険 menguatkan rasa bahaya atau risiko. Untuk N3, kata paling pentingnya adalah 危険.</p>
   <ul>
+    <li><span class="ruby-word"><ruby>危険な<rt>きけん</rt></ruby></span> - bahaya</li>
     <li><span class="ruby-word"><ruby>危険<rt>きけん</rt></ruby></span> - bahaya</li>
   </ul>
 </details>
@@ -199,7 +208,7 @@ Topik ini sering muncul di gedung, stasiun, dan area umum dengan teks singkat. B
 
 ## Hal yang Mudah Tertukar
 
-| Pasangan | Bedanya |
+| Pasangan | Cara membedakan |
 |---|---|
 | 非常 / 日常 | Lihat kanji pertama: 非 membuat “bukan normal/darurat”, 日 membuat “sehari-hari”. |
 | 階 / 段 | 階 menunjuk lantai atau tingkat bangunan. 段 menunjuk anak tangga, level, atau beda tinggi. |

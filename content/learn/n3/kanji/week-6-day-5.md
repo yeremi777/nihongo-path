@@ -23,7 +23,7 @@ tags:
 
 Mengenali kanji N3 yang sering muncul di artikel lingkungan, pemanasan global, penyebab perubahan, perbandingan, rapat, dan aktivitas sosial: 化、比、原、因、際、議、活、変。
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 変化、文化、比べる、比較、原因、原料 di artikel lingkungan, pemanasan global, penyebab perubahan, perbandingan, rapat, dan aktivitas sosial. Fokus hari ini bukan menghafal semua bacaan sekaligus, tetapi mengenali kata yang paling mungkin muncul dalam konteks tersebut.
+Di akhir pelajaran ini, kamu bisa membaca kata seperti 変化, 文化, 比較, 原因, 原料, 会議, 活動, dan 変わる di artikel lingkungan. Fokuskan pada hubungan sebab, perubahan, perbandingan, dan aktivitas sosial.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> baca alur sebab-akibat: 原因, 変化, 温暖化, 国際会議, 活動.
@@ -42,10 +42,13 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: カ, ケ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-  <p>Dalam artikel lingkungan dan pemanasan global, 化 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>化 menandai perubahan menjadi suatu keadaan. Dalam 温暖化 atau 変化, kanji ini membantu membaca proses perubahan lingkungan.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>変化<rt>へんか</rt></ruby></span> - perubahan</li>
     <li><span class="ruby-word"><ruby>文化<rt>ぶんか</rt></ruby></span> - budaya</li>
+    <li><span class="ruby-word"><ruby>化学<rt>かがく</rt></ruby></span> - berubah, mengubah</li>
+    <li><span class="ruby-word"><ruby>〇〇化<rt>〇〇か</rt></ruby></span> - pola kata untuk berubah</li>
+    <li><span class="ruby-word"><ruby>化粧<rt>けしょう</rt></ruby></span> - berubah, mengubah</li>
+    <li><span class="ruby-word"><ruby>変化<rt>へんか</rt></ruby></span> - perubahan</li>
   </ul>
 </details>
 
@@ -57,10 +60,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: くらべる</span></span>
     </span>
   </summary>
-  <p>Dalam artikel lingkungan dan pemanasan global, 比 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>比 berkaitan dengan membandingkan. Dalam artikel lingkungan, 比較 sering muncul saat data suhu atau dampak dibandingkan.</p>
   <ul>
     <li><span class="ruby-word"><ruby>比べる<rt>くらべる</rt></ruby></span> - membandingkan</li>
-    <li><span class="ruby-word"><ruby>比較<rt>ひかく</rt></ruby></span> - perbandingan</li>
+    <li><span class="ruby-word"><ruby>比較<rt>ひかく</rt></ruby></span> - membandingkan, rasio</li>
   </ul>
 </details>
 
@@ -72,10 +75,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ゲン</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-  <p>Dalam artikel lingkungan dan pemanasan global, 原 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>原 menunjuk asal atau sumber. Dalam 原因, fokusnya adalah sumber masalah; dalam 原料, fokusnya bahan asal.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>原因<rt>げんいん</rt></ruby></span> - penyebab</li>
     <li><span class="ruby-word"><ruby>原料<rt>げんりょう</rt></ruby></span> - bahan baku</li>
+    <li><span class="ruby-word"><ruby>原因<rt>げんいん</rt></ruby></span> - penyebab</li>
   </ul>
 </details>
 
@@ -87,10 +90,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: イン</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-  <p>Dalam artikel lingkungan dan pemanasan global, 因 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>因 menandai sebab atau faktor. Pasangkan dengan 原 dalam 原因 untuk membaca penyebab perubahan.</p>
   <ul>
     <li><span class="ruby-word"><ruby>原因<rt>げんいん</rt></ruby></span> - penyebab</li>
-    <li><span class="ruby-word"><ruby>要因<rt>よういん</rt></ruby></span> - faktor utama</li>
+    <li><span class="ruby-word"><ruby>要因<rt>よういん</rt></ruby></span> - penyebab, alasan</li>
   </ul>
 </details>
 
@@ -102,10 +105,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: サイ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-  <p>Dalam artikel lingkungan dan pemanasan global, 際 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>際 sering muncul dalam 国際 untuk hal internasional. Dalam topik lingkungan, kata ini biasanya berkaitan dengan kerja sama antarnegara.</p>
   <ul>
+    <li><span class="ruby-word"><ruby>国際(の)<rt>こくさい</rt></ruby></span> - internasional</li>
+    <li><span class="ruby-word"><ruby>交際<rt>こうさい</rt></ruby></span> - kesempatan, internasional</li>
     <li><span class="ruby-word"><ruby>国際<rt>こくさい</rt></ruby></span> - internasional</li>
-    <li><span class="ruby-word"><ruby>実際<rt>じっさい</rt></ruby></span> - kenyataannya</li>
   </ul>
 </details>
 
@@ -117,7 +121,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ギ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-  <p>Dalam artikel lingkungan dan pemanasan global, 議 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>議 berkaitan dengan rapat atau diskusi resmi. 会議 menunjuk forum tempat masalah lingkungan dibahas.</p>
   <ul>
     <li><span class="ruby-word"><ruby>会議<rt>かいぎ</rt></ruby></span> - rapat</li>
     <li><span class="ruby-word"><ruby>議員<rt>ぎいん</rt></ruby></span> - anggota dewan</li>
@@ -132,7 +136,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: カツ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-  <p>Dalam artikel lingkungan dan pemanasan global, 活 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>活 berkaitan dengan hidup atau kegiatan. 活動 menunjuk aksi sosial atau kegiatan untuk mengatasi masalah.</p>
   <ul>
     <li><span class="ruby-word"><ruby>生活<rt>せいかつ</rt></ruby></span> - kehidupan</li>
     <li><span class="ruby-word"><ruby>活動<rt>かつどう</rt></ruby></span> - aktivitas</li>
@@ -147,10 +151,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ヘン</span><span>kunyomi: かわる, かえる</span></span>
     </span>
   </summary>
-  <p>Dalam artikel lingkungan dan pemanasan global, 変 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>変 berarti berubah atau aneh. Dalam 変化 dan 変わる, fokusnya adalah perubahan kondisi dari sebelumnya.</p>
   <ul>
+    <li><span class="ruby-word"><ruby>大変(な)<rt>たいへん(な)</rt></ruby></span> - berubah, aneh</li>
     <li><span class="ruby-word"><ruby>変化<rt>へんか</rt></ruby></span> - perubahan</li>
     <li><span class="ruby-word"><ruby>変わる<rt>かわる</rt></ruby></span> - berubah</li>
+    <li><span class="ruby-word"><ruby>変える<rt>かえる</rt></ruby></span> - berubah, aneh</li>
   </ul>
 </details>
 </div>
@@ -169,7 +175,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <span>国際</span>
 </div>
 
-Hubungan kata hari ini bisa dibaca sebagai alur: perubahan -> perbandingan -> penyebab -> forum internasional -> kegiatan -> perubahan. Dengan membaca hubungan ini, kamu tidak perlu menerjemahkan kata satu per satu; cukup tentukan apakah kata itu menunjukkan benda, status, tindakan, jumlah, orang, atau informasi tambahan.
+Peta kata hari ini mengikuti alur: perubahan -> perbandingan -> penyebab -> forum internasional -> kegiatan -> perubahan. Gunakan alur ini untuk melihat fungsi kata sebelum menerjemahkan satu per satu.
 
 ## Catatan Pemakaian
 
@@ -212,11 +218,11 @@ Hubungan kata hari ini bisa dibaca sebagai alur: perubahan -> perbandingan -> pe
 
 ## Hal yang Mudah Tertukar
 
-Jangan memilih bacaan dari satu kanji secara terpisah. Untuk kata majemuk seperti 変化 atau 比べる, baca seluruh kata dulu, lalu cocokkan dengan konteks: apakah sedang membahas barang, formulir, kesehatan, berita, atau pengumuman. Jika kata berada dekat angka, biasanya fungsinya berbeda dari kata yang berada dekat nama tempat atau tindakan.
+Baca kata sebagai satu blok dulu, terutama pada contoh seperti 変化 atau 比べる. Setelah itu cocokkan dengan konteks pelajaran, karena satu kanji bisa berubah fungsi saat masuk kata majemuk.
 
 ## Kesalahan Umum
 
-Kesalahan yang sering terjadi adalah memaksa kunyomi ke semua kata majemuk. Strateginya: lihat apakah kata terdiri dari dua kanji atau lebih; kalau ya, coba baca sebagai satu blok dengan onyomi lebih dulu, lalu cek apakah ada okurigana seperti る, す, atau い yang menandakan bacaan kunyomi.
+Kesalahan umum: memaksa satu bacaan ke semua kata. Jika ada okurigana seperti る, す, atau い, biasanya bacaan kunyomi lebih mungkin muncul. Jika kata terdiri dari beberapa kanji tanpa okurigana, baca sebagai kata majemuk lebih dulu.
 
 ## Mini Practice
 

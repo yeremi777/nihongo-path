@@ -23,7 +23,7 @@ tags:
 
 Mengenali kanji N3 yang sering muncul di karangan pendek tentang pengalaman, keluarga, pernikahan, hari libur, lagu, rumah, dan tidur: 昨、君、結、婚、祝、曲、奥、寝。
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 昨日、昨年、君、田中君、結婚、結局 di karangan pendek tentang pengalaman, keluarga, pernikahan, hari libur, lagu, rumah, dan tidur. Fokus hari ini bukan menghafal semua bacaan sekaligus, tetapi mengenali kata yang paling mungkin muncul dalam konteks tersebut.
+Di akhir pelajaran ini, kamu bisa membaca kata seperti 昨日, 昨年, 君, 田中君, 結婚, 結局, 祝日, 曲がる, 奥, dan 寝る di karangan pendek. Fokuskan pada alur cerita: waktu, orang, hubungan, tempat, lalu kegiatan.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> pakai petunjuk waktu dan hubungan cerita: 昨日, 結婚, 祝う, 曲がる, 奥, 寝る.
@@ -42,9 +42,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: サク</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-  <p>Dalam karangan pendek dan cerita pengalaman, 昨 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>昨 menandai waktu yang sudah lewat. Dalam karangan, 昨日 dan 昨年 membantu menentukan kapan pengalaman terjadi.</p>
   <ul>
     <li><span class="ruby-word"><ruby>昨日<rt>きのう</rt></ruby></span> - kemarin</li>
+    <li><span class="ruby-word"><ruby>昨夜<rt>さくや</rt></ruby></span> - kemarin, yang lalu</li>
     <li><span class="ruby-word"><ruby>昨年<rt>さくねん</rt></ruby></span> - tahun lalu</li>
   </ul>
 </details>
@@ -57,10 +58,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: クン</span><span>kunyomi: きみ</span></span>
     </span>
   </summary>
-  <p>Dalam karangan pendek dan cerita pengalaman, 君 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>君 bisa berarti “kamu” atau sapaan setelah nama. Perhatikan apakah muncul sendiri atau setelah nama orang seperti 田中君.</p>
   <ul>
+    <li><span class="ruby-word"><ruby>〇〇君<rt>きみ</rt></ruby></span> - kamu</li>
     <li><span class="ruby-word"><ruby>君<rt>きみ</rt></ruby></span> - kamu</li>
-    <li><span class="ruby-word"><ruby>田中君<rt>たなかくん</rt></ruby></span> - Tanaka-kun</li>
+    <li><span class="ruby-word"><ruby>田中君<rt>たなかくん</rt></ruby></span> - kamu (informal), sebutan hormat pria</li>
   </ul>
 </details>
 
@@ -72,10 +74,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ケツ</span><span>kunyomi: むすぶ</span></span>
     </span>
   </summary>
-  <p>Dalam karangan pendek dan cerita pengalaman, 結 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>結 memberi rasa mengikat atau menyimpulkan. Dalam 結婚 maknanya pernikahan, sedangkan 結局 menutup cerita sebagai “akhirnya”.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>結婚<rt>けっこん</rt></ruby></span> - pernikahan</li>
+    <li><span class="ruby-word"><ruby>結構(な)<rt>けっこう(な)</rt></ruby></span> - mengikat, menyimpulkan</li>
     <li><span class="ruby-word"><ruby>結局<rt>けっきょく</rt></ruby></span> - akhirnya</li>
+    <li><span class="ruby-word"><ruby>結ぶ<rt>むすぶ</rt></ruby></span> - mengikat, menyimpulkan</li>
+    <li><span class="ruby-word"><ruby>結婚<rt>けっこん</rt></ruby></span> - pernikahan</li>
   </ul>
 </details>
 
@@ -87,9 +91,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: コン</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-  <p>Dalam karangan pendek dan cerita pengalaman, 婚 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>婚 khusus berkaitan dengan pernikahan. Jika muncul bersama 結 atau 約, bacalah sebagai hubungan pernikahan atau pertunangan.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>結婚<rt>けっこん</rt></ruby></span> - menikah</li>
+    <li><span class="ruby-word"><ruby>結婚<rt>けっこん</rt></ruby></span> - pernikahan</li>
     <li><span class="ruby-word"><ruby>婚約<rt>こんやく</rt></ruby></span> - tunangan</li>
   </ul>
 </details>
@@ -102,10 +106,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: シュク</span><span>kunyomi: いわう</span></span>
     </span>
   </summary>
-  <p>Dalam karangan pendek dan cerita pengalaman, 祝 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>祝 menandai perayaan atau ucapan selamat. Dalam 祝日, maknanya menjadi hari libur nasional.</p>
   <ul>
     <li><span class="ruby-word"><ruby>祝日<rt>しゅくじつ</rt></ruby></span> - hari libur nasional</li>
     <li><span class="ruby-word"><ruby>祝う<rt>いわう</rt></ruby></span> - merayakan</li>
+    <li><span class="ruby-word"><ruby>お祝い<rt>おいわい</rt></ruby></span> - merayakan, mengucapkan selamat</li>
   </ul>
 </details>
 
@@ -117,10 +122,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: キョク</span><span>kunyomi: まがる, まげる</span></span>
     </span>
   </summary>
-  <p>Dalam karangan pendek dan cerita pengalaman, 曲 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>曲 bisa berarti lagu atau berbelok. Lihat okurigana: 曲がる adalah berbelok, sedangkan 曲 saja sering berarti lagu.</p>
   <ul>
     <li><span class="ruby-word"><ruby>曲<rt>きょく</rt></ruby></span> - lagu</li>
+    <li><span class="ruby-word"><ruby>曲線<rt>きょくせん</rt></ruby></span> - lagu, musik</li>
     <li><span class="ruby-word"><ruby>曲がる<rt>まがる</rt></ruby></span> - berbelok</li>
+    <li><span class="ruby-word"><ruby>曲げる<rt>まげる</rt></ruby></span> - lagu, musik</li>
   </ul>
 </details>
 
@@ -132,10 +139,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: おく</span></span>
     </span>
   </summary>
-  <p>Dalam karangan pendek dan cerita pengalaman, 奥 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>奥 menunjuk bagian dalam atau belakang. Dalam 奥さん, maknanya berubah menjadi istri orang lain.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>奥<rt>おく</rt></ruby></span> - bagian dalam</li>
     <li><span class="ruby-word"><ruby>奥さん<rt>おくさん</rt></ruby></span> - istri orang lain</li>
+    <li><span class="ruby-word"><ruby>奥<rt>おく</rt></ruby></span> - bagian dalam</li>
   </ul>
 </details>
 
@@ -147,10 +154,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: ねる</span></span>
     </span>
   </summary>
-  <p>Dalam karangan pendek dan cerita pengalaman, 寝 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>寝 berkaitan dengan tidur. Dalam cerita pengalaman, kata ini sering muncul sebagai kegiatan harian seperti 寝る atau 昼寝.</p>
   <ul>
     <li><span class="ruby-word"><ruby>寝る<rt>ねる</rt></ruby></span> - tidur</li>
     <li><span class="ruby-word"><ruby>昼寝<rt>ひるね</rt></ruby></span> - tidur siang</li>
+    <li><span class="ruby-word"><ruby>寝坊<rt>ねぼう</rt></ruby></span> - tidur, berbaring</li>
   </ul>
 </details>
 </div>
@@ -169,7 +177,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <span>祝日</span>
 </div>
 
-Hubungan kata hari ini bisa dibaca sebagai alur: waktu lalu -> orang/hubungan -> perayaan -> gerak/bagian dalam -> kegiatan tidur. Dengan membaca hubungan ini, kamu tidak perlu menerjemahkan kata satu per satu; cukup tentukan apakah kata itu menunjukkan benda, status, tindakan, jumlah, orang, atau informasi tambahan.
+Peta kata hari ini mengikuti alur: waktu lalu -> orang/hubungan -> perayaan -> gerak/bagian dalam -> kegiatan tidur. Gunakan alur ini untuk melihat fungsi kata sebelum menerjemahkan satu per satu.
 
 ## Catatan Pemakaian
 
@@ -208,11 +216,11 @@ Hubungan kata hari ini bisa dibaca sebagai alur: waktu lalu -> orang/hubungan ->
 
 ## Hal yang Mudah Tertukar
 
-Jangan memilih bacaan dari satu kanji secara terpisah. Untuk kata majemuk seperti 昨日 atau 君, baca seluruh kata dulu, lalu cocokkan dengan konteks: apakah sedang membahas barang, formulir, kesehatan, berita, atau pengumuman. Jika kata berada dekat angka, biasanya fungsinya berbeda dari kata yang berada dekat nama tempat atau tindakan.
+Baca kata sebagai satu blok dulu, terutama pada contoh seperti 昨日 atau 君. Setelah itu cocokkan dengan konteks pelajaran, karena satu kanji bisa berubah fungsi saat masuk kata majemuk.
 
 ## Kesalahan Umum
 
-Kesalahan yang sering terjadi adalah memaksa kunyomi ke semua kata majemuk. Strateginya: lihat apakah kata terdiri dari dua kanji atau lebih; kalau ya, coba baca sebagai satu blok dengan onyomi lebih dulu, lalu cek apakah ada okurigana seperti る, す, atau い yang menandakan bacaan kunyomi.
+Kesalahan umum: memaksa satu bacaan ke semua kata. Jika ada okurigana seperti る, す, atau い, biasanya bacaan kunyomi lebih mungkin muncul. Jika kata terdiri dari beberapa kanji tanpa okurigana, baca sebagai kata majemuk lebih dulu.
 
 ## Mini Practice
 

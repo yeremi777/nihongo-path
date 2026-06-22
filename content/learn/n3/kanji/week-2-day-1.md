@@ -23,7 +23,7 @@ tags:
 
 Mengenali delapan kanji N3 yang sering muncul saat membaca informasi restoran: 準, 備, 営, 閉, 案, 内, 予, dan 約.
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 準備, 営業, 開閉, 案内, 予定, dan 予約 ketika melihat papan restoran atau halaman reservasi.
+Di akhir pelajaran ini, kamu bisa membaca kata seperti 準備, 営業, 開閉, 案内, 予定, dan 予約 ketika melihat papan restoran atau halaman reservasi.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> baca informasi restoran sebagai urutan layanan: persiapan, jam operasi, buka/tutup, petunjuk di dalam tempat, lalu reservasi.
@@ -45,7 +45,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>Dipakai untuk hal yang belum dimulai tetapi sedang disiapkan. Dalam 準備, fokusnya adalah kondisi sebelum layanan siap.</p>
   <ul>
     <li><span class="ruby-word"><ruby>準備<rt>じゅんび</rt></ruby></span> - persiapan</li>
-    <li><span class="ruby-word"><ruby>準備中<rt>じゅんびちゅう</rt></ruby></span> - sedang persiapan</li>
+    <li><span class="ruby-word"><ruby>準備中<rt>じゅんびちゅう</rt></ruby></span> - mempersiapkan, standar</li>
   </ul>
 </details>
 
@@ -61,6 +61,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>準備<rt>じゅんび</rt></ruby></span> - persiapan</li>
     <li><span class="ruby-word"><ruby>備える<rt>そなえる</rt></ruby></span> - bersiap, melengkapi</li>
+    <li><span class="ruby-word"><ruby>準備中<rt>じゅんびちゅう</rt></ruby></span> - mempersiapkan, melengkapi</li>
   </ul>
 </details>
 
@@ -75,7 +76,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>営 muncul dalam kata layanan atau operasional. Untuk restoran, 営業 adalah kata penting pada papan jam buka.</p>
   <ul>
     <li><span class="ruby-word"><ruby>営業<rt>えいぎょう</rt></ruby></span> - operasi bisnis</li>
-    <li><span class="ruby-word"><ruby>営業時間<rt>えいぎょうじかん</rt></ruby></span> - jam operasional</li>
+    <li><span class="ruby-word"><ruby>営業時間<rt>えいぎょうじかん</rt></ruby></span> - mengelola, beroperasi</li>
   </ul>
 </details>
 
@@ -120,9 +121,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>内 menunjukkan bagian dalam atau batas suatu area. Di restoran, 店内 berarti area dalam toko.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>店内<rt>てんない</rt></ruby></span> - di dalam toko</li>
+    <li><span class="ruby-word"><ruby>家内<rt>かない</rt></ruby></span> - dalam, di dalam</li>
     <li><span class="ruby-word"><ruby>内側<rt>うちがわ</rt></ruby></span> - sisi dalam</li>
+    <li><span class="ruby-word"><ruby>以内<rt>いない</rt></ruby></span> - dalam, di dalam</li>
     <li><span class="ruby-word"><ruby>国内<rt>こくない</rt></ruby></span> - dalam negeri</li>
+    <li><span class="ruby-word"><ruby>案内<rt>あんない</rt></ruby></span> - panduan, informasi</li>
   </ul>
 </details>
 
@@ -138,6 +141,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>予定<rt>よてい</rt></ruby></span> - rencana jadwal</li>
     <li><span class="ruby-word"><ruby>予習<rt>よしゅう</rt></ruby></span> - persiapan belajar sebelum kelas</li>
+    <li><span class="ruby-word"><ruby>予約<rt>よやく</rt></ruby></span> - reservasi</li>
   </ul>
 </details>
 
@@ -152,8 +156,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>約 bisa berarti janji/reservasi atau kira-kira. Dalam restoran, fokusnya biasanya 予約.</p>
   <ul>
     <li><span class="ruby-word"><ruby>予約<rt>よやく</rt></ruby></span> - reservasi</li>
-    <li><span class="ruby-word"><ruby>約束<rt>やくそく</rt></ruby></span> - janji</li>
-    <li><span class="ruby-word"><ruby>約三十分<rt>やくさんじゅっぷん</rt></ruby></span> - sekitar 30 menit</li>
+    <li><span class="ruby-word"><ruby>約〜<rt>やく〜</rt></ruby></span> - sekitar, janji</li>
   </ul>
 </details>
 </div>
@@ -215,7 +218,7 @@ Kata-kata hari ini bergerak dari kesiapan restoran sampai reservasi. 準備 menj
 
 ## Hal yang Mudah Tertukar
 
-| Pasangan | Bedanya |
+| Pasangan | Cara membedakan |
 |---|---|
 | 予約 / 予定 | 予約 berarti sudah memesan tempat atau layanan. 予定 hanya rencana; belum tentu sudah dipesan. |
 | 営業 / 準備 | 営業 menunjukkan layanan sedang berjalan. 準備 menunjukkan tahap sebelum layanan siap. |

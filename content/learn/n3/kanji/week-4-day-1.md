@@ -1,6 +1,6 @@
 ---
 title: "日用品"
-description: "Belajar kanji N3 yang sering muncul di daftar belanja, label bahan makanan, dan keterangan jumlah barang sehari-hari."
+description: "Belajar kanji N3 yang sering muncul di daftar belanja, label bahan makanan, papan harga, dan keterangan jumlah barang sehari-hari."
 level: "N3"
 category: "kanji"
 topic: "日用品"
@@ -21,9 +21,9 @@ tags:
 
 ## Tujuan
 
-Mengenali kanji N3 yang sering muncul di daftar belanja, label bahan makanan, dan keterangan jumlah barang sehari-hari: 砂、塩、油、緑、紅、冊、個、枚。
+Mengenali kanji N3 yang sering muncul di daftar belanja, label bahan makanan, dan satuan jumlah barang: 砂, 塩, 油, 緑, 紅, 冊, 個, dan 枚.
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 砂糖、砂、食塩、塩、しょう油、油 di daftar belanja, label bahan makanan, dan keterangan jumlah barang sehari-hari. Fokus hari ini bukan menghafal semua bacaan sekaligus, tetapi mengenali kata yang paling mungkin muncul dalam konteks tersebut.
+Di akhir pelajaran ini, kamu bisa membaca nama bahan seperti 砂糖, 食塩, しょう油, 緑茶, 紅茶, serta satuan seperti 一冊, 一個, dan 一枚. Fokuskan pada dua kelompok besar: bahan/warna makanan dan cara menghitung barang.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> pisahkan kata benda harian dari penghitung jumlah seperti 冊, 個, dan 枚.
@@ -42,7 +42,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: サ</span><span>kunyomi: すな</span></span>
     </span>
   </summary>
-  <p>Pada label bahan makanan dan daftar belanja, 砂 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>砂 berarti pasir, tetapi dalam 砂糖 kanji ini menjadi bagian dari kata gula. Bacalah 砂糖 sebagai satu kata utuh.</p>
   <ul>
     <li><span class="ruby-word"><ruby>砂糖<rt>さとう</rt></ruby></span> - gula</li>
     <li><span class="ruby-word"><ruby>砂<rt>すな</rt></ruby></span> - pasir</li>
@@ -57,7 +57,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: エン</span><span>kunyomi: しお</span></span>
     </span>
   </summary>
-  <p>Pada label bahan makanan dan daftar belanja, 塩 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>塩 menandai garam. Pada label makanan, 食塩 biasanya menunjuk kandungan garam atau garam dapur.</p>
   <ul>
     <li><span class="ruby-word"><ruby>食塩<rt>しょくえん</rt></ruby></span> - garam dapur</li>
     <li><span class="ruby-word"><ruby>塩<rt>しお</rt></ruby></span> - garam</li>
@@ -72,9 +72,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ユ</span><span>kunyomi: あぶら</span></span>
     </span>
   </summary>
-  <p>Pada label bahan makanan dan daftar belanja, 油 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>油 berkaitan dengan minyak. Dalam しょう油, jangan terjemahkan per kanji; kata utuhnya berarti kecap asin.</p>
   <ul>
     <li><span class="ruby-word"><ruby>しょう油<rt>しょうゆ</rt></ruby></span> - kecap asin</li>
+    <li><span class="ruby-word"><ruby>灯油<rt>とうゆ</rt></ruby></span> - minyak, lemak</li>
+    <li><span class="ruby-word"><ruby>石油<rt>せきゆ</rt></ruby></span> - minyak bumi</li>
     <li><span class="ruby-word"><ruby>油<rt>あぶら</rt></ruby></span> - minyak</li>
   </ul>
 </details>
@@ -87,10 +89,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: リョク</span><span>kunyomi: みどり</span></span>
     </span>
   </summary>
-  <p>Pada label bahan makanan dan daftar belanja, 緑 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>緑 menunjukkan warna hijau. Dalam 緑茶, kanji ini membantu mengenali jenis teh, yaitu teh hijau.</p>
   <ul>
     <li><span class="ruby-word"><ruby>緑茶<rt>りょくちゃ</rt></ruby></span> - teh hijau</li>
-    <li><span class="ruby-word"><ruby>緑<rt>みどり</rt></ruby></span> - hijau</li>
+    <li><span class="ruby-word"><ruby>緑(色)<rt>みどり(しょく)</rt></ruby></span> - hijau</li>
   </ul>
 </details>
 
@@ -102,7 +104,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: コウ</span><span>kunyomi: べに</span></span>
     </span>
   </summary>
-  <p>Pada label bahan makanan dan daftar belanja, 紅 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>紅 memberi rasa merah atau kemerahan. Dalam 紅茶, kata utuhnya berarti teh hitam, bukan “teh merah” secara harfiah.</p>
   <ul>
     <li><span class="ruby-word"><ruby>紅茶<rt>こうちゃ</rt></ruby></span> - teh hitam</li>
     <li><span class="ruby-word"><ruby>口紅<rt>くちべに</rt></ruby></span> - lipstik</li>
@@ -117,10 +119,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: サツ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-  <p>Pada label bahan makanan dan daftar belanja, 冊 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>冊 dipakai untuk menghitung buku atau benda berjilid. Cari angka di dekatnya untuk membaca jumlah.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>一冊<rt>いっさつ</rt></ruby></span> - satu buku</li>
+    <li><span class="ruby-word"><ruby>〜冊<rt>〜さつ</rt></ruby></span> - pola kata untuk satuan buku</li>
     <li><span class="ruby-word"><ruby>冊数<rt>さっすう</rt></ruby></span> - jumlah buku</li>
+    <li><span class="ruby-word"><ruby>一冊<rt>いちさつ</rt></ruby></span> - satuan buku</li>
   </ul>
 </details>
 
@@ -132,10 +135,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: コ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-  <p>Pada label bahan makanan dan daftar belanja, 個 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>個 adalah satuan umum untuk benda. Pada daftar belanja, kanji ini sering muncul setelah angka.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>一個<rt>いっこ</rt></ruby></span> - satu buah</li>
+    <li><span class="ruby-word"><ruby>〜個<rt>〜こ</rt></ruby></span> - pola kata untuk satuan benda umum</li>
     <li><span class="ruby-word"><ruby>個人<rt>こじん</rt></ruby></span> - individu</li>
+    <li><span class="ruby-word"><ruby>個数<rt>こすう</rt></ruby></span> - satuan benda umum, individu</li>
+    <li><span class="ruby-word"><ruby>団体<rt>だんたい</rt></ruby></span> - satuan benda umum, individu</li>
   </ul>
 </details>
 
@@ -147,9 +152,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: マイ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-  <p>Pada label bahan makanan dan daftar belanja, 枚 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>枚 dipakai untuk benda tipis atau lembaran. Bedakan dari 個 dengan melihat bentuk barang yang dihitung.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>一枚<rt>いちまい</rt></ruby></span> - satu lembar</li>
+    <li><span class="ruby-word"><ruby>〜枚<rt>〜まい</rt></ruby></span> - pola kata untuk satuan benda tipis/lembaran</li>
     <li><span class="ruby-word"><ruby>枚数<rt>まいすう</rt></ruby></span> - jumlah lembar</li>
   </ul>
 </details>
@@ -169,7 +174,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <span>紅茶</span>
 </div>
 
-Hubungan kata hari ini bisa dibaca sebagai alur: bahan dan warna -> jenis barang -> jumlah/satuan. Dengan membaca hubungan ini, kamu tidak perlu menerjemahkan kata satu per satu; cukup tentukan apakah kata itu menunjukkan benda, status, tindakan, jumlah, orang, atau informasi tambahan.
+Peta kata hari ini bergerak dari bahan makanan ke satuan jumlah. 砂糖, 食塩, しょう油, 緑茶, dan 紅茶 membantu membaca label atau daftar belanja, sedangkan 一冊, 一個, dan 一枚 membantu membaca jumlah barang.
 
 ## Catatan Pemakaian
 
@@ -210,11 +215,16 @@ Hubungan kata hari ini bisa dibaca sebagai alur: bahan dan warna -> jenis barang
 
 ## Hal yang Mudah Tertukar
 
-Jangan memilih bacaan dari satu kanji secara terpisah. Untuk kata majemuk seperti 砂糖 atau 食塩, baca seluruh kata dulu, lalu cocokkan dengan konteks: apakah sedang membahas barang, formulir, kesehatan, berita, atau pengumuman. Jika kata berada dekat angka, biasanya fungsinya berbeda dari kata yang berada dekat nama tempat atau tindakan.
+| Pasangan | Cara membedakan |
+|---|---|
+| 砂糖 / 食塩 | 砂糖 adalah gula. 食塩 adalah garam untuk makanan atau label kandungan garam. |
+| 緑茶 / 紅茶 | 緑茶 adalah teh hijau. 紅茶 berarti teh hitam dalam bahasa Jepang modern. |
+| 冊 / 枚 | 冊 untuk buku atau jilid. 枚 untuk lembaran atau benda tipis. |
+| 個 / 枚 | 個 untuk benda umum. 枚 dipakai saat bentuknya tipis atau datar. |
 
 ## Kesalahan Umum
 
-Kesalahan yang sering terjadi adalah memaksa kunyomi ke semua kata majemuk. Strateginya: lihat apakah kata terdiri dari dua kanji atau lebih; kalau ya, coba baca sebagai satu blok dengan onyomi lebih dulu, lalu cek apakah ada okurigana seperti る, す, atau い yang menandakan bacaan kunyomi.
+Jangan menerjemahkan bahan makanan terlalu harfiah. 砂糖, しょう油, dan 紅茶 harus dibaca sebagai kata utuh karena maknanya tidak selalu sama dengan gabungan arti tiap kanji.
 
 ## Mini Practice
 

@@ -23,9 +23,9 @@ tags:
 
 ## Tujuan
 
-Mengenali delapan kanji N3 yang sering muncul di papan parkir, larangan, dan petunjuk fasilitas umum: 駐, 無, 満, 向, 禁, 関, 係, dan 断.
+Mengenali kanji N3 yang sering muncul di papan parkir, larangan, dan petunjuk fasilitas umum: 駐, 無, 満, 向, 禁, 関, 係, dan 断.
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata umum seperti 駐車場, 満車, 禁止, 関係, 係員, dan 無断 saat melihat pengumuman pendek. Fokusnya bukan menghafal semua bacaan sekaligus, tetapi mengenali kata yang paling mungkin muncul di papan nyata.
+Di akhir pelajaran ini, kamu bisa membaca kata utuh yang paling mungkin muncul di papan nyata, seperti 駐車場, 満車, 禁止, 関係, 係員, dan 無断.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> baca kanji sebagai bagian dari tanda atau kata majemuk. Jangan hafalkan kanji sendirian dulu. Hubungkan bentuk kanji dengan kata yang kemungkinan muncul di tempat umum.
@@ -49,6 +49,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>駐車<rt>ちゅうしゃ</rt></ruby></span> - parkir kendaraan</li>
     <li><span class="ruby-word"><ruby>駐車場<rt>ちゅうしゃじょう</rt></ruby></span> - tempat parkir</li>
     <li><span class="ruby-word"><ruby>駐車禁止<rt>ちゅうしゃきんし</rt></ruby></span> - dilarang parkir</li>
+    <li><span class="ruby-word"><ruby>無断駐車<rt>むだんちゅうしゃ</rt></ruby></span> - parkir tanpa izin</li>
   </ul>
 </details>
 
@@ -62,10 +63,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>無 memberi rasa “tanpa/tidak ada”. Pada papan umum, kanji ini sering menjelaskan biaya, izin, atau hari libur.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>無料<rt>むりょう</rt></ruby></span> - gratis</li>
     <li><span class="ruby-word"><ruby>無休<rt>むきゅう</rt></ruby></span> - tanpa hari libur</li>
-    <li><span class="ruby-word"><ruby>無断<rt>むだん</rt></ruby></span> - tanpa izin</li>
+    <li><span class="ruby-word"><ruby>無理な<rt>むりな</rt></ruby></span> - tidak ada, tanpa</li>
+    <li><span class="ruby-word"><ruby>無料<rt>むりょう</rt></ruby></span> - gratis</li>
     <li><span class="ruby-word"><ruby>無い<rt>ない</rt></ruby></span> - tidak ada</li>
+    <li><span class="ruby-word"><ruby>無断<rt>むだん</rt></ruby></span> - tanpa izin</li>
   </ul>
 </details>
 
@@ -81,7 +83,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>満車<rt>まんしゃ</rt></ruby></span> - parkir penuh</li>
     <li><span class="ruby-word"><ruby>満員<rt>まんいん</rt></ruby></span> - kapasitas penuh orang</li>
-    <li><span class="ruby-word"><ruby>不満<rt>ふまん</rt></ruby></span> - rasa tidak puas</li>
+    <li><span class="ruby-word"><ruby>不満な<rt>ふまん</rt></ruby></span> - rasa tidak puas</li>
   </ul>
 </details>
 
@@ -98,7 +100,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>方向<rt>ほうこう</rt></ruby></span> - arah</li>
     <li><span class="ruby-word"><ruby>向かう<rt>むかう</rt></ruby></span> - menuju</li>
     <li><span class="ruby-word"><ruby>向こう<rt>むこう</rt></ruby></span> - sebelah sana</li>
-    <li><span class="ruby-word"><ruby>右向き<rt>みぎむき</rt></ruby></span> - menghadap kanan</li>
+    <li><span class="ruby-word"><ruby>〇〇向き<rt>〇〇むき</rt></ruby></span> - pola kata untuk arah</li>
   </ul>
 </details>
 
@@ -113,7 +115,6 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>禁 adalah penanda larangan yang kuat. Saat melihat kanji ini, cari tindakan apa yang dilarang.</p>
   <ul>
     <li><span class="ruby-word"><ruby>禁止<rt>きんし</rt></ruby></span> - larangan</li>
-    <li><span class="ruby-word"><ruby>禁煙<rt>きんえん</rt></ruby></span> - dilarang merokok</li>
     <li><span class="ruby-word"><ruby>駐車禁止<rt>ちゅうしゃきんし</rt></ruby></span> - dilarang parkir</li>
   </ul>
 </details>
@@ -130,7 +131,6 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>関心<rt>かんしん</rt></ruby></span> - minat, perhatian</li>
     <li><span class="ruby-word"><ruby>関する<rt>かんする</rt></ruby></span> - berkaitan dengan</li>
-    <li><span class="ruby-word"><ruby>関係<rt>かんけい</rt></ruby></span> - hubungan</li>
     <li><span class="ruby-word"><ruby>関係者<rt>かんけいしゃ</rt></ruby></span> - pihak terkait</li>
   </ul>
 </details>
@@ -145,9 +145,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>係 bisa berarti hubungan, tetapi dalam fasilitas umum sering menunjuk petugas atau penanggung jawab.</p>
   <ul>
+    <li><span class="ruby-word"><ruby>関係<rt>かんけい</rt></ruby></span> - hubungan</li>
     <li><span class="ruby-word"><ruby>係<rt>かかり</rt></ruby></span> - petugas, penanggung jawab</li>
     <li><span class="ruby-word"><ruby>係員<rt>かかりいん</rt></ruby></span> - petugas</li>
-    <li><span class="ruby-word"><ruby>関係<rt>かんけい</rt></ruby></span> - hubungan</li>
+    <li><span class="ruby-word"><ruby>関係者<rt>かんけいしゃ</rt></ruby></span> - pihak terkait</li>
   </ul>
 </details>
 
@@ -164,13 +165,14 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>無断<rt>むだん</rt></ruby></span> - tanpa izin</li>
     <li><span class="ruby-word"><ruby>断水<rt>だんすい</rt></ruby></span> - pemutusan air</li>
     <li><span class="ruby-word"><ruby>断る<rt>ことわる</rt></ruby></span> - menolak</li>
+    <li><span class="ruby-word"><ruby>無断駐車<rt>むだんちゅうしゃ</rt></ruby></span> - parkir tanpa izin</li>
   </ul>
 </details>
 </div>
 
 ## Peta Kata
 
-Kata utama hari ini adalah 駐車場 yang berarti tempat parkir.
+Kata utama hari ini adalah 駐車場. Dari kata ini, kamu bisa membaca informasi sekitar parkir: apakah tempatnya penuh, gratis, dilarang, tanpa izin, atau hanya boleh untuk pihak tertentu.
 
 <div class="word-strip">
   <span>駐車場</span>
@@ -244,7 +246,7 @@ Pada papan petunjuk, kata-kata ini sering muncul tanpa kalimat panjang. Bacalah 
 
 ## Hal yang Mudah Tertukar
 
-| Pasangan | Bedanya |
+| Pasangan | Cara membedakan |
 |---|---|
 | 無料 / 無理 | Lihat kanji kedua: 料 berkaitan dengan biaya, 理 berkaitan dengan alasan atau kewajaran. |
 | 満車 / 満員 | Lihat objek yang penuh: 車 untuk kendaraan/parkir, 員 untuk orang atau kapasitas orang. |

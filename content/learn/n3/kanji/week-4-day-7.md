@@ -23,7 +23,7 @@ tags:
 
 Mengenali tujuh kanji tambahan N3 dari minggu keempat: 細, 戸, 湖, 船, 角, 夫, dan 苦.
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 細い, 細かい, 雨戸, びわ湖, 船便, 三角形, 夫婦, dan 苦手 dalam bacaan pendek sehari-hari.
+Di akhir pelajaran ini, kamu bisa membaca kata seperti 細い, 細かい, 雨戸, びわ湖, 船便, 三角形, 夫婦, dan 苦手 dalam bacaan pendek sehari-hari.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> anggap hari ini sebagai penguat bacaan umum. Kelompokkan kanji menurut benda nyata, bentuk, keluarga, lalu rasa sulit atau pahit.
@@ -61,7 +61,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>戸<rt>と</rt></ruby></span> - pintu</li>
     <li><span class="ruby-word"><ruby>雨戸<rt>あまど</rt></ruby></span> - penutup jendela</li>
-    <li><span class="ruby-word"><ruby>戸棚<rt>とだな</rt></ruby></span> - lemari dinding</li>
+    <li><span class="ruby-word"><ruby>戸だな<rt>とだな</rt></ruby></span> - pintu, rumah tangga</li>
+    <li><span class="ruby-word"><ruby>戸棚<rt>とだな</rt></ruby></span> - pintu, rumah tangga</li>
   </ul>
 </details>
 
@@ -75,8 +76,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>湖 menandai danau. Nama tempat wisata seperti びわ湖 sering muncul di peta dan brosur.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>湖<rt>みずうみ</rt></ruby></span> - danau</li>
     <li><span class="ruby-word"><ruby>びわ湖<rt>びわこ</rt></ruby></span> - Danau Biwa</li>
+    <li><span class="ruby-word"><ruby>湖<rt>みずうみ</rt></ruby></span> - danau</li>
   </ul>
 </details>
 
@@ -90,9 +91,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>船 berarti kapal atau perahu. Dalam kata majemuk, bacaan ふな juga muncul seperti pada 船便.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>船<rt>ふね</rt></ruby></span> - kapal</li>
-    <li><span class="ruby-word"><ruby>船便<rt>ふなびん</rt></ruby></span> - pos kapal</li>
     <li><span class="ruby-word"><ruby>風船<rt>ふうせん</rt></ruby></span> - balon</li>
+    <li><span class="ruby-word"><ruby>船<rt>ふね</rt></ruby></span> - kapal</li>
+    <li><span class="ruby-word"><ruby>船長<rt>せんちょう</rt></ruby></span> - kapal, perahu</li>
+    <li><span class="ruby-word"><ruby>船便<rt>ふなびん</rt></ruby></span> - pos kapal</li>
   </ul>
 </details>
 
@@ -106,9 +108,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>角 bisa berarti sudut, pojok, atau bentuk bersudut. Dalam matematika dan bentuk benda, kanji ini sering muncul.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>角<rt>かど</rt></ruby></span> - sudut, pojok</li>
-    <li><span class="ruby-word"><ruby>三角形<rt>さんかくけい</rt></ruby></span> - segitiga</li>
+    <li><span class="ruby-word"><ruby>角度<rt>かくど</rt></ruby></span> - sudut, pojok</li>
     <li><span class="ruby-word"><ruby>四角い<rt>しかくい</rt></ruby></span> - berbentuk persegi</li>
+    <li><span class="ruby-word"><ruby>三角形<rt>さんかくけい</rt></ruby></span> - segitiga</li>
+    <li><span class="ruby-word"><ruby>角<rt>かど</rt></ruby></span> - sudut, pojok</li>
   </ul>
 </details>
 
@@ -122,9 +125,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>夫 berarti suami. Dalam 夫婦 atau 夫妻, kanji ini muncul bersama kata untuk istri.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>夫<rt>おっと</rt></ruby></span> - suami</li>
+    <li><span class="ruby-word"><ruby>夫妻<rt>ふさい</rt></ruby></span> - suami istri</li>
     <li><span class="ruby-word"><ruby>夫婦<rt>ふうふ</rt></ruby></span> - suami istri</li>
-    <li><span class="ruby-word"><ruby>夫妻<rt>ふさい</rt></ruby></span> - pasangan suami istri</li>
+    <li><span class="ruby-word"><ruby>夫<rt>おっと</rt></ruby></span> - suami</li>
   </ul>
 </details>
 
@@ -139,8 +142,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>苦 bisa berarti penderitaan, rasa pahit, atau kelemahan pada suatu hal. 苦手 adalah kata penting untuk menyatakan lemah dalam sesuatu.</p>
   <ul>
     <li><span class="ruby-word"><ruby>苦労<rt>くろう</rt></ruby></span> - kesulitan, jerih payah</li>
-    <li><span class="ruby-word"><ruby>苦手<rt>にがて</rt></ruby></span> - lemah dalam, tidak suka</li>
+    <li><span class="ruby-word"><ruby>苦しい<rt>くるしい</rt></ruby></span> - penderitaan, pahit</li>
     <li><span class="ruby-word"><ruby>苦い<rt>にがい</rt></ruby></span> - pahit</li>
+    <li><span class="ruby-word"><ruby>苦手(な)<rt>にがて</rt></ruby></span> - lemah dalam, tidak suka</li>
+    <li><span class="ruby-word"><ruby>苦手<rt>にがて</rt></ruby></span> - lemah dalam, tidak suka</li>
   </ul>
 </details>
 </div>
@@ -209,7 +214,7 @@ Kata-kata hari ini bisa dibaca sebagai alur: bentuk benda → tempat air → tra
 
 ## Hal yang Mudah Tertukar
 
-| Pasangan | Bedanya |
+| Pasangan | Cara membedakan |
 |---|---|
 | 細い / 細かい | 細い berarti tipis secara fisik. 細かい berarti rinci, kecil, atau detail. |
 | 湖 / 海 | 湖 adalah danau di daratan. 海 adalah laut yang lebih luas. |

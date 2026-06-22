@@ -23,7 +23,7 @@ tags:
 
 Mengenali delapan kanji N3 yang sering muncul pada mesin kantor dan pesan telepon: 留, 守, 濃, 薄, 部, 数, 件, dan 再.
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 留守番, 濃い, 薄い, 部分, 部数, 件名, 用件, 再生, dan 再ダイヤル.
+Di akhir pelajaran ini, kamu bisa membaca tombol dan label seperti 留守番電話, 濃い, 薄い, 部数, 件名, 用件, 再生, dan 再ダイヤル pada mesin fotokopi, email, atau pesan suara.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> lihat apakah kata itu mengatur pesan, warna cetak, jumlah salinan, atau tindakan ulang.
@@ -45,7 +45,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>留 memberi rasa menahan atau tetap berada. Dalam 留守, artinya tidak ada di tempat.</p>
   <ul>
     <li><span class="ruby-word"><ruby>留学<rt>りゅうがく</rt></ruby></span> - belajar di luar negeri</li>
+    <li><span class="ruby-word"><ruby>保留<rt>ほりゅう</rt></ruby></span> - ditahan sementara, pending</li>
     <li><span class="ruby-word"><ruby>留守番<rt>るすばん</rt></ruby></span> - menjaga rumah saat orang pergi</li>
+    <li><span class="ruby-word"><ruby>書留<rt>かきとめ</rt></ruby></span> - surat tercatat</li>
     <li><span class="ruby-word"><ruby>留守<rt>るす</rt></ruby></span> - tidak ada di rumah/kantor</li>
   </ul>
 </details>
@@ -60,9 +62,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>守 berarti menjaga atau melindungi. Dalam 留守番, ia berkaitan dengan menjaga tempat saat orang lain pergi.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>守る<rt>まもる</rt></ruby></span> - menjaga</li>
     <li><span class="ruby-word"><ruby>守備<rt>しゅび</rt></ruby></span> - pertahanan</li>
+    <li><span class="ruby-word"><ruby>守る<rt>まもる</rt></ruby></span> - menjaga</li>
     <li><span class="ruby-word"><ruby>留守<rt>るす</rt></ruby></span> - tidak ada di rumah/kantor</li>
+    <li><span class="ruby-word"><ruby>留守番<rt>るすばん</rt></ruby></span> - menjaga rumah saat orang pergi</li>
+    <li><span class="ruby-word"><ruby>留守番電話<rt>るすばんでんわ</rt></ruby></span> - mesin penjawab telepon</li>
   </ul>
 </details>
 
@@ -77,7 +81,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>濃 dipakai untuk warna, rasa, atau cetakan yang pekat/kuat.</p>
   <ul>
     <li><span class="ruby-word"><ruby>濃い<rt>こい</rt></ruby></span> - pekat, gelap, kuat</li>
-    <li><span class="ruby-word"><ruby>濃度<rt>のうど</rt></ruby></span> - konsentrasi</li>
+    <li><span class="ruby-word"><ruby>濃度<rt>のうど</rt></ruby></span> - gelap, pekat</li>
   </ul>
 </details>
 
@@ -92,7 +96,6 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>薄 adalah lawan 濃. Pada salinan, artinya hasil cetak terlalu pucat atau tipis.</p>
   <ul>
     <li><span class="ruby-word"><ruby>薄い<rt>うすい</rt></ruby></span> - tipis, pucat, lemah</li>
-    <li><span class="ruby-word"><ruby>薄める<rt>うすめる</rt></ruby></span> - mengencerkan</li>
   </ul>
 </details>
 
@@ -104,11 +107,13 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ブ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-  <p>部 bisa berarti bagian, departemen, atau jumlah eksemplar. Konteks mesin fotokopi sering memakai 部数.</p>
+  <p>部 bisa berarti bagian, departemen, atau jumlah eksemplar. Pada mesin fotokopi, 部数 menunjuk jumlah salinan yang ingin dicetak.</p>
   <ul>
     <li><span class="ruby-word"><ruby>部分<rt>ぶぶん</rt></ruby></span> - bagian</li>
     <li><span class="ruby-word"><ruby>部長<rt>ぶちょう</rt></ruby></span> - kepala bagian</li>
-    <li><span class="ruby-word"><ruby>部屋<rt>へや</rt></ruby></span> - kamar</li>
+    <li><span class="ruby-word"><ruby>学部<rt>がくぶ</rt></ruby></span> - fakultas</li>
+    <li><span class="ruby-word"><ruby>部屋<rt>へや</rt></ruby></span> - kamar, ruangan</li>
+    <li><span class="ruby-word"><ruby>部数<rt>ぶすう</rt></ruby></span> - jumlah eksemplar</li>
   </ul>
 </details>
 
@@ -120,11 +125,13 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: スウ</span><span>kunyomi: かず, かぞえる</span></span>
     </span>
   </summary>
-  <p>数 menunjuk angka atau jumlah. Dalam 部数, artinya jumlah salinan.</p>
+  <p>数 menunjuk angka atau jumlah. Dalam 部数, kanji ini membantu membaca berapa eksemplar yang akan dicetak.</p>
   <ul>
     <li><span class="ruby-word"><ruby>数字<rt>すうじ</rt></ruby></span> - angka</li>
     <li><span class="ruby-word"><ruby>数学<rt>すうがく</rt></ruby></span> - matematika</li>
+    <li><span class="ruby-word"><ruby>数<rt>かず</rt></ruby></span> - angka, jumlah</li>
     <li><span class="ruby-word"><ruby>数える<rt>かぞえる</rt></ruby></span> - menghitung</li>
+    <li><span class="ruby-word"><ruby>部数<rt>ぶすう</rt></ruby></span> - jumlah eksemplar</li>
   </ul>
 </details>
 
@@ -154,6 +161,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>再 memberi rasa melakukan ulang. Umum pada tombol mesin dan aplikasi.</p>
   <ul>
+    <li><span class="ruby-word"><ruby>再入国<rt>さいにゅうこく</rt></ruby></span> - lagi, kembali</li>
     <li><span class="ruby-word"><ruby>再生<rt>さいせい</rt></ruby></span> - memutar ulang</li>
     <li><span class="ruby-word"><ruby>再ダイヤル<rt>さいダイヤル</rt></ruby></span> - panggil ulang</li>
     <li><span class="ruby-word"><ruby>再来週<rt>さらいしゅう</rt></ruby></span> - dua minggu lagi</li>
@@ -204,7 +212,7 @@ Kata-kata hari ini terbagi menjadi dua alat. 留守番電話 berkaitan dengan pe
   </div>
   <div>
     <p class="jp">コピーが薄いので、少し濃くしてください。</p>
-    <p>Karena hasil fotokopinya tipis, tolong dibuat sedikit lebih pekat.</p>
+    <p>Karena hasil fotokopinya pucat, tolong dibuat sedikit lebih pekat.</p>
   </div>
   <div>
     <p class="jp">会議の資料を三十部コピーします。</p>
@@ -218,7 +226,7 @@ Kata-kata hari ini terbagi menjadi dua alat. 留守番電話 berkaitan dengan pe
 
 ## Hal yang Mudah Tertukar
 
-| Pasangan | Bedanya |
+| Pasangan | Cara membedakan |
 |---|---|
 | 濃い / 薄い | 濃い berarti pekat/gelap/kuat. 薄い berarti tipis/pucat/lemah. Pada mesin fotokopi, ini biasanya warna cetak. |
 | 部 / 分 | 部分 adalah bagian. 部数 adalah jumlah eksemplar; lihat kata setelah 部. |

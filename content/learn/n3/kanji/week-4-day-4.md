@@ -21,9 +21,9 @@ tags:
 
 ## Tujuan
 
-Mengenali kanji N3 yang sering muncul di formulir pendaftaran, kolom usia, jenis kelamin, catatan kontak, dan data pribadi: 申、記、例、齢、歳、性、連、絡。
+Mengenali kanji N3 yang sering muncul di formulir pendaftaran, kolom usia, jenis kelamin, dan data kontak: 申, 記, 例, 齢, 歳, 性, 連, dan 絡.
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 申し込む、申込書、記入、日記、例、例えば di formulir pendaftaran, kolom usia, jenis kelamin, catatan kontak, dan data pribadi. Fokus hari ini bukan menghafal semua bacaan sekaligus, tetapi mengenali kata yang paling mungkin muncul dalam konteks tersebut.
+Di akhir pelajaran ini, kamu bisa membaca label dan instruksi formulir seperti 申込書, 記入, 記入例, 年齢, 性別, dan 連絡先. Fokuskan pada fungsi kolomnya: pendaftaran, contoh pengisian, data diri, atau kontak.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> baca label formulir sebagai kategori data: nama, umur, jenis kelamin, dan kontak.
@@ -42,10 +42,14 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: シン</span><span>kunyomi: もうす</span></span>
     </span>
   </summary>
-  <p>Dalam formulir pendaftaran dan data pribadi, 申 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>申 sering muncul pada proses mengajukan atau mendaftar. Di formulir, cari apakah kata itu menunjuk tindakan mendaftar atau lembar pendaftarannya.</p>
   <ul>
     <li><span class="ruby-word"><ruby>申し込む<rt>もうしこむ</rt></ruby></span> - mendaftar</li>
+    <li><span class="ruby-word"><ruby>申告<rt>しんこく</rt></ruby></span> - laporan, deklarasi</li>
+    <li><span class="ruby-word"><ruby>申す<rt>もうす</rt></ruby></span> - mengatakan (rendah hati), melapor</li>
     <li><span class="ruby-word"><ruby>申込書<rt>もうしこみしょ</rt></ruby></span> - formulir pendaftaran</li>
+    <li><span class="ruby-word"><ruby>申請<rt>しんせい</rt></ruby></span> - permohonan, pengajuan</li>
+    <li><span class="ruby-word"><ruby>申し上げる<rt>もうしあげる</rt></ruby></span> - mengatakan (rendah hati)</li>
   </ul>
 </details>
 
@@ -57,10 +61,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: キ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-  <p>Dalam formulir pendaftaran dan data pribadi, 記 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>記 memberi rasa mencatat atau menulis. Dalam formulir, 記入 biasanya berarti bagian yang perlu diisi, bukan sekadar catatan bebas.</p>
   <ul>
     <li><span class="ruby-word"><ruby>記入<rt>きにゅう</rt></ruby></span> - pengisian</li>
+    <li><span class="ruby-word"><ruby>記号<rt>きごう</rt></ruby></span> - mencatat, merekam</li>
     <li><span class="ruby-word"><ruby>日記<rt>にっき</rt></ruby></span> - buku harian</li>
+    <li><span class="ruby-word"><ruby>記事<rt>きじ</rt></ruby></span> - mencatat, merekam</li>
   </ul>
 </details>
 
@@ -72,7 +78,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: レイ</span><span>kunyomi: たとえる</span></span>
     </span>
   </summary>
-  <p>Dalam formulir pendaftaran dan data pribadi, 例 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>例 menandai contoh. Saat muncul dekat 記入, bacalah sebagai contoh pengisian yang membantu kamu meniru format jawaban.</p>
   <ul>
     <li><span class="ruby-word"><ruby>例<rt>れい</rt></ruby></span> - contoh</li>
     <li><span class="ruby-word"><ruby>例えば<rt>たとえば</rt></ruby></span> - misalnya</li>
@@ -87,7 +93,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: レイ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-  <p>Dalam formulir pendaftaran dan data pribadi, 齢 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>齢 dipakai untuk usia sebagai data pribadi. Dalam formulir, 年齢 biasanya meminta umur, bukan tanggal lahir.</p>
   <ul>
     <li><span class="ruby-word"><ruby>年齢<rt>ねんれい</rt></ruby></span> - umur</li>
     <li><span class="ruby-word"><ruby>高齢<rt>こうれい</rt></ruby></span> - lanjut usia</li>
@@ -102,10 +108,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: サイ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-  <p>Dalam formulir pendaftaran dan data pribadi, 歳 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>歳 muncul setelah angka untuk menyatakan umur. Perhatikan bacaan khusus seperti 二十歳 karena tidak selalu mengikuti pola angka biasa.</p>
   <ul>
+    <li><span class="ruby-word"><ruby>〜歳<rt>〜とし</rt></ruby></span> - pola kata untuk tahun (usia)</li>
     <li><span class="ruby-word"><ruby>二十歳<rt>はたち</rt></ruby></span> - 20 tahun</li>
-    <li><span class="ruby-word"><ruby>三歳<rt>さんさい</rt></ruby></span> - 3 tahun</li>
+    <li><span class="ruby-word"><ruby>二十歳(はたち)<rt>にじゅうさい(はたち)</rt></ruby></span> - tahun (usia)</li>
   </ul>
 </details>
 
@@ -117,9 +124,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: セイ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-  <p>Dalam formulir pendaftaran dan data pribadi, 性 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>性 bisa berarti sifat atau kategori jenis. Dalam formulir, 性別 hampir selalu menunjuk jenis kelamin.</p>
   <ul>
     <li><span class="ruby-word"><ruby>性別<rt>せいべつ</rt></ruby></span> - jenis kelamin</li>
+    <li><span class="ruby-word"><ruby>女性<rt>じょせい</rt></ruby></span> - jenis kelamin, sifat</li>
+    <li><span class="ruby-word"><ruby>男性<rt>だんせい</rt></ruby></span> - jenis kelamin, sifat</li>
     <li><span class="ruby-word"><ruby>性格<rt>せいかく</rt></ruby></span> - kepribadian</li>
   </ul>
 </details>
@@ -132,10 +141,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: レン</span><span>kunyomi: つれる</span></span>
     </span>
   </summary>
-  <p>Dalam formulir pendaftaran dan data pribadi, 連 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>連 memberi rasa terhubung. Di bagian kontak, 連絡 menunjuk cara pihak sekolah, toko, atau kantor menghubungi kamu.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>連絡<rt>れんらく</rt></ruby></span> - kontak</li>
     <li><span class="ruby-word"><ruby>連休<rt>れんきゅう</rt></ruby></span> - libur beruntun</li>
+    <li><span class="ruby-word"><ruby>連れて行く<rt>つれていく</rt></ruby></span> - menghubungkan, membawa serta</li>
+    <li><span class="ruby-word"><ruby>連れて来る<rt>つれてくる</rt></ruby></span> - menghubungkan, membawa serta</li>
   </ul>
 </details>
 
@@ -147,10 +157,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ラク</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-  <p>Dalam formulir pendaftaran dan data pribadi, 絡 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>絡 hampir selalu dibaca bersama 連 dalam 連絡. Kalau ada 先 setelahnya, artinya alamat atau nomor tujuan kontak.</p>
   <ul>
     <li><span class="ruby-word"><ruby>連絡<rt>れんらく</rt></ruby></span> - kontak</li>
-    <li><span class="ruby-word"><ruby>連絡先<rt>れんらくさき</rt></ruby></span> - alamat kontak</li>
   </ul>
 </details>
 </div>
@@ -169,7 +178,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <span>二十歳</span>
 </div>
 
-Hubungan kata hari ini bisa dibaca sebagai alur: permohonan -> pengisian -> contoh -> data pribadi -> kontak. Dengan membaca hubungan ini, kamu tidak perlu menerjemahkan kata satu per satu; cukup tentukan apakah kata itu menunjukkan benda, status, tindakan, jumlah, orang, atau informasi tambahan.
+Peta kata hari ini mengikuti alur: permohonan -> pengisian -> contoh -> data pribadi -> kontak. Gunakan alur ini untuk melihat fungsi kata sebelum menerjemahkan satu per satu.
 
 ## Catatan Pemakaian
 
@@ -210,11 +219,11 @@ Hubungan kata hari ini bisa dibaca sebagai alur: permohonan -> pengisian -> cont
 
 ## Hal yang Mudah Tertukar
 
-Jangan memilih bacaan dari satu kanji secara terpisah. Untuk kata majemuk seperti 申し込む atau 記入, baca seluruh kata dulu, lalu cocokkan dengan konteks: apakah sedang membahas barang, formulir, kesehatan, berita, atau pengumuman. Jika kata berada dekat angka, biasanya fungsinya berbeda dari kata yang berada dekat nama tempat atau tindakan.
+Baca kata sebagai satu blok dulu, terutama pada contoh seperti 申し込む atau 記入. Setelah itu cocokkan dengan konteks pelajaran, karena satu kanji bisa berubah fungsi saat masuk kata majemuk.
 
 ## Kesalahan Umum
 
-Kesalahan yang sering terjadi adalah memaksa kunyomi ke semua kata majemuk. Strateginya: lihat apakah kata terdiri dari dua kanji atau lebih; kalau ya, coba baca sebagai satu blok dengan onyomi lebih dulu, lalu cek apakah ada okurigana seperti る, す, atau い yang menandakan bacaan kunyomi.
+Saat membaca formulir, jangan hanya mencari arti satu kanji. Tentukan dulu jenis kolomnya. Kalau berada dekat angka, kemungkinan besar 年齢 atau 歳; kalau berada dekat alamat, telepon, atau email, kemungkinan besar 連絡.
 
 ## Mini Practice
 

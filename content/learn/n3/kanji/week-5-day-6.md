@@ -23,7 +23,7 @@ tags:
 
 Mengenali kanji N3 yang sering muncul di formulir pemeriksaan kesehatan, tinggi badan, alkohol, rokok, nafsu makan, tidur, lelah, dan napas: 身、酒、吸、欲、眠、疲、息、呼。
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 身長、独身、お酒、日本酒、吸う、呼吸 di formulir pemeriksaan kesehatan, tinggi badan, alkohol, rokok, nafsu makan, tidur, lelah, dan napas. Fokus hari ini bukan menghafal semua bacaan sekaligus, tetapi mengenali kata yang paling mungkin muncul dalam konteks tersebut.
+Di akhir pelajaran ini, kamu bisa membaca kata seperti 身長, 独身, お酒, 日本酒, 吸う, 呼吸, 食欲, 睡眠, 疲れる, dan 息 di formulir pemeriksaan kesehatan. Fokuskan pada data tubuh, kebiasaan, tidur, lelah, dan napas.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> baca gejala sebagai kategori tubuh: 身長, 酒, 吸う, 食欲, 睡眠, 疲れる, 呼吸.
@@ -42,10 +42,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: シン</span><span>kunyomi: み</span></span>
     </span>
   </summary>
-  <p>Dalam formulir pemeriksaan kesehatan, 身 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>身 berkaitan dengan tubuh atau diri sendiri. Dalam 身長, kanji ini membantu membaca data tinggi badan.</p>
   <ul>
     <li><span class="ruby-word"><ruby>身長<rt>しんちょう</rt></ruby></span> - tinggi badan</li>
+    <li><span class="ruby-word"><ruby>身分<rt>みぶん</rt></ruby></span> - tubuh, diri sendiri</li>
     <li><span class="ruby-word"><ruby>独身<rt>どくしん</rt></ruby></span> - lajang</li>
+    <li><span class="ruby-word"><ruby>刺身<rt>さしみ</rt></ruby></span> - tubuh, diri sendiri</li>
   </ul>
 </details>
 
@@ -57,10 +59,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: シュ</span><span>kunyomi: さけ, さか</span></span>
     </span>
   </summary>
-  <p>Dalam formulir pemeriksaan kesehatan, 酒 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>酒 berarti minuman beralkohol. Pada formulir kesehatan, kanji ini biasanya muncul saat menanyakan kebiasaan minum.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>お酒<rt>おさけ</rt></ruby></span> - alkohol</li>
     <li><span class="ruby-word"><ruby>日本酒<rt>にほんしゅ</rt></ruby></span> - sake Jepang</li>
+    <li><span class="ruby-word"><ruby>お酒<rt>おさけ</rt></ruby></span> - alkohol</li>
+    <li><span class="ruby-word"><ruby>料理酒<rt>りょうりしゅ</rt></ruby></span> - sake, alkohol</li>
+    <li><span class="ruby-word"><ruby>酒屋<rt>さかや</rt></ruby></span> - sake, alkohol</li>
   </ul>
 </details>
 
@@ -72,10 +76,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: キュウ</span><span>kunyomi: すう</span></span>
     </span>
   </summary>
-  <p>Dalam formulir pemeriksaan kesehatan, 吸 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>吸 berkaitan dengan mengisap atau menghirup. Dalam kesehatan, perhatikan apakah konteksnya rokok atau pernapasan.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>吸う<rt>すう</rt></ruby></span> - mengisap</li>
     <li><span class="ruby-word"><ruby>呼吸<rt>こきゅう</rt></ruby></span> - pernapasan</li>
+    <li><span class="ruby-word"><ruby>吸う<rt>すう</rt></ruby></span> - mengisap</li>
   </ul>
 </details>
 
@@ -87,9 +91,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ヨク</span><span>kunyomi: ほしい</span></span>
     </span>
   </summary>
-  <p>Dalam formulir pemeriksaan kesehatan, 欲 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>欲 berarti keinginan atau nafsu. Dalam 食欲, fokusnya adalah nafsu makan sebagai kondisi tubuh.</p>
   <ul>
     <li><span class="ruby-word"><ruby>食欲<rt>しょくよく</rt></ruby></span> - nafsu makan</li>
+    <li><span class="ruby-word"><ruby>意欲<rt>いよく</rt></ruby></span> - ingin, keinginan</li>
     <li><span class="ruby-word"><ruby>欲しい<rt>ほしい</rt></ruby></span> - ingin</li>
   </ul>
 </details>
@@ -102,10 +107,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ミン</span><span>kunyomi: ねむい, ねむる</span></span>
     </span>
   </summary>
-  <p>Dalam formulir pemeriksaan kesehatan, 眠 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>眠 berkaitan dengan tidur. Dalam 睡眠, kanji ini muncul pada pertanyaan tentang kualitas atau durasi tidur.</p>
   <ul>
     <li><span class="ruby-word"><ruby>睡眠<rt>すいみん</rt></ruby></span> - tidur</li>
     <li><span class="ruby-word"><ruby>眠い<rt>ねむい</rt></ruby></span> - mengantuk</li>
+    <li><span class="ruby-word"><ruby>眠る<rt>ねむる</rt></ruby></span> - tidur, mengantuk</li>
   </ul>
 </details>
 
@@ -117,10 +123,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: つかれる</span></span>
     </span>
   </summary>
-  <p>Dalam formulir pemeriksaan kesehatan, 疲 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>疲 menandai rasa lelah. Jika ada okurigana れる, bacalah sebagai 疲れる, yaitu menjadi lelah.</p>
   <ul>
     <li><span class="ruby-word"><ruby>疲れる<rt>つかれる</rt></ruby></span> - lelah</li>
-    <li><span class="ruby-word"><ruby>疲れ<rt>つかれ</rt></ruby></span> - kelelahan</li>
   </ul>
 </details>
 
@@ -132,10 +137,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: いき</span></span>
     </span>
   </summary>
-  <p>Dalam formulir pemeriksaan kesehatan, 息 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>息 berarti napas. Dalam 息苦しい, fokusnya adalah rasa sulit bernapas.</p>
   <ul>
     <li><span class="ruby-word"><ruby>息<rt>いき</rt></ruby></span> - napas</li>
     <li><span class="ruby-word"><ruby>息切れ<rt>いきぎれ</rt></ruby></span> - sesak napas</li>
+    <li><span class="ruby-word"><ruby>息子<rt>むすこ</rt></ruby></span> - napas, anak laki-laki</li>
   </ul>
 </details>
 
@@ -147,7 +153,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: コ</span><span>kunyomi: よぶ</span></span>
     </span>
   </summary>
-  <p>Dalam formulir pemeriksaan kesehatan, 呼 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>呼 berarti memanggil atau bernapas dalam kata tertentu. Dalam 呼吸, bacalah sebagai aktivitas bernapas.</p>
   <ul>
     <li><span class="ruby-word"><ruby>呼吸<rt>こきゅう</rt></ruby></span> - pernapasan</li>
     <li><span class="ruby-word"><ruby>呼ぶ<rt>よぶ</rt></ruby></span> - memanggil</li>
@@ -169,7 +175,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <span>睡眠</span>
 </div>
 
-Hubungan kata hari ini bisa dibaca sebagai alur: data tubuh -> kebiasaan -> keinginan/nafsu -> tidur/lelah -> napas. Dengan membaca hubungan ini, kamu tidak perlu menerjemahkan kata satu per satu; cukup tentukan apakah kata itu menunjukkan benda, status, tindakan, jumlah, orang, atau informasi tambahan.
+Peta kata hari ini mengikuti alur: data tubuh -> kebiasaan -> keinginan/nafsu -> tidur/lelah -> napas. Gunakan alur ini untuk melihat fungsi kata sebelum menerjemahkan satu per satu.
 
 ## Catatan Pemakaian
 
@@ -210,11 +216,11 @@ Hubungan kata hari ini bisa dibaca sebagai alur: data tubuh -> kebiasaan -> kein
 
 ## Hal yang Mudah Tertukar
 
-Jangan memilih bacaan dari satu kanji secara terpisah. Untuk kata majemuk seperti 身長 atau お酒, baca seluruh kata dulu, lalu cocokkan dengan konteks: apakah sedang membahas barang, formulir, kesehatan, berita, atau pengumuman. Jika kata berada dekat angka, biasanya fungsinya berbeda dari kata yang berada dekat nama tempat atau tindakan.
+Baca kata sebagai satu blok dulu, terutama pada contoh seperti 身長 atau お酒. Setelah itu cocokkan dengan konteks pelajaran, karena satu kanji bisa berubah fungsi saat masuk kata majemuk.
 
 ## Kesalahan Umum
 
-Kesalahan yang sering terjadi adalah memaksa kunyomi ke semua kata majemuk. Strateginya: lihat apakah kata terdiri dari dua kanji atau lebih; kalau ya, coba baca sebagai satu blok dengan onyomi lebih dulu, lalu cek apakah ada okurigana seperti る, す, atau い yang menandakan bacaan kunyomi.
+Kesalahan umum: memaksa satu bacaan ke semua kata. Jika ada okurigana seperti る, す, atau い, biasanya bacaan kunyomi lebih mungkin muncul. Jika kata terdiri dari beberapa kanji tanpa okurigana, baca sebagai kata majemuk lebih dulu.
 
 ## Mini Practice
 

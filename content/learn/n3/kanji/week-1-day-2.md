@@ -45,6 +45,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>Dalam rambu jalan, 横 membantu membaca gerakan melintang, terutama saat orang atau kendaraan menyeberangi jalan.</p>
   <ul>
     <li><span class="ruby-word"><ruby>横断<rt>おうだん</rt></ruby></span> - menyeberang secara melintang</li>
+    <li><span class="ruby-word"><ruby>横<rt>よこ</rt></ruby></span> - samping, horizontal</li>
     <li><span class="ruby-word"><ruby>横断歩道<rt>おうだんほどう</rt></ruby></span> - zebra cross</li>
   </ul>
 </details>
@@ -60,7 +61,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>押 sering muncul pada instruksi alat. Jika ada tombol, kanji ini biasanya memberi tahu tindakan yang harus dilakukan.</p>
   <ul>
     <li><span class="ruby-word"><ruby>押す<rt>おす</rt></ruby></span> - menekan</li>
-    <li><span class="ruby-word"><ruby>押しボタン<rt>おしぼたん</rt></ruby></span> - tombol tekan</li>
+    <li><span class="ruby-word"><ruby>押し入れ<rt>おしいれ</rt></ruby></span> - mendorong, menahan</li>
+    <li><span class="ruby-word"><ruby>押さえる<rt>おさえる</rt></ruby></span> - mendorong, menahan</li>
+    <li><span class="ruby-word"><ruby>押しボタン式<rt>おしぼたんしき</rt></ruby></span> - sistem tombol tekan</li>
   </ul>
 </details>
 
@@ -74,8 +77,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>式 menjelaskan sistem atau tipe. Dalam 押しボタン式, yang dijelaskan adalah cara kerja penyeberangan.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>方式<rt>ほうしき</rt></ruby></span> - metode, sistem</li>
     <li><span class="ruby-word"><ruby>押しボタン式<rt>おしぼたんしき</rt></ruby></span> - sistem tombol tekan</li>
+    <li><span class="ruby-word"><ruby>数式<rt>すうしき</rt></ruby></span> - upacara, gaya</li>
+    <li><span class="ruby-word"><ruby>入学式<rt>にゅうがくしき</rt></ruby></span> - upacara, gaya</li>
+    <li><span class="ruby-word"><ruby>方式<rt>ほうしき</rt></ruby></span> - upacara, gaya</li>
   </ul>
 </details>
 
@@ -89,8 +94,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>信 punya rasa informasi yang dipercaya atau dikirim. Dalam lalu lintas, fokus utamanya adalah 信号 sebagai sinyal lampu.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>信号<rt>しんごう</rt></ruby></span> - lampu lalu lintas</li>
+    <li><span class="ruby-word"><ruby>送信<rt>そうしん</rt></ruby></span> - percaya, kepercayaan</li>
+    <li><span class="ruby-word"><ruby>自信<rt>じしん</rt></ruby></span> - percaya, kepercayaan</li>
+    <li><span class="ruby-word"><ruby>信じる<rt>しんじる</rt></ruby></span> - percaya, kepercayaan</li>
     <li><span class="ruby-word"><ruby>信用<rt>しんよう</rt></ruby></span> - kepercayaan</li>
+    <li><span class="ruby-word"><ruby>信号<rt>しんごう</rt></ruby></span> - lampu lalu lintas</li>
   </ul>
 </details>
 
@@ -104,8 +112,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>号 sering menandai nomor atau sinyal. Dalam 信号, kanji ini tidak dibaca sebagai nomor, tetapi sebagai bagian dari kata “lampu/sinyal lalu lintas”.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>信号<rt>しんごう</rt></ruby></span> - sinyal lalu lintas</li>
-    <li><span class="ruby-word"><ruby>一号車<rt>いちごうしゃ</rt></ruby></span> - gerbong nomor 1</li>
+    <li><span class="ruby-word"><ruby>信号<rt>しんごう</rt></ruby></span> - lampu lalu lintas</li>
+    <li><span class="ruby-word"><ruby>〜号車<rt>〜ごうしゃ</rt></ruby></span> - pola kata untuk nomor</li>
+    <li><span class="ruby-word"><ruby>一号車<rt>いちごうしゃ</rt></ruby></span> - nomor, sinyal</li>
   </ul>
 </details>
 
@@ -119,6 +128,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>確 memberi rasa pasti. Pada instruksi keselamatan, kanji ini mendorong kamu memastikan keadaan, bukan sekadar melihat sekilas.</p>
   <ul>
+    <li><span class="ruby-word"><ruby>正確な<rt>せいかく</rt></ruby></span> - akurat</li>
+    <li><span class="ruby-word"><ruby>確かめる<rt>たしかめる</rt></ruby></span> - pasti, mengkonfirmasi</li>
+    <li><span class="ruby-word"><ruby>確かな<rt>たしかな</rt></ruby></span> - pasti, mengkonfirmasi</li>
     <li><span class="ruby-word"><ruby>確認<rt>かくにん</rt></ruby></span> - konfirmasi</li>
     <li><span class="ruby-word"><ruby>正確<rt>せいかく</rt></ruby></span> - akurat</li>
   </ul>
@@ -134,7 +146,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>認 memberi rasa mengenali atau memeriksa. Bersama 確, kata 確認 berarti mengecek sampai yakin.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>確認<rt>かくにん</rt></ruby></span> - pengecekan ulang</li>
+    <li><span class="ruby-word"><ruby>確認<rt>かくにん</rt></ruby></span> - konfirmasi</li>
     <li><span class="ruby-word"><ruby>認める<rt>みとめる</rt></ruby></span> - mengakui</li>
   </ul>
 </details>
@@ -149,8 +161,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>飛 berarti terbang atau melompat keluar. Dalam peringatan jalan, kanji ini sering memberi rasa gerakan tiba-tiba.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>飛ぶ<rt>とぶ</rt></ruby></span> - terbang</li>
     <li><span class="ruby-word"><ruby>飛行場<rt>ひこうじょう</rt></ruby></span> - bandara</li>
+    <li><span class="ruby-word"><ruby>飛ぶ<rt>とぶ</rt></ruby></span> - terbang</li>
   </ul>
 </details>
 </div>
@@ -214,7 +226,7 @@ Kanji-kanji ini biasanya muncul dalam instruksi singkat. Bacalah hubungannya sep
 
 ## Hal yang Mudah Tertukar
 
-| Pasangan | Bedanya |
+| Pasangan | Cara membedakan |
 |---|---|
 | 確認 / 信用 | Lihat tujuannya: 確認 mengecek fakta atau keamanan, 信用 menilai apakah orang/hal bisa dipercaya. |
 | 横 / 向 | 横 menunjukkan posisi samping/melintang. 向 menunjukkan arah hadap atau tujuan gerak. |

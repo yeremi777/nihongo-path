@@ -23,7 +23,7 @@ tags:
 
 Mengenali delapan kanji N3 yang sering muncul pada label produk: 費, 期, 限, 製, 造, 賞, 法, dan 温.
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 消費期限, 製品, 製造, 賞味期限, 方法, 温度, dan 常温 pada kemasan.
+Di akhir pelajaran ini, kamu bisa membaca kata seperti 消費期限, 製品, 製造, 賞味期限, 方法, 温度, dan 常温 pada kemasan.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> untuk label makanan, bedakan batas waktu, proses produksi, kualitas rasa, dan suhu.
@@ -47,6 +47,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>費用<rt>ひよう</rt></ruby></span> - biaya</li>
     <li><span class="ruby-word"><ruby>旅費<rt>りょひ</rt></ruby></span> - biaya perjalanan</li>
     <li><span class="ruby-word"><ruby>消費者<rt>しょうひしゃ</rt></ruby></span> - konsumen</li>
+    <li><span class="ruby-word"><ruby>会費<rt>かいひ</rt></ruby></span> - biaya, pengeluaran</li>
+    <li><span class="ruby-word"><ruby>消費期限<rt>しょうひきげん</rt></ruby></span> - biaya, pengeluaran</li>
   </ul>
 </details>
 
@@ -63,6 +65,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>期間<rt>きかん</rt></ruby></span> - periode</li>
     <li><span class="ruby-word"><ruby>長期<rt>ちょうき</rt></ruby></span> - jangka panjang</li>
     <li><span class="ruby-word"><ruby>定期券<rt>ていきけん</rt></ruby></span> - tiket langganan</li>
+    <li><span class="ruby-word"><ruby>短期<rt>たんき</rt></ruby></span> - periode, jangka waktu</li>
+    <li><span class="ruby-word"><ruby>期限<rt>きげん</rt></ruby></span> - batas waktu</li>
   </ul>
 </details>
 
@@ -78,7 +82,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>期限<rt>きげん</rt></ruby></span> - batas waktu</li>
     <li><span class="ruby-word"><ruby>限る<rt>かぎる</rt></ruby></span> - membatasi</li>
+    <li><span class="ruby-word"><ruby>限度<rt>げんど</rt></ruby></span> - batas, membatasi</li>
     <li><span class="ruby-word"><ruby>限定<rt>げんてい</rt></ruby></span> - terbatas</li>
+    <li><span class="ruby-word"><ruby>賞味期限<rt>しょうみきげん</rt></ruby></span> - tanggal terbaik dikonsumsi</li>
   </ul>
 </details>
 
@@ -92,8 +98,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>製 menandai barang yang dibuat atau hasil produksi.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>日本製<rt>にほんせい</rt></ruby></span> - buatan Jepang</li>
+    <li><span class="ruby-word"><ruby>〇〇製<rt>〇〇せい</rt></ruby></span> - pola kata untuk pembuatan</li>
     <li><span class="ruby-word"><ruby>製品<rt>せいひん</rt></ruby></span> - produk</li>
+    <li><span class="ruby-word"><ruby>製造<rt>せいぞう</rt></ruby></span> - produksi</li>
   </ul>
 </details>
 
@@ -122,8 +129,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>賞 bisa berarti penghargaan. Dalam 賞味期限, fokusnya kualitas/rasa terbaik.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>賞味期限<rt>しょうみきげん</rt></ruby></span> - tanggal terbaik dikonsumsi</li>
+    <li><span class="ruby-word"><ruby>賞<rt>しょう</rt></ruby></span> - hadiah, penghargaan</li>
     <li><span class="ruby-word"><ruby>賞金<rt>しょうきん</rt></ruby></span> - hadiah uang</li>
+    <li><span class="ruby-word"><ruby>賞味期限<rt>しょうみきげん</rt></ruby></span> - tanggal terbaik dikonsumsi</li>
     <li><span class="ruby-word"><ruby>賞品<rt>しょうひん</rt></ruby></span> - hadiah barang</li>
   </ul>
 </details>
@@ -155,6 +163,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>温度<rt>おんど</rt></ruby></span> - suhu</li>
     <li><span class="ruby-word"><ruby>温かい<rt>あたたかい</rt></ruby></span> - hangat</li>
+    <li><span class="ruby-word"><ruby>気温<rt>きおん</rt></ruby></span> - hangat, suhu</li>
     <li><span class="ruby-word"><ruby>常温<rt>じょうおん</rt></ruby></span> - suhu ruang</li>
   </ul>
 </details>
@@ -218,7 +227,7 @@ Kata-kata hari ini membentuk informasi label produk. 消費期限 dan 賞味期�
 
 ## Hal yang Mudah Tertukar
 
-| Pasangan | Bedanya |
+| Pasangan | Cara membedakan |
 |---|---|
 | 消費期限 / 賞味期限 | 消費期限 berkaitan dengan batas aman konsumsi. 賞味期限 berkaitan dengan rasa/kualitas terbaik. |
 | 製 / 造 | 製 sering menandai produk buatan. 造 menekankan proses membuat/memproduksi. |

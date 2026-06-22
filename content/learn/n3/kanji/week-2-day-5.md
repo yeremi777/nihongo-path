@@ -23,7 +23,7 @@ tags:
 
 Mengenali delapan kanji N3 yang sering muncul di rumah sakit: 受, 付, 科, 鼻, 婦, 形, 骨, dan 折.
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 受付, 内科, 耳鼻科, 産婦人科, 整形外科, dan 骨折 saat melihat papan rumah sakit.
+Di akhir pelajaran ini, kamu bisa membaca kata seperti 受付, 内科, 耳鼻科, 産婦人科, 整形外科, dan 骨折 saat melihat papan rumah sakit.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> mulai dari alur pasien: daftar di受付, pilih科, lalu baca jenis pemeriksaan atau bagian tubuh.
@@ -47,6 +47,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>受信<rt>じゅしん</rt></ruby></span> - menerima pesan/sinyal</li>
     <li><span class="ruby-word"><ruby>受ける<rt>うける</rt></ruby></span> - menerima, menjalani</li>
     <li><span class="ruby-word"><ruby>受験<rt>じゅけん</rt></ruby></span> - mengikuti ujian</li>
+    <li><span class="ruby-word"><ruby>受付<rt>うけつけ</rt></ruby></span> - pendaftaran, resepsionis</li>
   </ul>
 </details>
 
@@ -60,9 +61,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>付 memberi rasa menempel atau menerima pada tempat tertentu. Dalam 受付, artinya meja penerimaan.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>受付<rt>うけつけ</rt></ruby></span> - pendaftaran, resepsionis</li>
     <li><span class="ruby-word"><ruby>付ける<rt>つける</rt></ruby></span> - menempelkan</li>
+    <li><span class="ruby-word"><ruby>受付<rt>うけつけ</rt></ruby></span> - pendaftaran, resepsionis</li>
     <li><span class="ruby-word"><ruby>片付ける<rt>かたづける</rt></ruby></span> - merapikan</li>
+    <li><span class="ruby-word"><ruby>付く<rt>つく</rt></ruby></span> - menempel, melekat</li>
   </ul>
 </details>
 
@@ -76,9 +78,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>科 menandai bidang pelajaran atau departemen medis. Di rumah sakit, cari kata sebelum 科 untuk tahu polinya.</p>
   <ul>
+    <li><span class="ruby-word"><ruby>科学<rt>かがく</rt></ruby></span> - mata pelajaran, departemen</li>
     <li><span class="ruby-word"><ruby>内科<rt>ないか</rt></ruby></span> - penyakit dalam</li>
     <li><span class="ruby-word"><ruby>外科<rt>げか</rt></ruby></span> - bedah</li>
     <li><span class="ruby-word"><ruby>教科書<rt>きょうかしょ</rt></ruby></span> - buku pelajaran</li>
+    <li><span class="ruby-word"><ruby>耳鼻科<rt>じびか</rt></ruby></span> - poli THT</li>
   </ul>
 </details>
 
@@ -125,6 +129,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>形式<rt>けいしき</rt></ruby></span> - format</li>
     <li><span class="ruby-word"><ruby>整形外科<rt>せいけいげか</rt></ruby></span> - ortopedi</li>
+    <li><span class="ruby-word"><ruby>人形<rt>にんぎょう</rt></ruby></span> - bentuk, rupa</li>
+    <li><span class="ruby-word"><ruby>図形<rt>づけい</rt></ruby></span> - bentuk, rupa</li>
     <li><span class="ruby-word"><ruby>形<rt>かたち</rt></ruby></span> - bentuk</li>
   </ul>
 </details>
@@ -154,8 +160,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>折 punya rasa melipat atau patah. Di rumah sakit, fokusnya 骨折.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>骨折<rt>こっせつ</rt></ruby></span> - patah tulang</li>
+    <li><span class="ruby-word"><ruby>右折<rt>うせつ</rt></ruby></span> - belok kanan</li>
+    <li><span class="ruby-word"><ruby>左折<rt>させつ</rt></ruby></span> - belok kiri</li>
     <li><span class="ruby-word"><ruby>折る<rt>おる</rt></ruby></span> - melipat, mematahkan</li>
+    <li><span class="ruby-word"><ruby>折り紙<rt>おりがみ</rt></ruby></span> - origami, seni melipat kertas</li>
     <li><span class="ruby-word"><ruby>折れる<rt>おれる</rt></ruby></span> - patah, terlipat</li>
   </ul>
 </details>
@@ -218,7 +226,7 @@ Kata-kata hari ini mengikuti alur rumah sakit. 受付 adalah tempat pertama, 科
 
 ## Hal yang Mudah Tertukar
 
-| Pasangan | Bedanya |
+| Pasangan | Cara membedakan |
 |---|---|
 | 受付 / 受験 | 受 berarti menerima/menjalani. 受付 adalah pendaftaran, 受験 adalah mengikuti ujian; lihat kanji kedua. |
 | 内科 / 外科 | 内科 menangani bagian dalam tubuh/penyakit umum. 外科 berkaitan dengan tindakan bedah atau bagian luar. |

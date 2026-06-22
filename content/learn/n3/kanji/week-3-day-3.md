@@ -23,7 +23,7 @@ tags:
 
 Mengenali delapan kanji N3 yang sering muncul pada mesin penjual otomatis: 販, 機, 増, 減, 量, 氷, 返, dan 湯.
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 販売, 自動販売機, 増量, 減量, 氷, 返却, dan お湯 pada mesin atau label minuman.
+Di akhir pelajaran ini, kamu bisa membaca kata seperti 販売, 自動販売機, 増量, 減量, 氷, 返却, dan お湯 pada mesin atau label minuman.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> perhatikan fungsi tombol dan label: jual, mesin, tambah/kurangi jumlah, es/panas, lalu pengembalian.
@@ -59,9 +59,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>機 bisa berarti mesin atau kesempatan. Pada vending machine, maknanya jelas mesin.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>自動販売機<rt>じどうはんばいき</rt></ruby></span> - mesin penjual otomatis</li>
-    <li><span class="ruby-word"><ruby>機械<rt>きかい</rt></ruby></span> - mesin</li>
+    <li><span class="ruby-word"><ruby>飛行機<rt>ひこうき</rt></ruby></span> - mesin, kesempatan</li>
     <li><span class="ruby-word"><ruby>機会<rt>きかい</rt></ruby></span> - kesempatan</li>
+    <li><span class="ruby-word"><ruby>機械<rt>きかい</rt></ruby></span> - mesin</li>
+    <li><span class="ruby-word"><ruby>自動販売機<rt>じどうはんばいき</rt></ruby></span> - mesin penjual otomatis</li>
   </ul>
 </details>
 
@@ -78,6 +79,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>増加<rt>ぞうか</rt></ruby></span> - peningkatan</li>
     <li><span class="ruby-word"><ruby>増える<rt>ふえる</rt></ruby></span> - bertambah</li>
     <li><span class="ruby-word"><ruby>増やす<rt>ふやす</rt></ruby></span> - menambah</li>
+    <li><span class="ruby-word"><ruby>増量<rt>ぞうりょう</rt></ruby></span> - penambahan jumlah</li>
   </ul>
 </details>
 
@@ -94,6 +96,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>減少<rt>げんしょう</rt></ruby></span> - penurunan</li>
     <li><span class="ruby-word"><ruby>減る<rt>へる</rt></ruby></span> - berkurang</li>
     <li><span class="ruby-word"><ruby>減らす<rt>へらす</rt></ruby></span> - mengurangi</li>
+    <li><span class="ruby-word"><ruby>減量<rt>げんりょう</rt></ruby></span> - jumlah, kuantitas</li>
   </ul>
 </details>
 
@@ -110,6 +113,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>量<rt>りょう</rt></ruby></span> - jumlah</li>
     <li><span class="ruby-word"><ruby>数量<rt>すうりょう</rt></ruby></span> - kuantitas</li>
     <li><span class="ruby-word"><ruby>増量<rt>ぞうりょう</rt></ruby></span> - penambahan jumlah</li>
+    <li><span class="ruby-word"><ruby>減量<rt>げんりょう</rt></ruby></span> - jumlah, kuantitas</li>
   </ul>
 </details>
 
@@ -124,7 +128,6 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>氷 menunjuk es. Pada mesin minuman, label ini membantu memilih minuman dengan atau tanpa es.</p>
   <ul>
     <li><span class="ruby-word"><ruby>氷<rt>こおり</rt></ruby></span> - es</li>
-    <li><span class="ruby-word"><ruby>氷水<rt>こおりみず</rt></ruby></span> - air es</li>
   </ul>
 </details>
 
@@ -154,8 +157,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>湯 menunjuk air panas. Bentuk sopannya sering menjadi お湯.</p>
   <ul>
+    <li><span class="ruby-word"><ruby>(お)湯<rt>おゆ</rt></ruby></span> - air panas</li>
     <li><span class="ruby-word"><ruby>お湯<rt>おゆ</rt></ruby></span> - air panas</li>
-    <li><span class="ruby-word"><ruby>湯<rt>ゆ</rt></ruby></span> - air panas</li>
   </ul>
 </details>
 </div>
@@ -217,7 +220,7 @@ Kata-kata hari ini mengikuti cara memakai mesin. 販売機 adalah mesinnya, 増�
 
 ## Hal yang Mudah Tertukar
 
-| Pasangan | Bedanya |
+| Pasangan | Cara membedakan |
 |---|---|
 | 増える / 増やす | 増える berarti jumlahnya bertambah sendiri. 増やす berarti seseorang menambah jumlahnya. |
 | 減る / 減らす | 減る berarti jumlah berkurang. 減らす berarti seseorang mengurangi jumlahnya. |

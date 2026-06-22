@@ -23,7 +23,7 @@ tags:
 
 Mengenali kanji N3 yang sering muncul di halaman pemesanan, pengiriman paket, pilihan kurir, ongkos kirim, dan pembayaran: 届、宅、配、希、望、荷、換、額。
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 届く、届ける、自宅、宅配、配達、配送料 di halaman pemesanan, pengiriman paket, pilihan kurir, ongkos kirim, dan pembayaran. Fokus hari ini bukan menghafal semua bacaan sekaligus, tetapi mengenali kata yang paling mungkin muncul dalam konteks tersebut.
+Di akhir pelajaran ini, kamu bisa membaca kata seperti 届く, 自宅, 宅配, 配達, 希望, 荷物, 交換, 金額, dan 半額 pada halaman pesanan. Fokuskan pada alur barang: alamat, pengiriman, permintaan, paket, penukaran, lalu jumlah pembayaran.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> ikuti alur pesanan dari barang sampai diterima: 届く, 配達, 荷物, 交換, 金額.
@@ -42,10 +42,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: とどける, とどく</span></span>
     </span>
   </summary>
-  <p>Dalam halaman pemesanan dan pengiriman paket, 届 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>届 berkaitan dengan barang atau informasi yang sampai. Pada pesanan, 届く berarti paket sampai ke tujuan.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>届く<rt>とどく</rt></ruby></span> - sampai</li>
     <li><span class="ruby-word"><ruby>届ける<rt>とどける</rt></ruby></span> - mengirimkan</li>
+    <li><span class="ruby-word"><ruby>届く<rt>とどく</rt></ruby></span> - sampai</li>
   </ul>
 </details>
 
@@ -57,9 +57,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: タク</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-  <p>Dalam halaman pemesanan dan pengiriman paket, 宅 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>宅 menunjuk rumah. Dalam 自宅 atau 宅配, kanji ini membantu membaca alamat rumah dan pengiriman ke rumah.</p>
   <ul>
     <li><span class="ruby-word"><ruby>自宅<rt>じたく</rt></ruby></span> - rumah sendiri</li>
+    <li><span class="ruby-word"><ruby>お宅<rt>おたく</rt></ruby></span> - rumah, kediaman</li>
     <li><span class="ruby-word"><ruby>宅配<rt>たくはい</rt></ruby></span> - pengiriman rumah</li>
   </ul>
 </details>
@@ -72,10 +73,13 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ハイ</span><span>kunyomi: くばる</span></span>
     </span>
   </summary>
-  <p>Dalam halaman pemesanan dan pengiriman paket, 配 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>配 berkaitan dengan membagikan atau mengirim. 配達 adalah pengantaran paket, sedangkan 配送料 adalah ongkos kirim.</p>
   <ul>
     <li><span class="ruby-word"><ruby>配達<rt>はいたつ</rt></ruby></span> - pengantaran</li>
     <li><span class="ruby-word"><ruby>配送料<rt>はいそうりょう</rt></ruby></span> - ongkos kirim</li>
+    <li><span class="ruby-word"><ruby>心配<rt>しんぱい</rt></ruby></span> - mendistribusikan, mengantarkan</li>
+    <li><span class="ruby-word"><ruby>配る<rt>くばる</rt></ruby></span> - mendistribusikan, mengantarkan</li>
+    <li><span class="ruby-word"><ruby>宅配<rt>たくはい</rt></ruby></span> - pengiriman rumah</li>
   </ul>
 </details>
 
@@ -87,10 +91,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: キ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-  <p>Dalam halaman pemesanan dan pengiriman paket, 希 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>希 muncul pada 希望 untuk permintaan atau harapan. Pada pesanan, biasanya berkaitan dengan waktu atau metode yang diinginkan.</p>
   <ul>
     <li><span class="ruby-word"><ruby>希望<rt>きぼう</rt></ruby></span> - harapan, keinginan</li>
-    <li><span class="ruby-word"><ruby>希少<rt>きしょう</rt></ruby></span> - langka</li>
+    <li><span class="ruby-word"><ruby>希少<rt>きしょう</rt></ruby></span> - harapan, keinginan</li>
   </ul>
 </details>
 
@@ -102,10 +106,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ボウ</span><span>kunyomi: のぞむ</span></span>
     </span>
   </summary>
-  <p>Dalam halaman pemesanan dan pengiriman paket, 望 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>望 juga membentuk 希望. Bacalah pasangan 希望 sebagai keinginan atau permintaan, bukan sebagai dua kanji terpisah.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>希望<rt>きぼう</rt></ruby></span> - harapan</li>
+    <li><span class="ruby-word"><ruby>失望<rt>しつぼう</rt></ruby></span> - harapan, keinginan</li>
     <li><span class="ruby-word"><ruby>望む<rt>のぞむ</rt></ruby></span> - mengharapkan</li>
+    <li><span class="ruby-word"><ruby>希望<rt>きぼう</rt></ruby></span> - harapan, keinginan</li>
   </ul>
 </details>
 
@@ -117,10 +122,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: カ</span><span>kunyomi: に</span></span>
     </span>
   </summary>
-  <p>Dalam halaman pemesanan dan pengiriman paket, 荷 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>荷 berkaitan dengan barang bawaan atau paket. Dalam 荷物, fokusnya adalah barang yang dikirim atau dibawa.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>荷物<rt>にもつ</rt></ruby></span> - barang bawaan</li>
     <li><span class="ruby-word"><ruby>入荷<rt>にゅうか</rt></ruby></span> - barang masuk</li>
+    <li><span class="ruby-word"><ruby>出荷<rt>しゅっか</rt></ruby></span> - bagasi, muatan</li>
+    <li><span class="ruby-word"><ruby>荷物<rt>にもつ</rt></ruby></span> - barang bawaan</li>
+    <li><span class="ruby-word"><ruby>手荷物<rt>てにもつ</rt></ruby></span> - bagasi, muatan</li>
   </ul>
 </details>
 
@@ -132,9 +139,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: カン</span><span>kunyomi: かえる</span></span>
     </span>
   </summary>
-  <p>Dalam halaman pemesanan dan pengiriman paket, 換 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>換 memberi rasa menukar. Dalam 交換, kanji ini menunjuk penukaran barang; dalam 代金引換, pembayaran dilakukan saat barang diterima.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>交換<rt>こうかん</rt></ruby></span> - penukaran</li>
+    <li><span class="ruby-word"><ruby>交換<rt>こうかん</rt></ruby></span> - pertukaran</li>
+    <li><span class="ruby-word"><ruby>乗り換え<rt>のりかえ</rt></ruby></span> - menukar, mengganti</li>
     <li><span class="ruby-word"><ruby>代金引換<rt>だいきんひきかえ</rt></ruby></span> - bayar saat terima</li>
   </ul>
 </details>
@@ -147,7 +155,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ガク</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-  <p>Dalam halaman pemesanan dan pengiriman paket, 額 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
+  <p>額 menunjuk jumlah uang. 金額 adalah total pembayaran, sedangkan 半額 berarti setengah harga.</p>
   <ul>
     <li><span class="ruby-word"><ruby>金額<rt>きんがく</rt></ruby></span> - jumlah uang</li>
     <li><span class="ruby-word"><ruby>半額<rt>はんがく</rt></ruby></span> - setengah harga</li>
@@ -169,7 +177,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <span>希望</span>
 </div>
 
-Hubungan kata hari ini bisa dibaca sebagai alur: pesanan -> pengiriman -> harapan jadwal -> barang -> penukaran -> jumlah uang. Dengan membaca hubungan ini, kamu tidak perlu menerjemahkan kata satu per satu; cukup tentukan apakah kata itu menunjukkan benda, status, tindakan, jumlah, orang, atau informasi tambahan.
+Peta kata hari ini mengikuti alur: pesanan -> pengiriman -> harapan jadwal -> barang -> penukaran -> jumlah uang. Gunakan alur ini untuk melihat fungsi kata sebelum menerjemahkan satu per satu.
 
 ## Catatan Pemakaian
 
@@ -211,11 +219,16 @@ Hubungan kata hari ini bisa dibaca sebagai alur: pesanan -> pengiriman -> harapa
 
 ## Hal yang Mudah Tertukar
 
-Jangan memilih bacaan dari satu kanji secara terpisah. Untuk kata majemuk seperti 届く atau 自宅, baca seluruh kata dulu, lalu cocokkan dengan konteks: apakah sedang membahas barang, formulir, kesehatan, berita, atau pengumuman. Jika kata berada dekat angka, biasanya fungsinya berbeda dari kata yang berada dekat nama tempat atau tindakan.
+| Pasangan | Cara membedakan |
+|---|---|
+| 宅配 / 配達 | 宅配 adalah layanan kirim ke rumah. 配達 adalah tindakan pengiriman. |
+| 希望 / 失望 | 希望 adalah harapan atau permintaan. 失望 berarti kecewa. |
+| 荷物 / 手荷物 | 荷物 adalah barang/paket umum. 手荷物 adalah barang bawaan tangan. |
+| 金額 / 半額 | 金額 adalah jumlah uang. 半額 berarti setengah harga. |
 
 ## Kesalahan Umum
 
-Kesalahan yang sering terjadi adalah memaksa kunyomi ke semua kata majemuk. Strateginya: lihat apakah kata terdiri dari dua kanji atau lebih; kalau ya, coba baca sebagai satu blok dengan onyomi lebih dulu, lalu cek apakah ada okurigana seperti る, す, atau い yang menandakan bacaan kunyomi.
+Jangan menyamakan semua kata yang memakai 配. 配達, 配送料, dan 宅配 masih satu keluarga pengiriman, tetapi fungsinya berbeda. Baca kata setelah 配 untuk tahu apakah yang dimaksud tindakan, biaya, atau layanan.
 
 ## Mini Practice
 

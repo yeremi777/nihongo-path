@@ -23,7 +23,7 @@ tags:
 
 Mengenali enam kanji tambahan N3 dari minggu kelima: 厚, 泣, 鳴, 初, 泊, dan 葉.
 
-Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 厚い, 厚着, 泣く, 鳴る, 最初, 初めて, 宿泊, dan 言葉 dalam cerita pendek, 案内 perjalanan, dan pengumuman penginapan.
+Di akhir pelajaran ini, kamu bisa membaca kata seperti 厚い, 厚着, 泣く, 鳴る, 最初, 初めて, 宿泊, dan 言葉 dalam cerita pendek, 案内 perjalanan, dan pengumuman penginapan.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> bedakan 泣 dan 鳴 dari subjeknya. Orang atau bayi 泣く; burung, bel, atau alarm 鳴る.
@@ -45,7 +45,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>厚 menggambarkan ketebalan benda atau sikap yang hangat dan baik hati. Dalam deskripsi cuaca dan pakaian, 厚着 sering muncul.</p>
   <ul>
     <li><span class="ruby-word"><ruby>厚い<rt>あつい</rt></ruby></span> - tebal</li>
-    <li><span class="ruby-word"><ruby>厚着<rt>あつぎ</rt></ruby></span> - berpakaian tebal</li>
+    <li><span class="ruby-word"><ruby>厚着<rt>あつぎ</rt></ruby></span> - tebal, berat</li>
   </ul>
 </details>
 
@@ -60,7 +60,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>泣 berkaitan dengan menangis. Subjeknya biasanya manusia atau hewan yang menunjukkan emosi.</p>
   <ul>
     <li><span class="ruby-word"><ruby>泣く<rt>なく</rt></ruby></span> - menangis</li>
-    <li><span class="ruby-word"><ruby>泣き声<rt>なきごえ</rt></ruby></span> - suara tangis</li>
+    <li><span class="ruby-word"><ruby>泣き声<rt>なきごえ</rt></ruby></span> - menangis, meratap</li>
   </ul>
 </details>
 
@@ -89,7 +89,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>初 menandai awal atau pertama kali. Sering muncul dalam cerita pengalaman baru dan jadwal kegiatan.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>最初<rt>さいしょ</rt></ruby></span> - awal, yang pertama</li>
+    <li><span class="ruby-word"><ruby>最初<rt>さいしょ</rt></ruby></span> - awal</li>
+    <li><span class="ruby-word"><ruby>初め<rt>はじめ</rt></ruby></span> - pertama, awal</li>
     <li><span class="ruby-word"><ruby>初めて<rt>はじめて</rt></ruby></span> - pertama kali</li>
     <li><span class="ruby-word"><ruby>初級<rt>しょきゅう</rt></ruby></span> - tingkat pemula</li>
   </ul>
@@ -195,7 +196,7 @@ Kata-kata hari ini bisa dibaca sebagai alur: sifat benda → emosi manusia → s
 
 ## Hal yang Mudah Tertukar
 
-| Pasangan | Bedanya |
+| Pasangan | Cara membedakan |
 |---|---|
 | 泣く / 鳴る | 泣く untuk menangis. 鳴る untuk suara benda atau hewan yang berbunyi. |
 | 初め / 初めて | 初め menandai awal. 初めて menekankan pertama kali melakukan sesuatu. |
