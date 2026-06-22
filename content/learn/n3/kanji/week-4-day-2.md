@@ -31,29 +31,15 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 広告、報�
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 告 | コク | - | memberitahu, iklan | 広告, 報告 |
-| 利 | リ | - | manfaat, praktis | 便利, 利用 |
-| 割 | カツ | わる, われる | membagi, diskon | 割引, 割合 |
-| 倍 | バイ | - | kali lipat | 二倍, 倍 |
-| 値 | - | ね | harga, nilai | 値段, 値下げ |
-| 商 | ショウ | - | dagang, barang | 商品, 商店 |
-| 支 | シ | - | menopang, membayar | 支店, 支社 |
-| 払 | - | はらう | membayar | 払う, 支払い |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-<details class="kanji-card" open>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">告</span>
     <span class="kanji-meta">
-      <strong>告</strong>
-      <small>memberitahu, iklan</small>
-      <span class="kanji-reading"><span>onyomi: コク</span>
+      <strong>memberitahu, iklan</strong>
+      <span class="kanji-reading"><span>onyomi: コク</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam email promosi dan informasi pembayaran, 告 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -63,13 +49,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">利</span>
     <span class="kanji-meta">
-      <strong>利</strong>
-      <small>manfaat, praktis</small>
-      <span class="kanji-reading"><span>onyomi: リ</span>
+      <strong>manfaat, praktis</strong>
+      <span class="kanji-reading"><span>onyomi: リ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam email promosi dan informasi pembayaran, 利 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -79,13 +64,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">割</span>
     <span class="kanji-meta">
-      <strong>割</strong>
-      <small>membagi, diskon</small>
-      <span class="kanji-reading"><span>onyomi: カツ</span>
+      <strong>membagi, diskon</strong>
+      <span class="kanji-reading"><span>onyomi: カツ</span><span>kunyomi: わる, われる</span></span>
     </span>
   </summary>
   <p>Dalam email promosi dan informasi pembayaran, 割 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -95,13 +79,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">倍</span>
     <span class="kanji-meta">
-      <strong>倍</strong>
-      <small>kali lipat</small>
-      <span class="kanji-reading"><span>onyomi: バイ</span>
+      <strong>kali lipat</strong>
+      <span class="kanji-reading"><span>onyomi: バイ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam email promosi dan informasi pembayaran, 倍 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -111,13 +94,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">値</span>
     <span class="kanji-meta">
-      <strong>値</strong>
-      <small>harga, nilai</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>harga, nilai</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: ね</span></span>
     </span>
   </summary>
   <p>Dalam email promosi dan informasi pembayaran, 値 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -127,13 +109,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">商</span>
     <span class="kanji-meta">
-      <strong>商</strong>
-      <small>dagang, barang</small>
-      <span class="kanji-reading"><span>onyomi: ショウ</span>
+      <strong>dagang, barang</strong>
+      <span class="kanji-reading"><span>onyomi: ショウ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam email promosi dan informasi pembayaran, 商 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -143,13 +124,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">支</span>
     <span class="kanji-meta">
-      <strong>支</strong>
-      <small>menopang, membayar</small>
-      <span class="kanji-reading"><span>onyomi: シ</span>
+      <strong>menopang, membayar</strong>
+      <span class="kanji-reading"><span>onyomi: シ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam email promosi dan informasi pembayaran, 支 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -159,13 +139,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">払</span>
     <span class="kanji-meta">
-      <strong>払</strong>
-      <small>membayar</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>membayar</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: はらう</span></span>
     </span>
   </summary>
   <p>Dalam email promosi dan informasi pembayaran, 払 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -175,6 +154,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 </div>
+
 ## Peta Kata
 
 <div class="word-strip">

@@ -28,7 +28,6 @@ const EXAMPLE_CARD_RE = /<div>\s*<p class="jp">[\s\S]*?<\/p>\s*<p>[\s\S]*?<\/p>\
 const REQUIRED_SECTIONS = [
   'Tujuan',
   'Daftar Kanji',
-  'Rincian Kanji',
   'Peta Kata',
   'Catatan Pemakaian',
   'Contoh Kalimat',
@@ -50,26 +49,28 @@ const auditKanjiFile = (file, text) => {
     }
   }
 
+  const hasRincianSection = /^## Rincian Kanji$/m.test(text)
+  const kanjiCardSection = section(text, hasRincianSection ? 'Rincian Kanji' : 'Daftar Kanji')
+
   if (!text.includes('class="lesson-callout"')) {
     error('missing <div class="lesson-callout"> after ## Tujuan')
   }
 
-  const rincianSection = section(text, 'Rincian Kanji')
-  if (!rincianSection.includes(RINCIAN_HINT)) {
-    error('## Rincian Kanji is missing the learner hint before kanji cards')
+  if (!kanjiCardSection.includes(RINCIAN_HINT)) {
+    error(`${hasRincianSection ? '## Rincian Kanji' : '## Daftar Kanji'} is missing the learner hint before kanji cards`)
   }
 
-  const gridMatches = text.match(/<div class="kanji-card-grid">[\s\S]*?<\/div>/g) ?? []
+  const gridMatches = text.match(/<div class="kanji-card-grid(?:\s[^"]*)?">[\s\S]*?<\/div>/g) ?? []
   if (gridMatches.length !== 1) {
     error(`expected exactly 1 kanji-card-grid wrapper, found ${gridMatches.length}`)
   }
 
-  const allCards = text.match(/<details class="kanji-card"[^>]*>[\s\S]*?<\/details>/g) ?? []
+  const allCards = text.match(/<details class="kanji-card(?:\s[^"]*)?"[^>]*>[\s\S]*?<\/details>/g) ?? []
   if (allCards.length === 0) {
     error('expected at least 1 kanji-card')
   }
 
-  const gridCards = (gridMatches[0] ?? '').match(/<details class="kanji-card"/g) ?? []
+  const gridCards = (gridMatches[0] ?? '').match(/<details class="kanji-card(?:\s[^"]*)?"/g) ?? []
   if (gridCards.length !== allCards.length) {
     error('every kanji-card must live inside the single kanji-card-grid wrapper')
   }

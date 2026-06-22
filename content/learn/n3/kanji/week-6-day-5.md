@@ -31,29 +31,15 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 変化、文�
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 化 | カ, ケ | - | berubah, -isasi | 変化, 文化 |
-| 比 | - | くらべる | membandingkan | 比べる, 比較 |
-| 原 | ゲン | - | asal, penyebab | 原因, 原料 |
-| 因 | イン | - | sebab, faktor | 原因, 要因 |
-| 際 | サイ | - | kesempatan, internasional | 国際, 実際 |
-| 議 | ギ | - | berdiskusi | 会議, 議員 |
-| 活 | カツ | - | hidup, kegiatan | 生活, 活動 |
-| 変 | ヘン | かわる, かえる | berubah, aneh | 変化, 変わる |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-<details class="kanji-card" open>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">化</span>
     <span class="kanji-meta">
-      <strong>化</strong>
-      <small>berubah, -isasi</small>
-      <span class="kanji-reading"><span>onyomi: カ, ケ</span>
+      <strong>berubah, -isasi</strong>
+      <span class="kanji-reading"><span>onyomi: カ, ケ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam artikel lingkungan dan pemanasan global, 化 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -63,13 +49,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">比</span>
     <span class="kanji-meta">
-      <strong>比</strong>
-      <small>membandingkan</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>membandingkan</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: くらべる</span></span>
     </span>
   </summary>
   <p>Dalam artikel lingkungan dan pemanasan global, 比 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -79,13 +64,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">原</span>
     <span class="kanji-meta">
-      <strong>原</strong>
-      <small>asal, penyebab</small>
-      <span class="kanji-reading"><span>onyomi: ゲン</span>
+      <strong>asal, penyebab</strong>
+      <span class="kanji-reading"><span>onyomi: ゲン</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam artikel lingkungan dan pemanasan global, 原 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -95,13 +79,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">因</span>
     <span class="kanji-meta">
-      <strong>因</strong>
-      <small>sebab, faktor</small>
-      <span class="kanji-reading"><span>onyomi: イン</span>
+      <strong>sebab, faktor</strong>
+      <span class="kanji-reading"><span>onyomi: イン</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam artikel lingkungan dan pemanasan global, 因 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -111,13 +94,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">際</span>
     <span class="kanji-meta">
-      <strong>際</strong>
-      <small>kesempatan, internasional</small>
-      <span class="kanji-reading"><span>onyomi: サイ</span>
+      <strong>kesempatan, internasional</strong>
+      <span class="kanji-reading"><span>onyomi: サイ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam artikel lingkungan dan pemanasan global, 際 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -127,13 +109,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">議</span>
     <span class="kanji-meta">
-      <strong>議</strong>
-      <small>berdiskusi</small>
-      <span class="kanji-reading"><span>onyomi: ギ</span>
+      <strong>berdiskusi</strong>
+      <span class="kanji-reading"><span>onyomi: ギ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam artikel lingkungan dan pemanasan global, 議 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -143,13 +124,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">活</span>
     <span class="kanji-meta">
-      <strong>活</strong>
-      <small>hidup, kegiatan</small>
-      <span class="kanji-reading"><span>onyomi: カツ</span>
+      <strong>hidup, kegiatan</strong>
+      <span class="kanji-reading"><span>onyomi: カツ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam artikel lingkungan dan pemanasan global, 活 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -159,13 +139,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">変</span>
     <span class="kanji-meta">
-      <strong>変</strong>
-      <small>berubah, aneh</small>
-      <span class="kanji-reading"><span>onyomi: ヘン</span>
+      <strong>berubah, aneh</strong>
+      <span class="kanji-reading"><span>onyomi: ヘン</span><span>kunyomi: かわる, かえる</span></span>
     </span>
   </summary>
   <p>Dalam artikel lingkungan dan pemanasan global, 変 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -175,6 +154,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 </div>
+
 ## Peta Kata
 
 <div class="word-strip">

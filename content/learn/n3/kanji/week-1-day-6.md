@@ -31,30 +31,15 @@ Target akhir: bisa membaca istilah seperti バス停, 整理券, 現金, 優先�
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 停 | テイ | - | berhenti | 停車, バス停 |
-| 整 | セイ | - | merapikan, mengatur | 整理, 整理券 |
-| 券 | ケン | - | tiket, kupon | 乗車券, 整理券 |
-| 現 | ゲン | あらわれる | sekarang, nyata | 現金, 現在 |
-| 両 | リョウ | - | dua, kedua | 両替, 両親 |
-| 替 | - | かえる | menukar, mengganti | 両替, 着替える |
-| 優 | ユウ | やさしい | unggul, prioritas, lembut | 優先, 優しい |
-| 座 | ザ | すわる | duduk, kursi | 座席, 正座 |
-| 降 | コウ | おりる, ふる | turun | 降車, 降りる |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-<details class="kanji-card" open>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">停</span>
     <span class="kanji-meta">
-      <strong>停</strong>
-      <small>berhenti</small>
-      <span class="kanji-reading"><span>onyomi: テイ</span>
+      <strong>berhenti</strong>
+      <span class="kanji-reading"><span>onyomi: テイ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>停 menandai tempat atau tindakan berhenti. Pada bus, バス停 adalah lokasi utama yang perlu cepat dikenali.</p>
@@ -64,13 +49,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">整</span>
     <span class="kanji-meta">
-      <strong>整</strong>
-      <small>mengatur, menata</small>
-      <span class="kanji-reading"><span>onyomi: セイ</span>
+      <strong>merapikan, mengatur</strong>
+      <span class="kanji-reading"><span>onyomi: セイ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>整 memberi rasa mengatur. Dalam 整理券, kanji ini berkaitan dengan sistem nomor atau urutan tarif.</p>
@@ -80,13 +64,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">券</span>
     <span class="kanji-meta">
-      <strong>券</strong>
-      <small>tiket, kupon</small>
-      <span class="kanji-reading"><span>onyomi: ケン</span>
+      <strong>tiket, kupon</strong>
+      <span class="kanji-reading"><span>onyomi: ケン</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>券 adalah kanji tiket. Saat naik transportasi, kanji ini biasanya berarti bukti naik, kupon, atau nomor tarif.</p>
@@ -96,13 +79,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">現</span>
     <span class="kanji-meta">
-      <strong>現</strong>
-      <small>saat ini, nyata</small>
-      <span class="kanji-reading"><span>onyomi: ゲン</span>
+      <strong>sekarang, nyata</strong>
+      <span class="kanji-reading"><span>onyomi: ゲン</span><span>kunyomi: あらわれる</span></span>
     </span>
   </summary>
   <p>現 sering muncul dalam 現金 untuk metode pembayaran tunai. Pada bus, ini membantu membedakan uang tunai dari kartu.</p>
@@ -112,13 +94,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">両</span>
     <span class="kanji-meta">
-      <strong>両</strong>
-      <small>dua, kedua</small>
-      <span class="kanji-reading"><span>onyomi: リョウ</span>
+      <strong>dua, kedua</strong>
+      <span class="kanji-reading"><span>onyomi: リョウ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>両 muncul dalam 両替 untuk penukaran uang. Dalam bus, kata ini biasanya berkaitan dengan pecahan uang.</p>
@@ -128,13 +109,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">替</span>
     <span class="kanji-meta">
-      <strong>替</strong>
-      <small>mengganti, menukar</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>menukar, mengganti</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: かえる</span></span>
     </span>
   </summary>
   <p>替 memberi rasa mengganti atau menukar. Bersama 両, maknanya menjadi menukar pecahan uang.</p>
@@ -144,13 +124,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">優</span>
     <span class="kanji-meta">
-      <strong>優</strong>
-      <small>unggul, prioritas</small>
-      <span class="kanji-reading"><span>onyomi: ユウ</span>
+      <strong>unggul, prioritas, lembut</strong>
+      <span class="kanji-reading"><span>onyomi: ユウ</span><span>kunyomi: やさしい</span></span>
     </span>
   </summary>
   <p>優 memberi rasa diutamakan atau lembut. Dalam 優先席, fokusnya adalah kursi yang diprioritaskan untuk yang membutuhkan.</p>
@@ -160,13 +139,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">座</span>
     <span class="kanji-meta">
-      <strong>座</strong>
-      <small>duduk, kursi</small>
-      <span class="kanji-reading"><span>onyomi: ザ</span>
+      <strong>duduk, kursi</strong>
+      <span class="kanji-reading"><span>onyomi: ザ</span><span>kunyomi: すわる</span></span>
     </span>
   </summary>
   <p>座 berkaitan dengan duduk. Dalam transportasi, 座席 berarti tempat duduk sebagai fasilitas.</p>
@@ -176,13 +154,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">降</span>
     <span class="kanji-meta">
-      <strong>降</strong>
-      <small>turun</small>
-      <span class="kanji-reading"><span>onyomi: コウ</span>
+      <strong>turun</strong>
+      <span class="kanji-reading"><span>onyomi: コウ</span><span>kunyomi: おりる, ふる</span></span>
     </span>
   </summary>
   <p>降 membantu membaca instruksi turun kendaraan. Dalam bus, cari kanji ini untuk pintu turun atau proses turun.</p>
@@ -192,6 +169,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 </div>
+
 ## Peta Kata
 
 <div class="word-strip">

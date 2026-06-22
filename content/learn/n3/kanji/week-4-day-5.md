@@ -31,29 +31,15 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 届く、届�
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 届 | - | とどける, とどく | mengirim, sampai | 届く, 届ける |
-| 宅 | タク | - | rumah | 自宅, 宅配 |
-| 配 | ハイ | くばる | mengantar, membagi | 配達, 配送料 |
-| 希 | キ | - | harapan | 希望, 希少 |
-| 望 | ボウ | のぞむ | berharap | 希望, 望む |
-| 荷 | カ | に | barang, muatan | 荷物, 入荷 |
-| 換 | カン | かえる | menukar | 交換, 代金引換 |
-| 額 | ガク | - | jumlah uang | 金額, 半額 |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-<details class="kanji-card" open>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">届</span>
     <span class="kanji-meta">
-      <strong>届</strong>
-      <small>mengirim, sampai</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>mengirim, sampai</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: とどける, とどく</span></span>
     </span>
   </summary>
   <p>Dalam halaman pemesanan dan pengiriman paket, 届 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -63,13 +49,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">宅</span>
     <span class="kanji-meta">
-      <strong>宅</strong>
-      <small>rumah</small>
-      <span class="kanji-reading"><span>onyomi: タク</span>
+      <strong>rumah</strong>
+      <span class="kanji-reading"><span>onyomi: タク</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam halaman pemesanan dan pengiriman paket, 宅 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -79,13 +64,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">配</span>
     <span class="kanji-meta">
-      <strong>配</strong>
-      <small>mengantar, membagi</small>
-      <span class="kanji-reading"><span>onyomi: ハイ</span>
+      <strong>mengantar, membagi</strong>
+      <span class="kanji-reading"><span>onyomi: ハイ</span><span>kunyomi: くばる</span></span>
     </span>
   </summary>
   <p>Dalam halaman pemesanan dan pengiriman paket, 配 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -95,13 +79,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">希</span>
     <span class="kanji-meta">
-      <strong>希</strong>
-      <small>harapan</small>
-      <span class="kanji-reading"><span>onyomi: キ</span>
+      <strong>harapan</strong>
+      <span class="kanji-reading"><span>onyomi: キ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam halaman pemesanan dan pengiriman paket, 希 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -111,13 +94,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">望</span>
     <span class="kanji-meta">
-      <strong>望</strong>
-      <small>berharap</small>
-      <span class="kanji-reading"><span>onyomi: ボウ</span>
+      <strong>berharap</strong>
+      <span class="kanji-reading"><span>onyomi: ボウ</span><span>kunyomi: のぞむ</span></span>
     </span>
   </summary>
   <p>Dalam halaman pemesanan dan pengiriman paket, 望 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -127,13 +109,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">荷</span>
     <span class="kanji-meta">
-      <strong>荷</strong>
-      <small>barang, muatan</small>
-      <span class="kanji-reading"><span>onyomi: カ</span>
+      <strong>barang, muatan</strong>
+      <span class="kanji-reading"><span>onyomi: カ</span><span>kunyomi: に</span></span>
     </span>
   </summary>
   <p>Dalam halaman pemesanan dan pengiriman paket, 荷 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -143,13 +124,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">換</span>
     <span class="kanji-meta">
-      <strong>換</strong>
-      <small>menukar</small>
-      <span class="kanji-reading"><span>onyomi: カン</span>
+      <strong>menukar</strong>
+      <span class="kanji-reading"><span>onyomi: カン</span><span>kunyomi: かえる</span></span>
     </span>
   </summary>
   <p>Dalam halaman pemesanan dan pengiriman paket, 換 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -159,13 +139,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">額</span>
     <span class="kanji-meta">
-      <strong>額</strong>
-      <small>jumlah uang</small>
-      <span class="kanji-reading"><span>onyomi: ガク</span>
+      <strong>jumlah uang</strong>
+      <span class="kanji-reading"><span>onyomi: ガク</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam halaman pemesanan dan pengiriman paket, 額 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -175,6 +154,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 </div>
+
 ## Peta Kata
 
 <div class="word-strip">

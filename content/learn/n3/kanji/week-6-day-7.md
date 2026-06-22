@@ -31,29 +31,15 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 死亡, 忙し
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 亡 | ボウ | ない | meninggal, hilang | 死亡, 亡くなる |
-| 忙 | ボウ | いそがしい | sibuk | 多忙, 忙しい |
-| 忘 | ボウ | わすれる | lupa | 忘年会, 忘れ物 |
-| 祭 | サイ | まつり | festival | 文化祭, お祭り |
-| 労 | ロウ | - | kerja keras | 苦労, 労働者 |
-| 加 | カ | くわえる | menambahkan, ikut | 参加, 増加 |
-| 情 | ジョウ | - | perasaan, informasi | 情報, 表情 |
-| 反 | ハン | - | berlawanan | 反対, 反応 |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-<details class="kanji-card" open>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">亡</span>
     <span class="kanji-meta">
-      <strong>亡</strong>
-      <small>meninggal, hilang</small>
-      <span class="kanji-reading"><span>onyomi: ボウ</span>
+      <strong>meninggal, hilang</strong>
+      <span class="kanji-reading"><span>onyomi: ボウ</span><span>kunyomi: ない</span></span>
     </span>
   </summary>
   <p>亡 berkaitan dengan kematian atau sesuatu yang hilang. Dalam berita formal, 死亡 sering muncul.</p>
@@ -63,13 +49,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">忙</span>
     <span class="kanji-meta">
-      <strong>忙</strong>
-      <small>sibuk</small>
-      <span class="kanji-reading"><span>onyomi: ボウ</span>
+      <strong>sibuk</strong>
+      <span class="kanji-reading"><span>onyomi: ボウ</span><span>kunyomi: いそがしい</span></span>
     </span>
   </summary>
   <p>忙 menandai kesibukan. Sering muncul dalam percakapan kerja dan alasan tidak sempat melakukan sesuatu.</p>
@@ -79,13 +64,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">忘</span>
     <span class="kanji-meta">
-      <strong>忘</strong>
-      <small>lupa</small>
-      <span class="kanji-reading"><span>onyomi: ボウ</span>
+      <strong>lupa</strong>
+      <span class="kanji-reading"><span>onyomi: ボウ</span><span>kunyomi: わすれる</span></span>
     </span>
   </summary>
   <p>忘 berkaitan dengan melupakan atau meninggalkan barang. 忘れ物 adalah kata yang sangat sering dipakai di kehidupan sehari-hari.</p>
@@ -96,13 +80,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">祭</span>
     <span class="kanji-meta">
-      <strong>祭</strong>
-      <small>festival</small>
-      <span class="kanji-reading"><span>onyomi: サイ</span>
+      <strong>festival</strong>
+      <span class="kanji-reading"><span>onyomi: サイ</span><span>kunyomi: まつり</span></span>
     </span>
   </summary>
   <p>祭 berkaitan dengan festival atau perayaan. 文化祭 sering muncul pada pengumuman sekolah.</p>
@@ -112,13 +95,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">労</span>
     <span class="kanji-meta">
-      <strong>労</strong>
-      <small>kerja keras</small>
-      <span class="kanji-reading"><span>onyomi: ロウ</span>
+      <strong>kerja keras</strong>
+      <span class="kanji-reading"><span>onyomi: ロウ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>労 berkaitan dengan usaha, kerja, atau penderitaan. Dalam berita dan percakapan sopan, 苦労 sering muncul.</p>
@@ -128,13 +110,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">加</span>
     <span class="kanji-meta">
-      <strong>加</strong>
-      <small>menambahkan, ikut</small>
-      <span class="kanji-reading"><span>onyomi: カ</span>
+      <strong>menambahkan, ikut</strong>
+      <span class="kanji-reading"><span>onyomi: カ</span><span>kunyomi: くわえる</span></span>
     </span>
   </summary>
   <p>加 bisa berarti menambahkan atau ikut serta. 参加 adalah kata penting untuk acara dan kegiatan.</p>
@@ -145,13 +126,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">情</span>
     <span class="kanji-meta">
-      <strong>情</strong>
-      <small>perasaan, informasi</small>
-      <span class="kanji-reading"><span>onyomi: ジョウ</span>
+      <strong>perasaan, informasi</strong>
+      <span class="kanji-reading"><span>onyomi: ジョウ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>情 bisa berarti perasaan atau informasi. 情報 adalah salah satu kata paling umum untuk berita dan data.</p>
@@ -162,13 +142,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">反</span>
     <span class="kanji-meta">
-      <strong>反</strong>
-      <small>berlawanan</small>
-      <span class="kanji-reading"><span>onyomi: ハン</span>
+      <strong>berlawanan</strong>
+      <span class="kanji-reading"><span>onyomi: ハン</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>反 menandai lawan, penentangan, atau reaksi. Sering muncul dalam diskusi pendapat dan berita.</p>
@@ -178,6 +157,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 </div>
+
 ## Peta Kata
 
 Kata-kata hari ini bisa dibaca sebagai alur: kehilangan atau kesibukan → lupa → acara → kerja keras dan partisipasi → informasi atau perasaan → pendapat berlawanan. Banyak kanji hari ini muncul di berita, pengumuman sekolah, dan percakapan tentang kegiatan.

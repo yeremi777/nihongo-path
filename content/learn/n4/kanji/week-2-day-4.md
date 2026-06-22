@@ -31,76 +31,158 @@ Di akhir pelajaran ini, kamu bisa membaca 研究, 住所, 注意, 注文, 教室
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 研 | ケン | - | penelitian, mengasah | 研究 |
-| 究 | キュウ | きわめる | menyelidiki | 研究室、研究者 |
-| 住 | ジュウ | すむ | tinggal | 住所、住む |
-| 所 | ショ | ところ | tempat | 場所、台所 |
-| 注 | チュウ | そそぐ | perhatian, pesan | 注意、注文 |
-| 意 | イ | - | arti, pikiran | 意味、意見 |
-| 教 | キョウ | おしえる、おそわる | mengajar | 教室、教育 |
-| 発 | ハツ、ホツ | たつ | berangkat, memulai | 発音、出発 |
-| 音 | オン、イン | おと、ね | bunyi, musik | 音楽、発音 |
-| 工 | コウ、ク | - | kerajinan, industri | 工場、工事 |
-| 業 | ギョウ、ゴウ | わざ | pekerjaan, industri | 授業、卒業、工業 |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-  <details class="kanji-card" open><summary><span class="kanji-char">研</span><span class="kanji-meta"><strong>研</strong><small>penelitian</small><span class="kanji-reading"><span>onyomi: ケン</span><span>kunyomi: -</span></span></span></summary><p>研 muncul pada penelitian dan kegiatan mengasah pengetahuan.</p><ul>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">研</span>
+    <span class="kanji-meta">
+      <strong>penelitian, mengasah</strong>
+      <span class="kanji-reading"><span>onyomi: ケン</span><span>kunyomi: -</span></span>
+    </span>
+  </summary>
+<p>研 muncul pada penelitian dan kegiatan mengasah pengetahuan.</p><ul>
     <li><span class="ruby-word"><ruby>研究<rt>けんきゅう</rt></ruby></span> - penelitian</li>
     <li><span class="ruby-word"><ruby>研修<rt>けんしゅう</rt></ruby></span> - pelatihan</li>
     <li><span class="ruby-word"><ruby>研磨<rt>けんま</rt></ruby></span> - memoles</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">究</span><span class="kanji-meta"><strong>究</strong><small>menyelidiki</small><span class="kanji-reading"><span>onyomi: キュウ</span><span>kunyomi: きわめる</span></span></span></summary><p>究 sering berpasangan dengan 研 dalam kata penelitian.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">究</span>
+    <span class="kanji-meta">
+      <strong>menyelidiki</strong>
+      <span class="kanji-reading"><span>onyomi: キュウ</span><span>kunyomi: きわめる</span></span>
+    </span>
+  </summary>
+<p>究 sering berpasangan dengan 研 dalam kata penelitian.</p><ul>
     <li><span class="ruby-word"><ruby>研究<rt>けんきゅう</rt></ruby><ruby>室<rt>しつ</rt></ruby></span> - ruang penelitian</li>
     <li><span class="ruby-word"><ruby>研究<rt>けんきゅう</rt></ruby><ruby>者<rt>しゃ</rt></ruby></span> - peneliti</li>
     <li><span class="ruby-word"><ruby>追究<rt>ついきゅう</rt></ruby></span> - penyelidikan mendalam</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">住</span><span class="kanji-meta"><strong>住</strong><small>tinggal</small><span class="kanji-reading"><span>onyomi: ジュウ</span><span>kunyomi: すむ</span></span></span></summary><p>住 muncul pada alamat, tempat tinggal, dan percakapan tentang rumah.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">住</span>
+    <span class="kanji-meta">
+      <strong>tinggal</strong>
+      <span class="kanji-reading"><span>onyomi: ジュウ</span><span>kunyomi: すむ</span></span>
+    </span>
+  </summary>
+<p>住 muncul pada alamat, tempat tinggal, dan percakapan tentang rumah.</p><ul>
     <li><span class="ruby-word"><ruby>住所<rt>じゅうしょ</rt></ruby></span> - alamat</li>
     <li><span class="ruby-word"><ruby>住民<rt>じゅうみん</rt></ruby></span> - penduduk</li>
     <li><span class="ruby-word"><ruby>住宅<rt>じゅうたく</rt></ruby></span> - perumahan</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">所</span><span class="kanji-meta"><strong>所</strong><small>tempat</small><span class="kanji-reading"><span>onyomi: ショ</span><span>kunyomi: ところ</span></span></span></summary><p>所 menandai lokasi, tempat tertentu, dan penunjuk tempat di peta.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">所</span>
+    <span class="kanji-meta">
+      <strong>tempat</strong>
+      <span class="kanji-reading"><span>onyomi: ショ</span><span>kunyomi: ところ</span></span>
+    </span>
+  </summary>
+<p>所 menandai lokasi, tempat tertentu, dan penunjuk tempat di peta.</p><ul>
     <li><span class="ruby-word"><ruby>場所<rt>ばしょ</rt></ruby></span> - tempat</li>
     <li><span class="ruby-word"><ruby>台所<rt>だいどころ</rt></ruby></span> - dapur</li>
     <li><span class="ruby-word"><ruby>住所<rt>じゅうしょ</rt></ruby></span> - alamat</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">注</span><span class="kanji-meta"><strong>注</strong><small>perhatian, pesan</small><span class="kanji-reading"><span>onyomi: チュウ</span><span>kunyomi: そそぐ</span></span></span></summary><p>注 muncul dalam peringatan, catatan penting, dan pesanan barang.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">注</span>
+    <span class="kanji-meta">
+      <strong>perhatian, pesan</strong>
+      <span class="kanji-reading"><span>onyomi: チュウ</span><span>kunyomi: そそぐ</span></span>
+    </span>
+  </summary>
+<p>注 muncul dalam peringatan, catatan penting, dan pesanan barang.</p><ul>
     <li><span class="ruby-word"><ruby>注意<rt>ちゅうい</rt></ruby></span> - perhatian/hati-hati</li>
     <li><span class="ruby-word"><ruby>注文<rt>ちゅうもん</rt></ruby></span> - pesanan</li>
     <li><span class="ruby-word"><ruby>注目<rt>ちゅうもく</rt></ruby></span> - perhatian</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">意</span><span class="kanji-meta"><strong>意</strong><small>arti, pikiran</small><span class="kanji-reading"><span>onyomi: イ</span><span>kunyomi: -</span></span></span></summary><p>意 berhubungan dengan makna, niat, atau pendapat.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">意</span>
+    <span class="kanji-meta">
+      <strong>arti, pikiran</strong>
+      <span class="kanji-reading"><span>onyomi: イ</span><span>kunyomi: -</span></span>
+    </span>
+  </summary>
+<p>意 berhubungan dengan makna, niat, atau pendapat.</p><ul>
     <li><span class="ruby-word"><ruby>意味<rt>いみ</rt></ruby></span> - arti</li>
     <li><span class="ruby-word"><ruby>意見<rt>いけん</rt></ruby></span> - pendapat</li>
     <li><span class="ruby-word"><ruby>注意<rt>ちゅうい</rt></ruby></span> - perhatian</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">教</span><span class="kanji-meta"><strong>教</strong><small>mengajar</small><span class="kanji-reading"><span>onyomi: キョウ</span><span>kunyomi: おしえる、おそわる</span></span></span></summary><p>教 muncul pada kelas, pendidikan, dan kegiatan mengajar.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">教</span>
+    <span class="kanji-meta">
+      <strong>mengajar</strong>
+      <span class="kanji-reading"><span>onyomi: キョウ</span><span>kunyomi: おしえる、おそわる</span></span>
+    </span>
+  </summary>
+<p>教 muncul pada kelas, pendidikan, dan kegiatan mengajar.</p><ul>
     <li><span class="ruby-word"><ruby>教室<rt>きょうしつ</rt></ruby></span> - kelas</li>
     <li><span class="ruby-word"><ruby>教育<rt>きょういく</rt></ruby></span> - pendidikan</li>
     <li><span class="ruby-word"><ruby>教会<rt>きょうかい</rt></ruby></span> - gereja</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">発</span><span class="kanji-meta"><strong>発</strong><small>berangkat, memulai</small><span class="kanji-reading"><span>onyomi: ハツ、ホツ</span><span>kunyomi: たつ</span></span></span></summary><p>発 muncul pada keberangkatan, pengucapan, dan sesuatu yang dimulai.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">発</span>
+    <span class="kanji-meta">
+      <strong>berangkat, memulai</strong>
+      <span class="kanji-reading"><span>onyomi: ハツ、ホツ</span><span>kunyomi: たつ</span></span>
+    </span>
+  </summary>
+<p>発 muncul pada keberangkatan, pengucapan, dan sesuatu yang dimulai.</p><ul>
     <li><span class="ruby-word"><ruby>発音<rt>はつおん</rt></ruby></span> - pengucapan</li>
     <li><span class="ruby-word"><ruby>出発<rt>しゅっぱつ</rt></ruby></span> - keberangkatan</li>
     <li><span class="ruby-word"><ruby>発表<rt>はっぴょう</rt></ruby></span> - presentasi</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">音</span><span class="kanji-meta"><strong>音</strong><small>bunyi, musik</small><span class="kanji-reading"><span>onyomi: オン、イン</span><span>kunyomi: おと、ね</span></span></span></summary><p>音 menunjuk bunyi, suara, musik, dan pengaturan volume perangkat.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">音</span>
+    <span class="kanji-meta">
+      <strong>bunyi, musik</strong>
+      <span class="kanji-reading"><span>onyomi: オン、イン</span><span>kunyomi: おと、ね</span></span>
+    </span>
+  </summary>
+<p>音 menunjuk bunyi, suara, musik, dan pengaturan volume perangkat.</p><ul>
     <li><span class="ruby-word"><ruby>音楽<rt>おんがく</rt></ruby></span> - musik</li>
     <li><span class="ruby-word"><ruby>発音<rt>はつおん</rt></ruby></span> - pengucapan</li>
     <li><span class="ruby-word"><ruby>録音<rt>ろくおん</rt></ruby></span> - rekaman suara</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">工</span><span class="kanji-meta"><strong>工</strong><small>kerajinan, industri</small><span class="kanji-reading"><span>onyomi: コウ、ク</span><span>kunyomi: -</span></span></span></summary><p>工 muncul pada pabrik, pekerjaan konstruksi, dan industri.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">工</span>
+    <span class="kanji-meta">
+      <strong>kerajinan, industri</strong>
+      <span class="kanji-reading"><span>onyomi: コウ、ク</span><span>kunyomi: -</span></span>
+    </span>
+  </summary>
+<p>工 muncul pada pabrik, pekerjaan konstruksi, dan industri.</p><ul>
     <li><span class="ruby-word"><ruby>工場<rt>こうじょう</rt></ruby></span> - pabrik</li>
     <li><span class="ruby-word"><ruby>工事<rt>こうじ</rt></ruby></span> - pekerjaan konstruksi</li>
     <li><span class="ruby-word"><ruby>人工<rt>じんこう</rt></ruby></span> - buatan manusia</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">業</span><span class="kanji-meta"><strong>業</strong><small>pekerjaan, industri</small><span class="kanji-reading"><span>onyomi: ギョウ、ゴウ</span><span>kunyomi: わざ</span></span></span></summary><p>業 muncul pada pelajaran, kelulusan, bisnis, dan industri.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">業</span>
+    <span class="kanji-meta">
+      <strong>pekerjaan, industri</strong>
+      <span class="kanji-reading"><span>onyomi: ギョウ、ゴウ</span><span>kunyomi: わざ</span></span>
+    </span>
+  </summary>
+<p>業 muncul pada pelajaran, kelulusan, bisnis, dan industri.</p><ul>
     <li><span class="ruby-word"><ruby>授業<rt>じゅぎょう</rt></ruby></span> - pelajaran</li>
     <li><span class="ruby-word"><ruby>卒業<rt>そつぎょう</rt></ruby></span> - kelulusan</li>
     <li><span class="ruby-word"><ruby>工業<rt>こうぎょう</rt></ruby></span> - industri</li>

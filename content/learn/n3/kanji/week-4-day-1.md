@@ -31,29 +31,15 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 砂糖、砂�
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 砂 | サ | すな | pasir, gula | 砂糖, 砂 |
-| 塩 | エン | しお | garam | 食塩, 塩 |
-| 油 | ユ | あぶら | minyak, lemak | しょう油, 油 |
-| 緑 | リョク | みどり | hijau | 緑茶, 緑 |
-| 紅 | コウ | べに | merah tua | 紅茶, 口紅 |
-| 冊 | サツ | - | satuan buku | 一冊, 冊数 |
-| 個 | コ | - | satuan benda umum | 一個, 個人 |
-| 枚 | マイ | - | satuan benda tipis | 一枚, 枚数 |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-<details class="kanji-card" open>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">砂</span>
     <span class="kanji-meta">
-      <strong>砂</strong>
-      <small>pasir, gula</small>
-      <span class="kanji-reading"><span>onyomi: サ</span>
+      <strong>pasir, gula</strong>
+      <span class="kanji-reading"><span>onyomi: サ</span><span>kunyomi: すな</span></span>
     </span>
   </summary>
   <p>Pada label bahan makanan dan daftar belanja, 砂 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -63,13 +49,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">塩</span>
     <span class="kanji-meta">
-      <strong>塩</strong>
-      <small>garam</small>
-      <span class="kanji-reading"><span>onyomi: エン</span>
+      <strong>garam</strong>
+      <span class="kanji-reading"><span>onyomi: エン</span><span>kunyomi: しお</span></span>
     </span>
   </summary>
   <p>Pada label bahan makanan dan daftar belanja, 塩 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -79,13 +64,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">油</span>
     <span class="kanji-meta">
-      <strong>油</strong>
-      <small>minyak, lemak</small>
-      <span class="kanji-reading"><span>onyomi: ユ</span>
+      <strong>minyak, lemak</strong>
+      <span class="kanji-reading"><span>onyomi: ユ</span><span>kunyomi: あぶら</span></span>
     </span>
   </summary>
   <p>Pada label bahan makanan dan daftar belanja, 油 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -95,13 +79,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">緑</span>
     <span class="kanji-meta">
-      <strong>緑</strong>
-      <small>hijau</small>
-      <span class="kanji-reading"><span>onyomi: リョク</span>
+      <strong>hijau</strong>
+      <span class="kanji-reading"><span>onyomi: リョク</span><span>kunyomi: みどり</span></span>
     </span>
   </summary>
   <p>Pada label bahan makanan dan daftar belanja, 緑 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -111,13 +94,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">紅</span>
     <span class="kanji-meta">
-      <strong>紅</strong>
-      <small>merah tua</small>
-      <span class="kanji-reading"><span>onyomi: コウ</span>
+      <strong>merah tua</strong>
+      <span class="kanji-reading"><span>onyomi: コウ</span><span>kunyomi: べに</span></span>
     </span>
   </summary>
   <p>Pada label bahan makanan dan daftar belanja, 紅 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -127,13 +109,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">冊</span>
     <span class="kanji-meta">
-      <strong>冊</strong>
-      <small>satuan buku</small>
-      <span class="kanji-reading"><span>onyomi: サツ</span>
+      <strong>satuan buku</strong>
+      <span class="kanji-reading"><span>onyomi: サツ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Pada label bahan makanan dan daftar belanja, 冊 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -143,13 +124,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">個</span>
     <span class="kanji-meta">
-      <strong>個</strong>
-      <small>satuan benda umum</small>
-      <span class="kanji-reading"><span>onyomi: コ</span>
+      <strong>satuan benda umum</strong>
+      <span class="kanji-reading"><span>onyomi: コ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Pada label bahan makanan dan daftar belanja, 個 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -159,13 +139,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">枚</span>
     <span class="kanji-meta">
-      <strong>枚</strong>
-      <small>satuan benda tipis</small>
-      <span class="kanji-reading"><span>onyomi: マイ</span>
+      <strong>satuan benda tipis</strong>
+      <span class="kanji-reading"><span>onyomi: マイ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Pada label bahan makanan dan daftar belanja, 枚 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -175,6 +154,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 </div>
+
 ## Peta Kata
 
 <div class="word-strip">

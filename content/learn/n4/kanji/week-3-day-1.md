@@ -31,52 +31,102 @@ Di akhir pelajaran ini, kamu bisa membaca 部屋, 部長, 本屋, お土産, 産
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 部 | ブ | - | bagian, departemen | 部長、全部、部屋 |
-| 屋 | オク | や | toko, rumah | 屋上、本屋、花屋 |
-| 産 | サン | うむ、うまれる | hasil, industri | 産業、お土産 |
-| 姉 | シ | あね | kakak perempuan | 姉、お姉さん、姉妹 |
-| 兄 | ケイ、キョウ | あに | kakak laki-laki | 兄弟、お兄さん |
-| 世 | セイ、セ | よ | dunia, generasi | 世界、世話 |
-| 界 | カイ | - | dunia, batas | 世界、世界中 |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-  <details class="kanji-card" open><summary><span class="kanji-char">部</span><span class="kanji-meta"><strong>部</strong><small>bagian, departemen</small><span class="kanji-reading"><span>onyomi: ブ</span><span>kunyomi: -</span></span></span></summary><p>部 menandai bagian, divisi, atau ruangan pada kata tertentu.</p><ul>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">部</span>
+    <span class="kanji-meta">
+      <strong>bagian, departemen</strong>
+      <span class="kanji-reading"><span>onyomi: ブ</span><span>kunyomi: -</span></span>
+    </span>
+  </summary>
+<p>部 menandai bagian, divisi, atau ruangan pada kata tertentu.</p><ul>
     <li><span class="ruby-word"><ruby>部屋<rt>へや</rt></ruby></span> - kamar</li>
     <li><span class="ruby-word"><ruby>部長<rt>ぶちょう</rt></ruby></span> - kepala bagian</li>
     <li><span class="ruby-word"><ruby>全部<rt>ぜんぶ</rt></ruby></span> - semua</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">屋</span><span class="kanji-meta"><strong>屋</strong><small>toko, rumah</small><span class="kanji-reading"><span>onyomi: オク</span><span>kunyomi: や</span></span></span></summary><p>屋 sering muncul pada nama toko atau bagian bangunan.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">屋</span>
+    <span class="kanji-meta">
+      <strong>toko, rumah</strong>
+      <span class="kanji-reading"><span>onyomi: オク</span><span>kunyomi: や</span></span>
+    </span>
+  </summary>
+<p>屋 sering muncul pada nama toko atau bagian bangunan.</p><ul>
     <li><span class="ruby-word"><ruby>本屋<rt>ほんや</rt></ruby></span> - toko buku</li>
     <li><span class="ruby-word"><ruby>花屋<rt>はなや</rt></ruby></span> - toko bunga</li>
     <li><span class="ruby-word"><ruby>屋上<rt>おくじょう</rt></ruby></span> - atap gedung</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">産</span><span class="kanji-meta"><strong>産</strong><small>hasil, industri</small><span class="kanji-reading"><span>onyomi: サン</span><span>kunyomi: うむ、うまれる</span></span></span></summary><p>産 muncul pada hasil produksi, industri, dan oleh-oleh.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">産</span>
+    <span class="kanji-meta">
+      <strong>hasil, industri</strong>
+      <span class="kanji-reading"><span>onyomi: サン</span><span>kunyomi: うむ、うまれる</span></span>
+    </span>
+  </summary>
+<p>産 muncul pada hasil produksi, industri, dan oleh-oleh.</p><ul>
     <li><span class="ruby-word">お<ruby>土産<rt>みやげ</rt></ruby></span> - oleh-oleh</li>
     <li><span class="ruby-word"><ruby>産業<rt>さんぎょう</rt></ruby></span> - industri</li>
     <li><span class="ruby-word"><ruby>国産<rt>こくさん</rt></ruby></span> - produksi dalam negeri</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">姉</span><span class="kanji-meta"><strong>姉</strong><small>kakak perempuan</small><span class="kanji-reading"><span>onyomi: シ</span><span>kunyomi: あね</span></span></span></summary><p>姉 menunjuk kakak perempuan dalam keluarga dan percakapan tentang saudara.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">姉</span>
+    <span class="kanji-meta">
+      <strong>kakak perempuan</strong>
+      <span class="kanji-reading"><span>onyomi: シ</span><span>kunyomi: あね</span></span>
+    </span>
+  </summary>
+<p>姉 menunjuk kakak perempuan dalam keluarga dan percakapan tentang saudara.</p><ul>
     <li><span class="ruby-word"><ruby>姉妹<rt>しまい</rt></ruby></span> - saudara perempuan</li>
     <li><span class="ruby-word"><ruby>姉<rt>あね</rt></ruby><ruby>弟<rt>おとうと</rt></ruby></span> - kakak perempuan dan adik laki-laki</li>
     <li><span class="ruby-word"><ruby>義姉<rt>ぎし</rt></ruby></span> - kakak ipar perempuan</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">兄</span><span class="kanji-meta"><strong>兄</strong><small>kakak laki-laki</small><span class="kanji-reading"><span>onyomi: ケイ、キョウ</span><span>kunyomi: あに</span></span></span></summary><p>兄 menunjuk kakak laki-laki dan muncul pada kata saudara.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">兄</span>
+    <span class="kanji-meta">
+      <strong>kakak laki-laki</strong>
+      <span class="kanji-reading"><span>onyomi: ケイ、キョウ</span><span>kunyomi: あに</span></span>
+    </span>
+  </summary>
+<p>兄 menunjuk kakak laki-laki dan muncul pada kata saudara.</p><ul>
     <li><span class="ruby-word"><ruby>兄弟<rt>きょうだい</rt></ruby></span> - saudara laki-laki/saudara</li>
     <li><span class="ruby-word"><ruby>兄妹<rt>きょうだい</rt></ruby></span> - kakak laki-laki dan adik perempuan</li>
     <li><span class="ruby-word"><ruby>義兄<rt>ぎけい</rt></ruby></span> - kakak ipar laki-laki</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">世</span><span class="kanji-meta"><strong>世</strong><small>dunia, generasi</small><span class="kanji-reading"><span>onyomi: セイ、セ</span><span>kunyomi: よ</span></span></span></summary><p>世 muncul pada dunia, masyarakat, atau bantuan/perawatan dalam 世話.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">世</span>
+    <span class="kanji-meta">
+      <strong>dunia, generasi</strong>
+      <span class="kanji-reading"><span>onyomi: セイ、セ</span><span>kunyomi: よ</span></span>
+    </span>
+  </summary>
+<p>世 muncul pada dunia, masyarakat, atau bantuan/perawatan dalam 世話.</p><ul>
     <li><span class="ruby-word"><ruby>世界<rt>せかい</rt></ruby></span> - dunia</li>
     <li><span class="ruby-word"><ruby>世話<rt>せわ</rt></ruby></span> - bantuan/perawatan</li>
     <li><span class="ruby-word"><ruby>世代<rt>せだい</rt></ruby></span> - generasi</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">界</span><span class="kanji-meta"><strong>界</strong><small>dunia, batas</small><span class="kanji-reading"><span>onyomi: カイ</span><span>kunyomi: -</span></span></span></summary><p>界 menandai dunia, bidang, atau batas lingkungan tertentu.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">界</span>
+    <span class="kanji-meta">
+      <strong>dunia, batas</strong>
+      <span class="kanji-reading"><span>onyomi: カイ</span><span>kunyomi: -</span></span>
+    </span>
+  </summary>
+<p>界 menandai dunia, bidang, atau batas lingkungan tertentu.</p><ul>
     <li><span class="ruby-word"><ruby>世界<rt>せかい</rt></ruby></span> - dunia</li>
     <li><span class="ruby-word"><ruby>世界中<rt>せかいじゅう</rt></ruby></span> - seluruh dunia</li>
     <li><span class="ruby-word"><ruby>業界<rt>ぎょうかい</rt></ruby></span> - industri/bidang usaha</li>

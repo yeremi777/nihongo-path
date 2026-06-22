@@ -31,28 +31,15 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 黄色, 絵本
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 黄 | - | き | kuning | 黄色, 黄色い |
-| 絵 | カイ, エ | - | gambar, lukisan | 絵画, 絵, 絵本 |
-| 組 | - | くみ, くむ | kelompok, menyusun | 三組, 組む, 番組 |
-| 束 | ソク | たば | ikatan, bundel, janji | 約束, 花束, 一束 |
-| 授 | ジュ | - | mengajar, memberikan | 授業, 教授 |
-| 渡 | - | わたる, わたす | menyeberang, menyerahkan | 渡る, 渡す |
-| 昔 | - | むかし | dahulu, masa lalu | 昔, 昔話 |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-<details class="kanji-card" open>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">黄</span>
     <span class="kanji-meta">
-      <strong>黄</strong>
-      <small>kuning</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>kuning</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: き</span></span>
     </span>
   </summary>
   <p>黄 memberi warna kuning. Dalam 黄色い, kanji ini langsung menjadi kata sifat warna.</p>
@@ -62,13 +49,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">絵</span>
     <span class="kanji-meta">
-      <strong>絵</strong>
-      <small>gambar, lukisan</small>
-      <span class="kanji-reading"><span>onyomi: カイ, エ</span>
+      <strong>gambar, lukisan</strong>
+      <span class="kanji-reading"><span>onyomi: カイ, エ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>絵 menunjuk gambar atau lukisan. Sangat umum pada buku anak, museum, dan deskripsi visual.</p>
@@ -79,13 +65,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">組</span>
     <span class="kanji-meta">
-      <strong>組</strong>
-      <small>kelompok, menyusun</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>kelompok, menyusun</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: くみ, くむ</span></span>
     </span>
   </summary>
   <p>組 bisa berarti kelompok/kelas atau tindakan menyusun sesuatu.</p>
@@ -96,13 +81,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">束</span>
     <span class="kanji-meta">
-      <strong>束</strong>
-      <small>ikatan, bundel, janji</small>
-      <span class="kanji-reading"><span>onyomi: ソク</span>
+      <strong>ikatan, bundel, janji</strong>
+      <span class="kanji-reading"><span>onyomi: ソク</span><span>kunyomi: たば</span></span>
     </span>
   </summary>
   <p>束 menunjuk sesuatu yang diikat menjadi satu. Dalam 約束, maknanya menjadi janji.</p>
@@ -113,13 +97,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">授</span>
     <span class="kanji-meta">
-      <strong>授</strong>
-      <small>mengajar, memberikan</small>
-      <span class="kanji-reading"><span>onyomi: ジュ</span>
+      <strong>mengajar, memberikan</strong>
+      <span class="kanji-reading"><span>onyomi: ジュ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>授 muncul pada kata pelajaran dan pemberian pengetahuan atau gelar.</p>
@@ -129,13 +112,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">渡</span>
     <span class="kanji-meta">
-      <strong>渡</strong>
-      <small>menyeberang, menyerahkan</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>menyeberang, menyerahkan</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: わたる, わたす</span></span>
     </span>
   </summary>
   <p>渡 dipakai untuk perpindahan melewati sesuatu atau menyerahkan benda ke orang lain.</p>
@@ -145,13 +127,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">昔</span>
     <span class="kanji-meta">
-      <strong>昔</strong>
-      <small>dahulu, masa lalu</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>dahulu, masa lalu</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: むかし</span></span>
     </span>
   </summary>
   <p>昔 menunjuk masa lampau yang terasa cukup jauh dari sekarang.</p>
@@ -161,6 +142,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 </div>
+
 ## Peta Kata
 
 Kata-kata hari ini tidak berada pada satu tempat saja, tetapi tetap punya pola. 黄 dan 絵 sering muncul pada deskripsi benda, 組 dan 束 mengelompokkan sesuatu, 授 berkaitan dengan pelajaran, 渡 berkaitan dengan perpindahan, dan 昔 menunjuk waktu lampau.

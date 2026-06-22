@@ -31,29 +31,15 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 調査、調�
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 調 | チョウ | しらべる | menyelidiki, kondisi | 調査, 調子 |
-| 査 | サ | - | memeriksa | 調査, 検査 |
-| 移 | イ | うつる, うつす | berpindah | 移動, 移る |
-| 難 | ナン | むずかしい | sulit | 難しい, 困難 |
-| 簡 | カン | - | sederhana | 簡単, 簡単な |
-| 単 | タン | - | tunggal, sederhana | 単語, 単位 |
-| 感 | カン | - | perasaan, kesan | 感じる, 感動 |
-| 想 | ソウ | - | pikiran, bayangan | 感想, 予想 |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-<details class="kanji-card" open>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">調</span>
     <span class="kanji-meta">
-      <strong>調</strong>
-      <small>menyelidiki, kondisi</small>
-      <span class="kanji-reading"><span>onyomi: チョウ</span>
+      <strong>menyelidiki, kondisi</strong>
+      <span class="kanji-reading"><span>onyomi: チョウ</span><span>kunyomi: しらべる</span></span>
     </span>
   </summary>
   <p>Dalam survei dan kuesioner, 調 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -63,13 +49,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">査</span>
     <span class="kanji-meta">
-      <strong>査</strong>
-      <small>memeriksa</small>
-      <span class="kanji-reading"><span>onyomi: サ</span>
+      <strong>memeriksa</strong>
+      <span class="kanji-reading"><span>onyomi: サ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam survei dan kuesioner, 査 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -79,13 +64,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">移</span>
     <span class="kanji-meta">
-      <strong>移</strong>
-      <small>berpindah</small>
-      <span class="kanji-reading"><span>onyomi: イ</span>
+      <strong>berpindah</strong>
+      <span class="kanji-reading"><span>onyomi: イ</span><span>kunyomi: うつる, うつす</span></span>
     </span>
   </summary>
   <p>Dalam survei dan kuesioner, 移 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -95,13 +79,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">難</span>
     <span class="kanji-meta">
-      <strong>難</strong>
-      <small>sulit</small>
-      <span class="kanji-reading"><span>onyomi: ナン</span>
+      <strong>sulit</strong>
+      <span class="kanji-reading"><span>onyomi: ナン</span><span>kunyomi: むずかしい</span></span>
     </span>
   </summary>
   <p>Dalam survei dan kuesioner, 難 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -111,13 +94,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">簡</span>
     <span class="kanji-meta">
-      <strong>簡</strong>
-      <small>sederhana</small>
-      <span class="kanji-reading"><span>onyomi: カン</span>
+      <strong>sederhana</strong>
+      <span class="kanji-reading"><span>onyomi: カン</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam survei dan kuesioner, 簡 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -127,13 +109,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">単</span>
     <span class="kanji-meta">
-      <strong>単</strong>
-      <small>tunggal, sederhana</small>
-      <span class="kanji-reading"><span>onyomi: タン</span>
+      <strong>tunggal, sederhana</strong>
+      <span class="kanji-reading"><span>onyomi: タン</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam survei dan kuesioner, 単 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -143,13 +124,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">感</span>
     <span class="kanji-meta">
-      <strong>感</strong>
-      <small>perasaan, kesan</small>
-      <span class="kanji-reading"><span>onyomi: カン</span>
+      <strong>perasaan, kesan</strong>
+      <span class="kanji-reading"><span>onyomi: カン</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam survei dan kuesioner, 感 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -159,13 +139,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">想</span>
     <span class="kanji-meta">
-      <strong>想</strong>
-      <small>pikiran, bayangan</small>
-      <span class="kanji-reading"><span>onyomi: ソウ</span>
+      <strong>pikiran, bayangan</strong>
+      <span class="kanji-reading"><span>onyomi: ソウ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam survei dan kuesioner, 想 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -175,6 +154,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 </div>
+
 ## Peta Kata
 
 <div class="word-strip">

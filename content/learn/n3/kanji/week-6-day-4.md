@@ -31,29 +31,15 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 戦後、戦�
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 戦 | セン | たたかう | perang, bertarung | 戦後, 戦う |
-| 経 | ケイ | - | mengelola, pengalaman | 経済, 経験 |
-| 済 | サイ | すむ | selesai, ekonomi | 経済, 済む |
-| 成 | セイ | - | tumbuh, menjadi | 成長, 完成 |
-| 貿 | ボウ | - | perdagangan | 貿易, 貿易会社 |
-| 易 | エキ | やさしい | dagang, mudah | 貿易, 易しい |
-| 輸 | ユ | - | mengangkut, ekspor/impor | 輸出, 輸入 |
-| 相 | ソウ, ショウ | あい | saling, konsultasi | 相談, 首相 |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-<details class="kanji-card" open>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">戦</span>
     <span class="kanji-meta">
-      <strong>戦</strong>
-      <small>perang, bertarung</small>
-      <span class="kanji-reading"><span>onyomi: セン</span>
+      <strong>perang, bertarung</strong>
+      <span class="kanji-reading"><span>onyomi: セン</span><span>kunyomi: たたかう</span></span>
     </span>
   </summary>
   <p>Dalam berita ekonomi dan perdagangan, 戦 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -63,13 +49,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">経</span>
     <span class="kanji-meta">
-      <strong>経</strong>
-      <small>mengelola, pengalaman</small>
-      <span class="kanji-reading"><span>onyomi: ケイ</span>
+      <strong>mengelola, pengalaman</strong>
+      <span class="kanji-reading"><span>onyomi: ケイ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam berita ekonomi dan perdagangan, 経 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -79,13 +64,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">済</span>
     <span class="kanji-meta">
-      <strong>済</strong>
-      <small>selesai, ekonomi</small>
-      <span class="kanji-reading"><span>onyomi: サイ</span>
+      <strong>selesai, ekonomi</strong>
+      <span class="kanji-reading"><span>onyomi: サイ</span><span>kunyomi: すむ</span></span>
     </span>
   </summary>
   <p>Dalam berita ekonomi dan perdagangan, 済 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -95,13 +79,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">成</span>
     <span class="kanji-meta">
-      <strong>成</strong>
-      <small>tumbuh, menjadi</small>
-      <span class="kanji-reading"><span>onyomi: セイ</span>
+      <strong>tumbuh, menjadi</strong>
+      <span class="kanji-reading"><span>onyomi: セイ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam berita ekonomi dan perdagangan, 成 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -111,13 +94,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">貿</span>
     <span class="kanji-meta">
-      <strong>貿</strong>
-      <small>perdagangan</small>
-      <span class="kanji-reading"><span>onyomi: ボウ</span>
+      <strong>perdagangan</strong>
+      <span class="kanji-reading"><span>onyomi: ボウ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam berita ekonomi dan perdagangan, 貿 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -127,13 +109,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">易</span>
     <span class="kanji-meta">
-      <strong>易</strong>
-      <small>dagang, mudah</small>
-      <span class="kanji-reading"><span>onyomi: エキ</span>
+      <strong>dagang, mudah</strong>
+      <span class="kanji-reading"><span>onyomi: エキ</span><span>kunyomi: やさしい</span></span>
     </span>
   </summary>
   <p>Dalam berita ekonomi dan perdagangan, 易 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -143,13 +124,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">輸</span>
     <span class="kanji-meta">
-      <strong>輸</strong>
-      <small>mengangkut, ekspor/impor</small>
-      <span class="kanji-reading"><span>onyomi: ユ</span>
+      <strong>mengangkut, ekspor/impor</strong>
+      <span class="kanji-reading"><span>onyomi: ユ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam berita ekonomi dan perdagangan, 輸 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -159,13 +139,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">相</span>
     <span class="kanji-meta">
-      <strong>相</strong>
-      <small>saling, konsultasi</small>
-      <span class="kanji-reading"><span>onyomi: ソウ, ショウ</span>
+      <strong>saling, konsultasi</strong>
+      <span class="kanji-reading"><span>onyomi: ソウ, ショウ</span><span>kunyomi: あい</span></span>
     </span>
   </summary>
   <p>Dalam berita ekonomi dan perdagangan, 相 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -175,6 +154,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 </div>
+
 ## Peta Kata
 
 <div class="word-strip">

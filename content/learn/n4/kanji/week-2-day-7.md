@@ -31,46 +31,88 @@ Di akhir pelajaran ini, kamu bisa membaca kata seperti 取替, 押入れ, 引出
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 取 | シュ | とる | mengambil | 取る、取り替える |
-| 押 | オウ | おす、おさえる | menekan | 押す、押入れ |
-| 引 | イン | ひく、ひける | menarik | 引く、引出し |
-| 開 | カイ | あく、あける、ひらく | membuka | 開く、開店 |
-| 閉 | ヘイ | しまる、しめる、とじる | menutup | 閉まる、閉店 |
-| 止 | シ | とまる、とめる | berhenti | 中止、使用中止 |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-  <details class="kanji-card" open><summary><span class="kanji-char">取</span><span class="kanji-meta"><strong>取</strong><small>mengambil</small><span class="kanji-reading"><span>onyomi: シュ</span><span>kunyomi: とる</span></span></span></summary><p>取 muncul pada tindakan mengambil, menerima, atau mengganti.</p><ul>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">取</span>
+    <span class="kanji-meta">
+      <strong>mengambil</strong>
+      <span class="kanji-reading"><span>onyomi: シュ</span><span>kunyomi: とる</span></span>
+    </span>
+  </summary>
+<p>取 muncul pada tindakan mengambil, menerima, atau mengganti.</p><ul>
     <li><span class="ruby-word"><ruby>取<rt>と</rt></ruby><ruby>替<rt>かわ</rt></ruby></span> - penggantian</li>
     <li><span class="ruby-word"><ruby>受取<rt>うけとり</rt></ruby></span> - penerimaan</li>
     <li><span class="ruby-word"><ruby>取消<rt>とりけし</rt></ruby></span> - pembatalan</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">押</span><span class="kanji-meta"><strong>押</strong><small>menekan</small><span class="kanji-reading"><span>onyomi: オウ</span><span>kunyomi: おす、おさえる</span></span></span></summary><p>押 sering muncul pada tombol atau instruksi untuk mendorong/menekan.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">押</span>
+    <span class="kanji-meta">
+      <strong>menekan</strong>
+      <span class="kanji-reading"><span>onyomi: オウ</span><span>kunyomi: おす、おさえる</span></span>
+    </span>
+  </summary>
+<p>押 sering muncul pada tombol atau instruksi untuk mendorong/menekan.</p><ul>
     <li><span class="ruby-word"><ruby>押入<rt>おしい</rt></ruby>れ</span> - lemari dinding</li>
     <li><span class="ruby-word"><ruby>押印<rt>おういん</rt></ruby></span> - membubuhkan stempel</li>
     <li><span class="ruby-word"><ruby>押収<rt>おうしゅう</rt></ruby></span> - penyitaan</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">引</span><span class="kanji-meta"><strong>引</strong><small>menarik</small><span class="kanji-reading"><span>onyomi: イン</span><span>kunyomi: ひく、ひける</span></span></span></summary><p>引 berarti menarik, tetapi juga muncul pada laci dan diskon.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">引</span>
+    <span class="kanji-meta">
+      <strong>menarik</strong>
+      <span class="kanji-reading"><span>onyomi: イン</span><span>kunyomi: ひく、ひける</span></span>
+    </span>
+  </summary>
+<p>引 berarti menarik, tetapi juga muncul pada laci dan diskon.</p><ul>
     <li><span class="ruby-word"><ruby>引出<rt>ひきだ</rt></ruby>し</span> - laci</li>
     <li><span class="ruby-word"><ruby>割引<rt>わりびき</rt></ruby></span> - diskon</li>
     <li><span class="ruby-word"><ruby>引用<rt>いんよう</rt></ruby></span> - kutipan</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">開</span><span class="kanji-meta"><strong>開</strong><small>membuka</small><span class="kanji-reading"><span>onyomi: カイ</span><span>kunyomi: あく、あける、ひらく</span></span></span></summary><p>開 muncul pada pintu, toko buka, dan kegiatan dimulai.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">開</span>
+    <span class="kanji-meta">
+      <strong>membuka</strong>
+      <span class="kanji-reading"><span>onyomi: カイ</span><span>kunyomi: あく、あける、ひらく</span></span>
+    </span>
+  </summary>
+<p>開 muncul pada pintu, toko buka, dan kegiatan dimulai.</p><ul>
     <li><span class="ruby-word"><ruby>開店<rt>かいてん</rt></ruby></span> - toko buka</li>
     <li><span class="ruby-word"><ruby>開始<rt>かいし</rt></ruby></span> - mulai</li>
     <li><span class="ruby-word"><ruby>公開<rt>こうかい</rt></ruby></span> - terbuka untuk umum</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">閉</span><span class="kanji-meta"><strong>閉</strong><small>menutup</small><span class="kanji-reading"><span>onyomi: ヘイ</span><span>kunyomi: しまる、しめる、とじる</span></span></span></summary><p>閉 muncul pada pintu tertutup, toko tutup, dan penutupan.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">閉</span>
+    <span class="kanji-meta">
+      <strong>menutup</strong>
+      <span class="kanji-reading"><span>onyomi: ヘイ</span><span>kunyomi: しまる、しめる、とじる</span></span>
+    </span>
+  </summary>
+<p>閉 muncul pada pintu tertutup, toko tutup, dan penutupan.</p><ul>
     <li><span class="ruby-word"><ruby>閉店<rt>へいてん</rt></ruby></span> - toko tutup</li>
     <li><span class="ruby-word"><ruby>閉会<rt>へいかい</rt></ruby></span> - penutupan acara</li>
     <li><span class="ruby-word"><ruby>閉鎖<rt>へいさ</rt></ruby></span> - penutupan akses</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">止</span><span class="kanji-meta"><strong>止</strong><small>berhenti</small><span class="kanji-reading"><span>onyomi: シ</span><span>kunyomi: とまる、とめる</span></span></span></summary><p>止 muncul pada larangan, pembatalan, dan penghentian layanan.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">止</span>
+    <span class="kanji-meta">
+      <strong>berhenti</strong>
+      <span class="kanji-reading"><span>onyomi: シ</span><span>kunyomi: とまる、とめる</span></span>
+    </span>
+  </summary>
+<p>止 muncul pada larangan, pembatalan, dan penghentian layanan.</p><ul>
     <li><span class="ruby-word"><ruby>中止<rt>ちゅうし</rt></ruby></span> - pembatalan</li>
     <li><span class="ruby-word"><ruby>禁止<rt>きんし</rt></ruby></span> - larangan</li>
     <li><span class="ruby-word"><ruby>停止<rt>ていし</rt></ruby></span> - penghentian</li>

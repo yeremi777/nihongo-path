@@ -31,30 +31,15 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 練習、練�
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 練 | レン | - | berlatih | 練習, 練る |
-| 最 | サイ | もっとも | paling, terbaru | 最近, 最初 |
-| 適 | テキ | - | cocok, tepat | 適当, 快適 |
-| 選 | セン | えらぶ | memilih | 選ぶ, 選手 |
-| 違 | - | ちがう, ちがえる | berbeda, salah | 違う, 間違い |
-| 直 | チョク | なおる, なおす | langsung, memperbaiki | 直す, 直接 |
-| 復 | フク | - | kembali, review | 復習, 往復 |
-| 辞 | ジ | やめる | kamus, berhenti | 辞書, 辞める |
-| 宿 | シュク | やど | penginapan, tugas | 宿題, 下宿 |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-<details class="kanji-card" open>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">練</span>
     <span class="kanji-meta">
-      <strong>練</strong>
-      <small>berlatih</small>
-      <span class="kanji-reading"><span>onyomi: レン</span>
+      <strong>berlatih</strong>
+      <span class="kanji-reading"><span>onyomi: レン</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam kelas bahasa Jepang dan tugas belajar, 練 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -64,13 +49,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">最</span>
     <span class="kanji-meta">
-      <strong>最</strong>
-      <small>paling, terbaru</small>
-      <span class="kanji-reading"><span>onyomi: サイ</span>
+      <strong>paling, terbaru</strong>
+      <span class="kanji-reading"><span>onyomi: サイ</span><span>kunyomi: もっとも</span></span>
     </span>
   </summary>
   <p>Dalam kelas bahasa Jepang dan tugas belajar, 最 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -80,13 +64,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">適</span>
     <span class="kanji-meta">
-      <strong>適</strong>
-      <small>cocok, tepat</small>
-      <span class="kanji-reading"><span>onyomi: テキ</span>
+      <strong>cocok, tepat</strong>
+      <span class="kanji-reading"><span>onyomi: テキ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam kelas bahasa Jepang dan tugas belajar, 適 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -96,13 +79,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">選</span>
     <span class="kanji-meta">
-      <strong>選</strong>
-      <small>memilih</small>
-      <span class="kanji-reading"><span>onyomi: セン</span>
+      <strong>memilih</strong>
+      <span class="kanji-reading"><span>onyomi: セン</span><span>kunyomi: えらぶ</span></span>
     </span>
   </summary>
   <p>Dalam kelas bahasa Jepang dan tugas belajar, 選 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -112,13 +94,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">違</span>
     <span class="kanji-meta">
-      <strong>違</strong>
-      <small>berbeda, salah</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>berbeda, salah</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: ちがう, ちがえる</span></span>
     </span>
   </summary>
   <p>Dalam kelas bahasa Jepang dan tugas belajar, 違 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -128,13 +109,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">直</span>
     <span class="kanji-meta">
-      <strong>直</strong>
-      <small>langsung, memperbaiki</small>
-      <span class="kanji-reading"><span>onyomi: チョク</span>
+      <strong>langsung, memperbaiki</strong>
+      <span class="kanji-reading"><span>onyomi: チョク</span><span>kunyomi: なおる, なおす</span></span>
     </span>
   </summary>
   <p>Dalam kelas bahasa Jepang dan tugas belajar, 直 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -144,13 +124,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">復</span>
     <span class="kanji-meta">
-      <strong>復</strong>
-      <small>kembali, review</small>
-      <span class="kanji-reading"><span>onyomi: フク</span>
+      <strong>kembali, review</strong>
+      <span class="kanji-reading"><span>onyomi: フク</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam kelas bahasa Jepang dan tugas belajar, 復 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -160,13 +139,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">辞</span>
     <span class="kanji-meta">
-      <strong>辞</strong>
-      <small>kamus, berhenti</small>
-      <span class="kanji-reading"><span>onyomi: ジ</span>
+      <strong>kamus, berhenti</strong>
+      <span class="kanji-reading"><span>onyomi: ジ</span><span>kunyomi: やめる</span></span>
     </span>
   </summary>
   <p>Dalam kelas bahasa Jepang dan tugas belajar, 辞 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -176,13 +154,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">宿</span>
     <span class="kanji-meta">
-      <strong>宿</strong>
-      <small>penginapan, tugas</small>
-      <span class="kanji-reading"><span>onyomi: シュク</span>
+      <strong>penginapan, tugas</strong>
+      <span class="kanji-reading"><span>onyomi: シュク</span><span>kunyomi: やど</span></span>
     </span>
   </summary>
   <p>Dalam kelas bahasa Jepang dan tugas belajar, 宿 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -192,6 +169,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 </div>
+
 ## Peta Kata
 
 <div class="word-strip">

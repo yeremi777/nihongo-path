@@ -33,29 +33,15 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata umum seperti 駐車場
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 駐 | チュウ | - | parkir, menetap di suatu tempat | 駐車, 駐車場 |
-| 無 | ム | ない | tidak ada, tanpa | 無料, 無休, 無理, 無い |
-| 満 | マン | - | penuh, puas | 満車, 満員, 不満 |
-| 向 | コウ | むこう, むかう, むき | arah, menghadap | 方向, 向かう, 向こう |
-| 禁 | キン | - | larangan | 禁止, 禁煙 |
-| 関 | カン | - | hubungan, keterkaitan | 関心, 関する, 関係 |
-| 係 | ケイ | かかり | petugas, penanggung jawab, hubungan | 係, 係員, 関係 |
-| 断 | ダン | ことわる | memutus, menolak, tanpa izin dalam kata tertentu | 無断, 断水, 断る |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-<details class="kanji-card" open>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">駐</span>
     <span class="kanji-meta">
-      <strong>駐</strong>
-      <small>parkir, menetap</small>
-      <span class="kanji-reading"><span>onyomi: チュウ</span>
+      <strong>parkir, menetap di suatu tempat</strong>
+      <span class="kanji-reading"><span>onyomi: チュウ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam topik hari ini, 駐 hampir selalu muncul bersama 車 untuk membentuk kata tentang parkir kendaraan.</p>
@@ -66,13 +52,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">無</span>
     <span class="kanji-meta">
-      <strong>無</strong>
-      <small>tidak ada, tanpa</small>
-      <span class="kanji-reading"><span>onyomi: ム</span>
+      <strong>tidak ada, tanpa</strong>
+      <span class="kanji-reading"><span>onyomi: ム</span><span>kunyomi: ない</span></span>
     </span>
   </summary>
   <p>無 memberi rasa “tanpa/tidak ada”. Pada papan umum, kanji ini sering menjelaskan biaya, izin, atau hari libur.</p>
@@ -84,13 +69,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">満</span>
     <span class="kanji-meta">
-      <strong>満</strong>
-      <small>penuh, puas</small>
-      <span class="kanji-reading"><span>onyomi: マン</span>
+      <strong>penuh, puas</strong>
+      <span class="kanji-reading"><span>onyomi: マン</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>満 menandai keadaan penuh. Untuk parkir, fokuskan pada apakah masih ada kapasitas atau tidak.</p>
@@ -101,13 +85,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">向</span>
     <span class="kanji-meta">
-      <strong>向</strong>
-      <small>arah, menghadap</small>
-      <span class="kanji-reading"><span>onyomi: コウ</span>
+      <strong>arah, menghadap, menuju</strong>
+      <span class="kanji-reading"><span>onyomi: コウ</span><span>kunyomi: むこう・むかう・むき</span></span>
     </span>
   </summary>
   <p>向 membantu membaca arah. Dalam rambu dan petunjuk, kanji ini biasanya memberi tahu arah hadap atau tujuan.</p>
@@ -119,13 +102,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">禁</span>
     <span class="kanji-meta">
-      <strong>禁</strong>
-      <small>larangan</small>
-      <span class="kanji-reading"><span>onyomi: キン</span>
+      <strong>larangan, dilarang</strong>
+      <span class="kanji-reading"><span>onyomi: キン</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>禁 adalah penanda larangan yang kuat. Saat melihat kanji ini, cari tindakan apa yang dilarang.</p>
@@ -136,13 +118,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">関</span>
     <span class="kanji-meta">
-      <strong>関</strong>
-      <small>hubungan, keterkaitan</small>
-      <span class="kanji-reading"><span>onyomi: カン</span>
+      <strong>hubungan, keterkaitan</strong>
+      <span class="kanji-reading"><span>onyomi: カン</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>関 memberi rasa keterkaitan. Pada papan area terbatas, kanji ini membantu membaca siapa yang termasuk pihak terkait.</p>
@@ -150,16 +131,16 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>関心<rt>かんしん</rt></ruby></span> - minat, perhatian</li>
     <li><span class="ruby-word"><ruby>関する<rt>かんする</rt></ruby></span> - berkaitan dengan</li>
     <li><span class="ruby-word"><ruby>関係<rt>かんけい</rt></ruby></span> - hubungan</li>
+    <li><span class="ruby-word"><ruby>関係者<rt>かんけいしゃ</rt></ruby></span> - pihak terkait</li>
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">係</span>
     <span class="kanji-meta">
-      <strong>係</strong>
-      <small>petugas, penanggung jawab</small>
-      <span class="kanji-reading"><span>onyomi: ケイ</span>
+      <strong>petugas, penanggung jawab, hubungan</strong>
+      <span class="kanji-reading"><span>onyomi: ケイ</span><span>kunyomi: かかり</span></span>
     </span>
   </summary>
   <p>係 bisa berarti hubungan, tetapi dalam fasilitas umum sering menunjuk petugas atau penanggung jawab.</p>
@@ -170,13 +151,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">断</span>
     <span class="kanji-meta">
-      <strong>断</strong>
-      <small>memutus, menolak</small>
-      <span class="kanji-reading"><span>onyomi: ダン</span>
+      <strong>memutus, menolak, tanpa izin dalam kata tertentu</strong>
+      <span class="kanji-reading"><span>onyomi: ダン</span><span>kunyomi: ことわる</span></span>
     </span>
   </summary>
   <p>断 punya rasa memutus atau menolak. Dalam 無断, fokusnya adalah tindakan yang dilakukan tanpa izin.</p>
@@ -187,6 +167,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 </div>
+
 ## Peta Kata
 
 Kata utama hari ini adalah 駐車場 yang berarti tempat parkir.

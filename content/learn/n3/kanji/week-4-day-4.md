@@ -31,29 +31,15 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 申し込む�
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 申 | シン | もうす | melapor, mendaftar | 申し込む, 申込書 |
-| 記 | キ | - | mencatat, menulis | 記入, 日記 |
-| 例 | レイ | たとえる | contoh | 例, 例えば |
-| 齢 | レイ | - | usia | 年齢, 高齢 |
-| 歳 | サイ | - | tahun usia | 二十歳, 三歳 |
-| 性 | セイ | - | jenis, sifat | 性別, 性格 |
-| 連 | レン | つれる | menghubungkan, membawa | 連絡, 連休 |
-| 絡 | ラク | - | kontak, hubungan | 連絡, 連絡先 |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-<details class="kanji-card" open>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">申</span>
     <span class="kanji-meta">
-      <strong>申</strong>
-      <small>melapor, mendaftar</small>
-      <span class="kanji-reading"><span>onyomi: シン</span>
+      <strong>melapor, mendaftar</strong>
+      <span class="kanji-reading"><span>onyomi: シン</span><span>kunyomi: もうす</span></span>
     </span>
   </summary>
   <p>Dalam formulir pendaftaran dan data pribadi, 申 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -63,13 +49,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">記</span>
     <span class="kanji-meta">
-      <strong>記</strong>
-      <small>mencatat, menulis</small>
-      <span class="kanji-reading"><span>onyomi: キ</span>
+      <strong>mencatat, menulis</strong>
+      <span class="kanji-reading"><span>onyomi: キ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam formulir pendaftaran dan data pribadi, 記 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -79,13 +64,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">例</span>
     <span class="kanji-meta">
-      <strong>例</strong>
-      <small>contoh</small>
-      <span class="kanji-reading"><span>onyomi: レイ</span>
+      <strong>contoh</strong>
+      <span class="kanji-reading"><span>onyomi: レイ</span><span>kunyomi: たとえる</span></span>
     </span>
   </summary>
   <p>Dalam formulir pendaftaran dan data pribadi, 例 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -95,13 +79,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">齢</span>
     <span class="kanji-meta">
-      <strong>齢</strong>
-      <small>usia</small>
-      <span class="kanji-reading"><span>onyomi: レイ</span>
+      <strong>usia</strong>
+      <span class="kanji-reading"><span>onyomi: レイ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam formulir pendaftaran dan data pribadi, 齢 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -111,13 +94,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">歳</span>
     <span class="kanji-meta">
-      <strong>歳</strong>
-      <small>tahun usia</small>
-      <span class="kanji-reading"><span>onyomi: サイ</span>
+      <strong>tahun usia</strong>
+      <span class="kanji-reading"><span>onyomi: サイ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam formulir pendaftaran dan data pribadi, 歳 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -127,13 +109,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">性</span>
     <span class="kanji-meta">
-      <strong>性</strong>
-      <small>jenis, sifat</small>
-      <span class="kanji-reading"><span>onyomi: セイ</span>
+      <strong>jenis, sifat</strong>
+      <span class="kanji-reading"><span>onyomi: セイ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam formulir pendaftaran dan data pribadi, 性 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -143,13 +124,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">連</span>
     <span class="kanji-meta">
-      <strong>連</strong>
-      <small>menghubungkan, membawa</small>
-      <span class="kanji-reading"><span>onyomi: レン</span>
+      <strong>menghubungkan, membawa</strong>
+      <span class="kanji-reading"><span>onyomi: レン</span><span>kunyomi: つれる</span></span>
     </span>
   </summary>
   <p>Dalam formulir pendaftaran dan data pribadi, 連 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -159,13 +139,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">絡</span>
     <span class="kanji-meta">
-      <strong>絡</strong>
-      <small>kontak, hubungan</small>
-      <span class="kanji-reading"><span>onyomi: ラク</span>
+      <strong>kontak, hubungan</strong>
+      <span class="kanji-reading"><span>onyomi: ラク</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam formulir pendaftaran dan data pribadi, 絡 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -175,6 +154,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 </div>
+
 ## Peta Kata
 
 <div class="word-strip">

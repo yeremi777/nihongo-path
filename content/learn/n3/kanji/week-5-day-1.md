@@ -31,29 +31,15 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti お礼、失�
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 礼 | レイ | - | terima kasih, sopan santun | お礼, 失礼 |
-| 伺 | - | うかがう | bertanya, berkunjung rendah hati | 伺う, お伺い |
-| 遅 | チ | おそい, おくれる | terlambat, lambat | 遅刻, 遅れる |
-| 失 | シツ | - | kehilangan, gagal, tidak sopan | 失礼, 失敗 |
-| 汗 | - | あせ | keringat | 汗, 汗をかく |
-| 念 | ネン | - | pikiran, penyesalan | 残念, 記念 |
-| 涙 | - | なみだ | air mata | 涙, 涙を流す |
-| 笑 | - | わらう, えむ | tertawa, senyum | 笑う, 笑顔 |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-<details class="kanji-card" open>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">礼</span>
     <span class="kanji-meta">
-      <strong>礼</strong>
-      <small>terima kasih, sopan santun</small>
-      <span class="kanji-reading"><span>onyomi: レイ</span>
+      <strong>terima kasih, sopan santun</strong>
+      <span class="kanji-reading"><span>onyomi: レイ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam email sopan dan balasan tertulis, 礼 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -63,13 +49,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">伺</span>
     <span class="kanji-meta">
-      <strong>伺</strong>
-      <small>bertanya, berkunjung rendah hati</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>bertanya, berkunjung rendah hati</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: うかがう</span></span>
     </span>
   </summary>
   <p>Dalam email sopan dan balasan tertulis, 伺 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -79,13 +64,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">遅</span>
     <span class="kanji-meta">
-      <strong>遅</strong>
-      <small>terlambat, lambat</small>
-      <span class="kanji-reading"><span>onyomi: チ</span>
+      <strong>terlambat, lambat</strong>
+      <span class="kanji-reading"><span>onyomi: チ</span><span>kunyomi: おそい, おくれる</span></span>
     </span>
   </summary>
   <p>Dalam email sopan dan balasan tertulis, 遅 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -95,13 +79,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">失</span>
     <span class="kanji-meta">
-      <strong>失</strong>
-      <small>kehilangan, gagal, tidak sopan</small>
-      <span class="kanji-reading"><span>onyomi: シツ</span>
+      <strong>kehilangan, gagal, tidak sopan</strong>
+      <span class="kanji-reading"><span>onyomi: シツ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam email sopan dan balasan tertulis, 失 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -111,13 +94,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">汗</span>
     <span class="kanji-meta">
-      <strong>汗</strong>
-      <small>keringat</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>keringat</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: あせ</span></span>
     </span>
   </summary>
   <p>Dalam email sopan dan balasan tertulis, 汗 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -127,13 +109,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">念</span>
     <span class="kanji-meta">
-      <strong>念</strong>
-      <small>pikiran, penyesalan</small>
-      <span class="kanji-reading"><span>onyomi: ネン</span>
+      <strong>pikiran, penyesalan</strong>
+      <span class="kanji-reading"><span>onyomi: ネン</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam email sopan dan balasan tertulis, 念 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -143,13 +124,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">涙</span>
     <span class="kanji-meta">
-      <strong>涙</strong>
-      <small>air mata</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>air mata</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: なみだ</span></span>
     </span>
   </summary>
   <p>Dalam email sopan dan balasan tertulis, 涙 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -159,13 +139,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">笑</span>
     <span class="kanji-meta">
-      <strong>笑</strong>
-      <small>tertawa, senyum</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>tertawa, senyum</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: わらう, えむ</span></span>
     </span>
   </summary>
   <p>Dalam email sopan dan balasan tertulis, 笑 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -175,6 +154,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 </div>
+
 ## Peta Kata
 
 <div class="word-strip">

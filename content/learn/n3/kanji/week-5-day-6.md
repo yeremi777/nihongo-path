@@ -31,29 +31,15 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 身長、独�
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 身 | シン | み | tubuh, diri | 身長, 独身 |
-| 酒 | シュ | さけ, さか | alkohol | お酒, 日本酒 |
-| 吸 | キュウ | すう | menghirup | 吸う, 呼吸 |
-| 欲 | ヨク | ほしい | keinginan | 食欲, 欲しい |
-| 眠 | ミン | ねむい, ねむる | tidur, mengantuk | 睡眠, 眠い |
-| 疲 | - | つかれる | lelah | 疲れる, 疲れ |
-| 息 | - | いき | napas | 息, 息切れ |
-| 呼 | コ | よぶ | memanggil, bernapas keluar | 呼吸, 呼ぶ |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-<details class="kanji-card" open>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">身</span>
     <span class="kanji-meta">
-      <strong>身</strong>
-      <small>tubuh, diri</small>
-      <span class="kanji-reading"><span>onyomi: シン</span>
+      <strong>tubuh, diri</strong>
+      <span class="kanji-reading"><span>onyomi: シン</span><span>kunyomi: み</span></span>
     </span>
   </summary>
   <p>Dalam formulir pemeriksaan kesehatan, 身 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -63,13 +49,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">酒</span>
     <span class="kanji-meta">
-      <strong>酒</strong>
-      <small>alkohol</small>
-      <span class="kanji-reading"><span>onyomi: シュ</span>
+      <strong>alkohol</strong>
+      <span class="kanji-reading"><span>onyomi: シュ</span><span>kunyomi: さけ, さか</span></span>
     </span>
   </summary>
   <p>Dalam formulir pemeriksaan kesehatan, 酒 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -79,13 +64,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">吸</span>
     <span class="kanji-meta">
-      <strong>吸</strong>
-      <small>menghirup</small>
-      <span class="kanji-reading"><span>onyomi: キュウ</span>
+      <strong>menghirup</strong>
+      <span class="kanji-reading"><span>onyomi: キュウ</span><span>kunyomi: すう</span></span>
     </span>
   </summary>
   <p>Dalam formulir pemeriksaan kesehatan, 吸 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -95,13 +79,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">欲</span>
     <span class="kanji-meta">
-      <strong>欲</strong>
-      <small>keinginan</small>
-      <span class="kanji-reading"><span>onyomi: ヨク</span>
+      <strong>keinginan</strong>
+      <span class="kanji-reading"><span>onyomi: ヨク</span><span>kunyomi: ほしい</span></span>
     </span>
   </summary>
   <p>Dalam formulir pemeriksaan kesehatan, 欲 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -111,13 +94,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">眠</span>
     <span class="kanji-meta">
-      <strong>眠</strong>
-      <small>tidur, mengantuk</small>
-      <span class="kanji-reading"><span>onyomi: ミン</span>
+      <strong>tidur, mengantuk</strong>
+      <span class="kanji-reading"><span>onyomi: ミン</span><span>kunyomi: ねむい, ねむる</span></span>
     </span>
   </summary>
   <p>Dalam formulir pemeriksaan kesehatan, 眠 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -127,13 +109,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">疲</span>
     <span class="kanji-meta">
-      <strong>疲</strong>
-      <small>lelah</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>lelah</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: つかれる</span></span>
     </span>
   </summary>
   <p>Dalam formulir pemeriksaan kesehatan, 疲 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -143,13 +124,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">息</span>
     <span class="kanji-meta">
-      <strong>息</strong>
-      <small>napas</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>napas</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: いき</span></span>
     </span>
   </summary>
   <p>Dalam formulir pemeriksaan kesehatan, 息 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -159,13 +139,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">呼</span>
     <span class="kanji-meta">
-      <strong>呼</strong>
-      <small>memanggil, bernapas keluar</small>
-      <span class="kanji-reading"><span>onyomi: コ</span>
+      <strong>memanggil, bernapas keluar</strong>
+      <span class="kanji-reading"><span>onyomi: コ</span><span>kunyomi: よぶ</span></span>
     </span>
   </summary>
   <p>Dalam formulir pemeriksaan kesehatan, 呼 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -175,6 +154,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 </div>
+
 ## Peta Kata
 
 <div class="word-strip">

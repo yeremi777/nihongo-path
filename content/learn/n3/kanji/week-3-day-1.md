@@ -31,30 +31,15 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 要冷蔵, 冷
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 要 | ヨウ | いる | perlu, penting | 必要, 要る, 重要 |
-| 冷 | レイ | つめたい, ひやす, ひえる, さめる | dingin, mendinginkan | 冷房, 冷やす, 冷たい |
-| 蔵 | ゾウ | - | gudang, menyimpan | 冷蔵庫, 冷蔵 |
-| 凍 | トウ | こおる | beku, membeku | 冷凍庫, 凍る |
-| 庫 | コ | - | gudang, tempat simpan | 冷蔵庫, 金庫, 車庫 |
-| 召 | - | めす | memanggil, makan hormat | 召し上がる |
-| 保 | ホ | - | menjaga, mempertahankan | 保存, 保険 |
-| 存 | ゾン | - | ada, mengetahui, menyimpan | 保存, ご存じ, 存じません |
-| 必 | ヒツ | かならず | pasti, harus | 必要, 必ず, 必死 |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-<details class="kanji-card" open>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">要</span>
     <span class="kanji-meta">
-      <strong>要</strong>
-      <small>perlu, penting</small>
-      <span class="kanji-reading"><span>onyomi: ヨウ</span>
+      <strong>perlu, penting</strong>
+      <span class="kanji-reading"><span>onyomi: ヨウ</span><span>kunyomi: いる</span></span>
     </span>
   </summary>
   <p>要 menandai kebutuhan. Pada label, kanji ini sering berarti sesuatu wajib dilakukan.</p>
@@ -65,13 +50,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">冷</span>
     <span class="kanji-meta">
-      <strong>冷</strong>
-      <small>dingin, mendinginkan</small>
-      <span class="kanji-reading"><span>onyomi: レイ</span>
+      <strong>dingin, mendinginkan</strong>
+      <span class="kanji-reading"><span>onyomi: レイ</span><span>kunyomi: つめたい, ひやす, ひえる, さめる</span></span>
     </span>
   </summary>
   <p>冷 menunjuk suhu dingin atau proses mendinginkan. Ini inti dari label penyimpanan dingin.</p>
@@ -82,13 +66,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">蔵</span>
     <span class="kanji-meta">
-      <strong>蔵</strong>
-      <small>gudang, menyimpan</small>
-      <span class="kanji-reading"><span>onyomi: ゾウ</span>
+      <strong>gudang, menyimpan</strong>
+      <span class="kanji-reading"><span>onyomi: ゾウ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>蔵 memberi rasa menyimpan. Dalam 冷蔵, artinya penyimpanan dingin.</p>
@@ -98,13 +81,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">凍</span>
     <span class="kanji-meta">
-      <strong>凍</strong>
-      <small>beku, membeku</small>
-      <span class="kanji-reading"><span>onyomi: トウ</span>
+      <strong>beku, membeku</strong>
+      <span class="kanji-reading"><span>onyomi: トウ</span><span>kunyomi: こおる</span></span>
     </span>
   </summary>
   <p>凍 menandai pembekuan. Pada makanan, kata pentingnya 冷凍.</p>
@@ -114,13 +96,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">庫</span>
     <span class="kanji-meta">
-      <strong>庫</strong>
-      <small>gudang, tempat simpan</small>
-      <span class="kanji-reading"><span>onyomi: コ</span>
+      <strong>gudang, tempat simpan</strong>
+      <span class="kanji-reading"><span>onyomi: コ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>庫 menunjuk tempat penyimpanan. Dalam 冷蔵庫 dan 冷凍庫, artinya alat/tempat simpan.</p>
@@ -131,13 +112,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">召</span>
     <span class="kanji-meta">
-      <strong>召</strong>
-      <small>memanggil, makan hormat</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>memanggil, makan hormat</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: めす</span></span>
     </span>
   </summary>
   <p>召 dipakai dalam bentuk hormat 召し上がる untuk makan/minum.</p>
@@ -146,13 +126,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">保</span>
     <span class="kanji-meta">
-      <strong>保</strong>
-      <small>menjaga, mempertahankan</small>
-      <span class="kanji-reading"><span>onyomi: ホ</span>
+      <strong>menjaga, mempertahankan</strong>
+      <span class="kanji-reading"><span>onyomi: ホ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>保 memberi rasa menjaga kondisi. Dalam 保存, artinya menyimpan agar tetap baik.</p>
@@ -162,13 +141,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">存</span>
     <span class="kanji-meta">
-      <strong>存</strong>
-      <small>ada, mengetahui, menyimpan</small>
-      <span class="kanji-reading"><span>onyomi: ゾン</span>
+      <strong>ada, mengetahui, menyimpan</strong>
+      <span class="kanji-reading"><span>onyomi: ゾン</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>存 muncul pada kata menyimpan dan ungkapan tahu secara hormat/rendah hati.</p>
@@ -179,13 +157,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">必</span>
     <span class="kanji-meta">
-      <strong>必</strong>
-      <small>pasti, harus</small>
-      <span class="kanji-reading"><span>onyomi: ヒツ</span>
+      <strong>pasti, harus</strong>
+      <span class="kanji-reading"><span>onyomi: ヒツ</span><span>kunyomi: かならず</span></span>
     </span>
   </summary>
   <p>必 memberi rasa pasti atau wajib. Bedakan 必要 sebagai kebutuhan dan 必ず sebagai adverbia.</p>
@@ -196,6 +173,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 </div>
+
 ## Peta Kata
 
 Kata-kata hari ini membentuk instruksi pada kemasan. 要 dan 必 menandai kebutuhan, 冷・蔵・凍・庫 menjelaskan penyimpanan dingin, 保・存 menjelaskan cara menjaga kualitas, dan 召 sering muncul pada ungkapan sopan untuk makan.

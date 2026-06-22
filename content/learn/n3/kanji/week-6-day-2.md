@@ -31,29 +31,15 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 求人、求�
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 求 | キュウ | もとめる | mencari, meminta | 求人, 求める |
-| 募 | ボ | - | merekrut | 募集, 応募 |
-| 職 | ショク | - | pekerjaan, jabatan | 職場, 職業 |
-| 容 | ヨウ | - | isi, bentuk | 内容, 美容院 |
-| 技 | ギ | - | teknik, kemampuan | 技術, 技術者 |
-| 般 | ハン | - | umum | 一般, 一般に |
-| 務 | ム | - | tugas kantor | 事務, 事務所 |
-| 課 | カ | - | pelajaran, bagian | 第1課, 課長 |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-<details class="kanji-card" open>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">求</span>
     <span class="kanji-meta">
-      <strong>求</strong>
-      <small>mencari, meminta</small>
-      <span class="kanji-reading"><span>onyomi: キュウ</span>
+      <strong>mencari, meminta</strong>
+      <span class="kanji-reading"><span>onyomi: キュウ</span><span>kunyomi: もとめる</span></span>
     </span>
   </summary>
   <p>Dalam iklan lowongan kerja, 求 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -63,13 +49,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">募</span>
     <span class="kanji-meta">
-      <strong>募</strong>
-      <small>merekrut</small>
-      <span class="kanji-reading"><span>onyomi: ボ</span>
+      <strong>merekrut</strong>
+      <span class="kanji-reading"><span>onyomi: ボ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam iklan lowongan kerja, 募 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -79,13 +64,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">職</span>
     <span class="kanji-meta">
-      <strong>職</strong>
-      <small>pekerjaan, jabatan</small>
-      <span class="kanji-reading"><span>onyomi: ショク</span>
+      <strong>pekerjaan, jabatan</strong>
+      <span class="kanji-reading"><span>onyomi: ショク</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam iklan lowongan kerja, 職 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -95,13 +79,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">容</span>
     <span class="kanji-meta">
-      <strong>容</strong>
-      <small>isi, bentuk</small>
-      <span class="kanji-reading"><span>onyomi: ヨウ</span>
+      <strong>isi, bentuk</strong>
+      <span class="kanji-reading"><span>onyomi: ヨウ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam iklan lowongan kerja, 容 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -111,13 +94,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">技</span>
     <span class="kanji-meta">
-      <strong>技</strong>
-      <small>teknik, kemampuan</small>
-      <span class="kanji-reading"><span>onyomi: ギ</span>
+      <strong>teknik, kemampuan</strong>
+      <span class="kanji-reading"><span>onyomi: ギ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam iklan lowongan kerja, 技 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -127,13 +109,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">般</span>
     <span class="kanji-meta">
-      <strong>般</strong>
-      <small>umum</small>
-      <span class="kanji-reading"><span>onyomi: ハン</span>
+      <strong>umum</strong>
+      <span class="kanji-reading"><span>onyomi: ハン</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam iklan lowongan kerja, 般 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -143,13 +124,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">務</span>
     <span class="kanji-meta">
-      <strong>務</strong>
-      <small>tugas kantor</small>
-      <span class="kanji-reading"><span>onyomi: ム</span>
+      <strong>tugas kantor</strong>
+      <span class="kanji-reading"><span>onyomi: ム</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam iklan lowongan kerja, 務 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -159,13 +139,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">課</span>
     <span class="kanji-meta">
-      <strong>課</strong>
-      <small>pelajaran, bagian</small>
-      <span class="kanji-reading"><span>onyomi: カ</span>
+      <strong>pelajaran, bagian</strong>
+      <span class="kanji-reading"><span>onyomi: カ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam iklan lowongan kerja, 課 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -175,6 +154,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 </div>
+
 ## Peta Kata
 
 <div class="word-strip">

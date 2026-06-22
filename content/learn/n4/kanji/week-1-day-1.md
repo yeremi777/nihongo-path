@@ -31,70 +31,144 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 交通, 降車
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 通 | ツウ | とおる、とおす、かよう | melewati, pergi rutin | 交通、普通、通る、通う |
-| 降 | コウ | おりる、ふる | turun, turun hujan | 降る、降りる、降車 |
-| 品 | ヒン | しな | barang, produk | 食料品、品物 |
-| 着 | チャク | きる、つく | memakai, tiba | 着る、着物、着く |
-| 物 | ブツ、モツ | もの | benda, barang | 動物、荷物、食べ物、建物 |
-| 動 | ドウ | うごく、うごかす | bergerak | 動物、運動、動く |
-| 建 | ケン | たてる、たつ | membangun | 建てる、建物、二階建て |
-| 夜 | ヤ | よ、よる | malam | 今夜、夜 |
-| 風 | フウ | かぜ | angin, masuk angin | 台風、風邪、風 |
-| 台 | ダイ、タイ | - | dudukan, satuan mesin | 台所、1台、台風 |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-  <details class="kanji-card" open><summary><span class="kanji-char">通</span><span class="kanji-meta"><strong>通</strong><small>melewati, pergi rutin</small><span class="kanji-reading"><span>onyomi: ツウ</span><span>kunyomi: とおる、とおす、かよう</span></span></span></summary><p>通 sering muncul pada lalu lintas dan kebiasaan pergi ke suatu tempat secara rutin.</p><ul>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">通</span>
+    <span class="kanji-meta">
+      <strong>melewati, pergi rutin</strong>
+      <span class="kanji-reading"><span>onyomi: ツウ</span><span>kunyomi: とおる、とおす、かよう</span></span>
+    </span>
+  </summary>
+<p>通 sering muncul pada lalu lintas dan kebiasaan pergi ke suatu tempat secara rutin.</p><ul>
     <li><span class="ruby-word"><ruby>交通<rt>こうつう</rt></ruby></span> - lalu lintas</li>
     <li><span class="ruby-word"><ruby>普通<rt>ふつう</rt></ruby></span> - biasa</li>
     <li><span class="ruby-word"><ruby>通学<rt>つうがく</rt></ruby></span> - pergi sekolah rutin</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">降</span><span class="kanji-meta"><strong>降</strong><small>turun</small><span class="kanji-reading"><span>onyomi: コウ</span><span>kunyomi: おりる、ふる</span></span></span></summary><p>降 dipakai untuk turun dari kendaraan atau sesuatu yang turun dari langit.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">降</span>
+    <span class="kanji-meta">
+      <strong>turun, turun hujan</strong>
+      <span class="kanji-reading"><span>onyomi: コウ</span><span>kunyomi: おりる、ふる</span></span>
+    </span>
+  </summary>
+<p>降 dipakai untuk turun dari kendaraan atau sesuatu yang turun dari langit.</p><ul>
     <li><span class="ruby-word"><ruby>降車<rt>こうしゃ</rt></ruby></span> - turun dari kendaraan</li>
     <li><span class="ruby-word"><ruby>降雨<rt>こうう</rt></ruby></span> - curah hujan</li>
     <li><span class="ruby-word"><ruby>降雪<rt>こうせつ</rt></ruby></span> - turunnya salju</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">品</span><span class="kanji-meta"><strong>品</strong><small>barang, produk</small><span class="kanji-reading"><span>onyomi: ヒン</span><span>kunyomi: しな</span></span></span></summary><p>品 memberi rasa barang atau produk, terutama pada label belanja.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">品</span>
+    <span class="kanji-meta">
+      <strong>barang, produk</strong>
+      <span class="kanji-reading"><span>onyomi: ヒン</span><span>kunyomi: しな</span></span>
+    </span>
+  </summary>
+<p>品 memberi rasa barang atau produk, terutama pada label belanja.</p><ul>
     <li><span class="ruby-word"><ruby>食料<rt>しょくりょう</rt></ruby><ruby>品<rt>ひん</rt></ruby></span> - bahan makanan</li>
     <li><span class="ruby-word"><ruby>品物<rt>しなもの</rt></ruby></span> - barang</li>
     <li><span class="ruby-word"><ruby>作品<rt>さくひん</rt></ruby></span> - karya</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">着</span><span class="kanji-meta"><strong>着</strong><small>memakai, tiba</small><span class="kanji-reading"><span>onyomi: チャク</span><span>kunyomi: きる、つく</span></span></span></summary><p>着 sering berarti memakai pakaian atau tiba di suatu tempat.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">着</span>
+    <span class="kanji-meta">
+      <strong>memakai, tiba</strong>
+      <span class="kanji-reading"><span>onyomi: チャク</span><span>kunyomi: きる、つく</span></span>
+    </span>
+  </summary>
+<p>着 sering berarti memakai pakaian atau tiba di suatu tempat.</p><ul>
     <li><span class="ruby-word"><ruby>着物<rt>きもの</rt></ruby></span> - kimono</li>
     <li><span class="ruby-word"><ruby>到着<rt>とうちゃく</rt></ruby></span> - kedatangan</li>
     <li><span class="ruby-word"><ruby>着席<rt>ちゃくせき</rt></ruby></span> - duduk di kursi</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">物</span><span class="kanji-meta"><strong>物</strong><small>benda, barang</small><span class="kanji-reading"><span>onyomi: ブツ、モツ</span><span>kunyomi: もの</span></span></span></summary><p>物 adalah kanji umum untuk benda, barang, makanan, hewan, dan bangunan.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">物</span>
+    <span class="kanji-meta">
+      <strong>benda, barang</strong>
+      <span class="kanji-reading"><span>onyomi: ブツ、モツ</span><span>kunyomi: もの</span></span>
+    </span>
+  </summary>
+<p>物 adalah kanji umum untuk benda, barang, makanan, hewan, dan bangunan.</p><ul>
     <li><span class="ruby-word"><ruby>動物<rt>どうぶつ</rt></ruby></span> - hewan</li>
     <li><span class="ruby-word"><ruby>荷物<rt>にもつ</rt></ruby></span> - barang bawaan</li>
     <li><span class="ruby-word"><ruby>建物<rt>たてもの</rt></ruby></span> - bangunan</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">動</span><span class="kanji-meta"><strong>動</strong><small>bergerak</small><span class="kanji-reading"><span>onyomi: ドウ</span><span>kunyomi: うごく、うごかす</span></span></span></summary><p>動 memberi rasa gerakan, aktivitas, atau sesuatu yang hidup bergerak.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">動</span>
+    <span class="kanji-meta">
+      <strong>bergerak</strong>
+      <span class="kanji-reading"><span>onyomi: ドウ</span><span>kunyomi: うごく、うごかす</span></span>
+    </span>
+  </summary>
+<p>動 memberi rasa gerakan, aktivitas, atau sesuatu yang hidup bergerak.</p><ul>
     <li><span class="ruby-word"><ruby>動物<rt>どうぶつ</rt></ruby></span> - hewan</li>
     <li><span class="ruby-word"><ruby>運動<rt>うんどう</rt></ruby></span> - olahraga</li>
     <li><span class="ruby-word"><ruby>自動<rt>じどう</rt></ruby></span> - otomatis</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">建</span><span class="kanji-meta"><strong>建</strong><small>membangun</small><span class="kanji-reading"><span>onyomi: ケン</span><span>kunyomi: たてる、たつ</span></span></span></summary><p>建 sering muncul pada kata tentang bangunan dan konstruksi.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">建</span>
+    <span class="kanji-meta">
+      <strong>membangun</strong>
+      <span class="kanji-reading"><span>onyomi: ケン</span><span>kunyomi: たてる、たつ</span></span>
+    </span>
+  </summary>
+<p>建 sering muncul pada kata tentang bangunan dan konstruksi.</p><ul>
     <li><span class="ruby-word"><ruby>建物<rt>たてもの</rt></ruby></span> - bangunan</li>
     <li><span class="ruby-word"><ruby>建設<rt>けんせつ</rt></ruby></span> - pembangunan</li>
     <li><span class="ruby-word"><ruby>二<rt>に</rt></ruby><ruby>階<rt>かい</rt></ruby><ruby>建<rt>だ</rt></ruby>て</span> - bangunan dua lantai</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">夜</span><span class="kanji-meta"><strong>夜</strong><small>malam</small><span class="kanji-reading"><span>onyomi: ヤ</span><span>kunyomi: よ、よる</span></span></span></summary><p>夜 dipakai untuk waktu malam dalam jadwal dan percakapan harian.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">夜</span>
+    <span class="kanji-meta">
+      <strong>malam</strong>
+      <span class="kanji-reading"><span>onyomi: ヤ</span><span>kunyomi: よ、よる</span></span>
+    </span>
+  </summary>
+<p>夜 dipakai untuk waktu malam dalam jadwal dan percakapan harian.</p><ul>
     <li><span class="ruby-word"><ruby>今夜<rt>こんや</rt></ruby></span> - malam ini</li>
     <li><span class="ruby-word"><ruby>夜間<rt>やかん</rt></ruby></span> - malam hari</li>
     <li><span class="ruby-word"><ruby>深夜<rt>しんや</rt></ruby></span> - larut malam</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">風</span><span class="kanji-meta"><strong>風</strong><small>angin, masuk angin</small><span class="kanji-reading"><span>onyomi: フウ</span><span>kunyomi: かぜ</span></span></span></summary><p>風 muncul pada cuaca, gaya, dan kata 風邪 yang berarti masuk angin.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">風</span>
+    <span class="kanji-meta">
+      <strong>angin, masuk angin</strong>
+      <span class="kanji-reading"><span>onyomi: フウ</span><span>kunyomi: かぜ</span></span>
+    </span>
+  </summary>
+<p>風 muncul pada cuaca, gaya, dan kata 風邪 yang berarti masuk angin.</p><ul>
     <li><span class="ruby-word"><ruby>台風<rt>たいふう</rt></ruby></span> - topan</li>
     <li><span class="ruby-word"><ruby>風邪<rt>かぜ</rt></ruby></span> - masuk angin</li>
     <li><span class="ruby-word"><ruby>風速<rt>ふうそく</rt></ruby></span> - kecepatan angin</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">台</span><span class="kanji-meta"><strong>台</strong><small>dudukan, satuan mesin</small><span class="kanji-reading"><span>onyomi: ダイ、タイ</span><span>kunyomi: -</span></span></span></summary><p>台 dipakai untuk dapur, platform, dan penghitung benda seperti kendaraan atau mesin.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">台</span>
+    <span class="kanji-meta">
+      <strong>dudukan, satuan mesin</strong>
+      <span class="kanji-reading"><span>onyomi: ダイ、タイ</span><span>kunyomi: -</span></span>
+    </span>
+  </summary>
+<p>台 dipakai untuk dapur, platform, dan penghitung benda seperti kendaraan atau mesin.</p><ul>
     <li><span class="ruby-word"><ruby>台所<rt>だいどころ</rt></ruby></span> - dapur</li>
     <li><span class="ruby-word"><ruby>台風<rt>たいふう</rt></ruby></span> - topan</li>
     <li><span class="ruby-word"><ruby>一<rt>いち</rt></ruby><ruby>台<rt>だい</rt></ruby></span> - satu unit mesin/kendaraan</li>

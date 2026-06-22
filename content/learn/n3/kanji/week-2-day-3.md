@@ -31,29 +31,15 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 観光, 動物
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 観 | カン | - | melihat, wisata | 観光, 観客 |
-| 園 | エン | - | taman, area fasilitas | 動物園, 遊園地 |
-| 港 | コウ | みなと | pelabuhan | 空港, 港, 神戸港 |
-| 遊 | ユウ | あそぶ | bermain, rekreasi | 遊園地, 遊ぶ |
-| 美 | ビ | うつくしい | indah, kecantikan | 美術館, 美しい, 美人 |
-| 術 | ジュツ | - | seni, teknik | 美術, 技術, 手術 |
-| 神 | シン, ジン | かみ | dewa, roh | 神社, 神様, 神経質 |
-| 寺 | ジ | てら | kuil Buddha | お寺, 金閣寺 |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-<details class="kanji-card" open>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">観</span>
     <span class="kanji-meta">
-      <strong>観</strong>
-      <small>melihat, wisata</small>
-      <span class="kanji-reading"><span>onyomi: カン</span>
+      <strong>melihat, wisata</strong>
+      <span class="kanji-reading"><span>onyomi: カン</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>観 memberi rasa melihat atau mengamati. Dalam 観光, fokusnya adalah pergi melihat tempat.</p>
@@ -63,13 +49,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">園</span>
     <span class="kanji-meta">
-      <strong>園</strong>
-      <small>taman, area fasilitas</small>
-      <span class="kanji-reading"><span>onyomi: エン</span>
+      <strong>taman, area fasilitas</strong>
+      <span class="kanji-reading"><span>onyomi: エン</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>園 menunjuk area yang dikelola seperti taman, kebun, atau tempat bermain.</p>
@@ -79,13 +64,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">港</span>
     <span class="kanji-meta">
-      <strong>港</strong>
-      <small>pelabuhan</small>
-      <span class="kanji-reading"><span>onyomi: コウ</span>
+      <strong>pelabuhan</strong>
+      <span class="kanji-reading"><span>onyomi: コウ</span><span>kunyomi: みなと</span></span>
     </span>
   </summary>
   <p>港 menunjuk pelabuhan, tetapi juga muncul dalam 空港 untuk bandara.</p>
@@ -96,13 +80,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">遊</span>
     <span class="kanji-meta">
-      <strong>遊</strong>
-      <small>bermain, rekreasi</small>
-      <span class="kanji-reading"><span>onyomi: ユウ</span>
+      <strong>bermain, rekreasi</strong>
+      <span class="kanji-reading"><span>onyomi: ユウ</span><span>kunyomi: あそぶ</span></span>
     </span>
   </summary>
   <p>遊 memberi rasa bermain atau menikmati waktu. Dalam 遊園地, artinya tempat bermain.</p>
@@ -112,13 +95,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">美</span>
     <span class="kanji-meta">
-      <strong>美</strong>
-      <small>indah, kecantikan</small>
-      <span class="kanji-reading"><span>onyomi: ビ</span>
+      <strong>indah, kecantikan</strong>
+      <span class="kanji-reading"><span>onyomi: ビ</span><span>kunyomi: うつくしい</span></span>
     </span>
   </summary>
   <p>美 menandai keindahan. Dalam 美術館, kanji ini mengarah ke seni rupa.</p>
@@ -129,13 +111,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">術</span>
     <span class="kanji-meta">
-      <strong>術</strong>
-      <small>seni, teknik</small>
-      <span class="kanji-reading"><span>onyomi: ジュツ</span>
+      <strong>seni, teknik</strong>
+      <span class="kanji-reading"><span>onyomi: ジュツ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>術 bisa berarti seni, teknik, atau operasi tergantung kata. Dalam topik wisata, fokusnya 美術.</p>
@@ -146,13 +127,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">神</span>
     <span class="kanji-meta">
-      <strong>神</strong>
-      <small>dewa, roh</small>
-      <span class="kanji-reading"><span>onyomi: シン, ジン</span>
+      <strong>dewa, roh</strong>
+      <span class="kanji-reading"><span>onyomi: シン, ジン</span><span>kunyomi: かみ</span></span>
     </span>
   </summary>
   <p>神 muncul pada tempat ibadah seperti 神社 dan juga pada kata yang berarti sifat/keadaan.</p>
@@ -163,13 +143,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">寺</span>
     <span class="kanji-meta">
-      <strong>寺</strong>
-      <small>kuil Buddha</small>
-      <span class="kanji-reading"><span>onyomi: ジ</span>
+      <strong>kuil Buddha</strong>
+      <span class="kanji-reading"><span>onyomi: ジ</span><span>kunyomi: てら</span></span>
     </span>
   </summary>
   <p>寺 menunjuk kuil Buddha atau vihara. Pada nama tempat, sering ditempel di akhir nama.</p>
@@ -179,6 +158,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 </div>
+
 ## Peta Kata
 
 Kata-kata hari ini membantu membaca peta tempat wisata. 観光 adalah kegiatan wisata, 園 dan 遊 menunjuk area rekreasi, 港 menunjuk gerbang transportasi, 美術 menunjuk seni, sedangkan 神社 dan 寺 menunjuk tempat ibadah.

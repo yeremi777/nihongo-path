@@ -31,29 +31,15 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 予報、報�
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 報 | ホウ | - | laporan, prakiraan | 予報, 報告 |
-| 晴 | - | はれる | cerah | 晴れる, 晴れ |
-| 雲 | - | くも | awan | 雲, 雨雲 |
-| 吹 | - | ふく | bertiup, meniup | 吹く, 吹雪 |
-| 暖 | ダン | あたたかい | hangat | 暖房, 暖かい |
-| 雪 | - | ゆき | salju | 雪, 大雪 |
-| 震 | シン | - | gempa, bergetar | 地震, 震度 |
-| 波 | ハ | なみ | gelombang | 波, 津波 |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-<details class="kanji-card" open>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">報</span>
     <span class="kanji-meta">
-      <strong>報</strong>
-      <small>laporan, prakiraan</small>
-      <span class="kanji-reading"><span>onyomi: ホウ</span>
+      <strong>laporan, prakiraan</strong>
+      <span class="kanji-reading"><span>onyomi: ホウ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam prakiraan cuaca dan berita alam, 報 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -63,13 +49,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">晴</span>
     <span class="kanji-meta">
-      <strong>晴</strong>
-      <small>cerah</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>cerah</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: はれる</span></span>
     </span>
   </summary>
   <p>Dalam prakiraan cuaca dan berita alam, 晴 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -79,13 +64,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">雲</span>
     <span class="kanji-meta">
-      <strong>雲</strong>
-      <small>awan</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>awan</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: くも</span></span>
     </span>
   </summary>
   <p>Dalam prakiraan cuaca dan berita alam, 雲 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -95,13 +79,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">吹</span>
     <span class="kanji-meta">
-      <strong>吹</strong>
-      <small>bertiup, meniup</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>bertiup, meniup</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: ふく</span></span>
     </span>
   </summary>
   <p>Dalam prakiraan cuaca dan berita alam, 吹 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -111,13 +94,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">暖</span>
     <span class="kanji-meta">
-      <strong>暖</strong>
-      <small>hangat</small>
-      <span class="kanji-reading"><span>onyomi: ダン</span>
+      <strong>hangat</strong>
+      <span class="kanji-reading"><span>onyomi: ダン</span><span>kunyomi: あたたかい</span></span>
     </span>
   </summary>
   <p>Dalam prakiraan cuaca dan berita alam, 暖 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -127,13 +109,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">雪</span>
     <span class="kanji-meta">
-      <strong>雪</strong>
-      <small>salju</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>salju</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: ゆき</span></span>
     </span>
   </summary>
   <p>Dalam prakiraan cuaca dan berita alam, 雪 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -143,13 +124,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">震</span>
     <span class="kanji-meta">
-      <strong>震</strong>
-      <small>gempa, bergetar</small>
-      <span class="kanji-reading"><span>onyomi: シン</span>
+      <strong>gempa, bergetar</strong>
+      <span class="kanji-reading"><span>onyomi: シン</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam prakiraan cuaca dan berita alam, 震 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -159,13 +139,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">波</span>
     <span class="kanji-meta">
-      <strong>波</strong>
-      <small>gelombang</small>
-      <span class="kanji-reading"><span>onyomi: ハ</span>
+      <strong>gelombang</strong>
+      <span class="kanji-reading"><span>onyomi: ハ</span><span>kunyomi: なみ</span></span>
     </span>
   </summary>
   <p>Dalam prakiraan cuaca dan berita alam, 波 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -175,6 +154,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 </div>
+
 ## Peta Kata
 
 <div class="word-strip">

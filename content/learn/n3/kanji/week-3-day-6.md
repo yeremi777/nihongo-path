@@ -31,29 +31,15 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 接続, 表示
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 接 | セツ | - | menghubungkan, menyentuh | 接続, 面接 |
-| 続 | ゾク | つづく, つづける | berlanjut, menyambung | 接続, 続く, 続ける |
-| 示 | ジ | しめす | menunjukkan, menampilkan | 表示, 指示, 示す |
-| 戻 | - | もどる, もどす | kembali, mengembalikan | 戻る, 戻す |
-| 完 | カン | - | selesai, lengkap | 完了, 完全 |
-| 了 | リョウ | - | selesai, paham | 了解, 終了, 完了 |
-| 登 | トウ, ト | のぼる | naik, mendaftar | 登録, 登山, 登る |
-| 録 | ロク | - | mencatat, merekam | 記録, 録音, 録画 |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-<details class="kanji-card" open>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">接</span>
     <span class="kanji-meta">
-      <strong>接</strong>
-      <small>menghubungkan, menyentuh</small>
-      <span class="kanji-reading"><span>onyomi: セツ</span>
+      <strong>menghubungkan, menyentuh</strong>
+      <span class="kanji-reading"><span>onyomi: セツ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>接 memberi rasa bersentuhan atau tersambung. Dalam ponsel, kata utamanya 接続.</p>
@@ -63,13 +49,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">続</span>
     <span class="kanji-meta">
-      <strong>続</strong>
-      <small>berlanjut, menyambung</small>
-      <span class="kanji-reading"><span>onyomi: ゾク</span>
+      <strong>berlanjut, menyambung</strong>
+      <span class="kanji-reading"><span>onyomi: ゾク</span><span>kunyomi: つづく, つづける</span></span>
     </span>
   </summary>
   <p>続 menandai kelanjutan atau sambungan. Dalam 接続, ia membentuk arti koneksi.</p>
@@ -80,13 +65,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">示</span>
     <span class="kanji-meta">
-      <strong>示</strong>
-      <small>menunjukkan, menampilkan</small>
-      <span class="kanji-reading"><span>onyomi: ジ</span>
+      <strong>menunjukkan, menampilkan</strong>
+      <span class="kanji-reading"><span>onyomi: ジ</span><span>kunyomi: しめす</span></span>
     </span>
   </summary>
   <p>示 muncul pada kata tentang tampilan atau instruksi. Di layar, 表示 sangat umum.</p>
@@ -97,13 +81,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">戻</span>
     <span class="kanji-meta">
-      <strong>戻</strong>
-      <small>kembali, mengembalikan</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>kembali, mengembalikan</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: もどる, もどす</span></span>
     </span>
   </summary>
   <p>戻 dipakai untuk kembali ke layar sebelumnya atau mengembalikan sesuatu.</p>
@@ -113,13 +96,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">完</span>
     <span class="kanji-meta">
-      <strong>完</strong>
-      <small>selesai, lengkap</small>
-      <span class="kanji-reading"><span>onyomi: カン</span>
+      <strong>selesai, lengkap</strong>
+      <span class="kanji-reading"><span>onyomi: カン</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>完 menandai sesuatu yang lengkap/selesai. Dalam 完了, proses sudah berakhir.</p>
@@ -129,13 +111,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">了</span>
     <span class="kanji-meta">
-      <strong>了</strong>
-      <small>selesai, paham</small>
-      <span class="kanji-reading"><span>onyomi: リョウ</span>
+      <strong>selesai, paham</strong>
+      <span class="kanji-reading"><span>onyomi: リョウ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>了 sering muncul dalam kata status selesai atau persetujuan singkat.</p>
@@ -146,13 +127,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">登</span>
     <span class="kanji-meta">
-      <strong>登</strong>
-      <small>naik, mendaftar</small>
-      <span class="kanji-reading"><span>onyomi: トウ, ト</span>
+      <strong>naik, mendaftar</strong>
+      <span class="kanji-reading"><span>onyomi: トウ, ト</span><span>kunyomi: のぼる</span></span>
     </span>
   </summary>
   <p>登 bisa berarti naik, tetapi dalam 登録 artinya mendaftar ke sistem.</p>
@@ -163,13 +143,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">録</span>
     <span class="kanji-meta">
-      <strong>録</strong>
-      <small>mencatat, merekam</small>
-      <span class="kanji-reading"><span>onyomi: ロク</span>
+      <strong>mencatat, merekam</strong>
+      <span class="kanji-reading"><span>onyomi: ロク</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>録 berkaitan dengan catatan atau rekaman. Umum pada tombol rekam suara/video.</p>
@@ -180,6 +159,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 </div>
+
 ## Peta Kata
 
 Kata-kata hari ini sangat sering muncul pada UI. 接続 menunjukkan koneksi, 表示 dan 指示 berkaitan dengan tampilan/arahan, 戻る adalah kembali, 完了 menandai proses selesai, dan 登録・記録・録音・録画 berkaitan dengan mendaftar atau menyimpan data.

@@ -31,29 +31,15 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 頭痛、痛�
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 痛 | ツウ | いたい | sakit, nyeri | 頭痛, 痛い |
-| 熱 | ネツ | あつい | panas, demam | 熱, 熱心 |
-| 虫 | - | むし | serangga, kuman | 虫, 虫歯 |
-| 歯 | シ | は | gigi | 歯科, 歯医者 |
-| 治 | ジ | なおる, なおす | sembuh, mengobati | 治療, 治る |
-| 汚 | - | きたない, よごれる | kotor | 汚い, 汚れる |
-| 並 | - | ならぶ, ならべる | berbaris, tersusun | 並ぶ, 歯並び |
-| 他 | タ | - | lain | 他の, その他 |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-<details class="kanji-card" open>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">痛</span>
     <span class="kanji-meta">
-      <strong>痛</strong>
-      <small>sakit, nyeri</small>
-      <span class="kanji-reading"><span>onyomi: ツウ</span>
+      <strong>sakit, nyeri</strong>
+      <span class="kanji-reading"><span>onyomi: ツウ</span><span>kunyomi: いたい</span></span>
     </span>
   </summary>
   <p>Dalam formulir klinik gigi dan catatan keluhan, 痛 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -63,13 +49,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">熱</span>
     <span class="kanji-meta">
-      <strong>熱</strong>
-      <small>panas, demam</small>
-      <span class="kanji-reading"><span>onyomi: ネツ</span>
+      <strong>panas, demam</strong>
+      <span class="kanji-reading"><span>onyomi: ネツ</span><span>kunyomi: あつい</span></span>
     </span>
   </summary>
   <p>Dalam formulir klinik gigi dan catatan keluhan, 熱 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -79,13 +64,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">虫</span>
     <span class="kanji-meta">
-      <strong>虫</strong>
-      <small>serangga, kuman</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>serangga, kuman</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: むし</span></span>
     </span>
   </summary>
   <p>Dalam formulir klinik gigi dan catatan keluhan, 虫 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -95,13 +79,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">歯</span>
     <span class="kanji-meta">
-      <strong>歯</strong>
-      <small>gigi</small>
-      <span class="kanji-reading"><span>onyomi: シ</span>
+      <strong>gigi</strong>
+      <span class="kanji-reading"><span>onyomi: シ</span><span>kunyomi: は</span></span>
     </span>
   </summary>
   <p>Dalam formulir klinik gigi dan catatan keluhan, 歯 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -111,13 +94,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">治</span>
     <span class="kanji-meta">
-      <strong>治</strong>
-      <small>sembuh, mengobati</small>
-      <span class="kanji-reading"><span>onyomi: ジ</span>
+      <strong>sembuh, mengobati</strong>
+      <span class="kanji-reading"><span>onyomi: ジ</span><span>kunyomi: なおる, なおす</span></span>
     </span>
   </summary>
   <p>Dalam formulir klinik gigi dan catatan keluhan, 治 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -127,13 +109,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">汚</span>
     <span class="kanji-meta">
-      <strong>汚</strong>
-      <small>kotor</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>kotor</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: きたない, よごれる</span></span>
     </span>
   </summary>
   <p>Dalam formulir klinik gigi dan catatan keluhan, 汚 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -143,13 +124,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">並</span>
     <span class="kanji-meta">
-      <strong>並</strong>
-      <small>berbaris, tersusun</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>berbaris, tersusun</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: ならぶ, ならべる</span></span>
     </span>
   </summary>
   <p>Dalam formulir klinik gigi dan catatan keluhan, 並 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -159,13 +139,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">他</span>
     <span class="kanji-meta">
-      <strong>他</strong>
-      <small>lain</small>
-      <span class="kanji-reading"><span>onyomi: タ</span>
+      <strong>lain</strong>
+      <span class="kanji-reading"><span>onyomi: タ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam formulir klinik gigi dan catatan keluhan, 他 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -175,6 +154,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 </div>
+
 ## Peta Kata
 
 <div class="word-strip">

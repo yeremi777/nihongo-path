@@ -31,29 +31,15 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 消費期限, 
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 費 | ヒ | - | biaya, konsumsi | 費用, 旅費, 消費者 |
-| 期 | キ | - | periode, masa | 期間, 長期, 定期券 |
-| 限 | ゲン | かぎる | batas, membatasi | 期限, 限る, 限定 |
-| 製 | セイ | - | buatan, produksi | 日本製, 製品 |
-| 造 | ゾウ | つくる | membuat, memproduksi | 製造, 造る |
-| 賞 | ショウ | - | hadiah, penghargaan, rasa terbaik | 賞味期限, 賞金, 賞品 |
-| 法 | ホウ | - | cara, hukum, aturan | 方法, 文法 |
-| 温 | オン | あたたかい | hangat, suhu | 温度, 温かい, 常温 |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-<details class="kanji-card" open>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">費</span>
     <span class="kanji-meta">
-      <strong>費</strong>
-      <small>biaya, konsumsi</small>
-      <span class="kanji-reading"><span>onyomi: ヒ</span>
+      <strong>biaya, konsumsi</strong>
+      <span class="kanji-reading"><span>onyomi: ヒ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>費 berkaitan dengan biaya atau penggunaan sesuatu. Dalam 消費, artinya konsumsi.</p>
@@ -64,13 +50,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">期</span>
     <span class="kanji-meta">
-      <strong>期</strong>
-      <small>periode, masa</small>
-      <span class="kanji-reading"><span>onyomi: キ</span>
+      <strong>periode, masa</strong>
+      <span class="kanji-reading"><span>onyomi: キ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>期 menandai periode atau masa tertentu. Pada label, ia muncul dalam 期限.</p>
@@ -81,13 +66,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">限</span>
     <span class="kanji-meta">
-      <strong>限</strong>
-      <small>batas, membatasi</small>
-      <span class="kanji-reading"><span>onyomi: ゲン</span>
+      <strong>batas, membatasi</strong>
+      <span class="kanji-reading"><span>onyomi: ゲン</span><span>kunyomi: かぎる</span></span>
     </span>
   </summary>
   <p>限 memberi rasa batas. Dalam 期限, artinya batas waktu.</p>
@@ -98,13 +82,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">製</span>
     <span class="kanji-meta">
-      <strong>製</strong>
-      <small>buatan, produksi</small>
-      <span class="kanji-reading"><span>onyomi: セイ</span>
+      <strong>buatan, produksi</strong>
+      <span class="kanji-reading"><span>onyomi: セイ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>製 menandai barang yang dibuat atau hasil produksi.</p>
@@ -114,13 +97,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">造</span>
     <span class="kanji-meta">
-      <strong>造</strong>
-      <small>membuat, memproduksi</small>
-      <span class="kanji-reading"><span>onyomi: ゾウ</span>
+      <strong>membuat, memproduksi</strong>
+      <span class="kanji-reading"><span>onyomi: ゾウ</span><span>kunyomi: つくる</span></span>
     </span>
   </summary>
   <p>造 menekankan proses membuat. Dalam 製造, artinya produksi/manufaktur.</p>
@@ -130,13 +112,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">賞</span>
     <span class="kanji-meta">
-      <strong>賞</strong>
-      <small>hadiah, penghargaan, rasa terbaik</small>
-      <span class="kanji-reading"><span>onyomi: ショウ</span>
+      <strong>hadiah, penghargaan, rasa terbaik</strong>
+      <span class="kanji-reading"><span>onyomi: ショウ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>賞 bisa berarti penghargaan. Dalam 賞味期限, fokusnya kualitas/rasa terbaik.</p>
@@ -147,13 +128,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">法</span>
     <span class="kanji-meta">
-      <strong>法</strong>
-      <small>cara, hukum, aturan</small>
-      <span class="kanji-reading"><span>onyomi: ホウ</span>
+      <strong>cara, hukum, aturan</strong>
+      <span class="kanji-reading"><span>onyomi: ホウ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>法 berarti cara atau aturan. Pada label, 方法 adalah cara melakukan sesuatu.</p>
@@ -163,13 +143,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">温</span>
     <span class="kanji-meta">
-      <strong>温</strong>
-      <small>hangat, suhu</small>
-      <span class="kanji-reading"><span>onyomi: オン</span>
+      <strong>hangat, suhu</strong>
+      <span class="kanji-reading"><span>onyomi: オン</span><span>kunyomi: あたたかい</span></span>
     </span>
   </summary>
   <p>温 menunjuk suhu atau kehangatan. Dalam 温度 dan 常温, fokusnya kondisi suhu.</p>
@@ -180,6 +159,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 </div>
+
 ## Peta Kata
 
 Kata-kata hari ini membentuk informasi label produk. 消費期限 dan 賞味期限 adalah batas waktu, 製・造 menjelaskan pembuatan, 法 menjelaskan cara, dan 温 menunjukkan suhu penyimpanan.

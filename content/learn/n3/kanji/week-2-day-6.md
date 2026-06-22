@@ -31,29 +31,15 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 困る, 消防
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 困 | - | こまる | kesulitan, bingung | 困る, 困った時 |
-| 消 | ショウ | きえる, けす | padam, hilang, menghapus | 消防, 消す, 消える |
-| 防 | ボウ | ふせぐ | mencegah, melindungi | 予防, 防ぐ, 消防 |
-| 救 | キュウ | すくう | menolong, menyelamatkan | 救急車, 救う, 救助 |
-| 警 | ケイ | - | peringatan, polisi | 警官, 警察 |
-| 察 | サツ | - | memeriksa, menyelidiki | 警察, 警察署 |
-| 故 | コ | - | sebab, kecelakaan, gangguan | 事故, 故障, 故人 |
-| 伝 | デン | つたえる | menyampaikan, meneruskan | 伝言, 伝える, 手伝う |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-<details class="kanji-card" open>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">困</span>
     <span class="kanji-meta">
-      <strong>困</strong>
-      <small>kesulitan, bingung</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>kesulitan, bingung</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: こまる</span></span>
     </span>
   </summary>
   <p>困 dipakai ketika seseorang berada dalam masalah atau tidak tahu harus melakukan apa.</p>
@@ -63,13 +49,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">消</span>
     <span class="kanji-meta">
-      <strong>消</strong>
-      <small>padam, hilang, menghapus</small>
-      <span class="kanji-reading"><span>onyomi: ショウ</span>
+      <strong>padam, hilang, menghapus</strong>
+      <span class="kanji-reading"><span>onyomi: ショウ</span><span>kunyomi: きえる, けす</span></span>
     </span>
   </summary>
   <p>消 bisa berarti memadamkan, hilang, atau menghapus. Dalam 消防, fokusnya pemadaman.</p>
@@ -80,13 +65,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">防</span>
     <span class="kanji-meta">
-      <strong>防</strong>
-      <small>mencegah, melindungi</small>
-      <span class="kanji-reading"><span>onyomi: ボウ</span>
+      <strong>mencegah, melindungi</strong>
+      <span class="kanji-reading"><span>onyomi: ボウ</span><span>kunyomi: ふせぐ</span></span>
     </span>
   </summary>
   <p>防 memberi rasa mencegah atau bertahan dari bahaya. Bergabung dengan 消 menjadi 消防.</p>
@@ -97,13 +81,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">救</span>
     <span class="kanji-meta">
-      <strong>救</strong>
-      <small>menolong, menyelamatkan</small>
-      <span class="kanji-reading"><span>onyomi: キュウ</span>
+      <strong>menolong, menyelamatkan</strong>
+      <span class="kanji-reading"><span>onyomi: キュウ</span><span>kunyomi: すくう</span></span>
     </span>
   </summary>
   <p>救 muncul pada bantuan darurat dan tindakan menyelamatkan.</p>
@@ -114,13 +97,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">警</span>
     <span class="kanji-meta">
-      <strong>警</strong>
-      <small>peringatan, polisi</small>
-      <span class="kanji-reading"><span>onyomi: ケイ</span>
+      <strong>peringatan, polisi</strong>
+      <span class="kanji-reading"><span>onyomi: ケイ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>警 memberi rasa waspada atau polisi. Dalam 警察, artinya institusi kepolisian.</p>
@@ -130,13 +112,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">察</span>
     <span class="kanji-meta">
-      <strong>察</strong>
-      <small>memeriksa, menyelidiki</small>
-      <span class="kanji-reading"><span>onyomi: サツ</span>
+      <strong>memeriksa, menyelidiki</strong>
+      <span class="kanji-reading"><span>onyomi: サツ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>察 muncul dalam kata yang berkaitan dengan pengamatan atau penyelidikan, terutama 警察.</p>
@@ -146,13 +127,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">故</span>
     <span class="kanji-meta">
-      <strong>故</strong>
-      <small>sebab, kecelakaan, gangguan</small>
-      <span class="kanji-reading"><span>onyomi: コ</span>
+      <strong>sebab, kecelakaan, gangguan</strong>
+      <span class="kanji-reading"><span>onyomi: コ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>故 memberi rasa sebab atau kejadian tidak beres. Dalam 事故 dan 故障, maknanya berbeda menurut pasangan kanjinya.</p>
@@ -163,13 +143,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">伝</span>
     <span class="kanji-meta">
-      <strong>伝</strong>
-      <small>menyampaikan, meneruskan</small>
-      <span class="kanji-reading"><span>onyomi: デン</span>
+      <strong>menyampaikan, meneruskan</strong>
+      <span class="kanji-reading"><span>onyomi: デン</span><span>kunyomi: つたえる</span></span>
     </span>
   </summary>
   <p>伝 dipakai saat informasi atau bantuan diteruskan kepada orang lain.</p>
@@ -180,6 +159,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 </div>
+
 ## Peta Kata
 
 Kata-kata hari ini membentuk alur saat ada masalah. 困る adalah kondisi kesulitan, 消防 dan 救急車 adalah bantuan, 警察 adalah pihak berwenang, 事故・故障 menjelaskan penyebab, dan 伝言/伝える dipakai untuk menyampaikan pesan.

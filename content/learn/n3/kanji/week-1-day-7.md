@@ -31,29 +31,15 @@ Tujuan utamanya adalah memperkuat pola baca kata majemuk pendek yang sering munc
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 未 | ミ | - | belum, masa depan | 未定, 未来 |
-| 末 | マツ | - | akhir, ujung | 週末, 年末 |
-| 若 | - | わかい | muda | 若い |
-| 晩 | バン | - | malam, petang | 今晩, 毎晩 |
-| 島 | トウ | しま | pulau | 島, 〜島 |
-| 皿 | - | さら | piring | 皿, 灰皿 |
-| 血 | ケツ | ち | darah | 血, 出血 |
-| 助 | ジョ | たすける | membantu | 助ける, 救助 |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-<details class="kanji-card" open>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">未</span>
     <span class="kanji-meta">
-      <strong>未</strong>
-      <small>belum</small>
-      <span class="kanji-reading"><span>onyomi: ミ</span>
+      <strong>belum, masa depan</strong>
+      <span class="kanji-reading"><span>onyomi: ミ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>未 memberi rasa “belum”. Gunakan 未定 sebagai jangkar karena sering muncul pada jadwal atau rencana yang belum diputuskan.</p>
@@ -63,13 +49,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">末</span>
     <span class="kanji-meta">
-      <strong>末</strong>
-      <small>akhir, ujung</small>
-      <span class="kanji-reading"><span>onyomi: マツ</span>
+      <strong>akhir, ujung</strong>
+      <span class="kanji-reading"><span>onyomi: マツ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>末 memberi rasa akhir atau ujung periode. Kata seperti 週末 dan 年末 membantu membedakannya dari 未.</p>
@@ -79,13 +64,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">若</span>
     <span class="kanji-meta">
-      <strong>若</strong>
-      <small>muda</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>muda</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: わかい</span></span>
     </span>
   </summary>
   <p>若 dipakai untuk usia atau kesan muda. Untuk tahap ini, bentuk paling stabil adalah 若い.</p>
@@ -94,13 +78,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">晩</span>
     <span class="kanji-meta">
-      <strong>晩</strong>
-      <small>malam, petang</small>
-      <span class="kanji-reading"><span>onyomi: バン</span>
+      <strong>malam, petang</strong>
+      <span class="kanji-reading"><span>onyomi: バン</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>晩 membantu membaca waktu malam dalam frasa tetap. Biasakan membaca 今晩 dan 毎晩 sebagai satu kata.</p>
@@ -110,13 +93,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">島</span>
     <span class="kanji-meta">
-      <strong>島</strong>
-      <small>pulau</small>
-      <span class="kanji-reading"><span>onyomi: トウ</span>
+      <strong>pulau</strong>
+      <span class="kanji-reading"><span>onyomi: トウ</span><span>kunyomi: しま</span></span>
     </span>
   </summary>
   <p>島 berarti pulau dan sering muncul pada nama tempat. Bacaan nama tempat bisa khusus, jadi hafalkan sebagai kata utuh.</p>
@@ -126,13 +108,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">皿</span>
     <span class="kanji-meta">
-      <strong>皿</strong>
-      <small>piring</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>piring</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: さら</span></span>
     </span>
   </summary>
   <p>皿 adalah benda sehari-hari. Dalam 灰皿, maknanya bergeser menjadi wadah untuk abu rokok, yaitu asbak.</p>
@@ -142,13 +123,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">血</span>
     <span class="kanji-meta">
-      <strong>血</strong>
-      <small>darah</small>
-      <span class="kanji-reading"><span>onyomi: ケツ</span>
+      <strong>darah</strong>
+      <span class="kanji-reading"><span>onyomi: ケツ</span><span>kunyomi: ち</span></span>
     </span>
   </summary>
   <p>血 sering muncul dalam konteks tubuh atau medis dasar. Untuk kata majemuk seperti 出血, bacaan onyomi lebih sering muncul.</p>
@@ -158,13 +138,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">助</span>
     <span class="kanji-meta">
-      <strong>助</strong>
-      <small>membantu, menolong</small>
-      <span class="kanji-reading"><span>onyomi: ジョ</span>
+      <strong>membantu</strong>
+      <span class="kanji-reading"><span>onyomi: ジョ</span><span>kunyomi: たすける</span></span>
     </span>
   </summary>
   <p>助 adalah kanji penting untuk bantuan. Dalam situasi darurat, 助ける dan 救助 sama-sama berkaitan dengan pertolongan.</p>
@@ -174,6 +153,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 </div>
+
 ## Peta Kata
 
 <div class="word-strip">

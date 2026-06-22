@@ -31,29 +31,15 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 市役所, 郵
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 役 | ヤク | - | peran, layanan, kantor | 市役所, 役員, 役に立つ |
-| 郵 | ユウ | - | pos, surat | 郵便, 郵便局 |
-| 局 | キョク | - | kantor, unit layanan | 郵便局, 薬局 |
-| 交 | コウ | - | bertemu, bertukar, lalu lintas | 交番, 交通, 交換 |
-| 差 | サ | さす | beda, mengulurkan | 差, 差し出す, 差出人 |
-| 点 | テン | - | titik, poin | 交差点, 点数, 三点 |
-| 橋 | キョウ | はし | jembatan | 歩道橋, 橋 |
-| 公 | コウ | - | publik, umum | 公園, 公共 |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-<details class="kanji-card" open>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">役</span>
     <span class="kanji-meta">
-      <strong>役</strong>
-      <small>peran, layanan, kantor</small>
-      <span class="kanji-reading"><span>onyomi: ヤク</span>
+      <strong>peran, layanan, kantor</strong>
+      <span class="kanji-reading"><span>onyomi: ヤク</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>役 sering muncul pada kantor pemerintah atau peran seseorang. Dalam 市役所, artinya kantor layanan kota.</p>
@@ -64,13 +50,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">郵</span>
     <span class="kanji-meta">
-      <strong>郵</strong>
-      <small>pos, surat</small>
-      <span class="kanji-reading"><span>onyomi: ユウ</span>
+      <strong>pos, surat</strong>
+      <span class="kanji-reading"><span>onyomi: ユウ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>郵 menandai layanan pos dan surat. Pada peta kota, paling sering muncul dalam 郵便局.</p>
@@ -80,13 +65,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">局</span>
     <span class="kanji-meta">
-      <strong>局</strong>
-      <small>kantor, unit layanan</small>
-      <span class="kanji-reading"><span>onyomi: キョク</span>
+      <strong>kantor, unit layanan</strong>
+      <span class="kanji-reading"><span>onyomi: キョク</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>局 menunjuk kantor atau unit. Maknanya bergantung pada kata sebelum 局.</p>
@@ -96,13 +80,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">交</span>
     <span class="kanji-meta">
-      <strong>交</strong>
-      <small>bertemu, bertukar, lalu lintas</small>
-      <span class="kanji-reading"><span>onyomi: コウ</span>
+      <strong>bertemu, bertukar, lalu lintas</strong>
+      <span class="kanji-reading"><span>onyomi: コウ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>交 memberi rasa pertemuan atau pertukaran. Pada peta, sering berkaitan dengan jalan dan pos polisi.</p>
@@ -113,13 +96,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">差</span>
     <span class="kanji-meta">
-      <strong>差</strong>
-      <small>beda, mengulurkan</small>
-      <span class="kanji-reading"><span>onyomi: サ</span>
+      <strong>beda, mengulurkan</strong>
+      <span class="kanji-reading"><span>onyomi: サ</span><span>kunyomi: さす</span></span>
     </span>
   </summary>
   <p>差 bisa berarti perbedaan atau tindakan mengulurkan/menyisipkan. Dalam 交差点, fokusnya garis jalan yang saling menyilang.</p>
@@ -130,13 +112,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">点</span>
     <span class="kanji-meta">
-      <strong>点</strong>
-      <small>titik, poin</small>
-      <span class="kanji-reading"><span>onyomi: テン</span>
+      <strong>titik, poin</strong>
+      <span class="kanji-reading"><span>onyomi: テン</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>点 menandai titik atau poin. Dalam 交差点, artinya titik pertemuan jalan.</p>
@@ -147,13 +128,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">橋</span>
     <span class="kanji-meta">
-      <strong>橋</strong>
-      <small>jembatan</small>
-      <span class="kanji-reading"><span>onyomi: キョウ</span>
+      <strong>jembatan</strong>
+      <span class="kanji-reading"><span>onyomi: キョウ</span><span>kunyomi: はし</span></span>
     </span>
   </summary>
   <p>橋 menunjuk jembatan. Dalam 歩道橋, ini adalah jembatan untuk pejalan kaki.</p>
@@ -163,13 +143,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">公</span>
     <span class="kanji-meta">
-      <strong>公</strong>
-      <small>publik, umum</small>
-      <span class="kanji-reading"><span>onyomi: コウ</span>
+      <strong>publik, umum</strong>
+      <span class="kanji-reading"><span>onyomi: コウ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>公 memberi rasa umum atau publik. Dalam 公園, artinya taman umum.</p>
@@ -179,6 +158,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 </div>
+
 ## Peta Kata
 
 Kata-kata hari ini membentuk peta kota yang praktis. 市役所, 郵便局, dan 交番 adalah tempat layanan; 交差点 dan 橋 membantu membaca jalur; 公園 adalah fasilitas umum yang sering menjadi patokan arah.

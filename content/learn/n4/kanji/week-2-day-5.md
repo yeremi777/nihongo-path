@@ -31,64 +31,130 @@ Di akhir pelajaran ini, kamu bisa membaca 以下, 以上, 以内, 室内, 時代
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 以 | イ | - | sejak, dibanding | 以下、以上、以内 |
-| 内 | ナイ | うち | dalam | 家内、室内、内側 |
-| 代 | ダイ、タイ | かわる、かえる | zaman, biaya, pengganti | 時代、代金 |
-| 号 | ゴウ | - | nomor, sinyal | 番号、102号室 |
-| 番 | バン | - | nomor, giliran | 交番、番号 |
-| 度 | ド、タク | たび | derajat, kali | 一度、今度 |
-| 全 | ゼン | まったく | semua, aman | 全部、安全 |
-| 洋 | ヨウ | - | Barat, samudra | 西洋、東洋、洋服 |
-| 服 | フク | - | pakaian | 洋服、和服 |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-  <details class="kanji-card" open><summary><span class="kanji-char">以</span><span class="kanji-meta"><strong>以</strong><small>batas, sejak</small><span class="kanji-reading"><span>onyomi: イ</span><span>kunyomi: -</span></span></span></summary><p>以 sering muncul pada batas angka atau cakupan.</p><ul>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">以</span>
+    <span class="kanji-meta">
+      <strong>sejak, dibanding</strong>
+      <span class="kanji-reading"><span>onyomi: イ</span><span>kunyomi: -</span></span>
+    </span>
+  </summary>
+<p>以 sering muncul pada batas angka atau cakupan.</p><ul>
     <li><span class="ruby-word"><ruby>以下<rt>いか</rt></ruby></span> - di bawah/berikut</li>
     <li><span class="ruby-word"><ruby>以上<rt>いじょう</rt></ruby></span> - lebih dari/sekian ke atas</li>
     <li><span class="ruby-word"><ruby>以内<rt>いない</rt></ruby></span> - dalam batas</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">内</span><span class="kanji-meta"><strong>内</strong><small>dalam</small><span class="kanji-reading"><span>onyomi: ナイ</span><span>kunyomi: うち</span></span></span></summary><p>内 menunjuk bagian dalam, rumah, atau batas dalam.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">内</span>
+    <span class="kanji-meta">
+      <strong>dalam</strong>
+      <span class="kanji-reading"><span>onyomi: ナイ</span><span>kunyomi: うち</span></span>
+    </span>
+  </summary>
+<p>内 menunjuk bagian dalam, rumah, atau batas dalam.</p><ul>
     <li><span class="ruby-word"><ruby>室内<rt>しつない</rt></ruby></span> - dalam ruangan</li>
     <li><span class="ruby-word"><ruby>内側<rt>うちがわ</rt></ruby></span> - sisi dalam</li>
     <li><span class="ruby-word"><ruby>以内<rt>いない</rt></ruby></span> - dalam batas</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">代</span><span class="kanji-meta"><strong>代</strong><small>zaman, biaya, pengganti</small><span class="kanji-reading"><span>onyomi: ダイ、タイ</span><span>kunyomi: かわる、かえる</span></span></span></summary><p>代 bisa berarti zaman, biaya, atau menggantikan.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">代</span>
+    <span class="kanji-meta">
+      <strong>zaman, biaya, pengganti</strong>
+      <span class="kanji-reading"><span>onyomi: ダイ、タイ</span><span>kunyomi: かわる、かえる</span></span>
+    </span>
+  </summary>
+<p>代 bisa berarti zaman, biaya, atau menggantikan.</p><ul>
     <li><span class="ruby-word"><ruby>時代<rt>じだい</rt></ruby></span> - zaman</li>
     <li><span class="ruby-word"><ruby>代金<rt>だいきん</rt></ruby></span> - biaya</li>
     <li><span class="ruby-word"><ruby>代表<rt>だいひょう</rt></ruby></span> - perwakilan</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">号</span><span class="kanji-meta"><strong>号</strong><small>nomor, sinyal</small><span class="kanji-reading"><span>onyomi: ゴウ</span><span>kunyomi: -</span></span></span></summary><p>号 muncul pada nomor kamar, edisi, dan sinyal.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">号</span>
+    <span class="kanji-meta">
+      <strong>nomor, sinyal</strong>
+      <span class="kanji-reading"><span>onyomi: ゴウ</span><span>kunyomi: -</span></span>
+    </span>
+  </summary>
+<p>号 muncul pada nomor kamar, edisi, dan sinyal.</p><ul>
     <li><span class="ruby-word"><ruby>番号<rt>ばんごう</rt></ruby></span> - nomor</li>
     <li><span class="ruby-word"><ruby>信号<rt>しんごう</rt></ruby></span> - lampu/sinyal</li>
     <li><span class="ruby-word"><ruby>号<rt>ごう</rt></ruby><ruby>室<rt>しつ</rt></ruby></span> - nomor kamar</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">番</span><span class="kanji-meta"><strong>番</strong><small>nomor, giliran</small><span class="kanji-reading"><span>onyomi: バン</span><span>kunyomi: -</span></span></span></summary><p>番 sering muncul untuk urutan, giliran, atau pos polisi.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">番</span>
+    <span class="kanji-meta">
+      <strong>nomor, giliran</strong>
+      <span class="kanji-reading"><span>onyomi: バン</span><span>kunyomi: -</span></span>
+    </span>
+  </summary>
+<p>番 sering muncul untuk urutan, giliran, atau pos polisi.</p><ul>
     <li><span class="ruby-word"><ruby>番号<rt>ばんごう</rt></ruby></span> - nomor</li>
     <li><span class="ruby-word"><ruby>交番<rt>こうばん</rt></ruby></span> - pos polisi</li>
     <li><span class="ruby-word"><ruby>番線<rt>ばんせん</rt></ruby></span> - nomor peron/jalur</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">度</span><span class="kanji-meta"><strong>度</strong><small>derajat, kali</small><span class="kanji-reading"><span>onyomi: ド、タク</span><span>kunyomi: たび</span></span></span></summary><p>度 menunjukkan frekuensi, derajat, atau kesempatan.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">度</span>
+    <span class="kanji-meta">
+      <strong>derajat, kali</strong>
+      <span class="kanji-reading"><span>onyomi: ド、タク</span><span>kunyomi: たび</span></span>
+    </span>
+  </summary>
+<p>度 menunjukkan frekuensi, derajat, atau kesempatan.</p><ul>
     <li><span class="ruby-word"><ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby></span> - sekali</li>
     <li><span class="ruby-word"><ruby>今度<rt>こんど</rt></ruby></span> - kali ini/lain kali</li>
     <li><span class="ruby-word"><ruby>温度<rt>おんど</rt></ruby></span> - suhu</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">全</span><span class="kanji-meta"><strong>全</strong><small>semua, aman</small><span class="kanji-reading"><span>onyomi: ゼン</span><span>kunyomi: まったく</span></span></span></summary><p>全 memberi rasa keseluruhan atau aman pada kata tertentu.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">全</span>
+    <span class="kanji-meta">
+      <strong>semua, aman</strong>
+      <span class="kanji-reading"><span>onyomi: ゼン</span><span>kunyomi: まったく</span></span>
+    </span>
+  </summary>
+<p>全 memberi rasa keseluruhan atau aman pada kata tertentu.</p><ul>
     <li><span class="ruby-word"><ruby>全部<rt>ぜんぶ</rt></ruby></span> - semua</li>
     <li><span class="ruby-word"><ruby>安全<rt>あんぜん</rt></ruby></span> - aman</li>
     <li><span class="ruby-word"><ruby>全国<rt>ぜんこく</rt></ruby></span> - seluruh negara</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">洋</span><span class="kanji-meta"><strong>洋</strong><small>Barat, samudra</small><span class="kanji-reading"><span>onyomi: ヨウ</span><span>kunyomi: -</span></span></span></summary><p>洋 sering menunjuk gaya Barat, samudra, dan makanan atau pakaian ala Barat.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">洋</span>
+    <span class="kanji-meta">
+      <strong>Barat, samudra</strong>
+      <span class="kanji-reading"><span>onyomi: ヨウ</span><span>kunyomi: -</span></span>
+    </span>
+  </summary>
+<p>洋 sering menunjuk gaya Barat, samudra, dan makanan atau pakaian ala Barat.</p><ul>
     <li><span class="ruby-word"><ruby>西洋<rt>せいよう</rt></ruby></span> - Barat</li>
     <li><span class="ruby-word"><ruby>東洋<rt>とうよう</rt></ruby></span> - Timur/Asia Timur</li>
     <li><span class="ruby-word"><ruby>洋服<rt>ようふく</rt></ruby></span> - pakaian Barat</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">服</span><span class="kanji-meta"><strong>服</strong><small>pakaian</small><span class="kanji-reading"><span>onyomi: フク</span><span>kunyomi: -</span></span></span></summary><p>服 berarti pakaian dan muncul pada jenis pakaian.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">服</span>
+    <span class="kanji-meta">
+      <strong>pakaian</strong>
+      <span class="kanji-reading"><span>onyomi: フク</span><span>kunyomi: -</span></span>
+    </span>
+  </summary>
+<p>服 berarti pakaian dan muncul pada jenis pakaian.</p><ul>
     <li><span class="ruby-word"><ruby>洋服<rt>ようふく</rt></ruby></span> - pakaian Barat</li>
     <li><span class="ruby-word"><ruby>和服<rt>わふく</rt></ruby></span> - pakaian Jepang</li>
     <li><span class="ruby-word"><ruby>制服<rt>せいふく</rt></ruby></span> - seragam</li>

@@ -31,29 +31,15 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 野球、地�
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 球 | キュウ | - | bola | 野球, 地球 |
-| 決 | ケツ | きめる, きまる | memutuskan | 決勝, 決める |
-| 勝 | ショウ | かつ | menang | 勝つ, 優勝 |
-| 対 | タイ | - | melawan, versus | 一対二, 反対 |
-| 流 | - | ながれる, ながす | mengalir | 流れる, 流す |
-| 負 | フ | まける | kalah | 負ける, 勝負 |
-| 投 | トウ | なげる | melempar | 投手, 投げる |
-| 果 | カ | - | hasil, buah | 結果, 果物 |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-<details class="kanji-card" open>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">球</span>
     <span class="kanji-meta">
-      <strong>球</strong>
-      <small>bola</small>
-      <span class="kanji-reading"><span>onyomi: キュウ</span>
+      <strong>bola</strong>
+      <span class="kanji-reading"><span>onyomi: キュウ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam artikel olahraga dan laporan pertandingan, 球 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -63,13 +49,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">決</span>
     <span class="kanji-meta">
-      <strong>決</strong>
-      <small>memutuskan</small>
-      <span class="kanji-reading"><span>onyomi: ケツ</span>
+      <strong>memutuskan</strong>
+      <span class="kanji-reading"><span>onyomi: ケツ</span><span>kunyomi: きめる, きまる</span></span>
     </span>
   </summary>
   <p>Dalam artikel olahraga dan laporan pertandingan, 決 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -79,13 +64,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">勝</span>
     <span class="kanji-meta">
-      <strong>勝</strong>
-      <small>menang</small>
-      <span class="kanji-reading"><span>onyomi: ショウ</span>
+      <strong>menang</strong>
+      <span class="kanji-reading"><span>onyomi: ショウ</span><span>kunyomi: かつ</span></span>
     </span>
   </summary>
   <p>Dalam artikel olahraga dan laporan pertandingan, 勝 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -95,13 +79,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">対</span>
     <span class="kanji-meta">
-      <strong>対</strong>
-      <small>melawan, versus</small>
-      <span class="kanji-reading"><span>onyomi: タイ</span>
+      <strong>melawan, versus</strong>
+      <span class="kanji-reading"><span>onyomi: タイ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam artikel olahraga dan laporan pertandingan, 対 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -111,13 +94,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">流</span>
     <span class="kanji-meta">
-      <strong>流</strong>
-      <small>mengalir</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>mengalir</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: ながれる, ながす</span></span>
     </span>
   </summary>
   <p>Dalam artikel olahraga dan laporan pertandingan, 流 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -127,13 +109,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">負</span>
     <span class="kanji-meta">
-      <strong>負</strong>
-      <small>kalah</small>
-      <span class="kanji-reading"><span>onyomi: フ</span>
+      <strong>kalah</strong>
+      <span class="kanji-reading"><span>onyomi: フ</span><span>kunyomi: まける</span></span>
     </span>
   </summary>
   <p>Dalam artikel olahraga dan laporan pertandingan, 負 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -143,13 +124,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">投</span>
     <span class="kanji-meta">
-      <strong>投</strong>
-      <small>melempar</small>
-      <span class="kanji-reading"><span>onyomi: トウ</span>
+      <strong>melempar</strong>
+      <span class="kanji-reading"><span>onyomi: トウ</span><span>kunyomi: なげる</span></span>
     </span>
   </summary>
   <p>Dalam artikel olahraga dan laporan pertandingan, 投 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -159,13 +139,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">果</span>
     <span class="kanji-meta">
-      <strong>果</strong>
-      <small>hasil, buah</small>
-      <span class="kanji-reading"><span>onyomi: カ</span>
+      <strong>hasil, buah</strong>
+      <span class="kanji-reading"><span>onyomi: カ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam artikel olahraga dan laporan pertandingan, 果 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -175,6 +154,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 </div>
+
 ## Peta Kata
 
 <div class="word-strip">

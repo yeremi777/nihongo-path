@@ -31,29 +31,15 @@ Setelah belajar, kamu lebih cepat memahami tanda seperti 非常口, 階段, 危�
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 非 | ヒ | - | bukan, non-, darurat (dalam kata tertentu) | 非常, 非常口 |
-| 常 | ジョウ | - | biasa, normal, selalu | 非常, 日常 |
-| 階 | カイ | - | lantai, tingkat | 階段, 一階 |
-| 段 | ダン | - | tingkat, langkah | 階段, 段差 |
-| 箱 | - | はこ | kotak | ごみ箱, 箱 |
-| 危 | キ | あぶない | bahaya | 危険, 危ない |
-| 険 | ケン | - | tajam, berisiko | 危険 |
-| 捨 | - | すてる | membuang | 捨てる |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-<details class="kanji-card" open>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">非</span>
     <span class="kanji-meta">
-      <strong>非</strong>
-      <small>bukan, non-</small>
-      <span class="kanji-reading"><span>onyomi: ヒ</span>
+      <strong>bukan, non-, darurat (dalam kata tertentu)</strong>
+      <span class="kanji-reading"><span>onyomi: ヒ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>非 memberi rasa “bukan/di luar keadaan biasa”. Dalam fasilitas umum, pasangan 非常 biasanya berarti darurat.</p>
@@ -63,13 +49,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">常</span>
     <span class="kanji-meta">
-      <strong>常</strong>
-      <small>normal, biasa</small>
-      <span class="kanji-reading"><span>onyomi: ジョウ</span>
+      <strong>biasa, normal, selalu</strong>
+      <span class="kanji-reading"><span>onyomi: ジョウ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>常 berarti keadaan biasa atau normal. Ketika digabung dengan 非, maknanya berubah menjadi keadaan darurat.</p>
@@ -79,13 +64,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">階</span>
     <span class="kanji-meta">
-      <strong>階</strong>
-      <small>lantai, tingkat</small>
-      <span class="kanji-reading"><span>onyomi: カイ</span>
+      <strong>lantai, tingkat</strong>
+      <span class="kanji-reading"><span>onyomi: カイ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>階 membantu membaca tingkat bangunan. Di gedung atau stasiun, kanji ini sering menunjuk lantai atau tangga.</p>
@@ -95,13 +79,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">段</span>
     <span class="kanji-meta">
-      <strong>段</strong>
-      <small>tingkat, anak tangga</small>
-      <span class="kanji-reading"><span>onyomi: ダン</span>
+      <strong>tingkat, langkah</strong>
+      <span class="kanji-reading"><span>onyomi: ダン</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>段 memberi rasa tingkatan atau anak tangga. Pada peringatan, kanji ini sering muncul ketika ada beda tinggi lantai.</p>
@@ -111,13 +94,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">箱</span>
     <span class="kanji-meta">
-      <strong>箱</strong>
-      <small>kotak</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>kotak</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: はこ</span></span>
     </span>
   </summary>
   <p>箱 berarti kotak. Dalam area umum, yang paling berguna adalah mengenali ごみ箱 sebagai lokasi membuang sampah.</p>
@@ -127,13 +109,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">危</span>
     <span class="kanji-meta">
-      <strong>危</strong>
-      <small>bahaya</small>
-      <span class="kanji-reading"><span>onyomi: キ</span>
+      <strong>bahaya</strong>
+      <span class="kanji-reading"><span>onyomi: キ</span><span>kunyomi: あぶない</span></span>
     </span>
   </summary>
   <p>危 adalah tanda risiko. Saat muncul di papan, baca sebagai sinyal untuk berhenti atau lebih hati-hati.</p>
@@ -143,13 +124,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">険</span>
     <span class="kanji-meta">
-      <strong>険</strong>
-      <small>berisiko, tajam</small>
-      <span class="kanji-reading"><span>onyomi: ケン</span>
+      <strong>tajam, berisiko</strong>
+      <span class="kanji-reading"><span>onyomi: ケン</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>険 menguatkan rasa bahaya atau risiko. Untuk N3, kata paling pentingnya adalah 危険.</p>
@@ -158,13 +138,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">捨</span>
     <span class="kanji-meta">
-      <strong>捨</strong>
-      <small>membuang</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>membuang</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: すてる</span></span>
     </span>
   </summary>
   <p>捨 menunjukkan tindakan membuang atau meninggalkan. Pada papan larangan, cari apakah tindakannya dilarang.</p>
@@ -173,6 +152,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 </div>
+
 ## Peta Kata
 
 <div class="word-strip">

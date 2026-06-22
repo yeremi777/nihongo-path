@@ -31,58 +31,116 @@ Di akhir pelajaran ini, kamu bisa membaca 小鳥, 銀行, 食堂, 病院, 散歩
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 鳥 | チョウ | とり | burung | 鳥、小鳥 |
-| 銀 | ギン | - | perak | 銀行 |
-| 堂 | ドウ | - | aula, gedung | 食堂、講堂 |
-| 院 | イン | - | lembaga, rumah sakit | 病院、大学院 |
-| 歩 | ホ、ブ、フ | あるく、あゆむ | berjalan | 散歩、歩く |
-| 走 | ソウ | はしる | berlari | 走る、競走 |
-| 海 | カイ | うみ | laut | 海岸、海 |
-| 帰 | キ | かえる、かえす | pulang | 帰る、帰国 |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-  <details class="kanji-card" open><summary><span class="kanji-char">鳥</span><span class="kanji-meta"><strong>鳥</strong><small>burung</small><span class="kanji-reading"><span>onyomi: チョウ</span><span>kunyomi: とり</span></span></span></summary><p>鳥 menunjuk burung dan muncul pada kata hewan kecil.</p><ul>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">鳥</span>
+    <span class="kanji-meta">
+      <strong>burung</strong>
+      <span class="kanji-reading"><span>onyomi: チョウ</span><span>kunyomi: とり</span></span>
+    </span>
+  </summary>
+<p>鳥 menunjuk burung dan muncul pada kata hewan kecil.</p><ul>
     <li><span class="ruby-word"><ruby>小鳥<rt>ことり</rt></ruby></span> - burung kecil</li>
     <li><span class="ruby-word"><ruby>野鳥<rt>やちょう</rt></ruby></span> - burung liar</li>
     <li><span class="ruby-word"><ruby>鳥<rt>とり</rt></ruby><ruby>肉<rt>にく</rt></ruby></span> - daging ayam/burung</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">銀</span><span class="kanji-meta"><strong>銀</strong><small>perak</small><span class="kanji-reading"><span>onyomi: ギン</span><span>kunyomi: -</span></span></span></summary><p>銀 berarti perak, tetapi paling sering muncul dalam 銀行.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">銀</span>
+    <span class="kanji-meta">
+      <strong>perak</strong>
+      <span class="kanji-reading"><span>onyomi: ギン</span><span>kunyomi: -</span></span>
+    </span>
+  </summary>
+<p>銀 berarti perak, tetapi paling sering muncul dalam 銀行.</p><ul>
     <li><span class="ruby-word"><ruby>銀行<rt>ぎんこう</rt></ruby></span> - bank</li>
     <li><span class="ruby-word"><ruby>銀色<rt>ぎんいろ</rt></ruby></span> - warna perak</li>
     <li><span class="ruby-word"><ruby>銀座<rt>ぎんざ</rt></ruby></span> - Ginza</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">堂</span><span class="kanji-meta"><strong>堂</strong><small>aula, gedung</small><span class="kanji-reading"><span>onyomi: ドウ</span><span>kunyomi: -</span></span></span></summary><p>堂 menunjuk aula atau gedung untuk fungsi tertentu.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">堂</span>
+    <span class="kanji-meta">
+      <strong>aula, gedung</strong>
+      <span class="kanji-reading"><span>onyomi: ドウ</span><span>kunyomi: -</span></span>
+    </span>
+  </summary>
+<p>堂 menunjuk aula atau gedung untuk fungsi tertentu.</p><ul>
     <li><span class="ruby-word"><ruby>食堂<rt>しょくどう</rt></ruby></span> - kantin</li>
     <li><span class="ruby-word"><ruby>講堂<rt>こうどう</rt></ruby></span> - aula kuliah</li>
     <li><span class="ruby-word"><ruby>本堂<rt>ほんどう</rt></ruby></span> - aula utama kuil</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">院</span><span class="kanji-meta"><strong>院</strong><small>lembaga, rumah sakit</small><span class="kanji-reading"><span>onyomi: イン</span><span>kunyomi: -</span></span></span></summary><p>院 muncul pada rumah sakit, lembaga, atau sekolah pascasarjana.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">院</span>
+    <span class="kanji-meta">
+      <strong>lembaga, rumah sakit</strong>
+      <span class="kanji-reading"><span>onyomi: イン</span><span>kunyomi: -</span></span>
+    </span>
+  </summary>
+<p>院 muncul pada rumah sakit, lembaga, atau sekolah pascasarjana.</p><ul>
     <li><span class="ruby-word"><ruby>病院<rt>びょういん</rt></ruby></span> - rumah sakit</li>
     <li><span class="ruby-word"><ruby>入院<rt>にゅういん</rt></ruby></span> - rawat inap</li>
     <li><span class="ruby-word"><ruby>大学院<rt>だいがくいん</rt></ruby></span> - pascasarjana</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">歩</span><span class="kanji-meta"><strong>歩</strong><small>berjalan</small><span class="kanji-reading"><span>onyomi: ホ、ブ、フ</span><span>kunyomi: あるく、あゆむ</span></span></span></summary><p>歩 dipakai untuk berjalan, langkah kaki, dan jarak tempuh singkat.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">歩</span>
+    <span class="kanji-meta">
+      <strong>berjalan</strong>
+      <span class="kanji-reading"><span>onyomi: ホ、ブ、フ</span><span>kunyomi: あるく、あゆむ</span></span>
+    </span>
+  </summary>
+<p>歩 dipakai untuk berjalan, langkah kaki, dan jarak tempuh singkat.</p><ul>
     <li><span class="ruby-word"><ruby>散歩<rt>さんぽ</rt></ruby></span> - jalan-jalan</li>
     <li><span class="ruby-word"><ruby>歩道<rt>ほどう</rt></ruby></span> - trotoar</li>
     <li><span class="ruby-word"><ruby>徒歩<rt>とほ</rt></ruby></span> - berjalan kaki</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">走</span><span class="kanji-meta"><strong>走</strong><small>berlari</small><span class="kanji-reading"><span>onyomi: ソウ</span><span>kunyomi: はしる</span></span></span></summary><p>走 muncul pada kegiatan berlari atau perlombaan.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">走</span>
+    <span class="kanji-meta">
+      <strong>berlari</strong>
+      <span class="kanji-reading"><span>onyomi: ソウ</span><span>kunyomi: はしる</span></span>
+    </span>
+  </summary>
+<p>走 muncul pada kegiatan berlari atau perlombaan.</p><ul>
     <li><span class="ruby-word"><ruby>競走<rt>きょうそう</rt></ruby></span> - lomba lari</li>
     <li><span class="ruby-word"><ruby>走行<rt>そうこう</rt></ruby></span> - perjalanan kendaraan</li>
     <li><span class="ruby-word"><ruby>完走<rt>かんそう</rt></ruby></span> - selesai berlari</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">海</span><span class="kanji-meta"><strong>海</strong><small>laut</small><span class="kanji-reading"><span>onyomi: カイ</span><span>kunyomi: うみ</span></span></span></summary><p>海 berhubungan dengan laut, pesisir, dan rencana liburan ke pantai.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">海</span>
+    <span class="kanji-meta">
+      <strong>laut</strong>
+      <span class="kanji-reading"><span>onyomi: カイ</span><span>kunyomi: うみ</span></span>
+    </span>
+  </summary>
+<p>海 berhubungan dengan laut, pesisir, dan rencana liburan ke pantai.</p><ul>
     <li><span class="ruby-word"><ruby>海岸<rt>かいがん</rt></ruby></span> - pantai</li>
     <li><span class="ruby-word"><ruby>海外<rt>かいがい</rt></ruby></span> - luar negeri</li>
     <li><span class="ruby-word"><ruby>北海道<rt>ほっかいどう</rt></ruby></span> - Hokkaido</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">帰</span><span class="kanji-meta"><strong>帰</strong><small>pulang</small><span class="kanji-reading"><span>onyomi: キ</span><span>kunyomi: かえる、かえす</span></span></span></summary><p>帰 dipakai untuk pulang ke rumah, negara, atau tempat asal.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">帰</span>
+    <span class="kanji-meta">
+      <strong>pulang</strong>
+      <span class="kanji-reading"><span>onyomi: キ</span><span>kunyomi: かえる、かえす</span></span>
+    </span>
+  </summary>
+<p>帰 dipakai untuk pulang ke rumah, negara, atau tempat asal.</p><ul>
     <li><span class="ruby-word"><ruby>帰国<rt>きこく</rt></ruby></span> - pulang ke negara asal</li>
     <li><span class="ruby-word"><ruby>帰宅<rt>きたく</rt></ruby></span> - pulang ke rumah</li>
     <li><span class="ruby-word"><ruby>日帰<rt>ひがえ</rt></ruby>り</span> - pergi-pulang sehari</li>

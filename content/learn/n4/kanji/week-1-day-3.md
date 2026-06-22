@@ -31,70 +31,144 @@ Di akhir pelajaran ini, kamu bisa membaca kata seperti 近所, 最近, 遠足, �
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 低 | テイ | ひくい | rendah | 低い、低温 |
-| 短 | タン | みじかい | pendek | 短い、短文 |
-| 近 | キン | ちかい、ちかく | dekat, baru-baru ini | 近所、最近 |
-| 遠 | エン | とおい | jauh | 遠足、遠慮 |
-| 弱 | ジャク | よわい | lemah | 弱い、弱点 |
-| 強 | キョウ、ゴウ | つよい | kuat, belajar | 勉強、強い |
-| 暗 | アン | くらい | gelap | 暗い、暗記 |
-| 明 | メイ、ミョウ | あかるい、あける | terang, jelas | 説明、明日 |
-| 悪 | アク、オ | わるい | buruk | 悪い、悪天候 |
-| 利 | リ | - | manfaat, kemudahan | 便利、利用 |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-  <details class="kanji-card" open><summary><span class="kanji-char">低</span><span class="kanji-meta"><strong>低</strong><small>rendah</small><span class="kanji-reading"><span>onyomi: テイ</span><span>kunyomi: ひくい</span></span></span></summary><p>低 menjelaskan posisi, suhu, atau tingkat yang rendah.</p><ul>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">低</span>
+    <span class="kanji-meta">
+      <strong>rendah</strong>
+      <span class="kanji-reading"><span>onyomi: テイ</span><span>kunyomi: ひくい</span></span>
+    </span>
+  </summary>
+<p>低 menjelaskan posisi, suhu, atau tingkat yang rendah.</p><ul>
     <li><span class="ruby-word"><ruby>低温<rt>ていおん</rt></ruby></span> - suhu rendah</li>
     <li><span class="ruby-word"><ruby>低下<rt>ていか</rt></ruby></span> - penurunan</li>
     <li><span class="ruby-word"><ruby>最低<rt>さいてい</rt></ruby></span> - paling rendah</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">短</span><span class="kanji-meta"><strong>短</strong><small>pendek</small><span class="kanji-reading"><span>onyomi: タン</span><span>kunyomi: みじかい</span></span></span></summary><p>短 dipakai untuk panjang waktu, kalimat, atau benda yang pendek.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">短</span>
+    <span class="kanji-meta">
+      <strong>pendek</strong>
+      <span class="kanji-reading"><span>onyomi: タン</span><span>kunyomi: みじかい</span></span>
+    </span>
+  </summary>
+<p>短 dipakai untuk panjang waktu, kalimat, atau benda yang pendek.</p><ul>
     <li><span class="ruby-word"><ruby>短文<rt>たんぶん</rt></ruby></span> - kalimat pendek</li>
     <li><span class="ruby-word"><ruby>短時間<rt>たんじかん</rt></ruby></span> - waktu singkat</li>
     <li><span class="ruby-word"><ruby>短所<rt>たんしょ</rt></ruby></span> - kekurangan</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">近</span><span class="kanji-meta"><strong>近</strong><small>dekat</small><span class="kanji-reading"><span>onyomi: キン</span><span>kunyomi: ちかい、ちかく</span></span></span></summary><p>近 bisa berarti dekat secara tempat atau waktu yang baru terjadi.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">近</span>
+    <span class="kanji-meta">
+      <strong>dekat, baru-baru ini</strong>
+      <span class="kanji-reading"><span>onyomi: キン</span><span>kunyomi: ちかい、ちかく</span></span>
+    </span>
+  </summary>
+<p>近 bisa berarti dekat secara tempat atau waktu yang baru terjadi.</p><ul>
     <li><span class="ruby-word"><ruby>近所<rt>きんじょ</rt></ruby></span> - lingkungan sekitar</li>
     <li><span class="ruby-word"><ruby>最近<rt>さいきん</rt></ruby></span> - akhir-akhir ini</li>
     <li><span class="ruby-word"><ruby>近道<rt>ちかみち</rt></ruby></span> - jalan pintas</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">遠</span><span class="kanji-meta"><strong>遠</strong><small>jauh</small><span class="kanji-reading"><span>onyomi: エン</span><span>kunyomi: とおい</span></span></span></summary><p>遠 menunjukkan jarak jauh atau sikap menahan diri dalam kata tertentu.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">遠</span>
+    <span class="kanji-meta">
+      <strong>jauh</strong>
+      <span class="kanji-reading"><span>onyomi: エン</span><span>kunyomi: とおい</span></span>
+    </span>
+  </summary>
+<p>遠 menunjukkan jarak jauh atau sikap menahan diri dalam kata tertentu.</p><ul>
     <li><span class="ruby-word"><ruby>遠足<rt>えんそく</rt></ruby></span> - karyawisata</li>
     <li><span class="ruby-word"><ruby>遠慮<rt>えんりょ</rt></ruby></span> - sungkan</li>
     <li><span class="ruby-word"><ruby>遠方<rt>えんぽう</rt></ruby></span> - tempat jauh</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">弱</span><span class="kanji-meta"><strong>弱</strong><small>lemah</small><span class="kanji-reading"><span>onyomi: ジャク</span><span>kunyomi: よわい</span></span></span></summary><p>弱 menjelaskan kekuatan rendah atau titik yang kurang kuat.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">弱</span>
+    <span class="kanji-meta">
+      <strong>lemah</strong>
+      <span class="kanji-reading"><span>onyomi: ジャク</span><span>kunyomi: よわい</span></span>
+    </span>
+  </summary>
+<p>弱 menjelaskan kekuatan rendah atau titik yang kurang kuat.</p><ul>
     <li><span class="ruby-word"><ruby>弱点<rt>じゃくてん</rt></ruby></span> - kelemahan</li>
     <li><span class="ruby-word"><ruby>弱気<rt>よわき</rt></ruby></span> - kurang percaya diri</li>
     <li><span class="ruby-word"><ruby>強弱<rt>きょうじゃく</rt></ruby></span> - kuat-lemah</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">強</span><span class="kanji-meta"><strong>強</strong><small>kuat, belajar</small><span class="kanji-reading"><span>onyomi: キョウ、ゴウ</span><span>kunyomi: つよい</span></span></span></summary><p>強 berarti kuat, tetapi dalam 勉強 sudah menjadi kata tetap untuk belajar.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">強</span>
+    <span class="kanji-meta">
+      <strong>kuat, belajar</strong>
+      <span class="kanji-reading"><span>onyomi: キョウ、ゴウ</span><span>kunyomi: つよい</span></span>
+    </span>
+  </summary>
+<p>強 berarti kuat, tetapi dalam 勉強 sudah menjadi kata tetap untuk belajar.</p><ul>
     <li><span class="ruby-word"><ruby>勉強<rt>べんきょう</rt></ruby></span> - belajar</li>
     <li><span class="ruby-word"><ruby>強風<rt>きょうふう</rt></ruby></span> - angin kencang</li>
     <li><span class="ruby-word"><ruby>強弱<rt>きょうじゃく</rt></ruby></span> - kuat-lemah</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">暗</span><span class="kanji-meta"><strong>暗</strong><small>gelap</small><span class="kanji-reading"><span>onyomi: アン</span><span>kunyomi: くらい</span></span></span></summary><p>暗 bisa berarti gelap secara fisik atau hafalan tanpa melihat teks.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">暗</span>
+    <span class="kanji-meta">
+      <strong>gelap</strong>
+      <span class="kanji-reading"><span>onyomi: アン</span><span>kunyomi: くらい</span></span>
+    </span>
+  </summary>
+<p>暗 bisa berarti gelap secara fisik atau hafalan tanpa melihat teks.</p><ul>
     <li><span class="ruby-word"><ruby>暗記<rt>あんき</rt></ruby></span> - hafalan</li>
     <li><span class="ruby-word"><ruby>暗号<rt>あんごう</rt></ruby></span> - kode rahasia</li>
     <li><span class="ruby-word"><ruby>明暗<rt>めいあん</rt></ruby></span> - terang-gelap</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">明</span><span class="kanji-meta"><strong>明</strong><small>terang, jelas</small><span class="kanji-reading"><span>onyomi: メイ、ミョウ</span><span>kunyomi: あかるい、あける</span></span></span></summary><p>明 dipakai untuk cahaya, kejelasan, dan kata waktu seperti besok.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">明</span>
+    <span class="kanji-meta">
+      <strong>terang, jelas</strong>
+      <span class="kanji-reading"><span>onyomi: メイ、ミョウ</span><span>kunyomi: あかるい、あける</span></span>
+    </span>
+  </summary>
+<p>明 dipakai untuk cahaya, kejelasan, dan kata waktu seperti besok.</p><ul>
     <li><span class="ruby-word"><ruby>説明<rt>せつめい</rt></ruby></span> - penjelasan</li>
     <li><span class="ruby-word"><ruby>明日<rt>あした</rt></ruby></span> - besok</li>
     <li><span class="ruby-word"><ruby>明暗<rt>めいあん</rt></ruby></span> - terang-gelap</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">悪</span><span class="kanji-meta"><strong>悪</strong><small>buruk</small><span class="kanji-reading"><span>onyomi: アク、オ</span><span>kunyomi: わるい</span></span></span></summary><p>悪 menjelaskan sesuatu yang buruk, tidak baik, atau tidak menguntungkan.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">悪</span>
+    <span class="kanji-meta">
+      <strong>buruk</strong>
+      <span class="kanji-reading"><span>onyomi: アク、オ</span><span>kunyomi: わるい</span></span>
+    </span>
+  </summary>
+<p>悪 menjelaskan sesuatu yang buruk, tidak baik, atau tidak menguntungkan.</p><ul>
     <li><span class="ruby-word"><ruby>悪天候<rt>あくてんこう</rt></ruby></span> - cuaca buruk</li>
     <li><span class="ruby-word"><ruby>悪口<rt>わるぐち</rt></ruby></span> - kata buruk</li>
     <li><span class="ruby-word"><ruby>最悪<rt>さいあく</rt></ruby></span> - paling buruk</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">利</span><span class="kanji-meta"><strong>利</strong><small>manfaat, kemudahan</small><span class="kanji-reading"><span>onyomi: リ</span><span>kunyomi: -</span></span></span></summary><p>利 memberi rasa manfaat, keuntungan, atau kemudahan penggunaan.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">利</span>
+    <span class="kanji-meta">
+      <strong>manfaat, kemudahan</strong>
+      <span class="kanji-reading"><span>onyomi: リ</span><span>kunyomi: -</span></span>
+    </span>
+  </summary>
+<p>利 memberi rasa manfaat, keuntungan, atau kemudahan penggunaan.</p><ul>
     <li><span class="ruby-word"><ruby>便利<rt>べんり</rt></ruby></span> - praktis</li>
     <li><span class="ruby-word"><ruby>利用<rt>りよう</rt></ruby></span> - penggunaan</li>
     <li><span class="ruby-word"><ruby>利益<rt>りえき</rt></ruby></span> - keuntungan</li>

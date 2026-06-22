@@ -31,29 +31,15 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 政治、政�
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 政 | セイ | - | politik, pemerintahan | 政治, 政治家 |
-| 府 | フ | - | pemerintah, prefektur | 政府, 都道府県 |
-| 改 | カイ | あらためる | mengubah, merevisi | 改正, 改める |
-| 否 | ヒ | - | menolak, menyangkal | 否定, 否定的 |
-| 的 | テキ | - | -is, sasaran | 目的, 国際的 |
-| 実 | ジツ | - | kenyataan, sebenarnya | 実際, 実は |
-| 欠 | ケツ | かける | kurang, absen | 欠点, 欠席 |
-| 専 | セン | - | khusus, spesialis | 専門, 専門家 |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-<details class="kanji-card" open>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">政</span>
     <span class="kanji-meta">
-      <strong>政</strong>
-      <small>politik, pemerintahan</small>
-      <span class="kanji-reading"><span>onyomi: セイ</span>
+      <strong>politik, pemerintahan</strong>
+      <span class="kanji-reading"><span>onyomi: セイ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam berita politik dan kebijakan, 政 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -63,13 +49,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">府</span>
     <span class="kanji-meta">
-      <strong>府</strong>
-      <small>pemerintah, prefektur</small>
-      <span class="kanji-reading"><span>onyomi: フ</span>
+      <strong>pemerintah, prefektur</strong>
+      <span class="kanji-reading"><span>onyomi: フ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam berita politik dan kebijakan, 府 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -79,13 +64,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">改</span>
     <span class="kanji-meta">
-      <strong>改</strong>
-      <small>mengubah, merevisi</small>
-      <span class="kanji-reading"><span>onyomi: カイ</span>
+      <strong>mengubah, merevisi</strong>
+      <span class="kanji-reading"><span>onyomi: カイ</span><span>kunyomi: あらためる</span></span>
     </span>
   </summary>
   <p>Dalam berita politik dan kebijakan, 改 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -95,13 +79,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">否</span>
     <span class="kanji-meta">
-      <strong>否</strong>
-      <small>menolak, menyangkal</small>
-      <span class="kanji-reading"><span>onyomi: ヒ</span>
+      <strong>menolak, menyangkal</strong>
+      <span class="kanji-reading"><span>onyomi: ヒ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam berita politik dan kebijakan, 否 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -111,13 +94,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">的</span>
     <span class="kanji-meta">
-      <strong>的</strong>
-      <small>-is, sasaran</small>
-      <span class="kanji-reading"><span>onyomi: テキ</span>
+      <strong>-is, sasaran</strong>
+      <span class="kanji-reading"><span>onyomi: テキ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam berita politik dan kebijakan, 的 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -127,13 +109,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">実</span>
     <span class="kanji-meta">
-      <strong>実</strong>
-      <small>kenyataan, sebenarnya</small>
-      <span class="kanji-reading"><span>onyomi: ジツ</span>
+      <strong>kenyataan, sebenarnya</strong>
+      <span class="kanji-reading"><span>onyomi: ジツ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam berita politik dan kebijakan, 実 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -143,13 +124,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">欠</span>
     <span class="kanji-meta">
-      <strong>欠</strong>
-      <small>kurang, absen</small>
-      <span class="kanji-reading"><span>onyomi: ケツ</span>
+      <strong>kurang, absen</strong>
+      <span class="kanji-reading"><span>onyomi: ケツ</span><span>kunyomi: かける</span></span>
     </span>
   </summary>
   <p>Dalam berita politik dan kebijakan, 欠 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -159,13 +139,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">専</span>
     <span class="kanji-meta">
-      <strong>専</strong>
-      <small>khusus, spesialis</small>
-      <span class="kanji-reading"><span>onyomi: セン</span>
+      <strong>khusus, spesialis</strong>
+      <span class="kanji-reading"><span>onyomi: セン</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam berita politik dan kebijakan, 専 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -175,6 +154,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 </div>
+
 ## Peta Kata
 
 <div class="word-strip">

@@ -31,27 +31,15 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 厚い, 厚着
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 厚 | - | あつい | tebal, baik hati | 厚い, 厚着 |
-| 泣 | - | なく | menangis | 泣く, 泣き声 |
-| 鳴 | - | なく, なる | berbunyi, berkicau | 鳴く, 鳴る |
-| 初 | ショ | はじめ, はじめて | awal, pertama | 最初, 初めて |
-| 泊 | ハク | とまる, とめる | menginap | 宿泊, 泊まる |
-| 葉 | ヨウ | は | daun, kata | 紅葉, 言葉 |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-<details class="kanji-card" open>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">厚</span>
     <span class="kanji-meta">
-      <strong>厚</strong>
-      <small>tebal, baik hati</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>tebal, baik hati</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: あつい</span></span>
     </span>
   </summary>
   <p>厚 menggambarkan ketebalan benda atau sikap yang hangat dan baik hati. Dalam deskripsi cuaca dan pakaian, 厚着 sering muncul.</p>
@@ -61,13 +49,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">泣</span>
     <span class="kanji-meta">
-      <strong>泣</strong>
-      <small>menangis</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>menangis</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: なく</span></span>
     </span>
   </summary>
   <p>泣 berkaitan dengan menangis. Subjeknya biasanya manusia atau hewan yang menunjukkan emosi.</p>
@@ -77,13 +64,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">鳴</span>
     <span class="kanji-meta">
-      <strong>鳴</strong>
-      <small>berbunyi, berkicau</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>berbunyi, berkicau</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: なく, なる</span></span>
     </span>
   </summary>
   <p>鳴 dipakai untuk suara yang keluar dari hewan, alat, atau benda. 鳴く untuk hewan berkicau; 鳴る untuk bel atau alarm berbunyi.</p>
@@ -93,13 +79,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">初</span>
     <span class="kanji-meta">
-      <strong>初</strong>
-      <small>awal, pertama</small>
-      <span class="kanji-reading"><span>onyomi: ショ</span>
+      <strong>awal, pertama</strong>
+      <span class="kanji-reading"><span>onyomi: ショ</span><span>kunyomi: はじめ, はじめて</span></span>
     </span>
   </summary>
   <p>初 menandai awal atau pertama kali. Sering muncul dalam cerita pengalaman baru dan jadwal kegiatan.</p>
@@ -110,13 +95,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">泊</span>
     <span class="kanji-meta">
-      <strong>泊</strong>
-      <small>menginap</small>
-      <span class="kanji-reading"><span>onyomi: ハク</span>
+      <strong>menginap</strong>
+      <span class="kanji-reading"><span>onyomi: ハク</span><span>kunyomi: とまる, とめる</span></span>
     </span>
   </summary>
   <p>泊 berkaitan dengan menginap atau menampung tamu. Penting saat membaca informasi hotel dan perjalanan.</p>
@@ -127,13 +111,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">葉</span>
     <span class="kanji-meta">
-      <strong>葉</strong>
-      <small>daun, kata</small>
-      <span class="kanji-reading"><span>onyomi: ヨウ</span>
+      <strong>daun, kata</strong>
+      <span class="kanji-reading"><span>onyomi: ヨウ</span><span>kunyomi: は</span></span>
     </span>
   </summary>
   <p>葉 bisa berarti daun, tetapi juga muncul dalam 言葉 yang berarti kata atau bahasa. Konteks kalimat menentukan maknanya.</p>
@@ -144,6 +127,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 </div>
+
 ## Peta Kata
 
 Kata-kata hari ini bisa dibaca sebagai alur: sifat benda → emosi manusia → suara sekitar → awal pengalaman → menginap → daun atau kata. 厚 menjelaskan benda, 泣 dan 鳴 berkaitan dengan reaksi, 初 menandai pertama kali, 泊 muncul pada perjalanan, dan 葉 bisa berarti alam atau bahasa lewat 言葉.

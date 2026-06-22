@@ -31,29 +31,15 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 米、米国�
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 米 | ベイ | こめ | beras, Amerika | 米, 米国 |
-| 級 | キュウ | - | kelas, tingkat | 高級, 中級 |
-| 残 | ザン | のこる, のこす | sisa, tersisa | 残り, 残業 |
-| 型 | - | かた | tipe, model | 新型, 小型 |
-| 税 | ゼイ | - | pajak | 消費税, 税金 |
-| 込 | - | こむ | termasuk, penuh | 税込, 込む |
-| 価 | カ | - | harga, nilai | 価格, 定価 |
-| 格 | カク | - | status, kelas | 格安, 合格 |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-<details class="kanji-card" open>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">米</span>
     <span class="kanji-meta">
-      <strong>米</strong>
-      <small>beras, Amerika</small>
-      <span class="kanji-reading"><span>onyomi: ベイ</span>
+      <strong>beras, Amerika</strong>
+      <span class="kanji-reading"><span>onyomi: ベイ</span><span>kunyomi: こめ</span></span>
     </span>
   </summary>
   <p>Dalam halaman belanja online dan katalog produk, 米 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -63,13 +49,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">級</span>
     <span class="kanji-meta">
-      <strong>級</strong>
-      <small>kelas, tingkat</small>
-      <span class="kanji-reading"><span>onyomi: キュウ</span>
+      <strong>kelas, tingkat</strong>
+      <span class="kanji-reading"><span>onyomi: キュウ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam halaman belanja online dan katalog produk, 級 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -79,13 +64,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">残</span>
     <span class="kanji-meta">
-      <strong>残</strong>
-      <small>sisa, tersisa</small>
-      <span class="kanji-reading"><span>onyomi: ザン</span>
+      <strong>sisa, tersisa</strong>
+      <span class="kanji-reading"><span>onyomi: ザン</span><span>kunyomi: のこる, のこす</span></span>
     </span>
   </summary>
   <p>Dalam halaman belanja online dan katalog produk, 残 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -95,13 +79,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">型</span>
     <span class="kanji-meta">
-      <strong>型</strong>
-      <small>tipe, model</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>tipe, model</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: かた</span></span>
     </span>
   </summary>
   <p>Dalam halaman belanja online dan katalog produk, 型 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -111,13 +94,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">税</span>
     <span class="kanji-meta">
-      <strong>税</strong>
-      <small>pajak</small>
-      <span class="kanji-reading"><span>onyomi: ゼイ</span>
+      <strong>pajak</strong>
+      <span class="kanji-reading"><span>onyomi: ゼイ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam halaman belanja online dan katalog produk, 税 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -127,13 +109,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">込</span>
     <span class="kanji-meta">
-      <strong>込</strong>
-      <small>termasuk, penuh</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>termasuk, penuh</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: こむ</span></span>
     </span>
   </summary>
   <p>Dalam halaman belanja online dan katalog produk, 込 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -143,13 +124,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">価</span>
     <span class="kanji-meta">
-      <strong>価</strong>
-      <small>harga, nilai</small>
-      <span class="kanji-reading"><span>onyomi: カ</span>
+      <strong>harga, nilai</strong>
+      <span class="kanji-reading"><span>onyomi: カ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam halaman belanja online dan katalog produk, 価 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -159,13 +139,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">格</span>
     <span class="kanji-meta">
-      <strong>格</strong>
-      <small>status, kelas</small>
-      <span class="kanji-reading"><span>onyomi: カク</span>
+      <strong>status, kelas</strong>
+      <span class="kanji-reading"><span>onyomi: カク</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam halaman belanja online dan katalog produk, 格 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -175,6 +154,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 </div>
+
 ## Peta Kata
 
 <div class="word-strip">

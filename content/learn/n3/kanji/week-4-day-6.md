@@ -31,29 +31,15 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 不在、現�
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 在 | ザイ | - | ada, hadir | 不在, 現在 |
-| 取 | - | とる | mengambil, menerima | 取る, 受け取る |
-| 預 | ヨ | あずける | menitipkan | 預金, 預ける |
-| 衣 | イ | - | pakaian | 衣類, 衣服 |
-| 参 | サン | まいる | ikut, datang rendah hati | 参加, 参考書 |
-| 達 | タツ | - | mencapai, pengiriman | 速達, 上達 |
-| 勤 | キン | つとめる | bekerja | 通勤, 勤める |
-| 帯 | タイ | おび | sabuk, zona, ponsel | 携帯電話, 時間帯 |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-<details class="kanji-card" open>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">在</span>
     <span class="kanji-meta">
-      <strong>在</strong>
-      <small>ada, hadir</small>
-      <span class="kanji-reading"><span>onyomi: ザイ</span>
+      <strong>ada, hadir</strong>
+      <span class="kanji-reading"><span>onyomi: ザイ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam pemberitahuan paket dan slip pengiriman gagal, 在 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -63,13 +49,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">取</span>
     <span class="kanji-meta">
-      <strong>取</strong>
-      <small>mengambil, menerima</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>mengambil, menerima</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: とる</span></span>
     </span>
   </summary>
   <p>Dalam pemberitahuan paket dan slip pengiriman gagal, 取 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -79,13 +64,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">預</span>
     <span class="kanji-meta">
-      <strong>預</strong>
-      <small>menitipkan</small>
-      <span class="kanji-reading"><span>onyomi: ヨ</span>
+      <strong>menitipkan</strong>
+      <span class="kanji-reading"><span>onyomi: ヨ</span><span>kunyomi: あずける</span></span>
     </span>
   </summary>
   <p>Dalam pemberitahuan paket dan slip pengiriman gagal, 預 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -95,13 +79,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">衣</span>
     <span class="kanji-meta">
-      <strong>衣</strong>
-      <small>pakaian</small>
-      <span class="kanji-reading"><span>onyomi: イ</span>
+      <strong>pakaian</strong>
+      <span class="kanji-reading"><span>onyomi: イ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam pemberitahuan paket dan slip pengiriman gagal, 衣 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -111,13 +94,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">参</span>
     <span class="kanji-meta">
-      <strong>参</strong>
-      <small>ikut, datang rendah hati</small>
-      <span class="kanji-reading"><span>onyomi: サン</span>
+      <strong>ikut, datang rendah hati</strong>
+      <span class="kanji-reading"><span>onyomi: サン</span><span>kunyomi: まいる</span></span>
     </span>
   </summary>
   <p>Dalam pemberitahuan paket dan slip pengiriman gagal, 参 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -127,13 +109,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">達</span>
     <span class="kanji-meta">
-      <strong>達</strong>
-      <small>mencapai, pengiriman</small>
-      <span class="kanji-reading"><span>onyomi: タツ</span>
+      <strong>mencapai, pengiriman</strong>
+      <span class="kanji-reading"><span>onyomi: タツ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam pemberitahuan paket dan slip pengiriman gagal, 達 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -143,13 +124,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">勤</span>
     <span class="kanji-meta">
-      <strong>勤</strong>
-      <small>bekerja</small>
-      <span class="kanji-reading"><span>onyomi: キン</span>
+      <strong>bekerja</strong>
+      <span class="kanji-reading"><span>onyomi: キン</span><span>kunyomi: つとめる</span></span>
     </span>
   </summary>
   <p>Dalam pemberitahuan paket dan slip pengiriman gagal, 勤 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -159,13 +139,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">帯</span>
     <span class="kanji-meta">
-      <strong>帯</strong>
-      <small>sabuk, zona, ponsel</small>
-      <span class="kanji-reading"><span>onyomi: タイ</span>
+      <strong>sabuk, zona, ponsel</strong>
+      <span class="kanji-reading"><span>onyomi: タイ</span><span>kunyomi: おび</span></span>
     </span>
   </summary>
   <p>Dalam pemberitahuan paket dan slip pengiriman gagal, 帯 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -175,6 +154,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 </div>
+
 ## Peta Kata
 
 <div class="word-strip">

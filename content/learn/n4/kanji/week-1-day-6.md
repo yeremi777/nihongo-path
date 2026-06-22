@@ -31,82 +31,172 @@ Di akhir pelajaran ini, kamu bisa membaca kata seperti 朝食, 昼食, 春休み
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 朝 | チョウ | あさ | pagi | 朝食、今朝 |
-| 昼 | チュウ | ひる | siang | 昼食、昼間 |
-| 春 | シュン | はる | musim semi | 春、春休み |
-| 夏 | カ、ゲ | なつ | musim panas | 夏、夏休み |
-| 秋 | シュウ | あき | musim gugur | 秋、秋分 |
-| 冬 | トウ | ふゆ | musim dingin | 冬、冬休み |
-| 京 | キョウ、ケイ | - | ibu kota | 京都、東京 |
-| 都 | ト、ツ | みやこ | metropolis | 東京都、都合 |
-| 府 | フ | - | prefektur kota | 大阪府、京都府 |
-| 県 | ケン | - | prefektur | 県庁、青森県 |
-| 市 | シ | いち | kota, pasar | 市民、市役所 |
-| 町 | チョウ | まち | kota kecil | 町内、町 |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-  <details class="kanji-card" open><summary><span class="kanji-char">朝</span><span class="kanji-meta"><strong>朝</strong><small>pagi</small><span class="kanji-reading"><span>onyomi: チョウ</span><span>kunyomi: あさ</span></span></span></summary><p>朝 menunjuk pagi dan sering muncul pada jadwal makan.</p><ul>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">朝</span>
+    <span class="kanji-meta">
+      <strong>pagi</strong>
+      <span class="kanji-reading"><span>onyomi: チョウ</span><span>kunyomi: あさ</span></span>
+    </span>
+  </summary>
+<p>朝 menunjuk pagi dan sering muncul pada jadwal makan.</p><ul>
     <li><span class="ruby-word"><ruby>朝食<rt>ちょうしょく</rt></ruby></span> - sarapan</li>
     <li><span class="ruby-word"><ruby>今朝<rt>けさ</rt></ruby></span> - pagi ini</li>
     <li><span class="ruby-word"><ruby>朝礼<rt>ちょうれい</rt></ruby></span> - apel pagi</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">昼</span><span class="kanji-meta"><strong>昼</strong><small>siang</small><span class="kanji-reading"><span>onyomi: チュウ</span><span>kunyomi: ひる</span></span></span></summary><p>昼 dipakai untuk tengah hari dan waktu makan siang.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">昼</span>
+    <span class="kanji-meta">
+      <strong>siang</strong>
+      <span class="kanji-reading"><span>onyomi: チュウ</span><span>kunyomi: ひる</span></span>
+    </span>
+  </summary>
+<p>昼 dipakai untuk tengah hari dan waktu makan siang.</p><ul>
     <li><span class="ruby-word"><ruby>昼食<rt>ちゅうしょく</rt></ruby></span> - makan siang</li>
     <li><span class="ruby-word"><ruby>昼間<rt>ひるま</rt></ruby></span> - siang hari</li>
     <li><span class="ruby-word"><ruby>昼休<rt>ひるやす</rt></ruby>み</span> - istirahat siang</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">春</span><span class="kanji-meta"><strong>春</strong><small>musim semi</small><span class="kanji-reading"><span>onyomi: シュン</span><span>kunyomi: はる</span></span></span></summary><p>Saat membaca kalender sekolah Jepang, 春 membantu mengenali musim semi, libur, dan istilah awal tahun.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">春</span>
+    <span class="kanji-meta">
+      <strong>musim semi</strong>
+      <span class="kanji-reading"><span>onyomi: シュン</span><span>kunyomi: はる</span></span>
+    </span>
+  </summary>
+<p>Saat membaca kalender sekolah Jepang, 春 membantu mengenali musim semi, libur, dan istilah awal tahun.</p><ul>
     <li><span class="ruby-word"><ruby>春休<rt>はるやす</rt></ruby>み</span> - libur musim semi</li>
     <li><span class="ruby-word"><ruby>春分<rt>しゅんぶん</rt></ruby></span> - ekuinoks musim semi</li>
     <li><span class="ruby-word"><ruby>新春<rt>しんしゅん</rt></ruby></span> - awal musim semi/tahun baru</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">夏</span><span class="kanji-meta"><strong>夏</strong><small>musim panas</small><span class="kanji-reading"><span>onyomi: カ、ゲ</span><span>kunyomi: なつ</span></span></span></summary><p>夏 biasanya muncul di pengumuman sekolah, kalender, dan rencana perjalanan yang berkaitan dengan musim panas.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">夏</span>
+    <span class="kanji-meta">
+      <strong>musim panas</strong>
+      <span class="kanji-reading"><span>onyomi: カ、ゲ</span><span>kunyomi: なつ</span></span>
+    </span>
+  </summary>
+<p>夏 biasanya muncul di pengumuman sekolah, kalender, dan rencana perjalanan yang berkaitan dengan musim panas.</p><ul>
     <li><span class="ruby-word"><ruby>夏休<rt>なつやす</rt></ruby>み</span> - libur musim panas</li>
     <li><span class="ruby-word"><ruby>夏季<rt>かき</rt></ruby></span> - musim panas</li>
     <li><span class="ruby-word"><ruby>初夏<rt>しょか</rt></ruby></span> - awal musim panas</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">秋</span><span class="kanji-meta"><strong>秋</strong><small>musim gugur</small><span class="kanji-reading"><span>onyomi: シュウ</span><span>kunyomi: あき</span></span></span></summary><p>秋 menunjuk musim gugur dan sering muncul di kalender.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">秋</span>
+    <span class="kanji-meta">
+      <strong>musim gugur</strong>
+      <span class="kanji-reading"><span>onyomi: シュウ</span><span>kunyomi: あき</span></span>
+    </span>
+  </summary>
+<p>秋 menunjuk musim gugur dan sering muncul di kalender.</p><ul>
     <li><span class="ruby-word"><ruby>秋分<rt>しゅうぶん</rt></ruby></span> - ekuinoks musim gugur</li>
     <li><span class="ruby-word"><ruby>秋風<rt>あきかぜ</rt></ruby></span> - angin musim gugur</li>
     <li><span class="ruby-word"><ruby>秋<rt>あき</rt></ruby><ruby>学期<rt>がっき</rt></ruby></span> - semester gugur</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">冬</span><span class="kanji-meta"><strong>冬</strong><small>musim dingin</small><span class="kanji-reading"><span>onyomi: トウ</span><span>kunyomi: ふゆ</span></span></span></summary><p>冬 sering muncul pada liburan dan musim dingin.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">冬</span>
+    <span class="kanji-meta">
+      <strong>musim dingin</strong>
+      <span class="kanji-reading"><span>onyomi: トウ</span><span>kunyomi: ふゆ</span></span>
+    </span>
+  </summary>
+<p>冬 sering muncul pada liburan dan musim dingin.</p><ul>
     <li><span class="ruby-word"><ruby>冬休<rt>ふゆやす</rt></ruby>み</span> - libur musim dingin</li>
     <li><span class="ruby-word"><ruby>冬季<rt>とうき</rt></ruby></span> - musim dingin</li>
     <li><span class="ruby-word"><ruby>真冬<rt>まふゆ</rt></ruby></span> - tengah musim dingin</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">京</span><span class="kanji-meta"><strong>京</strong><small>ibu kota</small><span class="kanji-reading"><span>onyomi: キョウ、ケイ</span><span>kunyomi: -</span></span></span></summary><p>京 muncul dalam nama kota besar seperti Kyoto dan Tokyo.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">京</span>
+    <span class="kanji-meta">
+      <strong>ibu kota</strong>
+      <span class="kanji-reading"><span>onyomi: キョウ、ケイ</span><span>kunyomi: -</span></span>
+    </span>
+  </summary>
+<p>京 muncul dalam nama kota besar seperti Kyoto dan Tokyo.</p><ul>
     <li><span class="ruby-word"><ruby>京都<rt>きょうと</rt></ruby></span> - Kyoto</li>
     <li><span class="ruby-word"><ruby>東京<rt>とうきょう</rt></ruby></span> - Tokyo</li>
     <li><span class="ruby-word"><ruby>京阪<rt>けいはん</rt></ruby></span> - Kyoto-Osaka</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">都</span><span class="kanji-meta"><strong>都</strong><small>metropolis</small><span class="kanji-reading"><span>onyomi: ト、ツ</span><span>kunyomi: みやこ</span></span></span></summary><p>都 dipakai untuk metropolis dan juga kata seperti 都合.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">都</span>
+    <span class="kanji-meta">
+      <strong>metropolis</strong>
+      <span class="kanji-reading"><span>onyomi: ト、ツ</span><span>kunyomi: みやこ</span></span>
+    </span>
+  </summary>
+<p>都 dipakai untuk metropolis dan juga kata seperti 都合.</p><ul>
     <li><span class="ruby-word"><ruby>東京<rt>とうきょう</rt></ruby><ruby>都<rt>と</rt></ruby></span> - Tokyo Metropolis</li>
     <li><span class="ruby-word"><ruby>都合<rt>つごう</rt></ruby></span> - keadaan/jadwal</li>
     <li><span class="ruby-word"><ruby>都市<rt>とし</rt></ruby></span> - kota besar</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">府</span><span class="kanji-meta"><strong>府</strong><small>prefektur kota</small><span class="kanji-reading"><span>onyomi: フ</span><span>kunyomi: -</span></span></span></summary><p>府 muncul pada nama prefektur khusus seperti Osaka dan Kyoto.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">府</span>
+    <span class="kanji-meta">
+      <strong>prefektur kota</strong>
+      <span class="kanji-reading"><span>onyomi: フ</span><span>kunyomi: -</span></span>
+    </span>
+  </summary>
+<p>府 muncul pada nama prefektur khusus seperti Osaka dan Kyoto.</p><ul>
     <li><span class="ruby-word"><ruby>大阪<rt>おおさか</rt></ruby><ruby>府<rt>ふ</rt></ruby></span> - Prefektur Osaka</li>
     <li><span class="ruby-word"><ruby>京都<rt>きょうと</rt></ruby><ruby>府<rt>ふ</rt></ruby></span> - Prefektur Kyoto</li>
     <li><span class="ruby-word"><ruby>都道府県<rt>とどうふけん</rt></ruby></span> - pembagian prefektur Jepang</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">県</span><span class="kanji-meta"><strong>県</strong><small>prefektur</small><span class="kanji-reading"><span>onyomi: ケン</span><span>kunyomi: -</span></span></span></summary><p>県 adalah penanda prefektur biasa di alamat Jepang.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">県</span>
+    <span class="kanji-meta">
+      <strong>prefektur</strong>
+      <span class="kanji-reading"><span>onyomi: ケン</span><span>kunyomi: -</span></span>
+    </span>
+  </summary>
+<p>県 adalah penanda prefektur biasa di alamat Jepang.</p><ul>
     <li><span class="ruby-word"><ruby>青森<rt>あおもり</rt></ruby><ruby>県<rt>けん</rt></ruby></span> - Prefektur Aomori</li>
     <li><span class="ruby-word"><ruby>県庁<rt>けんちょう</rt></ruby></span> - kantor prefektur</li>
     <li><span class="ruby-word"><ruby>県民<rt>けんみん</rt></ruby></span> - warga prefektur</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">市</span><span class="kanji-meta"><strong>市</strong><small>kota, pasar</small><span class="kanji-reading"><span>onyomi: シ</span><span>kunyomi: いち</span></span></span></summary><p>市 muncul pada kota, warga kota, dan kantor kota.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">市</span>
+    <span class="kanji-meta">
+      <strong>kota, pasar</strong>
+      <span class="kanji-reading"><span>onyomi: シ</span><span>kunyomi: いち</span></span>
+    </span>
+  </summary>
+<p>市 muncul pada kota, warga kota, dan kantor kota.</p><ul>
     <li><span class="ruby-word"><ruby>市民<rt>しみん</rt></ruby></span> - warga kota</li>
     <li><span class="ruby-word"><ruby>市役所<rt>しやくしょ</rt></ruby></span> - balai kota</li>
     <li><span class="ruby-word"><ruby>市場<rt>しじょう</rt></ruby></span> - pasar</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">町</span><span class="kanji-meta"><strong>町</strong><small>kota kecil</small><span class="kanji-reading"><span>onyomi: チョウ</span><span>kunyomi: まち</span></span></span></summary><p>町 menunjuk kota kecil, distrik, atau lingkungan.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">町</span>
+    <span class="kanji-meta">
+      <strong>kota kecil</strong>
+      <span class="kanji-reading"><span>onyomi: チョウ</span><span>kunyomi: まち</span></span>
+    </span>
+  </summary>
+<p>町 menunjuk kota kecil, distrik, atau lingkungan.</p><ul>
     <li><span class="ruby-word"><ruby>町内<rt>ちょうない</rt></ruby></span> - dalam lingkungan</li>
     <li><span class="ruby-word"><ruby>町長<rt>ちょうちょう</rt></ruby></span> - kepala kota kecil</li>
     <li><span class="ruby-word"><ruby>下町<rt>したまち</rt></ruby></span> - area kota lama</li>

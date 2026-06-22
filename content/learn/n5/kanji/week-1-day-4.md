@@ -31,84 +31,182 @@ Di akhir pelajaran ini, kamu bisa membaca tanda sederhana seperti 駅, 入口, �
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 駅 | エキ | — | stasiun | 駅、駅前 |
-| 口 | コウ、ク | くち | mulut, pintu masuk/keluar | 口、入口 |
-| 出 | シュツ、スイ | でる、だす | keluar, mengeluarkan, berangkat | 出る、出す |
-| 入 | ニュウ | はいる、いれる | masuk, memasukkan | 入る、入口 |
-| 東 | トウ | ひがし | timur | 東京、東 |
-| 西 | セイ、サイ | にし | barat | 西、西口 |
-| 南 | ナン | みなみ | selatan | 南、南口 |
-| 北 | ホク | きた | utara | 北海道、北 |
-| 上 | ジョウ、ショウ | うえ、うわ、あがる、あげる | atas, naik, menaikkan | 上、上手な |
-| 下 | カ、ゲ | した、しも、さがる、さげる | bawah, turun, menurunkan | 下、下手な |
-| 左 | サ | ひだり | kiri | 左、左手 |
-| 右 | ウ、ユウ | みぎ | kanan | 右、右手 |
-| 外 | ガイ、ゲ | そと、はずれる | luar, asing | 外、外国 |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-  <details class="kanji-card" open><summary><span class="kanji-char">駅</span><span class="kanji-meta"><strong>駅</strong><small>stasiun</small><span class="kanji-reading"><span>onyomi: エキ</span><span>kunyomi: —</span></span></span></summary><p>駅 dipakai untuk stasiun dan area depan stasiun, sangat sering muncul pada peta dan papan arah.</p><ul>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">駅</span>
+    <span class="kanji-meta">
+      <strong>stasiun</strong>
+      <span class="kanji-reading"><span>onyomi: エキ</span><span>kunyomi: —</span></span>
+    </span>
+  </summary>
+<p>駅 dipakai untuk stasiun dan area depan stasiun, sangat sering muncul pada peta dan papan arah.</p><ul>
     <li><span class="ruby-word"><ruby>駅<rt>えき</rt></ruby></span> - stasiun</li>
     <li><span class="ruby-word"><ruby>駅前<rt>えきまえ</rt></ruby></span> - depan stasiun</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">口</span><span class="kanji-meta"><strong>口</strong><small>mulut, pintu</small><span class="kanji-reading"><span>onyomi: コウ、ク</span><span>kunyomi: くち</span></span></span></summary><p>口 berarti mulut, tetapi pada tanda tempat sering berarti pintu, gerbang, atau akses masuk-keluar.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">口</span>
+    <span class="kanji-meta">
+      <strong>mulut, pintu masuk/keluar</strong>
+      <span class="kanji-reading"><span>onyomi: コウ、ク</span><span>kunyomi: くち</span></span>
+    </span>
+  </summary>
+<p>口 berarti mulut, tetapi pada tanda tempat sering berarti pintu, gerbang, atau akses masuk-keluar.</p><ul>
     <li><span class="ruby-word"><ruby>口<rt>くち</rt></ruby></span> - mulut</li>
     <li><span class="ruby-word"><ruby>入口<rt>いりぐち</rt></ruby></span> - pintu masuk</li>
     <li><span class="ruby-word"><ruby>出口<rt>でぐち</rt></ruby></span> - pintu keluar</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">出</span><span class="kanji-meta"><strong>出</strong><small>keluar</small><span class="kanji-reading"><span>onyomi: シュツ、スイ</span><span>kunyomi: でる、だす</span></span></span></summary><p>出 dipakai untuk keluar, berangkat, atau mengeluarkan sesuatu dalam aktivitas harian.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">出</span>
+    <span class="kanji-meta">
+      <strong>keluar, mengeluarkan, berangkat</strong>
+      <span class="kanji-reading"><span>onyomi: シュツ、スイ</span><span>kunyomi: でる、だす</span></span>
+    </span>
+  </summary>
+<p>出 dipakai untuk keluar, berangkat, atau mengeluarkan sesuatu dalam aktivitas harian.</p><ul>
     <li><span class="ruby-word"><ruby>出る<rt>でる</rt></ruby></span> - keluar</li>
     <li><span class="ruby-word"><ruby>出す<rt>だす</rt></ruby></span> - mengeluarkan</li>
     <li><span class="ruby-word"><ruby>出かける<rt>でかける</rt></ruby></span> - pergi keluar</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">入</span><span class="kanji-meta"><strong>入</strong><small>masuk</small><span class="kanji-reading"><span>onyomi: ニュウ</span><span>kunyomi: はいる、いれる</span></span></span></summary><p>入 dipakai untuk masuk atau memasukkan sesuatu, terutama pada tanda pintu masuk.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">入</span>
+    <span class="kanji-meta">
+      <strong>masuk, memasukkan</strong>
+      <span class="kanji-reading"><span>onyomi: ニュウ</span><span>kunyomi: はいる、いれる</span></span>
+    </span>
+  </summary>
+<p>入 dipakai untuk masuk atau memasukkan sesuatu, terutama pada tanda pintu masuk.</p><ul>
     <li><span class="ruby-word"><ruby>入る<rt>はいる</rt></ruby></span> - masuk</li>
     <li><span class="ruby-word"><ruby>入口<rt>いりぐち</rt></ruby></span> - pintu masuk</li>
     <li><span class="ruby-word"><ruby>入れる<rt>いれる</rt></ruby></span> - memasukkan</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">東</span><span class="kanji-meta"><strong>東</strong><small>timur</small><span class="kanji-reading"><span>onyomi: トウ</span><span>kunyomi: ひがし</span></span></span></summary><p>東 berarti timur dan sering muncul pada nama tempat atau tanda pintu stasiun.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">東</span>
+    <span class="kanji-meta">
+      <strong>timur</strong>
+      <span class="kanji-reading"><span>onyomi: トウ</span><span>kunyomi: ひがし</span></span>
+    </span>
+  </summary>
+<p>東 berarti timur dan sering muncul pada nama tempat atau tanda pintu stasiun.</p><ul>
     <li><span class="ruby-word"><ruby>東京<rt>とうきょう</rt></ruby></span> - Tokyo</li>
     <li><span class="ruby-word"><ruby>東<rt>ひがし</rt></ruby></span> - timur</li>
     <li><span class="ruby-word"><ruby>東口<rt>ひがしぐち</rt></ruby></span> - pintu timur</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">西</span><span class="kanji-meta"><strong>西</strong><small>barat</small><span class="kanji-reading"><span>onyomi: セイ、サイ</span><span>kunyomi: にし</span></span></span></summary><p>西 berarti barat dan sering muncul pada tanda pintu stasiun atau arah di peta.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">西</span>
+    <span class="kanji-meta">
+      <strong>barat</strong>
+      <span class="kanji-reading"><span>onyomi: セイ、サイ</span><span>kunyomi: にし</span></span>
+    </span>
+  </summary>
+<p>西 berarti barat dan sering muncul pada tanda pintu stasiun atau arah di peta.</p><ul>
     <li><span class="ruby-word"><ruby>西<rt>にし</rt></ruby></span> - barat</li>
     <li><span class="ruby-word"><ruby>西口<rt>にしぐち</rt></ruby></span> - pintu barat</li>
     <li><span class="ruby-word"><ruby>西洋<rt>せいよう</rt></ruby></span> - Barat</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">南</span><span class="kanji-meta"><strong>南</strong><small>selatan</small><span class="kanji-reading"><span>onyomi: ナン</span><span>kunyomi: みなみ</span></span></span></summary><p>南 berarti selatan dan membantu membaca arah pada peta, stasiun, atau pintu gedung.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">南</span>
+    <span class="kanji-meta">
+      <strong>selatan</strong>
+      <span class="kanji-reading"><span>onyomi: ナン</span><span>kunyomi: みなみ</span></span>
+    </span>
+  </summary>
+<p>南 berarti selatan dan membantu membaca arah pada peta, stasiun, atau pintu gedung.</p><ul>
     <li><span class="ruby-word"><ruby>南<rt>みなみ</rt></ruby></span> - selatan</li>
     <li><span class="ruby-word"><ruby>南口<rt>みなみぐち</rt></ruby></span> - pintu selatan</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">北</span><span class="kanji-meta"><strong>北</strong><small>utara</small><span class="kanji-reading"><span>onyomi: ホク</span><span>kunyomi: きた</span></span></span></summary><p>北 berarti utara dan muncul pada nama tempat serta tanda arah di stasiun atau peta.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">北</span>
+    <span class="kanji-meta">
+      <strong>utara</strong>
+      <span class="kanji-reading"><span>onyomi: ホク</span><span>kunyomi: きた</span></span>
+    </span>
+  </summary>
+<p>北 berarti utara dan muncul pada nama tempat serta tanda arah di stasiun atau peta.</p><ul>
     <li><span class="ruby-word"><ruby>北海道<rt>ほっかいどう</rt></ruby></span> - Hokkaido</li>
     <li><span class="ruby-word"><ruby>北<rt>きた</rt></ruby></span> - utara</li>
     <li><span class="ruby-word"><ruby>北口<rt>きたぐち</rt></ruby></span> - pintu utara</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">上</span><span class="kanji-meta"><strong>上</strong><small>atas, naik</small><span class="kanji-reading"><span>onyomi: ジョウ、ショウ</span><span>kunyomi: うえ、うわ、あがる、あげる</span></span></span></summary><p>上 dipakai untuk posisi atas dan juga kata sifat 上手な yang berarti pandai atau mahir.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">上</span>
+    <span class="kanji-meta">
+      <strong>atas, naik, menaikkan</strong>
+      <span class="kanji-reading"><span>onyomi: ジョウ、ショウ</span><span>kunyomi: うえ、うわ、あがる、あげる</span></span>
+    </span>
+  </summary>
+<p>上 dipakai untuk posisi atas dan juga kata sifat 上手な yang berarti pandai atau mahir.</p><ul>
     <li><span class="ruby-word"><ruby>上<rt>うえ</rt></ruby></span> - atas</li>
     <li><span class="ruby-word"><ruby>上手な<rt>じょうずな</rt></ruby></span> - pandai, mahir</li>
     <li><span class="ruby-word"><ruby>上着<rt>うわぎ</rt></ruby></span> - jaket, pakaian luar</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">下</span><span class="kanji-meta"><strong>下</strong><small>bawah, turun</small><span class="kanji-reading"><span>onyomi: カ、ゲ</span><span>kunyomi: した、しも、さがる、さげる</span></span></span></summary><p>下 dipakai untuk posisi bawah dan juga kata 下手な yang berarti kurang pandai.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">下</span>
+    <span class="kanji-meta">
+      <strong>bawah, turun, menurunkan</strong>
+      <span class="kanji-reading"><span>onyomi: カ、ゲ</span><span>kunyomi: した、しも、さがる、さげる</span></span>
+    </span>
+  </summary>
+<p>下 dipakai untuk posisi bawah dan juga kata 下手な yang berarti kurang pandai.</p><ul>
     <li><span class="ruby-word"><ruby>下<rt>した</rt></ruby></span> - bawah</li>
     <li><span class="ruby-word"><ruby>下手な<rt>へたな</rt></ruby></span> - kurang pandai</li>
     <li><span class="ruby-word"><ruby>地下鉄<rt>ちかてつ</rt></ruby></span> - kereta bawah tanah</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">左</span><span class="kanji-meta"><strong>左</strong><small>kiri</small><span class="kanji-reading"><span>onyomi: サ</span><span>kunyomi: ひだり</span></span></span></summary><p>左 berarti kiri dan sering muncul pada petunjuk arah atau bagian tubuh seperti tangan kiri.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">左</span>
+    <span class="kanji-meta">
+      <strong>kiri</strong>
+      <span class="kanji-reading"><span>onyomi: サ</span><span>kunyomi: ひだり</span></span>
+    </span>
+  </summary>
+<p>左 berarti kiri dan sering muncul pada petunjuk arah atau bagian tubuh seperti tangan kiri.</p><ul>
     <li><span class="ruby-word"><ruby>左<rt>ひだり</rt></ruby></span> - kiri</li>
     <li><span class="ruby-word"><ruby>左手<rt>ひだりて</rt></ruby></span> - tangan kiri</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">右</span><span class="kanji-meta"><strong>右</strong><small>kanan</small><span class="kanji-reading"><span>onyomi: ウ、ユウ</span><span>kunyomi: みぎ</span></span></span></summary><p>右 berarti kanan dan sering muncul pada petunjuk arah atau bagian tubuh seperti tangan kanan.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">右</span>
+    <span class="kanji-meta">
+      <strong>kanan</strong>
+      <span class="kanji-reading"><span>onyomi: ウ、ユウ</span><span>kunyomi: みぎ</span></span>
+    </span>
+  </summary>
+<p>右 berarti kanan dan sering muncul pada petunjuk arah atau bagian tubuh seperti tangan kanan.</p><ul>
     <li><span class="ruby-word"><ruby>右<rt>みぎ</rt></ruby></span> - kanan</li>
     <li><span class="ruby-word"><ruby>右手<rt>みぎて</rt></ruby></span> - tangan kanan</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">外</span><span class="kanji-meta"><strong>外</strong><small>luar, asing</small><span class="kanji-reading"><span>onyomi: ガイ、ゲ</span><span>kunyomi: そと、はずれる</span></span></span></summary><p>外 berarti luar dan muncul pada kata asing atau luar negeri dalam tanda dan perkenalan.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">外</span>
+    <span class="kanji-meta">
+      <strong>luar, asing</strong>
+      <span class="kanji-reading"><span>onyomi: ガイ、ゲ</span><span>kunyomi: そと、はずれる</span></span>
+    </span>
+  </summary>
+<p>外 berarti luar dan muncul pada kata asing atau luar negeri dalam tanda dan perkenalan.</p><ul>
     <li><span class="ruby-word"><ruby>外<rt>そと</rt></ruby></span> - luar</li>
     <li><span class="ruby-word"><ruby>外国<rt>がいこく</rt></ruby></span> - luar negeri</li>
     <li><span class="ruby-word"><ruby>外国人<rt>がいこくじん</rt></ruby></span> - orang asing</li>

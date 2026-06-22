@@ -31,99 +31,221 @@ Di akhir pelajaran ini, kamu bisa membaca kata pendek seperti 先生, 学生, �
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 先 | セン | さき | sebelumnya, depan, lebih dulu | 先生、先月 |
-| 生 | セイ、ショウ | いきる、うまれる | hidup, lahir, murid | 先生、生徒 |
-| 学 | ガク | まなぶ | belajar, pembelajaran, sekolah | 学生、学校 |
-| 人 | ジン、ニン | ひと | orang, manusia | 日本人、外国人 |
-| 国 | コク | くに | negara, bangsa | 外国、国 |
-| 男 | ダン、ナン | おとこ | laki-laki, pria | 男の人、男の子 |
-| 女 | ジョ、ニョ | おんな | perempuan, wanita | 女の人、女の子 |
-| 子 | シ、ス | こ | anak | 子ども、男の子 |
-| 友 | ユウ | とも | teman | 友だち、友人 |
-| 父 | フ | ちち | ayah | 父、お父さん |
-| 母 | ボ | はは | ibu | 母、お母さん |
-| 名 | メイ、ミョウ | な | nama, terkenal | 名前、有名な |
-| 田 | デン | た | sawah, unsur nama keluarga | 田中さん、山田さん |
-| 山 | サン | やま | gunung | 山、富士山 |
-| 語 | ゴ | かたる | bahasa, kata, bercerita | 日本語、英語 |
-| 本 | ホン | もと | buku, asal, satuan benda panjang | 本、日本 |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-  <details class="kanji-card" open><summary><span class="kanji-char">先</span><span class="kanji-meta"><strong>先</strong><small>sebelumnya, depan, lebih dulu</small><span class="kanji-reading"><span>onyomi: セン</span><span>kunyomi: さき</span></span></span></summary><p>先 dipakai saat membaca urutan waktu atau posisi yang lebih dulu, seperti bulan lalu atau melakukan sesuatu lebih dahulu.</p><ul>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">先</span>
+    <span class="kanji-meta">
+      <strong>sebelumnya, depan, lebih dulu</strong>
+      <span class="kanji-reading"><span>onyomi: セン</span><span>kunyomi: さき</span></span>
+    </span>
+  </summary>
+<p>先 dipakai saat membaca urutan waktu atau posisi yang lebih dulu, seperti bulan lalu atau melakukan sesuatu lebih dahulu.</p><ul>
     <li><span class="ruby-word"><ruby>先生<rt>せんせい</rt></ruby></span> - guru</li>
     <li><span class="ruby-word"><ruby>先月<rt>せんげつ</rt></ruby></span> - bulan lalu</li>
     <li><span class="ruby-word"><ruby>先に<rt>さきに</rt></ruby></span> - lebih dulu</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">生</span><span class="kanji-meta"><strong>生</strong><small>hidup, lahir, murid</small><span class="kanji-reading"><span>onyomi: セイ、ショウ</span><span>kunyomi: いきる、うまれる</span></span></span></summary><p>生 sering muncul saat membaca kata tentang kehidupan, kelahiran, atau status murid di sekolah dasar.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">生</span>
+    <span class="kanji-meta">
+      <strong>hidup, lahir, murid</strong>
+      <span class="kanji-reading"><span>onyomi: セイ、ショウ</span><span>kunyomi: いきる、うまれる</span></span>
+    </span>
+  </summary>
+<p>生 sering muncul saat membaca kata tentang kehidupan, kelahiran, atau status murid di sekolah dasar.</p><ul>
     <li><span class="ruby-word"><ruby>先生<rt>せんせい</rt></ruby></span> - guru</li>
     <li><span class="ruby-word"><ruby>生徒<rt>せいと</rt></ruby></span> - murid</li>
     <li><span class="ruby-word"><ruby>生活<rt>せいかつ</rt></ruby></span> - kehidupan sehari-hari</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">学</span><span class="kanji-meta"><strong>学</strong><small>belajar, sekolah</small><span class="kanji-reading"><span>onyomi: ガク</span><span>kunyomi: まなぶ</span></span></span></summary><p>学 membantu membaca kata sekolah dan belajar, terutama saat melihat profil pelajar atau nama sekolah.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">学</span>
+    <span class="kanji-meta">
+      <strong>belajar, pembelajaran, sekolah</strong>
+      <span class="kanji-reading"><span>onyomi: ガク</span><span>kunyomi: まなぶ</span></span>
+    </span>
+  </summary>
+<p>学 membantu membaca kata sekolah dan belajar, terutama saat melihat profil pelajar atau nama sekolah.</p><ul>
     <li><span class="ruby-word"><ruby>学生<rt>がくせい</rt></ruby></span> - pelajar, mahasiswa</li>
     <li><span class="ruby-word"><ruby>学校<rt>がっこう</rt></ruby></span> - sekolah</li>
     <li><span class="ruby-word"><ruby>大学<rt>だいがく</rt></ruby></span> - universitas</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">人</span><span class="kanji-meta"><strong>人</strong><small>orang, manusia</small><span class="kanji-reading"><span>onyomi: ジン、ニン</span><span>kunyomi: ひと</span></span></span></summary><p>人 dipakai untuk orang, jumlah orang, dan kewarganegaraan ketika membaca perkenalan sederhana.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">人</span>
+    <span class="kanji-meta">
+      <strong>orang, manusia</strong>
+      <span class="kanji-reading"><span>onyomi: ジン、ニン</span><span>kunyomi: ひと</span></span>
+    </span>
+  </summary>
+<p>人 dipakai untuk orang, jumlah orang, dan kewarganegaraan ketika membaca perkenalan sederhana.</p><ul>
     <li><span class="ruby-word"><ruby>日本人<rt>にほんじん</rt></ruby></span> - orang Jepang</li>
     <li><span class="ruby-word"><ruby>外国人<rt>がいこくじん</rt></ruby></span> - orang asing</li>
     <li><span class="ruby-word"><ruby>一人<rt>ひとり</rt></ruby></span> - satu orang</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">国</span><span class="kanji-meta"><strong>国</strong><small>negara, bangsa</small><span class="kanji-reading"><span>onyomi: コク</span><span>kunyomi: くに</span></span></span></summary><p>国 muncul saat membicarakan negara, asal seseorang, atau luar negeri dalam profil dan percakapan awal.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">国</span>
+    <span class="kanji-meta">
+      <strong>negara, bangsa</strong>
+      <span class="kanji-reading"><span>onyomi: コク</span><span>kunyomi: くに</span></span>
+    </span>
+  </summary>
+<p>国 muncul saat membicarakan negara, asal seseorang, atau luar negeri dalam profil dan percakapan awal.</p><ul>
     <li><span class="ruby-word"><ruby>外国<rt>がいこく</rt></ruby></span> - luar negeri</li>
     <li><span class="ruby-word"><ruby>国<rt>くに</rt></ruby></span> - negara</li>
     <li><span class="ruby-word"><ruby>日本国<rt>にほんこく</rt></ruby></span> - negara Jepang</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">男</span><span class="kanji-meta"><strong>男</strong><small>laki-laki, pria</small><span class="kanji-reading"><span>onyomi: ダン、ナン</span><span>kunyomi: おとこ</span></span></span></summary><p>男 dipakai untuk laki-laki atau anak laki-laki saat membaca deskripsi orang dan keluarga.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">男</span>
+    <span class="kanji-meta">
+      <strong>laki-laki, pria</strong>
+      <span class="kanji-reading"><span>onyomi: ダン、ナン</span><span>kunyomi: おとこ</span></span>
+    </span>
+  </summary>
+<p>男 dipakai untuk laki-laki atau anak laki-laki saat membaca deskripsi orang dan keluarga.</p><ul>
     <li><span class="ruby-word"><ruby>男の人<rt>おとこのひと</rt></ruby></span> - laki-laki, pria</li>
     <li><span class="ruby-word"><ruby>男の子<rt>おとこのこ</rt></ruby></span> - anak laki-laki</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">女</span><span class="kanji-meta"><strong>女</strong><small>perempuan, wanita</small><span class="kanji-reading"><span>onyomi: ジョ、ニョ</span><span>kunyomi: おんな</span></span></span></summary><p>女 dipakai untuk perempuan, wanita, atau anak perempuan saat membaca deskripsi orang dan keluarga.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">女</span>
+    <span class="kanji-meta">
+      <strong>perempuan, wanita</strong>
+      <span class="kanji-reading"><span>onyomi: ジョ、ニョ</span><span>kunyomi: おんな</span></span>
+    </span>
+  </summary>
+<p>女 dipakai untuk perempuan, wanita, atau anak perempuan saat membaca deskripsi orang dan keluarga.</p><ul>
     <li><span class="ruby-word"><ruby>女の人<rt>おんなのひと</rt></ruby></span> - perempuan, wanita</li>
     <li><span class="ruby-word"><ruby>女の子<rt>おんなのこ</rt></ruby></span> - anak perempuan</li>
     <li><span class="ruby-word"><ruby>彼女<rt>かのじょ</rt></ruby></span> - dia perempuan, pacar perempuan</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">子</span><span class="kanji-meta"><strong>子</strong><small>anak</small><span class="kanji-reading"><span>onyomi: シ、ス</span><span>kunyomi: こ</span></span></span></summary><p>子 adalah kanji dasar untuk anak dan sering muncul dalam kata keluarga atau deskripsi anak.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">子</span>
+    <span class="kanji-meta">
+      <strong>anak</strong>
+      <span class="kanji-reading"><span>onyomi: シ、ス</span><span>kunyomi: こ</span></span>
+    </span>
+  </summary>
+<p>子 adalah kanji dasar untuk anak dan sering muncul dalam kata keluarga atau deskripsi anak.</p><ul>
     <li><span class="ruby-word"><ruby>子ども<rt>こども</rt></ruby></span> - anak</li>
     <li><span class="ruby-word"><ruby>男の子<rt>おとこのこ</rt></ruby></span> - anak laki-laki</li>
     <li><span class="ruby-word"><ruby>女の子<rt>おんなのこ</rt></ruby></span> - anak perempuan</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">友</span><span class="kanji-meta"><strong>友</strong><small>teman</small><span class="kanji-reading"><span>onyomi: ユウ</span><span>kunyomi: とも</span></span></span></summary><p>友 dipakai untuk teman dalam perkenalan, daftar kontak, atau cerita pendek tentang orang dekat.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">友</span>
+    <span class="kanji-meta">
+      <strong>teman</strong>
+      <span class="kanji-reading"><span>onyomi: ユウ</span><span>kunyomi: とも</span></span>
+    </span>
+  </summary>
+<p>友 dipakai untuk teman dalam perkenalan, daftar kontak, atau cerita pendek tentang orang dekat.</p><ul>
     <li><span class="ruby-word"><ruby>友だち<rt>ともだち</rt></ruby></span> - teman</li>
     <li><span class="ruby-word"><ruby>友人<rt>ゆうじん</rt></ruby></span> - teman</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">父</span><span class="kanji-meta"><strong>父</strong><small>ayah</small><span class="kanji-reading"><span>onyomi: フ</span><span>kunyomi: ちち</span></span></span></summary><p>父 dipakai untuk ayah, terutama saat menyebut keluarga sendiri atau membaca kata keluarga sederhana.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">父</span>
+    <span class="kanji-meta">
+      <strong>ayah</strong>
+      <span class="kanji-reading"><span>onyomi: フ</span><span>kunyomi: ちち</span></span>
+    </span>
+  </summary>
+<p>父 dipakai untuk ayah, terutama saat menyebut keluarga sendiri atau membaca kata keluarga sederhana.</p><ul>
     <li><span class="ruby-word"><ruby>父<rt>ちち</rt></ruby></span> - ayah saya</li>
     <li><span class="ruby-word"><ruby>お父さん<rt>おとうさん</rt></ruby></span> - ayah, bapak</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">母</span><span class="kanji-meta"><strong>母</strong><small>ibu</small><span class="kanji-reading"><span>onyomi: ボ</span><span>kunyomi: はは</span></span></span></summary><p>母 dipakai untuk ibu, terutama saat menyebut keluarga sendiri atau membaca kata keluarga sederhana.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">母</span>
+    <span class="kanji-meta">
+      <strong>ibu</strong>
+      <span class="kanji-reading"><span>onyomi: ボ</span><span>kunyomi: はは</span></span>
+    </span>
+  </summary>
+<p>母 dipakai untuk ibu, terutama saat menyebut keluarga sendiri atau membaca kata keluarga sederhana.</p><ul>
     <li><span class="ruby-word"><ruby>母<rt>はは</rt></ruby></span> - ibu saya</li>
     <li><span class="ruby-word"><ruby>お母さん<rt>おかあさん</rt></ruby></span> - ibu</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">名</span><span class="kanji-meta"><strong>名</strong><small>nama, terkenal</small><span class="kanji-reading"><span>onyomi: メイ、ミョウ</span><span>kunyomi: な</span></span></span></summary><p>名 muncul dalam kata tentang nama dan sesuatu yang terkenal saat membaca profil atau label orang.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">名</span>
+    <span class="kanji-meta">
+      <strong>nama, terkenal</strong>
+      <span class="kanji-reading"><span>onyomi: メイ、ミョウ</span><span>kunyomi: な</span></span>
+    </span>
+  </summary>
+<p>名 muncul dalam kata tentang nama dan sesuatu yang terkenal saat membaca profil atau label orang.</p><ul>
     <li><span class="ruby-word"><ruby>名前<rt>なまえ</rt></ruby></span> - nama</li>
     <li><span class="ruby-word"><ruby>有名な<rt>ゆうめいな</rt></ruby></span> - terkenal</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">田</span><span class="kanji-meta"><strong>田</strong><small>sawah, unsur nama keluarga</small><span class="kanji-reading"><span>onyomi: デン</span><span>kunyomi: た</span></span></span></summary><p>田 berarti sawah dan sering muncul dalam nama keluarga Jepang, jadi berguna saat membaca nama orang.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">田</span>
+    <span class="kanji-meta">
+      <strong>sawah, unsur nama keluarga</strong>
+      <span class="kanji-reading"><span>onyomi: デン</span><span>kunyomi: た</span></span>
+    </span>
+  </summary>
+<p>田 berarti sawah dan sering muncul dalam nama keluarga Jepang, jadi berguna saat membaca nama orang.</p><ul>
     <li><span class="ruby-word"><ruby>田中さん<rt>たなかさん</rt></ruby></span> - Tuan/Nona Tanaka</li>
     <li><span class="ruby-word"><ruby>山田さん<rt>やまださん</rt></ruby></span> - Tuan/Nona Yamada</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">山</span><span class="kanji-meta"><strong>山</strong><small>gunung</small><span class="kanji-reading"><span>onyomi: サン</span><span>kunyomi: やま</span></span></span></summary><p>山 dipakai untuk gunung dan juga sering muncul dalam nama tempat atau nama keluarga Jepang.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">山</span>
+    <span class="kanji-meta">
+      <strong>gunung</strong>
+      <span class="kanji-reading"><span>onyomi: サン</span><span>kunyomi: やま</span></span>
+    </span>
+  </summary>
+<p>山 dipakai untuk gunung dan juga sering muncul dalam nama tempat atau nama keluarga Jepang.</p><ul>
     <li><span class="ruby-word"><ruby>山<rt>やま</rt></ruby></span> - gunung</li>
     <li><span class="ruby-word"><ruby>富士山<rt>ふじさん</rt></ruby></span> - Gunung Fuji</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">語</span><span class="kanji-meta"><strong>語</strong><small>bahasa, kata</small><span class="kanji-reading"><span>onyomi: ゴ</span><span>kunyomi: かたる</span></span></span></summary><p>語 sering muncul pada nama bahasa, terutama saat membaca pelajaran, formulir, atau profil belajar.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">語</span>
+    <span class="kanji-meta">
+      <strong>bahasa, kata, bercerita</strong>
+      <span class="kanji-reading"><span>onyomi: ゴ</span><span>kunyomi: かたる</span></span>
+    </span>
+  </summary>
+<p>語 sering muncul pada nama bahasa, terutama saat membaca pelajaran, formulir, atau profil belajar.</p><ul>
     <li><span class="ruby-word"><ruby>日本語<rt>にほんご</rt></ruby></span> - bahasa Jepang</li>
     <li><span class="ruby-word"><ruby>英語<rt>えいご</rt></ruby></span> - bahasa Inggris</li>
     <li><span class="ruby-word"><ruby>何語<rt>なにご</rt></ruby></span> - bahasa apa</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">本</span><span class="kanji-meta"><strong>本</strong><small>buku, asal, satuan benda panjang</small><span class="kanji-reading"><span>onyomi: ホン</span><span>kunyomi: もと</span></span></span></summary><p>本 berarti buku, tetapi juga muncul pada 日本 dan satuan benda panjang dalam kelas pemula.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">本</span>
+    <span class="kanji-meta">
+      <strong>buku, asal, satuan benda panjang</strong>
+      <span class="kanji-reading"><span>onyomi: ホン</span><span>kunyomi: もと</span></span>
+    </span>
+  </summary>
+<p>本 berarti buku, tetapi juga muncul pada 日本 dan satuan benda panjang dalam kelas pemula.</p><ul>
     <li><span class="ruby-word"><ruby>本<rt>ほん</rt></ruby></span> - buku</li>
     <li><span class="ruby-word"><ruby>日本<rt>にほん</rt></ruby></span> - Jepang</li>
     <li><span class="ruby-word"><ruby>〜本<rt>ほん</rt></ruby></span> - satuan benda panjang</li>

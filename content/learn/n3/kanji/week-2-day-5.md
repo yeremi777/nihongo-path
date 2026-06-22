@@ -31,29 +31,15 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 受付, 内科
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 受 | ジュ | うける | menerima, menjalani | 受信, 受ける, 受験 |
-| 付 | - | つける, つく | menempel, melekat, melampirkan | 受付, 付ける, 片付ける |
-| 科 | カ | - | departemen, bidang | 内科, 外科, 教科書 |
-| 鼻 | ビ | はな | hidung | 耳鼻科, 鼻 |
-| 婦 | フ | - | wanita, istri | 婦人, 主婦, 産婦人科 |
-| 形 | ケイ, ギョウ | かたち | bentuk | 形式, 整形外科, 形 |
-| 骨 | コツ | ほね | tulang | 骨折, 骨 |
-| 折 | セツ | おる, おれる | melipat, patah, belok | 骨折, 折る, 折れる |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-<details class="kanji-card" open>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">受</span>
     <span class="kanji-meta">
-      <strong>受</strong>
-      <small>menerima, menjalani</small>
-      <span class="kanji-reading"><span>onyomi: ジュ</span>
+      <strong>menerima, menjalani</strong>
+      <span class="kanji-reading"><span>onyomi: ジュ</span><span>kunyomi: うける</span></span>
     </span>
   </summary>
   <p>受 memberi rasa menerima layanan, informasi, atau menjalani sesuatu. Dalam rumah sakit, sering muncul di 受付.</p>
@@ -64,13 +50,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">付</span>
     <span class="kanji-meta">
-      <strong>付</strong>
-      <small>menempel, melekat, melampirkan</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>menempel, melekat, melampirkan</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: つける, つく</span></span>
     </span>
   </summary>
   <p>付 memberi rasa menempel atau menerima pada tempat tertentu. Dalam 受付, artinya meja penerimaan.</p>
@@ -81,13 +66,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">科</span>
     <span class="kanji-meta">
-      <strong>科</strong>
-      <small>departemen, bidang</small>
-      <span class="kanji-reading"><span>onyomi: カ</span>
+      <strong>departemen, bidang</strong>
+      <span class="kanji-reading"><span>onyomi: カ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>科 menandai bidang pelajaran atau departemen medis. Di rumah sakit, cari kata sebelum 科 untuk tahu polinya.</p>
@@ -98,13 +82,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">鼻</span>
     <span class="kanji-meta">
-      <strong>鼻</strong>
-      <small>hidung</small>
-      <span class="kanji-reading"><span>onyomi: ビ</span>
+      <strong>hidung</strong>
+      <span class="kanji-reading"><span>onyomi: ビ</span><span>kunyomi: はな</span></span>
     </span>
   </summary>
   <p>鼻 menunjuk hidung. Dalam 耳鼻科, ia membantu mengenali poli THT.</p>
@@ -114,13 +97,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">婦</span>
     <span class="kanji-meta">
-      <strong>婦</strong>
-      <small>wanita, istri</small>
-      <span class="kanji-reading"><span>onyomi: フ</span>
+      <strong>wanita, istri</strong>
+      <span class="kanji-reading"><span>onyomi: フ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>婦 muncul pada kata tentang wanita atau ibu rumah tangga. Dalam 産婦人科, ini bagian dari nama poli.</p>
@@ -131,13 +113,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">形</span>
     <span class="kanji-meta">
-      <strong>形</strong>
-      <small>bentuk</small>
-      <span class="kanji-reading"><span>onyomi: ケイ, ギョウ</span>
+      <strong>bentuk</strong>
+      <span class="kanji-reading"><span>onyomi: ケイ, ギョウ</span><span>kunyomi: かたち</span></span>
     </span>
   </summary>
   <p>形 berarti bentuk. Dalam 整形外科, artinya terkait perbaikan bentuk/struktur tubuh.</p>
@@ -148,13 +129,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">骨</span>
     <span class="kanji-meta">
-      <strong>骨</strong>
-      <small>tulang</small>
-      <span class="kanji-reading"><span>onyomi: コツ</span>
+      <strong>tulang</strong>
+      <span class="kanji-reading"><span>onyomi: コツ</span><span>kunyomi: ほね</span></span>
     </span>
   </summary>
   <p>骨 menunjuk tulang atau kerangka. Dalam keluhan medis, 骨折 adalah kata utama.</p>
@@ -164,13 +144,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">折</span>
     <span class="kanji-meta">
-      <strong>折</strong>
-      <small>melipat, patah, belok</small>
-      <span class="kanji-reading"><span>onyomi: セツ</span>
+      <strong>melipat, patah, belok</strong>
+      <span class="kanji-reading"><span>onyomi: セツ</span><span>kunyomi: おる, おれる</span></span>
     </span>
   </summary>
   <p>折 punya rasa melipat atau patah. Di rumah sakit, fokusnya 骨折.</p>
@@ -181,6 +160,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 </div>
+
 ## Peta Kata
 
 Kata-kata hari ini mengikuti alur rumah sakit. 受付 adalah tempat pertama, 科 menunjukkan departemen, 鼻・婦・形・骨・折 membantu mengenali poli atau keluhan tertentu.

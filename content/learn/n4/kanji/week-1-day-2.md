@@ -31,69 +31,143 @@ Di akhir pelajaran ini, kamu bisa membaca kata seperti 同時, 何回, 毎晩, �
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 同 | ドウ | おなじ | sama | 同じ、同時、同級生 |
-| 回 | カイ | まわる、まわす | kali, berputar | 一回、何回、回る |
-| 晩 | バン | - | malam, petang | 今晩、毎晩 |
-| 勉 | ベン | - | belajar tekun | 勉強する |
-| 進 | シン | すすむ、すすめる | maju | 進む、進める |
-| 集 | シュウ | あつまる、あつめる | berkumpul | 集まる、集める |
-| 文 | ブン、モン | - | kalimat, tulisan | 文、文章 |
-| 作 | サク、サ | つくる | membuat | 作文、作る |
-| 使 | シ | つかう | menggunakan | 大使館、使う |
-| 便 | ベン、ビン | たより | praktis, pos, layanan | 便利、郵便局、航空便 |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-  <details class="kanji-card" open><summary><span class="kanji-char">同</span><span class="kanji-meta"><strong>同</strong><small>sama</small><span class="kanji-reading"><span>onyomi: ドウ</span><span>kunyomi: おなじ</span></span></span></summary><p>同 menandai kesamaan waktu, kelas, atau kondisi.</p><ul>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">同</span>
+    <span class="kanji-meta">
+      <strong>sama</strong>
+      <span class="kanji-reading"><span>onyomi: ドウ</span><span>kunyomi: おなじ</span></span>
+    </span>
+  </summary>
+<p>同 menandai kesamaan waktu, kelas, atau kondisi.</p><ul>
     <li><span class="ruby-word"><ruby>同時<rt>どうじ</rt></ruby></span> - bersamaan</li>
     <li><span class="ruby-word"><ruby>同級生<rt>どうきゅうせい</rt></ruby></span> - teman sekelas</li>
     <li><span class="ruby-word"><ruby>同意<rt>どうい</rt></ruby></span> - persetujuan</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">回</span><span class="kanji-meta"><strong>回</strong><small>kali, berputar</small><span class="kanji-reading"><span>onyomi: カイ</span><span>kunyomi: まわる、まわす</span></span></span></summary><p>Saat melihat 回 setelah angka atau 何, baca sebagai jumlah frekuensi dalam jadwal, latihan, atau instruksi.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">回</span>
+    <span class="kanji-meta">
+      <strong>kali, berputar</strong>
+      <span class="kanji-reading"><span>onyomi: カイ</span><span>kunyomi: まわる、まわす</span></span>
+    </span>
+  </summary>
+<p>Saat melihat 回 setelah angka atau 何, baca sebagai jumlah frekuensi dalam jadwal, latihan, atau instruksi.</p><ul>
     <li><span class="ruby-word"><ruby>一<rt>いち</rt></ruby><ruby>回<rt>かい</rt></ruby></span> - satu kali</li>
     <li><span class="ruby-word"><ruby>何<rt>なん</rt></ruby><ruby>回<rt>かい</rt></ruby></span> - berapa kali</li>
     <li><span class="ruby-word"><ruby>今回<rt>こんかい</rt></ruby></span> - kali ini</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">晩</span><span class="kanji-meta"><strong>晩</strong><small>malam</small><span class="kanji-reading"><span>onyomi: バン</span><span>kunyomi: -</span></span></span></summary><p>晩 dipakai untuk malam dalam percakapan harian.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">晩</span>
+    <span class="kanji-meta">
+      <strong>malam, petang</strong>
+      <span class="kanji-reading"><span>onyomi: バン</span><span>kunyomi: -</span></span>
+    </span>
+  </summary>
+<p>晩 dipakai untuk malam dalam percakapan harian.</p><ul>
     <li><span class="ruby-word"><ruby>今晩<rt>こんばん</rt></ruby></span> - malam ini</li>
     <li><span class="ruby-word"><ruby>毎晩<rt>まいばん</rt></ruby></span> - setiap malam</li>
     <li><span class="ruby-word"><ruby>晩<rt>ばん</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby></span> - makan malam</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">勉</span><span class="kanji-meta"><strong>勉</strong><small>usaha belajar</small><span class="kanji-reading"><span>onyomi: ベン</span><span>kunyomi: -</span></span></span></summary><p>勉 hampir selalu muncul dalam kata belajar pada level ini.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">勉</span>
+    <span class="kanji-meta">
+      <strong>belajar tekun</strong>
+      <span class="kanji-reading"><span>onyomi: ベン</span><span>kunyomi: -</span></span>
+    </span>
+  </summary>
+<p>勉 hampir selalu muncul dalam kata belajar pada level ini.</p><ul>
     <li><span class="ruby-word"><ruby>勉強<rt>べんきょう</rt></ruby></span> - belajar</li>
     <li><span class="ruby-word"><ruby>勤勉<rt>きんべん</rt></ruby></span> - rajin</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">進</span><span class="kanji-meta"><strong>進</strong><small>maju</small><span class="kanji-reading"><span>onyomi: シン</span><span>kunyomi: すすむ、すすめる</span></span></span></summary><p>進 memberi rasa maju atau melanjutkan sesuatu.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">進</span>
+    <span class="kanji-meta">
+      <strong>maju</strong>
+      <span class="kanji-reading"><span>onyomi: シン</span><span>kunyomi: すすむ、すすめる</span></span>
+    </span>
+  </summary>
+<p>進 memberi rasa maju atau melanjutkan sesuatu.</p><ul>
     <li><span class="ruby-word"><ruby>進学<rt>しんがく</rt></ruby></span> - melanjutkan sekolah</li>
     <li><span class="ruby-word"><ruby>進行<rt>しんこう</rt></ruby></span> - kemajuan/proses</li>
     <li><span class="ruby-word"><ruby>前進<rt>ぜんしん</rt></ruby></span> - maju ke depan</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">集</span><span class="kanji-meta"><strong>集</strong><small>berkumpul</small><span class="kanji-reading"><span>onyomi: シュウ</span><span>kunyomi: あつまる、あつめる</span></span></span></summary><p>集 dipakai untuk orang atau benda yang berkumpul/dikumpulkan.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">集</span>
+    <span class="kanji-meta">
+      <strong>berkumpul</strong>
+      <span class="kanji-reading"><span>onyomi: シュウ</span><span>kunyomi: あつまる、あつめる</span></span>
+    </span>
+  </summary>
+<p>集 dipakai untuk orang atau benda yang berkumpul/dikumpulkan.</p><ul>
     <li><span class="ruby-word"><ruby>集合<rt>しゅうごう</rt></ruby></span> - berkumpul</li>
     <li><span class="ruby-word"><ruby>集会<rt>しゅうかい</rt></ruby></span> - pertemuan</li>
     <li><span class="ruby-word"><ruby>収集<rt>しゅうしゅう</rt></ruby></span> - pengumpulan</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">文</span><span class="kanji-meta"><strong>文</strong><small>kalimat, tulisan</small><span class="kanji-reading"><span>onyomi: ブン、モン</span><span>kunyomi: -</span></span></span></summary><p>文 berhubungan dengan kalimat, teks, atau budaya tulisan.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">文</span>
+    <span class="kanji-meta">
+      <strong>kalimat, tulisan</strong>
+      <span class="kanji-reading"><span>onyomi: ブン、モン</span><span>kunyomi: -</span></span>
+    </span>
+  </summary>
+<p>文 berhubungan dengan kalimat, teks, atau budaya tulisan.</p><ul>
     <li><span class="ruby-word"><ruby>文章<rt>ぶんしょう</rt></ruby></span> - teks</li>
     <li><span class="ruby-word"><ruby>本文<rt>ほんぶん</rt></ruby></span> - isi teks</li>
     <li><span class="ruby-word"><ruby>文化<rt>ぶんか</rt></ruby></span> - budaya</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">作</span><span class="kanji-meta"><strong>作</strong><small>membuat</small><span class="kanji-reading"><span>onyomi: サク、サ</span><span>kunyomi: つくる</span></span></span></summary><p>作 muncul saat membuat tulisan, karya, atau benda.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">作</span>
+    <span class="kanji-meta">
+      <strong>membuat</strong>
+      <span class="kanji-reading"><span>onyomi: サク、サ</span><span>kunyomi: つくる</span></span>
+    </span>
+  </summary>
+<p>作 muncul saat membuat tulisan, karya, atau benda.</p><ul>
     <li><span class="ruby-word"><ruby>作文<rt>さくぶん</rt></ruby></span> - karangan</li>
     <li><span class="ruby-word"><ruby>作品<rt>さくひん</rt></ruby></span> - karya</li>
     <li><span class="ruby-word"><ruby>作業<rt>さぎょう</rt></ruby></span> - pekerjaan</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">使</span><span class="kanji-meta"><strong>使</strong><small>menggunakan, utusan</small><span class="kanji-reading"><span>onyomi: シ</span><span>kunyomi: つかう</span></span></span></summary><p>使 berarti menggunakan; dalam 大使館, artinya berkaitan dengan utusan negara.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">使</span>
+    <span class="kanji-meta">
+      <strong>menggunakan</strong>
+      <span class="kanji-reading"><span>onyomi: シ</span><span>kunyomi: つかう</span></span>
+    </span>
+  </summary>
+<p>使 berarti menggunakan; dalam 大使館, artinya berkaitan dengan utusan negara.</p><ul>
     <li><span class="ruby-word"><ruby>使用<rt>しよう</rt></ruby></span> - penggunaan</li>
     <li><span class="ruby-word"><ruby>大使館<rt>たいしかん</rt></ruby></span> - kedutaan</li>
     <li><span class="ruby-word"><ruby>使者<rt>ししゃ</rt></ruby></span> - utusan</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">便</span><span class="kanji-meta"><strong>便</strong><small>praktis, pos, layanan</small><span class="kanji-reading"><span>onyomi: ベン、ビン</span><span>kunyomi: たより</span></span></span></summary><p>便 muncul pada kata praktis, pos, dan layanan pengiriman.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">便</span>
+    <span class="kanji-meta">
+      <strong>praktis, pos, layanan</strong>
+      <span class="kanji-reading"><span>onyomi: ベン、ビン</span><span>kunyomi: たより</span></span>
+    </span>
+  </summary>
+<p>便 muncul pada kata praktis, pos, dan layanan pengiriman.</p><ul>
     <li><span class="ruby-word"><ruby>便利<rt>べんり</rt></ruby></span> - praktis</li>
     <li><span class="ruby-word"><ruby>郵便<rt>ゆうびん</rt></ruby><ruby>局<rt>きょく</rt></ruby></span> - kantor pos</li>
     <li><span class="ruby-word"><ruby>航空<rt>こうくう</rt></ruby><ruby>便<rt>びん</rt></ruby></span> - pos udara</li>

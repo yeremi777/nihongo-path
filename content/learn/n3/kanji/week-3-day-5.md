@@ -31,29 +31,15 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 留守番, 濃
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 留 | リュウ, ル | とめる | menahan, tinggal, menyimpan | 留学, 留守番, 留守 |
-| 守 | シュ, ス | まもる | menjaga, melindungi | 守る, 守備, 留守 |
-| 濃 | - | こい | pekat, gelap, kuat | 濃い, 濃度 |
-| 薄 | - | うすい | tipis, pucat, lemah | 薄い, 薄める |
-| 部 | ブ | - | bagian, departemen, eksemplar | 部分, 部長, 部屋 |
-| 数 | スウ | かず, かぞえる | angka, jumlah, menghitung | 数字, 数学, 数える |
-| 件 | ケン | - | urusan, kasus, perkara | 件名, 用件, 事件 |
-| 再 | サイ, サ | - | lagi, ulang | 再生, 再ダイヤル, 再来週 |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-<details class="kanji-card" open>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">留</span>
     <span class="kanji-meta">
-      <strong>留</strong>
-      <small>menahan, tinggal, menyimpan</small>
-      <span class="kanji-reading"><span>onyomi: リュウ, ル</span>
+      <strong>menahan, tinggal, menyimpan</strong>
+      <span class="kanji-reading"><span>onyomi: リュウ, ル</span><span>kunyomi: とめる</span></span>
     </span>
   </summary>
   <p>留 memberi rasa menahan atau tetap berada. Dalam 留守, artinya tidak ada di tempat.</p>
@@ -64,13 +50,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">守</span>
     <span class="kanji-meta">
-      <strong>守</strong>
-      <small>menjaga, melindungi</small>
-      <span class="kanji-reading"><span>onyomi: シュ, ス</span>
+      <strong>menjaga, melindungi</strong>
+      <span class="kanji-reading"><span>onyomi: シュ, ス</span><span>kunyomi: まもる</span></span>
     </span>
   </summary>
   <p>守 berarti menjaga atau melindungi. Dalam 留守番, ia berkaitan dengan menjaga tempat saat orang lain pergi.</p>
@@ -81,13 +66,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">濃</span>
     <span class="kanji-meta">
-      <strong>濃</strong>
-      <small>pekat, gelap, kuat</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>pekat, gelap, kuat</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: こい</span></span>
     </span>
   </summary>
   <p>濃 dipakai untuk warna, rasa, atau cetakan yang pekat/kuat.</p>
@@ -97,13 +81,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">薄</span>
     <span class="kanji-meta">
-      <strong>薄</strong>
-      <small>tipis, pucat, lemah</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>tipis, pucat, lemah</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: うすい</span></span>
     </span>
   </summary>
   <p>薄 adalah lawan 濃. Pada salinan, artinya hasil cetak terlalu pucat atau tipis.</p>
@@ -113,13 +96,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">部</span>
     <span class="kanji-meta">
-      <strong>部</strong>
-      <small>bagian, departemen, eksemplar</small>
-      <span class="kanji-reading"><span>onyomi: ブ</span>
+      <strong>bagian, departemen, eksemplar</strong>
+      <span class="kanji-reading"><span>onyomi: ブ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>部 bisa berarti bagian, departemen, atau jumlah eksemplar. Konteks mesin fotokopi sering memakai 部数.</p>
@@ -130,13 +112,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">数</span>
     <span class="kanji-meta">
-      <strong>数</strong>
-      <small>angka, jumlah, menghitung</small>
-      <span class="kanji-reading"><span>onyomi: スウ</span>
+      <strong>angka, jumlah, menghitung</strong>
+      <span class="kanji-reading"><span>onyomi: スウ</span><span>kunyomi: かず, かぞえる</span></span>
     </span>
   </summary>
   <p>数 menunjuk angka atau jumlah. Dalam 部数, artinya jumlah salinan.</p>
@@ -147,13 +128,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">件</span>
     <span class="kanji-meta">
-      <strong>件</strong>
-      <small>urusan, kasus, perkara</small>
-      <span class="kanji-reading"><span>onyomi: ケン</span>
+      <strong>urusan, kasus, perkara</strong>
+      <span class="kanji-reading"><span>onyomi: ケン</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>件 menandai satu urusan, kasus, atau subjek pesan.</p>
@@ -164,13 +144,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">再</span>
     <span class="kanji-meta">
-      <strong>再</strong>
-      <small>lagi, ulang</small>
-      <span class="kanji-reading"><span>onyomi: サイ, サ</span>
+      <strong>lagi, ulang</strong>
+      <span class="kanji-reading"><span>onyomi: サイ, サ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>再 memberi rasa melakukan ulang. Umum pada tombol mesin dan aplikasi.</p>
@@ -181,6 +160,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 </div>
+
 ## Peta Kata
 
 Kata-kata hari ini terbagi menjadi dua alat. 留守番電話 berkaitan dengan pesan saat tidak ada orang, 濃・薄 mengatur ketebalan/warna cetak, 部数 menghitung salinan, 件 menandai urusan atau subjek, dan 再 berarti melakukan lagi.

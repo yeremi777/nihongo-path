@@ -31,82 +31,172 @@ Di akhir pelajaran ini, kamu bisa membaca 大学, 大人, 思い出, 和室, 家
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 大 | ダイ、タイ | おおきい | besar | 大学、大人 |
-| 犬 | ケン | いぬ | anjing | 犬、犬小屋 |
-| 太 | タイ、タ | ふとい、ふとる | tebal, gemuk | 太い、太陽 |
-| 区 | ク | - | distrik | 区、区役所 |
-| 思 | シ | おもう | berpikir, merasa | 思う、思い出 |
-| 知 | チ | しる、しらせる | tahu | 知る、知人 |
-| 和 | ワ | やわらぐ、なごむ | gaya Jepang, damai | 和室、平和 |
-| 族 | ゾク | - | keluarga, kelompok | 家族、水族館 |
-| 青 | セイ、ショウ | あお、あおい | biru | 青、青空 |
-| 光 | コウ | ひかり、ひかる | cahaya | 光、日光 |
-| 池 | チ | いけ | kolam, baterai | 電池、池 |
-| 別 | ベツ | わかれる | berbeda, berpisah | 特別、別れる |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-  <details class="kanji-card" open><summary><span class="kanji-char">大</span><span class="kanji-meta"><strong>大</strong><small>besar</small><span class="kanji-reading"><span>onyomi: ダイ、タイ</span><span>kunyomi: おおきい</span></span></span></summary><p>大 muncul pada ukuran besar dan nama institusi.</p><ul>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">大</span>
+    <span class="kanji-meta">
+      <strong>besar</strong>
+      <span class="kanji-reading"><span>onyomi: ダイ、タイ</span><span>kunyomi: おおきい</span></span>
+    </span>
+  </summary>
+<p>大 muncul pada ukuran besar dan nama institusi.</p><ul>
     <li><span class="ruby-word"><ruby>大学<rt>だいがく</rt></ruby></span> - universitas</li>
     <li><span class="ruby-word"><ruby>大人<rt>おとな</rt></ruby></span> - orang dewasa</li>
     <li><span class="ruby-word"><ruby>大切<rt>たいせつ</rt></ruby></span> - penting</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">犬</span><span class="kanji-meta"><strong>犬</strong><small>anjing</small><span class="kanji-reading"><span>onyomi: ケン</span><span>kunyomi: いぬ</span></span></span></summary><p>犬 mirip 大, tetapi ada titik kecil yang mengubah makna.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">犬</span>
+    <span class="kanji-meta">
+      <strong>anjing</strong>
+      <span class="kanji-reading"><span>onyomi: ケン</span><span>kunyomi: いぬ</span></span>
+    </span>
+  </summary>
+<p>犬 mirip 大, tetapi ada titik kecil yang mengubah makna.</p><ul>
     <li><span class="ruby-word"><ruby>犬<rt>いぬ</rt></ruby><ruby>小屋<rt>こや</rt></ruby></span> - rumah anjing</li>
     <li><span class="ruby-word"><ruby>番犬<rt>ばんけん</rt></ruby></span> - anjing penjaga</li>
     <li><span class="ruby-word"><ruby>愛犬<rt>あいけん</rt></ruby></span> - anjing kesayangan</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">太</span><span class="kanji-meta"><strong>太</strong><small>tebal, gemuk</small><span class="kanji-reading"><span>onyomi: タイ、タ</span><span>kunyomi: ふとい、ふとる</span></span></span></summary><p>太 mirip 大, tetapi titik di bawah sering muncul pada kata seperti matahari.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">太</span>
+    <span class="kanji-meta">
+      <strong>tebal, gemuk</strong>
+      <span class="kanji-reading"><span>onyomi: タイ、タ</span><span>kunyomi: ふとい、ふとる</span></span>
+    </span>
+  </summary>
+<p>太 mirip 大, tetapi titik di bawah sering muncul pada kata seperti matahari.</p><ul>
     <li><span class="ruby-word"><ruby>太陽<rt>たいよう</rt></ruby></span> - matahari</li>
     <li><span class="ruby-word"><ruby>太字<rt>ふとじ</rt></ruby></span> - huruf tebal</li>
     <li><span class="ruby-word"><ruby>丸太<rt>まるた</rt></ruby></span> - kayu gelondongan</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">区</span><span class="kanji-meta"><strong>区</strong><small>distrik</small><span class="kanji-reading"><span>onyomi: ク</span><span>kunyomi: -</span></span></span></summary><p>区 muncul dalam alamat kota besar dan pembagian wilayah.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">区</span>
+    <span class="kanji-meta">
+      <strong>distrik</strong>
+      <span class="kanji-reading"><span>onyomi: ク</span><span>kunyomi: -</span></span>
+    </span>
+  </summary>
+<p>区 muncul dalam alamat kota besar dan pembagian wilayah.</p><ul>
     <li><span class="ruby-word"><ruby>区役所<rt>くやくしょ</rt></ruby></span> - kantor distrik</li>
     <li><span class="ruby-word"><ruby>地区<rt>ちく</rt></ruby></span> - wilayah</li>
     <li><span class="ruby-word"><ruby>区間<rt>くかん</rt></ruby></span> - ruas bagian</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">思</span><span class="kanji-meta"><strong>思</strong><small>berpikir, merasa</small><span class="kanji-reading"><span>onyomi: シ</span><span>kunyomi: おもう</span></span></span></summary><p>思 berhubungan dengan pikiran, perasaan, dan kata tentang ingatan sehari-hari.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">思</span>
+    <span class="kanji-meta">
+      <strong>berpikir, merasa</strong>
+      <span class="kanji-reading"><span>onyomi: シ</span><span>kunyomi: おもう</span></span>
+    </span>
+  </summary>
+<p>思 berhubungan dengan pikiran, perasaan, dan kata tentang ingatan sehari-hari.</p><ul>
     <li><span class="ruby-word"><ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>で</rt></ruby></span> - kenangan</li>
     <li><span class="ruby-word"><ruby>思想<rt>しそう</rt></ruby></span> - pemikiran</li>
     <li><span class="ruby-word"><ruby>意思<rt>いし</rt></ruby></span> - niat</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">知</span><span class="kanji-meta"><strong>知</strong><small>tahu</small><span class="kanji-reading"><span>onyomi: チ</span><span>kunyomi: しる、しらせる</span></span></span></summary><p>知 muncul pada pengetahuan dan orang yang dikenal.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">知</span>
+    <span class="kanji-meta">
+      <strong>tahu</strong>
+      <span class="kanji-reading"><span>onyomi: チ</span><span>kunyomi: しる、しらせる</span></span>
+    </span>
+  </summary>
+<p>知 muncul pada pengetahuan dan orang yang dikenal.</p><ul>
     <li><span class="ruby-word"><ruby>知人<rt>ちじん</rt></ruby></span> - kenalan</li>
     <li><span class="ruby-word"><ruby>知識<rt>ちしき</rt></ruby></span> - pengetahuan</li>
     <li><span class="ruby-word"><ruby>通知<rt>つうち</rt></ruby></span> - pemberitahuan</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">和</span><span class="kanji-meta"><strong>和</strong><small>gaya Jepang, damai</small><span class="kanji-reading"><span>onyomi: ワ</span><span>kunyomi: やわらぐ、なごむ</span></span></span></summary><p>和 sering menunjuk gaya Jepang atau keadaan damai.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">和</span>
+    <span class="kanji-meta">
+      <strong>gaya Jepang, damai</strong>
+      <span class="kanji-reading"><span>onyomi: ワ</span><span>kunyomi: やわらぐ、なごむ</span></span>
+    </span>
+  </summary>
+<p>和 sering menunjuk gaya Jepang atau keadaan damai.</p><ul>
     <li><span class="ruby-word"><ruby>和室<rt>わしつ</rt></ruby></span> - ruang gaya Jepang</li>
     <li><span class="ruby-word"><ruby>平和<rt>へいわ</rt></ruby></span> - damai</li>
     <li><span class="ruby-word"><ruby>和食<rt>わしょく</rt></ruby></span> - makanan Jepang</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">族</span><span class="kanji-meta"><strong>族</strong><small>keluarga, kelompok</small><span class="kanji-reading"><span>onyomi: ゾク</span><span>kunyomi: -</span></span></span></summary><p>族 menandai keluarga, suku, atau kelompok orang dalam konteks sosial.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">族</span>
+    <span class="kanji-meta">
+      <strong>keluarga, kelompok</strong>
+      <span class="kanji-reading"><span>onyomi: ゾク</span><span>kunyomi: -</span></span>
+    </span>
+  </summary>
+<p>族 menandai keluarga, suku, atau kelompok orang dalam konteks sosial.</p><ul>
     <li><span class="ruby-word"><ruby>家族<rt>かぞく</rt></ruby></span> - keluarga</li>
     <li><span class="ruby-word"><ruby>水族館<rt>すいぞくかん</rt></ruby></span> - akuarium</li>
     <li><span class="ruby-word"><ruby>民族<rt>みんぞく</rt></ruby></span> - suku bangsa</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">青</span><span class="kanji-meta"><strong>青</strong><small>biru</small><span class="kanji-reading"><span>onyomi: セイ、ショウ</span><span>kunyomi: あお、あおい</span></span></span></summary><p>青 dipakai untuk warna biru atau hijau kebiruan.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">青</span>
+    <span class="kanji-meta">
+      <strong>biru</strong>
+      <span class="kanji-reading"><span>onyomi: セイ、ショウ</span><span>kunyomi: あお、あおい</span></span>
+    </span>
+  </summary>
+<p>青 dipakai untuk warna biru atau hijau kebiruan.</p><ul>
     <li><span class="ruby-word"><ruby>青空<rt>あおぞら</rt></ruby></span> - langit biru</li>
     <li><span class="ruby-word"><ruby>青年<rt>せいねん</rt></ruby></span> - pemuda</li>
     <li><span class="ruby-word"><ruby>青信号<rt>あおしんごう</rt></ruby></span> - lampu hijau</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">光</span><span class="kanji-meta"><strong>光</strong><small>cahaya</small><span class="kanji-reading"><span>onyomi: コウ</span><span>kunyomi: ひかり、ひかる</span></span></span></summary><p>光 berhubungan dengan cahaya, sinar matahari, dan kondisi yang terang.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">光</span>
+    <span class="kanji-meta">
+      <strong>cahaya</strong>
+      <span class="kanji-reading"><span>onyomi: コウ</span><span>kunyomi: ひかり、ひかる</span></span>
+    </span>
+  </summary>
+<p>光 berhubungan dengan cahaya, sinar matahari, dan kondisi yang terang.</p><ul>
     <li><span class="ruby-word"><ruby>日光<rt>にっこう</rt></ruby></span> - sinar matahari</li>
     <li><span class="ruby-word"><ruby>観光<rt>かんこう</rt></ruby></span> - wisata</li>
     <li><span class="ruby-word"><ruby>光線<rt>こうせん</rt></ruby></span> - berkas cahaya</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">池</span><span class="kanji-meta"><strong>池</strong><small>kolam, baterai</small><span class="kanji-reading"><span>onyomi: チ</span><span>kunyomi: いけ</span></span></span></summary><p>池 berarti kolam, tetapi dalam 電池 berarti baterai.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">池</span>
+    <span class="kanji-meta">
+      <strong>kolam, baterai</strong>
+      <span class="kanji-reading"><span>onyomi: チ</span><span>kunyomi: いけ</span></span>
+    </span>
+  </summary>
+<p>池 berarti kolam, tetapi dalam 電池 berarti baterai.</p><ul>
     <li><span class="ruby-word"><ruby>電池<rt>でんち</rt></ruby></span> - baterai</li>
     <li><span class="ruby-word"><ruby>池水<rt>いけみず</rt></ruby></span> - air kolam</li>
     <li><span class="ruby-word"><ruby>古池<rt>ふるいけ</rt></ruby></span> - kolam tua</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">別</span><span class="kanji-meta"><strong>別</strong><small>berbeda, berpisah</small><span class="kanji-reading"><span>onyomi: ベツ</span><span>kunyomi: わかれる</span></span></span></summary><p>別 menunjukkan hal lain, pemisahan, atau sesuatu yang khusus.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">別</span>
+    <span class="kanji-meta">
+      <strong>berbeda, berpisah</strong>
+      <span class="kanji-reading"><span>onyomi: ベツ</span><span>kunyomi: わかれる</span></span>
+    </span>
+  </summary>
+<p>別 menunjukkan hal lain, pemisahan, atau sesuatu yang khusus.</p><ul>
     <li><span class="ruby-word"><ruby>特別<rt>とくべつ</rt></ruby></span> - spesial</li>
     <li><span class="ruby-word"><ruby>別人<rt>べつじん</rt></ruby></span> - orang lain</li>
     <li><span class="ruby-word"><ruby>区別<rt>くべつ</rt></ruby></span> - pembedaan</li>

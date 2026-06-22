@@ -31,29 +31,15 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 販売, 自動
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 販 | ハン | - | menjual | 販売, 自動販売機 |
-| 機 | キ | - | mesin, kesempatan | 自動販売機, 機械, 機会 |
-| 増 | ゾウ | ふえる, ふやす | bertambah, menambah | 増加, 増える, 増やす |
-| 減 | ゲン | へる, へらす | berkurang, mengurangi | 減少, 減る, 減らす |
-| 量 | リョウ | - | jumlah, volume | 量, 数量, 増量 |
-| 氷 | - | こおり | es | 氷, 氷水 |
-| 返 | ヘン | かえす | mengembalikan, membalas | 返事, 返す, 返却 |
-| 湯 | ユ | - | air panas | お湯, 湯 |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-<details class="kanji-card" open>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">販</span>
     <span class="kanji-meta">
-      <strong>販</strong>
-      <small>menjual</small>
-      <span class="kanji-reading"><span>onyomi: ハン</span>
+      <strong>menjual</strong>
+      <span class="kanji-reading"><span>onyomi: ハン</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>販 berkaitan dengan penjualan. Dalam 自動販売機, ia menandai fungsi mesin: menjual barang.</p>
@@ -63,13 +49,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">機</span>
     <span class="kanji-meta">
-      <strong>機</strong>
-      <small>mesin, kesempatan</small>
-      <span class="kanji-reading"><span>onyomi: キ</span>
+      <strong>mesin, kesempatan</strong>
+      <span class="kanji-reading"><span>onyomi: キ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>機 bisa berarti mesin atau kesempatan. Pada vending machine, maknanya jelas mesin.</p>
@@ -80,13 +65,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">増</span>
     <span class="kanji-meta">
-      <strong>増</strong>
-      <small>bertambah, menambah</small>
-      <span class="kanji-reading"><span>onyomi: ゾウ</span>
+      <strong>bertambah, menambah</strong>
+      <span class="kanji-reading"><span>onyomi: ゾウ</span><span>kunyomi: ふえる, ふやす</span></span>
     </span>
   </summary>
   <p>増 memberi rasa peningkatan. Pada label produk, 増量 berarti isi/jumlah ditambah.</p>
@@ -97,13 +81,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">減</span>
     <span class="kanji-meta">
-      <strong>減</strong>
-      <small>berkurang, mengurangi</small>
-      <span class="kanji-reading"><span>onyomi: ゲン</span>
+      <strong>berkurang, mengurangi</strong>
+      <span class="kanji-reading"><span>onyomi: ゲン</span><span>kunyomi: へる, へらす</span></span>
     </span>
   </summary>
   <p>減 adalah lawan 増. Pada label makanan/minuman, 減量 berarti jumlah dikurangi.</p>
@@ -114,13 +97,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">量</span>
     <span class="kanji-meta">
-      <strong>量</strong>
-      <small>jumlah, volume</small>
-      <span class="kanji-reading"><span>onyomi: リョウ</span>
+      <strong>jumlah, volume</strong>
+      <span class="kanji-reading"><span>onyomi: リョウ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>量 menunjuk jumlah atau volume. Ia sering muncul bersama 増 dan 減.</p>
@@ -131,13 +113,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">氷</span>
     <span class="kanji-meta">
-      <strong>氷</strong>
-      <small>es</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>es</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: こおり</span></span>
     </span>
   </summary>
   <p>氷 menunjuk es. Pada mesin minuman, label ini membantu memilih minuman dengan atau tanpa es.</p>
@@ -147,13 +128,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">返</span>
     <span class="kanji-meta">
-      <strong>返</strong>
-      <small>mengembalikan, membalas</small>
-      <span class="kanji-reading"><span>onyomi: ヘン</span>
+      <strong>mengembalikan, membalas</strong>
+      <span class="kanji-reading"><span>onyomi: ヘン</span><span>kunyomi: かえす</span></span>
     </span>
   </summary>
   <p>返 dipakai untuk mengembalikan uang/barang atau membalas pesan.</p>
@@ -164,13 +144,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">湯</span>
     <span class="kanji-meta">
-      <strong>湯</strong>
-      <small>air panas</small>
-      <span class="kanji-reading"><span>onyomi: ユ</span>
+      <strong>air panas</strong>
+      <span class="kanji-reading"><span>onyomi: ユ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>湯 menunjuk air panas. Bentuk sopannya sering menjadi お湯.</p>
@@ -180,6 +159,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 </div>
+
 ## Peta Kata
 
 Kata-kata hari ini mengikuti cara memakai mesin. 販売機 adalah mesinnya, 増・減・量 mengatur jumlah, 氷 dan 湯 memberi pilihan dingin/panas, lalu 返 menjelaskan uang atau barang yang dikembalikan.

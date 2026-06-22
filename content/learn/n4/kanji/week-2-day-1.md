@@ -31,64 +31,130 @@ Di akhir pelajaran ini, kamu bisa membaca kata seperti 映画, 計画, 時計, �
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 画 | ガ、カク | - | gambar, rencana | 映画、漫画、計画 |
-| 映 | エイ | うつる、うつす、はえる | memantul, tayang | 映画、映画館 |
-| 計 | ケイ | はかる | rencana, mengukur | 時計、計画 |
-| 図 | ズ、ト | はかる | peta, diagram | 地図、図書館 |
-| 事 | ジ | こと | hal, urusan | 食事、用事、仕事 |
-| 仕 | シ | つかえる | melayani, bekerja | 仕事、仕方 |
-| 用 | ヨウ | もちいる | memakai, urusan | 用事、用意、利用 |
-| 地 | チ、ジ | つち | tanah, tempat | 地図、地理、地下鉄 |
-| 鉄 | テツ | - | besi, kereta | 地下鉄、鉄道 |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-  <details class="kanji-card" open><summary><span class="kanji-char">画</span><span class="kanji-meta"><strong>画</strong><small>gambar, rencana</small><span class="kanji-reading"><span>onyomi: ガ、カク</span><span>kunyomi: -</span></span></span></summary><p>画 muncul pada gambar bergerak, komik, dan rencana.</p><ul>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">画</span>
+    <span class="kanji-meta">
+      <strong>gambar, rencana</strong>
+      <span class="kanji-reading"><span>onyomi: ガ、カク</span><span>kunyomi: -</span></span>
+    </span>
+  </summary>
+<p>画 muncul pada gambar bergerak, komik, dan rencana.</p><ul>
     <li><span class="ruby-word"><ruby>映画<rt>えいが</rt></ruby></span> - film</li>
     <li><span class="ruby-word"><ruby>漫画<rt>まんが</rt></ruby></span> - komik</li>
     <li><span class="ruby-word"><ruby>計画<rt>けいかく</rt></ruby></span> - rencana</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">映</span><span class="kanji-meta"><strong>映</strong><small>tayang, memantul</small><span class="kanji-reading"><span>onyomi: エイ</span><span>kunyomi: うつる、うつす、はえる</span></span></span></summary><p>映 dipakai untuk gambar yang diproyeksikan atau terlihat di layar.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">映</span>
+    <span class="kanji-meta">
+      <strong>memantul, tayang</strong>
+      <span class="kanji-reading"><span>onyomi: エイ</span><span>kunyomi: うつる、うつす、はえる</span></span>
+    </span>
+  </summary>
+<p>映 dipakai untuk gambar yang diproyeksikan atau terlihat di layar.</p><ul>
     <li><span class="ruby-word"><ruby>映画<rt>えいが</rt></ruby></span> - film</li>
     <li><span class="ruby-word"><ruby>映画<rt>えいが</rt></ruby><ruby>館<rt>かん</rt></ruby></span> - bioskop</li>
     <li><span class="ruby-word"><ruby>上映<rt>じょうえい</rt></ruby></span> - pemutaran film</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">計</span><span class="kanji-meta"><strong>計</strong><small>rencana, ukur</small><span class="kanji-reading"><span>onyomi: ケイ</span><span>kunyomi: はかる</span></span></span></summary><p>計 muncul pada alat ukur waktu, jadwal, dan perencanaan aktivitas harian.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">計</span>
+    <span class="kanji-meta">
+      <strong>rencana, mengukur</strong>
+      <span class="kanji-reading"><span>onyomi: ケイ</span><span>kunyomi: はかる</span></span>
+    </span>
+  </summary>
+<p>計 muncul pada alat ukur waktu, jadwal, dan perencanaan aktivitas harian.</p><ul>
     <li><span class="ruby-word"><ruby>時計<rt>とけい</rt></ruby></span> - jam</li>
     <li><span class="ruby-word"><ruby>計画<rt>けいかく</rt></ruby></span> - rencana</li>
     <li><span class="ruby-word"><ruby>会計<rt>かいけい</rt></ruby></span> - kasir/akuntansi</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">図</span><span class="kanji-meta"><strong>図</strong><small>peta, diagram</small><span class="kanji-reading"><span>onyomi: ズ、ト</span><span>kunyomi: はかる</span></span></span></summary><p>図 memberi rasa gambar penjelas, peta, atau tempat buku.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">図</span>
+    <span class="kanji-meta">
+      <strong>peta, diagram</strong>
+      <span class="kanji-reading"><span>onyomi: ズ、ト</span><span>kunyomi: はかる</span></span>
+    </span>
+  </summary>
+<p>図 memberi rasa gambar penjelas, peta, atau tempat buku.</p><ul>
     <li><span class="ruby-word"><ruby>地図<rt>ちず</rt></ruby></span> - peta</li>
     <li><span class="ruby-word"><ruby>図書館<rt>としょかん</rt></ruby></span> - perpustakaan</li>
     <li><span class="ruby-word"><ruby>図表<rt>ずひょう</rt></ruby></span> - diagram/tabel</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">事</span><span class="kanji-meta"><strong>事</strong><small>hal, urusan</small><span class="kanji-reading"><span>onyomi: ジ</span><span>kunyomi: こと</span></span></span></summary><p>事 muncul pada urusan, pekerjaan, dan makan sebagai kegiatan.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">事</span>
+    <span class="kanji-meta">
+      <strong>hal, urusan</strong>
+      <span class="kanji-reading"><span>onyomi: ジ</span><span>kunyomi: こと</span></span>
+    </span>
+  </summary>
+<p>事 muncul pada urusan, pekerjaan, dan makan sebagai kegiatan.</p><ul>
     <li><span class="ruby-word"><ruby>食事<rt>しょくじ</rt></ruby></span> - makan</li>
     <li><span class="ruby-word"><ruby>用事<rt>ようじ</rt></ruby></span> - urusan</li>
     <li><span class="ruby-word"><ruby>仕事<rt>しごと</rt></ruby></span> - pekerjaan</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">仕</span><span class="kanji-meta"><strong>仕</strong><small>bekerja, melayani</small><span class="kanji-reading"><span>onyomi: シ</span><span>kunyomi: つかえる</span></span></span></summary><p>仕 sering muncul dalam kata kerja dan cara melakukan sesuatu.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">仕</span>
+    <span class="kanji-meta">
+      <strong>melayani, bekerja</strong>
+      <span class="kanji-reading"><span>onyomi: シ</span><span>kunyomi: つかえる</span></span>
+    </span>
+  </summary>
+<p>仕 sering muncul dalam kata kerja dan cara melakukan sesuatu.</p><ul>
     <li><span class="ruby-word"><ruby>仕事<rt>しごと</rt></ruby></span> - pekerjaan</li>
     <li><span class="ruby-word"><ruby>仕方<rt>しかた</rt></ruby></span> - cara</li>
     <li><span class="ruby-word"><ruby>仕組<rt>しく</rt></ruby>み</span> - mekanisme</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">用</span><span class="kanji-meta"><strong>用</strong><small>urusan, penggunaan</small><span class="kanji-reading"><span>onyomi: ヨウ</span><span>kunyomi: もちいる</span></span></span></summary><p>用 menunjukkan keperluan, persiapan, atau penggunaan.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">用</span>
+    <span class="kanji-meta">
+      <strong>memakai, urusan</strong>
+      <span class="kanji-reading"><span>onyomi: ヨウ</span><span>kunyomi: もちいる</span></span>
+    </span>
+  </summary>
+<p>用 menunjukkan keperluan, persiapan, atau penggunaan.</p><ul>
     <li><span class="ruby-word"><ruby>用事<rt>ようじ</rt></ruby></span> - urusan</li>
     <li><span class="ruby-word"><ruby>用意<rt>ようい</rt></ruby></span> - persiapan</li>
     <li><span class="ruby-word"><ruby>利用<rt>りよう</rt></ruby></span> - penggunaan</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">地</span><span class="kanji-meta"><strong>地</strong><small>tanah, tempat</small><span class="kanji-reading"><span>onyomi: チ、ジ</span><span>kunyomi: つち</span></span></span></summary><p>地 muncul pada peta, geografi, bawah tanah, dan tempat.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">地</span>
+    <span class="kanji-meta">
+      <strong>tanah, tempat</strong>
+      <span class="kanji-reading"><span>onyomi: チ、ジ</span><span>kunyomi: つち</span></span>
+    </span>
+  </summary>
+<p>地 muncul pada peta, geografi, bawah tanah, dan tempat.</p><ul>
     <li><span class="ruby-word"><ruby>地図<rt>ちず</rt></ruby></span> - peta</li>
     <li><span class="ruby-word"><ruby>地理<rt>ちり</rt></ruby></span> - geografi</li>
     <li><span class="ruby-word"><ruby>地下鉄<rt>ちかてつ</rt></ruby></span> - kereta bawah tanah</li>
   </ul></details>
-  <details class="kanji-card"><summary><span class="kanji-char">鉄</span><span class="kanji-meta"><strong>鉄</strong><small>besi, kereta</small><span class="kanji-reading"><span>onyomi: テツ</span><span>kunyomi: -</span></span></span></summary><p>鉄 berarti besi dan sering muncul dalam kata kereta.</p><ul>
+
+<details class="kanji-card kanji-card--large">
+  <summary>
+    <span class="kanji-char">鉄</span>
+    <span class="kanji-meta">
+      <strong>besi, kereta</strong>
+      <span class="kanji-reading"><span>onyomi: テツ</span><span>kunyomi: -</span></span>
+    </span>
+  </summary>
+<p>鉄 berarti besi dan sering muncul dalam kata kereta.</p><ul>
     <li><span class="ruby-word"><ruby>地下鉄<rt>ちかてつ</rt></ruby></span> - kereta bawah tanah</li>
     <li><span class="ruby-word"><ruby>鉄道<rt>てつどう</rt></ruby></span> - jalur kereta</li>
     <li><span class="ruby-word"><ruby>鉄板<rt>てっぱん</rt></ruby></span> - pelat besi</li>

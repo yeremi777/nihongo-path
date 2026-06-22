@@ -31,28 +31,15 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 細い, 細か
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 細 | - | ほそい, こまかい | tipis, rinci | 細い, 細かい |
-| 戸 | - | と | pintu, rumah tangga | 戸, 雨戸 |
-| 湖 | コ | みずうみ | danau | 湖, びわ湖 |
-| 船 | セン | ふね, ふな | kapal | 船, 船便 |
-| 角 | カク | かど | sudut | 角, 三角形 |
-| 夫 | フ, フウ | おっと | suami | 夫, 夫婦 |
-| 苦 | ク | くるしい, にがい | sulit, pahit | 苦労, 苦手 |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-<details class="kanji-card" open>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">細</span>
     <span class="kanji-meta">
-      <strong>細</strong>
-      <small>tipis, rinci</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>tipis, rinci</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: ほそい, こまかい</span></span>
     </span>
   </summary>
   <p>細 menggambarkan sesuatu yang tipis atau detail kecil. Dalam deskripsi benda dan penjelasan, 細かい sering berarti rinci.</p>
@@ -62,13 +49,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">戸</span>
     <span class="kanji-meta">
-      <strong>戸</strong>
-      <small>pintu, rumah tangga</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>pintu, rumah tangga</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: と</span></span>
     </span>
   </summary>
   <p>戸 berkaitan dengan pintu atau bagian rumah. 雨戸 adalah penutup jendela saat hujan.</p>
@@ -79,13 +65,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">湖</span>
     <span class="kanji-meta">
-      <strong>湖</strong>
-      <small>danau</small>
-      <span class="kanji-reading"><span>onyomi: コ</span>
+      <strong>danau</strong>
+      <span class="kanji-reading"><span>onyomi: コ</span><span>kunyomi: みずうみ</span></span>
     </span>
   </summary>
   <p>湖 menandai danau. Nama tempat wisata seperti びわ湖 sering muncul di peta dan brosur.</p>
@@ -95,13 +80,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">船</span>
     <span class="kanji-meta">
-      <strong>船</strong>
-      <small>kapal</small>
-      <span class="kanji-reading"><span>onyomi: セン</span>
+      <strong>kapal</strong>
+      <span class="kanji-reading"><span>onyomi: セン</span><span>kunyomi: ふね, ふな</span></span>
     </span>
   </summary>
   <p>船 berarti kapal atau perahu. Dalam kata majemuk, bacaan ふな juga muncul seperti pada 船便.</p>
@@ -112,13 +96,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">角</span>
     <span class="kanji-meta">
-      <strong>角</strong>
-      <small>sudut</small>
-      <span class="kanji-reading"><span>onyomi: カク</span>
+      <strong>sudut</strong>
+      <span class="kanji-reading"><span>onyomi: カク</span><span>kunyomi: かど</span></span>
     </span>
   </summary>
   <p>角 bisa berarti sudut, pojok, atau bentuk bersudut. Dalam matematika dan bentuk benda, kanji ini sering muncul.</p>
@@ -129,13 +112,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">夫</span>
     <span class="kanji-meta">
-      <strong>夫</strong>
-      <small>suami</small>
-      <span class="kanji-reading"><span>onyomi: フ, フウ</span>
+      <strong>suami</strong>
+      <span class="kanji-reading"><span>onyomi: フ, フウ</span><span>kunyomi: おっと</span></span>
     </span>
   </summary>
   <p>夫 berarti suami. Dalam 夫婦 atau 夫妻, kanji ini muncul bersama kata untuk istri.</p>
@@ -146,13 +128,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">苦</span>
     <span class="kanji-meta">
-      <strong>苦</strong>
-      <small>sulit, pahit</small>
-      <span class="kanji-reading"><span>onyomi: ク</span>
+      <strong>sulit, pahit</strong>
+      <span class="kanji-reading"><span>onyomi: ク</span><span>kunyomi: くるしい, にがい</span></span>
     </span>
   </summary>
   <p>苦 bisa berarti penderitaan, rasa pahit, atau kelemahan pada suatu hal. 苦手 adalah kata penting untuk menyatakan lemah dalam sesuatu.</p>
@@ -163,6 +144,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 </div>
+
 ## Peta Kata
 
 Kata-kata hari ini bisa dibaca sebagai alur: bentuk benda → tempat air → transportasi → sudut/bentuk → keluarga → rasa sulit. 細 dan 角 menjelaskan bentuk, 湖 dan 船 menunjuk tempat atau alat, 夫 berkaitan dengan orang, sedangkan 苦 sering muncul pada perasaan atau kelemahan.

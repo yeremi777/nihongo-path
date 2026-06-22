@@ -31,28 +31,15 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 教育, 種類
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 育 | イク | そだつ, そだてる | tumbuh, mendidik | 教育, 育てる, 育つ |
-| 種 | シュ | たね | jenis, biji | 種類, 種 |
-| 類 | ルイ | - | kategori, jenis | 書類, 分類, 人類 |
-| 師 | シ | - | guru, ahli | 教師, 医師, 看護師 |
-| 妻 | サイ | つま | istri | 妻, 夫妻 |
-| 馬 | バ | うま | kuda | 馬, 乗馬 |
-| 石 | セキ | いし | batu | 石, 石油, 石けん |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-<details class="kanji-card" open>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">育</span>
     <span class="kanji-meta">
-      <strong>育</strong>
-      <small>tumbuh, mendidik</small>
-      <span class="kanji-reading"><span>onyomi: イク</span>
+      <strong>tumbuh, mendidik</strong>
+      <span class="kanji-reading"><span>onyomi: イク</span><span>kunyomi: そだつ, そだてる</span></span>
     </span>
   </summary>
   <p>育 berkaitan dengan pertumbuhan dan pendidikan. Dalam 教育, fokusnya proses mendidik.</p>
@@ -63,13 +50,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">種</span>
     <span class="kanji-meta">
-      <strong>種</strong>
-      <small>jenis, biji</small>
-      <span class="kanji-reading"><span>onyomi: シュ</span>
+      <strong>jenis, biji</strong>
+      <span class="kanji-reading"><span>onyomi: シュ</span><span>kunyomi: たね</span></span>
     </span>
   </summary>
   <p>種 bisa berarti jenis atau biji. Dalam 種類, artinya kategori/jenis.</p>
@@ -79,13 +65,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">類</span>
     <span class="kanji-meta">
-      <strong>類</strong>
-      <small>kategori, jenis</small>
-      <span class="kanji-reading"><span>onyomi: ルイ</span>
+      <strong>kategori, jenis</strong>
+      <span class="kanji-reading"><span>onyomi: ルイ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>類 mengelompokkan benda/orang ke jenis tertentu. Sering muncul dalam dokumen dan klasifikasi.</p>
@@ -96,13 +81,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">師</span>
     <span class="kanji-meta">
-      <strong>師</strong>
-      <small>guru, ahli</small>
-      <span class="kanji-reading"><span>onyomi: シ</span>
+      <strong>guru, ahli</strong>
+      <span class="kanji-reading"><span>onyomi: シ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>師 menunjuk orang dengan keahlian atau profesi tertentu.</p>
@@ -113,13 +97,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">妻</span>
     <span class="kanji-meta">
-      <strong>妻</strong>
-      <small>istri</small>
-      <span class="kanji-reading"><span>onyomi: サイ</span>
+      <strong>istri</strong>
+      <span class="kanji-reading"><span>onyomi: サイ</span><span>kunyomi: つま</span></span>
     </span>
   </summary>
   <p>妻 berarti istri. Dalam 夫妻, kanji ini muncul bersama 夫 untuk pasangan suami-istri.</p>
@@ -129,15 +112,14 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">馬</span>
     <span class="kanji-meta">
-      <strong>馬</strong>
-      <small>kuda</small>
+      <strong>kuda</strong>
       <span class="kanji-reading"><span>onyomi: バ</span><span>kunyomi: うま</span></span>
-      </span>
-    </summary>
+    </span>
+  </summary>
     <p>馬 muncul pada topik hewan dan transportasi berkuda. Saat melihat 乗馬, fokus pada kegiatan naik atau menunggang kuda.</p>
   <ul>
     <li><span class="ruby-word"><ruby>馬<rt>うま</rt></ruby></span> - kuda</li>
@@ -145,13 +127,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">石</span>
     <span class="kanji-meta">
-      <strong>石</strong>
-      <small>batu</small>
-      <span class="kanji-reading"><span>onyomi: セキ</span>
+      <strong>batu</strong>
+      <span class="kanji-reading"><span>onyomi: セキ</span><span>kunyomi: いし</span></span>
     </span>
   </summary>
   <p>石 berarti batu, tetapi juga muncul dalam kata bahan seperti 石油 dan 石けん.</p>
@@ -162,6 +143,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 </div>
+
 ## Peta Kata
 
 Kata-kata hari ini tersebar di beberapa konteks umum. 育 berkaitan dengan mendidik/menumbuhkan, 種類 dan 類 mengelompokkan benda, 師 menunjuk profesi ahli, 妻 adalah keluarga, sedangkan 馬 dan 石 muncul pada benda atau bahan yang mudah ditemui.

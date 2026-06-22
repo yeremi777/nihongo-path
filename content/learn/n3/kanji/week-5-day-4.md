@@ -31,29 +31,15 @@ Di akhir pelajaran ini, kamu diharapkan bisa membaca kata seperti 昨日、昨�
 
 ## Daftar Kanji
 
-| Kanji | Onyomi | Kunyomi | Makna inti | Kata umum |
-|---|---|---|---|---|
-| 昨 | サク | - | kemarin, yang lalu | 昨日, 昨年 |
-| 君 | クン | きみ | kamu, sapaan pria | 君, 田中君 |
-| 結 | ケツ | むすぶ | mengikat, menyimpulkan | 結婚, 結局 |
-| 婚 | コン | - | pernikahan | 結婚, 婚約 |
-| 祝 | シュク | いわう | merayakan | 祝日, 祝う |
-| 曲 | キョク | まがる, まげる | lagu, belok | 曲, 曲がる |
-| 奥 | - | おく | bagian dalam | 奥, 奥さん |
-| 寝 | - | ねる | tidur | 寝る, 昼寝 |
-
-## Rincian Kanji
-
 Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
-<div class="kanji-card-grid">
-<details class="kanji-card" open>
+<div class="kanji-card-grid kanji-card-grid--large">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">昨</span>
     <span class="kanji-meta">
-      <strong>昨</strong>
-      <small>kemarin, yang lalu</small>
-      <span class="kanji-reading"><span>onyomi: サク</span>
+      <strong>kemarin, yang lalu</strong>
+      <span class="kanji-reading"><span>onyomi: サク</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam karangan pendek dan cerita pengalaman, 昨 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -63,13 +49,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">君</span>
     <span class="kanji-meta">
-      <strong>君</strong>
-      <small>kamu, sapaan pria</small>
-      <span class="kanji-reading"><span>onyomi: クン</span>
+      <strong>kamu, sapaan pria</strong>
+      <span class="kanji-reading"><span>onyomi: クン</span><span>kunyomi: きみ</span></span>
     </span>
   </summary>
   <p>Dalam karangan pendek dan cerita pengalaman, 君 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -79,13 +64,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">結</span>
     <span class="kanji-meta">
-      <strong>結</strong>
-      <small>mengikat, menyimpulkan</small>
-      <span class="kanji-reading"><span>onyomi: ケツ</span>
+      <strong>mengikat, menyimpulkan</strong>
+      <span class="kanji-reading"><span>onyomi: ケツ</span><span>kunyomi: むすぶ</span></span>
     </span>
   </summary>
   <p>Dalam karangan pendek dan cerita pengalaman, 結 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -95,13 +79,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">婚</span>
     <span class="kanji-meta">
-      <strong>婚</strong>
-      <small>pernikahan</small>
-      <span class="kanji-reading"><span>onyomi: コン</span>
+      <strong>pernikahan</strong>
+      <span class="kanji-reading"><span>onyomi: コン</span><span>kunyomi: -</span></span>
     </span>
   </summary>
   <p>Dalam karangan pendek dan cerita pengalaman, 婚 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -111,13 +94,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">祝</span>
     <span class="kanji-meta">
-      <strong>祝</strong>
-      <small>merayakan</small>
-      <span class="kanji-reading"><span>onyomi: シュク</span>
+      <strong>merayakan</strong>
+      <span class="kanji-reading"><span>onyomi: シュク</span><span>kunyomi: いわう</span></span>
     </span>
   </summary>
   <p>Dalam karangan pendek dan cerita pengalaman, 祝 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -127,13 +109,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">曲</span>
     <span class="kanji-meta">
-      <strong>曲</strong>
-      <small>lagu, belok</small>
-      <span class="kanji-reading"><span>onyomi: キョク</span>
+      <strong>lagu, belok</strong>
+      <span class="kanji-reading"><span>onyomi: キョク</span><span>kunyomi: まがる, まげる</span></span>
     </span>
   </summary>
   <p>Dalam karangan pendek dan cerita pengalaman, 曲 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -143,13 +124,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">奥</span>
     <span class="kanji-meta">
-      <strong>奥</strong>
-      <small>bagian dalam</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>bagian dalam</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: おく</span></span>
     </span>
   </summary>
   <p>Dalam karangan pendek dan cerita pengalaman, 奥 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -159,13 +139,12 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 
-<details class="kanji-card">
+<details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">寝</span>
     <span class="kanji-meta">
-      <strong>寝</strong>
-      <small>tidur</small>
-      <span class="kanji-reading"><span>onyomi: -</span>
+      <strong>tidur</strong>
+      <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: ねる</span></span>
     </span>
   </summary>
   <p>Dalam karangan pendek dan cerita pengalaman, 寝 membantu mengenali kata penting yang muncul sebagai label, status, tindakan, atau keterangan singkat.</p>
@@ -175,6 +154,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </ul>
 </details>
 </div>
+
 ## Peta Kata
 
 <div class="word-strip">
