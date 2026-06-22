@@ -23,7 +23,7 @@ tags:
 
 Mengenali kanji N3 yang sering muncul di berita ekonomi dan perdagangan: 戦, 経, 済, 成, 貿, 易, 輸, dan 相.
 
-Di akhir pelajaran ini, kamu bisa membaca kata berita seperti 戦後, 経済, 経験, 成長, 貿易, 輸出, 輸入, 相談, dan 首相. Fokuskan pada apakah teks sedang membahas latar sejarah, kondisi ekonomi, perdagangan, atau pihak yang saling berhubungan.
+Di akhir pelajaran ini, kamu bisa membaca kata dalam artikel berita seperti 戦後, 経済, 経験, 成長, 貿易, 輸出, 輸入, 相談, dan 首相. Fokuskan pada apakah teks sedang membahas latar sejarah, kondisi ekonomi, perdagangan, atau pihak yang saling berhubungan.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> kelompokkan kata berita: kondisi ekonomi, perdagangan, pengiriman, dan pihak yang saling berhubungan.

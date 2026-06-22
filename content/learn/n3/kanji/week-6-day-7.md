@@ -1,6 +1,6 @@
 ---
 title: "クイズ⑥"
-description: "Belajar kanji tambahan N3 dari minggu keenam yang sering muncul di berita, acara sekolah, kesibukan kerja, informasi, perasaan, dan pendapat berlawanan."
+description: "Belajar kanji tambahan N3 dari minggu keenam yang sering muncul di berita, acara sekolah, tempat kerja, informasi, perasaan, dan pendapat berlawanan."
 level: "N3"
 category: "kanji"
 topic: "クイズ⑥"
@@ -23,7 +23,7 @@ tags:
 
 Mengenali delapan kanji tambahan N3 dari minggu keenam: 亡, 忙, 忘, 祭, 労, 加, 情, dan 反.
 
-Di akhir pelajaran ini, kamu bisa membaca kata seperti 死亡, 忙しい, 忘れ物, 文化祭, 参加, 情報, dan 反対 dalam berita singkat, pengumuman sekolah, dan percakapan sehari-hari.
+Di akhir pelajaran ini, kamu bisa membaca kata seperti 死亡, 忙しい, 忘れ物, 文化祭, 参加, 情報, dan 反対 dalam berita singkat, pengumuman sekolah, tempat kerja, dan percakapan sehari-hari.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> perhatikan bentuk mirip 亡, 忙, dan 忘. Maknanya berbeda: hilang/meninggal, sibuk, lalu lupa.

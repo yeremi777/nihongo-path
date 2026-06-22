@@ -23,7 +23,7 @@ tags:
 
 Mengenali kanji N3 yang sering muncul di instruksi kelas bahasa Jepang: 練, 最, 適, 選, 違, 直, 復, 辞, dan 宿.
 
-Di akhir pelajaran ini, kamu bisa membaca instruksi belajar seperti 練習, 最も適当, 選ぶ, 間違い, 直す, 復習, 辞書, dan 宿題. Fokuskan pada apa yang diminta guru atau soal: berlatih, memilih jawaban, memperbaiki kesalahan, atau mengulang pelajaran.
+Di akhir pelajaran ini, kamu bisa membaca panduan dan instruksi belajar seperti 練習, 最も適当, 選ぶ, 間違い, 直す, 復習, 辞書, dan 宿題. Fokuskan pada apa yang diminta guru atau soal: berlatih, memilih jawaban, memperbaiki kesalahan, atau mengulang pelajaran.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> baca kata kelas sebagai tindakan belajar: 練習, 選ぶ, 直す, 復習, 辞書, 宿題.

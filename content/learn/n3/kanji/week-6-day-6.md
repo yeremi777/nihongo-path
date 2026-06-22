@@ -23,7 +23,7 @@ tags:
 
 Mengenali kanji N3 yang sering muncul di berita politik, pemerintah, perubahan aturan, penolakan, tujuan kebijakan, fakta, kekurangan, dan bidang khusus: 政、府、改、否、的、実、欠、専。
 
-Di akhir pelajaran ini, kamu bisa membaca kata seperti 政治, 政治家, 政府, 改正, 否定, 目的, 実際, dan 専門 di berita politik. Fokuskan pada siapa pelakunya, aturan apa yang berubah, dan apakah kalimatnya menyatakan fakta, tujuan, atau penolakan.
+Di akhir pelajaran ini, kamu bisa membaca kata seperti 政治, 政治家, 政府, 改正, 否定, 目的, 実際, dan 専門 di artikel politik. Fokuskan pada siapa pelakunya, aturan apa yang berubah, dan apakah kalimatnya menyatakan fakta, tujuan, atau penolakan.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> bedakan lembaga pemerintah, tindakan revisi, sikap negatif, dan fakta dalam berita.

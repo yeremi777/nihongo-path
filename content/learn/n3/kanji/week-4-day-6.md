@@ -23,7 +23,7 @@ tags:
 
 Mengenali kanji N3 yang sering muncul di slip pengiriman gagal, penerimaan paket, penitipan, dan jadwal penerimaan: 在, 取, 預, 衣, 参, 達, 勤, dan 帯.
 
-Di akhir pelajaran ini, kamu bisa membaca kata seperti 不在, 受け取る, 預ける, 衣類, 参加, 速達, 通勤, dan 時間帯 pada pemberitahuan paket. Fokuskan pada status penerima, tindakan menerima atau menitipkan, jenis barang, dan waktu pengiriman.
+Di akhir pelajaran ini, kamu bisa membaca kata seperti 不在, 受け取る, 預ける, 衣類, 参加, 速達, 通勤, dan 時間帯 pada pemberitahuan paket atau panduan pengiriman. Fokuskan pada status penerima, tindakan menerima atau menitipkan, jenis barang, dan waktu pengiriman.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> cari status penerima lebih dulu: 不在, 受け取る, 預ける, 速達.

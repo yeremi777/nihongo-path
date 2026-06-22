@@ -23,7 +23,7 @@ tags:
 
 Mengenali kanji N3 yang sering muncul di halaman belanja online, katalog produk, pajak, harga, stok, dan ongkos pembelian: 米, 級, 残, 型, 税, 込, 価, dan 格.
 
-Di akhir pelajaran ini, kamu bisa membaca kata seperti 米国, 高級, 残り, 新型, 消費税, 税込, 価格, dan 格安 di katalog atau halaman belanja. Fokuskan pada petunjuk asal, kelas barang, stok, ukuran/model, pajak, dan harga.
+Di akhir pelajaran ini, kamu bisa membaca kata seperti 米国, 高級, 残り, 新型, 消費税, 税込, 価格, dan 格安 di katalog, iklan toko, atau halaman belanja. Fokuskan pada petunjuk asal, kelas barang, stok, ukuran/model, pajak, dan harga.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> bedakan harga dasar, pajak, harga termasuk pajak, dan status sisa barang.

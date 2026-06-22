@@ -23,7 +23,7 @@ tags:
 
 Mengenali kanji N3 yang sering muncul di prakiraan cuaca, berita gempa, suhu, salju, angin, dan ombak: 報、晴、雲、吹、暖、雪、震、波。
 
-Di akhir pelajaran ini, kamu bisa membaca kata seperti 予報, 晴れ, 雨雲, 吹雪, 暖房, 地震, 震度, dan 津波. Fokuskan pada jenis informasinya: cuaca harian, suhu, angin/salju, atau peringatan bencana.
+Di akhir pelajaran ini, kamu bisa membaca kata seperti 予報, 晴れ, 雨雲, 吹雪, 暖房, 地震, 震度, dan 津波 dalam berita cuaca atau peringatan bencana. Fokuskan pada jenis informasinya: cuaca harian, suhu, angin/salju, atau peringatan bencana.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> mulai dari jenis informasi: cuaca biasa, suhu, angin, atau peringatan bencana.

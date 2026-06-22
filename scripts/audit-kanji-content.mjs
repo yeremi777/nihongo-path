@@ -168,7 +168,32 @@ const auditKanjiFile = (file, text) => {
   auditReferenceSection(text, lessonMeta, error, 'kanji')
 
   if (lessonMeta?.level === 'N3') {
-    const contextSignals = ['papan', 'formulir', 'メール', '記事', '広告', '職場', '注文', '健康', '駅', '案内']
+    const contextSignals = [
+      'papan',
+      'formulir',
+      'panduan',
+      'artikel',
+      'berita',
+      'iklan',
+      'tempat kerja',
+      'pengiriman',
+      'belanja',
+      'paket',
+      'kelas',
+      'cuaca',
+      'bencana',
+      'politik',
+      'ekonomi',
+      'lingkungan',
+      'メール',
+      '記事',
+      '広告',
+      '職場',
+      '注文',
+      '健康',
+      '駅',
+      '案内',
+    ]
     if (!contextSignals.some((signal) => text.includes(signal))) {
       warn('N3 kanji should usually connect cards/examples to real-world reading contexts')
     }
