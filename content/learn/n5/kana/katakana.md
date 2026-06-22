@@ -142,7 +142,7 @@ Kombinasi khusus untuk kata asing:
 | シェ | she | シェフ (shefu) = koki |
 | ジェ | je | ジェット (jetto) = jet |
 | チェ | che | チェック (chekku) = cek |
-| ティ | ti | パーティー (paatii) = pesta |
+| ティ | ti | ティッシュ (tisshu) = tisu |
 | ディ | di | ディズニー (dizunii) = Disney |
 | ファ | fa | ファックス (fakkusu) = faks |
 | フィ | fi | フィルム (firumu) = film |
