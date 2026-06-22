@@ -35,7 +35,7 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 一昨日, 昨日, 今日
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| 一昨日 | おととい | dua hari yang lalu; juga bisa dibaca いっさくじつ dalam tulisan resmi. |
+| 一昨日 | おととい | dua hari yang lalu; juga bisa dibaca いっさくじつ dalam tulisan formal. |
 | 昨日 | きのう | kemarin; bacaan formalnya さくじつ. |
 | 今日 | きょう | hari ini; kata waktu dasar untuk membedakan tanggal |
 | 明日 | あした | besok; bacaan formal atau tertulisnya あす／みょうにち. |

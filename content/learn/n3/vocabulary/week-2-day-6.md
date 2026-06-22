@@ -53,7 +53,7 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 通帳, はんこ, 印鑑
 |---|---|---|
 | キャッシュカード | キャッシュカード | kartu ATM; kartu bank; sering dipakai di ATM |
 | お札 | おさつ | uang kertas; kata sehari-hari untuk 紙幣 |
-| 硬貨 | こうか | uang koin; kata umum yang cukup resmi. |
+| 硬貨 | こうか | uang koin; kata umum yang cukup formal. |
 
 ### Ukuran dan Jumlah
 
