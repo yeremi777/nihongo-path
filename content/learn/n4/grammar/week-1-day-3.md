@@ -1,6 +1,6 @@
 ---
 title: "9時までに来てください。"
-description: "Belajar memahami grammar N4 untuk batas waktu dan daftar aksi agar bisa memilih bentuk, partikel, dan nuansa yang tepat."
+description: "Belajar pola grammar N4 untuk membedakan batas waktu, tenggat, urutan setelah tindakan, dan daftar aktivitas."
 level: "N4"
 category: "grammar"
 topic: "9時までに来てください。"
@@ -22,7 +22,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N4 untuk batas waktu dan daftar aksi. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan konteks.
+Di akhir pelajaran ini, kamu bisa memilih pola yang tepat untuk batas waktu, tenggat, urutan setelah suatu tindakan, dan daftar aktivitas.
 
 Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya bergantung pada terjemahan bahasa Indonesia.
 
@@ -148,7 +148,7 @@ Contoh inti: 甘いものばかり食べています。
 
 | Pasangan | Cara membedakan |
 |---|---|
-| 〜まで / 〜までに | Bedakan dari fungsi utamanya: Until dibanding by a deadline. Petunjuk pilihan: Gunakan まで saat something continues. Gunakan までに saat something must finish sebelum a point. |
+| 〜まで / 〜までに | Bedakan dari fungsi utamanya: sampai sebagai durasi dibanding paling lambat sebagai tenggat. Petunjuk pilihan: Gunakan まで saat sesuatu berlangsung sampai titik waktu tertentu. Gunakan までに saat sesuatu harus selesai sebelum titik waktu itu. |
 | 〜たり〜たりする / 〜し〜し | Bedakan dari fungsi utamanya: Example actions dibanding reasons/qualities. Petunjuk pilihan: Gunakan たり untuk sample actions. Gunakan し untuk reasons atau multiple qualities. |
 | 〜たり〜たりする / 〜て〜て | Bedakan dari fungsi utamanya: Contoh tindakan dibanding urutan tindakan. Petunjuk pilihan: Gunakan たり saat daftarnya tidak lengkap. Gunakan て untuk menunjukkan urutan atau hubungan. |
 | 〜ばかり / 〜しか〜ない | Bedakan dari fungsi utamanya: Terlalu banyak satu jenis dibanding “hanya” dengan bentuk negatif. Petunjuk pilihan: Gunakan ばかり untuk hal berulang atau fokus berlebihan. Gunakan しか〜ない untuk batasan yang ketat. |

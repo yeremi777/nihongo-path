@@ -1,6 +1,6 @@
 ---
 title: "会社をやめさせられました。"
-description: "Belajar memahami grammar N4 untuk pasif dan kausatif agar bisa memilih bentuk, partikel, dan nuansa yang tepat."
+description: "Belajar pola grammar N4 untuk memahami kalimat pasif, kausatif, dan kausatif-pasif dengan melihat siapa yang terkena dampak."
 level: "N4"
 category: "grammar"
 topic: "会社をやめさせられました。"
@@ -22,7 +22,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N4 untuk pasif dan kausatif. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan konteks.
+Di akhir pelajaran ini, kamu bisa membaca kalimat pasif, kausatif, dan kausatif-pasif dengan melihat siapa yang melakukan tindakan dan siapa yang terkena dampaknya.
 
 Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya bergantung pada terjemahan bahasa Indonesia.
 

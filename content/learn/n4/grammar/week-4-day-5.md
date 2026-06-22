@@ -1,6 +1,6 @@
 ---
 title: "かぎがかかっています。"
-description: "Belajar memahami grammar N4 untuk keadaan hasil dan arah perubahan agar bisa memilih bentuk, partikel, dan nuansa yang tepat."
+description: "Belajar pola grammar N4 untuk menyatakan hasil yang masih terlihat, keadaan yang dibiarkan, dan arah perubahan."
 level: "N4"
 category: "grammar"
 topic: "かぎがかかっています。"
@@ -22,7 +22,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N4 untuk keadaan hasil dan arah perubahan. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan konteks.
+Di akhir pelajaran ini, kamu bisa membedakan hasil yang masih terlihat, keadaan yang sengaja dibiarkan, dan perubahan menuju keadaan tertentu.
 
 Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya bergantung pada terjemahan bahasa Indonesia.
 
@@ -150,7 +150,7 @@ Contoh inti: これからもっと寒くなっていくでしょう。
 | 自動詞 / 他動詞 | Bedakan dari fungsi utamanya: Sesuatu terjadi sendiri dibanding seseorang melakukan sesuatu. Petunjuk pilihan: Gunakan が dengan 自動詞. Gunakan を dengan 他動詞. |
 | 〜ている / 〜てある | Bedakan dari fungsi utamanya: Keadaan hasil dibanding keadaan yang disiapkan lewat tindakan sengaja. Petunjuk pilihan: Gunakan 〜ている untuk keadaannya sendiri. Gunakan 〜てある saat seseorang sengaja menyiapkannya. |
 | 〜てくる / 〜ていく | Bedakan dari fungsi utamanya: Menuju sekarang/sini dibanding menjauh dari sekarang/sini. Petunjuk pilihan: Gunakan 〜てくる untuk perubahan sampai sekarang. Gunakan 〜ていく untuk perubahan mulai sekarang ke depan. |
-| 〜ている / 〜ている（ongoing reference） | Bedakan dari fungsi utamanya: Keadaan hasil dibanding tindakan yang sedang berlangsung. Petunjuk pilihan: Gunakan 〜ている sebagai keadaan hasil dengan 自動詞 seperti 開く, 閉まる, 消える. Gunakan 〜ている progresif untuk tindakan yang sedang berlangsung. |
+| 〜ている / 〜ている（aksi berlangsung） | Bedakan dari fungsi utamanya: keadaan hasil dibanding tindakan yang sedang berlangsung. Petunjuk pilihan: Gunakan 〜ている sebagai keadaan hasil dengan 自動詞 seperti 開く, 閉まる, 消える. Gunakan 〜ている progresif untuk tindakan yang sedang berlangsung. |
 
 ## Kesalahan Umum
 

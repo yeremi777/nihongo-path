@@ -1,6 +1,6 @@
 ---
 title: "今日はお酒を飲まないつもりです。"
-description: "Belajar memahami grammar N4 untuk kutipan, pikiran, rencana agar bisa memilih bentuk, partikel, dan nuansa yang tepat."
+description: "Belajar pola grammar N4 untuk mengutip ucapan, menyampaikan pikiran, menyatakan rencana, dan menjelaskan maksud tindakan."
 level: "N4"
 category: "grammar"
 topic: "今日はお酒を飲まないつもりです。"
@@ -22,7 +22,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N4 untuk kutipan, pikiran, rencana. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan konteks.
+Di akhir pelajaran ini, kamu bisa mengutip ucapan, menyampaikan pikiran, menyatakan rencana, dan menjelaskan tujuan atau maksud tindakan.
 
 Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya bergantung pada terjemahan bahasa Indonesia.
 

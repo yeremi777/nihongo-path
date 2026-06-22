@@ -1,6 +1,6 @@
 ---
 title: "雪を見たことがありません。"
-description: "Belajar memahami grammar N4 untuk pengalaman, keputusan, perubahan agar bisa memilih bentuk, partikel, dan nuansa yang tepat."
+description: "Belajar pola grammar N4 untuk membicarakan pengalaman, keputusan pribadi, dan perubahan keadaan atau kemampuan."
 level: "N4"
 category: "grammar"
 topic: "雪を見たことがありません。"
@@ -22,7 +22,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N4 untuk pengalaman, keputusan, perubahan. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan konteks.
+Di akhir pelajaran ini, kamu bisa membicarakan pengalaman, keputusan pribadi, kebiasaan yang diputuskan sendiri, dan perubahan keadaan atau kemampuan.
 
 Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya bergantung pada terjemahan bahasa Indonesia.
 
@@ -199,7 +199,7 @@ Contoh inti: 日本語が上手になりました。
 | （Vた）ことがある / （Vる）ことがある | Bedakan dari fungsi utamanya: Pengalaman lampau dibanding tindakan sesekali. Petunjuk pilihan: Gunakan （Vた）ことがある untuk “pernah melakukan”. Gunakan （Vる）ことがある untuk “kadang melakukan”. |
 | 〜にする / 〜ことにする | Bedakan dari fungsi utamanya: Memilih nomina dibanding memutuskan melakukan tindakan. Petunjuk pilihan: Gunakan にする untuk memilih item. Gunakan ことにする untuk memutuskan tindakan. |
 | 〜ことにする / 〜ことになる | Bedakan dari fungsi utamanya: Keputusan pribadi dibanding keputusan dari luar. Petunjuk pilihan: Gunakan ことにする saat subjeknya memutuskan sendiri. Gunakan ことになる saat keputusan dibuat oleh situasi, aturan, atau orang lain. |
-| 〜ことにしている / 〜ことにする | Bedakan dari fungsi utamanya: Habit/rule dibanding one-time decision. Petunjuk pilihan: Gunakan ことにしている untuk ongoing personal rule. Gunakan ことにする untuk a decision made now. |
+| 〜ことにしている / 〜ことにする | Bedakan dari fungsi utamanya: kebiasaan atau aturan pribadi dibanding keputusan satu kali. Petunjuk pilihan: Gunakan ことにしている untuk aturan pribadi yang masih berjalan. Gunakan ことにする untuk keputusan yang dibuat saat itu. |
 | 〜くする／〜にする / 〜くなる／〜になる | Bedakan dari fungsi utamanya: Membuat sesuatu berubah dibanding menjadi berubah. Petunjuk pilihan: Gunakan する saat seseorang menyebabkan perubahan. Gunakan なる saat perubahan terjadi atau menjadi hasil. |
 
 ## Kesalahan Umum

@@ -1,6 +1,6 @@
 ---
 title: "習ったことを忘れてしまいました。"
-description: "Belajar memahami grammar N4 untuk persiapan, selesai, mencoba agar bisa memilih bentuk, partikel, dan nuansa yang tepat."
+description: "Belajar pola grammar N4 untuk menyatakan persiapan, tindakan yang selesai, hal yang terlanjur terjadi, dan mencoba melakukan sesuatu."
 level: "N4"
 category: "grammar"
 topic: "習ったことを忘れてしまいました。"
@@ -22,7 +22,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N4 untuk persiapan, selesai, mencoba. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan konteks.
+Di akhir pelajaran ini, kamu bisa membedakan persiapan sebelum tindakan, tindakan yang sudah selesai, hal yang telanjur terjadi, dan mencoba melakukan sesuatu.
 
 Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya bergantung pada terjemahan bahasa Indonesia.
 

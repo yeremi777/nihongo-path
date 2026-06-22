@@ -1,6 +1,6 @@
 ---
 title: "この漢字の読み方はむずかしいです。"
-description: "Belajar memahami grammar N4 untuk penghubung dan cara agar bisa memilih bentuk, partikel, dan nuansa yang tepat."
+description: "Belajar pola grammar N4 untuk menjelaskan cara, menghubungkan tindakan, dan menyatakan keadaan tanpa melakukan sesuatu."
 level: "N4"
 category: "grammar"
 topic: "この漢字の読み方はむずかしいです。"
@@ -22,7 +22,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N4 untuk penghubung dan cara. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan konteks.
+Di akhir pelajaran ini, kamu bisa menjelaskan cara melakukan sesuatu, menghubungkan tindakan, dan menyatakan keadaan tanpa tindakan tertentu.
 
 Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya bergantung pada terjemahan bahasa Indonesia.
 

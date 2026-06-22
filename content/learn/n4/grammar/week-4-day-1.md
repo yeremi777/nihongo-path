@@ -1,6 +1,6 @@
 ---
 title: "夏休みになったら、国に帰ります。"
-description: "Belajar memahami grammar N4 untuk kalau dan kondisi agar bisa memilih bentuk, partikel, dan nuansa yang tepat."
+description: "Belajar pola grammar N4 untuk membedakan kalau sebagai kejadian, syarat umum, topik pembicaraan, dan hasil otomatis."
 level: "N4"
 category: "grammar"
 topic: "夏休みになったら、国に帰ります。"
@@ -22,7 +22,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N4 untuk kalau dan kondisi. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan konteks.
+Di akhir pelajaran ini, kamu bisa membedakan たら, ば, なら, dan と berdasarkan jenis kondisi: kejadian, syarat umum, topik pembicaraan, atau hasil otomatis.
 
 Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya bergantung pada terjemahan bahasa Indonesia.
 
@@ -82,7 +82,7 @@ Bagian ini menghubungkan rumus dan kalimat penuh. Mulai dari bentuk pendeknya du
 
 Gunakan pola ini untuk **kalau/ketika ~; setelah ~ terjadi**. Bentuk dasarnya: （Vた） + ら / （いAdj）-かったら / （なAdj）・（N） + だったら.
 
-Catatan praktis: Flexible condition. Often used untuk one-time future situations atau “after ~ happens.”
+Catatan praktis: Kondisi yang fleksibel. Sering dipakai untuk kejadian masa depan satu kali atau makna “setelah hal itu terjadi”.
 
 Contoh inti: 雨が降ったら、試合は中止です。
 
@@ -90,7 +90,7 @@ Contoh inti: 雨が降ったら、試合は中止です。
 
 Gunakan pola ini untuk **jika ~; kalau ~**. Bentuk dasarnya: （V）ば / （いAdj）-ければ.
 
-Catatan praktis: Often used untuk general condition, saran, atau necessary condition.
+Catatan praktis: Sering dipakai untuk syarat umum, saran, atau kondisi yang perlu terpenuhi.
 
 Contoh inti: 安ければ、買います。
 
@@ -106,7 +106,7 @@ Contoh inti: 東京駅に行くなら、地下鉄が便利です。
 
 Gunakan pola ini untuk **kalau ~, maka secara alami/otomatis ~**. Bentuk dasarnya: （V辞書形） + と.
 
-Catatan praktis: Dipakai untuk hasil yang muncul secara alamis, machine operation, directions, atau repeated facts. Not untuk personal will.
+Catatan praktis: Dipakai untuk hasil yang muncul secara alami, cara kerja alat, petunjuk arah, atau fakta berulang. Jangan dipakai untuk keputusan pribadi.
 
 Contoh inti: このボタンを押すと、ドアが開きます。
 
@@ -133,7 +133,7 @@ Contoh inti: このボタンを押すと、ドアが開きます。
 
 | Pasangan | Cara membedakan |
 |---|---|
-| 〜たら / 〜と | Bedakan dari fungsi utamanya: Flexible event condition dibanding automatic/hasil yang muncul secara alami. Petunjuk pilihan: Gunakan 〜たら untuk a future event atau personal response. Gunakan 〜と untuk automatic hasils. |
+| 〜たら / 〜と | Bedakan dari fungsi utamanya: kondisi kejadian yang fleksibel dibanding hasil otomatis atau alami. Petunjuk pilihan: Gunakan 〜たら untuk kejadian masa depan atau respons pribadi. Gunakan 〜と untuk hasil otomatis. |
 | 〜ば / 〜たら | Bedakan dari fungsi utamanya: Syarat umum dibanding syarat berbasis kejadian. Petunjuk pilihan: Gunakan 〜ば untuk “kalau syaratnya benar/terpenuhi”. Gunakan 〜たら untuk “ketika/setelah hal itu terjadi”. |
 | 〜なら / 〜たら | Bedakan dari fungsi utamanya: “Kalau soal ~” berbasis topik dibanding syarat kejadian. Petunjuk pilihan: Gunakan 〜なら saat menanggapi topik. Gunakan 〜たら saat tindakan/kejadian itu benar-benar terjadi. |
 | 〜と / 〜なら | Bedakan dari fungsi utamanya: Hasil otomatis dibanding saran berdasarkan topik. Petunjuk pilihan: Gunakan 〜と untuk arah atau mekanisme. Gunakan 〜なら untuk saran. |

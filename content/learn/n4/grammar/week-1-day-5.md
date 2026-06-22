@@ -1,6 +1,6 @@
 ---
 title: "音楽を聞きながら勉強しています。"
-description: "Belajar memahami grammar N4 untuk sebab, cara, keadaan, sambil agar bisa memilih bentuk, partikel, dan nuansa yang tepat."
+description: "Belajar pola grammar N4 untuk menghubungkan sebab, cara melakukan sesuatu, keadaan sambil, dan tindakan bersamaan."
 level: "N4"
 category: "grammar"
 topic: "音楽を聞きながら勉強しています。"
@@ -22,7 +22,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N4 untuk sebab, cara, keadaan, sambil. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan konteks.
+Di akhir pelajaran ini, kamu bisa menghubungkan sebab, cara melakukan sesuatu, keadaan yang menyertai, dan dua tindakan yang berlangsung bersamaan.
 
 Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya bergantung pada terjemahan bahasa Indonesia.
 

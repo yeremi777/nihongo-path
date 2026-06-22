@@ -1,6 +1,6 @@
 ---
 title: "試験に受からないかなあ。"
-description: "Belajar memahami grammar N4 untuk penjelasan dan partikel akhir agar bisa memilih bentuk, partikel, dan nuansa yang tepat."
+description: "Belajar pola grammar N4 untuk memberi penjelasan, menyampaikan harapan, bertanya dengan lembut, dan memakai partikel akhir."
 level: "N4"
 category: "grammar"
 topic: "試験に受からないかなあ。"
@@ -22,7 +22,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N4 untuk penjelasan dan partikel akhir. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan konteks.
+Di akhir pelajaran ini, kamu bisa memberi penjelasan dengan のだ, menyampaikan harapan, bertanya dengan lembut, dan membaca nuansa partikel akhir.
 
 Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya bergantung pada terjemahan bahasa Indonesia.
 

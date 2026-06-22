@@ -1,6 +1,6 @@
 ---
 title: "日本語でどう言いますか。"
-description: "Belajar memahami grammar N4 untuk cara menyebut dan bertanya agar bisa memilih bentuk, partikel, dan nuansa yang tepat."
+description: "Belajar pola grammar N4 untuk menyebut nama, menanyakan cara mengatakan sesuatu, dan mengutip istilah dengan という."
 level: "N4"
 category: "grammar"
 topic: "日本語でどう言いますか。"
@@ -22,7 +22,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N4 untuk cara menyebut dan bertanya. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan konteks.
+Di akhir pelajaran ini, kamu bisa memakai という untuk menyebut nama, menanyakan cara mengatakan sesuatu, dan menghubungkan istilah dengan penjelasannya.
 
 Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya bergantung pada terjemahan bahasa Indonesia.
 

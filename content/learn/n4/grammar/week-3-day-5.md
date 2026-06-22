@@ -1,6 +1,6 @@
 ---
 title: "手伝ってくださいませんか。"
-description: "Belajar memahami grammar N4 untuk permintaan dan harapan agar bisa memilih bentuk, partikel, dan nuansa yang tepat."
+description: "Belajar pola grammar N4 untuk membuat permintaan sopan, menyampaikan keinginan, dan berharap orang lain melakukan sesuatu."
 level: "N4"
 category: "grammar"
 topic: "手伝ってくださいませんか。"
@@ -22,7 +22,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N4 untuk permintaan dan harapan. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan konteks.
+Di akhir pelajaran ini, kamu bisa membuat permintaan sopan, menyampaikan keinginan sendiri, dan mengatakan harapan kepada orang lain dengan nuansa yang tepat.
 
 Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya bergantung pada terjemahan bahasa Indonesia.
 

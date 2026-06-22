@@ -1,6 +1,6 @@
 ---
 title: "雨でも行きましょう。"
-description: "Belajar memahami grammar N4 untuk alasan dan kontras agar bisa memilih bentuk, partikel, dan nuansa yang tepat."
+description: "Belajar pola grammar N4 untuk menyatakan alasan, konsesi, kontras, dan keputusan tetap meskipun ada kondisi tertentu."
 level: "N4"
 category: "grammar"
 topic: "雨でも行きましょう。"
@@ -22,7 +22,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N4 untuk alasan dan kontras. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan konteks.
+Di akhir pelajaran ini, kamu bisa menghubungkan alasan, kontras, dan keputusan yang tetap dilakukan meskipun ada kondisi yang tidak ideal.
 
 Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya bergantung pada terjemahan bahasa Indonesia.
 

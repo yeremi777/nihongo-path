@@ -1,6 +1,6 @@
 ---
 title: "一日に二回、歯をみがきます。"
-description: "Belajar memahami grammar N4 untuk menyatakan tempat aksi, frekuensi seperti dua kali sehari, bahan asal, jumlah masing-masing, dan perbandingan sederhana."
+description: "Belajar pola grammar N4 untuk menyatakan lokasi aksi, frekuensi, bahan asal, jumlah masing-masing, dan perbandingan sederhana."
 level: "N4"
 category: "grammar"
 topic: "一日に二回、歯をみがきます。"
@@ -22,7 +22,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa memakai pola N4 dalam topik **一日に二回、歯をみがきます。** untuk partikel dan perbandingan dasar. Fokusnya adalah memahami alasan memilih pola: partikel apa yang menjadi petunjuk, bentuk apa yang berubah, dan konteks apa yang sedang dibicarakan.
+Di akhir pelajaran ini, kamu bisa memakai partikel dan pola dasar N4 untuk menunjukkan tempat aksi, frekuensi, bahan asal, jumlah yang sama, dan perbandingan negatif.
 
 Kamu juga akan membedakan pola yang mirip agar tidak menerjemahkan langsung dari bahasa Indonesia tanpa melihat petunjuk bentuk Jepangnya.
 

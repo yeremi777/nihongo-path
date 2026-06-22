@@ -1,6 +1,6 @@
 ---
 title: "明日は天気がよさそうです。"
-description: "Belajar memahami grammar N4 untuk sepertinya dan kemungkinan agar bisa memilih bentuk, partikel, dan nuansa yang tepat."
+description: "Belajar pola grammar N4 untuk menyatakan kelihatannya, kemungkinan, dan dugaan dari tanda yang terlihat."
 level: "N4"
 category: "grammar"
 topic: "明日は天気がよさそうです。"
@@ -22,7 +22,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N4 untuk sepertinya dan kemungkinan. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan konteks.
+Di akhir pelajaran ini, kamu bisa menyampaikan dugaan, kemungkinan, dan kesan berdasarkan tanda yang terlihat atau informasi yang kamu punya.
 
 Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya bergantung pada terjemahan bahasa Indonesia.
 
@@ -98,7 +98,7 @@ Contoh inti: 主人は疲れているようです。
 
 Gunakan pola ini untuk **sepertinya ~; seperti ~**. Bentuk dasarnya: bentuk biasa + みたいだ / （N） + みたいだ.
 
-Catatan praktis: Conversational version of 〜ようだ. Common in daily speech.
+Catatan praktis: Versi percakapan dari 〜ようだ. Sering dipakai dalam bahasa sehari-hari.
 
 Contoh inti: このパソコンはこわれているみたいです。
 

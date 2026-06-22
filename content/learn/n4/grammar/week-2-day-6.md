@@ -1,6 +1,6 @@
 ---
 title: "もっと勉強したほうがいいですよ。"
-description: "Belajar memahami grammar N4 untuk nasihat dan perintah agar bisa memilih bentuk, partikel, dan nuansa yang tepat."
+description: "Belajar pola grammar N4 untuk memberi nasihat, menyampaikan perintah, melarang, dan meminta seseorang melakukan sesuatu."
 level: "N4"
 category: "grammar"
 topic: "もっと勉強したほうがいいですよ。"
@@ -22,7 +22,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N4 untuk nasihat dan perintah. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan konteks.
+Di akhir pelajaran ini, kamu bisa membedakan nasihat, perintah langsung, larangan, dan permintaan agar orang lain melakukan sesuatu.
 
 Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya bergantung pada terjemahan bahasa Indonesia.
 

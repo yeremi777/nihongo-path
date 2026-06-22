@@ -1,6 +1,6 @@
 ---
 title: "漢字は少ししか書けません。"
-description: "Belajar memahami grammar N4 untuk jumlah, contoh, dan batasan agar bisa memilih bentuk, partikel, dan nuansa yang tepat."
+description: "Belajar pola grammar N4 untuk membatasi jumlah, memberi contoh, menyatakan hanya, dan menekankan hal yang tidak lebih dari itu."
 level: "N4"
 category: "grammar"
 topic: "漢字は少ししか書けません。"
@@ -22,7 +22,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N4 untuk jumlah, contoh, dan batasan. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan konteks.
+Di akhir pelajaran ini, kamu bisa membedakan pola yang membatasi jumlah, memberi contoh, dan menekankan bahwa sesuatu hanya sebatas itu.
 
 Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya bergantung pada terjemahan bahasa Indonesia.
 

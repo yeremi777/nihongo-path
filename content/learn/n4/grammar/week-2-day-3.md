@@ -1,6 +1,6 @@
 ---
 title: "教えてくれてありがとう。"
-description: "Belajar memahami grammar N4 untuk memberi dan menerima bantuan agar bisa memilih bentuk, partikel, dan nuansa yang tepat."
+description: "Belajar pola grammar N4 untuk memberi, menerima, dan meminta bantuan sambil melihat arah manfaat dalam kalimat."
 level: "N4"
 category: "grammar"
 topic: "教えてくれてありがとう。"
@@ -22,7 +22,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N4 untuk memberi dan menerima bantuan. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan konteks.
+Di akhir pelajaran ini, kamu bisa melihat siapa yang memberi bantuan, siapa yang menerima manfaat, dan kapan pola memberi-menerima perlu dipakai.
 
 Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya bergantung pada terjemahan bahasa Indonesia.
 

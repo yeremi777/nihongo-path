@@ -1,6 +1,6 @@
 ---
 title: "この本は使いやすいです。"
-description: "Belajar memahami grammar N4 untuk terlalu, mudah, sulit agar bisa memilih bentuk, partikel, dan nuansa yang tepat."
+description: "Belajar pola grammar N4 untuk menyatakan terlalu, mudah dilakukan, sulit dilakukan, dan tindakan yang tiba-tiba mulai terjadi."
 level: "N4"
 category: "grammar"
 topic: "この本は使いやすいです。"
@@ -22,7 +22,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N4 untuk terlalu, mudah, sulit. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan konteks.
+Di akhir pelajaran ini, kamu bisa menyatakan sesuatu yang terlalu berlebihan, mudah atau sulit dilakukan, dan tindakan yang mulai terjadi.
 
 Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya bergantung pada terjemahan bahasa Indonesia.
 
@@ -114,7 +114,7 @@ Contoh inti: この地図はわかりにくいです。
 
 Gunakan pola ini untuk **mulai ~ secara tiba-tiba**. Bentuk dasarnya: （Vますstem） + 出す.
 
-Catatan praktis: Often used saat something starts suddenly atau unexpectedly.
+Catatan praktis: Sering dipakai saat sesuatu mulai terjadi secara tiba-tiba atau tidak terduga.
 
 Contoh inti: 赤ちゃんが急に泣き出しました。
 

@@ -1,6 +1,6 @@
 ---
 title: "漢字を書くのは大変です。"
-description: "Belajar memahami grammar N4 untuk pertanyaan tidak langsung agar bisa memilih bentuk, partikel, dan nuansa yang tepat."
+description: "Belajar pola grammar N4 untuk membuat pertanyaan tidak langsung, mengubah tindakan menjadi topik, dan menyatakan kegunaan."
 level: "N4"
 category: "grammar"
 topic: "漢字を書くのは大変です。"
@@ -22,7 +22,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N4 untuk pertanyaan tidak langsung. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan konteks.
+Di akhir pelajaran ini, kamu bisa membuat pertanyaan tidak langsung, mengubah tindakan menjadi topik dengan の, dan menyatakan kegunaan suatu benda atau kegiatan.
 
 Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya bergantung pada terjemahan bahasa Indonesia.
 
@@ -90,7 +90,7 @@ Contoh inti: 明日テストがあるかどうか、聞いてみます。
 
 Gunakan pola ini untuk **pertanyaan tidak langsung dengan siapa, di mana, apa, dll.**. Bentuk dasarnya: 疑問詞 + （Klausa bentuk biasa） + か.
 
-Catatan praktis: Dipakai saat a question becomes part of a sentence.
+Catatan praktis: Dipakai saat pertanyaan menjadi bagian dari kalimat yang lebih besar.
 
 Contoh inti: 田中さんがどこに住んでいるか知っていますか。
 
@@ -133,7 +133,7 @@ Contoh inti: このペンは漢字を書くのに便利です。
 
 | Pasangan | Cara membedakan |
 |---|---|
-| 〜かどうか / 疑問詞〜か | Bedakan dari fungsi utamanya: Yes/no question dibanding question-word question. Petunjuk pilihan: Gunakan pola pertama untuk “whether.” Gunakan pola kedua dengan words like どこ, だれ, 何. |
+| 〜かどうか / 疑問詞〜か | Bedakan dari fungsi utamanya: pertanyaan ya/tidak dibanding pertanyaan dengan kata tanya. Petunjuk pilihan: Gunakan pola pertama untuk “apakah ~ atau tidak”. Gunakan pola kedua dengan kata tanya seperti どこ, だれ, atau 何. |
 | 〜の / 〜こと | Bedakan dari fungsi utamanya: Tindakan konkret/pribadi dibanding ide yang lebih abstrak/formal. Petunjuk pilihan: Gunakan の untuk tindakan langsung, melihat, mendengar, atau kesukaan. Gunakan こと untuk aturan atau fakta abstrak. |
 | 〜のに / 〜ために | Bedakan dari fungsi utamanya: Frasa kegunaan/tujuan dibanding tujuan langsung. Petunjuk pilihan: Gunakan のに untuk “dipakai untuk / diperlukan untuk.” Gunakan ために untuk tujuan langsung. |
 | 〜のに（用途） / 〜のに（逆接） | Bedakan dari fungsi utamanya: Kegunaan atau tujuan dibanding “padahal”. Petunjuk pilihan: Gunakan pola pertama dengan （V辞書形）. Gunakan pola kedua dengan bentuk biasa dan kontras yang terasa emosional. |
@@ -143,7 +143,7 @@ Contoh inti: このペンは漢字を書くのに便利です。
 | Salah | Benar | Kenapa |
 |---|---|---|
 | 明日テストがあるか知っていますか。 | 明日テストがあるかどうか知っていますか。 | Gunakan 〜かどうか untuk yes/no embedded questions |
-| 田中さんが住んでいるか知っていますか。 | 田中さんがどこに住んでいるか知っていますか。 | Gunakan a question word dengan 〜か |
+| 田中さんが住んでいるか知っていますか。 | 田中さんがどこに住んでいるか知っていますか。 | Gunakan kata tanya dengan 〜か |
 | このペンは漢字を書いたのに便利です。 | このペンは漢字を書くのに便利です。 | のに untuk kegunaan memakai bentuk kamus |
 
 Catatan untuk pembelajar Indonesia: “Apakah” dalam bahasa Indonesia bisa mencakup pertanyaan langsung dan tidak langsung. 〜かどうか = apakah ~ atau tidak; 疑問詞〜か = siapa/di mana/apa/mengapa di dalam kalimat; 〜の = mengubah tindakan menjadi “hal melakukan ~”.

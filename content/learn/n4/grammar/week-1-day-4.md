@@ -1,6 +1,6 @@
 ---
 title: "今、勉強しているところです。"
-description: "Belajar memahami grammar N4 untuk waktu kejadian dan sedang berlangsung agar bisa memilih bentuk, partikel, dan nuansa yang tepat."
+description: "Belajar pola grammar N4 untuk menyatakan aksi yang sedang berlangsung, kejadian yang baru selesai, dan waktu di dalam rentang tertentu."
 level: "N4"
 category: "grammar"
 topic: "今、勉強しているところです。"
@@ -22,7 +22,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N4 untuk waktu kejadian dan sedang berlangsung. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan konteks.
+Di akhir pelajaran ini, kamu bisa menyatakan aksi yang sedang berlangsung, kejadian yang baru saja selesai, dan waktu yang berada dalam suatu rentang.
 
 Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya bergantung pada terjemahan bahasa Indonesia.
 
@@ -130,7 +130,7 @@ Contoh inti: 子どものとき、よく川で泳ぎました。
 
 Gunakan pola ini untuk **sedang ~; selama ~**. Bentuk dasarnya: （N） + 中.
 
-Catatan praktis: Often read ちゅう. Watch fixed readings like 午前中 dan 今日中.
+Catatan praktis: Sering dibaca ちゅう. Perhatikan bacaan tetap seperti 午前中 dan 今日中.
 
 Contoh inti: 会議中です。
 
