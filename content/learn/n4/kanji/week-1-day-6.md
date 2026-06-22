@@ -45,7 +45,6 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 <p>朝 menunjuk pagi dan sering muncul pada jadwal makan.</p><ul>
     <li><span class="ruby-word"><ruby>朝食<rt>ちょうしょく</rt></ruby></span> - sarapan</li>
     <li><span class="ruby-word"><ruby>今朝<rt>けさ</rt></ruby></span> - pagi ini</li>
-    <li><span class="ruby-word"><ruby>朝礼<rt>ちょうれい</rt></ruby></span> - apel pagi</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -58,8 +57,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>昼 dipakai untuk tengah hari dan waktu makan siang.</p><ul>
     <li><span class="ruby-word"><ruby>昼食<rt>ちゅうしょく</rt></ruby></span> - makan siang</li>
+    <li><span class="ruby-word"><ruby>昼<rt>ひる</rt></ruby></span> - siang</li>
     <li><span class="ruby-word"><ruby>昼間<rt>ひるま</rt></ruby></span> - siang hari</li>
-    <li><span class="ruby-word"><ruby>昼休<rt>ひるやす</rt></ruby>み</span> - istirahat siang</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -71,9 +70,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>Saat membaca kalender sekolah Jepang, 春 membantu mengenali musim semi, libur, dan istilah awal tahun.</p><ul>
-    <li><span class="ruby-word"><ruby>春休<rt>はるやす</rt></ruby>み</span> - libur musim semi</li>
-    <li><span class="ruby-word"><ruby>春分<rt>しゅんぶん</rt></ruby></span> - ekuinoks musim semi</li>
-    <li><span class="ruby-word"><ruby>新春<rt>しんしゅん</rt></ruby></span> - awal musim semi/tahun baru</li>
+    <li><span class="ruby-word"><ruby>春<rt>はる</rt></ruby></span> - musim semi</li>
+    <li><span class="ruby-word"><ruby>春休み<rt>はるやすみ</rt></ruby></span> - libur musim semi</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -85,9 +83,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>夏 biasanya muncul di pengumuman sekolah, kalender, dan rencana perjalanan yang berkaitan dengan musim panas.</p><ul>
-    <li><span class="ruby-word"><ruby>夏休<rt>なつやす</rt></ruby>み</span> - libur musim panas</li>
-    <li><span class="ruby-word"><ruby>夏季<rt>かき</rt></ruby></span> - musim panas</li>
-    <li><span class="ruby-word"><ruby>初夏<rt>しょか</rt></ruby></span> - awal musim panas</li>
+    <li><span class="ruby-word"><ruby>夏<rt>なつ</rt></ruby></span> - musim panas</li>
+    <li><span class="ruby-word"><ruby>夏休み<rt>なつやすみ</rt></ruby></span> - libur musim panas</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -99,9 +96,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>秋 menunjuk musim gugur dan sering muncul di kalender.</p><ul>
-    <li><span class="ruby-word"><ruby>秋分<rt>しゅうぶん</rt></ruby></span> - ekuinoks musim gugur</li>
-    <li><span class="ruby-word"><ruby>秋風<rt>あきかぜ</rt></ruby></span> - angin musim gugur</li>
-    <li><span class="ruby-word"><ruby>秋<rt>あき</rt></ruby><ruby>学期<rt>がっき</rt></ruby></span> - semester gugur</li>
+    <li><span class="ruby-word"><ruby>秋<rt>あき</rt></ruby></span> - musim gugur</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -113,9 +108,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>冬 sering muncul pada liburan dan musim dingin.</p><ul>
-    <li><span class="ruby-word"><ruby>冬休<rt>ふゆやす</rt></ruby>み</span> - libur musim dingin</li>
-    <li><span class="ruby-word"><ruby>冬季<rt>とうき</rt></ruby></span> - musim dingin</li>
-    <li><span class="ruby-word"><ruby>真冬<rt>まふゆ</rt></ruby></span> - tengah musim dingin</li>
+    <li><span class="ruby-word"><ruby>冬<rt>ふゆ</rt></ruby></span> - musim dingin</li>
+    <li><span class="ruby-word"><ruby>冬休み<rt>ふゆやすみ</rt></ruby></span> - libur musim dingin</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -129,21 +123,20 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 <p>京 muncul dalam nama kota besar seperti Kyoto dan Tokyo.</p><ul>
     <li><span class="ruby-word"><ruby>京都<rt>きょうと</rt></ruby></span> - Kyoto</li>
     <li><span class="ruby-word"><ruby>東京<rt>とうきょう</rt></ruby></span> - Tokyo</li>
-    <li><span class="ruby-word"><ruby>京阪<rt>けいはん</rt></ruby></span> - Kyoto-Osaka</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
   <summary>
     <span class="kanji-char">都</span>
     <span class="kanji-meta">
-      <strong>metropolis</strong>
+      <strong>wilayah metropolitan, ibu kota</strong>
       <span class="kanji-reading"><span>onyomi: ト、ツ</span><span>kunyomi: みやこ</span></span>
     </span>
   </summary>
-<p>都 dipakai untuk metropolis dan juga kata seperti 都合.</p><ul>
-    <li><span class="ruby-word"><ruby>東京<rt>とうきょう</rt></ruby><ruby>都<rt>と</rt></ruby></span> - Tokyo Metropolis</li>
-    <li><span class="ruby-word"><ruby>都合<rt>つごう</rt></ruby></span> - keadaan/jadwal</li>
-    <li><span class="ruby-word"><ruby>都市<rt>とし</rt></ruby></span> - kota besar</li>
+<p>都 dipakai untuk wilayah metropolitan, ibu kota, dan juga kata seperti 都合.</p><ul>
+    <li><span class="ruby-word"><ruby>都<rt>と</rt></ruby></span> - wilayah metropolitan, ibu kota</li>
+    <li><span class="ruby-word"><ruby>東京都<rt>とうきょうと</rt></ruby></span> - wilayah metropolitan Tokyo</li>
+    <li><span class="ruby-word"><ruby>都合がいい<rt>つごうがいい</rt></ruby></span> - kondisinya cocok</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -155,9 +148,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>府 muncul pada nama prefektur khusus seperti Osaka dan Kyoto.</p><ul>
-    <li><span class="ruby-word"><ruby>大阪<rt>おおさか</rt></ruby><ruby>府<rt>ふ</rt></ruby></span> - Prefektur Osaka</li>
-    <li><span class="ruby-word"><ruby>京都<rt>きょうと</rt></ruby><ruby>府<rt>ふ</rt></ruby></span> - Prefektur Kyoto</li>
-    <li><span class="ruby-word"><ruby>都道府県<rt>とどうふけん</rt></ruby></span> - pembagian prefektur Jepang</li>
+    <li><span class="ruby-word"><ruby>都道府県<rt>とどうふけん</rt></ruby></span> - prefektur Jepang</li>
+    <li><span class="ruby-word"><ruby>京都府<rt>きょうとふ</rt></ruby></span> - Prefektur Kyoto</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -169,7 +161,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>県 adalah penanda prefektur biasa di alamat Jepang.</p><ul>
-    <li><span class="ruby-word"><ruby>青森<rt>あおもり</rt></ruby><ruby>県<rt>けん</rt></ruby></span> - Prefektur Aomori</li>
+    <li><span class="ruby-word"><ruby>県<rt>けん</rt></ruby></span> - prefektur</li>
+    <li><span class="ruby-word"><ruby>青森県<rt>あおもりけん</rt></ruby></span> - Prefektur Aomori</li>
     <li><span class="ruby-word"><ruby>県庁<rt>けんちょう</rt></ruby></span> - kantor prefektur</li>
     <li><span class="ruby-word"><ruby>県民<rt>けんみん</rt></ruby></span> - warga prefektur</li>
   </ul></details>
@@ -184,8 +177,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>市 muncul pada kota, warga kota, dan kantor kota.</p><ul>
     <li><span class="ruby-word"><ruby>市民<rt>しみん</rt></ruby></span> - warga kota</li>
-    <li><span class="ruby-word"><ruby>市役所<rt>しやくしょ</rt></ruby></span> - balai kota</li>
-    <li><span class="ruby-word"><ruby>市場<rt>しじょう</rt></ruby></span> - pasar</li>
+    <li><span class="ruby-word"><ruby>市<rt>し</rt></ruby></span> - kota</li>
+    <li><span class="ruby-word"><ruby>市役所<rt>しやくしょ</rt></ruby></span> - kantor kota</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -197,9 +190,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>町 menunjuk kota kecil, distrik, atau lingkungan.</p><ul>
-    <li><span class="ruby-word"><ruby>町内<rt>ちょうない</rt></ruby></span> - dalam lingkungan</li>
-    <li><span class="ruby-word"><ruby>町長<rt>ちょうちょう</rt></ruby></span> - kepala kota kecil</li>
-    <li><span class="ruby-word"><ruby>下町<rt>したまち</rt></ruby></span> - area kota lama</li>
+    <li><span class="ruby-word"><ruby>〜町<rt>〜まち</rt></ruby></span> - kota/kawasan bernama ...</li>
+    <li><span class="ruby-word"><ruby>町<rt>まち</rt></ruby></span> - kota kecil, kawasan</li>
   </ul></details>
 </div>
 
@@ -227,7 +219,7 @@ Untuk membaca alamat Jepang, cari urutan besar ke kecil: 都, 府, 県, 市, lal
 
 ## Kesalahan Umum
 
-京都 dan 東京都 sama-sama memakai 京/都, tetapi 京都 adalah Kyoto, sedangkan 東京都 adalah Tokyo Metropolis. Baca nama tempat sebagai satu unit.
+京都 dan 東京都 sama-sama memakai 京/都, tetapi 京都 adalah Kyoto, sedangkan 東京都 adalah wilayah metropolitan Tokyo. Baca nama tempat sebagai satu unit.
 
 ## Mini Practice
 
@@ -255,11 +247,11 @@ explanation: "夏休み adalah libur musim panas. 春休み adalah libur musim s
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti Tokyo Metropolis?"
+question: "Kata mana yang berarti wilayah metropolitan Tokyo?"
 optionA: "東京都"
 optionB: "京都府"
 correct: "東京都"
-explanation: "東京都 adalah Tokyo Metropolis. 京都府 adalah Prefektur Kyoto."
+explanation: "東京都 adalah wilayah metropolitan Tokyo. 京都府 adalah Prefektur Kyoto."
 ---
 ::
 

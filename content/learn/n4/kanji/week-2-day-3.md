@@ -43,9 +43,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>寒 dipakai untuk dingin cuaca, musim, dan keluhan tentang suhu rendah.</p><ul>
-    <li><span class="ruby-word"><ruby>寒中<rt>かんちゅう</rt></ruby></span> - tengah musim dingin</li>
-    <li><span class="ruby-word"><ruby>寒気<rt>さむけ</rt></ruby></span> - rasa dingin</li>
-    <li><span class="ruby-word"><ruby>防寒<rt>ぼうかん</rt></ruby></span> - perlindungan dingin</li>
+    <li><span class="ruby-word"><ruby>寒い<rt>さむい</rt></ruby></span> - dingin (cuaca)</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -57,9 +55,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>暑 khusus untuk panas cuaca, bukan benda panas.</p><ul>
-    <li><span class="ruby-word"><ruby>暑中<rt>しょちゅう</rt></ruby></span> - tengah musim panas</li>
-    <li><span class="ruby-word"><ruby>猛暑<rt>もうしょ</rt></ruby></span> - panas ekstrem</li>
-    <li><span class="ruby-word"><ruby>残暑<rt>ざんしょ</rt></ruby></span> - sisa panas musim panas</li>
+    <li><span class="ruby-word"><ruby>暑い<rt>あつい</rt></ruby></span> - panas (cuaca)</li>
+    <li><span class="ruby-word"><ruby>蒸し暑い<rt>むしあつい</rt></ruby></span> - panas lembap</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -71,9 +68,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>重 menjelaskan berat fisik atau pentingnya suatu hal.</p><ul>
+    <li><span class="ruby-word"><ruby>重い<rt>おもい</rt></ruby></span> - berat</li>
     <li><span class="ruby-word"><ruby>体重<rt>たいじゅう</rt></ruby></span> - berat badan</li>
-    <li><span class="ruby-word"><ruby>重量<rt>じゅうりょう</rt></ruby></span> - berat</li>
-    <li><span class="ruby-word"><ruby>重要<rt>じゅうよう</rt></ruby></span> - penting</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -85,9 +81,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>軽 adalah lawan dari berat dan bisa berarti ringan dalam rasa atau tingkat.</p><ul>
+    <li><span class="ruby-word"><ruby>軽い<rt>かるい</rt></ruby></span> - ringan</li>
     <li><span class="ruby-word"><ruby>軽食<rt>けいしょく</rt></ruby></span> - makanan ringan</li>
-    <li><span class="ruby-word"><ruby>軽量<rt>けいりょう</rt></ruby></span> - ringan bobot</li>
-    <li><span class="ruby-word"><ruby>軽傷<rt>けいしょう</rt></ruby></span> - luka ringan</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -99,9 +94,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>広 muncul untuk ruang yang luas atau penyebaran.</p><ul>
+    <li><span class="ruby-word"><ruby>広い<rt>ひろい</rt></ruby></span> - luas</li>
     <li><span class="ruby-word"><ruby>広場<rt>ひろば</rt></ruby></span> - lapangan</li>
-    <li><span class="ruby-word"><ruby>広告<rt>こうこく</rt></ruby></span> - iklan</li>
-    <li><span class="ruby-word"><ruby>広大<rt>こうだい</rt></ruby></span> - sangat luas</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -113,9 +107,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>元 dapat berarti asal, semula, atau sehat pada 元気.</p><ul>
-    <li><span class="ruby-word"><ruby>元気<rt>げんき</rt></ruby></span> - sehat/bersemangat</li>
-    <li><span class="ruby-word"><ruby>地元<rt>じもと</rt></ruby></span> - daerah asal</li>
-    <li><span class="ruby-word"><ruby>元日<rt>がんじつ</rt></ruby></span> - hari pertama tahun</li>
+    <li><span class="ruby-word"><ruby>元気な<rt>げんきな</rt></ruby></span> - sehat, bersemangat</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -129,7 +121,6 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 <p>病 muncul pada penyakit dan fasilitas kesehatan.</p><ul>
     <li><span class="ruby-word"><ruby>病院<rt>びょういん</rt></ruby></span> - rumah sakit</li>
     <li><span class="ruby-word"><ruby>病気<rt>びょうき</rt></ruby></span> - sakit/penyakit</li>
-    <li><span class="ruby-word"><ruby>病室<rt>びょうしつ</rt></ruby></span> - kamar pasien</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -141,9 +132,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>起 dipakai untuk bangun tidur atau sesuatu yang terjadi.</p><ul>
+    <li><span class="ruby-word"><ruby>起きる<rt>おきる</rt></ruby></span> - bangun, terjadi</li>
+    <li><span class="ruby-word"><ruby>起こす<rt>おこす</rt></ruby></span> - membangunkan, menyebabkan</li>
     <li><span class="ruby-word"><ruby>起床<rt>きしょう</rt></ruby></span> - bangun tidur</li>
-    <li><span class="ruby-word"><ruby>起立<rt>きりつ</rt></ruby></span> - berdiri</li>
-    <li><span class="ruby-word"><ruby>早起<rt>はやお</rt></ruby>き</span> - bangun pagi</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -155,9 +146,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>寝 menunjuk tidur, tempat tidur, dan rutinitas istirahat di rumah.</p><ul>
+    <li><span class="ruby-word"><ruby>寝る<rt>ねる</rt></ruby></span> - tidur</li>
+    <li><span class="ruby-word"><ruby>寝坊<rt>ねぼう</rt></ruby></span> - tidur, berbaring</li>
     <li><span class="ruby-word"><ruby>寝室<rt>しんしつ</rt></ruby></span> - kamar tidur</li>
-    <li><span class="ruby-word"><ruby>寝坊<rt>ねぼう</rt></ruby></span> - bangun kesiangan</li>
-    <li><span class="ruby-word"><ruby>昼寝<rt>ひるね</rt></ruby></span> - tidur siang</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -169,9 +160,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>始 menandai awal kegiatan, jam mulai, dan pembukaan acara.</p><ul>
+    <li><span class="ruby-word"><ruby>始まる<rt>はじまる</rt></ruby></span> - mulai</li>
+    <li><span class="ruby-word"><ruby>始める<rt>はじめる</rt></ruby></span> - memulai</li>
     <li><span class="ruby-word"><ruby>始業<rt>しぎょう</rt></ruby></span> - mulai kerja/sekolah</li>
-    <li><span class="ruby-word"><ruby>開始<rt>かいし</rt></ruby></span> - mulai</li>
-    <li><span class="ruby-word"><ruby>年始<rt>ねんし</rt></ruby></span> - awal tahun</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -183,8 +174,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>終 menandai akhir kegiatan, layanan, atau penutupan jadwal harian.</p><ul>
+    <li><span class="ruby-word"><ruby>終わる<rt>おわる</rt></ruby></span> - selesai</li>
+    <li><span class="ruby-word"><ruby>終える<rt>おえる</rt></ruby></span> - menyelesaikan</li>
     <li><span class="ruby-word"><ruby>終電<rt>しゅうでん</rt></ruby></span> - kereta terakhir</li>
-    <li><span class="ruby-word"><ruby>終了<rt>しゅうりょう</rt></ruby></span> - selesai</li>
+    <li><span class="ruby-word"><ruby>終了<rt>しゅうりょう</rt></ruby></span> - berakhir</li>
     <li><span class="ruby-word"><ruby>終点<rt>しゅうてん</rt></ruby></span> - stasiun akhir</li>
   </ul></details>
 </div>

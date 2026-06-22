@@ -43,9 +43,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>研 muncul pada penelitian dan kegiatan mengasah pengetahuan.</p><ul>
+    <li><span class="ruby-word"><ruby>研究する<rt>けんきゅうする</rt></ruby></span> - meneliti</li>
     <li><span class="ruby-word"><ruby>研究<rt>けんきゅう</rt></ruby></span> - penelitian</li>
-    <li><span class="ruby-word"><ruby>研修<rt>けんしゅう</rt></ruby></span> - pelatihan</li>
-    <li><span class="ruby-word"><ruby>研磨<rt>けんま</rt></ruby></span> - memoles</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -57,9 +56,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>究 sering berpasangan dengan 研 dalam kata penelitian.</p><ul>
-    <li><span class="ruby-word"><ruby>研究<rt>けんきゅう</rt></ruby><ruby>室<rt>しつ</rt></ruby></span> - ruang penelitian</li>
-    <li><span class="ruby-word"><ruby>研究<rt>けんきゅう</rt></ruby><ruby>者<rt>しゃ</rt></ruby></span> - peneliti</li>
-    <li><span class="ruby-word"><ruby>追究<rt>ついきゅう</rt></ruby></span> - penyelidikan mendalam</li>
+    <li><span class="ruby-word"><ruby>研究室<rt>けんきゅうしつ</rt></ruby></span> - ruang penelitian</li>
+    <li><span class="ruby-word"><ruby>研究生<rt>けんきゅうせい</rt></ruby></span> - mahasiswa peneliti</li>
+    <li><span class="ruby-word"><ruby>研究者<rt>けんきゅうしゃ</rt></ruby></span> - peneliti</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -72,8 +71,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>住 muncul pada alamat, tempat tinggal, dan percakapan tentang rumah.</p><ul>
     <li><span class="ruby-word"><ruby>住所<rt>じゅうしょ</rt></ruby></span> - alamat</li>
-    <li><span class="ruby-word"><ruby>住民<rt>じゅうみん</rt></ruby></span> - penduduk</li>
-    <li><span class="ruby-word"><ruby>住宅<rt>じゅうたく</rt></ruby></span> - perumahan</li>
+    <li><span class="ruby-word"><ruby>住む<rt>すむ</rt></ruby></span> - tinggal</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -86,6 +84,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>所 menandai lokasi, tempat tertentu, dan penunjuk tempat di peta.</p><ul>
     <li><span class="ruby-word"><ruby>場所<rt>ばしょ</rt></ruby></span> - tempat</li>
+    <li><span class="ruby-word"><ruby>所<rt>ところ</rt></ruby></span> - tempat</li>
     <li><span class="ruby-word"><ruby>台所<rt>だいどころ</rt></ruby></span> - dapur</li>
     <li><span class="ruby-word"><ruby>住所<rt>じゅうしょ</rt></ruby></span> - alamat</li>
   </ul></details>
@@ -99,9 +98,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>注 muncul dalam peringatan, catatan penting, dan pesanan barang.</p><ul>
+    <li><span class="ruby-word"><ruby>注意する<rt>ちゅういする</rt></ruby></span> - berhati-hati, memperhatikan</li>
+    <li><span class="ruby-word"><ruby>注文する<rt>ちゅうもんする</rt></ruby></span> - memesan</li>
     <li><span class="ruby-word"><ruby>注意<rt>ちゅうい</rt></ruby></span> - perhatian/hati-hati</li>
     <li><span class="ruby-word"><ruby>注文<rt>ちゅうもん</rt></ruby></span> - pesanan</li>
-    <li><span class="ruby-word"><ruby>注目<rt>ちゅうもく</rt></ruby></span> - perhatian</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -115,7 +115,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 <p>意 berhubungan dengan makna, niat, atau pendapat.</p><ul>
     <li><span class="ruby-word"><ruby>意味<rt>いみ</rt></ruby></span> - arti</li>
     <li><span class="ruby-word"><ruby>意見<rt>いけん</rt></ruby></span> - pendapat</li>
-    <li><span class="ruby-word"><ruby>注意<rt>ちゅうい</rt></ruby></span> - perhatian</li>
+    <li><span class="ruby-word"><ruby>注意<rt>ちゅうい</rt></ruby></span> - perhatian/hati-hati</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -129,7 +129,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 <p>教 muncul pada kelas, pendidikan, dan kegiatan mengajar.</p><ul>
     <li><span class="ruby-word"><ruby>教室<rt>きょうしつ</rt></ruby></span> - kelas</li>
     <li><span class="ruby-word"><ruby>教育<rt>きょういく</rt></ruby></span> - pendidikan</li>
-    <li><span class="ruby-word"><ruby>教会<rt>きょうかい</rt></ruby></span> - gereja</li>
+    <li><span class="ruby-word"><ruby>教える<rt>おしえる</rt></ruby></span> - mengajar, memberi tahu</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -142,8 +142,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>発 muncul pada keberangkatan, pengucapan, dan sesuatu yang dimulai.</p><ul>
     <li><span class="ruby-word"><ruby>発音<rt>はつおん</rt></ruby></span> - pengucapan</li>
-    <li><span class="ruby-word"><ruby>出発<rt>しゅっぱつ</rt></ruby></span> - keberangkatan</li>
-    <li><span class="ruby-word"><ruby>発表<rt>はっぴょう</rt></ruby></span> - presentasi</li>
+    <li><span class="ruby-word"><ruby>出発する<rt>しゅっぱつする</rt></ruby></span> - berangkat</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -156,8 +155,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>音 menunjuk bunyi, suara, musik, dan pengaturan volume perangkat.</p><ul>
     <li><span class="ruby-word"><ruby>音楽<rt>おんがく</rt></ruby></span> - musik</li>
+    <li><span class="ruby-word"><ruby>音<rt>おと</rt></ruby></span> - bunyi, suara</li>
     <li><span class="ruby-word"><ruby>発音<rt>はつおん</rt></ruby></span> - pengucapan</li>
-    <li><span class="ruby-word"><ruby>録音<rt>ろくおん</rt></ruby></span> - rekaman suara</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -169,9 +168,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>工 muncul pada pabrik, pekerjaan konstruksi, dan industri.</p><ul>
-    <li><span class="ruby-word"><ruby>工場<rt>こうじょう</rt></ruby></span> - pabrik</li>
+    <li><span class="ruby-word"><ruby>工業<rt>こうぎょう</rt></ruby></span> - industri</li>
     <li><span class="ruby-word"><ruby>工事<rt>こうじ</rt></ruby></span> - pekerjaan konstruksi</li>
-    <li><span class="ruby-word"><ruby>人工<rt>じんこう</rt></ruby></span> - buatan manusia</li>
+    <li><span class="ruby-word"><ruby>工場<rt>こうじょう</rt></ruby></span> - pabrik</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -183,7 +182,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>業 muncul pada pelajaran, kelulusan, bisnis, dan industri.</p><ul>
-    <li><span class="ruby-word"><ruby>授業<rt>じゅぎょう</rt></ruby></span> - pelajaran</li>
+    <li><span class="ruby-word"><ruby>授業<rt>じゅぎょう</rt></ruby></span> - pelajaran, kelas</li>
     <li><span class="ruby-word"><ruby>卒業<rt>そつぎょう</rt></ruby></span> - kelulusan</li>
     <li><span class="ruby-word"><ruby>工業<rt>こうぎょう</rt></ruby></span> - industri</li>
   </ul></details>

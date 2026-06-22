@@ -58,8 +58,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>映 dipakai untuk gambar yang diproyeksikan atau terlihat di layar.</p><ul>
     <li><span class="ruby-word"><ruby>映画<rt>えいが</rt></ruby></span> - film</li>
-    <li><span class="ruby-word"><ruby>映画<rt>えいが</rt></ruby><ruby>館<rt>かん</rt></ruby></span> - bioskop</li>
-    <li><span class="ruby-word"><ruby>上映<rt>じょうえい</rt></ruby></span> - pemutaran film</li>
+    <li><span class="ruby-word"><ruby>映画館<rt>えいがかん</rt></ruby></span> - bioskop</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -73,7 +72,6 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 <p>計 muncul pada alat ukur waktu, jadwal, dan perencanaan aktivitas harian.</p><ul>
     <li><span class="ruby-word"><ruby>時計<rt>とけい</rt></ruby></span> - jam</li>
     <li><span class="ruby-word"><ruby>計画<rt>けいかく</rt></ruby></span> - rencana</li>
-    <li><span class="ruby-word"><ruby>会計<rt>かいけい</rt></ruby></span> - kasir/akuntansi</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -87,7 +85,6 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 <p>図 memberi rasa gambar penjelas, peta, atau tempat buku.</p><ul>
     <li><span class="ruby-word"><ruby>地図<rt>ちず</rt></ruby></span> - peta</li>
     <li><span class="ruby-word"><ruby>図書館<rt>としょかん</rt></ruby></span> - perpustakaan</li>
-    <li><span class="ruby-word"><ruby>図表<rt>ずひょう</rt></ruby></span> - diagram/tabel</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -115,7 +112,6 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 <p>仕 sering muncul dalam kata kerja dan cara melakukan sesuatu.</p><ul>
     <li><span class="ruby-word"><ruby>仕事<rt>しごと</rt></ruby></span> - pekerjaan</li>
     <li><span class="ruby-word"><ruby>仕方<rt>しかた</rt></ruby></span> - cara</li>
-    <li><span class="ruby-word"><ruby>仕組<rt>しく</rt></ruby>み</span> - mekanisme</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -129,7 +125,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 <p>用 menunjukkan keperluan, persiapan, atau penggunaan.</p><ul>
     <li><span class="ruby-word"><ruby>用事<rt>ようじ</rt></ruby></span> - urusan</li>
     <li><span class="ruby-word"><ruby>用意<rt>ようい</rt></ruby></span> - persiapan</li>
-    <li><span class="ruby-word"><ruby>利用<rt>りよう</rt></ruby></span> - penggunaan</li>
+    <li><span class="ruby-word"><ruby>利用する<rt>りようする</rt></ruby></span> - menggunakan, memanfaatkan</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -143,6 +139,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 <p>地 muncul pada peta, geografi, bawah tanah, dan tempat.</p><ul>
     <li><span class="ruby-word"><ruby>地図<rt>ちず</rt></ruby></span> - peta</li>
     <li><span class="ruby-word"><ruby>地理<rt>ちり</rt></ruby></span> - geografi</li>
+    <li><span class="ruby-word"><ruby>地震<rt>じしん</rt></ruby></span> - gempa bumi</li>
     <li><span class="ruby-word"><ruby>地下鉄<rt>ちかてつ</rt></ruby></span> - kereta bawah tanah</li>
   </ul></details>
 
@@ -156,8 +153,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>鉄 berarti besi dan sering muncul dalam kata kereta.</p><ul>
     <li><span class="ruby-word"><ruby>地下鉄<rt>ちかてつ</rt></ruby></span> - kereta bawah tanah</li>
+    <li><span class="ruby-word"><ruby>鉄<rt>てつ</rt></ruby></span> - besi, baja</li>
     <li><span class="ruby-word"><ruby>鉄道<rt>てつどう</rt></ruby></span> - jalur kereta</li>
-    <li><span class="ruby-word"><ruby>鉄板<rt>てっぱん</rt></ruby></span> - pelat besi</li>
   </ul></details>
 </div>
 

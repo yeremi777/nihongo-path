@@ -60,6 +60,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>見学<rt>けんがく</rt></ruby></span> - kunjungan belajar</li>
     <li><span class="ruby-word"><ruby>見物<rt>けんぶつ</rt></ruby></span> - melihat-lihat</li>
     <li><span class="ruby-word"><ruby>見る<rt>みる</rt></ruby></span> - melihat</li>
+    <li><span class="ruby-word"><ruby>見える<rt>みえる</rt></ruby></span> - terlihat</li>
+    <li><span class="ruby-word"><ruby>見せる<rt>みせる</rt></ruby></span> - memperlihatkan</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -140,6 +142,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>来月<rt>らいげつ</rt></ruby></span> - bulan depan</li>
     <li><span class="ruby-word"><ruby>来週<rt>らいしゅう</rt></ruby></span> - minggu depan</li>
     <li><span class="ruby-word"><ruby>来る<rt>くる</rt></ruby></span> - datang</li>
+    <li><span class="ruby-word"><ruby>来ない<rt>こない</rt></ruby></span> - tidak datang</li>
+    <li><span class="ruby-word"><ruby>来た<rt>きた</rt></ruby></span> - datang (lampau)</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -164,9 +168,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>食 dipakai untuk makan dan makanan, terutama pada menu, jadwal makan, atau bahan makanan.</p><ul>
-    <li><span class="ruby-word"><ruby>食事<rt>しょくじ</rt></ruby></span> - makan, makanan</li>
+    <li><span class="ruby-word"><ruby>食事<rt>しょくじ</rt></ruby></span> - makan</li>
     <li><span class="ruby-word"><ruby>食料品<rt>しょくりょうひん</rt></ruby></span> - bahan makanan</li>
     <li><span class="ruby-word"><ruby>食べる<rt>たべる</rt></ruby></span> - makan</li>
+    <li><span class="ruby-word"><ruby>食堂<rt>しょくどう</rt></ruby></span> - kantin</li>
+    <li><span class="ruby-word"><ruby>食べもの<rt>たべもの</rt></ruby></span> - makanan</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -222,6 +228,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>電話<rt>でんわ</rt></ruby></span> - telepon</li>
     <li><span class="ruby-word"><ruby>会話<rt>かいわ</rt></ruby></span> - percakapan</li>
     <li><span class="ruby-word"><ruby>話す<rt>はなす</rt></ruby></span> - berbicara</li>
+    <li><span class="ruby-word"><ruby>話<rt>はなし</rt></ruby></span> - cerita, pembicaraan</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -236,6 +243,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>自動車<rt>じどうしゃ</rt></ruby></span> - mobil</li>
     <li><span class="ruby-word"><ruby>車<rt>くるま</rt></ruby></span> - mobil, kendaraan</li>
     <li><span class="ruby-word"><ruby>自転車<rt>じてんしゃ</rt></ruby></span> - sepeda</li>
+    <li><span class="ruby-word"><ruby>電車<rt>でんしゃ</rt></ruby></span> - kereta listrik</li>
   </ul></details>
 </div>
 

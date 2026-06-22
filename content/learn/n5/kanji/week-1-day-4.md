@@ -58,7 +58,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 <p>口 berarti mulut, tetapi pada tanda tempat sering berarti pintu, gerbang, atau akses masuk-keluar.</p><ul>
     <li><span class="ruby-word"><ruby>口<rt>くち</rt></ruby></span> - mulut</li>
     <li><span class="ruby-word"><ruby>入口<rt>いりぐち</rt></ruby></span> - pintu masuk</li>
-    <li><span class="ruby-word"><ruby>出口<rt>でぐち</rt></ruby></span> - pintu keluar</li>
+    <li><span class="ruby-word"><ruby>出口<rt>いでぐち</rt></ruby></span> - pintu keluar</li>
+    <li><span class="ruby-word"><ruby>東口<rt>ひがしぐち</rt></ruby></span> - pintu timur</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -73,6 +74,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>出る<rt>でる</rt></ruby></span> - keluar</li>
     <li><span class="ruby-word"><ruby>出す<rt>だす</rt></ruby></span> - mengeluarkan</li>
     <li><span class="ruby-word"><ruby>出かける<rt>でかける</rt></ruby></span> - pergi keluar</li>
+    <li><span class="ruby-word"><ruby>出口<rt>いでぐち</rt></ruby></span> - pintu keluar</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">

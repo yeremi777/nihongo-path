@@ -43,9 +43,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>取 muncul pada tindakan mengambil, menerima, atau mengganti.</p><ul>
-    <li><span class="ruby-word"><ruby>取<rt>と</rt></ruby><ruby>替<rt>かわ</rt></ruby></span> - penggantian</li>
+    <li><span class="ruby-word"><ruby>取る<rt>とる</rt></ruby></span> - mengambil</li>
+    <li><span class="ruby-word"><ruby>取り替える<rt>とりかえる</rt></ruby></span> - menukar, mengganti</li>
     <li><span class="ruby-word"><ruby>受取<rt>うけとり</rt></ruby></span> - penerimaan</li>
-    <li><span class="ruby-word"><ruby>取消<rt>とりけし</rt></ruby></span> - pembatalan</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -57,9 +57,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>押 sering muncul pada tombol atau instruksi untuk mendorong/menekan.</p><ul>
-    <li><span class="ruby-word"><ruby>押入<rt>おしい</rt></ruby>れ</span> - lemari dinding</li>
-    <li><span class="ruby-word"><ruby>押印<rt>おういん</rt></ruby></span> - membubuhkan stempel</li>
-    <li><span class="ruby-word"><ruby>押収<rt>おうしゅう</rt></ruby></span> - penyitaan</li>
+    <li><span class="ruby-word"><ruby>押す<rt>おす</rt></ruby></span> - menekan</li>
+    <li><span class="ruby-word"><ruby>押し入れ<rt>おしいれ</rt></ruby></span> - mendorong, menahan</li>
+    <li><span class="ruby-word"><ruby>押入れ<rt>おしいれ</rt></ruby></span> - lemari dinding</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -71,9 +71,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>引 berarti menarik, tetapi juga muncul pada laci dan diskon.</p><ul>
-    <li><span class="ruby-word"><ruby>引出<rt>ひきだ</rt></ruby>し</span> - laci</li>
+    <li><span class="ruby-word"><ruby>引く<rt>ひく</rt></ruby></span> - menarik</li>
+    <li><span class="ruby-word"><ruby>引き出し<rt>ひきだし</rt></ruby></span> - laci</li>
+    <li><span class="ruby-word"><ruby>引出し<rt>ひきだし</rt></ruby></span> - laci</li>
     <li><span class="ruby-word"><ruby>割引<rt>わりびき</rt></ruby></span> - diskon</li>
-    <li><span class="ruby-word"><ruby>引用<rt>いんよう</rt></ruby></span> - kutipan</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -85,9 +86,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>開 muncul pada pintu, toko buka, dan kegiatan dimulai.</p><ul>
+    <li><span class="ruby-word"><ruby>開く<rt>ひらく</rt></ruby></span> - terbuka, membuka</li>
+    <li><span class="ruby-word"><ruby>開ける<rt>あける</rt></ruby></span> - membuka</li>
+    <li><span class="ruby-word"><ruby>ファイルを開く<rt>ファイルをひらく</rt></ruby></span> - membuka berkas</li>
     <li><span class="ruby-word"><ruby>開店<rt>かいてん</rt></ruby></span> - toko buka</li>
     <li><span class="ruby-word"><ruby>開始<rt>かいし</rt></ruby></span> - mulai</li>
-    <li><span class="ruby-word"><ruby>公開<rt>こうかい</rt></ruby></span> - terbuka untuk umum</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -99,9 +102,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>閉 muncul pada pintu tertutup, toko tutup, dan penutupan.</p><ul>
+    <li><span class="ruby-word"><ruby>閉まる<rt>しまる</rt></ruby></span> - tertutup</li>
+    <li><span class="ruby-word"><ruby>閉める<rt>しめる</rt></ruby></span> - menutup</li>
+    <li><span class="ruby-word"><ruby>ドアが閉まる<rt>ドアがしまる</rt></ruby></span> - pintu tertutup</li>
     <li><span class="ruby-word"><ruby>閉店<rt>へいてん</rt></ruby></span> - toko tutup</li>
-    <li><span class="ruby-word"><ruby>閉会<rt>へいかい</rt></ruby></span> - penutupan acara</li>
-    <li><span class="ruby-word"><ruby>閉鎖<rt>へいさ</rt></ruby></span> - penutupan akses</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -113,9 +117,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>止 muncul pada larangan, pembatalan, dan penghentian layanan.</p><ul>
+    <li><span class="ruby-word"><ruby>中止する<rt>ちゅうしする</rt></ruby></span> - membatalkan, menghentikan</li>
+    <li><span class="ruby-word"><ruby>使用中止<rt>しようちゅうし</rt></ruby></span> - penggunaan dihentikan</li>
+    <li><span class="ruby-word"><ruby>止まる<rt>とまる</rt></ruby></span> - berhenti</li>
+    <li><span class="ruby-word"><ruby>止める<rt>とめる</rt></ruby></span> - menghentikan</li>
     <li><span class="ruby-word"><ruby>中止<rt>ちゅうし</rt></ruby></span> - pembatalan</li>
-    <li><span class="ruby-word"><ruby>禁止<rt>きんし</rt></ruby></span> - larangan</li>
-    <li><span class="ruby-word"><ruby>停止<rt>ていし</rt></ruby></span> - penghentian</li>
   </ul></details>
 </div>
 

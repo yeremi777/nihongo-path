@@ -59,7 +59,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 <p>生 sering muncul saat membaca kata tentang kehidupan, kelahiran, atau status murid di sekolah dasar.</p><ul>
     <li><span class="ruby-word"><ruby>先生<rt>せんせい</rt></ruby></span> - guru</li>
     <li><span class="ruby-word"><ruby>生徒<rt>せいと</rt></ruby></span> - murid</li>
-    <li><span class="ruby-word"><ruby>生活<rt>せいかつ</rt></ruby></span> - kehidupan sehari-hari</li>
+    <li><span class="ruby-word"><ruby>生活<rt>せいかつ</rt></ruby></span> - kehidupan</li>
+    <li><span class="ruby-word"><ruby>誕生日<rt>たんじょうび</rt></ruby></span> - ulang tahun</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -88,6 +89,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>日本人<rt>にほんじん</rt></ruby></span> - orang Jepang</li>
     <li><span class="ruby-word"><ruby>外国人<rt>がいこくじん</rt></ruby></span> - orang asing</li>
     <li><span class="ruby-word"><ruby>一人<rt>ひとり</rt></ruby></span> - satu orang</li>
+    <li><span class="ruby-word"><ruby>二人<rt>ふたり</rt></ruby></span> - dua orang</li>
+    <li><span class="ruby-word"><ruby>大人<rt>おとな</rt></ruby></span> - orang dewasa</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -101,7 +104,6 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 <p>国 muncul saat membicarakan negara, asal seseorang, atau luar negeri dalam profil dan percakapan awal.</p><ul>
     <li><span class="ruby-word"><ruby>外国<rt>がいこく</rt></ruby></span> - luar negeri</li>
     <li><span class="ruby-word"><ruby>国<rt>くに</rt></ruby></span> - negara</li>
-    <li><span class="ruby-word"><ruby>日本国<rt>にほんこく</rt></ruby></span> - negara Jepang</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -248,7 +250,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 <p>本 berarti buku, tetapi juga muncul pada 日本 dan satuan benda panjang dalam kelas pemula.</p><ul>
     <li><span class="ruby-word"><ruby>本<rt>ほん</rt></ruby></span> - buku</li>
     <li><span class="ruby-word"><ruby>日本<rt>にほん</rt></ruby></span> - Jepang</li>
-    <li><span class="ruby-word"><ruby>〜本<rt>ほん</rt></ruby></span> - satuan benda panjang</li>
+    <li><span class="ruby-word"><ruby>〜本<rt>〜ほん</rt></ruby></span> - satuan benda panjang</li>
   </ul></details>
 </div>
 
@@ -260,7 +262,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 ## Catatan Pemakaian
 
-- orang: 人 dapat dibaca じん pada 日本人 dan にん pada 一人 atau 二人.
+- orang: 人 dapat dibaca じん pada 日本人. 一人 dan 二人 punya bacaan khusus: ひとり dan ふたり.
 - keluarga: 父 dan 母 adalah bentuk sederhana untuk keluarga sendiri. お父さん dan お母さん lebih sopan.
 - bahasa: 語 sering muncul di nama bahasa seperti 日本語 dan 英語.
 

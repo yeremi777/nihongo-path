@@ -44,8 +44,6 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>英 paling sering muncul pada kata bahasa Inggris atau Inggris.</p><ul>
     <li><span class="ruby-word"><ruby>英語<rt>えいご</rt></ruby></span> - bahasa Inggris</li>
-    <li><span class="ruby-word"><ruby>英国<rt>えいこく</rt></ruby></span> - Inggris</li>
-    <li><span class="ruby-word"><ruby>英会話<rt>えいかいわ</rt></ruby></span> - percakapan bahasa Inggris</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -57,9 +55,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>茶 muncul pada minuman teh dan tempat minum teh.</p><ul>
+    <li><span class="ruby-word"><ruby>お茶<rt>おちゃ</rt></ruby></span> - teh</li>
     <li><span class="ruby-word"><ruby>紅茶<rt>こうちゃ</rt></ruby></span> - teh hitam</li>
     <li><span class="ruby-word"><ruby>喫茶店<rt>きっさてん</rt></ruby></span> - kafe</li>
-    <li><span class="ruby-word"><ruby>茶色<rt>ちゃいろ</rt></ruby></span> - warna cokelat</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -71,9 +69,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>答 dipakai untuk jawaban atau kegiatan menjawab.</p><ul>
-    <li><span class="ruby-word"><ruby>回答<rt>かいとう</rt></ruby></span> - jawaban</li>
-    <li><span class="ruby-word"><ruby>解答<rt>かいとう</rt></ruby></span> - jawaban soal</li>
-    <li><span class="ruby-word"><ruby>答案<rt>とうあん</rt></ruby></span> - lembar jawaban</li>
+    <li><span class="ruby-word"><ruby>答える<rt>こたえる</rt></ruby></span> - menjawab</li>
+    <li><span class="ruby-word"><ruby>答え<rt>こたえ</rt></ruby></span> - jawaban</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -85,9 +82,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>紙 berarti kertas, tetapi 手紙 berarti surat; bedakan dari konteks kalimat.</p><ul>
+    <li><span class="ruby-word"><ruby>紙<rt>かみ</rt></ruby></span> - kertas</li>
     <li><span class="ruby-word"><ruby>手紙<rt>てがみ</rt></ruby></span> - surat</li>
     <li><span class="ruby-word"><ruby>用紙<rt>ようし</rt></ruby></span> - formulir/kertas isian</li>
-    <li><span class="ruby-word"><ruby>表紙<rt>ひょうし</rt></ruby></span> - sampul</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -99,9 +96,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>私 menunjuk diri sendiri atau sesuatu yang privat.</p><ul>
+    <li><span class="ruby-word"><ruby>私<rt>わたし</rt></ruby></span> - saya</li>
     <li><span class="ruby-word"><ruby>私立<rt>しりつ</rt></ruby></span> - swasta</li>
     <li><span class="ruby-word"><ruby>私用<rt>しよう</rt></ruby></span> - urusan pribadi</li>
-    <li><span class="ruby-word"><ruby>私生活<rt>しせいかつ</rt></ruby></span> - kehidupan pribadi</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -114,7 +111,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>送 muncul pada pengiriman, siaran, dan acara perpisahan.</p><ul>
     <li><span class="ruby-word"><ruby>放送<rt>ほうそう</rt></ruby></span> - siaran</li>
-    <li><span class="ruby-word"><ruby>送別<rt>そうべつ</rt></ruby><ruby>会<rt>かい</rt></ruby></span> - acara perpisahan</li>
+    <li><span class="ruby-word"><ruby>送る<rt>おくる</rt></ruby></span> - mengirim, mengantar</li>
+    <li><span class="ruby-word"><ruby>送別会<rt>そうべつかい</rt></ruby></span> - acara perpisahan</li>
     <li><span class="ruby-word"><ruby>郵送<rt>ゆうそう</rt></ruby></span> - pengiriman pos</li>
   </ul></details>
 </div>

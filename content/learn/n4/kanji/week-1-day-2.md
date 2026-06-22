@@ -43,9 +43,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>同 menandai kesamaan waktu, kelas, atau kondisi.</p><ul>
+    <li><span class="ruby-word"><ruby>同じ<rt>おなじ</rt></ruby></span> - sama</li>
     <li><span class="ruby-word"><ruby>同時<rt>どうじ</rt></ruby></span> - bersamaan</li>
     <li><span class="ruby-word"><ruby>同級生<rt>どうきゅうせい</rt></ruby></span> - teman sekelas</li>
-    <li><span class="ruby-word"><ruby>同意<rt>どうい</rt></ruby></span> - persetujuan</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -57,9 +57,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>Saat melihat 回 setelah angka atau 何, baca sebagai jumlah frekuensi dalam jadwal, latihan, atau instruksi.</p><ul>
-    <li><span class="ruby-word"><ruby>一<rt>いち</rt></ruby><ruby>回<rt>かい</rt></ruby></span> - satu kali</li>
-    <li><span class="ruby-word"><ruby>何<rt>なん</rt></ruby><ruby>回<rt>かい</rt></ruby></span> - berapa kali</li>
-    <li><span class="ruby-word"><ruby>今回<rt>こんかい</rt></ruby></span> - kali ini</li>
+    <li><span class="ruby-word"><ruby>一回<rt>いちかい</rt></ruby></span> - satu kali</li>
+    <li><span class="ruby-word"><ruby>何回<rt>なんかい</rt></ruby></span> - berapa kali</li>
+    <li><span class="ruby-word"><ruby>回る<rt>まわる</rt></ruby></span> - berputar, berkeliling</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -71,9 +71,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>晩 dipakai untuk malam dalam percakapan harian.</p><ul>
+    <li><span class="ruby-word"><ruby>晩<rt>ばん</rt></ruby></span> - malam, petang</li>
     <li><span class="ruby-word"><ruby>今晩<rt>こんばん</rt></ruby></span> - malam ini</li>
     <li><span class="ruby-word"><ruby>毎晩<rt>まいばん</rt></ruby></span> - setiap malam</li>
-    <li><span class="ruby-word"><ruby>晩<rt>ばん</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby></span> - makan malam</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -85,8 +85,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>勉 hampir selalu muncul dalam kata belajar pada level ini.</p><ul>
+    <li><span class="ruby-word"><ruby>勉強する<rt>べんきょうする</rt></ruby></span> - belajar</li>
     <li><span class="ruby-word"><ruby>勉強<rt>べんきょう</rt></ruby></span> - belajar</li>
-    <li><span class="ruby-word"><ruby>勤勉<rt>きんべん</rt></ruby></span> - rajin</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -98,9 +98,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>進 memberi rasa maju atau melanjutkan sesuatu.</p><ul>
-    <li><span class="ruby-word"><ruby>進学<rt>しんがく</rt></ruby></span> - melanjutkan sekolah</li>
-    <li><span class="ruby-word"><ruby>進行<rt>しんこう</rt></ruby></span> - kemajuan/proses</li>
-    <li><span class="ruby-word"><ruby>前進<rt>ぜんしん</rt></ruby></span> - maju ke depan</li>
+    <li><span class="ruby-word"><ruby>進む<rt>すすむ</rt></ruby></span> - maju, berlanjut</li>
+    <li><span class="ruby-word"><ruby>進める<rt>すすめる</rt></ruby></span> - memajukan, melanjutkan</li>
+    <li><span class="ruby-word"><ruby>前に進む<rt>まえにすすむ</rt></ruby></span> - maju ke depan</li>
+    <li><span class="ruby-word"><ruby>計画を進める<rt>けいかくをすすめる</rt></ruby></span> - melanjutkan rencana</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -112,9 +113,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>集 dipakai untuk orang atau benda yang berkumpul/dikumpulkan.</p><ul>
+    <li><span class="ruby-word"><ruby>集まる<rt>あつまる</rt></ruby></span> - berkumpul</li>
+    <li><span class="ruby-word"><ruby>集める<rt>あつめる</rt></ruby></span> - mengumpulkan</li>
+    <li><span class="ruby-word"><ruby>駅前に集まる<rt>えきまえにあつまる</rt></ruby></span> - berkumpul di depan stasiun</li>
     <li><span class="ruby-word"><ruby>集合<rt>しゅうごう</rt></ruby></span> - berkumpul</li>
-    <li><span class="ruby-word"><ruby>集会<rt>しゅうかい</rt></ruby></span> - pertemuan</li>
-    <li><span class="ruby-word"><ruby>収集<rt>しゅうしゅう</rt></ruby></span> - pengumpulan</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -126,9 +128,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>文 berhubungan dengan kalimat, teks, atau budaya tulisan.</p><ul>
+    <li><span class="ruby-word"><ruby>文<rt>ぶん</rt></ruby></span> - kalimat, tulisan</li>
     <li><span class="ruby-word"><ruby>文章<rt>ぶんしょう</rt></ruby></span> - teks</li>
-    <li><span class="ruby-word"><ruby>本文<rt>ほんぶん</rt></ruby></span> - isi teks</li>
-    <li><span class="ruby-word"><ruby>文化<rt>ぶんか</rt></ruby></span> - budaya</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -141,8 +142,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>作 muncul saat membuat tulisan, karya, atau benda.</p><ul>
     <li><span class="ruby-word"><ruby>作文<rt>さくぶん</rt></ruby></span> - karangan</li>
-    <li><span class="ruby-word"><ruby>作品<rt>さくひん</rt></ruby></span> - karya</li>
-    <li><span class="ruby-word"><ruby>作業<rt>さぎょう</rt></ruby></span> - pekerjaan</li>
+    <li><span class="ruby-word"><ruby>作る<rt>つくる</rt></ruby></span> - membuat</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -154,9 +154,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>使 berarti menggunakan; dalam 大使館, artinya berkaitan dengan utusan negara.</p><ul>
-    <li><span class="ruby-word"><ruby>使用<rt>しよう</rt></ruby></span> - penggunaan</li>
     <li><span class="ruby-word"><ruby>大使館<rt>たいしかん</rt></ruby></span> - kedutaan</li>
-    <li><span class="ruby-word"><ruby>使者<rt>ししゃ</rt></ruby></span> - utusan</li>
+    <li><span class="ruby-word"><ruby>使う<rt>つかう</rt></ruby></span> - menggunakan</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -168,9 +167,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>便 muncul pada kata praktis, pos, dan layanan pengiriman.</p><ul>
-    <li><span class="ruby-word"><ruby>便利<rt>べんり</rt></ruby></span> - praktis</li>
-    <li><span class="ruby-word"><ruby>郵便<rt>ゆうびん</rt></ruby><ruby>局<rt>きょく</rt></ruby></span> - kantor pos</li>
-    <li><span class="ruby-word"><ruby>航空<rt>こうくう</rt></ruby><ruby>便<rt>びん</rt></ruby></span> - pos udara</li>
+    <li><span class="ruby-word"><ruby>便利な<rt>べんりな</rt></ruby></span> - praktis, nyaman</li>
+    <li><span class="ruby-word"><ruby>郵便局<rt>ゆうびんきょく</rt></ruby></span> - kantor pos</li>
+    <li><span class="ruby-word"><ruby>航空便<rt>こうくうびん</rt></ruby></span> - pos udara</li>
   </ul></details>
 </div>
 

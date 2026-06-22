@@ -44,8 +44,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>料 muncul pada bahan, masakan, dan biaya layanan.</p><ul>
     <li><span class="ruby-word"><ruby>料理<rt>りょうり</rt></ruby></span> - masakan</li>
-    <li><span class="ruby-word"><ruby>食料<rt>しょくりょう</rt></ruby><ruby>品<rt>ひん</rt></ruby></span> - bahan makanan</li>
-    <li><span class="ruby-word"><ruby>無料<rt>むりょう</rt></ruby></span> - gratis</li>
+    <li><span class="ruby-word"><ruby>食料品<rt>しょくりょうひん</rt></ruby></span> - bahan makanan</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -71,9 +70,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>米 berarti beras, tetapi dalam 米国 berarti Amerika Serikat.</p><ul>
+    <li><span class="ruby-word"><ruby>米<rt>べい</rt></ruby></span> - beras</li>
     <li><span class="ruby-word"><ruby>米国<rt>べいこく</rt></ruby></span> - Amerika Serikat</li>
-    <li><span class="ruby-word"><ruby>白米<rt>はくまい</rt></ruby></span> - nasi/beras putih</li>
-    <li><span class="ruby-word"><ruby>新米<rt>しんまい</rt></ruby></span> - beras baru</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -85,9 +83,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>洗 dipakai untuk kegiatan mencuci bahan, tangan, atau pakaian.</p><ul>
+    <li><span class="ruby-word"><ruby>洗濯する<rt>せんたくする</rt></ruby></span> - mencuci pakaian</li>
+    <li><span class="ruby-word"><ruby>洗う<rt>あらう</rt></ruby></span> - mencuci</li>
+    <li><span class="ruby-word"><ruby>お手洗い<rt>おてあらい</rt></ruby></span> - toilet, tempat cuci tangan</li>
     <li><span class="ruby-word"><ruby>洗濯<rt>せんたく</rt></ruby></span> - cucian</li>
-    <li><span class="ruby-word"><ruby>手洗<rt>てあら</rt></ruby>い</span> - cuci tangan</li>
-    <li><span class="ruby-word"><ruby>洗面<rt>せんめん</rt></ruby></span> - mencuci muka</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -99,9 +98,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>野 muncul pada sayuran, lapangan, dan bidang luas.</p><ul>
-    <li><span class="ruby-word"><ruby>野菜<rt>やさい</rt></ruby></span> - sayuran</li>
     <li><span class="ruby-word"><ruby>野球<rt>やきゅう</rt></ruby></span> - bisbol</li>
-    <li><span class="ruby-word"><ruby>分野<rt>ぶんや</rt></ruby></span> - bidang</li>
+    <li><span class="ruby-word"><ruby>野菜<rt>やさい</rt></ruby></span> - sayuran</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -114,8 +112,6 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>菜 hampir selalu dekat dengan makanan atau sayuran.</p><ul>
     <li><span class="ruby-word"><ruby>野菜<rt>やさい</rt></ruby></span> - sayuran</li>
-    <li><span class="ruby-word"><ruby>白菜<rt>はくさい</rt></ruby></span> - sawi putih</li>
-    <li><span class="ruby-word"><ruby>菜食<rt>さいしょく</rt></ruby></span> - makanan vegetarian</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -127,9 +123,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>酒 muncul pada minuman alkohol, label toko sake, dan menu restoran.</p><ul>
-    <li><span class="ruby-word"><ruby>日本<rt>にっぽん</rt></ruby><ruby>酒<rt>しゅ</rt></ruby></span> - sake Jepang</li>
-    <li><span class="ruby-word"><ruby>酒屋<rt>さかや</rt></ruby></span> - toko minuman alkohol</li>
-    <li><span class="ruby-word"><ruby>飲酒<rt>いんしゅ</rt></ruby></span> - minum alkohol</li>
+    <li><span class="ruby-word"><ruby>お酒<rt>おさけ</rt></ruby></span> - alkohol</li>
+    <li><span class="ruby-word"><ruby>日本酒<rt>にっぽんしゅ</rt></ruby></span> - sake Jepang</li>
+    <li><span class="ruby-word"><ruby>酒屋<rt>さかや</rt></ruby></span> - sake, alkohol</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -141,8 +137,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>肉 dipakai untuk jenis daging, hidangan, dan bahan masakan sehari-hari.</p><ul>
+    <li><span class="ruby-word"><ruby>肉<rt>にく</rt></ruby></span> - daging</li>
     <li><span class="ruby-word"><ruby>牛肉<rt>ぎゅうにく</rt></ruby></span> - daging sapi</li>
-    <li><span class="ruby-word"><ruby>鳥<rt>とり</rt></ruby><ruby>肉<rt>にく</rt></ruby></span> - daging ayam</li>
+    <li><span class="ruby-word"><ruby>鳥肉<rt>とりにく</rt></ruby></span> - daging ayam</li>
     <li><span class="ruby-word"><ruby>豚肉<rt>ぶたにく</rt></ruby></span> - daging babi</li>
   </ul></details>
 
@@ -158,6 +155,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>意味<rt>いみ</rt></ruby></span> - arti</li>
     <li><span class="ruby-word"><ruby>趣味<rt>しゅみ</rt></ruby></span> - hobi</li>
     <li><span class="ruby-word"><ruby>興味<rt>きょうみ</rt></ruby></span> - minat</li>
+    <li><span class="ruby-word"><ruby>味<rt>あじ</rt></ruby></span> - rasa</li>
   </ul></details>
 </div>
 

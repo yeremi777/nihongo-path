@@ -45,7 +45,6 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 <p>旅 dipakai pada kata perjalanan dan tempat menginap.</p><ul>
     <li><span class="ruby-word"><ruby>旅行<rt>りょこう</rt></ruby></span> - perjalanan</li>
     <li><span class="ruby-word"><ruby>旅館<rt>りょかん</rt></ruby></span> - penginapan Jepang</li>
-    <li><span class="ruby-word"><ruby>旅先<rt>たびさき</rt></ruby></span> - tempat tujuan perjalanan</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -71,9 +70,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>有 pada 有名 berarti sesuatu yang memiliki nama dikenal.</p><ul>
+    <li><span class="ruby-word"><ruby>有名な<rt>ゆうめいな</rt></ruby></span> - terkenal</li>
     <li><span class="ruby-word"><ruby>有名<rt>ゆうめい</rt></ruby></span> - terkenal</li>
-    <li><span class="ruby-word"><ruby>有料<rt>ゆうりょう</rt></ruby></span> - berbayar</li>
-    <li><span class="ruby-word"><ruby>有効<rt>ゆうこう</rt></ruby></span> - berlaku</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -86,8 +84,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>Saat membaca tanggal, cerita perjalanan, atau riwayat, 去 membantu menandai waktu yang sudah berlalu.</p><ul>
     <li><span class="ruby-word"><ruby>去年<rt>きょねん</rt></ruby></span> - tahun lalu</li>
-    <li><span class="ruby-word"><ruby>過去<rt>かこ</rt></ruby></span> - masa lalu</li>
-    <li><span class="ruby-word"><ruby>去来<rt>きょらい</rt></ruby></span> - datang dan pergi</li>
+    <li><span class="ruby-word"><ruby>去る<rt>さる</rt></ruby></span> - pergi, berlalu</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -100,8 +97,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>Di teks keluarga, tata bahasa, atau makanan, 主 memberi petunjuk tentang pihak utama, pemilik, atau unsur pokok.</p><ul>
     <li><span class="ruby-word"><ruby>主人<rt>しゅじん</rt></ruby></span> - suami/tuan rumah</li>
+    <li><span class="ruby-word"><ruby>主な<rt>おもな</rt></ruby></span> - utama</li>
     <li><span class="ruby-word"><ruby>主語<rt>しゅご</rt></ruby></span> - subjek</li>
-    <li><span class="ruby-word"><ruby>主食<rt>しゅしょく</rt></ruby></span> - makanan pokok</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -114,8 +111,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>Saat melihat 写 di museum, kamera, atau tugas sekolah, cari konteks foto, salinan, atau gambar yang dipindahkan.</p><ul>
     <li><span class="ruby-word"><ruby>写真<rt>しゃしん</rt></ruby></span> - foto</li>
-    <li><span class="ruby-word"><ruby>写生<rt>しゃせい</rt></ruby></span> - sketsa dari objek</li>
-    <li><span class="ruby-word"><ruby>複写<rt>ふくしゃ</rt></ruby></span> - salinan</li>
+    <li><span class="ruby-word"><ruby>写す<rt>うつす</rt></ruby></span> - menyalin, memotret</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -128,8 +124,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>真 memberi rasa asli, benar, atau pusat pada kata tertentu.</p><ul>
     <li><span class="ruby-word"><ruby>写真<rt>しゃしん</rt></ruby></span> - foto</li>
-    <li><span class="ruby-word"><ruby>真<rt>ま</rt></ruby>ん<ruby>中<rt>なか</rt></ruby></span> - tengah</li>
-    <li><span class="ruby-word"><ruby>真実<rt>しんじつ</rt></ruby></span> - kebenaran</li>
+    <li><span class="ruby-word"><ruby>真ん中<rt>まんなか</rt></ruby></span> - tengah</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -143,7 +138,6 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 <p>夕 membantu membaca jadwal harian di sekitar sore, seperti waktu makan, arah waktu, atau suasana petang.</p><ul>
     <li><span class="ruby-word"><ruby>夕飯<rt>ゆうはん</rt></ruby></span> - makan malam</li>
     <li><span class="ruby-word"><ruby>夕方<rt>ゆうがた</rt></ruby></span> - sore</li>
-    <li><span class="ruby-word"><ruby>夕日<rt>ゆうひ</rt></ruby></span> - matahari sore</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -155,9 +149,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>Dalam jadwal makan atau percakapan rumah, 飯 menandai nasi, makanan, dan waktu makan sehari-hari.</p><ul>
-    <li><span class="ruby-word"><ruby>朝<rt>あさ</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby></span> - sarapan</li>
-    <li><span class="ruby-word"><ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby></span> - makan siang</li>
-    <li><span class="ruby-word"><ruby>晩<rt>ばん</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby></span> - makan malam</li>
+    <li><span class="ruby-word"><ruby>ご飯<rt>ごはん</rt></ruby></span> - nasi, makan</li>
+    <li><span class="ruby-word"><ruby>朝ご飯<rt>あさごはん</rt></ruby></span> - sarapan</li>
+    <li><span class="ruby-word"><ruby>昼ご飯<rt>ひるごはん</rt></ruby></span> - makan siang</li>
+    <li><span class="ruby-word"><ruby>晩ご飯<rt>ばんごはん</rt></ruby></span> - malam, petang</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -170,8 +165,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>方 bisa berarti arah, sisi, cara, atau orang secara sopan.</p><ul>
     <li><span class="ruby-word"><ruby>両方<rt>りょうほう</rt></ruby></span> - keduanya</li>
+    <li><span class="ruby-word"><ruby>あの方<rt>あのほう</rt></ruby></span> - orang itu (sopan)</li>
+    <li><span class="ruby-word"><ruby>〜方<rt>〜かた</rt></ruby></span> - cara melakukan sesuatu</li>
     <li><span class="ruby-word"><ruby>夕方<rt>ゆうがた</rt></ruby></span> - sore</li>
-    <li><span class="ruby-word"><ruby>方法<rt>ほうほう</rt></ruby></span> - cara/metode</li>
   </ul></details>
 </div>
 

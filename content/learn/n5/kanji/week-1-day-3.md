@@ -84,6 +84,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>大学<rt>だいがく</rt></ruby></span> - universitas</li>
     <li><span class="ruby-word"><ruby>大人<rt>おとな</rt></ruby></span> - orang dewasa</li>
     <li><span class="ruby-word"><ruby>大変な<rt>たいへんな</rt></ruby></span> - berat, sulit, merepotkan</li>
+    <li><span class="ruby-word"><ruby>大切な<rt>たいせつな</rt></ruby></span> - penting, berharga</li>
+    <li><span class="ruby-word"><ruby>大きい<rt>おおきい</rt></ruby></span> - besar</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -215,7 +217,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>中 dipakai untuk bagian dalam, tengah, atau durasi penuh dalam kata sekolah dan waktu.</p><ul>
     <li><span class="ruby-word"><ruby>中学校<rt>ちゅうがっこう</rt></ruby></span> - SMP</li>
-    <li><span class="ruby-word"><ruby>一日中<rt>いちにちじゅう</rt></ruby></span> - sepanjang hari</li>
+    <li><span class="ruby-word"><ruby>一日中<rt>いちにちちゅう</rt></ruby></span> - sepanjang hari</li>
     <li><span class="ruby-word"><ruby>中<rt>なか</rt></ruby></span> - dalam, tengah</li>
   </ul></details>
 

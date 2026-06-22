@@ -43,9 +43,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>体 muncul pada tubuh, suhu, berat, dan kondisi fisik.</p><ul>
+    <li><span class="ruby-word"><ruby>体<rt>からだ</rt></ruby></span> - tubuh</li>
     <li><span class="ruby-word"><ruby>体温<rt>たいおん</rt></ruby></span> - suhu tubuh</li>
     <li><span class="ruby-word"><ruby>体重<rt>たいじゅう</rt></ruby></span> - berat badan</li>
-    <li><span class="ruby-word"><ruby>体調<rt>たいちょう</rt></ruby></span> - kondisi tubuh</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -57,9 +57,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>働 dipakai untuk bekerja, tenaga kerja, dan jadwal pekerjaan harian.</p><ul>
+    <li><span class="ruby-word"><ruby>働く<rt>はたらく</rt></ruby></span> - bekerja</li>
     <li><span class="ruby-word"><ruby>労働<rt>ろうどう</rt></ruby></span> - kerja/tenaga kerja</li>
-    <li><span class="ruby-word"><ruby>共働<rt>ともばたら</rt></ruby>き</span> - pasangan sama-sama bekerja</li>
-    <li><span class="ruby-word"><ruby>働<rt>はたら</rt></ruby>き<ruby>方<rt>かた</rt></ruby></span> - cara kerja</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -71,9 +70,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>薬 muncul pada obat, apotek, dan percakapan tentang kesehatan.</p><ul>
+    <li><span class="ruby-word"><ruby>薬<rt>くすり</rt></ruby></span> - obat</li>
     <li><span class="ruby-word"><ruby>薬局<rt>やっきょく</rt></ruby></span> - apotek</li>
-    <li><span class="ruby-word"><ruby>薬品<rt>やくひん</rt></ruby></span> - obat/bahan kimia</li>
-    <li><span class="ruby-word"><ruby>目薬<rt>めぐすり</rt></ruby></span> - obat tetes mata</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -85,9 +83,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>奥 menunjuk bagian dalam, dan 奥さん adalah sapaan untuk istri orang.</p><ul>
-    <li><span class="ruby-word"><ruby>奥様<rt>おくさま</rt></ruby></span> - istri orang lain</li>
-    <li><span class="ruby-word"><ruby>奥行<rt>おくゆき</rt></ruby></span> - kedalaman</li>
-    <li><span class="ruby-word"><ruby>奥地<rt>おくち</rt></ruby></span> - daerah pedalaman</li>
+    <li><span class="ruby-word"><ruby>奥さん<rt>おくさん</rt></ruby></span> - istri orang lain</li>
+    <li><span class="ruby-word"><ruby>奥<rt>おく</rt></ruby></span> - bagian dalam</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -100,8 +97,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>正 memberi rasa benar, resmi, atau awal tahun pada 正月.</p><ul>
     <li><span class="ruby-word"><ruby>正月<rt>しょうがつ</rt></ruby></span> - Tahun Baru</li>
-    <li><span class="ruby-word"><ruby>正解<rt>せいかい</rt></ruby></span> - jawaban benar</li>
-    <li><span class="ruby-word"><ruby>正面<rt>しょうめん</rt></ruby></span> - depan</li>
+    <li><span class="ruby-word"><ruby>正しい<rt>ただしい</rt></ruby></span> - benar, tepat</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -113,9 +109,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>急 menunjukkan mendadak, terburu-buru, atau layanan ekspres.</p><ul>
-    <li><span class="ruby-word"><ruby>急行<rt>きゅうこう</rt></ruby></span> - kereta ekspres</li>
     <li><span class="ruby-word"><ruby>特急<rt>とっきゅう</rt></ruby></span> - ekspres khusus</li>
-    <li><span class="ruby-word"><ruby>急用<rt>きゅうよう</rt></ruby></span> - urusan mendadak</li>
+    <li><span class="ruby-word"><ruby>急行<rt>きゅうこう</rt></ruby></span> - kereta ekspres</li>
+    <li><span class="ruby-word"><ruby>急に<rt>きゅうに</rt></ruby></span> - tiba-tiba</li>
+    <li><span class="ruby-word"><ruby>急ぐ<rt>いそぐ</rt></ruby></span> - bergegas</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -127,9 +124,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>試 muncul pada tes, pertandingan, dan percobaan.</p><ul>
-    <li><span class="ruby-word"><ruby>試験<rt>しけん</rt></ruby></span> - ujian</li>
     <li><span class="ruby-word"><ruby>試合<rt>しあい</rt></ruby></span> - pertandingan</li>
-    <li><span class="ruby-word"><ruby>試食<rt>ししょく</rt></ruby></span> - mencoba makanan</li>
+    <li><span class="ruby-word"><ruby>試験<rt>しけん</rt></ruby></span> - ujian</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -142,8 +138,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>験 muncul pada ujian, pengalaman, dan kata tentang hasil tes.</p><ul>
     <li><span class="ruby-word"><ruby>試験<rt>しけん</rt></ruby></span> - ujian</li>
+    <li><span class="ruby-word"><ruby>経験する<rt>けいけんする</rt></ruby></span> - mengalami</li>
     <li><span class="ruby-word"><ruby>経験<rt>けいけん</rt></ruby></span> - pengalaman</li>
-    <li><span class="ruby-word"><ruby>受験<rt>じゅけん</rt></ruby></span> - mengikuti ujian</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -155,9 +151,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>考 berhubungan dengan berpikir, pertimbangan, dan rencana yang matang.</p><ul>
-    <li><span class="ruby-word"><ruby>参考<rt>さんこう</rt></ruby></span> - referensi</li>
-    <li><span class="ruby-word"><ruby>考<rt>かんが</rt></ruby>え<ruby>方<rt>かた</rt></ruby></span> - cara berpikir</li>
-    <li><span class="ruby-word"><ruby>思考<rt>しこう</rt></ruby></span> - pemikiran</li>
+    <li><span class="ruby-word"><ruby>考える<rt>かんがえる</rt></ruby></span> - berpikir, mempertimbangkan</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -169,9 +163,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>心 muncul pada rasa aman, khawatir, dan pusat perhatian.</p><ul>
+    <li><span class="ruby-word"><ruby>安心する<rt>あんしんする</rt></ruby></span> - merasa lega</li>
+    <li><span class="ruby-word"><ruby>心<rt>こころ</rt></ruby></span> - hati, pikiran</li>
+    <li><span class="ruby-word"><ruby>心配する<rt>しんぱいする</rt></ruby></span> - khawatir</li>
     <li><span class="ruby-word"><ruby>安心<rt>あんしん</rt></ruby></span> - tenang</li>
-    <li><span class="ruby-word"><ruby>心配<rt>しんぱい</rt></ruby></span> - khawatir</li>
-    <li><span class="ruby-word"><ruby>中心<rt>ちゅうしん</rt></ruby></span> - pusat</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -183,9 +178,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>声 menunjuk suara manusia dan pekerjaan suara.</p><ul>
+    <li><span class="ruby-word"><ruby>声<rt>こえ</rt></ruby></span> - suara</li>
     <li><span class="ruby-word"><ruby>声優<rt>せいゆう</rt></ruby></span> - pengisi suara</li>
-    <li><span class="ruby-word"><ruby>音声<rt>おんせい</rt></ruby></span> - suara/audio</li>
-    <li><span class="ruby-word"><ruby>発声<rt>はっせい</rt></ruby></span> - produksi suara</li>
   </ul></details>
 </div>
 

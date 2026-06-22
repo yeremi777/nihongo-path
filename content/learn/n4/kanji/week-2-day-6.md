@@ -43,9 +43,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>妹 menunjuk adik perempuan dalam keluarga dan percakapan tentang saudara.</p><ul>
+    <li><span class="ruby-word"><ruby>妹<rt>いもうと</rt></ruby></span> - adik perempuan</li>
     <li><span class="ruby-word"><ruby>姉妹<rt>しまい</rt></ruby></span> - saudara perempuan</li>
-    <li><span class="ruby-word"><ruby>妹<rt>いもうと</rt></ruby><ruby>夫婦<rt>ふうふ</rt></ruby></span> - adik perempuan dan suaminya</li>
-    <li><span class="ruby-word"><ruby>義妹<rt>ぎまい</rt></ruby></span> - adik ipar perempuan</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -57,9 +56,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>好 muncul pada rasa suka, minat, dan hubungan yang dianggap baik.</p><ul>
-    <li><span class="ruby-word"><ruby>好<rt>す</rt></ruby>き</span> - suka</li>
-    <li><span class="ruby-word"><ruby>大好<rt>だいす</rt></ruby>き</span> - sangat suka</li>
-    <li><span class="ruby-word"><ruby>好物<rt>こうぶつ</rt></ruby></span> - makanan favorit</li>
+    <li><span class="ruby-word"><ruby>好きな<rt>すきな</rt></ruby></span> - suka, favorit</li>
+    <li><span class="ruby-word"><ruby>大好きな<rt>だいすきな</rt></ruby></span> - sangat suka</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -72,8 +70,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>弟 menunjuk adik laki-laki dan muncul dalam kata saudara.</p><ul>
     <li><span class="ruby-word"><ruby>兄弟<rt>きょうだい</rt></ruby></span> - saudara laki-laki/saudara</li>
-    <li><span class="ruby-word"><ruby>弟子<rt>でし</rt></ruby></span> - murid</li>
-    <li><span class="ruby-word"><ruby>義弟<rt>ぎてい</rt></ruby></span> - adik ipar laki-laki</li>
+    <li><span class="ruby-word"><ruby>弟<rt>おとうと</rt></ruby></span> - adik laki-laki</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -85,9 +82,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>赤 berarti merah, tetapi muncul juga pada kata geografis seperti 赤道.</p><ul>
+    <li><span class="ruby-word"><ruby>赤<rt>あか</rt></ruby></span> - merah</li>
+    <li><span class="ruby-word"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span> - bayi</li>
+    <li><span class="ruby-word"><ruby>赤い<rt>あかい</rt></ruby></span> - merah</li>
     <li><span class="ruby-word"><ruby>赤道<rt>せきどう</rt></ruby></span> - khatulistiwa</li>
-    <li><span class="ruby-word"><ruby>赤信号<rt>あかしんごう</rt></ruby></span> - lampu merah</li>
-    <li><span class="ruby-word"><ruby>赤字<rt>あかじ</rt></ruby></span> - defisit</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -99,9 +97,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>黄 hampir selalu dipakai untuk warna kuning pada benda, tanda, dan deskripsi visual.</p><ul>
-    <li><span class="ruby-word"><ruby>黄色<rt>きいろ</rt></ruby></span> - kuning</li>
-    <li><span class="ruby-word"><ruby>黄<rt>き</rt></ruby><ruby>信号<rt>しんごう</rt></ruby></span> - lampu kuning</li>
-    <li><span class="ruby-word"><ruby>黄金<rt>おうごん</rt></ruby></span> - emas</li>
+    <li><span class="ruby-word"><ruby>黄色<rt>きいろ</rt></ruby></span> - warna kuning</li>
+    <li><span class="ruby-word"><ruby>黄色い<rt>きいろい</rt></ruby></span> - kuning</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -113,9 +110,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>色 menandai warna, tampilan visual, dan deskripsi benda sehari-hari.</p><ul>
+    <li><span class="ruby-word"><ruby>色<rt>いろ</rt></ruby></span> - warna</li>
     <li><span class="ruby-word"><ruby>茶色<rt>ちゃいろ</rt></ruby></span> - cokelat</li>
-    <li><span class="ruby-word"><ruby>黄色<rt>きいろ</rt></ruby></span> - kuning</li>
-    <li><span class="ruby-word"><ruby>色彩<rt>しきさい</rt></ruby></span> - warna-warni</li>
+    <li><span class="ruby-word"><ruby>黄色<rt>きいろ</rt></ruby></span> - warna kuning</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -127,9 +124,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>黒 berarti hitam dan sering muncul pada benda sekolah.</p><ul>
+    <li><span class="ruby-word"><ruby>黒<rt>くろ</rt></ruby></span> - hitam</li>
+    <li><span class="ruby-word"><ruby>黒い<rt>くろい</rt></ruby></span> - hitam</li>
     <li><span class="ruby-word"><ruby>黒板<rt>こくばん</rt></ruby></span> - papan tulis</li>
-    <li><span class="ruby-word"><ruby>黒色<rt>こくしょく</rt></ruby></span> - warna hitam</li>
-    <li><span class="ruby-word"><ruby>黒字<rt>くろじ</rt></ruby></span> - surplus</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -141,8 +138,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>首 berarti leher, tetapi dalam 首都 berarti ibu kota.</p><ul>
+    <li><span class="ruby-word"><ruby>首<rt>くび</rt></ruby></span> - leher</li>
     <li><span class="ruby-word"><ruby>首都<rt>しゅと</rt></ruby></span> - ibu kota</li>
-    <li><span class="ruby-word"><ruby>首相<rt>しゅしょう</rt></ruby></span> - perdana menteri</li>
     <li><span class="ruby-word"><ruby>手首<rt>てくび</rt></ruby></span> - pergelangan tangan</li>
   </ul></details>
 
@@ -155,9 +152,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>顔 muncul pada wajah, ekspresi, dan percakapan tentang penampilan.</p><ul>
+    <li><span class="ruby-word"><ruby>顔<rt>かお</rt></ruby></span> - wajah</li>
     <li><span class="ruby-word"><ruby>笑顔<rt>えがお</rt></ruby></span> - wajah tersenyum</li>
-    <li><span class="ruby-word"><ruby>顔色<rt>かおいろ</rt></ruby></span> - warna wajah</li>
-    <li><span class="ruby-word"><ruby>横顔<rt>よこがお</rt></ruby></span> - wajah dari samping</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -169,9 +165,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>頭 muncul pada kepala, posisi awal, dan ungkapan tentang bagian depan.</p><ul>
+    <li><span class="ruby-word"><ruby>頭<rt>あたま</rt></ruby></span> - kepala</li>
     <li><span class="ruby-word"><ruby>頭痛<rt>ずつう</rt></ruby></span> - sakit kepala</li>
-    <li><span class="ruby-word"><ruby>先頭<rt>せんとう</rt></ruby></span> - paling depan</li>
-    <li><span class="ruby-word"><ruby>口頭<rt>こうとう</rt></ruby></span> - lisan</li>
   </ul></details>
 </div>
 

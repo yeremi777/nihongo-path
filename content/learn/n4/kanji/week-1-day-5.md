@@ -45,7 +45,6 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 <p>医 hampir selalu berhubungan dengan dunia medis.</p><ul>
     <li><span class="ruby-word"><ruby>医者<rt>いしゃ</rt></ruby></span> - dokter</li>
     <li><span class="ruby-word"><ruby>医学<rt>いがく</rt></ruby></span> - ilmu kedokteran</li>
-    <li><span class="ruby-word"><ruby>歯医者<rt>はいしゃ</rt></ruby></span> - dokter gigi</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -59,7 +58,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 <p>者 sering menandai orang berdasarkan peran atau keahlian.</p><ul>
     <li><span class="ruby-word"><ruby>医者<rt>いしゃ</rt></ruby></span> - dokter</li>
     <li><span class="ruby-word"><ruby>学者<rt>がくしゃ</rt></ruby></span> - ilmuwan</li>
-    <li><span class="ruby-word"><ruby>読者<rt>どくしゃ</rt></ruby></span> - pembaca</li>
+    <li><span class="ruby-word"><ruby>歯医者<rt>はいしゃ</rt></ruby></span> - dokter gigi</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -72,8 +71,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>員 menandai anggota atau staf dalam organisasi.</p><ul>
     <li><span class="ruby-word"><ruby>店員<rt>てんいん</rt></ruby></span> - pegawai toko</li>
-    <li><span class="ruby-word"><ruby>会社<rt>かいしゃ</rt></ruby><ruby>員<rt>いん</rt></ruby></span> - pegawai perusahaan</li>
     <li><span class="ruby-word"><ruby>駅員<rt>えきいん</rt></ruby></span> - petugas stasiun</li>
+    <li><span class="ruby-word"><ruby>会社員<rt>かいしゃいん</rt></ruby></span> - pegawai perusahaan</li>
+    <li><span class="ruby-word"><ruby>銀行員<rt>ぎんこういん</rt></ruby></span> - pegawai bank</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -87,7 +87,6 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 <p>民 dipakai untuk warga, rakyat, atau masyarakat.</p><ul>
     <li><span class="ruby-word"><ruby>国民<rt>こくみん</rt></ruby></span> - rakyat negara</li>
     <li><span class="ruby-word"><ruby>市民<rt>しみん</rt></ruby></span> - warga kota</li>
-    <li><span class="ruby-word"><ruby>住民<rt>じゅうみん</rt></ruby></span> - penduduk</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -100,8 +99,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>歌 berhubungan dengan lagu dan kegiatan bernyanyi.</p><ul>
     <li><span class="ruby-word"><ruby>歌手<rt>かしゅ</rt></ruby></span> - penyanyi</li>
-    <li><span class="ruby-word"><ruby>歌詞<rt>かし</rt></ruby></span> - lirik</li>
-    <li><span class="ruby-word"><ruby>国歌<rt>こっか</rt></ruby></span> - lagu kebangsaan</li>
+    <li><span class="ruby-word"><ruby>歌<rt>うた</rt></ruby></span> - lagu</li>
+    <li><span class="ruby-word"><ruby>歌う<rt>うたう</rt></ruby></span> - bernyanyi</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -114,8 +113,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>運 muncul pada kegiatan mengemudi, olahraga, dan membawa sesuatu.</p><ul>
     <li><span class="ruby-word"><ruby>運転<rt>うんてん</rt></ruby></span> - mengemudi</li>
+    <li><span class="ruby-word"><ruby>運転手<rt>うんてんしゅ</rt></ruby></span> - pengemudi</li>
     <li><span class="ruby-word"><ruby>運動<rt>うんどう</rt></ruby></span> - olahraga</li>
-    <li><span class="ruby-word"><ruby>運転<rt>うんてん</rt></ruby><ruby>手<rt>しゅ</rt></ruby></span> - pengemudi</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -129,7 +128,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 <p>転 memberi rasa berputar, berpindah, atau berubah arah.</p><ul>
     <li><span class="ruby-word"><ruby>自転車<rt>じてんしゃ</rt></ruby></span> - sepeda</li>
     <li><span class="ruby-word"><ruby>運転<rt>うんてん</rt></ruby></span> - mengemudi</li>
-    <li><span class="ruby-word"><ruby>転校<rt>てんこう</rt></ruby></span> - pindah sekolah</li>
+    <li><span class="ruby-word"><ruby>転ぶ<rt>ころぶ</rt></ruby></span> - terjatuh</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -141,9 +140,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>説 berhubungan dengan penjelasan, teori, atau cerita tertulis.</p><ul>
-    <li><span class="ruby-word"><ruby>説明<rt>せつめい</rt></ruby></span> - penjelasan</li>
+    <li><span class="ruby-word"><ruby>説明する<rt>せつめいする</rt></ruby></span> - menjelaskan</li>
     <li><span class="ruby-word"><ruby>小説<rt>しょうせつ</rt></ruby></span> - novel</li>
-    <li><span class="ruby-word"><ruby>解説<rt>かいせつ</rt></ruby></span> - komentar penjelas</li>
+    <li><span class="ruby-word"><ruby>小説家<rt>しょうせつか</rt></ruby></span> - novelis</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -156,8 +155,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>家 bisa berarti rumah, keluarga, atau ahli/profesi pada kata tertentu.</p><ul>
     <li><span class="ruby-word"><ruby>家族<rt>かぞく</rt></ruby></span> - keluarga</li>
-    <li><span class="ruby-word"><ruby>作家<rt>さっか</rt></ruby></span> - penulis</li>
     <li><span class="ruby-word"><ruby>家庭<rt>かてい</rt></ruby></span> - rumah tangga</li>
+    <li><span class="ruby-word"><ruby>家<rt>いえ</rt></ruby></span> - rumah</li>
   </ul></details>
 </div>
 

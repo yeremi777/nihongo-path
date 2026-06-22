@@ -43,9 +43,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>低 menjelaskan posisi, suhu, atau tingkat yang rendah.</p><ul>
-    <li><span class="ruby-word"><ruby>低温<rt>ていおん</rt></ruby></span> - suhu rendah</li>
-    <li><span class="ruby-word"><ruby>低下<rt>ていか</rt></ruby></span> - penurunan</li>
-    <li><span class="ruby-word"><ruby>最低<rt>さいてい</rt></ruby></span> - paling rendah</li>
+    <li><span class="ruby-word"><ruby>低い<rt>ひくい</rt></ruby></span> - rendah</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -57,9 +55,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>短 dipakai untuk panjang waktu, kalimat, atau benda yang pendek.</p><ul>
-    <li><span class="ruby-word"><ruby>短文<rt>たんぶん</rt></ruby></span> - kalimat pendek</li>
-    <li><span class="ruby-word"><ruby>短時間<rt>たんじかん</rt></ruby></span> - waktu singkat</li>
-    <li><span class="ruby-word"><ruby>短所<rt>たんしょ</rt></ruby></span> - kekurangan</li>
+    <li><span class="ruby-word"><ruby>短い<rt>みじかい</rt></ruby></span> - pendek</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -73,7 +69,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 <p>近 bisa berarti dekat secara tempat atau waktu yang baru terjadi.</p><ul>
     <li><span class="ruby-word"><ruby>近所<rt>きんじょ</rt></ruby></span> - lingkungan sekitar</li>
     <li><span class="ruby-word"><ruby>最近<rt>さいきん</rt></ruby></span> - akhir-akhir ini</li>
-    <li><span class="ruby-word"><ruby>近道<rt>ちかみち</rt></ruby></span> - jalan pintas</li>
+    <li><span class="ruby-word"><ruby>近い<rt>ちかい</rt></ruby></span> - dekat</li>
+    <li><span class="ruby-word"><ruby>近く<rt>ちかく</rt></ruby></span> - dekat, sekitar</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -86,8 +83,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>遠 menunjukkan jarak jauh atau sikap menahan diri dalam kata tertentu.</p><ul>
     <li><span class="ruby-word"><ruby>遠足<rt>えんそく</rt></ruby></span> - karyawisata</li>
+    <li><span class="ruby-word"><ruby>遠慮する<rt>えんりょする</rt></ruby></span> - menahan diri, sungkan</li>
+    <li><span class="ruby-word"><ruby>遠い<rt>とおい</rt></ruby></span> - jauh</li>
     <li><span class="ruby-word"><ruby>遠慮<rt>えんりょ</rt></ruby></span> - sungkan</li>
-    <li><span class="ruby-word"><ruby>遠方<rt>えんぽう</rt></ruby></span> - tempat jauh</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -99,9 +97,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>弱 menjelaskan kekuatan rendah atau titik yang kurang kuat.</p><ul>
-    <li><span class="ruby-word"><ruby>弱点<rt>じゃくてん</rt></ruby></span> - kelemahan</li>
-    <li><span class="ruby-word"><ruby>弱気<rt>よわき</rt></ruby></span> - kurang percaya diri</li>
-    <li><span class="ruby-word"><ruby>強弱<rt>きょうじゃく</rt></ruby></span> - kuat-lemah</li>
+    <li><span class="ruby-word"><ruby>弱い<rt>よわい</rt></ruby></span> - lemah</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -113,9 +109,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>強 berarti kuat, tetapi dalam 勉強 sudah menjadi kata tetap untuk belajar.</p><ul>
-    <li><span class="ruby-word"><ruby>勉強<rt>べんきょう</rt></ruby></span> - belajar</li>
+    <li><span class="ruby-word"><ruby>勉強する<rt>べんきょうする</rt></ruby></span> - belajar</li>
+    <li><span class="ruby-word"><ruby>強い<rt>つよい</rt></ruby></span> - kuat</li>
     <li><span class="ruby-word"><ruby>強風<rt>きょうふう</rt></ruby></span> - angin kencang</li>
-    <li><span class="ruby-word"><ruby>強弱<rt>きょうじゃく</rt></ruby></span> - kuat-lemah</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -127,9 +123,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>暗 bisa berarti gelap secara fisik atau hafalan tanpa melihat teks.</p><ul>
+    <li><span class="ruby-word"><ruby>暗い<rt>くらい</rt></ruby></span> - gelap</li>
     <li><span class="ruby-word"><ruby>暗記<rt>あんき</rt></ruby></span> - hafalan</li>
-    <li><span class="ruby-word"><ruby>暗号<rt>あんごう</rt></ruby></span> - kode rahasia</li>
-    <li><span class="ruby-word"><ruby>明暗<rt>めいあん</rt></ruby></span> - terang-gelap</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -142,8 +137,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>明 dipakai untuk cahaya, kejelasan, dan kata waktu seperti besok.</p><ul>
     <li><span class="ruby-word"><ruby>説明<rt>せつめい</rt></ruby></span> - penjelasan</li>
+    <li><span class="ruby-word"><ruby>明るい<rt>あかるい</rt></ruby></span> - terang</li>
+    <li><span class="ruby-word"><ruby>明けましておめでとうございます<rt>あけましておめでとうございます</rt></ruby></span> - selamat tahun baru</li>
     <li><span class="ruby-word"><ruby>明日<rt>あした</rt></ruby></span> - besok</li>
-    <li><span class="ruby-word"><ruby>明暗<rt>めいあん</rt></ruby></span> - terang-gelap</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -155,9 +151,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>悪 menjelaskan sesuatu yang buruk, tidak baik, atau tidak menguntungkan.</p><ul>
+    <li><span class="ruby-word"><ruby>悪い<rt>わるい</rt></ruby></span> - buruk, jelek</li>
     <li><span class="ruby-word"><ruby>悪天候<rt>あくてんこう</rt></ruby></span> - cuaca buruk</li>
-    <li><span class="ruby-word"><ruby>悪口<rt>わるぐち</rt></ruby></span> - kata buruk</li>
-    <li><span class="ruby-word"><ruby>最悪<rt>さいあく</rt></ruby></span> - paling buruk</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -169,9 +164,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>利 memberi rasa manfaat, keuntungan, atau kemudahan penggunaan.</p><ul>
+    <li><span class="ruby-word"><ruby>便利な<rt>べんりな</rt></ruby></span> - praktis, nyaman</li>
+    <li><span class="ruby-word"><ruby>利用する<rt>りようする</rt></ruby></span> - menggunakan, memanfaatkan</li>
     <li><span class="ruby-word"><ruby>便利<rt>べんり</rt></ruby></span> - praktis</li>
-    <li><span class="ruby-word"><ruby>利用<rt>りよう</rt></ruby></span> - penggunaan</li>
-    <li><span class="ruby-word"><ruby>利益<rt>りえき</rt></ruby></span> - keuntungan</li>
+    <li><span class="ruby-word"><ruby>利用<rt>りよう</rt></ruby></span> - pemakaian</li>
   </ul></details>
 </div>
 

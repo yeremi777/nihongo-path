@@ -45,7 +45,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 <p>以 sering muncul pada batas angka atau cakupan.</p><ul>
     <li><span class="ruby-word"><ruby>以下<rt>いか</rt></ruby></span> - di bawah/berikut</li>
     <li><span class="ruby-word"><ruby>以上<rt>いじょう</rt></ruby></span> - lebih dari/sekian ke atas</li>
-    <li><span class="ruby-word"><ruby>以内<rt>いない</rt></ruby></span> - dalam batas</li>
+    <li><span class="ruby-word"><ruby>以内<rt>いない</rt></ruby></span> - dalam, di dalam</li>
+    <li><span class="ruby-word"><ruby>以外<rt>いがい</rt></ruby></span> - selain</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -57,9 +58,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>内 menunjuk bagian dalam, rumah, atau batas dalam.</p><ul>
+    <li><span class="ruby-word"><ruby>家内<rt>かない</rt></ruby></span> - dalam, di dalam</li>
     <li><span class="ruby-word"><ruby>室内<rt>しつない</rt></ruby></span> - dalam ruangan</li>
     <li><span class="ruby-word"><ruby>内側<rt>うちがわ</rt></ruby></span> - sisi dalam</li>
-    <li><span class="ruby-word"><ruby>以内<rt>いない</rt></ruby></span> - dalam batas</li>
+    <li><span class="ruby-word"><ruby>以内<rt>いない</rt></ruby></span> - dalam, di dalam</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -72,8 +74,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>代 bisa berarti zaman, biaya, atau menggantikan.</p><ul>
     <li><span class="ruby-word"><ruby>時代<rt>じだい</rt></ruby></span> - zaman</li>
-    <li><span class="ruby-word"><ruby>代金<rt>だいきん</rt></ruby></span> - biaya</li>
-    <li><span class="ruby-word"><ruby>代表<rt>だいひょう</rt></ruby></span> - perwakilan</li>
+    <li><span class="ruby-word"><ruby>バス代<rt>バスだい</rt></ruby></span> - ongkos bus</li>
+    <li><span class="ruby-word"><ruby>代わりに<rt>かわりに</rt></ruby></span> - sebagai pengganti</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -86,8 +88,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>号 muncul pada nomor kamar, edisi, dan sinyal.</p><ul>
     <li><span class="ruby-word"><ruby>番号<rt>ばんごう</rt></ruby></span> - nomor</li>
-    <li><span class="ruby-word"><ruby>信号<rt>しんごう</rt></ruby></span> - lampu/sinyal</li>
-    <li><span class="ruby-word"><ruby>号<rt>ごう</rt></ruby><ruby>室<rt>しつ</rt></ruby></span> - nomor kamar</li>
+    <li><span class="ruby-word"><ruby>102号室<rt>ひゃくにごうしつ</rt></ruby></span> - kamar nomor 102</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -99,9 +100,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>番 sering muncul untuk urutan, giliran, atau pos polisi.</p><ul>
-    <li><span class="ruby-word"><ruby>番号<rt>ばんごう</rt></ruby></span> - nomor</li>
     <li><span class="ruby-word"><ruby>交番<rt>こうばん</rt></ruby></span> - pos polisi</li>
-    <li><span class="ruby-word"><ruby>番線<rt>ばんせん</rt></ruby></span> - nomor peron/jalur</li>
+    <li><span class="ruby-word"><ruby>1番<rt>いちばん</rt></ruby></span> - nomor satu</li>
+    <li><span class="ruby-word"><ruby>3番線<rt>さんばんせん</rt></ruby></span> - jalur nomor 3</li>
+    <li><span class="ruby-word"><ruby>番号<rt>ばんごう</rt></ruby></span> - nomor</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -113,9 +115,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>度 menunjukkan frekuensi, derajat, atau kesempatan.</p><ul>
-    <li><span class="ruby-word"><ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby></span> - sekali</li>
+    <li><span class="ruby-word"><ruby>一度<rt>いちど</rt></ruby></span> - sekali</li>
     <li><span class="ruby-word"><ruby>今度<rt>こんど</rt></ruby></span> - kali ini/lain kali</li>
-    <li><span class="ruby-word"><ruby>温度<rt>おんど</rt></ruby></span> - suhu</li>
+    <li><span class="ruby-word"><ruby>支度する<rt>したくする</rt></ruby></span> - bersiap-siap</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -128,8 +130,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>全 memberi rasa keseluruhan atau aman pada kata tertentu.</p><ul>
     <li><span class="ruby-word"><ruby>全部<rt>ぜんぶ</rt></ruby></span> - semua</li>
+    <li><span class="ruby-word"><ruby>安全な<rt>あんぜんな</rt></ruby></span> - aman</li>
+    <li><span class="ruby-word"><ruby>全然〜ない<rt>ぜんぜん〜ない</rt></ruby></span> - sama sekali tidak ...</li>
     <li><span class="ruby-word"><ruby>安全<rt>あんぜん</rt></ruby></span> - aman</li>
-    <li><span class="ruby-word"><ruby>全国<rt>ぜんこく</rt></ruby></span> - seluruh negara</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -155,9 +158,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>服 berarti pakaian dan muncul pada jenis pakaian.</p><ul>
+    <li><span class="ruby-word"><ruby>服<rt>ふく</rt></ruby></span> - pakaian</li>
     <li><span class="ruby-word"><ruby>洋服<rt>ようふく</rt></ruby></span> - pakaian Barat</li>
     <li><span class="ruby-word"><ruby>和服<rt>わふく</rt></ruby></span> - pakaian Jepang</li>
-    <li><span class="ruby-word"><ruby>制服<rt>せいふく</rt></ruby></span> - seragam</li>
   </ul></details>
 </div>
 

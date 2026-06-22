@@ -46,6 +46,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>花<rt>はな</rt></ruby></span> - bunga</li>
     <li><span class="ruby-word"><ruby>花びん<rt>かびん</rt></ruby></span> - vas bunga</li>
     <li><span class="ruby-word"><ruby>花見<rt>はなみ</rt></ruby></span> - melihat bunga</li>
+    <li><span class="ruby-word"><ruby>花火<rt>はなび</rt></ruby></span> - kembang api</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -70,8 +71,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>気 muncul pada kata tentang udara, perasaan, kesehatan, dan listrik dalam percakapan harian.</p><ul>
     <li><span class="ruby-word"><ruby>電気<rt>でんき</rt></ruby></span> - listrik</li>
-    <li><span class="ruby-word"><ruby>病気<rt>びょうき</rt></ruby></span> - sakit, penyakit</li>
-    <li><span class="ruby-word"><ruby>元気<rt>げんき</rt></ruby></span> - sehat, bersemangat</li>
+    <li><span class="ruby-word"><ruby>病気<rt>びょうき</rt></ruby></span> - sakit/penyakit</li>
+    <li><span class="ruby-word"><ruby>元気<rt>げんき</rt></ruby></span> - sehat/bersemangat</li>
+    <li><span class="ruby-word"><ruby>空気<rt>くうき</rt></ruby></span> - udara</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -98,6 +100,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>手<rt>て</rt></ruby></span> - tangan</li>
     <li><span class="ruby-word"><ruby>お手洗い<rt>おてあらい</rt></ruby></span> - toilet, tempat cuci tangan</li>
     <li><span class="ruby-word"><ruby>上手な<rt>じょうずな</rt></ruby></span> - pandai, mahir</li>
+    <li><span class="ruby-word"><ruby>下手な<rt>へたな</rt></ruby></span> - kurang pandai</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -126,6 +129,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>目<rt>め</rt></ruby></span> - mata</li>
     <li><span class="ruby-word"><ruby>一つ目<rt>ひとつめ</rt></ruby></span> - yang pertama</li>
     <li><span class="ruby-word"><ruby>二つ目<rt>ふたつめ</rt></ruby></span> - yang kedua</li>
+    <li><span class="ruby-word"><ruby>三つ目<rt>みっつめ</rt></ruby></span> - yang ketiga</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -164,7 +168,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 <p>牛 berarti sapi dan muncul pada makanan atau minuman dari sapi seperti daging dan susu.</p><ul>
     <li><span class="ruby-word"><ruby>牛<rt>うし</rt></ruby></span> - sapi</li>
     <li><span class="ruby-word"><ruby>牛肉<rt>ぎゅうにく</rt></ruby></span> - daging sapi</li>
-    <li><span class="ruby-word"><ruby>牛乳<rt>ぎゅうにゅう</rt></ruby></span> - susu</li>
+    <li><span class="ruby-word"><ruby>牛乳<rt>ぎゅうにゅう</rt></ruby></span> - susu sapi</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -216,7 +220,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>門 berarti gerbang dan muncul pada pintu masuk besar atau kata bidang khusus.</p><ul>
     <li><span class="ruby-word"><ruby>門<rt>もん</rt></ruby></span> - gerbang</li>
-    <li><span class="ruby-word"><ruby>専門<rt>せんもん</rt></ruby></span> - spesialisasi, bidang khusus</li>
+    <li><span class="ruby-word"><ruby>専門<rt>せんもん</rt></ruby></span> - spesialisasi</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">

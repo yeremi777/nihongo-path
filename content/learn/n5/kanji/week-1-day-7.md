@@ -46,6 +46,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>一<rt>いち</rt></ruby></span> - satu</li>
     <li><span class="ruby-word"><ruby>一つ<rt>ひとつ</rt></ruby></span> - satu buah</li>
     <li><span class="ruby-word"><ruby>一日<rt>ついたち</rt></ruby></span> - tanggal satu</li>
+    <li><span class="ruby-word"><ruby>一月<rt>いちがつ</rt></ruby></span> - Januari</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -60,6 +61,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>二<rt>に</rt></ruby></span> - dua</li>
     <li><span class="ruby-word"><ruby>二つ<rt>ふたつ</rt></ruby></span> - dua buah</li>
     <li><span class="ruby-word"><ruby>二日<rt>ふつか</rt></ruby></span> - tanggal dua, dua hari</li>
+    <li><span class="ruby-word"><ruby>二月<rt>にがつ</rt></ruby></span> - Februari</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -74,6 +76,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>三<rt>さん</rt></ruby></span> - tiga</li>
     <li><span class="ruby-word"><ruby>三つ<rt>みっつ</rt></ruby></span> - tiga buah</li>
     <li><span class="ruby-word"><ruby>三日<rt>みっか</rt></ruby></span> - tanggal tiga, tiga hari</li>
+    <li><span class="ruby-word"><ruby>三月<rt>さんがつ</rt></ruby></span> - Maret</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -88,6 +91,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>四<rt>よん</rt></ruby></span> - empat</li>
     <li><span class="ruby-word"><ruby>四つ<rt>よっつ</rt></ruby></span> - empat buah</li>
     <li><span class="ruby-word"><ruby>四日<rt>よっか</rt></ruby></span> - tanggal empat, empat hari</li>
+    <li><span class="ruby-word"><ruby>四月<rt>しがつ</rt></ruby></span> - April</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -102,6 +106,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>五<rt>ご</rt></ruby></span> - lima</li>
     <li><span class="ruby-word"><ruby>五つ<rt>いつつ</rt></ruby></span> - lima buah</li>
     <li><span class="ruby-word"><ruby>五日<rt>いつか</rt></ruby></span> - tanggal lima, lima hari</li>
+    <li><span class="ruby-word"><ruby>五月<rt>ごがつ</rt></ruby></span> - Mei</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -116,6 +121,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>六<rt>ろく</rt></ruby></span> - enam</li>
     <li><span class="ruby-word"><ruby>六つ<rt>むっつ</rt></ruby></span> - enam buah</li>
     <li><span class="ruby-word"><ruby>六日<rt>むいか</rt></ruby></span> - tanggal enam, enam hari</li>
+    <li><span class="ruby-word"><ruby>六月<rt>ろくがつ</rt></ruby></span> - Juni</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -130,6 +136,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>七<rt>なな</rt></ruby></span> - tujuh</li>
     <li><span class="ruby-word"><ruby>七つ<rt>ななつ</rt></ruby></span> - tujuh buah</li>
     <li><span class="ruby-word"><ruby>七日<rt>なのか</rt></ruby></span> - tanggal tujuh, tujuh hari</li>
+    <li><span class="ruby-word"><ruby>七月<rt>しちがつ</rt></ruby></span> - Juli</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -144,6 +151,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>八<rt>はち</rt></ruby></span> - delapan</li>
     <li><span class="ruby-word"><ruby>八つ<rt>やっつ</rt></ruby></span> - delapan buah</li>
     <li><span class="ruby-word"><ruby>八日<rt>ようか</rt></ruby></span> - tanggal delapan, delapan hari</li>
+    <li><span class="ruby-word"><ruby>八月<rt>はちがつ</rt></ruby></span> - Agustus</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -158,6 +166,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>九<rt>きゅう</rt></ruby></span> - sembilan</li>
     <li><span class="ruby-word"><ruby>九つ<rt>ここのつ</rt></ruby></span> - sembilan buah</li>
     <li><span class="ruby-word"><ruby>九日<rt>ここのか</rt></ruby></span> - tanggal sembilan, sembilan hari</li>
+    <li><span class="ruby-word"><ruby>九月<rt>くがつ</rt></ruby></span> - September</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -227,7 +236,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 <p>月 berarti bulan, dan juga dipakai untuk hari Senin dalam 月曜日.</p><ul>
     <li><span class="ruby-word"><ruby>月<rt>つき</rt></ruby></span> - bulan</li>
     <li><span class="ruby-word"><ruby>一月<rt>いちがつ</rt></ruby></span> - Januari</li>
-    <li><span class="ruby-word"><ruby>月曜日<rt>げつようび</rt></ruby></span> - hari Senin</li>
+    <li><span class="ruby-word"><ruby>月曜日<rt>げつようび</rt></ruby></span> - Senin</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -241,7 +250,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 <p>日 berarti hari, tanggal, matahari, dan hari Minggu dalam kalender sederhana.</p><ul>
     <li><span class="ruby-word"><ruby>日<rt>ひ</rt></ruby></span> - hari, matahari</li>
     <li><span class="ruby-word"><ruby>一日<rt>ついたち</rt></ruby></span> - tanggal satu</li>
-    <li><span class="ruby-word"><ruby>日曜日<rt>にちようび</rt></ruby></span> - hari Minggu</li>
+    <li><span class="ruby-word"><ruby>日曜日<rt>にちようび</rt></ruby></span> - Minggu</li>
+    <li><span class="ruby-word"><ruby>今日<rt>きょう</rt></ruby></span> - hari ini</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">

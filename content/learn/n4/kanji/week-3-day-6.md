@@ -43,9 +43,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>鳥 menunjuk burung dan muncul pada kata hewan kecil.</p><ul>
+    <li><span class="ruby-word"><ruby>鳥<rt>とり</rt></ruby></span> - burung</li>
     <li><span class="ruby-word"><ruby>小鳥<rt>ことり</rt></ruby></span> - burung kecil</li>
-    <li><span class="ruby-word"><ruby>野鳥<rt>やちょう</rt></ruby></span> - burung liar</li>
-    <li><span class="ruby-word"><ruby>鳥<rt>とり</rt></ruby><ruby>肉<rt>にく</rt></ruby></span> - daging ayam/burung</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -58,8 +57,6 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>銀 berarti perak, tetapi paling sering muncul dalam 銀行.</p><ul>
     <li><span class="ruby-word"><ruby>銀行<rt>ぎんこう</rt></ruby></span> - bank</li>
-    <li><span class="ruby-word"><ruby>銀色<rt>ぎんいろ</rt></ruby></span> - warna perak</li>
-    <li><span class="ruby-word"><ruby>銀座<rt>ぎんざ</rt></ruby></span> - Ginza</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -73,7 +70,6 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 <p>堂 menunjuk aula atau gedung untuk fungsi tertentu.</p><ul>
     <li><span class="ruby-word"><ruby>食堂<rt>しょくどう</rt></ruby></span> - kantin</li>
     <li><span class="ruby-word"><ruby>講堂<rt>こうどう</rt></ruby></span> - aula kuliah</li>
-    <li><span class="ruby-word"><ruby>本堂<rt>ほんどう</rt></ruby></span> - aula utama kuil</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -86,7 +82,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>院 muncul pada rumah sakit, lembaga, atau sekolah pascasarjana.</p><ul>
     <li><span class="ruby-word"><ruby>病院<rt>びょういん</rt></ruby></span> - rumah sakit</li>
-    <li><span class="ruby-word"><ruby>入院<rt>にゅういん</rt></ruby></span> - rawat inap</li>
+    <li><span class="ruby-word"><ruby>入院する<rt>にゅういんする</rt></ruby></span> - dirawat di rumah sakit</li>
     <li><span class="ruby-word"><ruby>大学院<rt>だいがくいん</rt></ruby></span> - pascasarjana</li>
   </ul></details>
 
@@ -99,9 +95,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>歩 dipakai untuk berjalan, langkah kaki, dan jarak tempuh singkat.</p><ul>
+    <li><span class="ruby-word"><ruby>散歩する<rt>さんぽする</rt></ruby></span> - jalan-jalan</li>
+    <li><span class="ruby-word"><ruby>歩く<rt>あるく</rt></ruby></span> - berjalan</li>
     <li><span class="ruby-word"><ruby>散歩<rt>さんぽ</rt></ruby></span> - jalan-jalan</li>
-    <li><span class="ruby-word"><ruby>歩道<rt>ほどう</rt></ruby></span> - trotoar</li>
-    <li><span class="ruby-word"><ruby>徒歩<rt>とほ</rt></ruby></span> - berjalan kaki</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -113,9 +109,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>走 muncul pada kegiatan berlari atau perlombaan.</p><ul>
+    <li><span class="ruby-word"><ruby>走る<rt>はしる</rt></ruby></span> - berlari</li>
     <li><span class="ruby-word"><ruby>競走<rt>きょうそう</rt></ruby></span> - lomba lari</li>
-    <li><span class="ruby-word"><ruby>走行<rt>そうこう</rt></ruby></span> - perjalanan kendaraan</li>
-    <li><span class="ruby-word"><ruby>完走<rt>かんそう</rt></ruby></span> - selesai berlari</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -128,8 +123,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>海 berhubungan dengan laut, pesisir, dan rencana liburan ke pantai.</p><ul>
     <li><span class="ruby-word"><ruby>海岸<rt>かいがん</rt></ruby></span> - pantai</li>
+    <li><span class="ruby-word"><ruby>海<rt>うみ</rt></ruby></span> - laut</li>
     <li><span class="ruby-word"><ruby>海外<rt>かいがい</rt></ruby></span> - luar negeri</li>
-    <li><span class="ruby-word"><ruby>北海道<rt>ほっかいどう</rt></ruby></span> - Hokkaido</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -141,9 +136,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>帰 dipakai untuk pulang ke rumah, negara, atau tempat asal.</p><ul>
+    <li><span class="ruby-word"><ruby>帰る<rt>かえる</rt></ruby></span> - pulang</li>
     <li><span class="ruby-word"><ruby>帰国<rt>きこく</rt></ruby></span> - pulang ke negara asal</li>
     <li><span class="ruby-word"><ruby>帰宅<rt>きたく</rt></ruby></span> - pulang ke rumah</li>
-    <li><span class="ruby-word"><ruby>日帰<rt>ひがえ</rt></ruby>り</span> - pergi-pulang sehari</li>
   </ul></details>
 </div>
 

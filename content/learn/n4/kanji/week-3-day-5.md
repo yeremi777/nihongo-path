@@ -43,9 +43,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>合 muncul pada kecocokan, gabungan, dan hasil lulus.</p><ul>
-    <li><span class="ruby-word"><ruby>合格<rt>ごうかく</rt></ruby></span> - lulus</li>
-    <li><span class="ruby-word"><ruby>都合<rt>つごう</rt></ruby></span> - kondisi/jadwal</li>
+    <li><span class="ruby-word"><ruby>合格する<rt>ごうかくする</rt></ruby></span> - lulus ujian</li>
+    <li><span class="ruby-word"><ruby>都合がいい<rt>つごうがいい</rt></ruby></span> - kondisinya cocok</li>
+    <li><span class="ruby-word"><ruby>合う<rt>あう</rt></ruby></span> - cocok</li>
     <li><span class="ruby-word"><ruby>試合<rt>しあい</rt></ruby></span> - pertandingan</li>
+    <li><span class="ruby-word"><ruby>合格<rt>ごうかく</rt></ruby></span> - lulus</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -58,8 +60,6 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>漢 pada level ini paling sering muncul dalam kata 漢字.</p><ul>
     <li><span class="ruby-word"><ruby>漢字<rt>かんじ</rt></ruby></span> - kanji</li>
-    <li><span class="ruby-word"><ruby>漢語<rt>かんご</rt></ruby></span> - kata Sino-Jepang</li>
-    <li><span class="ruby-word"><ruby>漢方<rt>かんぽう</rt></ruby></span> - pengobatan tradisional</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -71,9 +71,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>字 dipakai untuk huruf, karakter, dan tulisan.</p><ul>
+    <li><span class="ruby-word"><ruby>字<rt>じ</rt></ruby></span> - huruf, karakter</li>
     <li><span class="ruby-word"><ruby>文字<rt>もじ</rt></ruby></span> - huruf/tulisan</li>
     <li><span class="ruby-word"><ruby>漢字<rt>かんじ</rt></ruby></span> - kanji</li>
-    <li><span class="ruby-word"><ruby>数字<rt>すうじ</rt></ruby></span> - angka</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -85,9 +85,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>親 berarti orang tua atau kedekatan/kebaikan pada 親切.</p><ul>
-    <li><span class="ruby-word"><ruby>親切<rt>しんせつ</rt></ruby></span> - ramah/baik hati</li>
+    <li><span class="ruby-word"><ruby>親切な<rt>しんせつな</rt></ruby></span> - ramah, baik hati</li>
     <li><span class="ruby-word"><ruby>両親<rt>りょうしん</rt></ruby></span> - kedua orang tua</li>
-    <li><span class="ruby-word"><ruby>親友<rt>しんゆう</rt></ruby></span> - sahabat dekat</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -99,9 +98,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>切 bisa berarti memotong, penting, atau muncul dalam kata tiket/perangko.</p><ul>
+    <li><span class="ruby-word"><ruby>大切な<rt>たいせつな</rt></ruby></span> - penting, berharga</li>
+    <li><span class="ruby-word"><ruby>切る<rt>きる</rt></ruby></span> - memotong</li>
+    <li><span class="ruby-word"><ruby>切れる<rt>きれる</rt></ruby></span> - terputus, habis</li>
     <li><span class="ruby-word"><ruby>切手<rt>きって</rt></ruby></span> - perangko</li>
     <li><span class="ruby-word"><ruby>切符<rt>きっぷ</rt></ruby></span> - tiket</li>
-    <li><span class="ruby-word"><ruby>大切<rt>たいせつ</rt></ruby></span> - penting</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -114,8 +115,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>楽 bisa berarti musik, senang, atau mudah/nyaman.</p><ul>
     <li><span class="ruby-word"><ruby>音楽<rt>おんがく</rt></ruby></span> - musik</li>
-    <li><span class="ruby-word"><ruby>楽器<rt>がっき</rt></ruby></span> - alat musik</li>
-    <li><span class="ruby-word"><ruby>気楽<rt>きらく</rt></ruby></span> - santai</li>
+    <li><span class="ruby-word"><ruby>楽しい<rt>たのしい</rt></ruby></span> - menyenangkan</li>
+    <li><span class="ruby-word"><ruby>楽しむ<rt>たのしむ</rt></ruby></span> - menikmati</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -141,9 +142,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>場 muncul pada lokasi kegiatan, pabrik, dan tempat parkir.</p><ul>
-    <li><span class="ruby-word"><ruby>場所<rt>ばしょ</rt></ruby></span> - tempat</li>
     <li><span class="ruby-word"><ruby>工場<rt>こうじょう</rt></ruby></span> - pabrik</li>
-    <li><span class="ruby-word"><ruby>駐車<rt>ちゅうしゃ</rt></ruby><ruby>場<rt>じょう</rt></ruby></span> - tempat parkir</li>
+    <li><span class="ruby-word"><ruby>駐車場<rt>ちゅうしゃじょう</rt></ruby></span> - tempat parkir</li>
+    <li><span class="ruby-word"><ruby>場所<rt>ばしょ</rt></ruby></span> - tempat</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -156,8 +157,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>室 menandai ruangan dengan fungsi tertentu, seperti kelas atau kantor.</p><ul>
     <li><span class="ruby-word"><ruby>教室<rt>きょうしつ</rt></ruby></span> - kelas</li>
-    <li><span class="ruby-word"><ruby>会議<rt>かいぎ</rt></ruby><ruby>室<rt>しつ</rt></ruby></span> - ruang rapat</li>
-    <li><span class="ruby-word"><ruby>研究<rt>けんきゅう</rt></ruby><ruby>室<rt>しつ</rt></ruby></span> - ruang penelitian</li>
+    <li><span class="ruby-word"><ruby>会議室<rt>かいぎしつ</rt></ruby></span> - ruang rapat</li>
   </ul></details>
 </div>
 

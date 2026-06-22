@@ -43,9 +43,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>売 muncul pada tempat jualan dan kegiatan menjual.</p><ul>
+    <li><span class="ruby-word"><ruby>売る<rt>うる</rt></ruby></span> - menjual</li>
+    <li><span class="ruby-word"><ruby>売り場<rt>うりば</rt></ruby></span> - bagian penjualan</li>
     <li><span class="ruby-word"><ruby>売店<rt>ばいてん</rt></ruby></span> - kios</li>
-    <li><span class="ruby-word"><ruby>売場<rt>うりば</rt></ruby></span> - tempat penjualan</li>
-    <li><span class="ruby-word"><ruby>発売<rt>はつばい</rt></ruby></span> - mulai dijual</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -57,9 +57,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>借 berarti meminjam dari orang lain, bank, atau perpustakaan.</p><ul>
+    <li><span class="ruby-word"><ruby>借りる<rt>かりる</rt></ruby></span> - meminjam, menyewa</li>
     <li><span class="ruby-word"><ruby>借金<rt>しゃっきん</rt></ruby></span> - utang</li>
-    <li><span class="ruby-word"><ruby>借用<rt>しゃくよう</rt></ruby></span> - peminjaman</li>
-    <li><span class="ruby-word"><ruby>借家<rt>しゃくや</rt></ruby></span> - rumah sewa</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -71,9 +70,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>貸 adalah kebalikan dari 借: memberi pinjaman barang atau uang.</p><ul>
+    <li><span class="ruby-word"><ruby>貸す<rt>かす</rt></ruby></span> - meminjamkan</li>
     <li><span class="ruby-word"><ruby>貸出<rt>かしだし</rt></ruby></span> - peminjaman keluar</li>
-    <li><span class="ruby-word"><ruby>貸家<rt>かしや</rt></ruby></span> - rumah sewa</li>
-    <li><span class="ruby-word"><ruby>賃貸<rt>ちんたい</rt></ruby></span> - sewa-menyewa</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -85,9 +83,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>習 muncul pada latihan, persiapan belajar, dan kebiasaan.</p><ul>
-    <li><span class="ruby-word"><ruby>練習<rt>れんしゅう</rt></ruby></span> - latihan</li>
-    <li><span class="ruby-word"><ruby>予習<rt>よしゅう</rt></ruby></span> - belajar sebelum kelas</li>
-    <li><span class="ruby-word"><ruby>復習<rt>ふくしゅう</rt></ruby></span> - mengulang pelajaran</li>
+    <li><span class="ruby-word"><ruby>練習する<rt>れんしゅうする</rt></ruby></span> - berlatih</li>
+    <li><span class="ruby-word"><ruby>予習する<rt>よしゅうする</rt></ruby></span> - belajar sebelum kelas</li>
+    <li><span class="ruby-word"><ruby>復習する<rt>ふくしゅうする</rt></ruby></span> - mengulang pelajaran</li>
+    <li><span class="ruby-word"><ruby>習慣<rt>しゅうかん</rt></ruby></span> - kebiasaan</li>
+    <li><span class="ruby-word"><ruby>習う<rt>ならう</rt></ruby></span> - belajar dari seseorang</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -99,9 +99,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>座 muncul pada tempat duduk, posisi duduk, dan tata kursi ruangan.</p><ul>
+    <li><span class="ruby-word"><ruby>座る<rt>すわる</rt></ruby></span> - duduk</li>
     <li><span class="ruby-word"><ruby>座席<rt>ざせき</rt></ruby></span> - tempat duduk</li>
-    <li><span class="ruby-word"><ruby>正座<rt>せいざ</rt></ruby></span> - duduk formal Jepang</li>
-    <li><span class="ruby-word"><ruby>講座<rt>こうざ</rt></ruby></span> - kursus</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -113,9 +112,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>乗 digunakan saat naik kendaraan atau berpindah kendaraan.</p><ul>
+    <li><span class="ruby-word"><ruby>乗る<rt>のる</rt></ruby></span> - naik kendaraan</li>
+    <li><span class="ruby-word"><ruby>乗り物<rt>のりもの</rt></ruby></span> - kendaraan</li>
+    <li><span class="ruby-word"><ruby>乗り換える<rt>のりかえる</rt></ruby></span> - berganti kendaraan</li>
     <li><span class="ruby-word"><ruby>乗車<rt>じょうしゃ</rt></ruby></span> - naik kendaraan</li>
-    <li><span class="ruby-word"><ruby>乗物<rt>のりもの</rt></ruby></span> - kendaraan</li>
-    <li><span class="ruby-word"><ruby>乗換<rt>のりかえ</rt></ruby></span> - transit/ganti kendaraan</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -127,9 +127,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>死 muncul pada kata formal tentang kematian dan berita yang serius.</p><ul>
+    <li><span class="ruby-word"><ruby>死ぬ<rt>しぬ</rt></ruby></span> - meninggal</li>
     <li><span class="ruby-word"><ruby>死亡<rt>しぼう</rt></ruby></span> - kematian</li>
-    <li><span class="ruby-word"><ruby>死者<rt>ししゃ</rt></ruby></span> - korban meninggal</li>
-    <li><span class="ruby-word"><ruby>必死<rt>ひっし</rt></ruby></span> - mati-matian</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -141,6 +140,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>不 menambahkan nuansa tidak, kurang, atau negatif pada kata setelahnya.</p><ul>
+    <li><span class="ruby-word"><ruby>不便な<rt>ふべんな</rt></ruby></span> - tidak praktis</li>
+    <li><span class="ruby-word"><ruby>不安な<rt>ふあんな</rt></ruby></span> - cemas, tidak tenang</li>
     <li><span class="ruby-word"><ruby>不便<rt>ふべん</rt></ruby></span> - tidak praktis</li>
     <li><span class="ruby-word"><ruby>不安<rt>ふあん</rt></ruby></span> - cemas</li>
     <li><span class="ruby-word"><ruby>不足<rt>ふそく</rt></ruby></span> - kekurangan</li>

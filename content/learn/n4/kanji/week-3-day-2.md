@@ -43,9 +43,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>持 berhubungan dengan memegang, membawa, atau perasaan yang dimiliki.</p><ul>
-    <li><span class="ruby-word"><ruby>気持<rt>きも</rt></ruby>ち</span> - perasaan</li>
-    <li><span class="ruby-word"><ruby>持参<rt>じさん</rt></ruby></span> - membawa serta</li>
-    <li><span class="ruby-word"><ruby>所持<rt>しょじ</rt></ruby></span> - kepemilikan</li>
+    <li><span class="ruby-word"><ruby>持つ<rt>もつ</rt></ruby></span> - membawa, memegang</li>
+    <li><span class="ruby-word"><ruby>気持ち<rt>きもち</rt></ruby></span> - perasaan</li>
+    <li><span class="ruby-word"><ruby>お金持ち<rt>おかねもち</rt></ruby></span> - orang kaya</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -57,9 +57,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>待 berarti menunggu dan juga muncul pada undangan.</p><ul>
+    <li><span class="ruby-word"><ruby>招待する<rt>しょうたいする</rt></ruby></span> - mengundang</li>
+    <li><span class="ruby-word"><ruby>待つ<rt>まつ</rt></ruby></span> - menunggu</li>
     <li><span class="ruby-word"><ruby>招待<rt>しょうたい</rt></ruby></span> - undangan</li>
-    <li><span class="ruby-word"><ruby>待合室<rt>まちあいしつ</rt></ruby></span> - ruang tunggu</li>
-    <li><span class="ruby-word"><ruby>期待<rt>きたい</rt></ruby></span> - harapan</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -72,8 +72,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>特 memberi rasa khusus, spesial, atau istimewa pada kata majemuk.</p><ul>
     <li><span class="ruby-word"><ruby>特急<rt>とっきゅう</rt></ruby></span> - ekspres khusus</li>
+    <li><span class="ruby-word"><ruby>特別な<rt>とくべつな</rt></ruby></span> - khusus, istimewa</li>
+    <li><span class="ruby-word"><ruby>特に<rt>とくに</rt></ruby></span> - terutama</li>
     <li><span class="ruby-word"><ruby>特別<rt>とくべつ</rt></ruby></span> - spesial</li>
-    <li><span class="ruby-word"><ruby>特徴<rt>とくちょう</rt></ruby></span> - ciri khas</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -85,9 +86,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>林 adalah kumpulan pohon yang lebih kecil dari 森.</p><ul>
+    <li><span class="ruby-word"><ruby>林<rt>はやし</rt></ruby></span> - hutan kecil</li>
     <li><span class="ruby-word"><ruby>森林<rt>しんりん</rt></ruby></span> - hutan</li>
-    <li><span class="ruby-word"><ruby>林業<rt>りんぎょう</rt></ruby></span> - kehutanan</li>
-    <li><span class="ruby-word"><ruby>竹林<rt>ちくりん</rt></ruby></span> - hutan bambu</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -99,9 +99,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>村 menunjuk desa, permukiman kecil, dan nama tempat tinggal pedesaan.</p><ul>
+    <li><span class="ruby-word"><ruby>村<rt>むら</rt></ruby></span> - desa</li>
     <li><span class="ruby-word"><ruby>村人<rt>むらびと</rt></ruby></span> - orang desa</li>
-    <li><span class="ruby-word"><ruby>村長<rt>そんちょう</rt></ruby></span> - kepala desa</li>
-    <li><span class="ruby-word"><ruby>農村<rt>のうそん</rt></ruby></span> - desa pertanian</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -113,9 +112,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>森 menggambarkan hutan yang lebat dan lanskap alam yang luas.</p><ul>
+    <li><span class="ruby-word"><ruby>森<rt>もり</rt></ruby></span> - hutan</li>
     <li><span class="ruby-word"><ruby>森林<rt>しんりん</rt></ruby></span> - hutan</li>
-    <li><span class="ruby-word"><ruby>森中<rt>もりなか</rt></ruby></span> - di dalam hutan</li>
-    <li><span class="ruby-word"><ruby>青森<rt>あおもり</rt></ruby></span> - Aomori</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -129,7 +127,6 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 <p>曜 hampir selalu muncul pada nama hari dan jadwal mingguan.</p><ul>
     <li><span class="ruby-word"><ruby>曜日<rt>ようび</rt></ruby></span> - hari dalam minggu</li>
     <li><span class="ruby-word"><ruby>日曜日<rt>にちようび</rt></ruby></span> - Minggu</li>
-    <li><span class="ruby-word"><ruby>月曜日<rt>げつようび</rt></ruby></span> - Senin</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -141,9 +138,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>濯 pada N4 terutama muncul dalam 洗濯 dan rutinitas mencuci pakaian.</p><ul>
+    <li><span class="ruby-word"><ruby>洗濯する<rt>せんたくする</rt></ruby></span> - mencuci pakaian</li>
     <li><span class="ruby-word"><ruby>洗濯<rt>せんたく</rt></ruby></span> - cucian</li>
-    <li><span class="ruby-word"><ruby>洗濯<rt>せんたく</rt></ruby><ruby>機<rt>き</rt></ruby></span> - mesin cuci</li>
-    <li><span class="ruby-word"><ruby>洗濯<rt>せんたく</rt></ruby><ruby>物<rt>ぶつ</rt></ruby></span> - cucian/barang cucian</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -155,9 +151,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>質 bisa berarti kualitas atau bagian dari kata pertanyaan.</p><ul>
+    <li><span class="ruby-word"><ruby>質問する<rt>しつもんする</rt></ruby></span> - bertanya</li>
     <li><span class="ruby-word"><ruby>質問<rt>しつもん</rt></ruby></span> - pertanyaan</li>
-    <li><span class="ruby-word"><ruby>品質<rt>ひんしつ</rt></ruby></span> - kualitas barang</li>
-    <li><span class="ruby-word"><ruby>性質<rt>せいしつ</rt></ruby></span> - sifat</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -171,7 +166,6 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 <p>問 muncul pada pertanyaan, masalah, dan formulir yang meminta jawaban.</p><ul>
     <li><span class="ruby-word"><ruby>問題<rt>もんだい</rt></ruby></span> - soal/masalah</li>
     <li><span class="ruby-word"><ruby>質問<rt>しつもん</rt></ruby></span> - pertanyaan</li>
-    <li><span class="ruby-word"><ruby>訪問<rt>ほうもん</rt></ruby></span> - kunjungan</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -185,7 +179,6 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 <p>題 memberi rasa topik, judul, atau soal yang dikerjakan.</p><ul>
     <li><span class="ruby-word"><ruby>宿題<rt>しゅくだい</rt></ruby></span> - PR</li>
     <li><span class="ruby-word"><ruby>問題<rt>もんだい</rt></ruby></span> - soal/masalah</li>
-    <li><span class="ruby-word"><ruby>題名<rt>だいめい</rt></ruby></span> - judul</li>
   </ul></details>
 </div>
 

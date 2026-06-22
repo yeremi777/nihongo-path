@@ -43,9 +43,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>大 muncul pada ukuran besar dan nama institusi.</p><ul>
+    <li><span class="ruby-word"><ruby>大きい<rt>おおきい</rt></ruby></span> - besar</li>
     <li><span class="ruby-word"><ruby>大学<rt>だいがく</rt></ruby></span> - universitas</li>
     <li><span class="ruby-word"><ruby>大人<rt>おとな</rt></ruby></span> - orang dewasa</li>
-    <li><span class="ruby-word"><ruby>大切<rt>たいせつ</rt></ruby></span> - penting</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -57,9 +57,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>犬 mirip 大, tetapi ada titik kecil yang mengubah makna.</p><ul>
-    <li><span class="ruby-word"><ruby>犬<rt>いぬ</rt></ruby><ruby>小屋<rt>こや</rt></ruby></span> - rumah anjing</li>
-    <li><span class="ruby-word"><ruby>番犬<rt>ばんけん</rt></ruby></span> - anjing penjaga</li>
-    <li><span class="ruby-word"><ruby>愛犬<rt>あいけん</rt></ruby></span> - anjing kesayangan</li>
+    <li><span class="ruby-word"><ruby>犬<rt>いぬ</rt></ruby></span> - anjing</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -71,9 +69,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>太 mirip 大, tetapi titik di bawah sering muncul pada kata seperti matahari.</p><ul>
+    <li><span class="ruby-word"><ruby>太い<rt>ふとい</rt></ruby></span> - tebal, besar</li>
+    <li><span class="ruby-word"><ruby>太る<rt>ふとる</rt></ruby></span> - menjadi gemuk</li>
     <li><span class="ruby-word"><ruby>太陽<rt>たいよう</rt></ruby></span> - matahari</li>
-    <li><span class="ruby-word"><ruby>太字<rt>ふとじ</rt></ruby></span> - huruf tebal</li>
-    <li><span class="ruby-word"><ruby>丸太<rt>まるた</rt></ruby></span> - kayu gelondongan</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -85,9 +83,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>区 muncul dalam alamat kota besar dan pembagian wilayah.</p><ul>
-    <li><span class="ruby-word"><ruby>区役所<rt>くやくしょ</rt></ruby></span> - kantor distrik</li>
-    <li><span class="ruby-word"><ruby>地区<rt>ちく</rt></ruby></span> - wilayah</li>
-    <li><span class="ruby-word"><ruby>区間<rt>くかん</rt></ruby></span> - ruas bagian</li>
+    <li><span class="ruby-word"><ruby>区<rt>く</rt></ruby></span> - distrik, wilayah</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -99,9 +95,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>思 berhubungan dengan pikiran, perasaan, dan kata tentang ingatan sehari-hari.</p><ul>
-    <li><span class="ruby-word"><ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>で</rt></ruby></span> - kenangan</li>
-    <li><span class="ruby-word"><ruby>思想<rt>しそう</rt></ruby></span> - pemikiran</li>
-    <li><span class="ruby-word"><ruby>意思<rt>いし</rt></ruby></span> - niat</li>
+    <li><span class="ruby-word"><ruby>思う<rt>おもう</rt></ruby></span> - berpikir, merasa</li>
+    <li><span class="ruby-word"><ruby>思い出す<rt>おもいだす</rt></ruby></span> - teringat</li>
+    <li><span class="ruby-word"><ruby>思い出<rt>おもいで</rt></ruby></span> - kenangan</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -113,9 +109,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>知 muncul pada pengetahuan dan orang yang dikenal.</p><ul>
+    <li><span class="ruby-word"><ruby>知る<rt>しる</rt></ruby></span> - tahu</li>
+    <li><span class="ruby-word"><ruby>知らせる<rt>しらせる</rt></ruby></span> - memberi tahu</li>
     <li><span class="ruby-word"><ruby>知人<rt>ちじん</rt></ruby></span> - kenalan</li>
-    <li><span class="ruby-word"><ruby>知識<rt>ちしき</rt></ruby></span> - pengetahuan</li>
-    <li><span class="ruby-word"><ruby>通知<rt>つうち</rt></ruby></span> - pemberitahuan</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -128,8 +124,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>和 sering menunjuk gaya Jepang atau keadaan damai.</p><ul>
     <li><span class="ruby-word"><ruby>和室<rt>わしつ</rt></ruby></span> - ruang gaya Jepang</li>
+    <li><span class="ruby-word"><ruby>和菓子<rt>わがし</rt></ruby></span> - kue tradisional Jepang</li>
     <li><span class="ruby-word"><ruby>平和<rt>へいわ</rt></ruby></span> - damai</li>
-    <li><span class="ruby-word"><ruby>和食<rt>わしょく</rt></ruby></span> - makanan Jepang</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -143,7 +139,6 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 <p>族 menandai keluarga, suku, atau kelompok orang dalam konteks sosial.</p><ul>
     <li><span class="ruby-word"><ruby>家族<rt>かぞく</rt></ruby></span> - keluarga</li>
     <li><span class="ruby-word"><ruby>水族館<rt>すいぞくかん</rt></ruby></span> - akuarium</li>
-    <li><span class="ruby-word"><ruby>民族<rt>みんぞく</rt></ruby></span> - suku bangsa</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -155,9 +150,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>青 dipakai untuk warna biru atau hijau kebiruan.</p><ul>
+    <li><span class="ruby-word"><ruby>青<rt>あお</rt></ruby></span> - biru/hijau lampu</li>
+    <li><span class="ruby-word"><ruby>青い<rt>あおい</rt></ruby></span> - biru</li>
     <li><span class="ruby-word"><ruby>青空<rt>あおぞら</rt></ruby></span> - langit biru</li>
-    <li><span class="ruby-word"><ruby>青年<rt>せいねん</rt></ruby></span> - pemuda</li>
-    <li><span class="ruby-word"><ruby>青信号<rt>あおしんごう</rt></ruby></span> - lampu hijau</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -169,9 +164,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>光 berhubungan dengan cahaya, sinar matahari, dan kondisi yang terang.</p><ul>
-    <li><span class="ruby-word"><ruby>日光<rt>にっこう</rt></ruby></span> - sinar matahari</li>
-    <li><span class="ruby-word"><ruby>観光<rt>かんこう</rt></ruby></span> - wisata</li>
-    <li><span class="ruby-word"><ruby>光線<rt>こうせん</rt></ruby></span> - berkas cahaya</li>
+    <li><span class="ruby-word"><ruby>光<rt>ひかり</rt></ruby></span> - cahaya</li>
+    <li><span class="ruby-word"><ruby>光る<rt>ひかる</rt></ruby></span> - bersinar</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -184,8 +178,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>池 berarti kolam, tetapi dalam 電池 berarti baterai.</p><ul>
     <li><span class="ruby-word"><ruby>電池<rt>でんち</rt></ruby></span> - baterai</li>
-    <li><span class="ruby-word"><ruby>池水<rt>いけみず</rt></ruby></span> - air kolam</li>
-    <li><span class="ruby-word"><ruby>古池<rt>ふるいけ</rt></ruby></span> - kolam tua</li>
+    <li><span class="ruby-word"><ruby>池<rt>いけ</rt></ruby></span> - kolam</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -197,9 +190,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>別 menunjukkan hal lain, pemisahan, atau sesuatu yang khusus.</p><ul>
+    <li><span class="ruby-word"><ruby>別の<rt>べつの</rt></ruby></span> - yang lain, berbeda</li>
+    <li><span class="ruby-word"><ruby>特別な<rt>とくべつな</rt></ruby></span> - khusus, istimewa</li>
+    <li><span class="ruby-word"><ruby>別れる<rt>わかれる</rt></ruby></span> - berpisah</li>
     <li><span class="ruby-word"><ruby>特別<rt>とくべつ</rt></ruby></span> - spesial</li>
-    <li><span class="ruby-word"><ruby>別人<rt>べつじん</rt></ruby></span> - orang lain</li>
-    <li><span class="ruby-word"><ruby>区別<rt>くべつ</rt></ruby></span> - pembedaan</li>
   </ul></details>
 </div>
 

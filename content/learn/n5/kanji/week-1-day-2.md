@@ -46,6 +46,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>何<rt>なに</rt></ruby></span> - apa</li>
     <li><span class="ruby-word"><ruby>何時<rt>なんじ</rt></ruby></span> - jam berapa</li>
     <li><span class="ruby-word"><ruby>何時間<rt>なんじかん</rt></ruby></span> - berapa jam</li>
+    <li><span class="ruby-word"><ruby>何語<rt>なにご</rt></ruby></span> - bahasa apa</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -57,9 +58,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>時 dipakai untuk titik jam dan kata waktu, terutama saat membaca jadwal kelas atau janji.</p><ul>
-    <li><span class="ruby-word"><ruby>九時<rt>くじ</rt></ruby></span> - jam sembilan</li>
+    <li><span class="ruby-word"><ruby>九時<rt>きゅうじ</rt></ruby></span> - jam sembilan</li>
     <li><span class="ruby-word"><ruby>四時間<rt>よじかん</rt></ruby></span> - empat jam</li>
-    <li><span class="ruby-word"><ruby>時計<rt>とけい</rt></ruby></span> - jam, arloji</li>
+    <li><span class="ruby-word"><ruby>時計<rt>とけい</rt></ruby></span> - jam</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -86,8 +87,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>間 dipakai untuk rentang waktu atau posisi di antara dua hal dalam jadwal dan arah sederhana.</p><ul>
     <li><span class="ruby-word"><ruby>時間<rt>じかん</rt></ruby></span> - waktu, jam durasi</li>
-    <li><span class="ruby-word"><ruby>一週間<rt>いっしゅうかん</rt></ruby></span> - satu minggu</li>
-    <li><span class="ruby-word"><ruby>間<rt>あいだ</rt></ruby></span> - antara, sela</li>
+    <li><span class="ruby-word"><ruby>一週間<rt>いちしゅうかん</rt></ruby></span> - satu minggu</li>
+    <li><span class="ruby-word"><ruby>AとBの間<rt>AとBのあいだ</rt></ruby></span> - di antara A dan B</li>
+    <li><span class="ruby-word"><ruby>この間<rt>このあいだ</rt></ruby></span> - beberapa waktu lalu</li>
+    <li><span class="ruby-word"><ruby>間に合う<rt>まにあう</rt></ruby></span> - sempat, tepat waktu</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -99,7 +102,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>半 berarti setengah dan sering dipakai saat menyebut jam setengah atau durasi setengah.</p><ul>
-    <li><span class="ruby-word"><ruby>七時半<rt>しちじはん</rt></ruby></span> - jam setengah delapan</li>
+    <li><span class="ruby-word"><ruby>七時半<rt>ななじはん</rt></ruby></span> - jam setengah delapan</li>
     <li><span class="ruby-word"><ruby>一時間半<rt>いちじかんはん</rt></ruby></span> - satu setengah jam</li>
     <li><span class="ruby-word"><ruby>半分<rt>はんぶん</rt></ruby></span> - setengah</li>
   </ul></details>
@@ -157,6 +160,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>今月<rt>こんげつ</rt></ruby></span> - bulan ini</li>
     <li><span class="ruby-word"><ruby>今週<rt>こんしゅう</rt></ruby></span> - minggu ini</li>
     <li><span class="ruby-word"><ruby>今<rt>いま</rt></ruby></span> - sekarang</li>
+    <li><span class="ruby-word"><ruby>今日<rt>きょう</rt></ruby></span> - hari ini</li>
+    <li><span class="ruby-word"><ruby>今年<rt>ことし</rt></ruby></span> - tahun ini</li>
+    <li><span class="ruby-word"><ruby>今朝<rt>けさ</rt></ruby></span> - pagi ini</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -170,7 +176,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 <p>週 dipakai untuk minggu dalam kalender, terutama saat membaca jadwal kelas atau rencana.</p><ul>
     <li><span class="ruby-word"><ruby>先週<rt>せんしゅう</rt></ruby></span> - minggu lalu</li>
     <li><span class="ruby-word"><ruby>来週<rt>らいしゅう</rt></ruby></span> - minggu depan</li>
-    <li><span class="ruby-word"><ruby>一週間<rt>いっしゅうかん</rt></ruby></span> - satu minggu</li>
+    <li><span class="ruby-word"><ruby>一週間<rt>いちしゅうかん</rt></ruby></span> - satu minggu</li>
+    <li><span class="ruby-word"><ruby>毎週<rt>まいしゅう</rt></ruby></span> - setiap minggu</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -185,6 +192,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>一年<rt>いちねん</rt></ruby></span> - satu tahun</li>
     <li><span class="ruby-word"><ruby>去年<rt>きょねん</rt></ruby></span> - tahun lalu</li>
     <li><span class="ruby-word"><ruby>来年<rt>らいねん</rt></ruby></span> - tahun depan</li>
+    <li><span class="ruby-word"><ruby>今年<rt>ことし</rt></ruby></span> - tahun ini</li>
+    <li><span class="ruby-word"><ruby>半年<rt>はんとし</rt></ruby></span> - setengah tahun</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -199,6 +208,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>毎日<rt>まいにち</rt></ruby></span> - setiap hari</li>
     <li><span class="ruby-word"><ruby>毎月<rt>まいつき</rt></ruby></span> - setiap bulan</li>
     <li><span class="ruby-word"><ruby>毎年<rt>まいとし</rt></ruby></span> - setiap tahun</li>
+    <li><span class="ruby-word"><ruby>毎週<rt>まいしゅう</rt></ruby></span> - setiap minggu</li>
   </ul></details>
 </div>
 

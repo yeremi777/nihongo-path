@@ -44,8 +44,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>通 sering muncul pada lalu lintas dan kebiasaan pergi ke suatu tempat secara rutin.</p><ul>
     <li><span class="ruby-word"><ruby>交通<rt>こうつう</rt></ruby></span> - lalu lintas</li>
-    <li><span class="ruby-word"><ruby>普通<rt>ふつう</rt></ruby></span> - biasa</li>
-    <li><span class="ruby-word"><ruby>通学<rt>つうがく</rt></ruby></span> - pergi sekolah rutin</li>
+    <li><span class="ruby-word"><ruby>普通<rt>ふつう</rt></ruby></span> - kereta lokal/biasa</li>
+    <li><span class="ruby-word"><ruby>通る<rt>とおる</rt></ruby></span> - lewat, melewati</li>
+    <li><span class="ruby-word"><ruby>通り<rt>とおり</rt></ruby></span> - jalan, seperti</li>
+    <li><span class="ruby-word"><ruby>通う<rt>かよう</rt></ruby></span> - pergi rutin</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -57,9 +59,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>降 dipakai untuk turun dari kendaraan atau sesuatu yang turun dari langit.</p><ul>
-    <li><span class="ruby-word"><ruby>降車<rt>こうしゃ</rt></ruby></span> - turun dari kendaraan</li>
-    <li><span class="ruby-word"><ruby>降雨<rt>こうう</rt></ruby></span> - curah hujan</li>
-    <li><span class="ruby-word"><ruby>降雪<rt>こうせつ</rt></ruby></span> - turunnya salju</li>
+    <li><span class="ruby-word"><ruby>降る<rt>ふる</rt></ruby></span> - turun hujan/salju</li>
+    <li><span class="ruby-word"><ruby>降りる<rt>おりる</rt></ruby></span> - turun dari kendaraan/tempat</li>
+    <li><span class="ruby-word"><ruby>降車<rt>こうしゃ</rt></ruby></span> - turun, turun kendaraan</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -71,9 +73,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>品 memberi rasa barang atau produk, terutama pada label belanja.</p><ul>
-    <li><span class="ruby-word"><ruby>食料<rt>しょくりょう</rt></ruby><ruby>品<rt>ひん</rt></ruby></span> - bahan makanan</li>
+    <li><span class="ruby-word"><ruby>食料品<rt>しょくりょうひん</rt></ruby></span> - bahan makanan</li>
     <li><span class="ruby-word"><ruby>品物<rt>しなもの</rt></ruby></span> - barang</li>
-    <li><span class="ruby-word"><ruby>作品<rt>さくひん</rt></ruby></span> - karya</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -85,9 +86,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>着 sering berarti memakai pakaian atau tiba di suatu tempat.</p><ul>
+    <li><span class="ruby-word"><ruby>着る<rt>きる</rt></ruby></span> - memakai pakaian</li>
     <li><span class="ruby-word"><ruby>着物<rt>きもの</rt></ruby></span> - kimono</li>
-    <li><span class="ruby-word"><ruby>到着<rt>とうちゃく</rt></ruby></span> - kedatangan</li>
-    <li><span class="ruby-word"><ruby>着席<rt>ちゃくせき</rt></ruby></span> - duduk di kursi</li>
+    <li><span class="ruby-word"><ruby>着く<rt>つく</rt></ruby></span> - tiba, sampai</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -101,6 +102,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 <p>物 adalah kanji umum untuk benda, barang, makanan, hewan, dan bangunan.</p><ul>
     <li><span class="ruby-word"><ruby>動物<rt>どうぶつ</rt></ruby></span> - hewan</li>
     <li><span class="ruby-word"><ruby>荷物<rt>にもつ</rt></ruby></span> - barang bawaan</li>
+    <li><span class="ruby-word"><ruby>物<rt>もの</rt></ruby></span> - benda, barang</li>
+    <li><span class="ruby-word"><ruby>食べ物<rt>たべもの</rt></ruby></span> - makanan</li>
     <li><span class="ruby-word"><ruby>建物<rt>たてもの</rt></ruby></span> - bangunan</li>
   </ul></details>
 
@@ -115,7 +118,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 <p>動 memberi rasa gerakan, aktivitas, atau sesuatu yang hidup bergerak.</p><ul>
     <li><span class="ruby-word"><ruby>動物<rt>どうぶつ</rt></ruby></span> - hewan</li>
     <li><span class="ruby-word"><ruby>運動<rt>うんどう</rt></ruby></span> - olahraga</li>
-    <li><span class="ruby-word"><ruby>自動<rt>じどう</rt></ruby></span> - otomatis</li>
+    <li><span class="ruby-word"><ruby>動く<rt>うごく</rt></ruby></span> - bergerak</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -127,9 +130,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>建 sering muncul pada kata tentang bangunan dan konstruksi.</p><ul>
+    <li><span class="ruby-word"><ruby>建てる<rt>たてる</rt></ruby></span> - membangun</li>
     <li><span class="ruby-word"><ruby>建物<rt>たてもの</rt></ruby></span> - bangunan</li>
-    <li><span class="ruby-word"><ruby>建設<rt>けんせつ</rt></ruby></span> - pembangunan</li>
-    <li><span class="ruby-word"><ruby>二<rt>に</rt></ruby><ruby>階<rt>かい</rt></ruby><ruby>建<rt>だ</rt></ruby>て</span> - bangunan dua lantai</li>
+    <li><span class="ruby-word"><ruby>二階建て<rt>にかいだて</rt></ruby></span> - bangunan dua lantai</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -142,8 +145,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>夜 dipakai untuk waktu malam dalam jadwal dan percakapan harian.</p><ul>
     <li><span class="ruby-word"><ruby>今夜<rt>こんや</rt></ruby></span> - malam ini</li>
-    <li><span class="ruby-word"><ruby>夜間<rt>やかん</rt></ruby></span> - malam hari</li>
-    <li><span class="ruby-word"><ruby>深夜<rt>しんや</rt></ruby></span> - larut malam</li>
+    <li><span class="ruby-word"><ruby>夜<rt>よる</rt></ruby></span> - malam</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -157,7 +159,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 <p>風 muncul pada cuaca, gaya, dan kata 風邪 yang berarti masuk angin.</p><ul>
     <li><span class="ruby-word"><ruby>台風<rt>たいふう</rt></ruby></span> - topan</li>
     <li><span class="ruby-word"><ruby>風邪<rt>かぜ</rt></ruby></span> - masuk angin</li>
-    <li><span class="ruby-word"><ruby>風速<rt>ふうそく</rt></ruby></span> - kecepatan angin</li>
+    <li><span class="ruby-word"><ruby>風<rt>かぜ</rt></ruby></span> - angin</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -170,8 +172,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>台 dipakai untuk dapur, platform, dan penghitung benda seperti kendaraan atau mesin.</p><ul>
     <li><span class="ruby-word"><ruby>台所<rt>だいどころ</rt></ruby></span> - dapur</li>
+    <li><span class="ruby-word"><ruby>1台<rt>いちだい</rt></ruby></span> - satu unit mesin/kendaraan</li>
     <li><span class="ruby-word"><ruby>台風<rt>たいふう</rt></ruby></span> - topan</li>
-    <li><span class="ruby-word"><ruby>一<rt>いち</rt></ruby><ruby>台<rt>だい</rt></ruby></span> - satu unit mesin/kendaraan</li>
   </ul></details>
 </div>
 
