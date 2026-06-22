@@ -1,6 +1,6 @@
 ---
 title: "N5 Foundation"
-description: "N5 starts from kana, basic sentence structure, vocabulary, kanji, and reading."
+description: "N5 starts from kana, basic sentence structure, vocabulary, and kanji."
 level: "N5"
 category: "overview"
 order: 1
@@ -24,4 +24,3 @@ This track now includes structured grammar, vocabulary, and kanji lessons for th
 - Basic Grammar
 - Basic Vocabulary
 - Basic Kanji
-- Basic Reading

@@ -20,4 +20,3 @@ This track now includes structured grammar, vocabulary, and kanji lessons for th
 - Grammar
 - Vocabulary
 - Kanji
-- Reading

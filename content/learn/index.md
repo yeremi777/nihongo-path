@@ -8,6 +8,6 @@ status: "active"
 
 Choose your learning level from N5, N4, and N3.
 
-N3 is currently the active focus.
+All three levels currently include structured lesson content.
 
-N5 and N4 placeholders are prepared for future expansion.
+N5 starts with kana, foundation grammar, basic vocabulary, and basic kanji. N4 and N3 continue with grammar, vocabulary, and kanji tracks.
