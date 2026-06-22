@@ -1,6 +1,6 @@
 ---
 title: "見れば見るほど"
-description: "Belajar memahami grammar N3 untuk menyatakan tingkat, perbandingan semakin, dan superlatif dengan bentuk negatif."
+description: "Belajar pola grammar N3 untuk menyatakan tingkat, perbandingan semakin, dan superlatif dengan bentuk negatif."
 level: "N3"
 category: "grammar"
 topic: "見れば見るほど"
@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N3 untuk menyatakan tingkat, perbandingan semakin, dan superlatif dengan bentuk negatif. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan nuansa konteks.
+Di akhir pelajaran ini, kamu bisa membedakan pola yang menunjukkan tingkat, perubahan yang makin kuat, dan ungkapan "tidak ada yang lebih...". Fokusnya adalah membaca apakah kalimat sedang mengukur kadar, membandingkan perubahan, atau menekankan pilihan paling tinggi.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> lihat apakah ほど hanya menunjukkan tingkat, membentuk pola semakin, atau membuat makna tidak ada yang sebanding. ば〜ほど harus mengulang bentuk yang sama secara rapi.

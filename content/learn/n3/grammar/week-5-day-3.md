@@ -1,6 +1,6 @@
 ---
 title: "受かっていたらいいなあ"
-description: "Belajar memahami grammar N3 untuk menyampaikan harapan, keinginan yang belum pasti, penyesalan masa lalu, dan harapan agar sesuatu segera terjadi."
+description: "Belajar pola grammar N3 untuk menyampaikan harapan, keinginan yang belum pasti, penyesalan masa lalu, dan harapan agar sesuatu segera terjadi."
 level: "N3"
 category: "grammar"
 topic: "受かっていたらいいなあ"
@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N3 untuk menyampaikan harapan, keinginan yang belum pasti, penyesalan masa lalu, dan harapan agar sesuatu segera terjadi. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan nuansa konteks.
+Di akhir pelajaran ini, kamu bisa membedakan harapan yang belum pasti, keinginan yang terasa seperti angan-angan, dan penyesalan terhadap masa lalu. Fokusnya adalah membaca waktu kalimat: apakah pembicara berharap ke depan, menyesali masa lalu, atau menunggu sesuatu terjadi.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> bedakan waktu dan rasa kalimat. といいなあ／たらいいなあ melihat harapan ke depan atau hal yang belum pasti, sedangkan ばよかった melihat penyesalan masa lalu.

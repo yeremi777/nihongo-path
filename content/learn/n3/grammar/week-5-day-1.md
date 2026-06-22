@@ -1,6 +1,6 @@
 ---
 title: "子どもばかりか"
-description: "Belajar memahami grammar N3 untuk menambahkan informasi kuat, membandingkan dua sisi, dan menyatakan target sikap atau kontras."
+description: "Belajar pola grammar N3 untuk menambahkan informasi kuat, membandingkan dua sisi, dan menyatakan target sikap atau kontras."
 level: "N3"
 category: "grammar"
 topic: "子どもばかりか"
@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N3 untuk menambahkan informasi kuat, membandingkan dua sisi, dan menyatakan target sikap atau kontras. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan nuansa konteks.
+Di akhir pelajaran ini, kamu bisa membedakan pola untuk menambahkan informasi, membandingkan dua hal, dan menunjukkan target sikap atau kontras. Fokusnya adalah melihat apakah kalimat menambah poin, membandingkan kadar, atau menghadapkan dua sisi.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> pisahkan penambahan dan perbandingan. はもちろん menambahkan hal yang sudah wajar, ばかりか menambah hal yang lebih kuat, に比べて membandingkan, dan に対して menunjukkan target atau kontras.

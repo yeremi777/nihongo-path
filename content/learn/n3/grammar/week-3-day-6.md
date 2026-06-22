@@ -1,6 +1,6 @@
 ---
 title: "教えてほしい"
-description: "Belajar memahami grammar N3 untuk membaca perasaan orang lain, menyampaikan keinginan agar orang lain bertindak, dan berpura-pura."
+description: "Belajar pola grammar N3 untuk membaca perasaan orang lain, menyampaikan keinginan agar orang lain bertindak, dan berpura-pura."
 level: "N3"
 category: "grammar"
 topic: "教えてほしい"
@@ -134,7 +134,7 @@ Di tabel ini, `（A）` adalah orang yang diminta/diinginkan melakukan tindakan,
 <div class="example-list">
   <div><p class="jp">子どもが大きな音を怖がっています。</p><p>Anak itu terlihat takut pada suara keras.</p></div>
   <div><p class="jp">田中さんは早く帰りたがっていました。</p><p>Tanaka-san terlihat ingin cepat pulang.</p></div>
-  <div><p class="jp">すみません、教科書を見せてほしいんですが。</p><p>Maaf, saya ingin kamu memperlihatkan buku pelajaranmu.</p></div>
+  <div><p class="jp">すみません、教科書を見せてほしいんですが。</p><p>Maaf, saya ingin kamu menunjukkan buku pelajaranmu.</p></div>
   <div><p class="jp">夜遅くに電話しないでほしいです。</p><p>Saya ingin kamu tidak menelepon larut malam.</p></div>
   <div><p class="jp">あなたに教えてもらいたいことがあります。</p><p>Ada hal yang ingin saya minta kamu ajarkan kepada saya.</p></div>
   <div><p class="jp">彼は知っているふりをしていますが、本当は知らないと思います。</p><p>Dia berpura-pura tahu, tetapi saya rasa sebenarnya tidak tahu.</p></div>
@@ -199,7 +199,7 @@ explanation: "帰りたがっています benar karena keinginan orang lain bias
 
 ::MiniPractice
 ---
-question: "Saya ingin kamu memperlihatkan buku pelajaranmu."
+question: "Saya ingin kamu menunjukkan buku pelajaranmu."
 sentence: "教科書を____。"
 optionA: "見せてほしいです"
 optionB: "見せるほしいです"

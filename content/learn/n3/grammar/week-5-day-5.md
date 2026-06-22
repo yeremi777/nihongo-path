@@ -1,6 +1,6 @@
 ---
 title: "たとえ高くても"
-description: "Belajar memahami grammar N3 untuk menyatakan walaupun dalam kondisi ekstrem, kemungkinan tidak pasti, generalisasi yang belum tentu benar, dan perbandingan seperti metafora."
+description: "Belajar pola grammar N3 untuk menyatakan walaupun dalam kondisi ekstrem, kemungkinan tidak pasti, generalisasi yang belum tentu benar, dan perbandingan metaforis."
 level: "N3"
 category: "grammar"
 topic: "たとえ高くても"
@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N3 untuk menyatakan walaupun dalam kondisi ekstrem, kemungkinan tidak pasti, generalisasi yang belum tentu benar, dan perbandingan seperti metafora. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan nuansa konteks.
+Di akhir pelajaran ini, kamu bisa membedakan konsesi yang kuat, kemungkinan yang belum pasti, penolakan terhadap generalisasi, dan perbandingan yang terasa seperti metafora. Fokusnya adalah melihat apakah pembicara mempertahankan hasil, ragu-ragu, membantah asumsi, atau membuat gambaran yang hidup.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> たとえ membutuhkan ても／でも, かもしれない menunjukkan kemungkinan yang belum pasti, とは限らない menolak generalisasi, dan まるで〜ようだ membuat perbandingan yang hidup.

@@ -1,6 +1,6 @@
 ---
 title: "それにしては"
-description: "Belajar memahami grammar N3 untuk menyatakan peran, penilaian untuk ukuran tertentu, konsesi, dan asumsi hipotetis."
+description: "Belajar pola grammar N3 untuk menyatakan peran, penilaian untuk ukuran tertentu, konsesi, dan asumsi hipotetis."
 level: "N3"
 category: "grammar"
 topic: "それにしては"
@@ -32,7 +32,7 @@ Di akhir pelajaran ini, kamu bisa membedakan `として`, `にしては`, `に�
 | Fungsi | Pola | Arti praktis | Kapan dipakai |
 |---|---|---|---|
 | Peran/status | 〜として | sebagai | menjelaskan kapasitas, jabatan, fungsi, atau posisi |
-| Sudut pandang peran | 〜としては | sebagai / dari sisi | memberi evaluasi dari standpoint tertentu |
+| Sudut pandang peran | 〜としては | sebagai / dari sisi | memberi evaluasi dari sudut pandang tertentu |
 | Untuk ukuran | 〜にしては | untuk ukuran / mengingat | hasil berbeda dari ekspektasi |
 | Konsesi | 〜にしても・〜にしろ | bahkan jika / terlepas dari | kesimpulan tetap sama |
 | Walaupun begitu | それにしても | tetap saja / walaupun begitu | komentar setelah menerima situasi sebelumnya |
@@ -49,7 +49,7 @@ Di akhir pelajaran ini, kamu bisa membedakan `として`, `にしては`, `に�
   <span>本当だとしたら</span>
 </div>
 
-Alurnya bisa dibaca seperti ini: `として` menetapkan **peran**, `としては` melihat **standpoint**, `にしては` memberi **penilaian tak terduga**, `にしても` memberi **konsesi**, dan `としたら` membuka **asumsi untuk berpikir**.
+Alurnya bisa dibaca seperti ini: `として` menetapkan **peran**, `としては` melihat **sudut pandang**, `にしては` memberi **penilaian tak terduga**, `にしても` memberi **konsesi**, dan `としたら` membuka **asumsi untuk berpikir**.
 
 | Fungsi | Kerangka kalimat | Yang perlu dicek |
 |---|---|---|
@@ -138,7 +138,7 @@ Di tabel ini, `（N）` adalah nomina atau frasa nomina, `（V）` adalah verba/
 | Pasangan | Cara membedakan |
 |---|---|
 | として / にしては | `として` menetapkan peran. `にしては` menilai hasil yang tidak sesuai ekspektasi untuk ukuran itu. |
-| としては / にしては | `としては` berarti dari standpoint. `にしては` berarti "untuk ukuran", biasanya ada rasa surprise. |
+| としては / にしては | `としては` berarti dari sudut pandang tertentu. `にしては` berarti "untuk ukuran", biasanya ada rasa di luar dugaan. |
 | にしても / それにしても | `にしても` ditempel pada kondisi. `それにしても` mengomentari situasi yang sudah disebut sebelumnya. |
 | にしても / ても | `にしても` lebih terasa sebagai penalaran/evaluasi. `ても` lebih umum dan netral. |
 | としたら / なら | `としたら` menekankan asumsi "jika dianggap begitu". `なら` lebih luas untuk kondisi atau topik. |

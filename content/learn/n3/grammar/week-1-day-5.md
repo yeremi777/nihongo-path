@@ -1,6 +1,6 @@
 ---
 title: "言ったように"
-description: "Belajar memahami grammar N3 untuk mengatakan seperti yang sudah diketahui, memberi instruksi tidak langsung, dan menyampaikan harapan."
+description: "Belajar pola grammar N3 untuk mengatakan seperti yang sudah diketahui, memberi instruksi tidak langsung, dan menyampaikan harapan."
 level: "N3"
 category: "grammar"
 topic: "言ったように"
@@ -21,10 +21,10 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca beberapa fungsi `ように`: "seperti/sebagaimana", instruksi tidak langsung, dan harapan seperti doa. Bentuknya mirip, tetapi konteksnya berbeda.
+Di akhir pelajaran ini, kamu bisa membaca beberapa fungsi `ように`: "seperti/sebagaimana", instruksi tidak langsung, dan harapan seperti doa. Bentuknya mirip, jadi konteks sebelum dan sesudah `ように` harus dibaca bersama.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> lihat kata sebelum dan sesudah `ように`. Kalau ada informasi yang sudah dikatakan/ditunjukkan, artinya "seperti". Kalau ada 言う atau 頼む, itu instruksi. Kalau bentuknya `ますように`, itu harapan.
+  <strong>Fokus hari ini:</strong> lihat kata sebelum dan sesudah `ように`. Kalau ada informasi yang sudah dikatakan atau ditunjukkan, artinya "seperti". Kalau ada 言う atau 頼む, itu instruksi. Kalau bentuknya `ますように`, itu harapan.
 </div>
 
 ## Pola Hari Ini
@@ -33,7 +33,7 @@ Di akhir pelajaran ini, kamu bisa membaca beberapa fungsi `ように`: "seperti/
 |---|---|---|---|
 | Sebagaimana | 〜ように・〜ような | seperti / sebagaimana | saat merujuk hal yang diketahui, dikatakan, tertulis, atau ditunjukkan |
 | Instruksi tidak langsung | 〜ように言う・〜ように頼む・〜ように。 | menyuruh/meminta agar | saat melaporkan instruksi atau memberi pengingat ringan |
-| Harapan | 〜ますように・〜ませんように・〜れますように | semoga | saat berharap hasil yang tidak sepenuhnya bisa dikontrol |
+| Harapan | 〜ますように・〜ませんように・〜れますように | semoga | saat berharap hasil yang tidak sepenuhnya bisa dikontrol pembicara |
 
 ## Peta Pola
 
@@ -52,7 +52,7 @@ Alurnya bisa dibaca seperti ini: **mengacu pada contoh/ucapan** memakai `〜よ�
 | Seperti/sebagaimana | （N）の／（V普通形）ように | Apa yang dijadikan acuan? |
 | Menerangkan nomina | （N）の／（V普通形）ような（N） | Nomina apa yang dijelaskan? |
 | Instruksi | （A）は（B）に（Vる）／（Vない）ように言う | （A） memberi tahu （B） agar melakukan/tidak melakukan （V）. |
-| Harapan | （Vます）／（Vません）／（V可能形）ように | Apa hasil yang diharapkan? |
+| Harapan | （Vます）／（Vません）／（V可能形）ように | Apa hasil yang diharapkan, bukan sekadar diinginkan? |
 
 Di tabel ini, `（A）` adalah orang atau pihak yang memberi instruksi, `（B）` adalah orang yang menerima instruksi, `（N）` adalah nomina atau frasa nomina, dan `（V）` adalah verba/kata kerja yang masuk ke pola.
 
@@ -73,7 +73,7 @@ Di tabel ini, `（A）` adalah orang atau pihak yang memberi instruksi, `（B）
 | Bentuk | Nuansa | Contoh pendek |
 |---|---|---|
 | ご存じのように | sebagaimana diketahui | ご存じのように、予定が変わります |
-| ここで吸わないように | instruksi agar tidak | ここで、たばこを吸わないように |
+| ここで吸わないように | pengingat agar tidak | ここで、たばこを吸わないように |
 | 合格しますように | semoga | 試験に合格しますように |
 
 ## Bangun Kalimat Bertahap
@@ -90,7 +90,7 @@ Di tabel ini, `（A）` adalah orang atau pihak yang memberi instruksi, `（B）
 ### Seperti/sebagaimana
 
 - `ご存じのように`, `前に話したように`, dan `図のように` sering dipakai sebelum penjelasan.
-- Pola ini tidak berarti tujuan. Artinya lebih dekat ke "seperti/sebagaimana".
+- Pola ini tidak berarti tujuan. Artinya lebih dekat ke "seperti" atau "sebagaimana".
 
 ### Instruksi tidak langsung
 
@@ -109,7 +109,7 @@ Di tabel ini, `（A）` adalah orang atau pihak yang memberi instruksi, `（B）
 | ご存じのように | seperti yang Anda ketahui | ご存じのように、内容が変わります |
 | 前に話したように | seperti yang sudah saya katakan | 前に話したように、予定が変わります |
 | （Vる）ように言う | menyuruh agar （V） | 早く来るように言う |
-| （Vない）ように。 | jangan sampai （V） | ここで吸わないように |
+| （Vない）ように。 | harap tidak （V） | ここで吸わないように |
 | （Vます）ように | semoga （V） | 合格しますように |
 
 ## Contoh Kalimat
@@ -126,9 +126,9 @@ Di tabel ini, `（A）` adalah orang atau pihak yang memberi instruksi, `（B）
 
 | Pasangan | Cara membedakan |
 |---|---|
-| 目的のように / 比較のように | Kalau ada target agar bisa/terjadi, artinya "supaya". Kalau merujuk ucapan, gambar, atau hal yang diketahui, artinya "seperti". |
+| 〜ように（tujuan） / 〜ように（sebagaimana） | Kalau ada target agar bisa/terjadi, artinya "supaya". Kalau merujuk ucapan, gambar, atau hal yang diketahui, artinya "seperti". |
 | 〜ように。 / 〜てください | `〜ように。` terasa seperti aturan/pengingat. `〜てください` adalah permintaan langsung. |
-| 〜ますように / 〜たい | `ますように` adalah harapan atas hasil. `たい` adalah keinginan pembicara untuk melakukan tindakan. |
+| 〜ますように / 〜たい | `ますように` adalah harapan atas hasil yang belum tentu bisa dikontrol. `たい` adalah keinginan pembicara untuk melakukan tindakan. |
 | 〜ように言う / 〜なと言う | `ように言う` bisa untuk melakukan atau tidak melakukan. `（Vる）なと言う` melaporkan larangan langsung. |
 
 ## Kesalahan Umum
@@ -183,7 +183,7 @@ sentence: "試験に____。"
 optionA: "合格しますように"
 optionB: "合格したいように"
 correct: "合格しますように"
-explanation: "合格しますように benar karena menyampaikan harapan atas hasil ujian."
+explanation: "合格しますように benar karena menyampaikan harapan atas hasil ujian yang belum sepenuhnya bisa dikontrol."
 ---
 ::
 

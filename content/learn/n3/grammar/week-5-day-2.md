@@ -1,6 +1,6 @@
 ---
 title: "炊きたて"
-description: "Belajar memahami grammar N3 untuk menyatakan pekerjaan selesai, tindakan selesai sepenuhnya, pekerjaan setengah jalan, dan hasil yang baru selesai."
+description: "Belajar pola grammar N3 untuk menyatakan pekerjaan selesai, tindakan selesai sepenuhnya, proses setengah jalan, dan hasil yang baru selesai."
 level: "N3"
 category: "grammar"
 topic: "炊きたて"
@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N3 untuk menyatakan pekerjaan selesai, tindakan selesai sepenuhnya, pekerjaan setengah jalan, dan hasil yang baru selesai. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan nuansa konteks.
+Di akhir pelajaran ini, kamu bisa membedakan pekerjaan yang selesai, tindakan yang benar-benar dituntaskan, proses yang baru setengah jalan, dan hasil yang masih terasa baru. Pola hari ini membantu membaca apakah sesuatu sudah selesai, hampir terjadi, atau baru saja jadi.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> semua pola memakai stem verba, tetapi maknanya berbeda. 上げる／上がる melihat penyelesaian, 切る melihat tuntas sampai habis, かけ melihat belum selesai, dan たて melihat baru selesai serta masih segar.

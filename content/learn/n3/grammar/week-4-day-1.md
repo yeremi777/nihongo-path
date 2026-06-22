@@ -1,6 +1,6 @@
 ---
 title: "子どものくせに"
-description: "Belajar memahami grammar N3 untuk menilai dari sudut pandang tertentu, menyebut hasil yang tidak sesuai dugaan, dan memakai kritik dengan hati-hati."
+description: "Belajar pola grammar N3 untuk menilai dari sudut pandang tertentu, menyebut hasil yang tidak sesuai dugaan, dan memakai kritik dengan hati-hati."
 level: "N3"
 category: "grammar"
 topic: "子どものくせに"
@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N3 untuk menilai dari sudut pandang tertentu, menyebut hasil yang tidak sesuai dugaan, dan memakai kritik dengan hati-hati. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan nuansa konteks.
+Di akhir pelajaran ini, kamu bisa membedakan penilaian netral, hasil yang terasa di luar dugaan, dan kritik yang menyalahkan. Pola hari ini penting karena `にとって`, `わりに`, dan `くせに` sama-sama menilai sesuatu, tetapi nada kalimatnya berbeda.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> bedakan sudut pandang netral, penilaian di luar dugaan, dan kritik. にとって menilai dari sisi seseorang, わりに melihat gap ekspektasi, sedangkan くせに membawa rasa menyalahkan.

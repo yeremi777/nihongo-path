@@ -1,6 +1,6 @@
 ---
 title: "食べてごらん"
-description: "Belajar memahami grammar N3 untuk memberi saran coba lakukan, melaporkan instruksi, larangan, dan permintaan langsung."
+description: "Belajar pola grammar N3 untuk memberi saran coba lakukan, melaporkan instruksi, larangan, dan permintaan langsung."
 level: "N3"
 category: "grammar"
 topic: "食べてごらん"
@@ -129,7 +129,7 @@ Di tabel ini, `（A）` adalah orang yang memberi saran, instruksi, larangan, at
   <div><p class="jp">田中さんに、私の部屋に来るように言ってください。</p><p>Tolong beri tahu Tanaka-san agar datang ke kamar saya.</p></div>
   <div><p class="jp">医者に酒を飲むなと言われました。</p><p>Dokter melarang saya minum alkohol.</p></div>
   <div><p class="jp">父にもっと勉強しろと言われました。</p><p>Saya disuruh ayah untuk belajar lebih banyak.</p></div>
-  <div><p class="jp">友達に、田中さんの電話番号を教えてくれと頼まれました。</p><p>Teman saya meminta saya memberi tahu nomor telepon Tanaka-san.</p></div>
+  <div><p class="jp">友達に、田中さんの電話番号を教えてくれと頼まれました。</p><p>Teman saya meminta saya memberikan nomor telepon Tanaka-san.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar
@@ -190,7 +190,7 @@ explanation: "飲むな benar karena larangan langsung memakai bentuk kamus + �
 
 ::MiniPractice
 ---
-question: "Teman saya meminta saya memberi tahu nomor telepon Tanaka-san."
+question: "Teman saya meminta saya memberikan nomor telepon Tanaka-san."
 sentence: "友達に、田中さんの電話番号を____と頼まれました。"
 optionA: "教えてくれ"
 optionB: "教えるくれ"

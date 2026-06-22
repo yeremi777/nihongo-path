@@ -1,6 +1,6 @@
 ---
 title: "つまり・・・"
-description: "Belajar memahami grammar N3 untuk menyatakan ulang, menunjukkan akibat, menyebut hasil proses, dan menjelaskan alasan setelah kesimpulan."
+description: "Belajar pola grammar N3 untuk menyatakan ulang, menunjukkan akibat, menyebut hasil proses, dan menjelaskan alasan setelah kesimpulan."
 level: "N3"
 category: "grammar"
 topic: "つまり・・・"
@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N3 untuk menyatakan ulang, menunjukkan akibat, menyebut hasil proses, dan menjelaskan alasan setelah kesimpulan. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan nuansa konteks.
+Di akhir pelajaran ini, kamu bisa membedakan pola yang menyatakan ulang, menunjukkan akibat, menyebut hasil proses, dan menjelaskan alasan setelah kesimpulan. Fokusnya adalah membaca alur logika: apakah kalimat merangkum, menunjukkan hasil, atau memberi alasan.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> pilih konektor dari hubungan logikanya. つまり menyatakan ulang, そのため menunjukkan akibat, その結果 menunjukkan hasil proses, dan なぜなら menjelaskan alasan setelah kesimpulan.

@@ -1,6 +1,6 @@
 ---
 title: "うそばっかり！"
-description: "Belajar memahami grammar N3 untuk membedakan hanya, bahkan, asalkan, dan penekanan justru dalam kalimat sehari-hari."
+description: "Belajar pola grammar N3 untuk membedakan hanya, bahkan, asalkan, dan penekanan justru dalam kalimat sehari-hari."
 level: "N3"
 category: "grammar"
 topic: "うそばっかり！"
@@ -128,7 +128,7 @@ Di tabel ini, `（A）` adalah orang atau pihak yang menjadi topik/subjek kalima
 
 <div class="example-list">
   <div><p class="jp">この店のお客さんは女性ばかりですね。</p><p>Pelanggan toko ini hampir semuanya perempuan, ya.</p></div>
-  <div><p class="jp">弟はテレビを見てばかりいます。</p><p>Adik laki-laki saya hanya menonton TV terus.</p></div>
+  <div><p class="jp">弟はテレビを見てばかりいます。</p><p>Adik laki-laki saya terus-menerus menonton TV saja.</p></div>
   <div><p class="jp">今、帰ってきたばかりです。</p><p>Saya baru saja pulang.</p></div>
   <div><p class="jp">このコンサートは会員だけしか入れません。</p><p>Hanya anggota yang bisa masuk ke konser ini.</p></div>
   <div><p class="jp">ひらがなさえ書けません。</p><p>Bahkan hiragana pun saya tidak bisa menulisnya.</p></div>
@@ -171,7 +171,7 @@ explanation: "女性ばかり benar karena kalimatnya menunjukkan banyak pelangg
 
 ::MiniPractice
 ---
-question: "Adik laki-laki saya hanya menonton TV terus."
+question: "Adik laki-laki saya terus-menerus menonton TV saja."
 sentence: "弟はテレビを____います。"
 optionA: "見てばかり"
 optionB: "見たばかり"

@@ -1,6 +1,6 @@
 ---
 title: "もし私じゃなかったら"
-description: "Belajar memahami grammar N3 untuk membuat kondisi andaikan, kondisi masa lalu yang tidak terjadi, dan konsesi hipotetis."
+description: "Belajar pola grammar N3 untuk membuat kondisi andaikan, kondisi masa lalu yang tidak terjadi, dan konsesi hipotetis."
 level: "N3"
 category: "grammar"
 topic: "もし私じゃなかったら"
@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N3 untuk membuat kondisi andaikan, kondisi masa lalu yang tidak terjadi, dan konsesi hipotetis. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan nuansa konteks.
+Di akhir pelajaran ini, kamu bisa membedakan kondisi asumsi, kondisi imajinatif, kondisi masa lalu yang tidak terjadi, dan konsesi hipotetis. Fokusnya adalah melihat seberapa nyata kondisi itu dan apakah hasilnya berubah atau tetap sama.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> なら bereaksi pada asumsi, もし menambah rasa seandainya, bentuk lampau seperti たなら melihat kondisi yang tidak terjadi, dan としても berarti hasil tetap sama walau asumsi itu benar.

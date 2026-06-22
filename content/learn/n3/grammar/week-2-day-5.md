@@ -1,6 +1,6 @@
 ---
 title: "美人というより"
-description: "Belajar memahami grammar N3 untuk mengoreksi label, membuka asosiasi topik, dan melemahkan ekspektasi dari sebuah sebutan."
+description: "Belajar pola grammar N3 untuk mengoreksi label, membuka asosiasi topik, dan menjelaskan kenyataan di balik sebuah sebutan."
 level: "N3"
 category: "grammar"
 topic: "美人というより"
@@ -67,7 +67,7 @@ Di tabel ini, `（A）` dan `（B）` bisa berupa nomina, adjektiva, atau klausa
 | Lebih tepat imut daripada cantik | （N）／（Adj）というより | 美人というよりかわいい |
 | Kalau bicara makanan Jepang | （N）といえば | 日本の食べ物といえば |
 | Kalau soal buah musim panas | （N）といったら | 夏の果物といったら |
-| Dibilang perjalanan juga hanya dekat | （N）といっても | 旅行といっても |
+| Walaupun disebut perjalanan | （N）といっても | 旅行といっても |
 
 ### 2. Bedakan perbaikan dan pembatasan
 
@@ -119,7 +119,7 @@ Di tabel ini, `（A）` dan `（B）` bisa berupa nomina, adjektiva, atau klausa
   <div><p class="jp">彼女は美人というよりかわいい人です。</p><p>Dia lebih tepat disebut imut daripada cantik.</p></div>
   <div><p class="jp">日本の食べ物といえば、おすしが有名です。</p><p>Kalau bicara makanan Jepang, sushi itu terkenal.</p></div>
   <div><p class="jp">夏の果物といったら、やっぱりスイカですね。</p><p>Kalau bicara buah musim panas, tentu saja semangka.</p></div>
-  <div><p class="jp">旅行といっても、近くの温泉に行っただけです。</p><p>Dibilang perjalanan juga, sebenarnya hanya pergi ke onsen dekat sini.</p></div>
+  <div><p class="jp">旅行といっても、近くの温泉に行っただけです。</p><p>Walaupun disebut perjalanan, sebenarnya hanya pergi ke onsen dekat sini.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar
@@ -180,7 +180,7 @@ explanation: "といったら benar karena スイカ disebut sebagai contoh pali
 
 ::MiniPractice
 ---
-question: "Dibilang perjalanan juga, sebenarnya saya hanya pergi ke onsen dekat sini."
+question: "Walaupun disebut perjalanan, sebenarnya saya hanya pergi ke onsen dekat sini."
 sentence: "旅行____、近くの温泉に行っただけです。"
 optionA: "といっても"
 optionB: "というより"

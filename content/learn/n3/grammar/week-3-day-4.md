@@ -1,6 +1,6 @@
 ---
 title: "会うたびに"
-description: "Belajar memahami grammar N3 untuk mengatakan sekalian, setiap kali, tepat sesudah, dan sedang di tengah suatu kegiatan."
+description: "Belajar pola grammar N3 untuk mengatakan sekalian, setiap kali, tepat sesudah, dan saat sedang di tengah kegiatan."
 level: "N3"
 category: "grammar"
 topic: "会うたびに"

@@ -1,6 +1,6 @@
 ---
 title: "あなたのこと"
-description: "Belajar memahami grammar N3 untuk mengubah adjektiva atau klausa menjadi nomina dan membedakan こと, の, さ, dan み."
+description: "Belajar pola grammar N3 untuk mengubah sifat, tindakan, dan klausa menjadi nomina dengan こと, の, さ, dan み."
 level: "N3"
 category: "grammar"
 topic: "あなたのこと"

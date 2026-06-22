@@ -1,6 +1,6 @@
 ---
 title: "やってみることだ"
-description: "Belajar memahami grammar N3 untuk memberi saran, menenangkan orang lain, merangkum informasi, melaporkan kabar, dan menyatakan emosi kuat."
+description: "Belajar pola grammar N3 untuk memberi saran, menenangkan orang lain, merangkum informasi, melaporkan kabar, dan menyatakan emosi kuat."
 level: "N3"
 category: "grammar"
 topic: "やってみることだ"
@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N3 untuk memberi saran, menenangkan orang lain, merangkum informasi, melaporkan kabar, dan menyatakan emosi kuat. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan nuansa konteks.
+Di akhir pelajaran ini, kamu bisa membedakan pola untuk memberi saran, menenangkan lawan bicara, menyimpulkan informasi, melaporkan kabar, dan mengekspresikan perasaan kuat. Fokusnya adalah membaca nada kalimat, bukan hanya arti permukaannya.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> ことはない dan ことだ sama-sama memakai こと, tetapi arahnya berbeda. ことはない menenangkan bahwa tidak perlu melakukan sesuatu, sedangkan ことだ memberi saran praktis.
@@ -127,7 +127,7 @@ Bagian ini menghubungkan rumus dan contoh kalimat. Mulai dari bahan pendeknya du
 
 <div class="example-list">
   <div><p class="jp">まだ時間がありますから、急ぐことはありません。</p><p>Masih ada waktu, jadi tidak perlu buru-buru.</p></div>
-  <div><p class="jp">風邪をひいたなら、暖かくして寝ることです。</p><p>Kalau masuk angin, sebaiknya hangatkan badan dan tidur.</p></div>
+  <div><p class="jp">風邪をひいたなら、暖かくして寝ることです。</p><p>Kalau masuk angin, sebaiknya berpakaian hangat lalu tidur.</p></div>
   <div><p class="jp">全員が出席します。つまり、会議は予定通りということです。</p><p>Semua orang hadir. Artinya, rapat berjalan sesuai jadwal.</p></div>
   <div><p class="jp">先生は今日は来られないとのことです。</p><p>Katanya guru tidak bisa datang hari ini.</p></div>
   <div><p class="jp">この日をどんなに待っていたことか。</p><p>Betapa saya sudah menunggu hari ini.</p></div>

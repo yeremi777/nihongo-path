@@ -1,6 +1,6 @@
 ---
 title: "そのかわり"
-description: "Belajar memahami grammar N3 untuk menyebut sebab baik, sebab buruk, dugaan sebab, dan pengganti tindakan atau peran."
+description: "Belajar pola grammar N3 untuk menyebut sebab baik, sebab buruk, dugaan sebab, dan pengganti tindakan atau peran."
 level: "N3"
 category: "grammar"
 topic: "そのかわり"
@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N3 untuk menyebut sebab baik, sebab buruk, dugaan sebab, dan pengganti tindakan atau peran. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan nuansa konteks.
+Di akhir pelajaran ini, kamu bisa membedakan sebab yang netral, sebab yang membawa akibat buruk, dugaan penyebab, dan pola yang berarti "sebagai pengganti". Fokusnya adalah melihat hubungan antara nomina sebelum pola dan akibat atau peran setelahnya.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> jangan menerjemahkan semua karena sebagai から. おかげで memberi kredit positif, せいで menyalahkan sebab buruk, dan かわりに mengganti tindakan, benda, atau peran.
@@ -129,7 +129,7 @@ Bagian ini menghubungkan rumus dan contoh kalimat. Mulai dari bahan pendeknya du
   <div><p class="jp">先輩のおかげで、仕事のやり方がわかりました。</p><p>Berkat senior, saya paham cara melakukan pekerjaan.</p></div>
   <div><p class="jp">雨のせいで、楽しみにしていた試合が中止になりました。</p><p>Gara-gara hujan, pertandingan yang saya nantikan dibatalkan.</p></div>
   <div><p class="jp">寝不足のせいか、今日は集中できません。</p><p>Mungkin karena kurang tidur, hari ini saya tidak bisa fokus.</p></div>
-  <div><p class="jp">映画に行くかわりに、家でゆっくり休みました。</p><p>Sebagai gantinya pergi menonton film, saya beristirahat di rumah.</p></div>
+  <div><p class="jp">映画に行くかわりに、家でゆっくり休みました。</p><p>Alih-alih pergi menonton film, saya beristirahat santai di rumah.</p></div>
   <div><p class="jp">社長にかわって、山田さんが説明しました。</p><p>Menggantikan direktur, Yamada-san memberi penjelasan.</p></div>
 </div>
 

@@ -1,6 +1,6 @@
 ---
 title: "話を聞こうとしない"
-description: "Belajar memahami grammar N3 untuk menyatakan niat, usaha yang hampir dilakukan, dan sikap tidak mau mencoba."
+description: "Belajar pola grammar N3 untuk menyatakan niat, usaha yang hampir dilakukan, dan sikap tidak mau mencoba."
 level: "N3"
 category: "grammar"
 topic: "話を聞こうとしない"
@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membedakan `〜ようと思う`, `〜ようとする`, dan `〜ようとしない`. Dalam bahasa Indonesia semuanya bisa terasa seperti "mau", tetapi dalam bahasa Jepang nuansanya berbeda.
+Di akhir pelajaran ini, kamu bisa membedakan `〜ようと思う`, `〜ようとする`, dan `〜ようとしない`. Dalam bahasa Indonesia semuanya bisa terasa seperti "mau", tetapi dalam bahasa Jepang nuansanya berbeda: rencana di pikiran, usaha menuju tindakan, atau tidak ada usaha sama sekali.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> `ようと思う` adalah niat/rencana, `ようとする` adalah mencoba atau tepat akan melakukan, dan `ようとしない` berarti tidak menunjukkan usaha atau niat.
@@ -32,7 +32,7 @@ Di akhir pelajaran ini, kamu bisa membedakan `〜ようと思う`, `〜ようと
 | Fungsi | Pola | Arti praktis | Kapan dipakai |
 |---|---|---|---|
 | Niat/rencana | 〜ようと思う・〜ようと思っている | berniat / berencana | saat pembicara menyatakan rencana sendiri |
-| Mencoba/hendak | 〜ようとする・〜ようとしたときに | mencoba / tepat akan | saat tindakan baru akan dimulai atau terganggu |
+| Mencoba/hendak | 〜ようとする・〜ようとしたときに | mencoba / tepat akan | saat tindakan baru akan dimulai, dicoba, atau terganggu |
 | Tidak mau mencoba | 〜ようとしない | tidak mau berusaha | saat seseorang tidak menunjukkan niat melakukan |
 
 ## Peta Pola
@@ -50,10 +50,10 @@ Alurnya bisa dibaca seperti ini: **niat di pikiran** memakai `〜ようと思う
 |---|---|---|
 | Niat | （A）は（V意向形）と思う | （A） sedang berpikir/berencana melakukan （V）. |
 | Rencana yang sudah ada | （A）は（V意向形）と思っている | （A） sudah memegang rencana itu. |
-| Tepat akan | （A）は（V意向形）とする | （A） mencoba atau hendak mulai （V）. |
+| Tepat akan | （A）は（V意向形）とする | （A） mencoba atau hendak mulai melakukan （V）. |
 | Tidak mau berusaha | （A）は（V意向形）としない | （A） tidak menunjukkan niat atau usaha untuk （V）. |
 
-Di tabel ini, `（A）` adalah orang atau pihak yang menjadi topik/subjek kalimat. `（V）` berarti verba/kata kerja. `（V意向形）` berarti bentuk kehendak seperti 行こう, 食べよう, しよう, atau 来よう.
+Di tabel ini, `（A）` adalah orang atau pihak yang menjadi topik/subjek kalimat. `（V）` berarti verba. `（V意向形）` berarti bentuk kehendak seperti 行こう, 食べよう, しよう, atau 来よう.
 
 ## Cara Membentuk Pola
 
@@ -93,7 +93,7 @@ Di tabel ini, `（A）` adalah orang atau pihak yang menjadi topik/subjek kalima
 
 ### Mencoba atau tepat akan
 
-- `〜ようとする` bukan sekadar rencana. Ada gerak menuju tindakan.
+- `〜ようとする` bukan sekadar rencana. Ada usaha, gerak, atau momen tepat sebelum tindakan.
 - `〜ようとしたときに` sering muncul saat tindakan terganggu.
 
 ### Tidak mau berusaha
@@ -125,9 +125,9 @@ Di tabel ini, `（A）` adalah orang atau pihak yang menjadi topik/subjek kalima
 
 | Pasangan | Cara membedakan |
 |---|---|
-| 〜ようと思う / 〜ようとする | `と思う` adalah niat di pikiran. `とする` adalah usaha atau momen tepat sebelum tindakan. |
-| 〜ようと思う / 〜つもりだ | `ようと思う` lebih lembut. `つもりだ` terdengar seperti rencana yang lebih jelas. |
-| 〜ようとしない / 〜ない | `ようとしない` mengkritik tidak adanya usaha/niat. `ない` hanya fakta negatif. |
+| 〜ようと思う / 〜ようとする | `と思う` adalah niat di pikiran. `とする` adalah usaha, percobaan, atau momen tepat sebelum tindakan. |
+| 〜ようと思う / 〜つもりだ | `ようと思う` lebih lembut dan masih terasa sebagai rencana yang dipikirkan. `つもりだ` terdengar seperti rencana yang lebih jelas. |
+| 〜ようとしない / 〜ない | `ようとしない` menyoroti tidak adanya usaha/niat. `ない` hanya fakta negatif. |
 | 〜ようとしたとき / 〜たとき | `ようとしたとき` tepat sebelum tindakan terjadi. `たとき` setelah/saat tindakan sudah terjadi. |
 
 ## Kesalahan Umum

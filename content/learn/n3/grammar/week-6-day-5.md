@@ -1,6 +1,6 @@
 ---
 title: "めったに行かない"
-description: "Belajar memahami grammar N3 untuk memakai adverbia negatif kuat seperti tidak pernah, jarang sekali, sama sekali tidak, dan sedikit pun tidak."
+description: "Belajar pola grammar N3 untuk memakai adverbia negatif kuat seperti tidak pernah, jarang sekali, sama sekali tidak, dan sedikit pun tidak."
 level: "N3"
 category: "grammar"
 topic: "めったに行かない"
@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N3 dengan adverbia negatif kuat seperti tidak pernah, jarang sekali, sama sekali tidak, dan sedikit pun tidak. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan nuansa konteks.
+Di akhir pelajaran ini, kamu bisa membedakan adverbia negatif untuk tekad kuat, frekuensi sangat rendah, negasi total, dan jumlah nol. Semua pola hari ini butuh bentuk negatif, tetapi kekuatan dan konteksnya tidak sama.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> semua pola hari ini membutuhkan bentuk negatif, tetapi maknanya tidak sama. 決して adalah tekad/penolakan kuat, めったに adalah frekuensi rendah, まったく／少しも adalah negasi total.

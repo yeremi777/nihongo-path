@@ -1,6 +1,6 @@
 ---
 title: "今晩から明日の朝にかけて"
-description: "Belajar memahami grammar N3 untuk membedakan sampai sebagai durasi, sampai sebagai contoh ekstrem, rentang waktu/tempat, dan konteks formal."
+description: "Belajar pola grammar N3 untuk membedakan sampai sebagai durasi, sampai sebagai contoh ekstrem, rentang waktu/tempat, dan konteks formal."
 level: "N3"
 category: "grammar"
 topic: "今晩から明日の朝にかけて"
@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N3 untuk membedakan sampai sebagai durasi, sampai sebagai contoh ekstrem, rentang waktu/tempat, dan konteks formal. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan nuansa konteks.
+Di akhir pelajaran ini, kamu bisa membedakan `まで` untuk batas akhir, `まで` sebagai contoh ekstrem, `にかけて` untuk rentang luas, dan `において` untuk konteks formal. Fokusnya adalah melihat apakah kalimat membicarakan batas, kejutan, rentang, atau tempat/bidang resmi.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> まで bukan までに. まで melihat keadaan berlanjut sampai titik tertentu, にかけて melihat rentang yang agak luas, dan において dipakai untuk konteks formal.

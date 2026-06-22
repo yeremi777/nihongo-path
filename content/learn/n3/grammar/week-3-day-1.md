@@ -1,6 +1,6 @@
 ---
 title: "いくら安くても"
-description: "Belajar memahami grammar N3 untuk menyatakan meskipun, seberapa pun, dan melakukan sesuatu tanpa tindakan tertentu."
+description: "Belajar pola grammar N3 untuk menyatakan meskipun, seberapa pun, dan melakukan sesuatu tanpa tindakan tertentu."
 level: "N3"
 category: "grammar"
 topic: "いくら安くても"

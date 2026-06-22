@@ -1,6 +1,6 @@
 ---
 title: "ぼくにもやらせて"
-description: "Belajar memahami pola pasif dan kausatif N3 dengan melihat siapa yang bertindak, siapa yang terkena dampak, dan bagaimana meminta izin."
+description: "Belajar pola grammar N3 untuk memahami kalimat pasif dan kausatif, melihat pihak yang terkena dampak, dan meminta izin dengan tepat."
 level: "N3"
 category: "grammar"
 topic: "ぼくにもやらせて"
@@ -23,9 +23,9 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca pola pasif, kausatif, kausatif-pasif, dan permintaan izin yang sering muncul saat seseorang berkata "aku terkena dampaknya", "aku disuruh", atau "izinkan aku melakukannya".
+Di akhir pelajaran ini, kamu bisa membaca pola pasif, kausatif, kausatif-pasif, dan permintaan izin yang sering muncul saat seseorang menjelaskan "aku terkena dampaknya", "aku disuruh", atau "izinkan aku melakukannya".
 
-Fokus hari ini bukan menghafal semua bentuk sekaligus. Yang penting adalah membaca sudut pandang kalimat: **siapa yang melakukan tindakan**, **siapa yang terkena dampak**, dan **apakah pembicara sedang meminta izin untuk tindakannya sendiri**.
+Fokus hari ini bukan menghafal semua bentuk sekaligus. Yang penting adalah membaca sudut pandang kalimat: **siapa yang melakukan tindakan**, **siapa yang terkena dampak**, dan **apakah pembicara meminta izin untuk tindakannya sendiri**.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> jangan langsung menerjemahkan semua pola sebagai "di-" atau "disuruh". Cari dulu pelaku, pihak yang terdampak, lalu cek apakah bentuknya meminta izin seperti 〜させてください.
@@ -36,7 +36,7 @@ Fokus hari ini bukan menghafal semua bentuk sekaligus. Yang penting adalah memba
 | Fungsi | Pola | Arti praktis | Kapan dipakai |
 |---|---|---|---|
 | Pasif netral | 〜れている・〜られている | tertulis / dijelaskan / dilakukan | menjelaskan fakta, aturan, tulisan, berita, atau keadaan tanpa menonjolkan pelaku |
-| Pasif terkena dampak | 〜に〜れる・〜に〜られる | jadi repot / terganggu karena tindakan orang atau sesuatu | saat subjek merasakan dampak dari tindakan itu |
+| Pasif terkena dampak | 〜に〜れる・〜に〜られる | jadi repot / terganggu karena tindakan orang atau sesuatu | saat subjek merasakan dampak yang tidak nyaman |
 | Kausatif | 〜させる | menyuruh atau membiarkan | saat seseorang membuat atau mengizinkan orang lain melakukan tindakan |
 | Kausatif-pasif | 〜させられる | disuruh / dipaksa melakukan | saat subjek melakukan sesuatu karena tekanan atau perintah |
 | Meminta izin | 〜させてください・〜させてもらえますか | izinkan saya melakukan | saat pembicara meminta izin untuk tindakannya sendiri |
@@ -61,7 +61,7 @@ Alurnya bisa dibaca seperti ini: **fakta netral** memakai pasif biasa, **dampak 
 | Kausatif-pasif | （A）は（B）に（N）を（V kausatif-pasif） | （A） tetap melakukan tindakan, tetapi karena disuruh/dipaksa （B）. |
 | Meminta izin | （V kausatifて）ください／もらえますか | Pembicara meminta izin agar dirinya boleh melakukan tindakan itu. |
 
-Di tabel ini, huruf dipakai sebagai penanda peran dalam kalimat. `（A）` adalah orang atau pihak yang menjadi topik/subjek kalimat. `（B）` adalah orang atau penyebab yang melakukan tindakan, memberi dampak, menyuruh, atau memberi izin. `（N）` berarti nomina atau frasa nomina, bisa berupa benda, orang, tempat, dokumen, aturan, peristiwa, atau hal abstrak. `（V）` berarti verba/kata kerja yang akan diubah ke bentuk pasif, kausatif, atau kausatif-pasif.
+Di tabel ini, huruf dipakai sebagai penanda peran dalam kalimat. `（A）` adalah orang atau pihak yang menjadi topik/subjek kalimat. `（B）` adalah orang atau penyebab yang melakukan tindakan, memberi dampak, menyuruh, atau memberi izin. `（N）` berarti nomina atau frasa nomina, misalnya benda, orang, tempat, dokumen, aturan, peristiwa, atau hal abstrak. `（V）` berarti verba yang diubah ke bentuk pasif, kausatif, atau kausatif-pasif.
 
 ## Cara Membentuk Pola
 
@@ -174,7 +174,7 @@ Petunjuk cepatnya ada pada partikel dan bentuk verba. `に` sebelum pasif sering
 | 赤ちゃんを泣かれました。 | 赤ちゃんに泣かれました。 | Pasif penderitaan memakai `に` untuk sumber tindakan yang membuat subjek terkena dampak. |
 | 早く帰られてください。 | 早く帰らせてください。 | Meminta izin pulang memakai kausatif `帰らせる`, bukan pasif `帰られる`. |
 
-Strategi cepat: sebelum memilih bentuk, tanyakan tiga hal: ini fakta netral, dampak yang terasa mengganggu, atau permintaan izin? Setelah itu cek partikelnya. Kalau ada `させてください`, jangan baca sebagai "tolong lakukan"; baca sebagai "tolong izinkan saya melakukan".
+Strategi cepat: sebelum memilih bentuk, tanyakan tiga hal: apakah ini fakta netral, dampak yang terasa mengganggu, atau permintaan izin? Setelah itu cek partikelnya. Kalau ada `させてください`, jangan baca sebagai "tolong lakukan"; baca sebagai "tolong izinkan saya melakukan".
 
 ## Mini Practice
 

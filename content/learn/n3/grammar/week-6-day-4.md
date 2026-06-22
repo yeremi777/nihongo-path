@@ -1,6 +1,6 @@
 ---
 title: "できるわけがない"
-description: "Belajar memahami grammar N3 untuk menyatakan pantas saja, bukan berarti, tidak mungkin, dan tidak bisa melakukan sesuatu karena tanggung jawab atau situasi sosial."
+description: "Belajar pola grammar N3 untuk menyatakan pantas saja, bukan berarti, tidak mungkin, dan tidak bisa melakukan sesuatu karena tanggung jawab sosial."
 level: "N3"
 category: "grammar"
 topic: "できるわけがない"
@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N3 untuk menyatakan pantas saja, bukan berarti, tidak mungkin, dan tidak bisa melakukan sesuatu karena tanggung jawab atau situasi sosial. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan nuansa konteks.
+Di akhir pelajaran ini, kamu bisa membedakan pola `わけ` untuk menjelaskan alasan logis, menolak sebagian, menyangkal kemungkinan, dan menyatakan sesuatu tidak bisa dilakukan karena tanggung jawab. Fokusnya adalah membaca apakah kalimat memberi alasan, membatasi makna, atau menolak kemungkinan.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> わけ patterns semuanya logis, tetapi arahnya berbeda. わけだ menjelaskan pantas saja, わけではない menolak sebagian, わけがない menyangkal kemungkinan, dan わけにはいかない menunjukkan kendala sosial.

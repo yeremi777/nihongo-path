@@ -1,6 +1,6 @@
 ---
 title: "女らしい"
-description: "Belajar memahami grammar N3 untuk membedakan kesan seperti, ciri yang khas, dan nuansa agak atau cenderung."
+description: "Belajar pola grammar N3 untuk membedakan kesan seperti, ciri yang khas, dan nuansa agak atau cenderung."
 level: "N3"
 category: "grammar"
 topic: "女らしい"
@@ -35,7 +35,7 @@ Fokus hari ini adalah membaca nuansa: apakah pembicara sedang membandingkan, men
 |---|---|---|---|
 | Kesan/perbandingan | 〜みたいだ・〜みたいな・〜みたいに | seperti, kelihatan seperti | berdasarkan pengamatan langsung atau perbandingan santai |
 | Ciri khas | 〜らしい | khas, benar-benar terasa seperti | saat sesuatu sesuai ciri umum suatu hal/orang |
-| Kesan agak/cenderung | 〜っぽい | agak, cenderung, terasa seperti | kesan informal, sering sedikit negatif atau tentang tekstur/sifat |
+| Kesan agak/cenderung | 〜っぽい | agak, cenderung, terasa seperti | kesan informal, sering sedikit negatif, atau tentang tekstur/sifat |
 
 ## Peta Pola
 
@@ -54,7 +54,7 @@ Alurnya bisa dibaca seperti ini: **kelihatan seperti** memakai `〜みたい`, *
 | Perbandingan | （N）みたいだ／（N）みたいな（N） | Dibandingkan dengan apa? |
 | Cara/gaya | （N）みたいに（V） | Melakukan seperti siapa/apa? |
 | Ciri khas | （N）らしい／（N）らしく（V） | Apakah sifatnya terasa cocok dengan （N）? |
-| Kesan/cenderung | （N）／（akar adjektiva）／（Vます-stem）っぽい | Apakah hanya kesan, sifat, atau tekstur? |
+| Kesan/cenderung | （N）／（akar adjektiva）／（Vます-stem）っぽい | Apakah ini kesan, sifat, kecenderungan, atau tekstur? |
 
 Di tabel ini, `（N）` berarti nomina atau frasa nomina, `（V）` berarti verba, dan `（akar adjektiva）` berarti bagian dasar adjektiva sebelum akhiran.
 
@@ -96,7 +96,7 @@ Di tabel ini, `（N）` berarti nomina atau frasa nomina, `（V）` berarti verb
 ### らしい
 
 - Menunjukkan ciri yang terasa cocok atau khas.
-- `学生らしい`, `春らしい`, `子どもらしい` terdengar seperti sifat yang natural.
+- `学生らしい`, `春らしい`, dan `子どもらしい` terdengar seperti sifat yang cocok dengan gambaran umum kata itu.
 - Contoh: 今日は、春らしい暖かい日でした。
 
 ### っぽい
@@ -113,7 +113,7 @@ Di tabel ini, `（N）` berarti nomina atau frasa nomina, `（V）` berarti verb
 | （N）みたいな（N） | （N） yang seperti ... | 星みたいな形 |
 | （N）みたいに（V） | （V） seperti （N） | 先生みたいに話す |
 | （N）らしい（N） | （N） yang khas | 春らしい日 |
-| （N）／（Adj）っぽい | agak/cenderung | 子どもっぽい, 油っぽい |
+| （N）／（Adj）っぽい | agak/cenderung; terasa seperti | 子どもっぽい, 油っぽい |
 
 ## Contoh Kalimat
 
@@ -121,7 +121,7 @@ Di tabel ini, `（N）` berarti nomina atau frasa nomina, `（V）` berarti verb
   <div><p class="jp">この雲は動物みたいな形です。</p><p>Awan ini bentuknya seperti binatang.</p></div>
   <div><p class="jp">リンさんみたいに日本語が上手になりたいです。</p><p>Saya ingin menjadi mahir bahasa Jepang seperti Lin-san.</p></div>
   <div><p class="jp">今日は春らしい暖かい日ですね。</p><p>Hari ini terasa hangat khas musim semi.</p></div>
-  <div><p class="jp">彼はいつも学生らしい服を着ています。</p><p>Dia selalu memakai pakaian yang terasa khas pelajar.</p></div>
+  <div><p class="jp">彼はいつも学生らしい服を着ています。</p><p>Dia selalu memakai pakaian yang terlihat cocok sebagai pelajar.</p></div>
   <div><p class="jp">このスープは少し水っぽいです。</p><p>Sup ini agak encer/terasa kebanyakan air.</p></div>
   <div><p class="jp">そんな子どもっぽい話し方はやめたほうがいいです。</p><p>Sebaiknya berhenti berbicara dengan cara yang kekanak-kanakan seperti itu.</p></div>
 </div>
@@ -130,8 +130,8 @@ Di tabel ini, `（N）` berarti nomina atau frasa nomina, `（V）` berarti verb
 
 | Pasangan | Cara membedakan |
 |---|---|
-| 〜みたい / 〜らしい | `みたい` membandingkan atau memberi kesan langsung. `らしい` menunjukkan ciri yang khas/natural. |
-| 〜らしい / 〜っぽい | `らしい` bisa positif/netral sebagai ciri yang cocok. `っぽい` lebih informal dan sering terasa sedikit negatif. |
+| 〜みたい / 〜らしい | `みたい` membandingkan atau memberi kesan langsung. `らしい` menunjukkan ciri yang khas dan cocok dengan gambaran umum. |
+| 〜らしい / 〜っぽい | `らしい` bisa positif/netral sebagai ciri yang cocok. `っぽい` lebih informal dan sering terasa sedikit negatif atau hanya berupa kesan permukaan. |
 | 〜みたいに / 〜みたいな | `みたいに` menerangkan verba/adjektiva. `みたいな` menerangkan nomina. |
 
 ## Kesalahan Umum
@@ -170,12 +170,12 @@ explanation: "みたいに benar karena menerangkan frasa menjadi mahir."
 
 ::MiniPractice
 ---
-question: "Hari ini terasa seperti hari musim semi yang khas."
+question: "Hari ini terasa hangat khas musim semi."
 sentence: "今日は春____日ですね。"
 optionA: "らしい"
 optionB: "っぽい"
 correct: "らしい"
-explanation: "らしい benar karena menunjukkan ciri yang cocok dengan musim semi."
+explanation: "らしい benar karena menunjukkan ciri yang cocok dengan gambaran musim semi."
 ---
 ::
 

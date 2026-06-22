@@ -1,6 +1,6 @@
 ---
 title: "もう少しで乗り遅れるところだった"
-description: "Belajar memahami grammar N3 untuk menyatakan hasil setelah mencoba/bertanya, hampir terjadi, baru sadar setelah pengalaman, dan bertindak selagi kesempatan masih ada."
+description: "Belajar pola grammar N3 untuk menyatakan hasil setelah mencoba, hampir terjadi, baru sadar setelah pengalaman, dan bertindak selagi ada kesempatan."
 level: "N3"
 category: "grammar"
 topic: "もう少しで乗り遅れるところだった"
@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N3 untuk menyatakan hasil setelah mencoba/bertanya, hampir terjadi, baru sadar setelah pengalaman, dan bertindak selagi kesempatan masih ada. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan nuansa konteks.
+Di akhir pelajaran ini, kamu bisa membedakan hasil setelah mencoba atau bertanya, kejadian yang hampir terjadi, kesadaran setelah pengalaman, dan tindakan yang dilakukan selagi kesempatan masih ada. Fokusnya adalah membaca posisi `ところ` dan `うちに` dalam alur waktu.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> ところ di sini bukan hanya baru saja. たところ berarti setelah mencoba/bertanya ternyata, ところだった berarti hampir terjadi, てはじめて berarti baru setelah pengalaman, dan うちに berarti selagi kesempatan masih ada.

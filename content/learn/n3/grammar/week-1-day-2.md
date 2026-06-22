@@ -1,6 +1,6 @@
 ---
 title: "そこに置いといて"
-description: "Belajar memahami grammar N3 untuk kewajiban santai, tindakan yang telanjur selesai, dan persiapan yang dilakukan lebih dulu."
+description: "Belajar pola grammar N3 untuk kewajiban dalam percakapan, tindakan yang telanjur selesai, dan persiapan yang dilakukan lebih dulu."
 level: "N3"
 category: "grammar"
 topic: "そこに置いといて"
@@ -21,12 +21,12 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali bentuk santai seperti `〜ちゃう`, `〜とく`, dan `〜なくちゃ` dalam percakapan sehari-hari. Pola ini sering muncul ketika seseorang bicara cepat tentang hal yang harus dilakukan, hal yang telanjur terjadi, atau persiapan untuk nanti.
+Di akhir pelajaran ini, kamu bisa mengenali bentuk santai seperti `〜ちゃう`, `〜とく`, dan `〜なくちゃ` dalam percakapan sehari-hari. Pola ini sering muncul ketika seseorang berbicara cepat tentang hal yang harus dilakukan, hal yang sudah telanjur terjadi, atau persiapan untuk nanti.
 
 Fokusnya adalah membedakan **kewajiban**, **selesai/telanjur**, dan **persiapan**. Ketiganya bisa muncul dalam kalimat pendek, jadi petunjuk konteks sangat penting.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> lihat apakah kalimatnya menekan "harus", "sudah/telanjur", atau "siapkan dulu". Bentuk kasual sering dipendekkan, tetapi fungsi grammarnya tetap sama.
+  <strong>Fokus hari ini:</strong> lihat apakah kalimatnya menunjukkan "harus", "sudah/telanjur", atau "siapkan dulu". Bentuk kasual sering dipendekkan, tetapi fungsi dasarnya tetap sama.
 </div>
 
 ## Pola Hari Ini
@@ -34,7 +34,7 @@ Fokusnya adalah membedakan **kewajiban**, **selesai/telanjur**, dan **persiapan*
 | Fungsi | Pola | Arti praktis | Kapan dipakai |
 |---|---|---|---|
 | Kewajiban santai | 〜ないと・〜なくちゃ | harus melakukan | saat pembicara merasa sesuatu perlu segera dilakukan |
-| Selesai/telanjur | 〜てしまう・〜ちゃう・〜じゃう | selesai, telanjur, tidak sengaja | saat tindakan selesai atau pembicara punya rasa menyesal/kaget |
+| Selesai/telanjur | 〜てしまう・〜ちゃう・〜じゃう | selesai, telanjur, tidak sengaja | saat tindakan selesai, tidak sengaja terjadi, atau terasa disayangkan |
 | Persiapan | 〜ておく・〜とく・〜どく | melakukan lebih dulu / membiarkan untuk nanti | saat tindakan dilakukan sebagai persiapan atau untuk menjaga keadaan |
 
 ## Peta Pola
@@ -48,11 +48,11 @@ Fokusnya adalah membedakan **kewajiban**, **selesai/telanjur**, dan **persiapan*
   <span>〜とく</span>
 </div>
 
-Alurnya bisa dibaca seperti ini: **kewajiban** memakai bentuk negatif seperti `寝ないと`, **hasil yang sudah terjadi** memakai `〜てしまう／ちゃう`, sedangkan **persiapan untuk nanti** memakai `〜ておく／とく`.
+Alurnya bisa dibaca seperti ini: **kewajiban** memakai bentuk negatif seperti `寝ないと`, **hasil yang sudah terjadi atau disayangkan** memakai `〜てしまう／ちゃう`, sedangkan **persiapan untuk nanti** memakai `〜ておく／とく`.
 
 | Fungsi | Kerangka kalimat | Yang perlu dicek |
 |---|---|---|
-| Kewajiban | （Vない）と／なくちゃ | Apa yang harus dilakukan? |
+| Kewajiban | （Vない）と／なくちゃ | Apa yang harus segera dilakukan? |
 | Selesai/telanjur | （Vて）しまう／ちゃう | Apakah sudah selesai, telanjur, atau menyesal? |
 | Persiapan | （Vて）おく／とく | Apakah dilakukan dulu untuk kebutuhan nanti? |
 
@@ -96,7 +96,7 @@ Alurnya bisa dibaca seperti ini: **kewajiban** memakai bentuk negatif seperti `�
 
 ### Selesai atau telanjur
 
-- `〜てしまう` bisa berarti selesai sepenuhnya atau telanjur/tidak sengaja.
+- `〜てしまう` bisa berarti selesai sepenuhnya, telanjur, atau tidak sengaja.
 - `〜ちゃう／じゃう` lebih santai dan sering muncul dalam percakapan.
 - Contoh: あ、食べちゃった。
 
@@ -133,9 +133,9 @@ Alurnya bisa dibaca seperti ini: **kewajiban** memakai bentuk negatif seperti `�
 | Pasangan | Cara membedakan |
 |---|---|
 | 〜ないと / 〜なくちゃ | Keduanya berarti harus. `〜なくちゃ` terasa lebih santai dan lembut. |
-| 〜てしまう / 〜ちゃう | Maknanya sama, tetapi `〜ちゃう` lebih percakapan. |
-| 〜ておく / 〜とく | Maknanya sama, tetapi `〜とく` lebih santai. |
-| 〜てしまう / 〜ておく | `〜てしまう` melihat hasil selesai/telanjur. `〜ておく` melihat persiapan untuk nanti. |
+| 〜てしまう / 〜ちゃう | Maknanya dekat, tetapi `〜ちゃう` lebih kasual dan lebih sering muncul dalam percakapan cepat. |
+| 〜ておく / 〜とく | Maknanya dekat, tetapi `〜とく` lebih santai. Gunakan bentuk standar saat menulis atau berbicara formal. |
+| 〜てしまう / 〜ておく | `〜てしまう` melihat hasil yang selesai/telanjur. `〜ておく` melihat tindakan sebagai persiapan untuk nanti. |
 
 ## Kesalahan Umum
 
@@ -143,7 +143,7 @@ Alurnya bisa dibaca seperti ini: **kewajiban** memakai bentuk negatif seperti `�
 |---|---|---|
 | 明日は早いから、もう寝ると。 | 明日は早いから、もう寝ないと。 | Kewajiban santai memakai bentuk negatif: `（Vない）と`. |
 | ノートに書いちゃおう。 | ノートに書いとこう。 | Jika maksudnya mencatat sebagai persiapan, gunakan `〜ておく／とく`. |
-| 買ってしまわないと。 | 買っとかないと。 | Untuk "harus membeli dulu sebagai persiapan", gunakan `〜ておく` dalam bentuk negatif kewajiban. |
+| 買ってしまわないと。 | 買っとかないと。 | Untuk "harus membeli dulu sebagai persiapan", gunakan `〜ておく／とく` dalam bentuk kewajiban. |
 
 ## Mini Practice
 
@@ -162,12 +162,12 @@ explanation: "寝ないと benar karena kewajiban santai memakai bentuk negatif 
 
 ::MiniPractice
 ---
-question: "Saya telanjur memakan kue yang tersisa."
+question: "Saya telanjur makan semua kue yang tersisa."
 sentence: "残っていたケーキを全部____。"
 optionA: "食べちゃった"
 optionB: "食べといた"
 correct: "食べちゃった"
-explanation: "食べちゃった benar karena kalimatnya menunjukkan sesuatu yang telanjur dimakan."
+explanation: "食べちゃった benar karena kalimatnya menunjukkan tindakan yang sudah telanjur terjadi."
 ---
 ::
 

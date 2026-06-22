@@ -1,6 +1,6 @@
 ---
 title: "事故などによる渋滞"
-description: "Belajar memahami grammar N3 untuk mengatakan tentang, menurut, karena, oleh, dengan cara, dan tergantung pada secara tepat."
+description: "Belajar pola grammar N3 untuk mengatakan tentang, menurut sumber tertentu, sebab, cara, pelaku pasif, dan perbedaan menurut kondisi."
 level: "N3"
 category: "grammar"
 topic: "事故などによる渋滞"
@@ -121,9 +121,9 @@ Di tabel ini, `（N）` adalah nomina atau frasa nomina, termasuk orang, tempat,
 
 <div class="example-list">
   <div><p class="jp">日本文化について勉強しています。</p><p>Saya sedang belajar tentang budaya Jepang.</p></div>
-  <div><p class="jp">この問題に関して、ご意見ありませんか。</p><p>Apakah ada pendapat mengenai masalah ini?</p></div>
+  <div><p class="jp">この問題に関して、ご意見ありませんか。</p><p>Apakah ada pendapat tentang masalah ini?</p></div>
   <div><p class="jp">天気予報によれば、明日は晴れるそうです。</p><p>Menurut prakiraan cuaca, besok sepertinya cerah.</p></div>
-  <div><p class="jp">彼は努力によって病気を克服しました。</p><p>Dia mengatasi penyakitnya melalui usaha.</p></div>
+  <div><p class="jp">彼は努力によって病気を克服しました。</p><p>Dia berhasil melewati penyakitnya berkat usaha.</p></div>
   <div><p class="jp">人によって考え方が違います。</p><p>Cara berpikir berbeda tergantung orangnya.</p></div>
   <div><p class="jp">事故などによる渋滞はありません。</p><p>Tidak ada kemacetan akibat kecelakaan dan sejenisnya.</p></div>
 </div>
@@ -197,12 +197,12 @@ explanation: "によって benar karena hasilnya berbeda tergantung orang."
 
 ::MiniPractice
 ---
-question: "Apakah ada pendapat mengenai masalah ini?"
+question: "Apakah ada pendapat tentang masalah ini?"
 sentence: "この問題____、ご意見ありませんか。"
 optionA: "に関して"
 optionB: "によれば"
 correct: "に関して"
-explanation: "に関して benar karena meminta pendapat mengenai topik formal."
+explanation: "に関して benar karena meminta pendapat tentang topik formal."
 ---
 ::
 

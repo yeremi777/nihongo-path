@@ -1,6 +1,6 @@
 ---
 title: "ところで..."
-description: "Belajar memahami grammar N3 untuk membedakan kontras biasa, hasil yang tidak terduga, perpindahan topik, dan penghubung alasan ke akibat."
+description: "Belajar pola grammar N3 untuk membedakan kontras biasa, hasil yang tidak terduga, perpindahan topik, dan penghubung alasan ke akibat."
 level: "N3"
 category: "grammar"
 topic: "ところで..."
@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N3 untuk membedakan kontras biasa, hasil yang tidak terduga, perpindahan topik, dan penghubung alasan ke akibat. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan nuansa konteks.
+Di akhir pelajaran ini, kamu bisa membedakan kontras biasa, hasil yang tidak sesuai dugaan, perpindahan topik, dan penghubung alasan ke akibat. Fokusnya adalah memilih konektor dari alur pembicaraan, bukan menerjemahkan semua sebagai "tapi" atau "jadi".
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> jangan memakai ところが untuk semua tapi. だけど adalah kontras biasa, ところが hasil berlawanan dugaan, ところで pindah topik, dan だから／ですから menghubungkan alasan ke akibat.

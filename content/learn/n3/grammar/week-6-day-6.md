@@ -1,6 +1,6 @@
 ---
 title: "その上..."
-description: "Belajar memahami grammar N3 untuk menambahkan informasi, menambah item dalam percakapan, memilih alternatif, dan memperkuat poin sebelumnya."
+description: "Belajar pola grammar N3 untuk menambahkan informasi, menambah item dalam percakapan, memilih alternatif, dan memperkuat poin sebelumnya."
 level: "N3"
 category: "grammar"
 topic: "その上..."
@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N3 untuk menambahkan informasi, menambah item dalam percakapan, memilih alternatif, dan memperkuat poin sebelumnya. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan nuansa konteks.
+Di akhir pelajaran ini, kamu bisa membedakan konektor untuk menambah item, menanyakan tambahan, memilih alternatif, dan memperkuat poin sebelumnya. Fokusnya adalah membaca arah percakapan: menambah, memilih, atau memberi alasan pendukung.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> それと dan あと menambah item, それとも memberi pilihan alternatif, sedangkan その上 menambahkan poin pendukung yang memperkuat pernyataan sebelumnya.
@@ -125,7 +125,7 @@ Bagian ini menghubungkan rumus dan contoh kalimat. Mulai dari bahan pendeknya du
 ## Contoh Kalimat
 
 <div class="example-list">
-  <div><p class="jp">牛乳を一本ください。それと、卵もください。</p><p>Tolong susu satu botol. Dan telur juga.</p></div>
+  <div><p class="jp">牛乳を一本ください。それと、卵もください。</p><p>Tolong satu botol susu. Telurnya juga.</p></div>
   <div><p class="jp">宿題は終わりました。あと、何をすればいいですか。</p><p>PR sudah selesai. Lalu, apa lagi yang harus saya lakukan?</p></div>
   <div><p class="jp">今週会いますか。それとも来週にしますか。</p><p>Kita bertemu minggu ini, atau minggu depan saja?</p></div>
   <div><p class="jp">このアプリは使いやすいです。その上、無料です。</p><p>Aplikasi ini mudah digunakan. Selain itu, gratis.</p></div>

@@ -1,6 +1,6 @@
 ---
 title: "省エネというのは・・・"
-description: "Belajar memahami grammar N3 untuk memperkenalkan nama/istilah, memberi contoh kelompok, dan menjelaskan arti atau fakta dengan という."
+description: "Belajar pola grammar N3 untuk memperkenalkan nama atau istilah, memberi contoh kelompok, dan menjelaskan arti dengan という."
 level: "N3"
 category: "grammar"
 topic: "省エネというのは・・・"
@@ -124,7 +124,7 @@ Di tabel ini, `（N）` adalah nomina atau frasa nomina. `（klausa）` berarti 
   <div><p class="jp">木村さんという人から電話がありました。</p><p>Ada telepon dari seseorang bernama Kimura-san.</p></div>
   <div><p class="jp">尺八という楽器を見たことがありますか。</p><p>Apakah kamu pernah melihat alat musik bernama shakuhachi?</p></div>
   <div><p class="jp">テニス、サッカー、野球といったスポーツが盛んです。</p><p>Olahraga seperti tenis, sepak bola, dan bisbol populer.</p></div>
-  <div><p class="jp">「デジカメ」というのは、デジタルカメラを短くした言い方です。</p><p>"Dejikame" adalah cara singkat untuk mengatakan kamera digital.</p></div>
+  <div><p class="jp">「デジカメ」というのは、デジタルカメラを短くした言い方です。</p><p>"Dejikame" adalah singkatan dari kamera digital.</p></div>
   <div><p class="jp">リンさんが帰国するということを聞いて驚きました。</p><p>Saya terkejut mendengar bahwa Lin-san akan pulang ke negaranya.</p></div>
 </div>
 
@@ -164,7 +164,7 @@ explanation: "木村さんという人 benar karena memperkenalkan orang yang be
 
 ::MiniPractice
 ---
-question: "\"Dejikame\" adalah cara singkat untuk mengatakan kamera digital."
+question: "\"Dejikame\" adalah singkatan dari kamera digital."
 sentence: "「デジカメ」____、デジタルカメラを短くした言い方です。"
 optionA: "というのは"
 optionB: "といった"

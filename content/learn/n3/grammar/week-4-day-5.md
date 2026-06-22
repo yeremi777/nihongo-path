@@ -1,6 +1,6 @@
 ---
 title: "聞いてみるしかない"
-description: "Belajar memahami grammar N3 untuk mengingat kembali informasi, menyatakan satu-satunya pilihan, melaporkan kabar kasual, dan memberi alasan emosional."
+description: "Belajar pola grammar N3 untuk mengingat kembali informasi, menyatakan satu-satunya pilihan, melaporkan kabar kasual, dan memberi alasan emosional."
 level: "N3"
 category: "grammar"
 topic: "聞いてみるしかない"
@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N3 untuk mengingat kembali informasi, menyatakan satu-satunya pilihan, melaporkan kabar kasual, dan memberi alasan emosional. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan nuansa konteks.
+Di akhir pelajaran ini, kamu bisa membedakan pola untuk mengingat sesuatu, mengatakan "tidak ada pilihan lain", menyampaikan kabar yang didengar, dan memberi alasan emosional. Pola-pola ini sering muncul dalam percakapan ketika pembicara menjelaskan alasan atau informasi yang belum pasti.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> cek apakah pembicara sedang mengingat, menyimpulkan tidak ada pilihan lain, menyampaikan katanya, atau memberi alasan kasual. Keempatnya sering muncul dalam percakapan.
@@ -130,7 +130,7 @@ Bagian ini menghubungkan rumus dan contoh kalimat. Mulai dari bahan pendeknya du
   <div><p class="jp">地図がないなら、駅で聞くしかありません。</p><p>Kalau tidak ada peta, tidak ada pilihan selain bertanya di stasiun.</p></div>
   <div><p class="jp">山田さん、来月引っ越すんだって。</p><p>Katanya Yamada-san akan pindah bulan depan.</p></div>
   <div><p class="jp">明日のテストは午前中だけだって。</p><p>Katanya tes besok hanya pagi.</p></div>
-  <div><p class="jp">行きたくないもの。今日は疲れているんです。</p><p>Soalnya saya tidak mau pergi. Hari ini saya lelah.</p></div>
+  <div><p class="jp">行きたくないもの。今日は疲れているんです。</p><p>Saya tidak mau pergi, soalnya hari ini saya lelah.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar

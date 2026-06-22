@@ -1,6 +1,6 @@
 ---
 title: "話せることは話せますが..."
-description: "Belajar memahami grammar N3 untuk membedakan keputusan dari luar, aturan pribadi, pengakuan sebagian, dan jawaban ya yang lemah."
+description: "Belajar pola grammar N3 untuk membedakan keputusan dari luar, aturan pribadi, pengakuan sebagian, dan jawaban iya yang tidak tegas."
 level: "N3"
 category: "grammar"
 topic: "話せることは話せますが..."
@@ -21,10 +21,10 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N3 untuk membedakan keputusan dari luar, aturan pribadi, pengakuan sebagian, dan jawaban ya yang lemah. Fokusnya adalah memahami fungsi kalimat lebih dulu, lalu memilih pola dari petunjuk bentuk, partikel, dan nuansa konteks.
+Di akhir pelajaran ini, kamu bisa membedakan keputusan atau aturan dari luar, aturan pribadi, pengakuan sebagian, dan jawaban "iya, tapi tidak terlalu". Fokusnya adalah melihat siapa yang menentukan keputusan dan seberapa kuat pengakuannya.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> ことになっている datang dari aturan, jadwal, atau keputusan luar. ことにしている adalah aturan pribadi. ことは〜が mengakui sebagian, sedangkan ないことはない memberi jawaban ya yang tidak kuat.
+  <strong>Fokus hari ini:</strong> ことになっている datang dari aturan, jadwal, atau keputusan luar. ことにしている adalah aturan pribadi. ことは〜が mengakui sebagian, sedangkan ないことはない memberi jawaban iya yang tidak tegas.
 </div>
 
 ## Pola Hari Ini
@@ -36,7 +36,7 @@ Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N3 untuk membedaka
 | Aturan pribadi | 〜ことにしている | membiasakan diri / menetapkan sendiri | kebiasaan yang diputuskan pembicara |
 | Keputusan pribadi | 〜ことにする・〜ことにした | memutuskan untuk | pilihan yang dibuat pembicara |
 | Pengakuan sebagian | 〜ことは〜が／けれど | memang ~, tapi | mengakui kemampuan/fakta lalu membatasi |
-| Negasi ganda | 〜ないことはない | bukannya tidak ~ | jawaban ya yang lemah atau enggan |
+| Negasi ganda | 〜ないことはない | bukannya tidak ~ | jawaban iya yang tidak tegas atau enggan |
 
 ## Peta Pola
 
@@ -57,7 +57,7 @@ Di akhir pelajaran ini, kamu bisa membaca dan membuat kalimat N3 untuk membedaka
 | Keputusan luar baru | （V辞書形）ことになりました | Apakah keputusan baru diumumkan? |
 | Aturan pribadi | （V辞書形）ことにしている | Apakah pembicara membiasakan diri? |
 | Memang tapi | （V辞書形）ことは（Vます）が | Apakah ada pengakuan sebagian? |
-| Bukannya tidak | （Vない）ことはない | Apakah jawaban ya terasa lemah? |
+| Bukannya tidak | （Vない）ことはない | Apakah jawaban iya terasa tidak tegas? |
 
 Simbol di tabel ini hanya penanda slot. `（N）` berarti nomina atau frasa nomina, `（V）` berarti verba, `（Adj）` berarti adjektiva, `（klausa）` atau `（bentuk biasa）` berarti klausa atau bentuk biasa, dan pasangan seperti `（A）／（B）` atau `（Kalimat A）／（Kalimat B）` dipakai untuk membedakan dua sisi kalimat.
 
@@ -111,7 +111,7 @@ Bagian ini menghubungkan rumus dan contoh kalimat. Mulai dari bahan pendeknya du
 
 ### Negasi ganda
 
-- ないことはない bukan jawaban ya yang kuat.
+- ないことはない bukan jawaban iya yang tegas.
 - Nuansanya "bisa saja, tapi..." atau "bukannya tidak...".
 
 ## Pola yang Sering Muncul

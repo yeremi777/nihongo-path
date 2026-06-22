@@ -1,6 +1,6 @@
 ---
 title: "できるようになった！"
-description: "Belajar memahami grammar N3 untuk membiasakan tindakan, membuat sesuatu menjadi mungkin, dan menjelaskan perubahan kemampuan atau keadaan."
+description: "Belajar pola grammar N3 untuk membiasakan tindakan, membuat sesuatu menjadi mungkin, dan menjelaskan perubahan kemampuan atau keadaan."
 level: "N3"
 category: "grammar"
 topic: "できるようになった！"
@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membedakan `〜ようにする`, `〜ように`, dan `〜ようになる`. Ketiganya sering muncul saat pembicara membicarakan usaha, tujuan supaya suatu keadaan tercapai, atau perubahan kemampuan.
+Di akhir pelajaran ini, kamu bisa membedakan `〜ようにする`, `〜ように`, dan `〜ようになる`. Ketiganya sering muncul saat pembicara membicarakan usaha, tujuan agar suatu keadaan tercapai, atau perubahan kemampuan.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> cek apakah kalimatnya tentang usaha sadar, tujuan agar bisa/terjadi, atau hasil perubahan. Jangan langsung menerjemahkan semua `ように` sebagai "untuk".
@@ -52,10 +52,10 @@ Alurnya bisa dibaca seperti ini: **usaha sadar** memakai `〜ようにする`, *
 | Usaha | （A）は（Vる）／（Vない）ようにする | （A） sengaja berusaha melakukan atau tidak melakukan （V）. |
 | Kebiasaan dijaga | （A）は（Vる）／（Vない）ようにしている | （A） terus menjaga kebiasaan itu. |
 | Tujuan keadaan | （V可能形）／（Vない）／（Vる）ように | Tujuannya agar keadaan/kemampuan itu tercapai. |
-| Perubahan | （V可能形）/（Vる）／（Vない）ようになる | Keadaan berubah menjadi bisa, terbiasa, atau tidak lagi terjadi. |
+| Perubahan | （V可能形）／（Vる）／（Vない）ようになる | Keadaan berubah menjadi bisa, terbiasa, atau tidak lagi terjadi. |
 | Sistem/aturan | （Vる）／（Vない）ようになっている | Sistemnya sudah dibuat agar begitu. |
 
-Di tabel ini, `（A）` adalah orang atau pihak yang menjadi topik/subjek kalimat. `（V）` berarti verba/kata kerja yang masuk ke pola. `（V可能形）` berarti bentuk potensial seperti 話せる, 読める, atau 使える.
+Di tabel ini, `（A）` adalah orang atau pihak yang menjadi topik/subjek kalimat. `（V）` berarti verba yang masuk ke pola. `（V可能形）` berarti bentuk potensial seperti 話せる, 読める, atau 使える.
 
 ## Cara Membentuk Pola
 
@@ -129,9 +129,9 @@ Di tabel ini, `（A）` adalah orang atau pihak yang menjadi topik/subjek kalima
 
 | Pasangan | Cara membedakan |
 |---|---|
-| 〜ようにする / 〜ようになる | `する` melihat usaha orang. `なる` melihat perubahan keadaan atau kemampuan. |
-| 〜ように / 〜ために | `ように` cocok untuk kemampuan, keadaan, atau pencegahan. `ために` cocok untuk tujuan tindakan langsung. |
-| 〜ようにする / 〜ことにする | `ようにする` adalah usaha/kebiasaan. `ことにする` adalah keputusan. |
+| 〜ようにする / 〜ようになる | `する` melihat usaha atau kebiasaan yang dijaga seseorang. `なる` melihat perubahan keadaan atau kemampuan. |
+| 〜ように / 〜ために | `ように` cocok untuk kemampuan, keadaan, atau pencegahan. `ために` cocok untuk tujuan tindakan langsung yang sengaja dilakukan. |
+| 〜ようにする / 〜ことにする | `ようにする` adalah usaha/kebiasaan yang ingin dijaga. `ことにする` adalah keputusan untuk melakukan sesuatu. |
 
 ## Kesalahan Umum
 
@@ -185,7 +185,7 @@ sentence: "家を買う____、貯金しています。"
 optionA: "ために"
 optionB: "ように"
 correct: "ために"
-explanation: "ために benar karena membeli rumah adalah tujuan tindakan langsung."
+explanation: "ために benar karena membeli rumah adalah tujuan tindakan langsung yang sengaja dilakukan."
 ---
 ::
 
