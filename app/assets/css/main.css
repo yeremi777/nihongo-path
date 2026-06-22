@@ -695,6 +695,24 @@ body {
 .prose-nihongo .kanji-card li {
   margin: 0;
   padding-right: 0.5rem;
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+@media (min-width: 768px) {
+  .prose-nihongo .kanji-card ul {
+    display: block;
+    columns: 2;
+    column-gap: 2.5rem;
+  }
+
+  .prose-nihongo .kanji-card li {
+    margin-bottom: 0.35rem;
+  }
+
+  .prose-nihongo .kanji-card li:last-child {
+    margin-bottom: 0;
+  }
 }
 
 /* Kana cards — large character reference cards */
