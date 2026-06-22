@@ -1,6 +1,6 @@
 ---
 title: "きょうだいが いますか。"
-description: "Belajar memahami grammar N5 untuk kata sifat menerangkan kata benda, kata benda menerangkan kata benda, pengganti kata benda: yang ...; milik ... dalam kalimat pendek."
+description: "Belajar pola grammar N5 untuk menjelaskan kata benda, menyatakan milik, dan mengatakan ada atau punya dengan kalimat pendek."
 level: "N5"
 category: "grammar"
 topic: "きょうだいが いますか。"
@@ -23,9 +23,9 @@ tags:
 
 ## Tujuan
 
-Mengenali pola dasar untuk kata sifat menerangkan kata benda, kata benda menerangkan kata benda, pengganti kata benda: yang ...; milik ..., punya; ada.
+Di akhir pelajaran ini, kamu bisa menjelaskan kata benda dengan kata sifat atau nomina, memakai の untuk milik, dan membedakan あります／います untuk keberadaan.
 
-Di akhir pelajaran ini, kamu bisa membaca kalimat seperti 大きい車を買いました, 日本の車を買いました, 私のは青いのです. Fokusnya adalah memahami petunjuk kecil seperti partikel, bentuk kata, dan posisi kata dalam kalimat.
+Fokusnya adalah melihat kata sebelum nomina dan partikel yang menunjukkan milik, tempat, atau keberadaan.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> baca kalimat pelan-pelan. Tandai partikel, bentuk kata, atau kata penghubung, lalu cocokkan dengan situasi yang sedang dibicarakan.
@@ -43,7 +43,7 @@ Di akhir pelajaran ini, kamu bisa membaca kalimat seperti 大きい車を買い�
 
 ## Peta Pola
 
-Pola hari ini saling terhubung sebagai alat beginner untuk keberadaan dan kepemilikan. Mulai dari bentuk yang paling mudah terlihat, lalu cocokkan dengan konteks kalimat.
+Pola hari ini membantu kamu menerangkan kata benda dan menyatakan keberadaan. Lihat kata yang menempel sebelum nomina, lalu cek apakah kalimat memakai の, あります, atau います.
 
 <div class="word-strip">
   <span>形容詞＋名詞</span>
@@ -121,7 +121,7 @@ Simbol utama: （N）= nomina, （V）= verba, （Adj）= kata sifat, （Tempat�
 | （N1）の（N2） / 〜の replacement | の yang menghubungkan dua nomina vs の yang menggantikan nomina. Pakai （N1）の（N2） saat nomina kedua disebutkan. Pakai 〜の saat nomina yang dimaksud dihilangkan. |
 | あります / います | Benda/hal abstrak vs orang/hewan. Pakai あります untuk pena, payung, atau rapat. Pakai います untuk saudara, kucing, atau guru. |
 | （N）があります / （Tempat）に（N）があります | Kepemilikan/keberadaan umum vs keberadaan di lokasi tertentu. Pakai （N）があります untuk “punya/ada”. Pakai （Tempat）に（N）があります saat lokasinya penting. |
-| が（positive existence） / は（negative existence） | が memperkenalkan keberadaan; は sering menandai hal yang tidak ada dalam kalimat negatif. Pakai は secara natural dalam kalimat keberadaan negatif. |
+| が（ada） / は（tidak ada） | が memperkenalkan keberadaan; は sering menandai hal yang tidak ada dalam kalimat negatif. Pakai は secara natural dalam kalimat keberadaan negatif. |
 
 ## Kesalahan Umum
 

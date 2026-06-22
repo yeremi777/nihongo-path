@@ -1,6 +1,6 @@
 ---
 title: "それはたいへんですね。"
-description: "Belajar memahami grammar N5 untuk sangat; amat, sangat; benar-benar, tidak begitu; sama sekali tidak dalam kalimat pendek."
+description: "Belajar pola grammar N5 untuk memakai kata penguat, bentuk negatif dengan あまり／ぜんぜん, dan adverbia frekuensi."
 level: "N5"
 category: "grammar"
 topic: "それはたいへんですね。"
@@ -23,9 +23,9 @@ tags:
 
 ## Tujuan
 
-Mengenali pola dasar untuk sangat; amat, sangat; benar-benar, tidak begitu; sama sekali tidak, selalu; kadang-kadang; biasanya; sering.
+Di akhir pelajaran ini, kamu bisa memperkuat kata sifat dengan とても／すごく, membuat makna negatif dengan あまり／ぜんぜん, dan menyebut frekuensi tindakan.
 
-Di akhir pelajaran ini, kamu bisa membaca kalimat seperti きのうはとても寒かったです, 日本語がすごく上手ですね, 今日はあまり寒くありません. Fokusnya adalah memahami petunjuk kecil seperti partikel, bentuk kata, dan posisi kata dalam kalimat.
+Fokusnya adalah melihat kata yang muncul sebelum kata sifat atau verba.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> baca kalimat pelan-pelan. Tandai partikel, bentuk kata, atau kata penghubung, lalu cocokkan dengan situasi yang sedang dibicarakan.
@@ -42,7 +42,7 @@ Di akhir pelajaran ini, kamu bisa membaca kalimat seperti きのうはとても�
 
 ## Peta Pola
 
-Pola hari ini saling terhubung sebagai alat beginner untuk keberadaan dan kepemilikan. Mulai dari bentuk yang paling mudah terlihat, lalu cocokkan dengan konteks kalimat.
+Pola hari ini membantu kamu menyatakan tingkat dan frekuensi. Sebagian pola memperkuat kata sifat, sebagian lagi perlu bentuk negatif, dan sebagian menunjukkan seberapa sering sesuatu terjadi.
 
 <div class="word-strip">
   <span>とても・たいへん</span>
@@ -77,15 +77,15 @@ Simbol utama: （N）= nomina, （V）= verba, （Adj）= kata sifat, （Tempat�
 
 ## Catatan Pemakaian
 
-- Sangat: Keduanya memperkuat kata sifat. たいへん can also mean “difficult/tough” as in たいへんです.
-- Sangat: すごく sering dipakai dalam percakapan. ほんとうに emphasizes that something is really true or strongly felt.
+- Sangat: Keduanya memperkuat kata sifat. たいへん juga bisa berarti “berat/sulit” seperti dalam たいへんです.
+- Sangat: すごく sering dipakai dalam percakapan. ほんとうに menekankan bahwa sesuatu benar-benar terasa atau benar-benar terjadi.
 - Tidak begitu: Biasanya dipakai bersama bentuk negatif. ぜんぜん lebih kuat daripada あまり. Dalam percakapan santai, ぜんぜん bisa muncul dengan kata positif, tetapi penggunaan negatif paling aman untuk N5.
-- Selalu: Menunjukkan seberapa sering sesuatu terjadi. よく can mean “often” or “well,” depending on context.
+- Selalu: Menunjukkan seberapa sering sesuatu terjadi. よく bisa berarti “sering” atau “dengan baik”, tergantung konteks.
 
 “Sangat” dalam bahasa Indonesia bisa menjadi beberapa adverbia Jepang:
 
 - とても = very, general and safe
-- たいへん = very/terribly, often feels serious or difficult
+- たいへん = sangat, tetapi sering terasa serius, berat, atau sulit
 - すごく = very, conversational
 - ほんとうに = really/truly
 
@@ -129,7 +129,7 @@ Untuk tingkat negatif, ingat pola ini:
 |---|---|---|---|
 | あまり perlu akhir kalimat negatif | 今日はあまり寒いです。 | 今日はあまり寒くありません。 | Hari ini tidak terlalu dingin. |
 | Di N5, ぜんぜん paling kuat saat dipakai bersama bentuk negatif | テストはぜんぜんできました。 | テストはぜんぜんできませんでした。 | Saya sama sekali tidak bisa mengerjakan tesnya. |
-| よく can mean “often” or “well” | ひろは上手にラーメンを食べます。 | — | Hiro sering makan ramen. |
+| よく bisa berarti “sering” atau “dengan baik” | ひろは上手にラーメンを食べます。 | — | Hiro sering makan ramen. |
 
 ## Mini Practice
 

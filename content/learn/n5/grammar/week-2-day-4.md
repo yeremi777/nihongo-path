@@ -1,6 +1,6 @@
 ---
 title: "こうえんをさんぽしませんか。"
-description: "Belajar memahami grammar N5 untuk menerima dari seseorang, seseorang memberi kepada saya/kita, memberi kepada seseorang dalam kalimat pendek."
+description: "Belajar pola grammar N5 untuk membedakan memberi, menerima, mengajak, dan menawarkan bantuan dalam percakapan sederhana."
 level: "N5"
 category: "grammar"
 topic: "こうえんをさんぽしませんか。"
@@ -23,9 +23,9 @@ tags:
 
 ## Tujuan
 
-Mengenali pola dasar untuk menerima dari seseorang, seseorang memberi kepada saya/kita, memberi kepada seseorang, ayo lakukan ~.
+Di akhir pelajaran ini, kamu bisa membedakan もらう, くれる, dan あげる dari arah pemberian, lalu memakai ましょう／ましょうか／ませんか untuk ajakan atau tawaran.
 
-Di akhir pelajaran ini, kamu bisa membaca kalimat seperti 友だちに本をもらいました, 友だちがチョコレートをくれました, いもうとにこのスカートをあげます. Fokusnya adalah memahami petunjuk kecil seperti partikel, bentuk kata, dan posisi kata dalam kalimat.
+Fokusnya adalah melihat siapa penerima manfaat dan partikel yang menandai orangnya.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> baca kalimat pelan-pelan. Tandai partikel, bentuk kata, atau kata penghubung, lalu cocokkan dengan situasi yang sedang dibicarakan.
@@ -44,7 +44,7 @@ Di akhir pelajaran ini, kamu bisa membaca kalimat seperti 友だちに本をも�
 
 ## Peta Pola
 
-Pola hari ini saling terhubung sebagai alat beginner untuk keberadaan dan kepemilikan. Mulai dari bentuk yang paling mudah terlihat, lalu cocokkan dengan konteks kalimat.
+Pola hari ini membantu kamu melihat arah pemberian dan bentuk ajakan. Perhatikan siapa yang memberi, siapa yang menerima, dan apakah kalimat mengajak atau menawarkan bantuan.
 
 <div class="word-strip">
   <span>〜に・〜からもらいます</span>
@@ -134,9 +134,9 @@ Dalam bahasa Indonesia, “memberi” dan “menerima” terasa jelas. Dalam bah
 
 | Titik salah | Kurang tepat | Lebih tepat | Petunjuk |
 |---|---|---|---|
-| もらう marks the giver with に or から | 友だちを本をもらいました。 | 友だちに本をもらいました。 | Saya menerima buku dari teman. |
+| もらう menandai pemberi dengan に atau から | 友だちを本をもらいました。 | 友だちに本をもらいました。 | Saya menerima buku dari teman. |
 | くれる dipakai saat pemberian mengarah ke saya/kami | 友だちが田中さんにチョコレートをくれました。 | — | Teman memberi saya cokelat. |
-| あげる marks the receiver with に | いもうとをこのスカートをあげます。 | いもうとにこのスカートをあげます。 | Saya akan memberikan rok ini kepada adik perempuan saya. |
+| あげる menandai penerima dengan に | いもうとをこのスカートをあげます。 | いもうとにこのスカートをあげます。 | Saya akan memberikan rok ini kepada adik perempuan saya. |
 | Ajakan memakai Vませんか | — | — | Bagaimana kalau kita menonton film bersama? |
 
 ## Mini Practice

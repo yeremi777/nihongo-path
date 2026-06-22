@@ -1,6 +1,6 @@
 ---
 title: "しゅくだいをわすれないでください。"
-description: "Belajar memahami grammar N5 untuk ingin benda, ingin melakukan ~, sedang melakukan; dalam keadaan; punya kebiasaan dalam kalimat pendek."
+description: "Belajar pola grammar N5 untuk menyatakan keinginan, aksi yang sedang berlangsung, permintaan, dan larangan sopan."
 level: "N5"
 category: "grammar"
 topic: "しゅくだいをわすれないでください。"
@@ -23,9 +23,9 @@ tags:
 
 ## Tujuan
 
-Mengenali pola dasar untuk ingin benda, ingin melakukan ~, sedang melakukan; dalam keadaan; punya kebiasaan, tolong lakukan ~.
+Di akhir pelajaran ini, kamu bisa mengatakan ingin benda, ingin melakukan sesuatu, sedang melakukan sesuatu, meminta bantuan, dan meminta orang tidak melakukan sesuatu.
 
-Di akhir pelajaran ini, kamu bisa membaca kalimat seperti じてんしゃがほしいです, ステーキが食べたいです, テレビを見ています. Fokusnya adalah memahami petunjuk kecil seperti partikel, bentuk kata, dan posisi kata dalam kalimat.
+Fokusnya adalah membedakan がほしい, Vたい, Vています, Vてください, dan Vないでください.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> baca kalimat pelan-pelan. Tandai partikel, bentuk kata, atau kata penghubung, lalu cocokkan dengan situasi yang sedang dibicarakan.
@@ -44,7 +44,7 @@ Di akhir pelajaran ini, kamu bisa membaca kalimat seperti じてんしゃがほ�
 
 ## Peta Pola
 
-Pola hari ini saling terhubung sebagai alat beginner untuk keberadaan dan kepemilikan. Mulai dari bentuk yang paling mudah terlihat, lalu cocokkan dengan konteks kalimat.
+Pola hari ini membantu kamu menyatakan keinginan, aksi yang sedang berlangsung, dan permintaan. Lihat apakah kalimat memakai がほしい, Vたい, Vています, atau bentuk permintaan.
 
 <div class="word-strip">
   <span>（N）がほしいです</span>
@@ -95,7 +95,7 @@ Simbol utama: （N）= nomina, （V）= verba, （Adj）= kata sifat, （Tempat�
 “Mau” dalam bahasa Indonesia bisa berarti **ingin benda** dan **ingin melakukan**. Bahasa Jepang membedakannya:
 
 - （N）がほしいです = I want N
-- （Vた）いです = I want to do V
+- （Vますstem）たいです = ingin melakukan V
 
 Dalam bahasa Jepang, **（Vて）います** tidak selalu berarti “sedang”. Bentuk ini juga bisa menyatakan keadaan, seperti 住んでいます atau 知っています.
 

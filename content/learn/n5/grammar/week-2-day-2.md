@@ -1,6 +1,6 @@
 ---
 title: "先生はきれいで、やさしいです。"
-description: "Belajar memahami grammar N5 untuk menghubungkan deskripsi kata sifat atau kata benda, bentuk te untuk urutan atau koneksi aksi, setelah melakukan ~ dalam kalimat pendek."
+description: "Belajar pola grammar N5 untuk menghubungkan deskripsi, menyambung urutan aksi, dan mengatakan setelah melakukan sesuatu."
 level: "N5"
 category: "grammar"
 topic: "先生はきれいで、やさしいです。"
@@ -23,9 +23,9 @@ tags:
 
 ## Tujuan
 
-Mengenali pola dasar untuk menghubungkan deskripsi kata sifat atau kata benda, bentuk te untuk urutan atau koneksi aksi, setelah melakukan ~, lalu; setelah itu; dan.
+Di akhir pelajaran ini, kamu bisa menghubungkan dua deskripsi, menyambung urutan aksi dengan bentuk て, dan memakai てから untuk “setelah”.
 
-Di akhir pelajaran ini, kamu bisa membaca kalimat seperti そのレストランは安くて、おいしいです, うちに帰って、テレビを見ます, 手を洗ってから、ごはんを食べましょう. Fokusnya adalah memahami petunjuk kecil seperti partikel, bentuk kata, dan posisi kata dalam kalimat.
+Fokusnya adalah melihat apakah yang disambung adalah sifat, nomina, atau tindakan.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> baca kalimat pelan-pelan. Tandai partikel, bentuk kata, atau kata penghubung, lalu cocokkan dengan situasi yang sedang dibicarakan.

@@ -1,6 +1,6 @@
 ---
 title: "あさは早くおきましょう。"
-description: "Belajar memahami grammar N5 untuk melakukan dengan cara/sifat tertentu, menjadi ~, membuat/menjadikan ~ dalam kalimat pendek."
+description: "Belajar pola grammar N5 untuk mengubah kata sifat menjadi cara, menyatakan menjadi, dan membuat sesuatu jadi keadaan tertentu."
 level: "N5"
 category: "grammar"
 topic: "あさは早くおきましょう。"
@@ -23,9 +23,9 @@ tags:
 
 ## Tujuan
 
-Mengenali pola dasar untuk melakukan dengan cara/sifat tertentu, menjadi ~, membuat/menjadikan ~, bagaimana mengatakan ~?; disebut apa?.
+Di akhir pelajaran ini, kamu bisa memakai kata sifat sebagai cara melakukan sesuatu, menyatakan perubahan dengan なる, dan membuat perubahan dengan する.
 
-Di akhir pelajaran ini, kamu bisa membaca kalimat seperti 早く帰りましょう, 日本語が上手になりました, テレビの音を小さくしてください. Fokusnya adalah memahami petunjuk kecil seperti partikel, bentuk kata, dan posisi kata dalam kalimat.
+Fokusnya adalah membedakan perubahan yang terjadi sendiri dan perubahan yang sengaja dibuat.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> baca kalimat pelan-pelan. Tandai partikel, bentuk kata, atau kata penghubung, lalu cocokkan dengan situasi yang sedang dibicarakan.
@@ -35,7 +35,7 @@ Di akhir pelajaran ini, kamu bisa membaca kalimat seperti 早く帰りましょ�
 
 | Fungsi | Pola | Arti praktis | Kapan dipakai |
 |---|---|---|---|
-| Melakukan dengan cara/sifat tertentu | （いAdj）く + （V）／（なAdj）に + （V） | Melakukan dengan cara/sifat tertentu | Changes adjectives into adverbs |
+| Melakukan dengan cara/sifat tertentu | （いAdj）く + （V）／（なAdj）に + （V） | Melakukan dengan cara/sifat tertentu | Mengubah kata sifat menjadi keterangan cara |
 | Menjadi ~ | （いAdj）くなる／（なAdj）・（N）になる | Menjadi ~ | Menyatakan perubahan keadaan yang alami |
 | Membuat/menjadikan ~ | （いAdj）くする／（なAdj）・（N）にする | Membuat/menjadikan ~ | Menyatakan perubahan sengaja yang disebabkan seseorang |
 | Bagaimana mengatakan ~? | どう／何と + 言いますか | Bagaimana mengatakan ~?; disebut apa? | どう言いますか menanyakan cara mengatakan sesuatu |
@@ -57,7 +57,7 @@ Simbol utama: （N）= nomina, （V）= verba, （Adj）= kata sifat, （Tempat�
 
 | Pola | Bentuk dasar | Catatan bentuk |
 |---|---|---|
-| （いAdj）く（V）・（なAdj）に（V） | （いAdj）く + （V）／（なAdj）に + （V） | Changes adjectives into adverbs |
+| （いAdj）く（V）・（なAdj）に（V） | （いAdj）く + （V）／（なAdj）に + （V） | Mengubah kata sifat menjadi keterangan cara |
 | 〜くなる・〜になる | （いAdj）くなる／（なAdj）・（N）になる | Menyatakan perubahan keadaan yang alami |
 | 〜くする・〜にする | （いAdj）くする／（なAdj）・（N）にする | Menyatakan perubahan sengaja yang disebabkan seseorang |
 | どう言いますか・何と言いますか | どう／何と + 言いますか | どう言いますか menanyakan cara mengatakan sesuatu |

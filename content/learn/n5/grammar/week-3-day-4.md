@@ -1,6 +1,6 @@
 ---
 title: "ひまなとき、何をしていますか。"
-description: "Belajar memahami grammar N5 untuk ketika ~; saat ~, sebelum ~, setelah ~ dalam kalimat pendek."
+description: "Belajar pola grammar N5 untuk menyatakan saat, sebelum, setelah, dan pergi untuk tujuan tertentu."
 level: "N5"
 category: "grammar"
 topic: "ひまなとき、何をしていますか。"
@@ -23,9 +23,9 @@ tags:
 
 ## Tujuan
 
-Mengenali pola dasar untuk ketika ~; saat ~, sebelum ~, setelah ~, pergi/datang/pulang untuk tujuan.
+Di akhir pelajaran ini, kamu bisa mengatakan saat sesuatu terjadi, sebelum melakukan sesuatu, setelah melakukan sesuatu, dan pergi/datang/pulang untuk tujuan.
 
-Di akhir pelajaran ini, kamu bisa membaca kalimat seperti わたしは子どものとき、フランスに住んでいました, じゅぎょうの前に、よしゅうをしましょう, おふろに入ったあとで、ビールを飲みます. Fokusnya adalah memahami petunjuk kecil seperti partikel, bentuk kata, dan posisi kata dalam kalimat.
+Fokusnya adalah melihat urutan waktu: saat, sebelum, setelah, atau tujuan gerak.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> baca kalimat pelan-pelan. Tandai partikel, bentuk kata, atau kata penghubung, lalu cocokkan dengan situasi yang sedang dibicarakan.
@@ -38,11 +38,11 @@ Di akhir pelajaran ini, kamu bisa membaca kalimat seperti わたしは子ども�
 | Ketika ~ | （N）のとき／（いAdj）とき／（なAdj）なとき／（V）普通形とき | Ketika ~; saat ~ | Menjelaskan waktu atau situasi saat sesuatu terjadi |
 | Sebelum ~ | （N）の前に／（V辞書形） + 前に | Sebelum ~ | Dipakai untuk melakukan sesuatu sebelum peristiwa nomina atau sebelum tindakan verba |
 | Setelah ~ | （N）のあとで／（Vた） + あとで | Setelah ~ | Dipakai untuk melakukan sesuatu setelah peristiwa nomina atau setelah tindakan verba selesai |
-| Pergi/datang/pulang untuk tujuan | （N）に／（Vますstem）に + 行く／来る／帰る | Pergi/datang/pulang untuk tujuan | に marks the purpose of movement |
+| Pergi/datang/pulang untuk tujuan | （N）に／（Vますstem）に + 行く／来る／帰る | Pergi/datang/pulang untuk tujuan | に menandai tujuan dari gerakan |
 
 ## Peta Pola
 
-Pola hari ini saling terhubung sebagai alat beginner untuk sudah dan belum. Mulai dari bentuk yang paling mudah terlihat, lalu cocokkan dengan konteks kalimat.
+Pola hari ini membantu kamu menyusun waktu dan tujuan. とき menunjukkan saat, 前に menunjukkan sebelum, あとで menunjukkan setelah, dan に menunjukkan tujuan pergi/datang/pulang.
 
 <div class="word-strip">
   <span>〜とき</span>
@@ -60,7 +60,7 @@ Simbol utama: （N）= nomina, （V）= verba, （Adj）= kata sifat, （Tempat�
 | 〜とき | （N）のとき／（いAdj）とき／（なAdj）なとき／（V）普通形とき | Menjelaskan waktu atau situasi saat sesuatu terjadi |
 | 〜前に | （N）の前に／（V辞書形） + 前に | Dipakai untuk melakukan sesuatu sebelum peristiwa nomina atau sebelum tindakan verba |
 | 〜あとで | （N）のあとで／（Vた） + あとで | Dipakai untuk melakukan sesuatu setelah peristiwa nomina atau setelah tindakan verba selesai |
-| 〜に行く・来る・帰る | （N）に／（Vますstem）に + 行く／来る／帰る | に marks the purpose of movement |
+| 〜に行く・来る・帰る | （N）に／（Vますstem）に + 行く／来る／帰る | に menandai tujuan dari gerakan |
 
 ## Bangun Kalimat Bertahap
 
@@ -85,13 +85,13 @@ Simbol utama: （N）= nomina, （V）= verba, （Adj）= kata sifat, （Tempat�
 “Waktu/saat” dalam bahasa Indonesia bisa menjadi beberapa pola Jepang:
 
 - 〜とき = saat/ketika
-- 〜前に = before / sebelum
-- 〜あとで = after / setelah
+- 〜前に = sebelum
+- 〜あとで = setelah
 
 Untuk 前に dan あとで, bentuk verba adalah kuncinya:
 
-- （Vる）前に = before doing
-- （Vた）あとで = after doing
+- （Vる）前に = sebelum melakukan
+- （Vた）あとで = setelah melakukan
 
 ## Pola yang Sering Muncul
 

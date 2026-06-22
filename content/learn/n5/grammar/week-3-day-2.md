@@ -1,6 +1,6 @@
 ---
 title: "まだしゅくだいをしていません。"
-description: "Belajar memahami grammar N5 untuk lumayan; hampir; kebanyakan, lebih; tadi/barusan; segera; sebentar lagi, sudah dalam kalimat pendek."
+description: "Belajar pola grammar N5 untuk memakai adverbia seperti lumayan, lebih, segera, sudah, dan belum."
 level: "N5"
 category: "grammar"
 topic: "まだしゅくだいをしていません。"
@@ -23,9 +23,9 @@ tags:
 
 ## Tujuan
 
-Mengenali pola dasar untuk lumayan; hampir; kebanyakan, lebih; tadi/barusan; segera; sebentar lagi, sudah, belum.
+Di akhir pelajaran ini, kamu bisa memakai まあまあ, もっと, もうすぐ, もう, dan まだ untuk menjelaskan tingkat, waktu dekat, sudah, dan belum.
 
-Di akhir pelajaran ini, kamu bisa membaca kalimat seperti そのレストランはまあまあおいしかったです, もうすぐ12時です, もうしゅくだいをしましたか. Fokusnya adalah memahami petunjuk kecil seperti partikel, bentuk kata, dan posisi kata dalam kalimat.
+Fokusnya adalah melihat apakah kalimat bicara tentang tingkat, waktu yang sebentar lagi, atau tindakan yang sudah/belum selesai.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> baca kalimat pelan-pelan. Tandai partikel, bentuk kata, atau kata penghubung, lalu cocokkan dengan situasi yang sedang dibicarakan.
@@ -42,7 +42,7 @@ Di akhir pelajaran ini, kamu bisa membaca kalimat seperti そのレストラン�
 
 ## Peta Pola
 
-Pola hari ini saling terhubung sebagai alat beginner untuk sudah dan belum. Mulai dari bentuk yang paling mudah terlihat, lalu cocokkan dengan konteks kalimat.
+Pola hari ini membantu kamu membaca kata keterangan waktu dan tingkat. もう menunjukkan “sudah” atau “sebentar lagi”, sedangkan まだ menunjukkan “belum” atau keadaan yang masih berlangsung.
 
 <div class="word-strip">
   <span>まあまあ・ほとんど・だいたい</span>

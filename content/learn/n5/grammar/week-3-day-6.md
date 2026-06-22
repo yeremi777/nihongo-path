@@ -1,6 +1,6 @@
 ---
 title: "かんじを書くのはむずかしいです。"
-description: "Belajar memahami grammar N5 untuk nominalisasi kata kerja dengan こと, nominalisasi kata kerja dengan の, bisa; kemampuan pada nomina dalam kalimat pendek."
+description: "Belajar pola grammar N5 untuk mengubah verba menjadi topik dan menyatakan kemampuan dengan できます."
 level: "N5"
 category: "grammar"
 topic: "かんじを書くのはむずかしいです。"
@@ -23,9 +23,9 @@ tags:
 
 ## Tujuan
 
-Mengenali pola dasar untuk nominalisasi kata kerja dengan こと, nominalisasi kata kerja dengan の, bisa; kemampuan pada nomina, bisa melakukan suatu aksi.
+Di akhir pelajaran ini, kamu bisa memakai こと／の untuk mengubah tindakan menjadi topik, lalu memakai できます untuk menyatakan kemampuan.
 
-Di akhir pelajaran ini, kamu bisa membaca kalimat seperti わたしのしゅみは映画を見ることです, かんじをおぼえるのはたいへんです, コンビニがあるから、いつでも買いものができます. Fokusnya adalah memahami petunjuk kecil seperti partikel, bentuk kata, dan posisi kata dalam kalimat.
+Fokusnya adalah melihat apakah verba dipakai sebagai “hal melakukan sesuatu” atau sebagai kemampuan.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> baca kalimat pelan-pelan. Tandai partikel, bentuk kata, atau kata penghubung, lalu cocokkan dengan situasi yang sedang dibicarakan.
@@ -43,7 +43,7 @@ Di akhir pelajaran ini, kamu bisa membaca kalimat seperti わたしのしゅみ�
 
 ## Peta Pola
 
-Pola hari ini saling terhubung sebagai alat beginner untuk keberadaan dan kepemilikan. Mulai dari bentuk yang paling mudah terlihat, lalu cocokkan dengan konteks kalimat.
+Pola hari ini membantu kamu mengubah tindakan menjadi topik dan menyatakan kemampuan. こと dan の membuat verba terasa seperti nomina, sedangkan できます menyatakan bisa.
 
 <div class="word-strip">
   <span>（Vる）こと</span>

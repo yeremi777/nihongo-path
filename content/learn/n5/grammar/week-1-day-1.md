@@ -1,6 +1,6 @@
 ---
 title: "えいがは おもしろくなかったです。"
-description: "Belajar memahami grammar N5 untuk membedakan bentuk sekarang, lampau, positif, dan negatif pada kata sifat serta beberapa verba umum."
+description: "Belajar pola grammar N5 untuk membedakan bentuk positif, negatif, sekarang, dan lampau pada kata sifat serta verba umum."
 level: "N5"
 category: "grammar"
 topic: "えいがは おもしろくなかったです。"
@@ -23,9 +23,9 @@ tags:
 
 ## Tujuan
 
-Mengenali bentuk dasar kata sifat-i, bentuk khusus いい, kata sifat-na, dan beberapa verba umum seperti あります, します, dan 来ます.
+Di akhir pelajaran ini, kamu bisa mengenali bentuk dasar kata sifat-i, bentuk khusus いい, kata sifat-na, dan beberapa verba umum seperti あります, します, dan 来ます.
 
-Di akhir pelajaran ini, kamu bisa membaca kalimat seperti この本はおもしろくなかったです, コンサートはよかったです, dan 田中さんは来なかったです. Fokusnya adalah melihat bagian mana yang berubah saat kalimat menjadi negatif atau lampau.
+Fokusnya adalah melihat bagian mana yang berubah saat kalimat menjadi negatif atau lampau.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> kata sifat bahasa Jepang bisa berubah bentuk. Jangan menerjemahkan kata per kata dari bahasa Indonesia; lihat dulu apakah kata itu kata sifat-i, kata sifat-na, atau bentuk khusus seperti いい.

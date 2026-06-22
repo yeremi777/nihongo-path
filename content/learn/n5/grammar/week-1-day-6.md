@@ -1,6 +1,6 @@
 ---
 title: "お国は どちらですか。"
-description: "Belajar memahami grammar N5 untuk kata tanya dalam kalimat pendek."
+description: "Belajar pola grammar N5 untuk memakai kata tanya seperti siapa, yang mana, seperti apa, di mana, dan berapa."
 level: "N5"
 category: "grammar"
 topic: "お国は どちらですか。"
@@ -23,9 +23,9 @@ tags:
 
 ## Tujuan
 
-Mengenali pola dasar untuk kata tanya.
+Di akhir pelajaran ini, kamu bisa memilih kata tanya dasar untuk orang, tempat, benda, jenis, dan harga.
 
-Di akhir pelajaran ini, kamu bisa membaca kalimat seperti お国はどちらですか. Fokusnya adalah memahami petunjuk kecil seperti partikel, bentuk kata, dan posisi kata dalam kalimat.
+Fokusnya adalah melihat jenis informasi yang ditanyakan: orang, tempat, pilihan, sifat, atau jumlah uang.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> baca kalimat pelan-pelan. Tandai partikel, bentuk kata, atau kata penghubung, lalu cocokkan dengan situasi yang sedang dibicarakan.

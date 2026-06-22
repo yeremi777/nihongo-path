@@ -1,6 +1,6 @@
 ---
 title: "あには せが 高いです。"
-description: "Belajar memahami grammar N5 untuk penanda topik, penanda kontras atau penekanan, a memiliki b yang ~ dalam kalimat pendek."
+description: "Belajar pola grammar N5 untuk memakai は, が, dan を saat menyebut topik, kontras, ciri, pilihan, dan asal."
 level: "N5"
 category: "grammar"
 topic: "あには せが 高いです。"
@@ -23,9 +23,9 @@ tags:
 
 ## Tujuan
 
-Mengenali pola dasar untuk penanda topik, penanda kontras atau penekanan, a memiliki b yang ~, kata tanya sebagai subjek.
+Di akhir pelajaran ini, kamu bisa memakai は untuk topik atau kontras, が untuk ciri yang diperhatikan, を untuk objek, dan から untuk asal.
 
-Di akhir pelajaran ini, kamu bisa membaca kalimat seperti 来週はテストがあります, 私は肉は食べますが、魚は食べません, 兄は背が高いです. Fokusnya adalah memahami petunjuk kecil seperti partikel, bentuk kata, dan posisi kata dalam kalimat.
+Fokusnya adalah memilih partikel dari fungsi kalimat, bukan dari satu terjemahan bahasa Indonesia.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> baca kalimat pelan-pelan. Tandai partikel, bentuk kata, atau kata penghubung, lalu cocokkan dengan situasi yang sedang dibicarakan.

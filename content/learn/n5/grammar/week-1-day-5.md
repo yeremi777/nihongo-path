@@ -1,6 +1,6 @@
 ---
 title: "ここまで あるいて 来ました。"
-description: "Belajar memahami grammar N5 untuk atau; penanda pilihan, seperti ~ dan lainnya, dari ~ sampai ~ dalam kalimat pendek."
+description: "Belajar pola grammar N5 untuk memilih dengan か, memberi contoh dengan や／など, dan menyebut rentang dari satu titik sampai titik lain."
 level: "N5"
 category: "grammar"
 topic: "ここまで あるいて 来ました。"
@@ -23,9 +23,9 @@ tags:
 
 ## Tujuan
 
-Mengenali pola dasar untuk atau; penanda pilihan, seperti ~ dan lainnya, dari ~ sampai ~, sekitar waktu.
+Di akhir pelajaran ini, kamu bisa memakai か untuk pilihan, や／など untuk contoh, から〜まで untuk rentang, dan ごろ／ぐらい untuk perkiraan.
 
-Di akhir pelajaran ini, kamu bisa membaca kalimat seperti 毎朝、コーヒーか紅茶を飲みます, 駅の前にコンビニや銀行などがあります, 家から学校まで1時間かかります. Fokusnya adalah memahami petunjuk kecil seperti partikel, bentuk kata, dan posisi kata dalam kalimat.
+Fokusnya adalah membedakan pilihan, contoh yang belum lengkap, rentang, dan perkiraan jumlah atau waktu.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> baca kalimat pelan-pelan. Tandai partikel, bentuk kata, atau kata penghubung, lalu cocokkan dengan situasi yang sedang dibicarakan.
@@ -94,7 +94,7 @@ Simbol utama: （N）= nomina, （V）= verba, （Adj）= kata sifat, （Tempat�
 
 “Sekitar” dalam bahasa Indonesia bisa menjadi ごろ atau ぐらい dalam bahasa Jepang:
 
-- ごろ = around a time, like 7時ごろ
+- ごろ = sekitar waktu tertentu, seperti 7時ごろ
 - くらい／ぐらい = kira-kira untuk jumlah, durasi, harga, jarak, atau tingkat
 
 ## Pola yang Sering Muncul

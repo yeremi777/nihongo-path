@@ -1,6 +1,6 @@
 ---
 title: "しゅくだいは いえで しましょう。"
-description: "Belajar memahami grammar N5 untuk ke/pada/di; waktu, tujuan, tempat, orang, di/dengan/secara; tempat, cara, kendaraan, cakupan, juga; pun; dua-duanya dalam kontras berulang dalam kalimat pendek."
+description: "Belajar pola grammar N5 untuk membedakan に, で, も, dan に会う saat menyebut waktu, tempat, cara, kendaraan, dan tambahan."
 level: "N5"
 category: "grammar"
 topic: "しゅくだいは いえで しましょう。"
@@ -23,9 +23,9 @@ tags:
 
 ## Tujuan
 
-Mengenali pola dasar untuk ke/pada/di; waktu, tujuan, tempat, orang, di/dengan/secara; tempat, cara, kendaraan, cakupan, juga; pun; dua-duanya dalam kontras berulang.
+Di akhir pelajaran ini, kamu bisa membedakan に untuk waktu atau titik tujuan, で untuk tempat aksi atau cara, dan も untuk “juga”.
 
-Di akhir pelajaran ini, kamu bisa membaca kalimat seperti 学校は9時に始まります, 公園で遊びました, 田中さんは25さいです。私も25さいです. Fokusnya adalah memahami petunjuk kecil seperti partikel, bentuk kata, dan posisi kata dalam kalimat.
+Fokusnya adalah melihat apakah kalimat bicara tentang waktu, lokasi aksi, kendaraan, atau tambahan informasi.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> baca kalimat pelan-pelan. Tandai partikel, bentuk kata, atau kata penghubung, lalu cocokkan dengan situasi yang sedang dibicarakan.
@@ -41,7 +41,7 @@ Di akhir pelajaran ini, kamu bisa membaca kalimat seperti 学校は9時に始ま
 
 ## Peta Pola
 
-Pola hari ini saling terhubung sebagai alat beginner untuk keberadaan dan kepemilikan. Mulai dari bentuk yang paling mudah terlihat, lalu cocokkan dengan konteks kalimat.
+Pola hari ini membantu kamu membedakan fungsi partikel dasar. に sering menunjuk titik waktu, tujuan, atau orang; で menunjuk tempat aksi, cara, atau kendaraan; も menambahkan makna “juga”.
 
 <div class="word-strip">
   <span>〜に（場所・方向・時間・相手）</span>

@@ -1,6 +1,6 @@
 ---
 title: "母は父よりせが高いです。"
-description: "Belajar memahami grammar N5 untuk a lebih ~ daripada b, b lebih ~ daripada a, antara a dan b, mana yang lebih ~? dalam kalimat pendek."
+description: "Belajar pola grammar N5 untuk membandingkan dua hal, menanyakan mana yang lebih, menyatakan paling, dan memberi contoh aktivitas."
 level: "N5"
 category: "grammar"
 topic: "母は父よりせが高いです。"
@@ -23,9 +23,9 @@ tags:
 
 ## Tujuan
 
-Mengenali pola dasar untuk a lebih ~ daripada b, b lebih ~ daripada a, antara a dan b, mana yang lebih ~?, a paling ~.
+Di akhir pelajaran ini, kamu bisa membandingkan dua hal dengan より／ほうが, bertanya どちら, menyatakan いちばん, dan memberi contoh kegiatan dengan たり.
 
-Di akhir pelajaran ini, kamu bisa membaca kalimat seperti 母は父より背が高いです, 父より母のほうが背が高いです, ペンとえんぴつとどちらをよく使いますか. Fokusnya adalah memahami petunjuk kecil seperti partikel, bentuk kata, dan posisi kata dalam kalimat.
+Fokusnya adalah melihat sisi mana yang dibandingkan dan apakah kalimat memberi contoh tindakan.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> baca kalimat pelan-pelan. Tandai partikel, bentuk kata, atau kata penghubung, lalu cocokkan dengan situasi yang sedang dibicarakan.
@@ -43,7 +43,7 @@ Di akhir pelajaran ini, kamu bisa membaca kalimat seperti 母は父より背が�
 
 ## Peta Pola
 
-Pola hari ini saling terhubung sebagai alat beginner untuk keberadaan dan kepemilikan. Mulai dari bentuk yang paling mudah terlihat, lalu cocokkan dengan konteks kalimat.
+Pola hari ini membantu kamu membandingkan dua hal dan memberi contoh aktivitas. より menandai pembanding, ほうが menandai sisi yang lebih, dan たり menunjukkan beberapa contoh tindakan.
 
 <div class="word-strip">
   <span>（A）は（B）より〜</span>
@@ -85,7 +85,7 @@ Simbol utama: （N）= nomina, （V）= verba, （Adj）= kata sifat, （Tempat�
 - A lebih ~ daripada B: Perbandingan langsung. B menjadi dasar perbandingan.
 - B lebih ~ daripada A: Membandingkan dua hal sambil menekankan B sebagai sisi yang lebih kuat sifatnya.
 - Antara A dan B, mana yang lebih ~?: Dipakai untuk menanyakan perbandingan antara dua pilihan. どっち adalah bentuk santai dari どちら.
-- A paling ~: Dipakai untuk hal yang paling unggul dalam satu kelompok. Often appears with Nの中で.
+- A paling ~: Dipakai untuk hal yang paling unggul dalam satu kelompok. Sering muncul bersama Nの中で.
 - Melakukan hal seperti A dan B: Memberi contoh dari beberapa tindakan. Daftarnya bukan daftar lengkap.
 
 Dalam bahasa Indonesia, perbandingan biasanya memakai “lebih” dan “paling”. Dalam bahasa Jepang, urutan katanya penting:

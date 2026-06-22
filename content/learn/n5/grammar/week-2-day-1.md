@@ -1,6 +1,6 @@
 ---
 title: "コーヒーはいかがですか。"
-description: "Belajar memahami grammar N5 untuk sesuatu; seseorang; suatu tempat; suatu waktu, tidak apa pun; tidak siapa pun; tidak ke mana pun, apa pun; siapa pun; di mana pun; bahkan; seperti ~ dalam kalimat pendek."
+description: "Belajar pola grammar N5 untuk memakai kata tanya dengan か, も, dan でも saat mengatakan sesuatu, tidak apa pun, atau apa pun."
 level: "N5"
 category: "grammar"
 topic: "コーヒーはいかがですか。"
@@ -23,9 +23,9 @@ tags:
 
 ## Tujuan
 
-Mengenali pola dasar untuk sesuatu; seseorang; suatu tempat; suatu waktu, tidak apa pun; tidak siapa pun; tidak ke mana pun, apa pun; siapa pun; di mana pun; bahkan; seperti ~, bagaimana ~?; bagaimana kalau ~?; maukah ~?.
+Di akhir pelajaran ini, kamu bisa memakai kata tanya + か untuk “sesuatu”, kata tanya + も + negatif untuk “tidak apa pun”, dan kata tanya + でも untuk “apa pun”.
 
-Di akhir pelajaran ini, kamu bisa membaca kalimat seperti 何か飲みましょう, きのうはどこへも行きませんでした, いつでも来てください. Fokusnya adalah memahami petunjuk kecil seperti partikel, bentuk kata, dan posisi kata dalam kalimat.
+Fokusnya adalah melihat partikel setelah kata tanya: か, も, atau でも.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> baca kalimat pelan-pelan. Tandai partikel, bentuk kata, atau kata penghubung, lalu cocokkan dengan situasi yang sedang dibicarakan.
@@ -35,7 +35,7 @@ Di akhir pelajaran ini, kamu bisa membaca kalimat seperti 何か飲みましょ�
 
 | Fungsi | Pola | Arti praktis | Kapan dipakai |
 |---|---|---|---|
-| Sesuatu | 疑問詞 + か | Sesuatu; seseorang; suatu tempat; suatu waktu | Makes an indefinite expression |
+| Sesuatu | 疑問詞 + か | Sesuatu; seseorang; suatu tempat; suatu waktu | Membuat makna tidak tentu seperti “sesuatu” atau “seseorang” |
 | Tidak apa pun | 疑問詞 + も + bentuk negatif | Tidak apa pun; tidak siapa pun; tidak ke mana pun | Dipakai dengan bentuk negatif |
 | Apa pun | 疑問詞 + でも／（N） + でも | Apa pun; siapa pun; di mana pun; bahkan; seperti ~ | Dengan kata tanya, artinya “apa pun/siapa pun/di mana pun”. |
 | Bagaimana ~? | （N）はどう／いかがですか | Bagaimana ~?; bagaimana kalau ~?; maukah ~? | いかが adalah bentuk sopan dari どう |
@@ -57,7 +57,7 @@ Simbol utama: （N）= nomina, （V）= verba, （Adj）= kata sifat, （Tempat�
 
 | Pola | Bentuk dasar | Catatan bentuk |
 |---|---|---|
-| 何か・だれか・どこか・いつか | 疑問詞 + か | Makes an indefinite expression |
+| 何か・だれか・どこか・いつか | 疑問詞 + か | Membuat makna tidak tentu seperti “sesuatu” atau “seseorang” |
 | 何も・だれも・どこへも〜ない | 疑問詞 + も + bentuk negatif | Dipakai dengan bentuk negatif |
 | 疑問詞＋でも・（N）でも | 疑問詞 + でも／（N） + でも | Dengan kata tanya, artinya “apa pun/siapa pun/di mana pun”. |
 | どうですか・いかがですか | （N）はどう／いかがですか | いかが adalah bentuk sopan dari どう |
@@ -82,7 +82,7 @@ Simbol utama: （N）= nomina, （V）= verba, （Adj）= kata sifat, （Tempat�
 - Apa pun: Dengan kata tanya, artinya “apa pun/siapa pun/di mana pun”. Dengan nomina, bisa memberi contoh atau saran lembut seperti お茶でも. Jangan tertukar dengan でも yang berarti “tapi”.
 - Bagaimana ~?: いかが adalah bentuk sopan dari どう. Dipakai untuk menanyakan kesan atau menawarkan sesuatu dengan sopan.
 
-Dalam bahasa Indonesia, kita sering memakai “apa-apa,” “siapa-siapa,” or “mana-mana” with negation. Dalam bahasa Jepang, perlu **も + bentuk negatif**:
+Dalam bahasa Indonesia, kita sering memakai “apa-apa,” “siapa-siapa,” atau “mana-mana” bersama kalimat negatif. Dalam bahasa Jepang, gunakan **も + bentuk negatif**:
 
 - 何も食べません = tidak makan apa pun
 - だれもいません = tidak ada siapa pun

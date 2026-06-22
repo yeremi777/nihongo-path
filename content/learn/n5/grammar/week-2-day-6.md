@@ -1,6 +1,6 @@
 ---
 title: "高いから買いません。"
-description: "Belajar memahami grammar N5 untuk karena; alasannya; jadi, tetapi; walaupun, tapi; namun dalam kalimat pendek."
+description: "Belajar pola grammar N5 untuk menghubungkan alasan, hasil, kontras, dan penutup percakapan."
 level: "N5"
 category: "grammar"
 topic: "高いから買いません。"
@@ -23,9 +23,9 @@ tags:
 
 ## Tujuan
 
-Mengenali pola dasar untuk karena; alasannya; jadi, tetapi; walaupun, tapi; namun, kalau begitu; kalau begitu ya.
+Di akhir pelajaran ini, kamu bisa memberi alasan dengan から, menghubungkan kontras dengan けれど／けど／が, dan memulai kalimat baru dengan でも atau それでは.
 
-Di akhir pelajaran ini, kamu bisa membaca kalimat seperti 時間がないから、いそぎましょう, べんきょうしたけれど、テストはできませんでした, 日本語はむずかしいです。でも、おもしろいです. Fokusnya adalah memahami petunjuk kecil seperti partikel, bentuk kata, dan posisi kata dalam kalimat.
+Fokusnya adalah membedakan alasan, hasil, kontras, dan perpindahan ke tindakan berikutnya.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> baca kalimat pelan-pelan. Tandai partikel, bentuk kata, atau kata penghubung, lalu cocokkan dengan situasi yang sedang dibicarakan.

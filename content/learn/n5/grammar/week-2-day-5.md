@@ -1,6 +1,6 @@
 ---
 title: "これはともだちにもらったCDです。"
-description: "Belajar memahami grammar N5 untuk modifikasi kata benda; klausa relatif, akan bagaimana?; ada apa? dalam kalimat pendek."
+description: "Belajar pola grammar N5 untuk menerangkan kata benda dengan klausa pendek dan bertanya apa yang akan dilakukan."
 level: "N5"
 category: "grammar"
 topic: "これはともだちにもらったCDです。"
@@ -23,9 +23,9 @@ tags:
 
 ## Tujuan
 
-Mengenali pola dasar untuk modifikasi kata benda; klausa relatif, akan bagaimana?; ada apa?.
+Di akhir pelajaran ini, kamu bisa meletakkan penjelas sebelum kata benda dan memakai どうしますか／どうしましたか untuk bertanya tindakan atau keadaan.
 
-Di akhir pelajaran ini, kamu bisa membaca kalimat seperti これはクラスで使う本です, その本をどうしますか. Fokusnya adalah memahami petunjuk kecil seperti partikel, bentuk kata, dan posisi kata dalam kalimat.
+Fokusnya adalah melihat bagian mana yang menerangkan kata benda.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> baca kalimat pelan-pelan. Tandai partikel, bentuk kata, atau kata penghubung, lalu cocokkan dengan situasi yang sedang dibicarakan.
@@ -40,7 +40,7 @@ Di akhir pelajaran ini, kamu bisa membaca kalimat seperti これはクラスで�
 
 ## Peta Pola
 
-Pola hari ini saling terhubung sebagai alat beginner untuk keberadaan dan kepemilikan. Mulai dari bentuk yang paling mudah terlihat, lalu cocokkan dengan konteks kalimat.
+Pola hari ini membantu kamu membuat frasa seperti “buku yang dipakai di kelas” dan bertanya “akan diapakan?” atau “ada apa?”. Mulai dari penjelasnya dulu, lalu lihat kata benda yang diterangkan.
 
 <div class="word-strip">
   <span>名詞修飾</span>
