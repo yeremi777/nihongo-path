@@ -81,7 +81,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>濃 dipakai untuk warna, rasa, atau cetakan yang pekat/kuat.</p>
   <ul>
     <li><span class="ruby-word"><ruby>濃い<rt>こい</rt></ruby></span> - pekat, gelap, kuat</li>
-    <li><span class="ruby-word"><ruby>濃度<rt>のうど</rt></ruby></span> - gelap, pekat</li>
+    <li><span class="ruby-word"><ruby>濃度<rt>のうど</rt></ruby></span> - konsentrasi, kadar</li>
   </ul>
 </details>
 
@@ -161,7 +161,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>再 memberi rasa melakukan ulang. Umum pada tombol mesin dan aplikasi.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>再入国<rt>さいにゅうこく</rt></ruby></span> - lagi, kembali</li>
+    <li><span class="ruby-word"><ruby>再入国<rt>さいにゅうこく</rt></ruby></span> - masuk kembali ke negara</li>
     <li><span class="ruby-word"><ruby>再生<rt>さいせい</rt></ruby></span> - memutar ulang</li>
     <li><span class="ruby-word"><ruby>再ダイヤル<rt>さいダイヤル</rt></ruby></span> - panggil ulang</li>
     <li><span class="ruby-word"><ruby>再来週<rt>さらいしゅう</rt></ruby></span> - dua minggu lagi</li>

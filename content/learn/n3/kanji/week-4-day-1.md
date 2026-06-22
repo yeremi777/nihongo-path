@@ -75,7 +75,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>油 berkaitan dengan minyak. Dalam しょう油, jangan terjemahkan per kanji; kata utuhnya berarti kecap asin.</p>
   <ul>
     <li><span class="ruby-word"><ruby>しょう油<rt>しょうゆ</rt></ruby></span> - kecap asin</li>
-    <li><span class="ruby-word"><ruby>灯油<rt>とうゆ</rt></ruby></span> - minyak, lemak</li>
+    <li><span class="ruby-word"><ruby>灯油<rt>とうゆ</rt></ruby></span> - minyak tanah</li>
     <li><span class="ruby-word"><ruby>石油<rt>せきゆ</rt></ruby></span> - minyak bumi</li>
     <li><span class="ruby-word"><ruby>油<rt>あぶら</rt></ruby></span> - minyak</li>
   </ul>
@@ -121,7 +121,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>冊 dipakai untuk menghitung buku atau benda berjilid. Cari angka di dekatnya untuk membaca jumlah.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>〜冊<rt>〜さつ</rt></ruby></span> - pola kata untuk satuan buku</li>
+    <li><span class="ruby-word"><ruby>〜冊<rt>〜さつ</rt></ruby></span> - ... jilid/buku</li>
     <li><span class="ruby-word"><ruby>冊数<rt>さっすう</rt></ruby></span> - jumlah buku</li>
     <li><span class="ruby-word"><ruby>一冊<rt>いちさつ</rt></ruby></span> - satuan buku</li>
   </ul>
@@ -137,10 +137,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>個 adalah satuan umum untuk benda. Pada daftar belanja, kanji ini sering muncul setelah angka.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>〜個<rt>〜こ</rt></ruby></span> - pola kata untuk satuan benda umum</li>
+    <li><span class="ruby-word"><ruby>〜個<rt>〜こ</rt></ruby></span> - ... buah/benda</li>
     <li><span class="ruby-word"><ruby>個人<rt>こじん</rt></ruby></span> - individu</li>
-    <li><span class="ruby-word"><ruby>個数<rt>こすう</rt></ruby></span> - satuan benda umum, individu</li>
-    <li><span class="ruby-word"><ruby>団体<rt>だんたい</rt></ruby></span> - satuan benda umum, individu</li>
+    <li><span class="ruby-word"><ruby>個数<rt>こすう</rt></ruby></span> - jumlah benda</li>
+    <li><span class="ruby-word"><ruby>団体<rt>だんたい</rt></ruby></span> - kelompok, organisasi</li>
   </ul>
 </details>
 
@@ -154,7 +154,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>枚 dipakai untuk benda tipis atau lembaran. Bedakan dari 個 dengan melihat bentuk barang yang dihitung.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>〜枚<rt>〜まい</rt></ruby></span> - pola kata untuk satuan benda tipis/lembaran</li>
+    <li><span class="ruby-word"><ruby>〜枚<rt>〜まい</rt></ruby></span> - ... lembar</li>
     <li><span class="ruby-word"><ruby>枚数<rt>まいすう</rt></ruby></span> - jumlah lembar</li>
   </ul>
 </details>

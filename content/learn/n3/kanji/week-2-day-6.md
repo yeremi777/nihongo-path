@@ -45,7 +45,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>困 dipakai ketika seseorang berada dalam masalah atau tidak tahu harus melakukan apa.</p>
   <ul>
     <li><span class="ruby-word"><ruby>困る<rt>こまる</rt></ruby></span> - kesulitan, bingung</li>
-    <li><span class="ruby-word"><ruby>困った時<rt>こまったとき</rt></ruby></span> - kesulitan, susah</li>
+    <li><span class="ruby-word"><ruby>困った時<rt>こまったとき</rt></ruby></span> - saat kesulitan</li>
   </ul>
 </details>
 
@@ -62,7 +62,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>消防<rt>しょうぼう</rt></ruby></span> - pemadam kebakaran</li>
     <li><span class="ruby-word"><ruby>消す<rt>けす</rt></ruby></span> - memadamkan, menghapus</li>
     <li><span class="ruby-word"><ruby>消える<rt>きえる</rt></ruby></span> - padam, hilang</li>
-    <li><span class="ruby-word"><ruby>消しゴム<rt>けしゴム</rt></ruby></span> - memadamkan, menghilang</li>
+    <li><span class="ruby-word"><ruby>消しゴム<rt>けしゴム</rt></ruby></span> - penghapus</li>
   </ul>
 </details>
 
@@ -139,7 +139,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>故 memberi rasa sebab atau kejadian tidak beres. Dalam 事故 dan 故障, maknanya berbeda menurut pasangan kanjinya.</p>
   <ul>
     <li><span class="ruby-word"><ruby>事故<rt>じこ</rt></ruby></span> - kecelakaan</li>
-    <li><span class="ruby-word"><ruby>故〇〇<rt>こ〇〇</rt></ruby></span> - pola kata untuk alasan</li>
+    <li><span class="ruby-word"><ruby>故〇〇<rt>こ〇〇</rt></ruby></span> - almarhum/almarhumah ...</li>
     <li><span class="ruby-word"><ruby>故障<rt>こしょう</rt></ruby></span> - kerusakan</li>
   </ul>
 </details>

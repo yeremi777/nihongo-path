@@ -45,7 +45,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>Dipakai untuk hal yang belum dimulai tetapi sedang disiapkan. Dalam 準備, fokusnya adalah kondisi sebelum layanan siap.</p>
   <ul>
     <li><span class="ruby-word"><ruby>準備<rt>じゅんび</rt></ruby></span> - persiapan</li>
-    <li><span class="ruby-word"><ruby>準備中<rt>じゅんびちゅう</rt></ruby></span> - mempersiapkan, standar</li>
+    <li><span class="ruby-word"><ruby>準備中<rt>じゅんびちゅう</rt></ruby></span> - sedang persiapan</li>
   </ul>
 </details>
 
@@ -61,7 +61,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>準備<rt>じゅんび</rt></ruby></span> - persiapan</li>
     <li><span class="ruby-word"><ruby>備える<rt>そなえる</rt></ruby></span> - bersiap, melengkapi</li>
-    <li><span class="ruby-word"><ruby>準備中<rt>じゅんびちゅう</rt></ruby></span> - mempersiapkan, melengkapi</li>
+    <li><span class="ruby-word"><ruby>準備中<rt>じゅんびちゅう</rt></ruby></span> - sedang persiapan</li>
   </ul>
 </details>
 
@@ -76,7 +76,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>営 muncul dalam kata layanan atau operasional. Untuk restoran, 営業 adalah kata penting pada papan jam buka.</p>
   <ul>
     <li><span class="ruby-word"><ruby>営業<rt>えいぎょう</rt></ruby></span> - operasi bisnis</li>
-    <li><span class="ruby-word"><ruby>営業時間<rt>えいぎょうじかん</rt></ruby></span> - mengelola, beroperasi</li>
+    <li><span class="ruby-word"><ruby>営業時間<rt>えいぎょうじかん</rt></ruby></span> - jam operasional</li>
   </ul>
 </details>
 
@@ -121,9 +121,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>内 menunjukkan bagian dalam atau batas suatu area. Di restoran, 店内 berarti area dalam toko.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>家内<rt>かない</rt></ruby></span> - dalam, di dalam</li>
+    <li><span class="ruby-word"><ruby>家内<rt>かない</rt></ruby></span> - istri saya</li>
     <li><span class="ruby-word"><ruby>内側<rt>うちがわ</rt></ruby></span> - sisi dalam</li>
-    <li><span class="ruby-word"><ruby>以内<rt>いない</rt></ruby></span> - dalam, di dalam</li>
+    <li><span class="ruby-word"><ruby>以内<rt>いない</rt></ruby></span> - dalam batas ...</li>
     <li><span class="ruby-word"><ruby>国内<rt>こくない</rt></ruby></span> - dalam negeri</li>
     <li><span class="ruby-word"><ruby>案内<rt>あんない</rt></ruby></span> - panduan, informasi</li>
   </ul>

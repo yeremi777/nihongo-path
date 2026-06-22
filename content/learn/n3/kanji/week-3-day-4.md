@@ -105,10 +105,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>袋 menunjuk kantong atau wadah. Pada resep/kemasan, sering berarti bungkus produk.</p>
   <ul>
     <li><span class="ruby-word"><ruby>袋<rt>ふくろ</rt></ruby></span> - kantong</li>
-    <li><span class="ruby-word"><ruby>ごみ袋<rt>ごみぶくろ</rt></ruby></span> - kantong, tas</li>
+    <li><span class="ruby-word"><ruby>ごみ袋<rt>ごみぶくろ</rt></ruby></span> - kantong sampah</li>
     <li><span class="ruby-word"><ruby>紙袋<rt>かみぶくろ</rt></ruby></span> - kantong kertas</li>
     <li><span class="ruby-word"><ruby>手袋<rt>てぶくろ</rt></ruby></span> - sarung tangan</li>
-    <li><span class="ruby-word"><ruby>足袋<rt>たび</rt></ruby></span> - kantong, tas</li>
+    <li><span class="ruby-word"><ruby>足袋<rt>たび</rt></ruby></span> - kaus kaki tabi</li>
   </ul>
 </details>
 
@@ -156,8 +156,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>表<rt>おもて</rt></ruby></span> - depan</li>
     <li><span class="ruby-word"><ruby>発表<rt>はっぴょう</rt></ruby></span> - presentasi, pengumuman</li>
     <li><span class="ruby-word"><ruby>表面<rt>ひょうめん</rt></ruby></span> - permukaan</li>
-    <li><span class="ruby-word"><ruby>代表<rt>だいひょう</rt></ruby></span> - permukaan, tabel</li>
-    <li><span class="ruby-word"><ruby>表す<rt>あらわす</rt></ruby></span> - permukaan, tabel</li>
+    <li><span class="ruby-word"><ruby>代表<rt>だいひょう</rt></ruby></span> - perwakilan</li>
+    <li><span class="ruby-word"><ruby>表す<rt>あらわす</rt></ruby></span> - menyatakan, menunjukkan</li>
   </ul>
 </details>
 

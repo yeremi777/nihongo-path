@@ -109,7 +109,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>値 berkaitan dengan harga atau nilai. Dalam 値段, kanji ini menunjuk harga barang.</p>
   <ul>
     <li><span class="ruby-word"><ruby>値段<rt>ねだん</rt></ruby></span> - harga</li>
-    <li><span class="ruby-word"><ruby>値上げ<rt>ねあげ</rt></ruby></span> - harga, nilai</li>
+    <li><span class="ruby-word"><ruby>値上げ<rt>ねあげ</rt></ruby></span> - kenaikan harga</li>
     <li><span class="ruby-word"><ruby>値下げ<rt>ねさげ</rt></ruby></span> - penurunan harga</li>
   </ul>
 </details>
@@ -141,8 +141,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>支店<rt>してん</rt></ruby></span> - cabang toko</li>
     <li><span class="ruby-word"><ruby>支社<rt>ししゃ</rt></ruby></span> - kantor cabang</li>
-    <li><span class="ruby-word"><ruby>本店<rt>ほんてん</rt></ruby></span> - cabang, mendukung</li>
-    <li><span class="ruby-word"><ruby>本社<rt>ほんしゃ</rt></ruby></span> - cabang, mendukung</li>
+    <li><span class="ruby-word"><ruby>本店<rt>ほんてん</rt></ruby></span> - toko pusat</li>
+    <li><span class="ruby-word"><ruby>本社<rt>ほんしゃ</rt></ruby></span> - kantor pusat</li>
     <li><span class="ruby-word"><ruby>支払い<rt>しはらい</rt></ruby></span> - pembayaran</li>
   </ul>
 </details>

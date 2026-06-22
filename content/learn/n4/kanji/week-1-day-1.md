@@ -59,9 +59,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>降 dipakai untuk turun dari kendaraan atau sesuatu yang turun dari langit.</p><ul>
-    <li><span class="ruby-word"><ruby>降る<rt>ふる</rt></ruby></span> - turun hujan/salju</li>
+    <li><span class="ruby-word"><ruby>降る<rt>ふる</rt></ruby></span> - turun (hujan/salju)</li>
     <li><span class="ruby-word"><ruby>降りる<rt>おりる</rt></ruby></span> - turun dari kendaraan/tempat</li>
-    <li><span class="ruby-word"><ruby>降車<rt>こうしゃ</rt></ruby></span> - turun, turun kendaraan</li>
+    <li><span class="ruby-word"><ruby>降車<rt>こうしゃ</rt></ruby></span> - turun dari kendaraan</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">

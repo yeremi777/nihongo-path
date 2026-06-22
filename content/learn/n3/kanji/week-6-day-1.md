@@ -75,7 +75,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>雲 menunjuk awan. Jika digabung dengan 雨, 雨雲 memberi petunjuk bahwa langit berawan hujan.</p>
   <ul>
     <li><span class="ruby-word"><ruby>雲<rt>くも</rt></ruby></span> - awan</li>
-    <li><span class="ruby-word"><ruby>雨雲<rt>あまぐも</rt></ruby></span> - awan, berawan</li>
+    <li><span class="ruby-word"><ruby>雨雲<rt>あまぐも</rt></ruby></span> - awan hujan</li>
   </ul>
 </details>
 
@@ -90,7 +90,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>吹 berkaitan dengan sesuatu yang bertiup. Pada cuaca, biasanya subjeknya angin; dalam 吹雪, maknanya menjadi badai salju.</p>
   <ul>
     <li><span class="ruby-word"><ruby>吹く<rt>ふく</rt></ruby></span> - bertiup</li>
-    <li><span class="ruby-word"><ruby>吹雪<rt>ふぶき</rt></ruby></span> - bertiup, meniup</li>
+    <li><span class="ruby-word"><ruby>吹雪<rt>ふぶき</rt></ruby></span> - badai salju</li>
   </ul>
 </details>
 
@@ -120,7 +120,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>雪 berarti salju. Dalam 大雪, kanji 大 menambah makna salju lebat, jadi cocok untuk peringatan cuaca buruk.</p>
   <ul>
     <li><span class="ruby-word"><ruby>雪<rt>ゆき</rt></ruby></span> - salju</li>
-    <li><span class="ruby-word"><ruby>吹雪<rt>ふぶき</rt></ruby></span> - salju</li>
+    <li><span class="ruby-word"><ruby>吹雪<rt>ふぶき</rt></ruby></span> - badai salju</li>
     <li><span class="ruby-word"><ruby>大雪<rt>おおゆき</rt></ruby></span> - salju</li>
   </ul>
 </details>
@@ -150,7 +150,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>波 berarti ombak atau gelombang. Dalam 津波, bacalah sebagai satu kata khusus untuk tsunami, bukan ombak biasa.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>電波<rt>でんぱ</rt></ruby></span> - gelombang, ombak</li>
+    <li><span class="ruby-word"><ruby>電波<rt>でんぱ</rt></ruby></span> - gelombang radio/sinyal</li>
     <li><span class="ruby-word"><ruby>波<rt>なみ</rt></ruby></span> - ombak</li>
     <li><span class="ruby-word"><ruby>津波<rt>つなみ</rt></ruby></span> - tsunami</li>
   </ul>

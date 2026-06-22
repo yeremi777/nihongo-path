@@ -61,7 +61,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>取る<rt>とる</rt></ruby></span> - mengambil</li>
     <li><span class="ruby-word"><ruby>受け取る<rt>うけとる</rt></ruby></span> - menerima</li>
-    <li><span class="ruby-word"><ruby>受取人<rt>うけとりじん</rt></ruby></span> - mengambil, mendapatkan</li>
+    <li><span class="ruby-word"><ruby>受取人<rt>うけとりじん</rt></ruby></span> - penerima</li>
   </ul>
 </details>
 
@@ -107,7 +107,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>参加<rt>さんか</rt></ruby></span> - ikut serta</li>
     <li><span class="ruby-word"><ruby>参考書<rt>さんこうしょ</rt></ruby></span> - buku referensi</li>
-    <li><span class="ruby-word"><ruby>参る<rt>まいる</rt></ruby></span> - berpartisipasi, datang/pergi (rendah hati)</li>
+    <li><span class="ruby-word"><ruby>参る<rt>まいる</rt></ruby></span> - datang/pergi (rendah hati)</li>
   </ul>
 </details>
 
@@ -123,7 +123,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>上達<rt>じょうたつ</rt></ruby></span> - kemajuan</li>
     <li><span class="ruby-word"><ruby>速達<rt>そくたつ</rt></ruby></span> - kiriman ekspres</li>
-    <li><span class="ruby-word"><ruby>友達<rt>ともだち</rt></ruby></span> - mencapai, teman</li>
+    <li><span class="ruby-word"><ruby>友達<rt>ともだち</rt></ruby></span> - teman</li>
   </ul>
 </details>
 

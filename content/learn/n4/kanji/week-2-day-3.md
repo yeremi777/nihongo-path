@@ -147,7 +147,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>寝 menunjuk tidur, tempat tidur, dan rutinitas istirahat di rumah.</p><ul>
     <li><span class="ruby-word"><ruby>寝る<rt>ねる</rt></ruby></span> - tidur</li>
-    <li><span class="ruby-word"><ruby>寝坊<rt>ねぼう</rt></ruby></span> - tidur, berbaring</li>
+    <li><span class="ruby-word"><ruby>寝坊<rt>ねぼう</rt></ruby></span> - bangun kesiangan</li>
     <li><span class="ruby-word"><ruby>寝室<rt>しんしつ</rt></ruby></span> - kamar tidur</li>
   </ul></details>
 

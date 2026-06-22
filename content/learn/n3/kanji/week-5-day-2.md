@@ -45,9 +45,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>調 dipakai untuk meneliti atau mengecek keadaan. Dalam kuesioner, 調査 menunjuk survei, sedangkan 調子 menunjuk kondisi seseorang atau benda.</p>
   <ul>
     <li><span class="ruby-word"><ruby>調子<rt>ちょうし</rt></ruby></span> - kondisi</li>
-    <li><span class="ruby-word"><ruby>調べる<rt>しらべる</rt></ruby></span> - menyelidiki, kondisi</li>
+    <li><span class="ruby-word"><ruby>調べる<rt>しらべる</rt></ruby></span> - memeriksa, mencari tahu</li>
     <li><span class="ruby-word"><ruby>調査<rt>ちょうさ</rt></ruby></span> - survei</li>
-    <li><span class="ruby-word"><ruby>強調<rt>きょうちょう</rt></ruby></span> - menyelidiki, kondisi</li>
+    <li><span class="ruby-word"><ruby>強調<rt>きょうちょう</rt></ruby></span> - penekanan</li>
   </ul>
 </details>
 

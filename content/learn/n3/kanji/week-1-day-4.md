@@ -45,9 +45,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>線 adalah kanji inti untuk membaca nama jalur dan nomor peron. Di stasiun, cari kanji ini sebelum mengecek tujuan.</p>
   <ul>
     <li><span class="ruby-word"><ruby>線<rt>せん</rt></ruby></span> - garis, jalur</li>
-    <li><span class="ruby-word"><ruby>〜番線<rt>〜ばんせん</rt></ruby></span> - pola kata untuk garis</li>
-    <li><span class="ruby-word"><ruby>山手線<rt>やまてせん</rt></ruby></span> - garis, jalur</li>
-    <li><span class="ruby-word"><ruby>三番線<rt>さんばんせん</rt></ruby></span> - garis, jalur</li>
+    <li><span class="ruby-word"><ruby>〜番線<rt>〜ばんせん</rt></ruby></span> - jalur/peron nomor ...</li>
+    <li><span class="ruby-word"><ruby>山手線<rt>やまてせん</rt></ruby></span> - Jalur Yamanote</li>
+    <li><span class="ruby-word"><ruby>三番線<rt>さんばんせん</rt></ruby></span> - jalur/peron nomor 3</li>
   </ul>
 </details>
 
@@ -61,7 +61,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>面 membantu membaca arah tujuan dalam 方面. Kata ini memberi tahu sisi atau arah perjalanan, bukan jenis kereta.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>全面<rt>ぜんめん</rt></ruby></span> - wajah, permukaan</li>
+    <li><span class="ruby-word"><ruby>全面<rt>ぜんめん</rt></ruby></span> - seluruh permukaan</li>
     <li><span class="ruby-word"><ruby>〇〇方面<rt>ほうめん</rt></ruby></span> - arah tujuan</li>
     <li><span class="ruby-word"><ruby>画面<rt>がめん</rt></ruby></span> - layar</li>
     <li><span class="ruby-word"><ruby>方面<rt>ほうめん</rt></ruby></span> - arah tujuan</li>
@@ -93,10 +93,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>各 memberi rasa “setiap”. Dalam 各駅停車, ini adalah petunjuk kuat bahwa kereta berhenti di semua stasiun.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>各駅<rt>かくえき</rt></ruby></span> - masing-masing, setiap</li>
+    <li><span class="ruby-word"><ruby>各駅<rt>かくえき</rt></ruby></span> - setiap stasiun</li>
     <li><span class="ruby-word"><ruby>各自<rt>かくじ</rt></ruby></span> - masing-masing orang</li>
-    <li><span class="ruby-word"><ruby>各国<rt>かっこく</rt></ruby></span> - masing-masing, setiap</li>
-    <li><span class="ruby-word"><ruby>各駅停車<rt>かくえきていしゃ</rt></ruby></span> - masing-masing, setiap</li>
+    <li><span class="ruby-word"><ruby>各国<rt>かっこく</rt></ruby></span> - berbagai negara</li>
+    <li><span class="ruby-word"><ruby>各駅停車<rt>かくえきていしゃ</rt></ruby></span> - kereta lokal yang berhenti di setiap stasiun</li>
   </ul>
 </details>
 
@@ -110,7 +110,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>次 membantu membaca informasi “berikutnya” pada papan elektronik atau pengumuman kereta.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>目次<rt>もくじ</rt></ruby></span> - berikutnya, selanjutnya</li>
+    <li><span class="ruby-word"><ruby>目次<rt>もくじ</rt></ruby></span> - daftar isi</li>
     <li><span class="ruby-word"><ruby>次<rt>つぎ</rt></ruby></span> - selanjutnya</li>
     <li><span class="ruby-word"><ruby>次回<rt>じかい</rt></ruby></span> - kesempatan berikutnya</li>
   </ul>
@@ -140,7 +140,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>速 menyatakan kecepatan. Dalam 快速, kanji ini membantu menandai layanan yang lebih cepat dari kereta biasa.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>高速道路<rt>こうそくどうろ</rt></ruby></span> - cepat, kecepatan</li>
+    <li><span class="ruby-word"><ruby>高速道路<rt>こうそくどうろ</rt></ruby></span> - jalan tol</li>
     <li><span class="ruby-word"><ruby>速い<rt>はやい</rt></ruby></span> - cepat</li>
     <li><span class="ruby-word"><ruby>速度<rt>そくど</rt></ruby></span> - kecepatan</li>
     <li><span class="ruby-word"><ruby>快速<rt>かいそく</rt></ruby></span> - kereta cepat</li>
@@ -159,7 +159,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>通過<rt>つうか</rt></ruby></span> - lewat tanpa berhenti</li>
     <li><span class="ruby-word"><ruby>過ぎる<rt>すぎる</rt></ruby></span> - terlalu / melewati</li>
-    <li><span class="ruby-word"><ruby>過去<rt>かこ</rt></ruby></span> - melewati, melampaui</li>
+    <li><span class="ruby-word"><ruby>過去<rt>かこ</rt></ruby></span> - masa lalu</li>
   </ul>
 </details>
 

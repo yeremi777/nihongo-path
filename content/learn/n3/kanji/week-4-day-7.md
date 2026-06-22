@@ -61,8 +61,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>戸<rt>と</rt></ruby></span> - pintu</li>
     <li><span class="ruby-word"><ruby>雨戸<rt>あまど</rt></ruby></span> - penutup jendela</li>
-    <li><span class="ruby-word"><ruby>戸だな<rt>とだな</rt></ruby></span> - pintu, rumah tangga</li>
-    <li><span class="ruby-word"><ruby>戸棚<rt>とだな</rt></ruby></span> - pintu, rumah tangga</li>
+    <li><span class="ruby-word"><ruby>戸だな<rt>とだな</rt></ruby></span> - lemari</li>
+    <li><span class="ruby-word"><ruby>戸棚<rt>とだな</rt></ruby></span> - lemari</li>
   </ul>
 </details>
 
@@ -93,7 +93,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>風船<rt>ふうせん</rt></ruby></span> - balon</li>
     <li><span class="ruby-word"><ruby>船<rt>ふね</rt></ruby></span> - kapal</li>
-    <li><span class="ruby-word"><ruby>船長<rt>せんちょう</rt></ruby></span> - kapal, perahu</li>
+    <li><span class="ruby-word"><ruby>船長<rt>せんちょう</rt></ruby></span> - kapten kapal</li>
     <li><span class="ruby-word"><ruby>船便<rt>ふなびん</rt></ruby></span> - pos kapal</li>
   </ul>
 </details>

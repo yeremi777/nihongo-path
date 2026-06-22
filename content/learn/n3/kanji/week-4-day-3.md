@@ -60,7 +60,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>級 menandai kelas atau tingkat. Dalam 高級, kanji ini menunjukkan barang kelas tinggi atau premium.</p>
   <ul>
     <li><span class="ruby-word"><ruby>高級<rt>こうきゅう</rt></ruby></span> - kelas tinggi</li>
-    <li><span class="ruby-word"><ruby>上級<rt>じょうきゅう</rt></ruby></span> - kelas, tingkatan</li>
+    <li><span class="ruby-word"><ruby>上級<rt>じょうきゅう</rt></ruby></span> - tingkat lanjut</li>
     <li><span class="ruby-word"><ruby>中級<rt>ちゅうきゅう</rt></ruby></span> - tingkat menengah</li>
   </ul>
 </details>
@@ -77,8 +77,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>残業<rt>ざんぎょう</rt></ruby></span> - lembur</li>
     <li><span class="ruby-word"><ruby>残り<rt>のこり</rt></ruby></span> - sisa</li>
-    <li><span class="ruby-word"><ruby>残る<rt>のこる</rt></ruby></span> - sisa, tersisa</li>
-    <li><span class="ruby-word"><ruby>残す<rt>のこす</rt></ruby></span> - sisa, tersisa</li>
+    <li><span class="ruby-word"><ruby>残る<rt>のこる</rt></ruby></span> - tersisa</li>
+    <li><span class="ruby-word"><ruby>残す<rt>のこす</rt></ruby></span> - menyisakan</li>
   </ul>
 </details>
 
@@ -92,7 +92,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>型 menunjuk tipe, model, atau ukuran. 新型 dan 小型 sering dipakai pada deskripsi produk.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>大型<rt>おおがた</rt></ruby></span> - tipe, model</li>
+    <li><span class="ruby-word"><ruby>大型<rt>おおがた</rt></ruby></span> - ukuran besar</li>
     <li><span class="ruby-word"><ruby>新型<rt>しんがた</rt></ruby></span> - model baru</li>
     <li><span class="ruby-word"><ruby>小型<rt>こがた</rt></ruby></span> - ukuran kecil</li>
   </ul>
@@ -125,7 +125,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>込 memberi rasa masuk atau termasuk. 税込 berarti pajak sudah termasuk di harga yang ditampilkan.</p>
   <ul>
     <li><span class="ruby-word"><ruby>込む<rt>こむ</rt></ruby></span> - penuh sesak</li>
-    <li><span class="ruby-word"><ruby>振り込む<rt>ふりこむ</rt></ruby></span> - penuh sesak, termasuk</li>
+    <li><span class="ruby-word"><ruby>振り込む<rt>ふりこむ</rt></ruby></span> - mentransfer uang</li>
     <li><span class="ruby-word"><ruby>税込<rt>ぜいこみ</rt></ruby></span> - termasuk pajak</li>
   </ul>
 </details>

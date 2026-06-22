@@ -46,9 +46,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>非常の<rt>ひじょう</rt></ruby></span> - darurat</li>
     <li><span class="ruby-word"><ruby>非常口<rt>ひじょうぐち</rt></ruby></span> - pintu darurat</li>
-    <li><span class="ruby-word"><ruby>非常に<rt>ひじょうに</rt></ruby></span> - bukan, tidak</li>
+    <li><span class="ruby-word"><ruby>非常に<rt>ひじょうに</rt></ruby></span> - sangat</li>
     <li><span class="ruby-word"><ruby>非常<rt>ひじょう</rt></ruby></span> - darurat</li>
-    <li><span class="ruby-word"><ruby>非常階段<rt>ひじょうかいだん</rt></ruby></span> - bukan, tidak</li>
+    <li><span class="ruby-word"><ruby>非常階段<rt>ひじょうかいだん</rt></ruby></span> - tangga darurat</li>
   </ul>
 </details>
 
@@ -63,7 +63,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>常 berarti keadaan biasa atau normal. Ketika digabung dengan 非, maknanya berubah menjadi keadaan darurat.</p>
   <ul>
     <li><span class="ruby-word"><ruby>日常の<rt>にちじょう</rt></ruby></span> - keseharian</li>
-    <li><span class="ruby-word"><ruby>正常な<rt>せいじょうな</rt></ruby></span> - normal, selalu</li>
+    <li><span class="ruby-word"><ruby>正常な<rt>せいじょうな</rt></ruby></span> - normal</li>
     <li><span class="ruby-word"><ruby>非常口<rt>ひじょうぐち</rt></ruby></span> - pintu darurat</li>
     <li><span class="ruby-word"><ruby>非常<rt>ひじょう</rt></ruby></span> - darurat</li>
   </ul>
@@ -79,9 +79,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>階 membantu membaca tingkat bangunan. Di gedung atau stasiun, kanji ini sering menunjuk lantai atau tangga.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>〜階<rt>〜かい</rt></ruby></span> - pola kata untuk lantai</li>
+    <li><span class="ruby-word"><ruby>〜階<rt>〜かい</rt></ruby></span> - lantai ...</li>
     <li><span class="ruby-word"><ruby>階段<rt>かいだん</rt></ruby></span> - tangga</li>
-    <li><span class="ruby-word"><ruby>一階<rt>いちかい</rt></ruby></span> - lantai, tingkat</li>
+    <li><span class="ruby-word"><ruby>一階<rt>いちかい</rt></ruby></span> - lantai satu</li>
   </ul>
 </details>
 
@@ -96,8 +96,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>段 memberi rasa tingkatan atau anak tangga. Pada peringatan, kanji ini sering muncul ketika ada beda tinggi lantai.</p>
   <ul>
     <li><span class="ruby-word"><ruby>階段<rt>かいだん</rt></ruby></span> - tangga</li>
-    <li><span class="ruby-word"><ruby>段差<rt>だんさ</rt></ruby></span> - langkah, tingkatan</li>
-    <li><span class="ruby-word"><ruby>非常階段<rt>ひじょうかいだん</rt></ruby></span> - langkah, tingkatan</li>
+    <li><span class="ruby-word"><ruby>段差<rt>だんさ</rt></ruby></span> - perbedaan ketinggian</li>
+    <li><span class="ruby-word"><ruby>非常階段<rt>ひじょうかいだん</rt></ruby></span> - tangga darurat</li>
   </ul>
 </details>
 

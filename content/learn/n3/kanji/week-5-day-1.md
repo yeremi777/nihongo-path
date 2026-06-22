@@ -92,7 +92,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>失礼(な)<rt>しつれい</rt></ruby></span> - tidak sopan</li>
     <li><span class="ruby-word"><ruby>失敗<rt>しっぱい</rt></ruby></span> - gagal</li>
-    <li><span class="ruby-word"><ruby>失礼する<rt>しつれいする</rt></ruby></span> - kehilangan, gagal</li>
+    <li><span class="ruby-word"><ruby>失礼する<rt>しつれいする</rt></ruby></span> - permisi, bersikap tidak sopan</li>
     <li><span class="ruby-word"><ruby>失礼<rt>しつれい</rt></ruby></span> - tidak sopan</li>
   </ul>
 </details>

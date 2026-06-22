@@ -46,7 +46,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>観光<rt>かんこう</rt></ruby></span> - wisata</li>
     <li><span class="ruby-word"><ruby>観客<rt>かんきゃく</rt></ruby></span> - penonton</li>
-    <li><span class="ruby-word"><ruby>観光地図<rt>かんこうちず</rt></ruby></span> - melihat, mengamati</li>
+    <li><span class="ruby-word"><ruby>観光地図<rt>かんこうちず</rt></ruby></span> - peta wisata</li>
   </ul>
 </details>
 
@@ -79,7 +79,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>空港<rt>くうこう</rt></ruby></span> - bandara</li>
     <li><span class="ruby-word"><ruby>港<rt>みなと</rt></ruby></span> - pelabuhan</li>
     <li><span class="ruby-word"><ruby>〇〇港<rt>みなと</rt></ruby></span> - pelabuhan</li>
-    <li><span class="ruby-word"><ruby>神戸港<rt>こうべこう</rt></ruby></span> - pelabuhan</li>
+    <li><span class="ruby-word"><ruby>神戸港<rt>こうべこう</rt></ruby></span> - Pelabuhan Kobe</li>
   </ul>
 </details>
 
@@ -145,7 +145,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>神社<rt>じんじゃ</rt></ruby></span> - kuil Shinto</li>
     <li><span class="ruby-word"><ruby>神様<rt>かみさま</rt></ruby></span> - dewa</li>
     <li><span class="ruby-word"><ruby>神経質な<rt>しんけいしつ</rt></ruby></span> - sensitif, mudah tegang</li>
-    <li><span class="ruby-word"><ruby>神戸港<rt>こうべこう</rt></ruby></span> - dewa, roh</li>
+    <li><span class="ruby-word"><ruby>神戸港<rt>こうべこう</rt></ruby></span> - Pelabuhan Kobe</li>
   </ul>
 </details>
 
@@ -159,7 +159,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>寺 menunjuk kuil Buddha atau vihara. Pada nama tempat, sering ditempel di akhir nama.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>〇〇寺<rt>〇〇てら</rt></ruby></span> - pola kata untuk kuil</li>
+    <li><span class="ruby-word"><ruby>〇〇寺<rt>〇〇てら</rt></ruby></span> - Kuil ...</li>
     <li><span class="ruby-word"><ruby>お寺<rt>おてら</rt></ruby></span> - kuil Buddha</li>
   </ul>
 </details>

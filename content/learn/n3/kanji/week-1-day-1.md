@@ -64,7 +64,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>無 memberi rasa “tanpa/tidak ada”. Pada papan umum, kanji ini sering menjelaskan biaya, izin, atau hari libur.</p>
   <ul>
     <li><span class="ruby-word"><ruby>無休<rt>むきゅう</rt></ruby></span> - tanpa hari libur</li>
-    <li><span class="ruby-word"><ruby>無理な<rt>むりな</rt></ruby></span> - tidak ada, tanpa</li>
+    <li><span class="ruby-word"><ruby>無理な<rt>むりな</rt></ruby></span> - tidak masuk akal, sulit dipaksakan</li>
     <li><span class="ruby-word"><ruby>無料<rt>むりょう</rt></ruby></span> - gratis</li>
     <li><span class="ruby-word"><ruby>無い<rt>ない</rt></ruby></span> - tidak ada</li>
     <li><span class="ruby-word"><ruby>無断<rt>むだん</rt></ruby></span> - tanpa izin</li>
@@ -100,7 +100,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>方向<rt>ほうこう</rt></ruby></span> - arah</li>
     <li><span class="ruby-word"><ruby>向かう<rt>むかう</rt></ruby></span> - menuju</li>
     <li><span class="ruby-word"><ruby>向こう<rt>むこう</rt></ruby></span> - sebelah sana</li>
-    <li><span class="ruby-word"><ruby>〇〇向き<rt>〇〇むき</rt></ruby></span> - pola kata untuk arah</li>
+    <li><span class="ruby-word"><ruby>〇〇向き<rt>〇〇むき</rt></ruby></span> - cocok untuk ..., menghadap ...</li>
   </ul>
 </details>
 

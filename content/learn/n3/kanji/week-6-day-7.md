@@ -139,7 +139,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>情報<rt>じょうほう</rt></ruby></span> - informasi</li>
     <li><span class="ruby-word"><ruby>表情<rt>ひょうじょう</rt></ruby></span> - ekspresi wajah</li>
-    <li><span class="ruby-word"><ruby>事情<rt>じじょう</rt></ruby></span> - perasaan, emosi</li>
+    <li><span class="ruby-word"><ruby>事情<rt>じじょう</rt></ruby></span> - keadaan, alasan</li>
     <li><span class="ruby-word"><ruby>感情<rt>かんじょう</rt></ruby></span> - perasaan</li>
   </ul>
 </details>
@@ -155,7 +155,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>反 menandai lawan, penentangan, atau reaksi. Sering muncul dalam diskusi pendapat dan berita.</p>
   <ul>
     <li><span class="ruby-word"><ruby>反対<rt>はんたい</rt></ruby></span> - berlawanan</li>
-    <li><span class="ruby-word"><ruby>反応<rt>はんのう</rt></ruby></span> - anti-, berlawanan</li>
+    <li><span class="ruby-word"><ruby>反応<rt>はんのう</rt></ruby></span> - reaksi</li>
   </ul>
 </details>
 </div>

@@ -47,8 +47,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>費用<rt>ひよう</rt></ruby></span> - biaya</li>
     <li><span class="ruby-word"><ruby>旅費<rt>りょひ</rt></ruby></span> - biaya perjalanan</li>
     <li><span class="ruby-word"><ruby>消費者<rt>しょうひしゃ</rt></ruby></span> - konsumen</li>
-    <li><span class="ruby-word"><ruby>会費<rt>かいひ</rt></ruby></span> - biaya, pengeluaran</li>
-    <li><span class="ruby-word"><ruby>消費期限<rt>しょうひきげん</rt></ruby></span> - biaya, pengeluaran</li>
+    <li><span class="ruby-word"><ruby>会費<rt>かいひ</rt></ruby></span> - iuran anggota</li>
+    <li><span class="ruby-word"><ruby>消費期限<rt>しょうひきげん</rt></ruby></span> - batas konsumsi</li>
   </ul>
 </details>
 
@@ -65,7 +65,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>期間<rt>きかん</rt></ruby></span> - periode</li>
     <li><span class="ruby-word"><ruby>長期<rt>ちょうき</rt></ruby></span> - jangka panjang</li>
     <li><span class="ruby-word"><ruby>定期券<rt>ていきけん</rt></ruby></span> - tiket langganan</li>
-    <li><span class="ruby-word"><ruby>短期<rt>たんき</rt></ruby></span> - periode, jangka waktu</li>
+    <li><span class="ruby-word"><ruby>短期<rt>たんき</rt></ruby></span> - jangka pendek</li>
     <li><span class="ruby-word"><ruby>期限<rt>きげん</rt></ruby></span> - batas waktu</li>
   </ul>
 </details>
@@ -82,7 +82,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>期限<rt>きげん</rt></ruby></span> - batas waktu</li>
     <li><span class="ruby-word"><ruby>限る<rt>かぎる</rt></ruby></span> - membatasi</li>
-    <li><span class="ruby-word"><ruby>限度<rt>げんど</rt></ruby></span> - batas, membatasi</li>
+    <li><span class="ruby-word"><ruby>限度<rt>げんど</rt></ruby></span> - batas maksimal</li>
     <li><span class="ruby-word"><ruby>限定<rt>げんてい</rt></ruby></span> - terbatas</li>
     <li><span class="ruby-word"><ruby>賞味期限<rt>しょうみきげん</rt></ruby></span> - tanggal terbaik dikonsumsi</li>
   </ul>
@@ -98,7 +98,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>製 menandai barang yang dibuat atau hasil produksi.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>〇〇製<rt>〇〇せい</rt></ruby></span> - pola kata untuk pembuatan</li>
+    <li><span class="ruby-word"><ruby>〇〇製<rt>〇〇せい</rt></ruby></span> - buatan ...</li>
     <li><span class="ruby-word"><ruby>製品<rt>せいひん</rt></ruby></span> - produk</li>
     <li><span class="ruby-word"><ruby>製造<rt>せいぞう</rt></ruby></span> - produksi</li>
   </ul>
@@ -163,7 +163,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>温度<rt>おんど</rt></ruby></span> - suhu</li>
     <li><span class="ruby-word"><ruby>温かい<rt>あたたかい</rt></ruby></span> - hangat</li>
-    <li><span class="ruby-word"><ruby>気温<rt>きおん</rt></ruby></span> - hangat, suhu</li>
+    <li><span class="ruby-word"><ruby>気温<rt>きおん</rt></ruby></span> - suhu udara</li>
     <li><span class="ruby-word"><ruby>常温<rt>じょうおん</rt></ruby></span> - suhu ruang</li>
   </ul>
 </details>

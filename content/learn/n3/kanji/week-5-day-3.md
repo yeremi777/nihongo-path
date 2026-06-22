@@ -45,7 +45,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>練 muncul pada kegiatan berlatih. Di kelas, kata 練習 biasanya menandai latihan yang perlu dikerjakan, bukan sekadar teori.</p>
   <ul>
     <li><span class="ruby-word"><ruby>練習<rt>れんしゅう</rt></ruby></span> - latihan</li>
-    <li><span class="ruby-word"><ruby>練る<rt>ねる</rt></ruby></span> - berlatih, melatih</li>
+    <li><span class="ruby-word"><ruby>練る<rt>ねる</rt></ruby></span> - menyusun matang, melatih</li>
   </ul>
 </details>
 
@@ -61,8 +61,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>最近<rt>さいきん</rt></ruby></span> - akhir-akhir ini</li>
     <li><span class="ruby-word"><ruby>最初<rt>さいしょ</rt></ruby></span> - awal</li>
-    <li><span class="ruby-word"><ruby>最後<rt>さいご</rt></ruby></span> - paling, terbaru</li>
-    <li><span class="ruby-word"><ruby>最も<rt>もっとも</rt></ruby></span> - paling, terbaru</li>
+    <li><span class="ruby-word"><ruby>最後<rt>さいご</rt></ruby></span> - akhir, terakhir</li>
+    <li><span class="ruby-word"><ruby>最も<rt>もっとも</rt></ruby></span> - paling</li>
   </ul>
 </details>
 
@@ -93,7 +93,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>選 berhubungan dengan memilih. Kanji ini sering muncul dalam instruksi soal yang meminta kamu menentukan satu jawaban.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>選挙<rt>せんきょ</rt></ruby></span> - memilih, menyeleksi</li>
+    <li><span class="ruby-word"><ruby>選挙<rt>せんきょ</rt></ruby></span> - pemilu</li>
     <li><span class="ruby-word"><ruby>選手<rt>せんしゅ</rt></ruby></span> - atlet</li>
     <li><span class="ruby-word"><ruby>選ぶ<rt>えらぶ</rt></ruby></span> - memilih</li>
   </ul>
@@ -111,8 +111,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>違う<rt>ちがう</rt></ruby></span> - berbeda/salah</li>
     <li><span class="ruby-word"><ruby>間違い<rt>まちがい</rt></ruby></span> - kesalahan</li>
-    <li><span class="ruby-word"><ruby>間違う<rt>まちがう</rt></ruby></span> - berbeda, salah</li>
-    <li><span class="ruby-word"><ruby>間違える<rt>まちがえる</rt></ruby></span> - berbeda, salah</li>
+    <li><span class="ruby-word"><ruby>間違う<rt>まちがう</rt></ruby></span> - salah, keliru</li>
+    <li><span class="ruby-word"><ruby>間違える<rt>まちがえる</rt></ruby></span> - salah, keliru</li>
   </ul>
 </details>
 
@@ -126,9 +126,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>直 bisa berarti langsung atau memperbaiki. Dalam tugas belajar, 直す biasanya berarti membetulkan jawaban yang salah.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>直線<rt>ちょくせん</rt></ruby></span> - lurus, langsung</li>
+    <li><span class="ruby-word"><ruby>直線<rt>ちょくせん</rt></ruby></span> - garis lurus</li>
     <li><span class="ruby-word"><ruby>直接<rt>ちょくせつ</rt></ruby></span> - langsung</li>
-    <li><span class="ruby-word"><ruby>直る<rt>なおる</rt></ruby></span> - lurus, langsung</li>
+    <li><span class="ruby-word"><ruby>直る<rt>なおる</rt></ruby></span> - menjadi baik, terperbaiki</li>
     <li><span class="ruby-word"><ruby>直す<rt>なおす</rt></ruby></span> - memperbaiki</li>
   </ul>
 </details>

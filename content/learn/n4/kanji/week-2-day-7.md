@@ -58,7 +58,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
 <p>押 sering muncul pada tombol atau instruksi untuk mendorong/menekan.</p><ul>
     <li><span class="ruby-word"><ruby>押す<rt>おす</rt></ruby></span> - menekan</li>
-    <li><span class="ruby-word"><ruby>押し入れ<rt>おしいれ</rt></ruby></span> - mendorong, menahan</li>
+    <li><span class="ruby-word"><ruby>押し入れ<rt>おしいれ</rt></ruby></span> - lemari penyimpanan</li>
     <li><span class="ruby-word"><ruby>押入れ<rt>おしいれ</rt></ruby></span> - lemari dinding</li>
   </ul></details>
 

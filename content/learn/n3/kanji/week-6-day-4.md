@@ -45,7 +45,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>戦 sering muncul dalam latar sejarah atau persaingan. Dalam 戦後, bacalah sebagai penanda waktu setelah perang.</p>
   <ul>
     <li><span class="ruby-word"><ruby>戦後<rt>せんご</rt></ruby></span> - setelah perang</li>
-    <li><span class="ruby-word"><ruby>戦争<rt>せんそう</rt></ruby></span> - berperang, pertempuran</li>
+    <li><span class="ruby-word"><ruby>戦争<rt>せんそう</rt></ruby></span> - perang</li>
     <li><span class="ruby-word"><ruby>戦う<rt>たたかう</rt></ruby></span> - bertarung</li>
   </ul>
 </details>
@@ -61,7 +61,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>経 muncul pada kata ekonomi dan pengalaman. Dalam 経済, kanji ini menjadi bagian tetap dari kata “ekonomi”.</p>
   <ul>
     <li><span class="ruby-word"><ruby>経験<rt>けいけん</rt></ruby></span> - pengalaman</li>
-    <li><span class="ruby-word"><ruby>経営<rt>けいえい</rt></ruby></span> - melewati, mengelola</li>
+    <li><span class="ruby-word"><ruby>経営<rt>けいえい</rt></ruby></span> - manajemen, mengelola usaha</li>
     <li><span class="ruby-word"><ruby>経済<rt>けいざい</rt></ruby></span> - ekonomi</li>
   </ul>
 </details>
@@ -107,7 +107,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>貿 hampir selalu muncul bersama 易 dalam 貿易. Anggap pasangan ini sebagai satu kata untuk perdagangan internasional.</p>
   <ul>
     <li><span class="ruby-word"><ruby>貿易<rt>ぼうえき</rt></ruby></span> - perdagangan internasional</li>
-    <li><span class="ruby-word"><ruby>貿易会社<rt>ぼうえきかいしゃ</rt></ruby></span> - perdagangan, niaga</li>
+    <li><span class="ruby-word"><ruby>貿易会社<rt>ぼうえきかいしゃ</rt></ruby></span> - perusahaan perdagangan internasional</li>
   </ul>
 </details>
 
@@ -123,7 +123,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>貿易<rt>ぼうえき</rt></ruby></span> - perdagangan internasional</li>
     <li><span class="ruby-word"><ruby>易しい<rt>やさしい</rt></ruby></span> - mudah</li>
-    <li><span class="ruby-word"><ruby>貿易会社<rt>ぼうえきかいしゃ</rt></ruby></span> - mudah, perdagangan</li>
+    <li><span class="ruby-word"><ruby>貿易会社<rt>ぼうえきかいしゃ</rt></ruby></span> - perusahaan perdagangan internasional</li>
   </ul>
 </details>
 
@@ -139,7 +139,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>輸出<rt>ゆしゅつ</rt></ruby></span> - ekspor</li>
     <li><span class="ruby-word"><ruby>輸入<rt>ゆにゅう</rt></ruby></span> - impor</li>
-    <li><span class="ruby-word"><ruby>輸送<rt>ゆそう</rt></ruby></span> - mengangkut, mengekspor</li>
+    <li><span class="ruby-word"><ruby>輸送<rt>ゆそう</rt></ruby></span> - pengangkutan, transportasi barang</li>
   </ul>
 </details>
 
@@ -155,7 +155,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>相談<rt>そうだん</rt></ruby></span> - konsultasi</li>
     <li><span class="ruby-word"><ruby>首相<rt>しゅしょう</rt></ruby></span> - perdana menteri</li>
-    <li><span class="ruby-word"><ruby>相手<rt>あいて</rt></ruby></span> - saling, penampilan</li>
+    <li><span class="ruby-word"><ruby>相手<rt>あいて</rt></ruby></span> - lawan bicara, pihak lain</li>
   </ul>
 </details>
 </div>

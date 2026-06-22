@@ -125,7 +125,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>点 menandai titik atau poin. Dalam 交差点, artinya titik pertemuan jalan.</p>
   <ul>
     <li><span class="ruby-word"><ruby>交差点<rt>こうさてん</rt></ruby></span> - persimpangan</li>
-    <li><span class="ruby-word"><ruby>〜点<rt>〜てん</rt></ruby></span> - pola kata untuk poin</li>
+    <li><span class="ruby-word"><ruby>〜点<rt>〜てん</rt></ruby></span> - ... poin/nilai</li>
     <li><span class="ruby-word"><ruby>点数<rt>てんすう</rt></ruby></span> - nilai angka</li>
   </ul>
 </details>

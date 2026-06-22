@@ -74,7 +74,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>券 adalah kanji tiket. Saat naik transportasi, kanji ini biasanya berarti bukti naik, kupon, atau nomor tarif.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>駐車券<rt>ちゅうしゃけん</rt></ruby></span> - tiket, kupon</li>
+    <li><span class="ruby-word"><ruby>駐車券<rt>ちゅうしゃけん</rt></ruby></span> - tiket parkir</li>
     <li><span class="ruby-word"><ruby>回数券<rt>かいすうけん</rt></ruby></span> - tiket kupon beberapa kali</li>
     <li><span class="ruby-word"><ruby>乗車券<rt>じょうしゃけん</rt></ruby></span> - tiket naik</li>
     <li><span class="ruby-word"><ruby>整理券<rt>せいりけん</rt></ruby></span> - tiket nomor antrean</li>
@@ -92,8 +92,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>現 sering muncul dalam 現金 untuk metode pembayaran tunai. Pada bus, ini membantu membedakan uang tunai dari kartu.</p>
   <ul>
     <li><span class="ruby-word"><ruby>現金<rt>げんきん</rt></ruby></span> - uang tunai</li>
-    <li><span class="ruby-word"><ruby>現れる<rt>あらわれる</rt></ruby></span> - sekarang, muncul</li>
-    <li><span class="ruby-word"><ruby>表現<rt>ひょうげん</rt></ruby></span> - sekarang, muncul</li>
+    <li><span class="ruby-word"><ruby>現れる<rt>あらわれる</rt></ruby></span> - muncul</li>
+    <li><span class="ruby-word"><ruby>表現<rt>ひょうげん</rt></ruby></span> - ungkapan, ekspresi</li>
     <li><span class="ruby-word"><ruby>現在<rt>げんざい</rt></ruby></span> - saat ini</li>
   </ul>
 </details>
@@ -109,7 +109,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>両 muncul dalam 両替 untuk penukaran uang. Dalam bus, kata ini biasanya berkaitan dengan pecahan uang.</p>
   <ul>
     <li><span class="ruby-word"><ruby>両親<rt>りょうしん</rt></ruby></span> - kedua orang tua</li>
-    <li><span class="ruby-word"><ruby>〜両<rt>〜りょう</rt></ruby></span> - pola kata untuk keduanya</li>
+    <li><span class="ruby-word"><ruby>〜両<rt>〜りょう</rt></ruby></span> - ... gerbong kendaraan</li>
     <li><span class="ruby-word"><ruby>両替<rt>りょうがえ</rt></ruby></span> - tukar uang kecil/besar</li>
   </ul>
 </details>
@@ -142,7 +142,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>優先席<rt>ゆうせんせき</rt></ruby></span> - kursi prioritas</li>
     <li><span class="ruby-word"><ruby>優しい<rt>やさしい</rt></ruby></span> - lembut/baik</li>
-    <li><span class="ruby-word"><ruby>女優<rt>じょゆう</rt></ruby></span> - lembut, unggul</li>
+    <li><span class="ruby-word"><ruby>女優<rt>じょゆう</rt></ruby></span> - aktris</li>
   </ul>
 </details>
 
@@ -158,7 +158,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>座席<rt>ざせき</rt></ruby></span> - tempat duduk</li>
     <li><span class="ruby-word"><ruby>座る<rt>すわる</rt></ruby></span> - duduk</li>
-    <li><span class="ruby-word"><ruby>正座<rt>せいざ</rt></ruby></span> - duduk, kursi</li>
+    <li><span class="ruby-word"><ruby>正座<rt>せいざ</rt></ruby></span> - duduk seiza</li>
   </ul>
 </details>
 
@@ -174,9 +174,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>降車口<rt>こうしゃぐち</rt></ruby></span> - pintu turun</li>
     <li><span class="ruby-word"><ruby>降りる<rt>おりる</rt></ruby></span> - turun (kendaraan)</li>
-    <li><span class="ruby-word"><ruby>以降<rt>いこう</rt></ruby></span> - turun, turun kendaraan</li>
-    <li><span class="ruby-word"><ruby>降る<rt>ふる</rt></ruby></span> - turun, turun kendaraan</li>
-    <li><span class="ruby-word"><ruby>降車<rt>こうしゃ</rt></ruby></span> - turun, turun kendaraan</li>
+    <li><span class="ruby-word"><ruby>以降<rt>いこう</rt></ruby></span> - setelah itu, sejak</li>
+    <li><span class="ruby-word"><ruby>降る<rt>ふる</rt></ruby></span> - turun (hujan/salju)</li>
+    <li><span class="ruby-word"><ruby>降車<rt>こうしゃ</rt></ruby></span> - turun dari kendaraan</li>
   </ul>
 </details>
 </div>

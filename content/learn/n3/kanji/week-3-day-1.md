@@ -98,7 +98,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>冷凍庫<rt>れいとうこ</rt></ruby></span> - freezer</li>
     <li><span class="ruby-word"><ruby>凍る<rt>こおる</rt></ruby></span> - membeku</li>
-    <li><span class="ruby-word"><ruby>冷凍<rt>れいとう</rt></ruby></span> - membekukan, beku</li>
+    <li><span class="ruby-word"><ruby>冷凍<rt>れいとう</rt></ruby></span> - beku, pembekuan</li>
   </ul>
 </details>
 
@@ -177,7 +177,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>必要(な)<rt>ひつよう</rt></ruby></span> - perlu</li>
     <li><span class="ruby-word"><ruby>必ず<rt>かならず</rt></ruby></span> - pasti, harus</li>
-    <li><span class="ruby-word"><ruby>必死(に)<rt>ひっし(に)</rt></ruby></span> - pasti, tentu</li>
+    <li><span class="ruby-word"><ruby>必死(に)<rt>ひっし(に)</rt></ruby></span> - mati-matian, sungguh-sungguh</li>
     <li><span class="ruby-word"><ruby>必要<rt>ひつよう</rt></ruby></span> - perlu</li>
   </ul>
 </details>

@@ -45,7 +45,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>未 memberi rasa “belum”. Gunakan 未定 sebagai jangkar karena sering muncul pada jadwal atau rencana yang belum diputuskan.</p>
   <ul>
     <li><span class="ruby-word"><ruby>未定<rt>みてい</rt></ruby></span> - belum diputuskan</li>
-    <li><span class="ruby-word"><ruby>〜未満<rt>〜みまん</rt></ruby></span> - pola kata untuk belum</li>
+    <li><span class="ruby-word"><ruby>〜未満<rt>〜みまん</rt></ruby></span> - kurang dari ...</li>
     <li><span class="ruby-word"><ruby>未来<rt>みらい</rt></ruby></span> - masa depan</li>
   </ul>
 </details>
@@ -62,7 +62,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>週末<rt>しゅうまつ</rt></ruby></span> - akhir pekan</li>
     <li><span class="ruby-word"><ruby>年末<rt>ねんまつ</rt></ruby></span> - akhir tahun</li>
-    <li><span class="ruby-word"><ruby>月末<rt>げつまつ</rt></ruby></span> - akhir, ujung</li>
+    <li><span class="ruby-word"><ruby>月末<rt>げつまつ</rt></ruby></span> - akhir bulan</li>
   </ul>
 </details>
 
@@ -91,7 +91,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>晩 membantu membaca waktu malam dalam frasa tetap. Biasakan membaca 今晩 dan 毎晩 sebagai satu kata.</p>
   <ul>
     <li><span class="ruby-word"><ruby>晩<rt>ばん</rt></ruby></span> - malam, petang</li>
-    <li><span class="ruby-word"><ruby>晩ご飯<rt>ばんごはん</rt></ruby></span> - malam, petang</li>
+    <li><span class="ruby-word"><ruby>晩ご飯<rt>ばんごはん</rt></ruby></span> - makan malam</li>
     <li><span class="ruby-word"><ruby>今晩<rt>こんばん</rt></ruby></span> - malam ini</li>
     <li><span class="ruby-word"><ruby>毎晩<rt>まいばん</rt></ruby></span> - setiap malam</li>
   </ul>

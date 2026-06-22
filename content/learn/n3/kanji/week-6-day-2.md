@@ -45,7 +45,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>求 berkaitan dengan mencari atau meminta. Dalam 求人, perusahaan sedang mencari orang untuk bekerja.</p>
   <ul>
     <li><span class="ruby-word"><ruby>要求<rt>ようきゅう</rt></ruby></span> - meminta, menuntut</li>
-    <li><span class="ruby-word"><ruby>請求書<rt>せいきゅうしょ</rt></ruby></span> - meminta, menuntut</li>
+    <li><span class="ruby-word"><ruby>請求書<rt>せいきゅうしょ</rt></ruby></span> - tagihan</li>
     <li><span class="ruby-word"><ruby>求人<rt>きゅうじん</rt></ruby></span> - lowongan kerja</li>
     <li><span class="ruby-word"><ruby>求める<rt>もとめる</rt></ruby></span> - mencari</li>
   </ul>
@@ -78,8 +78,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>職場<rt>しょくば</rt></ruby></span> - tempat kerja</li>
     <li><span class="ruby-word"><ruby>職業<rt>しょくぎょう</rt></ruby></span> - pekerjaan</li>
-    <li><span class="ruby-word"><ruby>転職<rt>てんしょく</rt></ruby></span> - pekerjaan, tempat kerja</li>
-    <li><span class="ruby-word"><ruby>職員<rt>しょくいん</rt></ruby></span> - pekerjaan, tempat kerja</li>
+    <li><span class="ruby-word"><ruby>転職<rt>てんしょく</rt></ruby></span> - pindah pekerjaan</li>
+    <li><span class="ruby-word"><ruby>職員<rt>しょくいん</rt></ruby></span> - staf, pegawai</li>
   </ul>
 </details>
 
@@ -140,8 +140,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>事務<rt>じむ</rt></ruby></span> - administrasi</li>
     <li><span class="ruby-word"><ruby>事務所<rt>じむしょ</rt></ruby></span> - kantor</li>
-    <li><span class="ruby-word"><ruby>公務員<rt>こうむいん</rt></ruby></span> - pekerjaan kantor, tugas</li>
-    <li><span class="ruby-word"><ruby>税務署<rt>ぜいむしょ</rt></ruby></span> - pekerjaan kantor, tugas</li>
+    <li><span class="ruby-word"><ruby>公務員<rt>こうむいん</rt></ruby></span> - pegawai negeri</li>
+    <li><span class="ruby-word"><ruby>税務署<rt>ぜいむしょ</rt></ruby></span> - kantor pajak</li>
   </ul>
 </details>
 

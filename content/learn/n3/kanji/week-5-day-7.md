@@ -45,7 +45,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>厚 menggambarkan ketebalan benda atau sikap yang hangat dan baik hati. Dalam deskripsi cuaca dan pakaian, 厚着 sering muncul.</p>
   <ul>
     <li><span class="ruby-word"><ruby>厚い<rt>あつい</rt></ruby></span> - tebal</li>
-    <li><span class="ruby-word"><ruby>厚着<rt>あつぎ</rt></ruby></span> - tebal, berat</li>
+    <li><span class="ruby-word"><ruby>厚着<rt>あつぎ</rt></ruby></span> - pakaian tebal</li>
   </ul>
 </details>
 

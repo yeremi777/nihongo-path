@@ -152,7 +152,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>ご飯<rt>ごはん</rt></ruby></span> - nasi, makan</li>
     <li><span class="ruby-word"><ruby>朝ご飯<rt>あさごはん</rt></ruby></span> - sarapan</li>
     <li><span class="ruby-word"><ruby>昼ご飯<rt>ひるごはん</rt></ruby></span> - makan siang</li>
-    <li><span class="ruby-word"><ruby>晩ご飯<rt>ばんごはん</rt></ruby></span> - malam, petang</li>
+    <li><span class="ruby-word"><ruby>晩ご飯<rt>ばんごはん</rt></ruby></span> - makan malam</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">

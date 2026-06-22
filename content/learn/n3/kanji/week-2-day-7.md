@@ -75,11 +75,11 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>組 bisa berarti kelompok/kelas atau tindakan menyusun sesuatu.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>〜組<rt>〜ぐみ</rt></ruby></span> - pola kata untuk kelompok</li>
+    <li><span class="ruby-word"><ruby>〜組<rt>〜ぐみ</rt></ruby></span> - kelompok/kelas ...</li>
     <li><span class="ruby-word"><ruby>組む<rt>くむ</rt></ruby></span> - menyusun, bekerja sama</li>
     <li><span class="ruby-word"><ruby>番組<rt>ばんぐみ</rt></ruby></span> - program acara</li>
-    <li><span class="ruby-word"><ruby>組み立てる<rt>くみたてる</rt></ruby></span> - kelompok, menggabungkan</li>
-    <li><span class="ruby-word"><ruby>三組<rt>さんくみ</rt></ruby></span> - kelompok, menggabungkan</li>
+    <li><span class="ruby-word"><ruby>組み立てる<rt>くみたてる</rt></ruby></span> - merakit</li>
+    <li><span class="ruby-word"><ruby>三組<rt>さんくみ</rt></ruby></span> - kelas/kelompok tiga</li>
   </ul>
 </details>
 
@@ -94,7 +94,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>束 menunjuk sesuatu yang diikat menjadi satu. Dalam 約束, maknanya menjadi janji.</p>
   <ul>
     <li><span class="ruby-word"><ruby>約束<rt>やくそく</rt></ruby></span> - janji</li>
-    <li><span class="ruby-word"><ruby>〜束<rt>〜たば</rt></ruby></span> - pola kata untuk ikat</li>
+    <li><span class="ruby-word"><ruby>〜束<rt>〜たば</rt></ruby></span> - ... ikat/bundel</li>
     <li><span class="ruby-word"><ruby>花束<rt>はなたば</rt></ruby></span> - buket bunga</li>
   </ul>
 </details>

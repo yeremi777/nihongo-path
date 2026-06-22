@@ -61,8 +61,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>押 sering muncul pada instruksi alat. Jika ada tombol, kanji ini biasanya memberi tahu tindakan yang harus dilakukan.</p>
   <ul>
     <li><span class="ruby-word"><ruby>押す<rt>おす</rt></ruby></span> - menekan</li>
-    <li><span class="ruby-word"><ruby>押し入れ<rt>おしいれ</rt></ruby></span> - mendorong, menahan</li>
-    <li><span class="ruby-word"><ruby>押さえる<rt>おさえる</rt></ruby></span> - mendorong, menahan</li>
+    <li><span class="ruby-word"><ruby>押し入れ<rt>おしいれ</rt></ruby></span> - lemari penyimpanan</li>
+    <li><span class="ruby-word"><ruby>押さえる<rt>おさえる</rt></ruby></span> - menahan, menekan</li>
     <li><span class="ruby-word"><ruby>押しボタン式<rt>おしぼたんしき</rt></ruby></span> - sistem tombol tekan</li>
   </ul>
 </details>
@@ -78,9 +78,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>式 menjelaskan sistem atau tipe. Dalam 押しボタン式, yang dijelaskan adalah cara kerja penyeberangan.</p>
   <ul>
     <li><span class="ruby-word"><ruby>押しボタン式<rt>おしぼたんしき</rt></ruby></span> - sistem tombol tekan</li>
-    <li><span class="ruby-word"><ruby>数式<rt>すうしき</rt></ruby></span> - upacara, gaya</li>
-    <li><span class="ruby-word"><ruby>入学式<rt>にゅうがくしき</rt></ruby></span> - upacara, gaya</li>
-    <li><span class="ruby-word"><ruby>方式<rt>ほうしき</rt></ruby></span> - upacara, gaya</li>
+    <li><span class="ruby-word"><ruby>数式<rt>すうしき</rt></ruby></span> - rumus matematika</li>
+    <li><span class="ruby-word"><ruby>入学式<rt>にゅうがくしき</rt></ruby></span> - upacara masuk sekolah</li>
+    <li><span class="ruby-word"><ruby>方式<rt>ほうしき</rt></ruby></span> - metode, sistem</li>
   </ul>
 </details>
 
@@ -94,9 +94,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>信 punya rasa informasi yang dipercaya atau dikirim. Dalam lalu lintas, fokus utamanya adalah 信号 sebagai sinyal lampu.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>送信<rt>そうしん</rt></ruby></span> - percaya, kepercayaan</li>
-    <li><span class="ruby-word"><ruby>自信<rt>じしん</rt></ruby></span> - percaya, kepercayaan</li>
-    <li><span class="ruby-word"><ruby>信じる<rt>しんじる</rt></ruby></span> - percaya, kepercayaan</li>
+    <li><span class="ruby-word"><ruby>送信<rt>そうしん</rt></ruby></span> - pengiriman pesan/data</li>
+    <li><span class="ruby-word"><ruby>自信<rt>じしん</rt></ruby></span> - percaya diri</li>
+    <li><span class="ruby-word"><ruby>信じる<rt>しんじる</rt></ruby></span> - percaya</li>
     <li><span class="ruby-word"><ruby>信用<rt>しんよう</rt></ruby></span> - kepercayaan</li>
     <li><span class="ruby-word"><ruby>信号<rt>しんごう</rt></ruby></span> - lampu lalu lintas</li>
   </ul>
@@ -113,8 +113,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>号 sering menandai nomor atau sinyal. Dalam 信号, kanji ini tidak dibaca sebagai nomor, tetapi sebagai bagian dari kata “lampu/sinyal lalu lintas”.</p>
   <ul>
     <li><span class="ruby-word"><ruby>信号<rt>しんごう</rt></ruby></span> - lampu lalu lintas</li>
-    <li><span class="ruby-word"><ruby>〜号車<rt>〜ごうしゃ</rt></ruby></span> - pola kata untuk nomor</li>
-    <li><span class="ruby-word"><ruby>一号車<rt>いちごうしゃ</rt></ruby></span> - nomor, sinyal</li>
+    <li><span class="ruby-word"><ruby>〜号車<rt>〜ごうしゃ</rt></ruby></span> - gerbong nomor ...</li>
+    <li><span class="ruby-word"><ruby>一号車<rt>いちごうしゃ</rt></ruby></span> - gerbong nomor satu</li>
   </ul>
 </details>
 
@@ -129,8 +129,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>確 memberi rasa pasti. Pada instruksi keselamatan, kanji ini mendorong kamu memastikan keadaan, bukan sekadar melihat sekilas.</p>
   <ul>
     <li><span class="ruby-word"><ruby>正確な<rt>せいかく</rt></ruby></span> - akurat</li>
-    <li><span class="ruby-word"><ruby>確かめる<rt>たしかめる</rt></ruby></span> - pasti, mengkonfirmasi</li>
-    <li><span class="ruby-word"><ruby>確かな<rt>たしかな</rt></ruby></span> - pasti, mengkonfirmasi</li>
+    <li><span class="ruby-word"><ruby>確かめる<rt>たしかめる</rt></ruby></span> - memastikan</li>
+    <li><span class="ruby-word"><ruby>確かな<rt>たしかな</rt></ruby></span> - pasti, dapat dipercaya</li>
     <li><span class="ruby-word"><ruby>確認<rt>かくにん</rt></ruby></span> - konfirmasi</li>
     <li><span class="ruby-word"><ruby>正確<rt>せいかく</rt></ruby></span> - akurat</li>
   </ul>

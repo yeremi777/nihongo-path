@@ -45,7 +45,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>球 menunjuk bola atau bidang olahraga tertentu. Dalam 野球, kanji ini membantu mengenali cabang olahraga yang dibahas.</p>
   <ul>
     <li><span class="ruby-word"><ruby>地球<rt>ちきゅう</rt></ruby></span> - bumi</li>
-    <li><span class="ruby-word"><ruby>電球<rt>でんきゅう</rt></ruby></span> - bola, bola dunia</li>
+    <li><span class="ruby-word"><ruby>電球<rt>でんきゅう</rt></ruby></span> - bola lampu</li>
     <li><span class="ruby-word"><ruby>野球<rt>やきゅう</rt></ruby></span> - bisbol</li>
   </ul>
 </details>
@@ -60,10 +60,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>決 memberi rasa menentukan. Dalam 決勝 atau 決める, fokusnya adalah keputusan, final, atau momen yang menentukan hasil.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>決して<rt>けっして</rt></ruby></span> - memutuskan, ditentukan</li>
+    <li><span class="ruby-word"><ruby>決して<rt>けっして</rt></ruby></span> - sama sekali tidak</li>
     <li><span class="ruby-word"><ruby>決める<rt>きめる</rt></ruby></span> - memutuskan</li>
-    <li><span class="ruby-word"><ruby>決定<rt>けってい</rt></ruby></span> - memutuskan, ditentukan</li>
-    <li><span class="ruby-word"><ruby>決まる<rt>きまる</rt></ruby></span> - memutuskan, ditentukan</li>
+    <li><span class="ruby-word"><ruby>決定<rt>けってい</rt></ruby></span> - keputusan</li>
+    <li><span class="ruby-word"><ruby>決まる<rt>きまる</rt></ruby></span> - diputuskan, ditentukan</li>
     <li><span class="ruby-word"><ruby>決勝<rt>けっしょう</rt></ruby></span> - final</li>
   </ul>
 </details>
@@ -95,9 +95,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>対 dipakai untuk lawan, perbandingan, atau skor. Di artikel olahraga, kanji ini sering muncul antara dua tim atau angka.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>1対2<rt>1たい2</rt></ruby></span> - melawan, versus</li>
+    <li><span class="ruby-word"><ruby>1対2<rt>1たい2</rt></ruby></span> - 1 lawan 2</li>
     <li><span class="ruby-word"><ruby>反対<rt>はんたい</rt></ruby></span> - berlawanan</li>
-    <li><span class="ruby-word"><ruby>一対二<rt>いちたいに</rt></ruby></span> - melawan, versus</li>
+    <li><span class="ruby-word"><ruby>一対二<rt>いちたいに</rt></ruby></span> - satu lawan dua</li>
   </ul>
 </details>
 

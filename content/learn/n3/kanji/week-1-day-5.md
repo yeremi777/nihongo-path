@@ -47,7 +47,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>指定<rt>してい</rt></ruby></span> - penetapan, reservasi</li>
     <li><span class="ruby-word"><ruby>指<rt>ゆび</rt></ruby></span> - jari</li>
     <li><span class="ruby-word"><ruby>指定席<rt>していせき</rt></ruby></span> - kursi reservasi</li>
-    <li><span class="ruby-word"><ruby>指輪<rt>ゆびわ</rt></ruby></span> - jari, menunjuk</li>
+    <li><span class="ruby-word"><ruby>指輪<rt>ゆびわ</rt></ruby></span> - cincin</li>
   </ul>
 </details>
 
@@ -61,8 +61,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>定 memberi rasa tetap atau sudah diputuskan. Bersama 指, kanji ini membuat 指定 terasa seperti “sudah ditetapkan”.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>定休日<rt>ていきゅうび</rt></ruby></span> - memutuskan, menetapkan</li>
-    <li><span class="ruby-word"><ruby>安定<rt>あんてい</rt></ruby></span> - memutuskan, menetapkan</li>
+    <li><span class="ruby-word"><ruby>定休日<rt>ていきゅうび</rt></ruby></span> - hari libur tetap</li>
+    <li><span class="ruby-word"><ruby>安定<rt>あんてい</rt></ruby></span> - stabil</li>
     <li><span class="ruby-word"><ruby>指定席<rt>していせき</rt></ruby></span> - kursi reservasi</li>
     <li><span class="ruby-word"><ruby>指定<rt>してい</rt></ruby></span> - penetapan, reservasi</li>
   </ul>
@@ -78,8 +78,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>席 adalah kanji inti untuk kursi. Saat membaca tiket, cari kanji ini untuk memahami jenis tempat duduk.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>席<rt>せき</rt></ruby></span> - kursi, tempat duduk</li>
-    <li><span class="ruby-word"><ruby>出席<rt>しゅっせき</rt></ruby></span> - kursi, tempat duduk</li>
+    <li><span class="ruby-word"><ruby>席<rt>せき</rt></ruby></span> - tempat duduk</li>
+    <li><span class="ruby-word"><ruby>出席<rt>しゅっせき</rt></ruby></span> - kehadiran</li>
     <li><span class="ruby-word"><ruby>欠席<rt>けっせき</rt></ruby></span> - absen</li>
     <li><span class="ruby-word"><ruby>指定席<rt>していせき</rt></ruby></span> - kursi reservasi</li>
     <li><span class="ruby-word"><ruby>自由席<rt>じゆうせき</rt></ruby></span> - kursi bebas</li>
@@ -114,8 +114,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>番 membantu membaca nomor urut. Pada tiket, kanji ini sering muncul untuk nomor kursi, loket, atau urutan.</p>
   <ul>
     <li><span class="ruby-word"><ruby>番号<rt>ばんごう</rt></ruby></span> - nomor</li>
-    <li><span class="ruby-word"><ruby>〜番線<rt>〜ばんせん</rt></ruby></span> - pola kata untuk garis</li>
-    <li><span class="ruby-word"><ruby>〜番<rt>〜ばん</rt></ruby></span> - pola kata untuk nomor</li>
+    <li><span class="ruby-word"><ruby>〜番線<rt>〜ばんせん</rt></ruby></span> - jalur/peron nomor ...</li>
+    <li><span class="ruby-word"><ruby>〜番<rt>〜ばん</rt></ruby></span> - nomor ...</li>
   </ul>
 </details>
 
@@ -145,10 +145,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>側 menentukan sisi. Dalam reservasi kursi, kanji ini membantu membedakan posisi jendela dan lorong.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>両側<rt>りょうがわ</rt></ruby></span> - sisi, samping</li>
+    <li><span class="ruby-word"><ruby>両側<rt>りょうがわ</rt></ruby></span> - kedua sisi</li>
     <li><span class="ruby-word"><ruby>窓側<rt>まどがわ</rt></ruby></span> - sisi jendela</li>
-    <li><span class="ruby-word"><ruby>右側<rt>みぎがわ</rt></ruby></span> - sisi, samping</li>
-    <li><span class="ruby-word"><ruby>通路側<rt>つうろがわ</rt></ruby></span> - sisi, samping</li>
+    <li><span class="ruby-word"><ruby>右側<rt>みぎがわ</rt></ruby></span> - sisi kanan</li>
+    <li><span class="ruby-word"><ruby>通路側<rt>つうろがわ</rt></ruby></span> - sisi lorong</li>
   </ul>
 </details>
 
@@ -163,9 +163,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>路 berarti jalan atau jalur. Dalam gerbong, 通路 adalah lorong tempat orang lewat.</p>
   <ul>
     <li><span class="ruby-word"><ruby>通路<rt>つうろ</rt></ruby></span> - lorong</li>
-    <li><span class="ruby-word"><ruby>線路<rt>せんろ</rt></ruby></span> - jalan, jalur</li>
+    <li><span class="ruby-word"><ruby>線路<rt>せんろ</rt></ruby></span> - rel kereta</li>
     <li><span class="ruby-word"><ruby>道路<rt>どうろ</rt></ruby></span> - jalan raya</li>
-    <li><span class="ruby-word"><ruby>通路側<rt>つうろがわ</rt></ruby></span> - jalan, jalur</li>
+    <li><span class="ruby-word"><ruby>通路側<rt>つうろがわ</rt></ruby></span> - sisi lorong</li>
   </ul>
 </details>
 </div>

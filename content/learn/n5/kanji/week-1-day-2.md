@@ -116,7 +116,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>午 muncul pada pembagian waktu sebelum dan sesudah tengah hari dalam jadwal harian.</p><ul>
-    <li><span class="ruby-word"><ruby>午前<rt>ごぜん</rt></ruby></span> - sebelum tengah hari, pagi</li>
+    <li><span class="ruby-word"><ruby>午前<rt>ごぜん</rt></ruby></span> - pagi, sebelum tengah hari</li>
     <li><span class="ruby-word"><ruby>午後<rt>ごご</rt></ruby></span> - setelah tengah hari, siang/sore</li>
   </ul></details>
 
@@ -129,8 +129,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>前 berarti sebelum atau depan, dan sering muncul pada waktu pagi atau posisi di depan tempat.</p><ul>
-    <li><span class="ruby-word"><ruby>午前<rt>ごぜん</rt></ruby></span> - sebelum tengah hari, pagi</li>
-    <li><span class="ruby-word"><ruby>前<rt>まえ</rt></ruby></span> - depan, sebelum</li>
+    <li><span class="ruby-word"><ruby>午前<rt>ごぜん</rt></ruby></span> - pagi, sebelum tengah hari</li>
+    <li><span class="ruby-word"><ruby>前<rt>まえ</rt></ruby></span> - depan, sebelumnya</li>
     <li><span class="ruby-word"><ruby>名前<rt>なまえ</rt></ruby></span> - nama</li>
   </ul></details>
 

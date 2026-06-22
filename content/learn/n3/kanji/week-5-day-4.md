@@ -45,7 +45,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>昨 menandai waktu yang sudah lewat. Dalam karangan, 昨日 dan 昨年 membantu menentukan kapan pengalaman terjadi.</p>
   <ul>
     <li><span class="ruby-word"><ruby>昨日<rt>きのう</rt></ruby></span> - kemarin</li>
-    <li><span class="ruby-word"><ruby>昨夜<rt>さくや</rt></ruby></span> - kemarin, yang lalu</li>
+    <li><span class="ruby-word"><ruby>昨夜<rt>さくや</rt></ruby></span> - tadi malam</li>
     <li><span class="ruby-word"><ruby>昨年<rt>さくねん</rt></ruby></span> - tahun lalu</li>
   </ul>
 </details>
@@ -62,7 +62,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>〇〇君<rt>きみ</rt></ruby></span> - kamu</li>
     <li><span class="ruby-word"><ruby>君<rt>きみ</rt></ruby></span> - kamu</li>
-    <li><span class="ruby-word"><ruby>田中君<rt>たなかくん</rt></ruby></span> - kamu (informal), sebutan hormat pria</li>
+    <li><span class="ruby-word"><ruby>田中君<rt>たなかくん</rt></ruby></span> - Tanaka-kun</li>
   </ul>
 </details>
 
@@ -76,7 +76,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>結 memberi rasa mengikat atau menyimpulkan. Dalam 結婚 maknanya pernikahan, sedangkan 結局 menutup cerita sebagai “akhirnya”.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>結構(な)<rt>けっこう(な)</rt></ruby></span> - mengikat, menyimpulkan</li>
+    <li><span class="ruby-word"><ruby>結構(な)<rt>けっこう(な)</rt></ruby></span> - cukup baik, lumayan</li>
     <li><span class="ruby-word"><ruby>結局<rt>けっきょく</rt></ruby></span> - akhirnya</li>
     <li><span class="ruby-word"><ruby>結ぶ<rt>むすぶ</rt></ruby></span> - mengikat, menyimpulkan</li>
     <li><span class="ruby-word"><ruby>結婚<rt>けっこん</rt></ruby></span> - pernikahan</li>
@@ -125,9 +125,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>曲 bisa berarti lagu atau berbelok. Lihat okurigana: 曲がる adalah berbelok, sedangkan 曲 saja sering berarti lagu.</p>
   <ul>
     <li><span class="ruby-word"><ruby>曲<rt>きょく</rt></ruby></span> - lagu</li>
-    <li><span class="ruby-word"><ruby>曲線<rt>きょくせん</rt></ruby></span> - lagu, musik</li>
+    <li><span class="ruby-word"><ruby>曲線<rt>きょくせん</rt></ruby></span> - garis lengkung</li>
     <li><span class="ruby-word"><ruby>曲がる<rt>まがる</rt></ruby></span> - berbelok</li>
-    <li><span class="ruby-word"><ruby>曲げる<rt>まげる</rt></ruby></span> - lagu, musik</li>
+    <li><span class="ruby-word"><ruby>曲げる<rt>まげる</rt></ruby></span> - membengkokkan</li>
   </ul>
 </details>
 
@@ -158,7 +158,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>寝る<rt>ねる</rt></ruby></span> - tidur</li>
     <li><span class="ruby-word"><ruby>昼寝<rt>ひるね</rt></ruby></span> - tidur siang</li>
-    <li><span class="ruby-word"><ruby>寝坊<rt>ねぼう</rt></ruby></span> - tidur, berbaring</li>
+    <li><span class="ruby-word"><ruby>寝坊<rt>ねぼう</rt></ruby></span> - bangun kesiangan</li>
   </ul>
 </details>
 </div>

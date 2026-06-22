@@ -77,7 +77,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>改正<rt>かいせい</rt></ruby></span> - revisi hukum</li>
     <li><span class="ruby-word"><ruby>改める<rt>あらためる</rt></ruby></span> - memperbarui</li>
-    <li><span class="ruby-word"><ruby>改札口<rt>かいさつぐち</rt></ruby></span> - mengubah, mereformasi</li>
+    <li><span class="ruby-word"><ruby>改札口<rt>かいさつぐち</rt></ruby></span> - gerbang tiket</li>
   </ul>
 </details>
 
@@ -109,7 +109,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>否定的(な)<rt>ひていてき</rt></ruby></span> - negatif</li>
     <li><span class="ruby-word"><ruby>国際的(な)<rt>こくさいてき</rt></ruby></span> - internasional</li>
     <li><span class="ruby-word"><ruby>目的<rt>もくてき</rt></ruby></span> - tujuan</li>
-    <li><span class="ruby-word"><ruby>個人的(な)<rt>こじんてき(な)</rt></ruby></span> - -ik, tujuan</li>
+    <li><span class="ruby-word"><ruby>個人的(な)<rt>こじんてき(な)</rt></ruby></span> - pribadi</li>
     <li><span class="ruby-word"><ruby>否定的<rt>ひていてき</rt></ruby></span> - negatif</li>
   </ul>
 </details>
@@ -124,9 +124,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>実 berkaitan dengan kenyataan atau isi sebenarnya. Dalam 実際, fokusnya adalah kondisi nyata, bukan rencana.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>実際に<rt>じっさいに</rt></ruby></span> - kenyataan, kebenaran</li>
+    <li><span class="ruby-word"><ruby>実際に<rt>じっさいに</rt></ruby></span> - sebenarnya, dalam praktiknya</li>
     <li><span class="ruby-word"><ruby>実は<rt>じつは</rt></ruby></span> - sebenarnya</li>
-    <li><span class="ruby-word"><ruby>実験<rt>じっけん</rt></ruby></span> - kenyataan, kebenaran</li>
+    <li><span class="ruby-word"><ruby>実験<rt>じっけん</rt></ruby></span> - percobaan, eksperimen</li>
   </ul>
 </details>
 

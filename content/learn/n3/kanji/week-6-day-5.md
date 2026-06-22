@@ -45,9 +45,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>化 menandai perubahan menjadi suatu keadaan. Dalam 温暖化 atau 変化, kanji ini membantu membaca proses perubahan lingkungan.</p>
   <ul>
     <li><span class="ruby-word"><ruby>文化<rt>ぶんか</rt></ruby></span> - budaya</li>
-    <li><span class="ruby-word"><ruby>化学<rt>かがく</rt></ruby></span> - berubah, mengubah</li>
-    <li><span class="ruby-word"><ruby>〇〇化<rt>〇〇か</rt></ruby></span> - pola kata untuk berubah</li>
-    <li><span class="ruby-word"><ruby>化粧<rt>けしょう</rt></ruby></span> - berubah, mengubah</li>
+    <li><span class="ruby-word"><ruby>化学<rt>かがく</rt></ruby></span> - kimia</li>
+    <li><span class="ruby-word"><ruby>〇〇化<rt>〇〇か</rt></ruby></span> - perubahan menjadi ...</li>
+    <li><span class="ruby-word"><ruby>化粧<rt>けしょう</rt></ruby></span> - riasan</li>
     <li><span class="ruby-word"><ruby>変化<rt>へんか</rt></ruby></span> - perubahan</li>
   </ul>
 </details>
@@ -63,7 +63,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>比 berkaitan dengan membandingkan. Dalam artikel lingkungan, 比較 sering muncul saat data suhu atau dampak dibandingkan.</p>
   <ul>
     <li><span class="ruby-word"><ruby>比べる<rt>くらべる</rt></ruby></span> - membandingkan</li>
-    <li><span class="ruby-word"><ruby>比較<rt>ひかく</rt></ruby></span> - membandingkan, rasio</li>
+    <li><span class="ruby-word"><ruby>比較<rt>ひかく</rt></ruby></span> - perbandingan</li>
   </ul>
 </details>
 
@@ -108,7 +108,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>際 sering muncul dalam 国際 untuk hal internasional. Dalam topik lingkungan, kata ini biasanya berkaitan dengan kerja sama antarnegara.</p>
   <ul>
     <li><span class="ruby-word"><ruby>国際(の)<rt>こくさい</rt></ruby></span> - internasional</li>
-    <li><span class="ruby-word"><ruby>交際<rt>こうさい</rt></ruby></span> - kesempatan, internasional</li>
+    <li><span class="ruby-word"><ruby>交際<rt>こうさい</rt></ruby></span> - pergaulan, hubungan sosial</li>
     <li><span class="ruby-word"><ruby>国際<rt>こくさい</rt></ruby></span> - internasional</li>
   </ul>
 </details>
@@ -153,10 +153,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>変 berarti berubah atau aneh. Dalam 変化 dan 変わる, fokusnya adalah perubahan kondisi dari sebelumnya.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>大変(な)<rt>たいへん(な)</rt></ruby></span> - berubah, aneh</li>
+    <li><span class="ruby-word"><ruby>大変(な)<rt>たいへん(な)</rt></ruby></span> - berat, sulit, merepotkan</li>
     <li><span class="ruby-word"><ruby>変化<rt>へんか</rt></ruby></span> - perubahan</li>
     <li><span class="ruby-word"><ruby>変わる<rt>かわる</rt></ruby></span> - berubah</li>
-    <li><span class="ruby-word"><ruby>変える<rt>かえる</rt></ruby></span> - berubah, aneh</li>
+    <li><span class="ruby-word"><ruby>変える<rt>かえる</rt></ruby></span> - mengubah</li>
   </ul>
 </details>
 </div>

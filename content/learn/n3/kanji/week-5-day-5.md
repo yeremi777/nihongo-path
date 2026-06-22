@@ -45,7 +45,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>痛 menandai rasa sakit. Dalam formulir medis, 頭痛 menunjuk jenis keluhan, sedangkan 痛い menjelaskan gejalanya.</p>
   <ul>
     <li><span class="ruby-word"><ruby>頭痛<rt>ずつう</rt></ruby></span> - sakit kepala</li>
-    <li><span class="ruby-word"><ruby>腹痛<rt>はらいた</rt></ruby></span> - sakit, nyeri</li>
+    <li><span class="ruby-word"><ruby>腹痛<rt>はらいた</rt></ruby></span> - sakit perut</li>
     <li><span class="ruby-word"><ruby>痛い<rt>いたい</rt></ruby></span> - sakit</li>
   </ul>
 </details>

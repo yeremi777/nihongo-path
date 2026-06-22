@@ -59,7 +59,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>機 bisa berarti mesin atau kesempatan. Pada vending machine, maknanya jelas mesin.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>飛行機<rt>ひこうき</rt></ruby></span> - mesin, kesempatan</li>
+    <li><span class="ruby-word"><ruby>飛行機<rt>ひこうき</rt></ruby></span> - pesawat terbang</li>
     <li><span class="ruby-word"><ruby>機会<rt>きかい</rt></ruby></span> - kesempatan</li>
     <li><span class="ruby-word"><ruby>機械<rt>きかい</rt></ruby></span> - mesin</li>
     <li><span class="ruby-word"><ruby>自動販売機<rt>じどうはんばいき</rt></ruby></span> - mesin penjual otomatis</li>
@@ -96,7 +96,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>減少<rt>げんしょう</rt></ruby></span> - penurunan</li>
     <li><span class="ruby-word"><ruby>減る<rt>へる</rt></ruby></span> - berkurang</li>
     <li><span class="ruby-word"><ruby>減らす<rt>へらす</rt></ruby></span> - mengurangi</li>
-    <li><span class="ruby-word"><ruby>減量<rt>げんりょう</rt></ruby></span> - jumlah, kuantitas</li>
+    <li><span class="ruby-word"><ruby>減量<rt>げんりょう</rt></ruby></span> - pengurangan berat/jumlah</li>
   </ul>
 </details>
 
@@ -113,7 +113,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>量<rt>りょう</rt></ruby></span> - jumlah</li>
     <li><span class="ruby-word"><ruby>数量<rt>すうりょう</rt></ruby></span> - kuantitas</li>
     <li><span class="ruby-word"><ruby>増量<rt>ぞうりょう</rt></ruby></span> - penambahan jumlah</li>
-    <li><span class="ruby-word"><ruby>減量<rt>げんりょう</rt></ruby></span> - jumlah, kuantitas</li>
+    <li><span class="ruby-word"><ruby>減量<rt>げんりょう</rt></ruby></span> - pengurangan berat/jumlah</li>
   </ul>
 </details>
 

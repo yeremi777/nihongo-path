@@ -78,7 +78,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>科 menandai bidang pelajaran atau departemen medis. Di rumah sakit, cari kata sebelum 科 untuk tahu polinya.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>科学<rt>かがく</rt></ruby></span> - mata pelajaran, departemen</li>
+    <li><span class="ruby-word"><ruby>科学<rt>かがく</rt></ruby></span> - sains</li>
     <li><span class="ruby-word"><ruby>内科<rt>ないか</rt></ruby></span> - penyakit dalam</li>
     <li><span class="ruby-word"><ruby>外科<rt>げか</rt></ruby></span> - bedah</li>
     <li><span class="ruby-word"><ruby>教科書<rt>きょうかしょ</rt></ruby></span> - buku pelajaran</li>
@@ -129,8 +129,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>形式<rt>けいしき</rt></ruby></span> - format</li>
     <li><span class="ruby-word"><ruby>整形外科<rt>せいけいげか</rt></ruby></span> - ortopedi</li>
-    <li><span class="ruby-word"><ruby>人形<rt>にんぎょう</rt></ruby></span> - bentuk, rupa</li>
-    <li><span class="ruby-word"><ruby>図形<rt>づけい</rt></ruby></span> - bentuk, rupa</li>
+    <li><span class="ruby-word"><ruby>人形<rt>にんぎょう</rt></ruby></span> - boneka</li>
+    <li><span class="ruby-word"><ruby>図形<rt>づけい</rt></ruby></span> - bentuk geometri</li>
     <li><span class="ruby-word"><ruby>形<rt>かたち</rt></ruby></span> - bentuk</li>
   </ul>
 </details>

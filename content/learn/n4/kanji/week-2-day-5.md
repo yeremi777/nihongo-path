@@ -45,7 +45,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 <p>以 sering muncul pada batas angka atau cakupan.</p><ul>
     <li><span class="ruby-word"><ruby>以下<rt>いか</rt></ruby></span> - di bawah/berikut</li>
     <li><span class="ruby-word"><ruby>以上<rt>いじょう</rt></ruby></span> - lebih dari/sekian ke atas</li>
-    <li><span class="ruby-word"><ruby>以内<rt>いない</rt></ruby></span> - dalam, di dalam</li>
+    <li><span class="ruby-word"><ruby>以内<rt>いない</rt></ruby></span> - dalam batas ...</li>
     <li><span class="ruby-word"><ruby>以外<rt>いがい</rt></ruby></span> - selain</li>
   </ul></details>
 
@@ -58,10 +58,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     </span>
   </summary>
 <p>内 menunjuk bagian dalam, rumah, atau batas dalam.</p><ul>
-    <li><span class="ruby-word"><ruby>家内<rt>かない</rt></ruby></span> - dalam, di dalam</li>
+    <li><span class="ruby-word"><ruby>家内<rt>かない</rt></ruby></span> - istri saya</li>
     <li><span class="ruby-word"><ruby>室内<rt>しつない</rt></ruby></span> - dalam ruangan</li>
     <li><span class="ruby-word"><ruby>内側<rt>うちがわ</rt></ruby></span> - sisi dalam</li>
-    <li><span class="ruby-word"><ruby>以内<rt>いない</rt></ruby></span> - dalam, di dalam</li>
+    <li><span class="ruby-word"><ruby>以内<rt>いない</rt></ruby></span> - dalam batas ...</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">

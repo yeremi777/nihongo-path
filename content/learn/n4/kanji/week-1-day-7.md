@@ -125,7 +125,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 <p>酒 muncul pada minuman alkohol, label toko sake, dan menu restoran.</p><ul>
     <li><span class="ruby-word"><ruby>お酒<rt>おさけ</rt></ruby></span> - alkohol</li>
     <li><span class="ruby-word"><ruby>日本酒<rt>にっぽんしゅ</rt></ruby></span> - sake Jepang</li>
-    <li><span class="ruby-word"><ruby>酒屋<rt>さかや</rt></ruby></span> - sake, alkohol</li>
+    <li><span class="ruby-word"><ruby>酒屋<rt>さかや</rt></ruby></span> - toko minuman alkohol</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">

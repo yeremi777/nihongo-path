@@ -77,8 +77,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>配達<rt>はいたつ</rt></ruby></span> - pengantaran</li>
     <li><span class="ruby-word"><ruby>配送料<rt>はいそうりょう</rt></ruby></span> - ongkos kirim</li>
-    <li><span class="ruby-word"><ruby>心配<rt>しんぱい</rt></ruby></span> - mendistribusikan, mengantarkan</li>
-    <li><span class="ruby-word"><ruby>配る<rt>くばる</rt></ruby></span> - mendistribusikan, mengantarkan</li>
+    <li><span class="ruby-word"><ruby>心配<rt>しんぱい</rt></ruby></span> - khawatir</li>
+    <li><span class="ruby-word"><ruby>配る<rt>くばる</rt></ruby></span> - membagikan</li>
     <li><span class="ruby-word"><ruby>宅配<rt>たくはい</rt></ruby></span> - pengiriman rumah</li>
   </ul>
 </details>
@@ -94,7 +94,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>希 muncul pada 希望 untuk permintaan atau harapan. Pada pesanan, biasanya berkaitan dengan waktu atau metode yang diinginkan.</p>
   <ul>
     <li><span class="ruby-word"><ruby>希望<rt>きぼう</rt></ruby></span> - harapan, keinginan</li>
-    <li><span class="ruby-word"><ruby>希少<rt>きしょう</rt></ruby></span> - harapan, keinginan</li>
+    <li><span class="ruby-word"><ruby>希少<rt>きしょう</rt></ruby></span> - langka</li>
   </ul>
 </details>
 
@@ -108,7 +108,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>望 juga membentuk 希望. Bacalah pasangan 希望 sebagai keinginan atau permintaan, bukan sebagai dua kanji terpisah.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>失望<rt>しつぼう</rt></ruby></span> - harapan, keinginan</li>
+    <li><span class="ruby-word"><ruby>失望<rt>しつぼう</rt></ruby></span> - kecewa</li>
     <li><span class="ruby-word"><ruby>望む<rt>のぞむ</rt></ruby></span> - mengharapkan</li>
     <li><span class="ruby-word"><ruby>希望<rt>きぼう</rt></ruby></span> - harapan, keinginan</li>
   </ul>
@@ -125,9 +125,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>荷 berkaitan dengan barang bawaan atau paket. Dalam 荷物, fokusnya adalah barang yang dikirim atau dibawa.</p>
   <ul>
     <li><span class="ruby-word"><ruby>入荷<rt>にゅうか</rt></ruby></span> - barang masuk</li>
-    <li><span class="ruby-word"><ruby>出荷<rt>しゅっか</rt></ruby></span> - bagasi, muatan</li>
+    <li><span class="ruby-word"><ruby>出荷<rt>しゅっか</rt></ruby></span> - pengiriman barang</li>
     <li><span class="ruby-word"><ruby>荷物<rt>にもつ</rt></ruby></span> - barang bawaan</li>
-    <li><span class="ruby-word"><ruby>手荷物<rt>てにもつ</rt></ruby></span> - bagasi, muatan</li>
+    <li><span class="ruby-word"><ruby>手荷物<rt>てにもつ</rt></ruby></span> - barang bawaan</li>
   </ul>
 </details>
 
@@ -142,7 +142,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>換 memberi rasa menukar. Dalam 交換, kanji ini menunjuk penukaran barang; dalam 代金引換, pembayaran dilakukan saat barang diterima.</p>
   <ul>
     <li><span class="ruby-word"><ruby>交換<rt>こうかん</rt></ruby></span> - pertukaran</li>
-    <li><span class="ruby-word"><ruby>乗り換え<rt>のりかえ</rt></ruby></span> - menukar, mengganti</li>
+    <li><span class="ruby-word"><ruby>乗り換え<rt>のりかえ</rt></ruby></span> - ganti kendaraan/jalur</li>
     <li><span class="ruby-word"><ruby>代金引換<rt>だいきんひきかえ</rt></ruby></span> - bayar saat terima</li>
   </ul>
 </details>

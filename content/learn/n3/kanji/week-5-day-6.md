@@ -45,9 +45,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>身 berkaitan dengan tubuh atau diri sendiri. Dalam 身長, kanji ini membantu membaca data tinggi badan.</p>
   <ul>
     <li><span class="ruby-word"><ruby>身長<rt>しんちょう</rt></ruby></span> - tinggi badan</li>
-    <li><span class="ruby-word"><ruby>身分<rt>みぶん</rt></ruby></span> - tubuh, diri sendiri</li>
+    <li><span class="ruby-word"><ruby>身分<rt>みぶん</rt></ruby></span> - status diri, kedudukan</li>
     <li><span class="ruby-word"><ruby>独身<rt>どくしん</rt></ruby></span> - lajang</li>
-    <li><span class="ruby-word"><ruby>刺身<rt>さしみ</rt></ruby></span> - tubuh, diri sendiri</li>
+    <li><span class="ruby-word"><ruby>刺身<rt>さしみ</rt></ruby></span> - sashimi</li>
   </ul>
 </details>
 
@@ -63,8 +63,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>日本酒<rt>にほんしゅ</rt></ruby></span> - sake Jepang</li>
     <li><span class="ruby-word"><ruby>お酒<rt>おさけ</rt></ruby></span> - alkohol</li>
-    <li><span class="ruby-word"><ruby>料理酒<rt>りょうりしゅ</rt></ruby></span> - sake, alkohol</li>
-    <li><span class="ruby-word"><ruby>酒屋<rt>さかや</rt></ruby></span> - sake, alkohol</li>
+    <li><span class="ruby-word"><ruby>料理酒<rt>りょうりしゅ</rt></ruby></span> - sake untuk masakan</li>
+    <li><span class="ruby-word"><ruby>酒屋<rt>さかや</rt></ruby></span> - toko minuman alkohol</li>
   </ul>
 </details>
 
@@ -141,7 +141,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>息<rt>いき</rt></ruby></span> - napas</li>
     <li><span class="ruby-word"><ruby>息切れ<rt>いきぎれ</rt></ruby></span> - sesak napas</li>
-    <li><span class="ruby-word"><ruby>息子<rt>むすこ</rt></ruby></span> - napas, anak laki-laki</li>
+    <li><span class="ruby-word"><ruby>息子<rt>むすこ</rt></ruby></span> - anak laki-laki</li>
   </ul>
 </details>
 

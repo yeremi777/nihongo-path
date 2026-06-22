@@ -64,9 +64,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>記 memberi rasa mencatat atau menulis. Dalam formulir, 記入 biasanya berarti bagian yang perlu diisi, bukan sekadar catatan bebas.</p>
   <ul>
     <li><span class="ruby-word"><ruby>記入<rt>きにゅう</rt></ruby></span> - pengisian</li>
-    <li><span class="ruby-word"><ruby>記号<rt>きごう</rt></ruby></span> - mencatat, merekam</li>
+    <li><span class="ruby-word"><ruby>記号<rt>きごう</rt></ruby></span> - simbol</li>
     <li><span class="ruby-word"><ruby>日記<rt>にっき</rt></ruby></span> - buku harian</li>
-    <li><span class="ruby-word"><ruby>記事<rt>きじ</rt></ruby></span> - mencatat, merekam</li>
+    <li><span class="ruby-word"><ruby>記事<rt>きじ</rt></ruby></span> - artikel, berita</li>
   </ul>
 </details>
 
@@ -110,7 +110,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>歳 muncul setelah angka untuk menyatakan umur. Perhatikan bacaan khusus seperti 二十歳 karena tidak selalu mengikuti pola angka biasa.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>〜歳<rt>〜とし</rt></ruby></span> - pola kata untuk tahun (usia)</li>
+    <li><span class="ruby-word"><ruby>〜歳<rt>〜とし</rt></ruby></span> - usia ... tahun</li>
     <li><span class="ruby-word"><ruby>二十歳<rt>はたち</rt></ruby></span> - 20 tahun</li>
     <li><span class="ruby-word"><ruby>二十歳(はたち)<rt>にじゅうさい(はたち)</rt></ruby></span> - tahun (usia)</li>
   </ul>
@@ -127,8 +127,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>性 bisa berarti sifat atau kategori jenis. Dalam formulir, 性別 hampir selalu menunjuk jenis kelamin.</p>
   <ul>
     <li><span class="ruby-word"><ruby>性別<rt>せいべつ</rt></ruby></span> - jenis kelamin</li>
-    <li><span class="ruby-word"><ruby>女性<rt>じょせい</rt></ruby></span> - jenis kelamin, sifat</li>
-    <li><span class="ruby-word"><ruby>男性<rt>だんせい</rt></ruby></span> - jenis kelamin, sifat</li>
+    <li><span class="ruby-word"><ruby>女性<rt>じょせい</rt></ruby></span> - perempuan, wanita</li>
+    <li><span class="ruby-word"><ruby>男性<rt>だんせい</rt></ruby></span> - laki-laki, pria</li>
     <li><span class="ruby-word"><ruby>性格<rt>せいかく</rt></ruby></span> - kepribadian</li>
   </ul>
 </details>
@@ -144,8 +144,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>連 memberi rasa terhubung. Di bagian kontak, 連絡 menunjuk cara pihak sekolah, toko, atau kantor menghubungi kamu.</p>
   <ul>
     <li><span class="ruby-word"><ruby>連休<rt>れんきゅう</rt></ruby></span> - libur beruntun</li>
-    <li><span class="ruby-word"><ruby>連れて行く<rt>つれていく</rt></ruby></span> - menghubungkan, membawa serta</li>
-    <li><span class="ruby-word"><ruby>連れて来る<rt>つれてくる</rt></ruby></span> - menghubungkan, membawa serta</li>
+    <li><span class="ruby-word"><ruby>連れて行く<rt>つれていく</rt></ruby></span> - membawa pergi</li>
+    <li><span class="ruby-word"><ruby>連れて来る<rt>つれてくる</rt></ruby></span> - membawa datang</li>
   </ul>
 </details>
 

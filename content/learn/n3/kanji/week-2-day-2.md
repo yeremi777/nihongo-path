@@ -61,9 +61,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>本当<rt>ほんとう</rt></ruby></span> - benar</li>
     <li><span class="ruby-word"><ruby>当たる<rt>あたる</rt></ruby></span> - kena, tepat</li>
-    <li><span class="ruby-word"><ruby>当〇〇<rt>とう〇〇</rt></ruby></span> - pola kata untuk mengenai</li>
-    <li><span class="ruby-word"><ruby>当たり前<rt>あたりまえ</rt></ruby></span> - mengenai, benar</li>
-    <li><span class="ruby-word"><ruby>当店<rt>とうてん</rt></ruby></span> - mengenai, benar</li>
+    <li><span class="ruby-word"><ruby>当〇〇<rt>とう〇〇</rt></ruby></span> - ... ini, pihak kami</li>
+    <li><span class="ruby-word"><ruby>当たり前<rt>あたりまえ</rt></ruby></span> - wajar, sudah semestinya</li>
+    <li><span class="ruby-word"><ruby>当店<rt>とうてん</rt></ruby></span> - toko kami</li>
   </ul>
 </details>
 
@@ -110,7 +110,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>様 bisa menjadi akhiran hormat atau berarti keadaan. Bedakan dari konteks kata setelah atau sebelumnya.</p>
   <ul>
     <li><span class="ruby-word"><ruby>様子<rt>ようす</rt></ruby></span> - keadaan, situasi</li>
-    <li><span class="ruby-word"><ruby>〇〇様<rt>〇〇よう</rt></ruby></span> - pola kata untuk cara</li>
+    <li><span class="ruby-word"><ruby>〇〇様<rt>〇〇よう</rt></ruby></span> - Bapak/Ibu ... (hormat)</li>
     <li><span class="ruby-word"><ruby>お客様<rt>おきゃくさま</rt></ruby></span> - pelanggan, tamu terhormat</li>
   </ul>
 </details>
@@ -128,7 +128,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>理解<rt>りかい</rt></ruby></span> - pemahaman</li>
     <li><span class="ruby-word"><ruby>解説<rt>かいせつ</rt></ruby></span> - penjelasan</li>
     <li><span class="ruby-word"><ruby>解答<rt>かいとう</rt></ruby></span> - jawaban</li>
-    <li><span class="ruby-word"><ruby>分解<rt>ぶんかい</rt></ruby></span> - memahami, memecahkan</li>
+    <li><span class="ruby-word"><ruby>分解<rt>ぶんかい</rt></ruby></span> - membongkar, mengurai</li>
   </ul>
 </details>
 
@@ -157,7 +157,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>願 dipakai untuk permintaan dan harapan. Dalam pengumuman sopan, お願いします sangat sering muncul.</p>
   <ul>
     <li><span class="ruby-word"><ruby>願う<rt>ねがう</rt></ruby></span> - berharap, memohon</li>
-    <li><span class="ruby-word"><ruby>お願い<rt>おねがい</rt></ruby></span> - berharap, memohon</li>
+    <li><span class="ruby-word"><ruby>お願い<rt>おねがい</rt></ruby></span> - permintaan, tolong</li>
   </ul>
 </details>
 </div>
