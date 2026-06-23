@@ -644,7 +644,7 @@ const pageTitle = computed(() => {
   if (activeSectionKey.value && !isArticlePage.value) {
     const sectionTitle = sidebarSectionLabels[activeSectionKey.value]
     const levelTitle = levelSummaries[levelKey.value]?.title || levelKey.value.toUpperCase()
-    if (sectionTitle) return `${levelTitle} - ${sectionTitle}`
+    if (sectionTitle) return `${levelTitle} ${sectionTitle}`
   }
 
   const doc = page.value as ContentLessonDoc | null
@@ -1587,7 +1587,7 @@ useSeoMeta({
   </section>
 
   <ClientOnly>
-    <LessonSearch :scope-path="rootPath" />
+    <LessonSearch :scope-path="rootPath" :docs="levelDocs || []" />
   </ClientOnly>
   </div>
 </template>

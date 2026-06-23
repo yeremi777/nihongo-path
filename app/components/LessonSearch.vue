@@ -3,13 +3,36 @@ import type { SearchResult } from '#content/types'
 
 const props = defineProps<{
   scopePath: string
+  docs?: LessonSearchDoc[]
 }>()
+
+type LessonSearchDoc = {
+  path?: string
+  title?: string
+  description?: string
+  level?: string
+  category?: string
+  topic?: string
+  topicLabel?: string
+  week?: number
+  day?: number
+  meta?: Record<string, unknown>
+}
+
+type LessonSearchItem = Pick<SearchResult, 'id' | 'title' | 'titles' | 'content' | 'snippets'>
+
+type ScheduleQuery = {
+  week?: number
+  day?: number
+  section?: string
+  isSectionOnly: boolean
+}
 
 const router = useRouter()
 const { isOpen, close, open, anchorRect, fallbackPlacement } = useLessonSearch()
 
 const query = ref('')
-const results = ref<SearchResult[]>([])
+const results = ref<LessonSearchItem[]>([])
 const activeIndex = ref(0)
 const isSearching = ref(false)
 const inputRef = ref<HTMLInputElement | null>(null)
@@ -65,10 +88,124 @@ const panelStyle = computed(() => {
   }
 })
 
-const hasQuery = computed(() => query.value.trim().length > 0)
-const canSearch = computed(() => query.value.trim().length >= 2)
+const hasJapaneseText = (value: string) => /[\u3040-\u30ff\u3400-\u9fff]/.test(value)
+const meetsSearchLength = (value: string) => {
+  const term = value.trim()
+  if (!term) return false
+  return hasJapaneseText(term) || term.length >= 2
+}
 
-const resultMeta = (result: SearchResult) => {
+const hasQuery = computed(() => query.value.trim().length > 0)
+const canSearch = computed(() => meetsSearchLength(query.value))
+
+const normalizeSearchText = (value: string) => value
+  .toLowerCase()
+  .replace(/[._/]+/g, ' ')
+  .replace(/[-]+/g, ' ')
+  .replace(/\s+/g, ' ')
+  .trim()
+
+const lessonScheduleFromPath = (path?: string) => {
+  const match = path?.match(/\/week-(\d+)-day-(\d+)$/i)
+  if (!match) return null
+
+  return {
+    week: Number(match[1]),
+    day: Number(match[2])
+  }
+}
+
+const parseScheduleQuery = (value: string): ScheduleQuery | null => {
+  const normalized = normalizeSearchText(value)
+  if (!normalized) return null
+
+  const compact = normalized.replace(/\s+/g, '')
+  const weekDayMatch =
+    normalized.match(/\b(?:week|minggu|w)\s*(\d{1,2})\s*(?:day|hari|d)\s*(\d{1,2})\b/i) ||
+    compact.match(/\bw(\d{1,2})d(\d{1,2})\b/i) ||
+    normalized.match(/\bweek\s*(\d{1,2})\s*day\s*(\d{1,2})\b/i)
+
+  const weekOnlyMatch = normalized.match(/\b(?:week|minggu|w)\s*(\d{1,2})\b/i)
+  const dayOnlyMatch = normalized.match(/\b(?:day|hari|d)\s*(\d{1,2})\b/i)
+  const sectionMatch = normalized.match(/\b(grammar|vocabulary|vocab|kosakata|kanji|kana)\b/i)
+
+  const week = weekDayMatch?.[1] ?? weekOnlyMatch?.[1]
+  const day = weekDayMatch?.[2] ?? dayOnlyMatch?.[1]
+
+  if (!week && !day && !sectionMatch) return null
+
+  const sectionAliases: Record<string, string> = {
+    vocab: 'vocabulary',
+    kosakata: 'vocabulary'
+  }
+  const section = sectionMatch?.[1]?.toLowerCase()
+
+  return {
+    week: week ? Number(week) : undefined,
+    day: day ? Number(day) : undefined,
+    section: section ? (sectionAliases[section] || section) : undefined,
+    isSectionOnly: Boolean(section && !week && !day && normalized === section)
+  }
+}
+
+const lessonDocToResult = (doc: LessonSearchDoc): LessonSearchItem => {
+  const topic = typeof doc.topic === 'string' ? doc.topic : ''
+  const topicLabel = typeof doc.topicLabel === 'string' ? doc.topicLabel : ''
+  const description = doc.description || ''
+  const pathSchedule = lessonScheduleFromPath(doc.path)
+  const week = Number(doc.week) || pathSchedule?.week
+  const day = Number(doc.day) || pathSchedule?.day
+  const schedule = week && day ? `Week ${week} Day ${day}` : ''
+
+  return {
+    id: doc.path || '',
+    title: doc.title || topic || 'Untitled',
+    titles: [schedule, topicLabel].filter(Boolean),
+    content: [topic, topicLabel, description].filter(Boolean).join(' · '),
+    snippets: {
+      content: [topicLabel, description].filter(Boolean).join(' · ')
+    }
+  }
+}
+
+const sectionResult = (section: string): LessonSearchItem | null => {
+  const doc = (props.docs || []).find((item) => item.path === `${props.scopePath}/${section}`)
+  if (!doc?.path) return null
+
+  return {
+    id: doc.path,
+    title: doc.title || section,
+    titles: [doc.level, section].filter(Boolean),
+    content: doc.description || '',
+    snippets: {
+      content: doc.description || ''
+    }
+  }
+}
+
+const scheduleResults = (value: string) => {
+  const schedule = parseScheduleQuery(value)
+  if (!schedule?.week && !schedule?.day) return []
+
+  return (props.docs || [])
+    .map((doc) => ({
+      doc,
+      pathSchedule: lessonScheduleFromPath(doc.path)
+    }))
+    .filter(({ doc, pathSchedule }) => doc.path && pathSchedule)
+    .filter(({ doc, pathSchedule }) => schedule.week ? (Number(doc.week) || pathSchedule?.week) === schedule.week : true)
+    .filter(({ doc, pathSchedule }) => schedule.day ? (Number(doc.day) || pathSchedule?.day) === schedule.day : true)
+    .filter(({ doc }) => schedule.section ? doc.path?.includes(`/${schedule.section}/`) : true)
+    .sort((a, b) => {
+      const sectionOrder = ['kanji', 'vocabulary', 'grammar', 'kana']
+      const aSection = a.doc.path?.split('/')[3] || ''
+      const bSection = b.doc.path?.split('/')[3] || ''
+      return sectionOrder.indexOf(aSection) - sectionOrder.indexOf(bSection)
+    })
+    .map(({ doc }) => lessonDocToResult(doc))
+}
+
+const resultMeta = (result: LessonSearchItem) => {
   const path = result.id.split('#')[0] || ''
   const segments = path.replace(/^\/learn\//, '').split('/').filter(Boolean)
 
@@ -84,14 +221,14 @@ const resultMeta = (result: SearchResult) => {
   return titles.length ? titles.join(' · ') : path
 }
 
-const resultSnippet = (result: SearchResult) => {
+const resultSnippet = (result: LessonSearchItem) => {
   return result.snippets?.content || result.snippets?.title || result.content
 }
 
 const runSearch = async (value: string) => {
   const term = value.trim()
 
-  if (term.length < 2) {
+  if (!meetsSearchLength(term)) {
     results.value = []
     activeIndex.value = 0
     isSearching.value = false
@@ -101,9 +238,14 @@ const runSearch = async (value: string) => {
   isSearching.value = true
 
   try {
+    const parsedQuery = parseScheduleQuery(term)
+    const scheduleMatches = scheduleResults(term)
+    const sectionLanding = parsedQuery?.section && parsedQuery.isSectionOnly
+      ? sectionResult(parsedQuery.section)
+      : null
     const matches = await search(term, {
       limit: 24,
-      minTermLength: 2,
+      minTermLength: hasJapaneseText(term) ? 1 : 2,
       snippet: {
         columns: ['content', 'title'],
         around: 24,
@@ -111,7 +253,17 @@ const runSearch = async (value: string) => {
       }
     })
 
-    results.value = matches.filter((result) => result.id.startsWith(props.scopePath))
+    const scopedMatches = matches
+      .filter((result) => result.id.startsWith(props.scopePath))
+      .filter((result) => parsedQuery?.section ? result.id.includes(`/${parsedQuery.section}`) : true)
+    const seen = new Set<string>()
+    results.value = [sectionLanding, ...scheduleMatches, ...scopedMatches]
+      .filter((result) => {
+        if (!result?.id || seen.has(result.id)) return false
+        seen.add(result.id)
+        return true
+      })
+      .slice(0, 24)
     activeIndex.value = 0
   } finally {
     isSearching.value = false
@@ -123,7 +275,7 @@ watch(query, (value) => {
     clearTimeout(searchTimer)
   }
 
-  if (value.trim().length < 2) {
+  if (!meetsSearchLength(value)) {
     results.value = []
     activeIndex.value = 0
     isSearching.value = false
@@ -156,7 +308,7 @@ const isTypingTarget = (target: EventTarget | null) => {
   return target.isContentEditable || tag === 'INPUT' || tag === 'TEXTAREA' || tag === 'SELECT'
 }
 
-const navigateToResult = async (result: SearchResult) => {
+const navigateToResult = async (result: LessonSearchItem) => {
   close()
   await router.push(result.id)
 }
@@ -253,14 +405,14 @@ onUnmounted(() => {
             v-if="!hasQuery"
             class="py-8 text-center text-sm text-[color:var(--color-muted)]"
           >
-            Type at least 2 characters to search.
+            Type at least 2 letters or 1 Japanese character to search.
           </p>
 
           <p
             v-else-if="hasQuery && !canSearch"
             class="py-8 text-center text-sm text-[color:var(--color-muted)]"
           >
-            Type at least 2 characters to search.
+            Type at least 2 letters or 1 Japanese character to search.
           </p>
 
           <p
