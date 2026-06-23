@@ -16,10 +16,10 @@ useHead({
     <div class="mx-auto max-w-6xl">
       <div class="flex items-start justify-between gap-6">
         <div>
-          <h1 class="font-japanese text-6xl font-semibold leading-tight tracking-normal text-[color:var(--color-primary)] sm:text-7xl lg:text-8xl">
+          <h1 class="font-japanese text-[clamp(3.15rem,13.5vw,6rem)] font-semibold leading-[1.08] tracking-normal text-[color:var(--color-primary)] sm:text-7xl lg:text-8xl">
             日本語の道
           </h1>
-          <p class="mt-8 max-w-2xl font-japanese text-3xl leading-relaxed text-[color:var(--color-muted)] sm:text-4xl">
+          <p class="mt-8 max-w-2xl whitespace-nowrap font-japanese text-[clamp(1.45rem,6.1vw,2.25rem)] leading-relaxed text-[color:var(--color-muted)] sm:text-4xl">
             一緒に勉強しましょう。
           </p>
         </div>
