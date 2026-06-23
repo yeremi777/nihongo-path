@@ -8,7 +8,7 @@ topicLabel: "Negara Anda di mana?"
 week: 1
 day: 6
 order: 6
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N5 Grammar"
 extraReference:

@@ -8,7 +8,7 @@ topicLabel: "Pemanasan global"
 week: 6
 day: 5
 order: 40
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Kanji"
 extraReference:

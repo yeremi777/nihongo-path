@@ -8,7 +8,7 @@ topicLabel: "Ini CD yang saya terima dari teman"
 week: 2
 day: 5
 order: 15
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N5 Grammar"
 extraReference:

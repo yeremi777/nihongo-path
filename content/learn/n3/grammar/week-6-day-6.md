@@ -8,7 +8,7 @@ topicLabel: "Selain itu..."
 week: 6
 day: 6
 order: 56
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Grammar"
 extraReference:

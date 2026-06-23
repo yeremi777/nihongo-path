@@ -8,7 +8,7 @@ topicLabel: "Kombinasi kanji"
 week: 3
 day: 5
 order: 19
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Kanji"
 extraReference:

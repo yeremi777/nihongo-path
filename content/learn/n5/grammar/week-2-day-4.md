@@ -8,7 +8,7 @@ topicLabel: "Bagaimana kalau kita jalan-jalan di taman?"
 week: 2
 day: 4
 order: 14
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N5 Grammar"
 extraReference:

@@ -8,7 +8,7 @@ topicLabel: "Ibu saya lebih tinggi daripada ayah saya"
 week: 3
 day: 5
 order: 25
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N5 Grammar"
 extraReference:

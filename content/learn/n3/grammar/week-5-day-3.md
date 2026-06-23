@@ -8,7 +8,7 @@ topicLabel: "Semoga aku lulus"
 week: 5
 day: 3
 order: 43
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Grammar"
 extraReference:

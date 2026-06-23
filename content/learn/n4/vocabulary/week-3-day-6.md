@@ -8,7 +8,7 @@ topicLabel: "Bahasa sopan dasar"
 week: 3
 day: 6
 order: 26
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Vocabulary"
 extraReference:

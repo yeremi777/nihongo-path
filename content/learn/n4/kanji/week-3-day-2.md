@@ -8,7 +8,7 @@ topicLabel: "Kanji dengan radikal sama"
 week: 3
 day: 2
 order: 16
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Kanji"
 extraReference:

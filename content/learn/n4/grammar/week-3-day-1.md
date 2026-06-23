@@ -8,7 +8,7 @@ topicLabel: "Menulis kanji itu sulit"
 week: 3
 day: 1
 order: 21
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Grammar"
 extraReference:

@@ -8,7 +8,7 @@ topicLabel: "Saat kesulitan"
 week: 2
 day: 6
 order: 13
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Kanji"
 extraReference:

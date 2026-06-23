@@ -8,7 +8,7 @@ topicLabel: "Penampilan dan tindakan orang"
 week: 2
 day: 2
 order: 12
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Vocabulary"
 extraReference:

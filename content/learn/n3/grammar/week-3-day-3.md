@@ -8,7 +8,7 @@ topicLabel: "Saya tadinya berencana belajar, tapi..."
 week: 3
 day: 3
 order: 23
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Grammar"
 extraReference:

@@ -8,7 +8,7 @@ topicLabel: "Buku ini mudah digunakan"
 week: 4
 day: 3
 order: 33
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Grammar"
 extraReference:

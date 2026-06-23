@@ -8,7 +8,7 @@ topicLabel: "Seperti yang dikatakan"
 week: 1
 day: 5
 order: 5
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Grammar"
 extraReference:

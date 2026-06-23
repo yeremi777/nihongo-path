@@ -8,7 +8,7 @@ topicLabel: "Kanji mirip bentuknya"
 week: 2
 day: 2
 order: 9
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Kanji"
 extraReference:

@@ -8,7 +8,7 @@ topicLabel: "Mesin penjual otomatis"
 week: 3
 day: 3
 order: 17
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Kanji"
 extraReference:

@@ -8,7 +8,7 @@ topicLabel: "Formulir cek kesehatan"
 week: 5
 day: 6
 order: 34
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Kanji"
 extraReference:

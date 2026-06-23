@@ -8,7 +8,7 @@ topicLabel: "Membayar"
 week: 3
 day: 6
 order: 26
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Vocabulary"
 extraReference:

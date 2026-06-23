@@ -8,7 +8,7 @@ topicLabel: "Orang seperti apa yang disukai?"
 week: 5
 day: 3
 order: 43
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Vocabulary"
 extraReference:

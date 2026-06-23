@@ -8,7 +8,7 @@ topicLabel: "Saya lupa hal yang sudah dipelajari"
 week: 2
 day: 2
 order: 12
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Grammar"
 extraReference:

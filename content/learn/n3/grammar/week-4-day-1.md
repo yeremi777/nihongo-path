@@ -8,7 +8,7 @@ topicLabel: "Padahal masih anak-anak"
 week: 4
 day: 1
 order: 31
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Grammar"
 extraReference:

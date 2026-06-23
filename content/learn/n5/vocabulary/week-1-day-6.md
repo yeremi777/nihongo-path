@@ -8,7 +8,7 @@ topicLabel: "Musim, warna, tempat, dan benda"
 week: 1
 day: 6
 order: 6
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N5 Vocabulary"
 extraReference:

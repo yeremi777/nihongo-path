@@ -8,7 +8,7 @@ topicLabel: "Mengirim email"
 week: 5
 day: 1
 order: 29
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Kanji"
 extraReference:

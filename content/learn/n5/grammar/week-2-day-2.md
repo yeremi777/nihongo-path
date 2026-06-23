@@ -8,7 +8,7 @@ topicLabel: "Gurunya cantik dan baik hati"
 week: 2
 day: 2
 order: 12
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N5 Grammar"
 extraReference:

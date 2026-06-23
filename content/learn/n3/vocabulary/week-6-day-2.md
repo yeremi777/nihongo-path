@@ -8,7 +8,7 @@ topicLabel: "Kata keterangan cara"
 week: 6
 day: 2
 order: 52
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Vocabulary"
 extraReference:

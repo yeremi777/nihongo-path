@@ -8,7 +8,7 @@ topicLabel: "Kanji untuk membentuk kata"
 week: 2
 day: 5
 order: 12
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Kanji"
 extraReference:

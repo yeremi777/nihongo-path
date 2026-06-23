@@ -8,7 +8,7 @@ topicLabel: "Kanji berpasangan dan adjektiva"
 week: 1
 day: 3
 order: 3
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N5 Kanji"
 extraReference:

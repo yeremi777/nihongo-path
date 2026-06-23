@@ -8,7 +8,7 @@ topicLabel: "Kata sifat berpasangan"
 week: 1
 day: 6
 order: 6
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Vocabulary"
 extraReference:

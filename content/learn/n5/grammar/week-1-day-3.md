@@ -8,7 +8,7 @@ topicLabel: "Kakak laki-laki saya tinggi"
 week: 1
 day: 3
 order: 3
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N5 Grammar"
 extraReference:

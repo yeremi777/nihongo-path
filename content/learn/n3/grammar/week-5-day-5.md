@@ -8,7 +8,7 @@ topicLabel: "Walaupun mahal"
 week: 5
 day: 5
 order: 45
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Grammar"
 extraReference:

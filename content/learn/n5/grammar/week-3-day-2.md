@@ -8,7 +8,7 @@ topicLabel: "Saya belum mengerjakan PR"
 week: 3
 day: 2
 order: 22
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N5 Grammar"
 extraReference:

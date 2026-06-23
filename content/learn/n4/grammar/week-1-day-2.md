@@ -8,7 +8,7 @@ topicLabel: "Saya hanya bisa menulis sedikit kanji"
 week: 1
 day: 2
 order: 2
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Grammar"
 extraReference:

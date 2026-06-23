@@ -8,7 +8,7 @@ topicLabel: "Larangan merokok"
 week: 2
 day: 2
 order: 9
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Kanji"
 extraReference:

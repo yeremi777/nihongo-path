@@ -8,7 +8,7 @@ topicLabel: "Pintunya terkunci"
 week: 4
 day: 5
 order: 35
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Grammar"
 extraReference:

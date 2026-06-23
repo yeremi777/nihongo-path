@@ -8,7 +8,7 @@ topicLabel: "Mari membiasakan menulis diary"
 week: 2
 day: 4
 order: 14
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Grammar"
 extraReference:

@@ -8,7 +8,7 @@ topicLabel: "Resep masakan"
 week: 3
 day: 4
 order: 18
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Kanji"
 extraReference:

@@ -8,7 +8,7 @@ topicLabel: "Hubungan seperti apa?"
 week: 5
 day: 1
 order: 41
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Vocabulary"
 extraReference:

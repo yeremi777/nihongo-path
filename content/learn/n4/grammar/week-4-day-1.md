@@ -8,7 +8,7 @@ topicLabel: "Kalau libur musim panas tiba, saya akan pulang ke negara saya"
 week: 4
 day: 1
 order: 31
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Grammar"
 extraReference:

@@ -8,7 +8,7 @@ topicLabel: "Keadaan dan kejadian"
 week: 3
 day: 3
 order: 23
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Vocabulary"
 extraReference:

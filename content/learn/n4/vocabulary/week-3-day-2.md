@@ -8,7 +8,7 @@ topicLabel: "Ukuran, jumlah, dan durasi"
 week: 3
 day: 2
 order: 22
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Vocabulary"
 extraReference:

@@ -8,7 +8,7 @@ topicLabel: "Membuat rencana"
 week: 2
 day: 1
 order: 11
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Vocabulary"
 extraReference:

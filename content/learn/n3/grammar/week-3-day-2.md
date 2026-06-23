@@ -8,7 +8,7 @@ topicLabel: "Untuk ukuran itu"
 week: 3
 day: 2
 order: 22
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Grammar"
 extraReference:

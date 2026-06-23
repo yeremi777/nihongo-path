@@ -8,7 +8,7 @@ topicLabel: "Kamu sebaiknya belajar lebih banyak"
 week: 2
 day: 6
 order: 16
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Grammar"
 extraReference:

@@ -8,7 +8,7 @@ topicLabel: "Kalau bukan aku"
 week: 6
 day: 1
 order: 51
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Grammar"
 extraReference:

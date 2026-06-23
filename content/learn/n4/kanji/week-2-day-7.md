@@ -8,7 +8,7 @@ topicLabel: "Rambu di dalam gedung"
 week: 2
 day: 7
 order: 14
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Kanji"
 extraReference:

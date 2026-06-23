@@ -8,7 +8,7 @@ topicLabel: "Dia bahkan tidak mau mendengarkan"
 week: 1
 day: 6
 order: 6
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Grammar"
 extraReference:

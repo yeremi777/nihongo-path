@@ -8,7 +8,7 @@ topicLabel: "Bacaan khusus"
 week: 3
 day: 1
 order: 15
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Kanji"
 extraReference:

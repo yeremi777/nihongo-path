@@ -8,7 +8,7 @@ topicLabel: "Kebutuhan sehari-hari"
 week: 4
 day: 1
 order: 22
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Kanji"
 extraReference:

@@ -8,7 +8,7 @@ topicLabel: "Bisakah Anda membantu saya?"
 week: 3
 day: 5
 order: 25
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Grammar"
 extraReference:

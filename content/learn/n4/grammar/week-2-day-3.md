@@ -8,7 +8,7 @@ topicLabel: "Terima kasih sudah mengajari saya"
 week: 2
 day: 3
 order: 13
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Grammar"
 extraReference:

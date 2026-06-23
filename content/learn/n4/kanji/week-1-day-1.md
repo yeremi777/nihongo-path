@@ -8,7 +8,7 @@ topicLabel: "Kanji dengan banyak bacaan"
 week: 1
 day: 1
 order: 1
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Kanji"
 extraReference:

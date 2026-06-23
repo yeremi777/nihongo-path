@@ -8,7 +8,7 @@ topicLabel: "Nama bagian kanji"
 week: 3
 day: 7
 order: 21
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Kanji"
 extraReference:

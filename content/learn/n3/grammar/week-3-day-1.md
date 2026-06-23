@@ -8,7 +8,7 @@ topicLabel: "Semurah apa pun"
 week: 3
 day: 1
 order: 21
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Grammar"
 extraReference:

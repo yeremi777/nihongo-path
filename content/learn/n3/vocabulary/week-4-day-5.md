@@ -8,7 +8,7 @@ topicLabel: "Menggunakan komputer"
 week: 4
 day: 5
 order: 35
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Vocabulary"
 extraReference:

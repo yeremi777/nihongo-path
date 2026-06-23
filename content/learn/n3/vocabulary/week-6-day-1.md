@@ -8,7 +8,7 @@ topicLabel: "Kata keterangan tingkat intensitas"
 week: 6
 day: 1
 order: 51
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Vocabulary"
 extraReference:

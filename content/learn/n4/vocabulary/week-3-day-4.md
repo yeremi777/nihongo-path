@@ -8,7 +8,7 @@ topicLabel: "Rencana dan persiapan"
 week: 3
 day: 4
 order: 24
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Vocabulary"
 extraReference:

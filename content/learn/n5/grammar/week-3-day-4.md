@@ -8,7 +8,7 @@ topicLabel: "Saat senggang, kamu melakukan apa?"
 week: 3
 day: 4
 order: 24
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N5 Grammar"
 extraReference:

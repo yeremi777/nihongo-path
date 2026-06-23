@@ -8,7 +8,7 @@ topicLabel: "Memberi salam"
 week: 5
 day: 2
 order: 42
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Vocabulary"
 extraReference:

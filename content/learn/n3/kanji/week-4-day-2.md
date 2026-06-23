@@ -8,7 +8,7 @@ topicLabel: "Email iklan"
 week: 4
 day: 2
 order: 23
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Kanji"
 extraReference:

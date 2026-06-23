@@ -8,7 +8,7 @@ topicLabel: "Sebagai gantinya"
 week: 4
 day: 2
 order: 32
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Grammar"
 extraReference:

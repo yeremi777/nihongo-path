@@ -8,7 +8,7 @@ topicLabel: "Iklan lowongan kerja"
 week: 6
 day: 2
 order: 37
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Kanji"
 extraReference:

@@ -8,7 +8,7 @@ topicLabel: "Politik"
 week: 6
 day: 6
 order: 41
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Kanji"
 extraReference:

@@ -8,7 +8,7 @@ topicLabel: "Naik kereta (2)"
 week: 2
 day: 3
 order: 13
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Vocabulary"
 extraReference:

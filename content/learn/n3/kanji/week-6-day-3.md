@@ -8,7 +8,7 @@ topicLabel: "Artikel olahraga"
 week: 6
 day: 3
 order: 38
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Kanji"
 extraReference:

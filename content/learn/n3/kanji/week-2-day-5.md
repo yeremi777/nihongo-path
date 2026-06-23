@@ -8,7 +8,7 @@ topicLabel: "Rumah sakit"
 week: 2
 day: 5
 order: 12
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Kanji"
 extraReference:

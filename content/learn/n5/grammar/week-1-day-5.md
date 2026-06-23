@@ -8,7 +8,7 @@ topicLabel: "Saya berjalan sampai sini"
 week: 1
 day: 5
 order: 5
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N5 Grammar"
 extraReference:

@@ -8,7 +8,7 @@ topicLabel: "Peta wisata"
 week: 2
 day: 3
 order: 10
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Kanji"
 extraReference:

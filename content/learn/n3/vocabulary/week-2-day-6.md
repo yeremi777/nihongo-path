@@ -8,7 +8,7 @@ topicLabel: "Menyelesaikan urusan"
 week: 2
 day: 6
 order: 16
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Vocabulary"
 extraReference:

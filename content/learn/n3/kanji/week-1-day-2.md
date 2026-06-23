@@ -8,7 +8,7 @@ topicLabel: "Penyeberangan pejalan kaki"
 week: 1
 day: 2
 order: 2
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Kanji"
 extraReference:

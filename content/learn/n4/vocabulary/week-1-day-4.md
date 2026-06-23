@@ -8,7 +8,7 @@ topicLabel: "Rutinitas dan persiapan pagi"
 week: 1
 day: 4
 order: 4
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Vocabulary"
 extraReference:

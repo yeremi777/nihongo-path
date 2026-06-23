@@ -8,7 +8,7 @@ topicLabel: "Formulir pendaftaran"
 week: 4
 day: 4
 order: 25
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Kanji"
 extraReference:

@@ -8,7 +8,7 @@ topicLabel: "Kuis minggu 6"
 week: 6
 day: 7
 order: 42
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Kanji"
 extraReference:

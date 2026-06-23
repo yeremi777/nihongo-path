@@ -8,7 +8,7 @@ topicLabel: "Jadwal dan janji bertemu"
 week: 3
 day: 1
 order: 21
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Vocabulary"
 extraReference:

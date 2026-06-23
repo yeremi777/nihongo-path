@@ -8,7 +8,7 @@ topicLabel: "Saya belajar sambil mendengarkan musik"
 week: 1
 day: 5
 order: 5
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Grammar"
 extraReference:

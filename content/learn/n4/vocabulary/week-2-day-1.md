@@ -8,7 +8,7 @@ topicLabel: "Kata kerja berpasangan"
 week: 2
 day: 1
 order: 11
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Vocabulary"
 extraReference:

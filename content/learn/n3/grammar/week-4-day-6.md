@@ -8,7 +8,7 @@ topicLabel: "Dengan kata lain..."
 week: 4
 day: 6
 order: 36
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Grammar"
 extraReference:

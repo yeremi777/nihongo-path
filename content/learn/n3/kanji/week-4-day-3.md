@@ -8,7 +8,7 @@ topicLabel: "Belanja lewat surat"
 week: 4
 day: 3
 order: 24
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Kanji"
 extraReference:

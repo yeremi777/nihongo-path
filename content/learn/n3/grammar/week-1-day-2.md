@@ -8,7 +8,7 @@ topicLabel: "Taruh saja di sana"
 week: 1
 day: 2
 order: 2
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Grammar"
 extraReference:

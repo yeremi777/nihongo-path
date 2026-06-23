@@ -8,7 +8,7 @@ topicLabel: "Tolong datang paling lambat jam 9"
 week: 1
 day: 3
 order: 3
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Grammar"
 extraReference:

@@ -8,7 +8,7 @@ topicLabel: "Kata kerja bermakna ganda (2)"
 week: 6
 day: 6
 order: 56
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Vocabulary"
 extraReference:

@@ -8,7 +8,7 @@ topicLabel: "Kuesioner"
 week: 5
 day: 2
 order: 30
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Kanji"
 extraReference:

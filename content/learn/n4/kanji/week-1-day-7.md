@@ -8,7 +8,7 @@ topicLabel: "Resep masakan"
 week: 1
 day: 7
 order: 7
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Kanji"
 extraReference:

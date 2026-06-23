@@ -8,7 +8,7 @@ topicLabel: "Tubuh, pakaian, dan kata hitung"
 week: 1
 day: 7
 order: 7
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N5 Vocabulary"
 extraReference:

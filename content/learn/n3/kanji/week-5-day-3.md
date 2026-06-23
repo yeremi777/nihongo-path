@@ -8,7 +8,7 @@ topicLabel: "Kelas bahasa Jepang"
 week: 5
 day: 3
 order: 31
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Kanji"
 extraReference:

@@ -8,7 +8,7 @@ topicLabel: "Mari memasak (1)"
 week: 1
 day: 2
 order: 2
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Vocabulary"
 extraReference:

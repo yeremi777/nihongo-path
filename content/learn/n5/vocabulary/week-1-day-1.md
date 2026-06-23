@@ -8,7 +8,7 @@ topicLabel: "Rasa, suhu, ukuran, dan kesukaan"
 week: 1
 day: 1
 order: 1
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N5 Vocabulary"
 extraReference:

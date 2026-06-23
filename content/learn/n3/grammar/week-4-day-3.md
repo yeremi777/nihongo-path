@@ -8,7 +8,7 @@ topicLabel: "Semakin dilihat, semakin..."
 week: 4
 day: 3
 order: 33
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Grammar"
 extraReference:

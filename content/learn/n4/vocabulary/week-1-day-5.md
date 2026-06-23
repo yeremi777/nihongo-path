@@ -8,7 +8,7 @@ topicLabel: "Kosakata yang mudah tertukar"
 week: 1
 day: 5
 order: 5
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Vocabulary"
 extraReference:

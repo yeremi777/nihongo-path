@@ -8,7 +8,7 @@ topicLabel: "Ayo bangun pagi-pagi"
 week: 3
 day: 3
 order: 23
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N5 Grammar"
 extraReference:

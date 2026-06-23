@@ -8,7 +8,7 @@ topicLabel: "Peta kota"
 week: 2
 day: 4
 order: 11
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Kanji"
 extraReference:

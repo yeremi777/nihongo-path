@@ -8,7 +8,7 @@ topicLabel: "Ungkapan waktu"
 week: 1
 day: 2
 order: 2
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N5 Kanji"
 extraReference:

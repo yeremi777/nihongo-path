@@ -8,7 +8,7 @@ topicLabel: "Lebih tepat daripada “cantik”"
 week: 2
 day: 5
 order: 15
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Grammar"
 extraReference:

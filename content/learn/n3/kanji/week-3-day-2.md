@@ -8,7 +8,7 @@ topicLabel: "Tanggal kedaluwarsa"
 week: 3
 day: 2
 order: 16
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Kanji"
 extraReference:

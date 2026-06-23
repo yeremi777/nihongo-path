@@ -8,7 +8,7 @@ topicLabel: "Ekonomi"
 week: 6
 day: 4
 order: 39
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Kanji"
 extraReference:

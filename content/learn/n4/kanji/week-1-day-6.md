@@ -8,7 +8,7 @@ topicLabel: "Belajar dalam kelompok arah"
 week: 1
 day: 6
 order: 6
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Kanji"
 extraReference:

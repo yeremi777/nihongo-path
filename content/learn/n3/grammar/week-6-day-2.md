@@ -8,7 +8,7 @@ topicLabel: "Bisa bicara, tapi..."
 week: 6
 day: 2
 order: 52
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Grammar"
 extraReference:

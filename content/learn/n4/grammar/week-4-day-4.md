@@ -8,7 +8,7 @@ topicLabel: "Saya dipaksa berhenti dari perusahaan"
 week: 4
 day: 4
 order: 34
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Grammar"
 extraReference:

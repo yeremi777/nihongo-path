@@ -8,7 +8,7 @@ topicLabel: "Belajar dalam kelompok warna"
 week: 2
 day: 6
 order: 13
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Kanji"
 extraReference:

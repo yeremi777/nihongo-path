@@ -8,7 +8,7 @@ topicLabel: "Yang dimaksud “hemat energi” adalah..."
 week: 2
 day: 4
 order: 14
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Grammar"
 extraReference:

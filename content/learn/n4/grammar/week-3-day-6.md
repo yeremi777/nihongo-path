@@ -8,7 +8,7 @@ topicLabel: "Hari ini saya berniat tidak minum alkohol"
 week: 3
 day: 6
 order: 26
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Grammar"
 extraReference:

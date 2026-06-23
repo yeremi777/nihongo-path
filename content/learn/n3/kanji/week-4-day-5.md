@@ -8,7 +8,7 @@ topicLabel: "Pemesanan"
 week: 4
 day: 5
 order: 26
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Kanji"
 extraReference:

@@ -8,7 +8,7 @@ topicLabel: "Pelafalan dan penulisan"
 week: 3
 day: 4
 order: 18
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Kanji"
 extraReference:

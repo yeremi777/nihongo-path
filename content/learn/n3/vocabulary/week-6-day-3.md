@@ -8,7 +8,7 @@ topicLabel: "Kata keterangan perubahan"
 week: 6
 day: 3
 order: 53
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Vocabulary"
 extraReference:

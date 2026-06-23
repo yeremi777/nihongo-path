@@ -8,7 +8,7 @@ topicLabel: "Ngomong-ngomong"
 week: 5
 day: 6
 order: 46
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Grammar"
 extraReference:

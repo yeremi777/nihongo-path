@@ -8,7 +8,7 @@ topicLabel: "Mari bersih-bersih"
 week: 1
 day: 4
 order: 4
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Vocabulary"
 extraReference:

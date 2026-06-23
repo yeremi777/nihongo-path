@@ -8,7 +8,7 @@ topicLabel: "Waktu, biaya, dan kondisi"
 week: 1
 day: 3
 order: 3
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N5 Vocabulary"
 extraReference:

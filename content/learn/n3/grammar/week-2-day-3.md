@@ -8,7 +8,7 @@ topicLabel: "Tentang kamu"
 week: 2
 day: 3
 order: 13
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Grammar"
 extraReference:

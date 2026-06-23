@@ -8,7 +8,7 @@ topicLabel: "Karangan"
 week: 5
 day: 4
 order: 32
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Kanji"
 extraReference:

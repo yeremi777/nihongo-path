@@ -8,7 +8,7 @@ topicLabel: "Kondisi tubuh dan antar-jemput"
 week: 1
 day: 3
 order: 3
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Vocabulary"
 extraReference:

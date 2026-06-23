@@ -8,7 +8,7 @@ topicLabel: "Kanji fokus pelafalan"
 week: 2
 day: 4
 order: 11
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Kanji"
 extraReference:

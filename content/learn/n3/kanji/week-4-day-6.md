@@ -8,7 +8,7 @@ topicLabel: "Pemberitahuan tidak ada di rumah"
 week: 4
 day: 6
 order: 27
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Kanji"
 extraReference:

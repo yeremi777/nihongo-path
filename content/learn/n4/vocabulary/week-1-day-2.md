@@ -8,7 +8,7 @@ topicLabel: "Kata untuk menyatakan perasaan"
 week: 1
 day: 2
 order: 2
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Vocabulary"
 extraReference:

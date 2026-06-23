@@ -8,7 +8,7 @@ topicLabel: "Minum alkohol"
 week: 3
 day: 5
 order: 25
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Vocabulary"
 extraReference:

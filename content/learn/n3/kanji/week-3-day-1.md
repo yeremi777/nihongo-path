@@ -8,7 +8,7 @@ topicLabel: "Simpan di kulkas"
 week: 3
 day: 1
 order: 15
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Kanji"
 extraReference:

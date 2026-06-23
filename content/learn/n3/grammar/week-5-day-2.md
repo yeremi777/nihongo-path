@@ -8,7 +8,7 @@ topicLabel: "Baru matang"
 week: 5
 day: 2
 order: 42
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Grammar"
 extraReference:

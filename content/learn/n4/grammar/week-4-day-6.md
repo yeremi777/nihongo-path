@@ -8,7 +8,7 @@ topicLabel: "Semoga saya lulus ujian"
 week: 4
 day: 6
 order: 36
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Grammar"
 extraReference:

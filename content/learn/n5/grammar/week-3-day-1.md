@@ -8,7 +8,7 @@ topicLabel: "Wah, itu berat ya"
 week: 3
 day: 1
 order: 21
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N5 Grammar"
 extraReference:

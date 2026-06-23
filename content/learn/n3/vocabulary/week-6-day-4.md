@@ -8,7 +8,7 @@ topicLabel: "Kombinasi kata"
 week: 6
 day: 4
 order: 54
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Vocabulary"
 extraReference:

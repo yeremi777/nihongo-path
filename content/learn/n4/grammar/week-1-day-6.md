@@ -8,7 +8,7 @@ topicLabel: "Saya belum pernah melihat salju"
 week: 1
 day: 6
 order: 6
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Grammar"
 extraReference:

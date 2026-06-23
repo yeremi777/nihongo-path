@@ -8,7 +8,7 @@ topicLabel: "Menulis email"
 week: 4
 day: 6
 order: 36
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Vocabulary"
 extraReference:

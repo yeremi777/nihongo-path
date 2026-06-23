@@ -8,7 +8,7 @@ topicLabel: "Saya tidak membelinya karena mahal"
 week: 2
 day: 6
 order: 16
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N5 Grammar"
 extraReference:

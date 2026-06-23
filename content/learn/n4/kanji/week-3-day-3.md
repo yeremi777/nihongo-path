@@ -8,7 +8,7 @@ topicLabel: "Belajar dalam pasangan"
 week: 3
 day: 3
 order: 17
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Kanji"
 extraReference:

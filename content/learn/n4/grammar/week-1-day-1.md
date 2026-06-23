@@ -8,7 +8,7 @@ topicLabel: "Saya menggosok gigi dua kali sehari"
 week: 1
 day: 1
 order: 1
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Grammar"
 extraReference:

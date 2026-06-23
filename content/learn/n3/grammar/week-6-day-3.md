@@ -8,7 +8,7 @@ topicLabel: "Hampir ketinggalan kereta"
 week: 6
 day: 3
 order: 53
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Grammar"
 extraReference:

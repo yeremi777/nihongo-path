@@ -8,7 +8,7 @@ topicLabel: "Jarang pergi"
 week: 6
 day: 5
 order: 55
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Grammar"
 extraReference:

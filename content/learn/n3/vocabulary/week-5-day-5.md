@@ -8,7 +8,7 @@ topicLabel: "Seperti apa keadaannya? (1)"
 week: 5
 day: 5
 order: 45
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Vocabulary"
 extraReference:

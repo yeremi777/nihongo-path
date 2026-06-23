@@ -8,7 +8,7 @@ topicLabel: "Tolong jangan lupa PR"
 week: 2
 day: 3
 order: 13
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N5 Grammar"
 extraReference:

@@ -8,7 +8,7 @@ topicLabel: "Saya harus mengerjakan PR"
 week: 2
 day: 1
 order: 11
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Grammar"
 extraReference:

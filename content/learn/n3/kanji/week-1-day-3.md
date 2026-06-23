@@ -8,7 +8,7 @@ topicLabel: "Rambu dan tanda"
 week: 1
 day: 3
 order: 3
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Kanji"
 extraReference:

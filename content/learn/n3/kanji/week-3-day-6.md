@@ -8,7 +8,7 @@ topicLabel: "Ponsel"
 week: 3
 day: 6
 order: 20
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Kanji"
 extraReference:

@@ -8,7 +8,7 @@ topicLabel: "Di dapur dan ruang keluarga"
 week: 1
 day: 1
 order: 1
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Vocabulary"
 extraReference:

@@ -8,7 +8,7 @@ topicLabel: "Ayo pergi meskipun hujan"
 week: 3
 day: 3
 order: 23
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Grammar"
 extraReference:

@@ -8,7 +8,7 @@ topicLabel: "Cara membaca kanji ini sulit"
 week: 3
 day: 4
 order: 24
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N4 Grammar"
 extraReference:

@@ -8,7 +8,7 @@ topicLabel: "Kondisi tubuh bagaimana?"
 week: 5
 day: 4
 order: 44
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Vocabulary"
 extraReference:

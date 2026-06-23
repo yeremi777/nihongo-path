@@ -8,7 +8,7 @@ topicLabel: "Mari kerjakan PR di rumah"
 week: 1
 day: 4
 order: 4
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N5 Grammar"
 extraReference:

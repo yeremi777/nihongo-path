@@ -8,7 +8,7 @@ topicLabel: "Mesin fotokopi dan pesan telepon"
 week: 3
 day: 5
 order: 19
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Kanji"
 extraReference:

@@ -8,7 +8,7 @@ topicLabel: "Pergi ke sekolah (2)"
 week: 4
 day: 2
 order: 32
-status: "draft"
+status: "active"
 mainReference:
   - "Soumatome N3 Vocabulary"
 extraReference:
