@@ -1211,7 +1211,6 @@ useSeoMeta({
               <path d="M4 18h16" />
             </svg>
           </button>
-          <p class="font-japanese text-base font-semibold text-[color:var(--color-primary)]">日本語の道</p>
         </div>
 
         <div class="flex shrink-0 items-center gap-2">
@@ -1254,7 +1253,13 @@ useSeoMeta({
         <div class="border-b px-5 py-5" style="border-color: var(--color-border)">
           <div class="flex items-start justify-between gap-4">
             <div>
-              <p class="font-japanese text-base font-semibold text-[color:var(--color-primary)]">日本語の道</p>
+              <NuxtLink
+                to="/"
+                class="font-japanese text-2xl font-semibold text-[color:var(--color-primary)] transition hover:text-[color:var(--color-text)]"
+                @click="mobileSidebarOpen = false"
+              >
+                日本語の道
+              </NuxtLink>
               <h2 class="mt-3 text-xl font-semibold leading-tight text-[color:var(--color-text)]">
                 {{ levelSummaries[levelKey]?.title || levelKey.toUpperCase() }}
               </h2>
@@ -1383,7 +1388,12 @@ useSeoMeta({
     <aside class="hidden border-b bg-[color:var(--color-surface)]/55 lg:sticky lg:top-0 lg:block lg:h-screen lg:border-b-0 lg:border-r" style="border-color: var(--color-border)">
       <div class="flex h-full flex-col">
         <div class="border-b px-6 py-6" style="border-color: var(--color-border)">
-          <p class="font-japanese text-lg font-semibold text-[color:var(--color-primary)]">日本語の道</p>
+          <NuxtLink
+            to="/"
+            class="font-japanese text-2xl font-semibold text-[color:var(--color-primary)] transition hover:text-[color:var(--color-text)]"
+          >
+            日本語の道
+          </NuxtLink>
           <h2 class="mt-4 text-xl font-semibold leading-tight text-[color:var(--color-text)]">
             <template v-if="isLevelRoot">{{ pageTitle }}</template>
             <template v-else>
