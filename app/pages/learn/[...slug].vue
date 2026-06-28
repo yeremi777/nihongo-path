@@ -248,7 +248,7 @@ const defaultOutlines: Record<string, OutlineSection[]> = {
 }
 
 watch(isArticlePage, (value) => {
-  setFallbackPlacement(value ? 'toolbar' : 'sidebar')
+  setFallbackPlacement(value ? 'center' : 'sidebar')
 }, { immediate: true })
 
 const contentOutlineBySection = computed<Record<string, OutlineItem[]>>(() => {

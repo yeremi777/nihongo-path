@@ -46,7 +46,7 @@ const panelStyle = computed(() => {
     return {}
   }
 
-  const panelMaxWidth = 384
+  const panelMaxWidth = fallbackPlacement.value === 'center' ? 560 : 384
   const gap = 8
   const viewportPadding = 16
 
@@ -69,13 +69,13 @@ const panelStyle = computed(() => {
 
   const width = Math.min(panelMaxWidth, window.innerWidth - viewportPadding * 2)
 
-  if (fallbackPlacement.value === 'toolbar') {
+  if (fallbackPlacement.value === 'center') {
     return {
-      top: '4.75rem',
-      right: '1rem',
-      left: 'auto',
+      top: 'clamp(5rem, 14vh, 8rem)',
+      left: '50%',
       width: `${width}px`,
-      maxHeight: 'calc(100vh - 6.25rem)'
+      maxHeight: 'calc(100vh - 7rem)',
+      transform: 'translateX(-50%)'
     }
   }
 

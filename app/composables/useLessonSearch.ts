@@ -8,14 +8,16 @@ type SearchAnchorRect = {
 export function useLessonSearch() {
   const isOpen = useState('lesson-search-open', () => false)
   const anchorRect = useState<SearchAnchorRect | null>('lesson-search-anchor', () => null)
-  const fallbackPlacement = useState<'sidebar' | 'toolbar'>('lesson-search-placement', () => 'sidebar')
+  const fallbackPlacement = useState<'sidebar' | 'center'>('lesson-search-placement', () => 'sidebar')
 
-  const setFallbackPlacement = (placement: 'sidebar' | 'toolbar') => {
+  const setFallbackPlacement = (placement: 'sidebar' | 'center') => {
     fallbackPlacement.value = placement
   }
 
   const open = (element?: HTMLElement | null) => {
-    if (element) {
+    if (fallbackPlacement.value === 'center') {
+      anchorRect.value = null
+    } else if (element) {
       const rect = element.getBoundingClientRect()
       anchorRect.value = {
         top: rect.bottom,
