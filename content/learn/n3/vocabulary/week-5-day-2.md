@@ -29,14 +29,6 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 握手, はじめまし�
   <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
 </div>
 
-zin, dan pulang dari tempat kerja.
-
-Ungkapan hari ini tidak selalu diterjemahkan kata per kata; situasi sosial menentukan pilihan yang paling tepat.
-
-<div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> tentukan tempat dan hubungan pembicara dulu: rumah orang lain, kantor, atau percakapan perkenalan.
-</div>
-
 ## Daftar Kata
 
 ### Perkenalan
@@ -66,14 +58,32 @@ Ungkapan hari ini tidak selalu diterjemahkan kata per kata; situasi sosial menen
 | こちらでおかけになってお待ちください | こちらでおかけになっておまちください | silakan duduk dan tunggu di sini. |
 | お茶をお持ちします | おちゃをおもちします | saya akan membawakan teh. |
 | どうぞおかまいなく | どうぞおかまいなく | tidak usah repot-repot. |
+| どうぞお召し上がりください | どうぞおめしあがりください | silakan dinikmati (bentuk hormat 召し上がる). |
+| 遠慮なくいただきます | えんりょなくいただきます | kalau begitu, saya terima tanpa sungkan. |
+
+### Bertemu Lagi dan Simpati
+
+| Japanese | Reading | Arti & Catatan |
+|---|---|---|
+| ご無沙汰しています | ごぶさたしています | sudah lama tidak bertemu (sopan). |
+| お元気でいらっしゃいますか | おげんきでいらっしゃいますか | bagaimana kabar Anda? (sangat sopan). |
+| おかげさまで | おかげさまで | berkat Anda; syukurlah baik (jawaban merendah). |
+| お目にかかる | おめにかかる | bertemu (bentuk merendah dari 会う). |
+| ご主人 | ごしゅじん | suami orang lain (hormat); jangan untuk suami sendiri. |
+| 亡くなる | なくなる | meninggal dunia (halus). |
+| お気の毒に | おきのどくに | turut berduka; kasihan sekali. |
 
 ### Kantor dan Penutup
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
+| 社員 | しゃいん | karyawan/pegawai perusahaan. |
 | 失礼します | しつれいします | permisi; maaf mengganggu. |
 | お先に失礼します | おさきにしつれいします | saya pamit duluan. |
-| お疲れさまでした | おつかれさまでした | terima kasih atas kerja kerasnya. |
+| お先に | おさきに | duluan ya (bentuk pendek, kasual). |
+| ご苦労さま | ごくろうさま | terima kasih atas kerja kerasnya; jangan dipakai kepada atasan. |
+| お疲れさま | おつかれさま | terima kasih atas kerja kerasnya; aman antar rekan kerja. |
+| お疲れさまでした | おつかれさまでした | terima kasih atas kerja kerasnya (setelah kerja/tugas selesai). |
 
 ## Peta Kata
 
@@ -94,8 +104,10 @@ Bayangkan kamu sedang membaca atau mendengar situasi tentang memberi salam: kata
 ## Catatan Pemakaian
 
 - **Asal:** ご出身はどちらですか lebih sopan untuk menanyakan asal.
-- **Berkunjung:** tuan rumah berkata どうぞお上がりください; tamu berkata おじゃまします.
-- **Kantor:** お先に失礼します dipakai saat pulang lebih dulu; お疲れさまでした dipakai setelah kerja/tugas selesai.
+- **Berkunjung:** tuan rumah berkata どうぞお上がりください／お召し上がりください; tamu berkata おじゃまします atau どうぞおかまいなく.
+- **Bertemu lagi:** ご無沙汰しています untuk lama tak bertemu; jawaban umum kabar baik adalah おかげさまで; お目にかかる adalah bentuk merendah dari 会う.
+- **Simpati:** 亡くなる kata halus untuk meninggal; responsnya お気の毒に.
+- **Kantor:** お先に失礼します dipakai saat pulang lebih dulu; お疲れさま（でした） aman untuk semua rekan, tetapi ご苦労さま hanya untuk bawahan/sesama, jangan kepada atasan.
 
 ## Pola yang Sering Muncul
 
@@ -111,6 +123,9 @@ Bayangkan kamu sedang membaca atau mendengar situasi tentang memberi salam: kata
   <div><p class="jp">おじゃまします。</p><p>Permisi, saya masuk.</p></div>
   <div><p class="jp">先日はありがとうございました。</p><p>Terima kasih untuk waktu itu.</p></div>
   <div><p class="jp">お先に失礼します。</p><p>Saya permisi pulang lebih dulu.</p></div>
+  <div><p class="jp">ご無沙汰しています。お元気でいらっしゃいますか。</p><p>Sudah lama tidak bertemu. Bagaimana kabar Anda?</p></div>
+  <div><p class="jp">おかげさまで、元気です。</p><p>Berkat Anda, saya baik-baik saja.</p></div>
+  <div><p class="jp">どうぞお召し上がりください。</p><p>Silakan dinikmati.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar

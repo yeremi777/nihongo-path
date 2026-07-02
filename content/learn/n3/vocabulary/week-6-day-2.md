@@ -37,17 +37,40 @@ Fokus hari ini bukan hanya menghafal arti kata seperti うっかり（する）,
 |---|---|---|
 | うっかり（する） | うっかり（する） | ceroboh; tidak sengaja lupa. |
 | つい | つい | tanpa sadar/terlanjur. |
+| ふと | ふと | tiba-tiba terpikir; tanpa sengaja (ふと思い出す). |
 | わざと | わざと | sengaja. |
 
-### Rapi, Jelas, dan Pelan
+### Rapi, Jelas, dan Mantap
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| ちゃんと | ちゃんと | dengan benar/semestinya. |
-| きちんと | きちんと | rapi/tertib/tepat. |
-| はっきり | はっきり | jelas/tegas. |
-| しっかり | しっかり | kuat/mantap/serius. |
+| ちゃんと（する） | ちゃんと（する） | dengan benar/semestinya. |
+| きちんと（する） | きちんと（する） | rapi/tertib/tepat. |
+| はっきり（する） | はっきり（する） | jelas/tegas; lawannya ぼんやり. |
+| しっかり（する） | しっかり（する） | kuat/mantap/serius/dewasa. |
+| すっきり（する） | すっきり（する） | rapi; lega; segar (部屋がすっきりする, 気分がすっきりする). |
+| さっぱり（する） | さっぱり（する） | segar/lega; dengan negatif berarti "sama sekali tidak" (さっぱりわからない). |
+
+### Perasaan dan Keadaan
+
+| Japanese | Reading | Arti & Catatan |
+|---|---|---|
+| すっかり | すっかり | sepenuhnya; sama sekali (すっかり忘れた). |
+| がっかり（する） | がっかり（する） | merasa kecewa. |
+| やっぱり／やはり | やっぱり／やはり | ternyata; memang; tetap. やはり lebih formal. |
+| ほっと（する） | ほっと（する） | merasa lega. |
+| のんびり（する） | のんびり（する） | santai; rileks. |
+| ぐっすり | ぐっすり | nyenyak; dipakai dengan tidur (ぐっすり眠る). |
+| にっこり（する）／にこにこ（する） | にっこり（する）／にこにこ（する） | tersenyum bahagia; にっこり sekali senyum, にこにこ keadaan terus tersenyum. |
+| そっくり | そっくり | mirip sekali. |
+
+### Cara Gerak
+
+| Japanese | Reading | Arti & Catatan |
+|---|---|---|
 | そっと（する） | そっと（する） | diam-diam/pelan/lembut. |
+| じっと（する） | じっと（する） | diam tak bergerak; menatap terus; sabar menahan. |
+| ざっと | ざっと | secara cepat/sekilas/kasar. |
 | ゆっくり | ゆっくり | perlahan/santai. |
 
 ## Peta Kata
@@ -68,10 +91,12 @@ Bayangkan kamu sedang membaca atau mendengar situasi tentang kata keterangan car
 
 ## Catatan Pemakaian
 
-- **Kesalahan:** うっかり dan つい sering menjelaskan tindakan yang terjadi tanpa niat kuat.
+- **Kesalahan:** うっかり dan つい sering menjelaskan tindakan yang terjadi tanpa niat kuat; ふと dipakai untuk sesuatu yang tiba-tiba terlintas.
 - **Niat:** わざと menandai tindakan disengaja.
-- **Kerapian:** ちゃんと menekankan sesuai aturan; きちんと menekankan rapi/tertib.
-- **Gerak:** そっと cocok untuk tindakan halus, pelan, atau diam-diam.
+- **Kerapian:** ちゃんと menekankan sesuai aturan; きちんと menekankan rapi/tertib; すっきり menekankan hasil yang rapi/lega.
+- **Perasaan:** がっかり (kecewa), ほっと (lega), のんびり (santai) bisa menjadi kata kerja dengan する.
+- **さっぱり:** positif berarti segar; dengan bentuk negatif berarti "sama sekali tidak".
+- **Gerak:** そっと cocok untuk tindakan halus, pelan, atau diam-diam; じっと untuk diam/menatap terus; ざっと untuk melakukan sekilas.
 
 ## Pola yang Sering Muncul
 

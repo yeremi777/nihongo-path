@@ -47,6 +47,8 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 家族, 夫婦, 夫, dan 
 | 末っ子 | すえっこ | anak bungsu. |
 | 兄弟 | きょうだい | saudara kandung; bisa umum. |
 | 姉妹 | しまい | saudari. |
+| 6人兄弟の末っ子 | ろくにんきょうだいのすえっこ | anak bungsu dari enam bersaudara; pola: angka + 人兄弟の末っ子. |
+| 3人姉妹のいちばん上 | さんにんしまいのいちばんうえ | anak tertua dari tiga saudari; いちばん上 = paling tua. |
 | おじ | おじ | paman. |
 | おば | おば | bibi/tante. |
 | 親せき | しんせき | kerabat. |

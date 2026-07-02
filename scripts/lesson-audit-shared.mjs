@@ -588,8 +588,8 @@ export const auditContohKalimat = (contohSection, push) => {
   }
 
   const exampleCards = contohSection.match(EXAMPLE_CARD_RE) ?? []
-  if (exampleCards.length < 4 || exampleCards.length > 6) {
-    push(`## Contoh Kalimat should have 4-6 JP + Indonesian example cards, found ${exampleCards.length}`)
+  if (exampleCards.length < 4 || exampleCards.length > 8) {
+    push(`## Contoh Kalimat should have 4-8 JP + Indonesian example cards, found ${exampleCards.length}`)
   }
 
   for (const [index, card] of exampleCards.entries()) {

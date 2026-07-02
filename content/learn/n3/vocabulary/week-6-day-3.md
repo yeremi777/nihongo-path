@@ -31,24 +31,47 @@ Fokus hari ini bukan hanya menghafal arti kata seperti どきどき（する）,
 
 ## Daftar Kata
 
-### Perasaan dan Bunyi
+### Perasaan
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
 | どきどき（する） | どきどき（する） | berdebar/gugup. |
 | わくわく（する） | わくわく（する） | bersemangat/antusias. |
-| いらいら（する） | いらいら（する） | kesal/gelisah. |
+| いらいら（する） | いらいら（する） | kesal/gelisah/frustrasi. |
+| ぺこぺこ | ぺこぺこ | sangat lapar (おなかがぺこぺこだ). |
+
+### Cara Bicara dan Gerak
+
+| Japanese | Reading | Arti & Catatan |
+|---|---|---|
+| はきはき（する） | はきはき（する） | menjawab dengan jelas dan tegas; cekatan. |
+| ぶつぶつ | ぶつぶつ | bergumam; menggerutu (ぶつぶつ文句を言う). |
+| うろうろ（する） | うろうろ（する） | mondar-mandir tanpa tujuan; berkeliaran. |
+| ぶらぶら（する） | ぶらぶら（する） | jalan-jalan santai; bergoyang menggantung. |
+| のろのろ | のろのろ | lambat; pelan sekali. |
+| ぺらぺら | ぺらぺら | lancar (bahasa); juga tipis, atau mudah membocorkan rahasia. |
+| ぴかぴか | ぴかぴか | mengilap; berkilau. |
 | ぽろぽろ | ぽろぽろ | jatuh/menetes satu per satu. |
 
-### Perubahan dan Variasi
+### Perubahan dan Batas
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
 | ますます | ますます | semakin/makin. |
 | だんだん | だんだん | perlahan-lahan/bertahap. |
 | どんどん | どんどん | terus-menerus dengan cepat/aktif. |
-| ばらばら | ばらばら | terpisah/berantakan. |
+| そろそろ | そろそろ | sudah waktunya; sebentar lagi. |
+| ぎりぎり | ぎりぎり | mepet; pas di batas (締め切りぎりぎり). |
+
+### Asal, Kebetulan, dan Variasi
+
+| Japanese | Reading | Arti & Catatan |
+|---|---|---|
+| もともと | もともと | sejak awal; memang dari asalnya. |
+| たまたま | たまたま | kebetulan. |
+| まあまあ | まあまあ | lumayan; biasa saja. |
 | さまざま | さまざま | berbagai macam. |
+| ばらばら | ばらばら | terpisah/berantakan. |
 
 ## Peta Kata
 
@@ -69,7 +92,10 @@ Bayangkan kamu sedang membaca atau mendengar situasi tentang kata keterangan per
 ## Catatan Pemakaian
 
 - **Perasaan:** どきどき, わくわく, dan いらいら bisa menjadi kata kerja する.
+- **Cara bicara/gerak:** はきはき (tegas), ぶつぶつ (menggerutu), うろうろ／ぶらぶら (mondar-mandir/jalan santai), のろのろ (lambat), ぺらぺら (lancar bicara; juga tipis).
 - **Perubahan:** ますます untuk intensitas makin kuat; だんだん untuk proses bertahap.
+- **Batas dan waktu:** ぎりぎり = mepet batas; そろそろ = sudah waktunya melakukan sesuatu.
+- **Asal dan kebetulan:** もともと = memang sejak awal; たまたま = kebetulan.
 - **Variasi:** さまざま biasanya menjadi さまざまなN.
 
 ## Pola yang Sering Muncul

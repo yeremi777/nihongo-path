@@ -31,13 +31,27 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 突然, いきなり, た
 
 ## Daftar Kata
 
-### Waktu dan Frekuensi
+### Mendadak dan Akhirnya
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
 | 突然 | とつぜん | tiba-tiba/mendadak. |
-| いきなり | いきなり | tiba-tiba; terasa lebih percakapan. |
+| いきなり | いきなり | tiba-tiba; tanpa aba-aba; terasa lebih percakapan. |
+| とたんに | とたんに | seketika; begitu ~ langsung; sering tepat setelah tindakan lain. |
+| やっと | やっと | akhirnya; setelah usaha atau menunggu lama. |
+| とうとう | とうとう | akhirnya; menekankan hasil akhir, kadang negatif. |
+| 結局 | けっきょく | pada akhirnya; kesimpulannya. |
+| ついに | ついに | akhirnya; puncak dari proses panjang. |
+
+### Frekuensi
+
+| Japanese | Reading | Arti & Catatan |
+|---|---|---|
+| よく | よく | sering; juga bisa berarti "dengan baik". |
 | たいてい | たいてい | biasanya/kebanyakan. |
+| 普段（は） | ふだん（は） | biasanya; sehari-hari. |
+| 普通（は） | ふつう（は） | biasanya; normalnya. |
+| たまに | たまに | kadang-kadang; sesekali. |
 | めったに | めったに | jarang; sering dipakai dengan negatif. |
 | しばしば | しばしば | sering kali. |
 
@@ -46,9 +60,23 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 突然, いきなり, た
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
 | かなり | かなり | cukup/sangat lumayan; derajat kuat. |
+| 結構 | けっこう | cukup; lumayan. |
 | ずいぶん | ずいぶん | sangat/cukup banyak; terasa subjektif. |
+| ものすごく | ものすごく | sangat sekali; lebih kuat dari すごく. |
+| めちゃくちゃ／むちゃくちゃ | めちゃくちゃ／むちゃくちゃ | sangat; juga bisa berarti kacau/berantakan. |
 | ほとんど | ほとんど | hampir semua/hampir tidak. |
 | だいたい | だいたい | kira-kira/sebagian besar. |
+
+### Permintaan dan Urutan
+
+| Japanese | Reading | Arti & Catatan |
+|---|---|---|
+| ぜひ | ぜひ | silakan; sangat diharapkan (ajakan sopan). |
+| ぜひとも | ぜひとも | sungguh-sungguh; lebih kuat dari ぜひ. |
+| どうか | どうか | mohon/tolong (permohonan sungguh-sungguh). |
+| まず | まず | pertama-tama; terlebih dulu. |
+| とにかく／ともかく | とにかく／ともかく | pokoknya; bagaimanapun. |
+| 一度に | いちどに | sekaligus; dalam satu waktu. |
 | いっぺんに | いっぺんに | sekaligus; dalam satu kali. |
 
 ## Peta Kata
@@ -70,8 +98,10 @@ Bayangkan kamu sedang membaca atau mendengar situasi tentang kata keterangan tin
 ## Catatan Pemakaian
 
 - **Mendadak:** 突然 dan いきなり sama-sama mendadak, tetapi いきなり lebih percakapan dan terasa mengejutkan.
-- **Frekuensi:** めったに sering membutuhkan bentuk negatif setelahnya.
+- **Akhirnya:** やっと menekankan usaha/menunggu lama, とうとう menekankan hasil akhir (kadang negatif), 結局 menekankan kesimpulan, ついに menekankan puncak proses panjang.
+- **Frekuensi:** めったに sering membutuhkan bentuk negatif setelahnya; 普段 dan 普通 sama-sama "biasanya", tetapi 普段 menyoroti kebiasaan sehari-hari.
 - **Jumlah/derajat:** ほとんど bisa berarti hampir semua atau hampir tidak, tergantung positif/negatifnya kalimat.
+- **Permintaan:** ぜひ／ぜひとも untuk ajakan atau harapan positif; どうか untuk permohonan yang sungguh-sungguh.
 
 ## Pola yang Sering Muncul
 
