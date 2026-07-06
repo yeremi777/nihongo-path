@@ -108,7 +108,6 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>完了<rt>かんりょう</rt></ruby></span> - selesai</li>
     <li><span class="ruby-word"><ruby>完全(な)<rt>かんぜん</rt></ruby></span> - sempurna, lengkap</li>
-    <li><span class="ruby-word"><ruby>完全<rt>かんぜん</rt></ruby></span> - sempurna, lengkap</li>
   </ul>
 </details>
 
@@ -232,7 +231,7 @@ Kata-kata hari ini sangat sering muncul pada UI. 接続 menunjukkan koneksi, 表
 
 Jangan menerjemahkan 完了 sebagai “mengerti”. Untuk respons, kata yang tepat adalah 了解; 完了 adalah status proses sudah selesai.
 
-Strategi bacanya: lihat kata utuh lebih dulu, lalu cocokkan dengan konteks kalimat atau papan. Untuk kelompok kanji hari ini (接, 続, 示, 戻, 完, 了, 登, 録), konteks biasanya lebih cepat memberi jawaban daripada menebak satu bacaan kanji secara terpisah.
+Strategi bacanya: banyak kata layar hari ini adalah pasangan dua kanji yang saling melengkapi (接続, 完了, 登録). Baca keduanya sebagai satu tindakan utuh — misalnya 登録 bukan "naik + mencatat", melainkan satu tombol "daftar". Kalau layar menampilkan kata + しました, itu status yang sudah terjadi, bukan perintah.
 
 ## Mini Practice
 
@@ -240,51 +239,52 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti koneksi?"
-optionA: "接続"
-optionB: "面接"
-correct: "接続"
-explanation: "接続 benar, dibaca せつぞく, artinya koneksi."
+question: "Pendaftaran sudah selesai."
+sentence: "登録が____しました。"
+optionA: "完了"
+optionB: "了解"
+correct: "完了"
+explanation: "完了 benar, dibaca かんりょう, status proses yang sudah selesai. 了解 (りょうかい) adalah respons “mengerti/baik” dalam percakapan, tidak dipakai untuk status proses di layar."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti wawancara?"
-optionA: "表示"
-optionB: "面接"
-correct: "面接"
-explanation: "面接 benar, dibaca めんせつ, artinya wawancara."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti tampilan?"
+question: "Di layar ponsel muncul pesan error. Kata mana yang berarti hal itu ditampilkan di layar?"
 optionA: "表示"
 optionB: "指示"
 correct: "表示"
-explanation: "表示 benar, dibaca ひょうじ, artinya tampilan."
+explanation: "表示 benar, dibaca ひょうじ; 表 (memperlihatkan) + 示 berarti tampil di layar. 指示 (しじ) memakai 指 (jari/menunjuk), jadi artinya instruksi atau arahan dari orang/sistem."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti instruksi?"
-optionA: "完了"
-optionB: "指示"
-correct: "指示"
-explanation: "指示 benar, dibaca しじ, artinya instruksi."
+question: "Kata mana yang dibaca めんせつ dan berarti wawancara?"
+optionA: "面接"
+optionB: "接続"
+correct: "面接"
+explanation: "面接 benar; 面 (muka) + 接 (bertemu langsung) berarti wawancara. 接続 (せつぞく) memakai 続 (menyambung), jadi artinya koneksi — kanji 接 sama, pasangannya yang mengubah arti."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti sempurna, lengkap?"
-optionA: "完全"
-optionB: "了解"
-correct: "完全"
-explanation: "完全 benar, dibaca かんぜん. 了解 adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+question: "Kata mana yang berarti rekaman video?"
+optionA: "録画"
+optionB: "録音"
+correct: "録画"
+explanation: "録画 benar, dibaca ろくが; 画 berarti gambar, jadi merekam gambar/video. 録音 (ろくおん) memakai 音 (suara), jadi artinya rekaman suara saja."
+---
+::
+
+::MiniPractice
+---
+question: "Kamu membuat akun baru di aplikasi dan mengisi data diri. Tombol mana yang kamu tekan?"
+optionA: "登録"
+optionB: "記録"
+correct: "登録"
+explanation: "登録 benar, dibaca とうろく, artinya mendaftarkan data ke sistem. 記録 (きろく) berarti catatan atau rekor peristiwa yang sudah terjadi, bukan tombol pendaftaran."
 ---
 ::
 

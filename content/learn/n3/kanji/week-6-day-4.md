@@ -167,37 +167,38 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <span>戦う</span>
   <span>経済</span>
   <span>経験</span>
-  <span>経済</span>
   <span>済む</span>
   <span>成長</span>
   <span>完成</span>
   <span>貿易</span>
+  <span>輸出</span>
+  <span>輸入</span>
+  <span>首相</span>
 </div>
 
 Hubungan kata hari ini bisa dibaca dari latar ke isi berita: 戦後 memberi latar waktu, 経済 dan 成長 menjelaskan kondisi, 貿易 serta 輸出/輸入 menjelaskan arus barang, sedangkan 相談 dan 首相 menunjuk komunikasi atau pelaku dalam berita.
 
 ## Catatan Pemakaian
 
-### Sejarah dan ekonomi
+### Latar waktu dan kondisi
 
-- 戦後 berarti pascaperang.
-- 経済 berarti ekonomi.
-- 経験 berarti pengalaman.
+- 戦後 memberi latar waktu (pascaperang); di berita ekonomi Jepang, kata ini sering membuka paragraf sejarah.
+- 経済 menjelaskan kondisi negara; 経験 menjelaskan pengalaman orang atau perusahaan — keduanya diawali 経 (けい).
 
-### Pertumbuhan
+### Proses dan hasil
 
-- 成長 berarti pertumbuhan.
-- 完成 berarti selesai atau rampung.
+- 成長 adalah proses tumbuh yang masih berjalan; 完成 berarti sudah selesai dibuat.
+- 済む berdiri sendiri sebagai kata kerja "selesai"; jangan artikan 済 sendirian di dalam 経済.
 
-### Perdagangan
+### Perdagangan dan arus barang
 
-- 貿易 untuk perdagangan.
-- 輸出 dan 輸入 untuk ekspor-impor.
+- 貿易 adalah perdagangan internasional; dalam kata ini 易 dibaca えき, bukan やさしい.
+- 輸出 (barang keluar negeri) dan 輸入 (barang masuk) selalu berpasangan; 輸送 adalah pengangkutannya.
 
-### Hubungan
+### Pelaku dan komunikasi
 
-- 相談 berarti konsultasi.
-- 易しい berarti mudah. Dalam teks ekonomi, bedakan dari 貿易 yang berarti perdagangan internasional.
+- 相談 berarti konsultasi (相 dibaca そう); 相手 adalah pihak lawan bicara (相 dibaca あい).
+- 首相 berarti perdana menteri — di sini 相 dibaca しょう dan berarti menteri, bukan "saling".
 
 ## Contoh Kalimat
 
@@ -235,21 +236,32 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti setelah perang?"
-optionA: "戦後"
-optionB: "経済"
-correct: "戦後"
-explanation: "戦後 benar, dibaca せんご, artinya setelah perang."
+question: "Setelah perang, ekonomi tumbuh besar."
+sentence: "戦後、経済が大きく____しました。"
+optionA: "成長"
+optionB: "完成"
+correct: "成長"
+explanation: "成長 benar, dibaca せいちょう, yaitu proses tumbuh yang masih berjalan. 完成 (かんせい) berarti sudah selesai dibuat — tidak cocok untuk ekonomi yang terus berkembang."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti ekonomi?"
-optionA: "経験"
-optionB: "経済"
-correct: "経済"
-explanation: "経済 benar, dibaca けいざい, artinya ekonomi."
+question: "Perusahaan itu menjual barang ke luar negeri. Kata mana yang tepat?"
+optionA: "輸出"
+optionB: "輸入"
+correct: "輸出"
+explanation: "輸出 benar, dibaca ゆしゅつ. Kanji 出 (keluar) menandai barang keluar negeri; 輸入 (ゆにゅう) memakai 入 (masuk), yaitu impor."
+---
+::
+
+::MiniPractice
+---
+question: "Sebelum memutuskan, dia meminta saran kepada seniornya. Kata mana yang dipakai?"
+optionA: "相談"
+optionB: "首相"
+correct: "相談"
+explanation: "相談 benar, dibaca そうだん, artinya konsultasi. 首相 (しゅしょう) memakai 相 yang sama, tetapi artinya perdana menteri — jabatan, bukan tindakan."
 ---
 ::
 
@@ -257,19 +269,9 @@ explanation: "経済 benar, dibaca けいざい, artinya ekonomi."
 ---
 question: "Kata mana yang berarti pengalaman?"
 optionA: "経験"
-optionB: "成長"
+optionB: "経営"
 correct: "経験"
-explanation: "経験 benar, dibaca けいけん, artinya pengalaman."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti pertumbuhan?"
-optionA: "完成"
-optionB: "成長"
-correct: "成長"
-explanation: "成長 benar, dibaca せいちょう, artinya pertumbuhan."
+explanation: "経験 benar, dibaca けいけん, artinya pengalaman. 経営 (けいえい) diawali 経 yang sama, tetapi artinya mengelola usaha atau manajemen."
 ---
 ::
 
@@ -277,9 +279,9 @@ explanation: "成長 benar, dibaca せいちょう, artinya pertumbuhan."
 ---
 question: "Kata mana yang berarti perdagangan internasional?"
 optionA: "貿易"
-optionB: "貿易会社"
+optionB: "輸送"
 correct: "貿易"
-explanation: "貿易 benar, dibaca ぼうえき. 貿易会社 adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+explanation: "貿易 benar, dibaca ぼうえき, yaitu perdagangan antarnegara. 輸送 (ゆそう) hanya berarti pengangkutan barangnya, bukan kegiatan dagangnya."
 ---
 ::
 

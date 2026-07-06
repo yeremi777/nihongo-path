@@ -231,7 +231,7 @@ Kata-kata hari ini membentuk peta kota yang praktis. 市役所, 郵便局, dan �
 
 Jangan menganggap 局 selalu kantor pos. 局 hanya memberi rasa kantor/unit layanan; makna lengkapnya ditentukan oleh kanji sebelumnya.
 
-Strategi bacanya: lihat kata utuh lebih dulu, lalu cocokkan dengan konteks kalimat atau papan. Untuk kelompok kanji hari ini (役, 郵, 局, 交, 差, 点, 橋, 公), konteks biasanya lebih cepat memberi jawaban daripada menebak satu bacaan kanji secara terpisah.
+Strategi bacanya: pada peta kota, baca kanji terakhir dulu untuk tahu jenis tempatnya — 〜所 kantor, 〜局 unit layanan, 〜番 pos, 〜点 titik jalan, 〜橋 jembatan. Setelah jenisnya jelas, kanji di depannya tinggal menjawab "layanan apa" atau "titik yang mana".
 
 ## Mini Practice
 
@@ -239,51 +239,53 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti kantor kota?"
-optionA: "市役所"
-optionB: "役員"
-correct: "市役所"
-explanation: "市役所 benar, dibaca しやくしょ, artinya kantor kota."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti pengurus?"
-optionA: "役に立つ"
-optionB: "役員"
-correct: "役員"
-explanation: "役員 benar, dibaca やくいん, artinya pengurus."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti berguna?"
-optionA: "役に立つ"
-optionB: "郵便"
-correct: "役に立つ"
-explanation: "役に立つ benar, dibaca やくにたつ, artinya berguna."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti pos, surat?"
-optionA: "郵便局"
-optionB: "郵便"
-correct: "郵便"
-explanation: "郵便 benar, dibaca ゆうびん, artinya pos, surat."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti apotek?"
-optionA: "薬局"
+question: "Kantor kota ada di sisi kanan persimpangan."
+sentence: "市役所は____の右側にあります。"
+optionA: "交差点"
 optionB: "交番"
-correct: "薬局"
-explanation: "薬局 benar, dibaca やっきょく. 交番 adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+correct: "交差点"
+explanation: "交差点 benar, dibaca こうさてん: 点 menandai titik tempat jalan saling menyilang. 交番 (こうばん) memakai 交 yang sama, tetapi artinya pos polisi."
+---
+::
+
+::MiniPractice
+---
+question: "Kamu mau mengirim paket. Ke bangunan mana kamu pergi?"
+optionA: "郵便局"
+optionB: "薬局"
+correct: "郵便局"
+explanation: "郵便局 benar, dibaca ゆうびんきょく: 郵便 (pos) menentukan jenis 局-nya. 薬局 (やっきょく) juga memakai 局, tetapi 薬 mengarah ke obat, jadi artinya apotek."
+---
+::
+
+::MiniPractice
+---
+question: "Kata mana yang dibaca やくにたつ dan berarti berguna?"
+optionA: "役に立つ"
+optionB: "役員"
+correct: "役に立つ"
+explanation: "役に立つ benar, dibaca やくにたつ: perannya (役) berdiri (立つ), jadi berguna. 役員 (やくいん) memakai 役 yang sama, tetapi artinya pengurus."
+---
+::
+
+::MiniPractice
+---
+question: "Silakan seberangi jembatan penyeberangan ini."
+sentence: "この____を渡ってください。"
+optionA: "歩道橋"
+optionB: "公園"
+correct: "歩道橋"
+explanation: "歩道橋 benar, dibaca ほどうきょう: jembatan (橋) untuk jalur pejalan kaki (歩道). 公園 (こうえん) berarti taman umum dan tidak diseberangi lewat atas."
+---
+::
+
+::MiniPractice
+---
+question: "Di amplop, nama orang yang mengirim surat ditulis di bagian belakang. Kata mana yang berarti pengirim?"
+optionA: "差出人"
+optionB: "点数"
+correct: "差出人"
+explanation: "差出人 benar, dibaca さしだしにん: orang (人) yang menyodorkan (差し出す) surat. 点数 (てんすう) berarti nilai angka dan tidak berkaitan dengan surat."
 ---
 ::
 

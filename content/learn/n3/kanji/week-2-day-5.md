@@ -26,7 +26,7 @@ Mengenali delapan kanji N3 yang sering muncul di rumah sakit: 受, 付, 科, 鼻
 Di akhir pelajaran ini, kamu bisa membaca kata seperti 受付, 内科, 耳鼻科, 産婦人科, 整形外科, dan 骨折 saat melihat papan rumah sakit.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> mulai dari alur pasien: daftar di受付, pilih科, lalu baca jenis pemeriksaan atau bagian tubuh.
+  <strong>Fokus hari ini:</strong> mulai dari alur pasien: daftar di 受付, cari nama 科 yang tepat, lalu baca jenis pemeriksaan atau bagian tubuh.
 </div>
 
 ## Daftar Kanji
@@ -130,7 +130,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>形式<rt>けいしき</rt></ruby></span> - format</li>
     <li><span class="ruby-word"><ruby>整形外科<rt>せいけいげか</rt></ruby></span> - ortopedi</li>
     <li><span class="ruby-word"><ruby>人形<rt>にんぎょう</rt></ruby></span> - boneka</li>
-    <li><span class="ruby-word"><ruby>図形<rt>づけい</rt></ruby></span> - bentuk geometri</li>
+    <li><span class="ruby-word"><ruby>図形<rt>ずけい</rt></ruby></span> - bentuk geometri</li>
     <li><span class="ruby-word"><ruby>形<rt>かたち</rt></ruby></span> - bentuk</li>
   </ul>
 </details>
@@ -237,7 +237,7 @@ Kata-kata hari ini mengikuti alur rumah sakit. 受付 adalah tempat pertama, 科
 
 Jangan membaca 科 sebagai “sains” saja. Di rumah sakit, 科 biasanya berarti departemen atau poli.
 
-Strategi bacanya: lihat kata utuh lebih dulu, lalu cocokkan dengan konteks kalimat atau papan. Untuk kelompok kanji hari ini (受, 付, 科, 鼻, 婦, 形, 骨, 折), konteks biasanya lebih cepat memberi jawaban daripada menebak satu bacaan kanji secara terpisah.
+Strategi bacanya: baca nama poli dari belakang. Temukan 科 dulu, lalu lihat kanji di depannya untuk tahu bidangnya: 内科 bagian dalam, 外科 bedah, 耳鼻科 telinga-hidung. Nama poli yang panjang seperti 産婦人科 dan 整形外科 juga terurai dengan cara yang sama.
 
 ## Mini Practice
 
@@ -245,51 +245,52 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti menerima pesan/sinyal?"
-optionA: "受信"
-optionB: "受験"
-correct: "受信"
-explanation: "受信 benar, dibaca じゅしん, artinya menerima pesan/sinyal."
+question: "Pasien baru datang ke rumah sakit. Ke meja mana ia pergi lebih dulu untuk mendaftar?"
+optionA: "受付"
+optionB: "内科"
+correct: "受付"
+explanation: "受付 benar, dibaca うけつけ: meja penerimaan tempat pasien mendaftar sebelum diperiksa. 内科 (ないか) adalah salah satu poli, tujuan setelah mendaftar."
+---
+::
+
+::MiniPractice
+---
+question: "Kamu demam dan batuk, bukan terluka. Poli mana yang kamu tuju?"
+optionA: "内科"
+optionB: "外科"
+correct: "内科"
+explanation: "内科 benar, dibaca ないか: menangani penyakit bagian dalam tubuh seperti demam dan batuk. 外科 (げか) menangani tindakan bedah dan luka."
+---
+::
+
+::MiniPractice
+---
+question: "Saya pergi ke ortopedi karena patah tulang kaki."
+sentence: "足の____で整形外科へ行きました。"
+optionA: "骨折"
+optionB: "右折"
+correct: "骨折"
+explanation: "骨折 benar, dibaca こっせつ: tulang (骨) yang patah (折). 右折 (うせつ) memakai 折 yang sama, tetapi artinya belok kanan di jalan."
+---
+::
+
+::MiniPractice
+---
+question: "Kata mana yang dibaca じびか dan berarti poli THT?"
+optionA: "耳鼻科"
+optionB: "産婦人科"
+correct: "耳鼻科"
+explanation: "耳鼻科 benar, dibaca じびか: telinga (耳) + hidung (鼻) + poli (科). 産婦人科 (さんふじんか) adalah poli obstetri dan ginekologi."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Kata mana yang berarti mengikuti ujian?"
-optionA: "受付"
-optionB: "受験"
+optionA: "受験"
+optionB: "受信"
 correct: "受験"
-explanation: "受験 benar, dibaca じゅけん, artinya mengikuti ujian."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti pendaftaran, resepsionis?"
-optionA: "受付"
-optionB: "片付ける"
-correct: "受付"
-explanation: "受付 benar, dibaca うけつけ, artinya pendaftaran, resepsionis."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti merapikan?"
-optionA: "内科"
-optionB: "片付ける"
-correct: "片付ける"
-explanation: "片付ける benar, dibaca かたづける, artinya merapikan."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti bedah?"
-optionA: "外科"
-optionB: "教科書"
-correct: "外科"
-explanation: "外科 benar, dibaca げか. 教科書 adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+explanation: "受験 benar, dibaca じゅけん: menjalani (受) ujian (験). 受信 (じゅしん) memakai 受 yang sama, tetapi artinya menerima pesan atau sinyal."
 ---
 ::
 

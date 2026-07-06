@@ -96,10 +96,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>由 muncul dalam 自由 untuk rasa bebas. Dalam 自由席, bebas berarti bebas memilih kursi kosong, bukan pasti mendapat kursi.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>自由な<rt>じゆう</rt></ruby></span> - bebas</li>
+    <li><span class="ruby-word"><ruby>自由<rt>じゆう</rt></ruby></span> - bebas</li>
     <li><span class="ruby-word"><ruby>理由<rt>りゆう</rt></ruby></span> - alasan</li>
     <li><span class="ruby-word"><ruby>自由席<rt>じゆうせき</rt></ruby></span> - kursi bebas</li>
-    <li><span class="ruby-word"><ruby>自由<rt>じゆう</rt></ruby></span> - bebas</li>
   </ul>
 </details>
 
@@ -232,51 +231,52 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti penetapan, reservasi?"
-optionA: "指定"
-optionB: "定期"
-correct: "指定"
-explanation: "指定 benar, dibaca してい, artinya penetapan, reservasi."
+question: "Kamu ingin duduk dekat jendela di kereta ekspres. Posisi mana yang kamu sebut saat reservasi?"
+optionA: "窓側"
+optionB: "通路側"
+correct: "窓側"
+explanation: "窓側 benar, dibaca まどがわ, artinya sisi jendela. 通路側 (つうろがわ) adalah sisi lorong, cocok untuk yang ingin mudah keluar."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti berkala / periodik?"
-optionA: "指定席"
-optionB: "定期"
-correct: "定期"
-explanation: "定期 benar, dibaca ていき, artinya berkala / periodik."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti kursi reservasi?"
+question: "Tiket mana yang menjamin nomor kursimu sudah ditentukan sebelum naik?"
 optionA: "指定席"
 optionB: "自由席"
 correct: "指定席"
-explanation: "指定席 benar, dibaca していせき, artinya kursi reservasi."
+explanation: "指定席 benar, dibaca していせき: 指定 berarti sudah ditetapkan. 自由席 (じゆうせき) hanya bebas memilih kursi yang kosong — kalau penuh, kamu berdiri."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti kursi bebas?"
-optionA: "自由"
-optionB: "自由席"
-correct: "自由席"
-explanation: "自由席 benar, dibaca じゆうせき, artinya kursi bebas."
+question: "Harap cek nomor pada tiket."
+sentence: "切符の____を確認してください。"
+optionA: "番号"
+optionB: "理由"
+correct: "番号"
+explanation: "番号 benar, dibaca ばんごう, artinya nomor. 理由 (りゆう) berarti alasan, tidak cocok untuk isi tiket."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti alasan?"
+question: "Kata mana yang berarti loket layanan di stasiun?"
+optionA: "窓口"
+optionB: "両側"
+correct: "窓口"
+explanation: "窓口 benar, dibaca まどぐち, artinya loket — bukan sisi jendela. 両側 (りょうがわ) berarti kedua sisi."
+---
+::
+
+::MiniPractice
+---
+question: "Kata mana yang dibaca りゆう dan berarti alasan?"
 optionA: "理由"
-optionB: "番号"
+optionB: "自由"
 correct: "理由"
-explanation: "理由 benar, dibaca りゆう. 番号 adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+explanation: "理由 benar, dibaca りゆう. 自由 (じゆう) memakai 由 yang sama, tetapi kanji pertamanya 自 sehingga artinya bebas."
 ---
 ::
 

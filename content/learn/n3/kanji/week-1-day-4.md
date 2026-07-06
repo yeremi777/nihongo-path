@@ -46,7 +46,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>線<rt>せん</rt></ruby></span> - garis, jalur</li>
     <li><span class="ruby-word"><ruby>〜番線<rt>〜ばんせん</rt></ruby></span> - jalur/peron nomor ...</li>
-    <li><span class="ruby-word"><ruby>山手線<rt>やまてせん</rt></ruby></span> - Jalur Yamanote</li>
+    <li><span class="ruby-word"><ruby>山手線<rt>やまのてせん</rt></ruby></span> - Jalur Yamanote</li>
     <li><span class="ruby-word"><ruby>三番線<rt>さんばんせん</rt></ruby></span> - jalur/peron nomor 3</li>
   </ul>
 </details>
@@ -61,10 +61,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>面 membantu membaca arah tujuan dalam 方面. Kata ini memberi tahu sisi atau arah perjalanan, bukan jenis kereta.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>全面<rt>ぜんめん</rt></ruby></span> - seluruh permukaan</li>
-    <li><span class="ruby-word"><ruby>〇〇方面<rt>ほうめん</rt></ruby></span> - arah tujuan</li>
-    <li><span class="ruby-word"><ruby>画面<rt>がめん</rt></ruby></span> - layar</li>
     <li><span class="ruby-word"><ruby>方面<rt>ほうめん</rt></ruby></span> - arah tujuan</li>
+    <li><span class="ruby-word"><ruby>全面<rt>ぜんめん</rt></ruby></span> - seluruh permukaan</li>
+    <li><span class="ruby-word"><ruby>画面<rt>がめん</rt></ruby></span> - layar</li>
   </ul>
 </details>
 
@@ -78,8 +77,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>普 muncul dalam 普通, jenis layanan biasa/lokal. Ini biasanya berarti kereta berhenti lebih banyak.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>普通の<rt>ふつう</rt></ruby></span> - kereta lokal/biasa</li>
     <li><span class="ruby-word"><ruby>普通<rt>ふつう</rt></ruby></span> - kereta lokal/biasa</li>
+    <li><span class="ruby-word"><ruby>普段<rt>ふだん</rt></ruby></span> - biasanya, sehari-hari</li>
   </ul>
 </details>
 
@@ -127,6 +126,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>快 memberi rasa cepat/nyaman dalam 快速. Saat melihatnya, cek apakah tujuanmu dilewati atau tidak.</p>
   <ul>
     <li><span class="ruby-word"><ruby>快速<rt>かいそく</rt></ruby></span> - kereta cepat</li>
+    <li><span class="ruby-word"><ruby>快適<rt>かいてき</rt></ruby></span> - nyaman</li>
   </ul>
 </details>
 
@@ -242,51 +242,52 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti Jalur Yamanote?"
-optionA: "山手線"
-optionB: "三番線"
-correct: "山手線"
-explanation: "山手線 benar, dibaca やまのてせん, artinya Jalur Yamanote."
+question: "Tujuanmu stasiun kecil yang sering dilewati kereta cepat. Kereta jenis mana yang pasti berhenti di sana?"
+optionA: "各駅停車"
+optionB: "快速"
+correct: "各駅停車"
+explanation: "各駅停車 benar, dibaca かくえきていしゃ: 各駅 setiap stasiun + 停車 berhenti. 快速 (かいそく) lebih cepat justru karena melewati stasiun kecil."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti peron jalur 3?"
-optionA: "方面"
-optionB: "三番線"
-correct: "三番線"
-explanation: "三番線 benar, dibaca さんばんせん, artinya peron jalur 3."
+question: "Kereta cepat ini melewati Shinjuku."
+sentence: "この快速は新宿を____します。"
+optionA: "通過"
+optionB: "停車"
+correct: "通過"
+explanation: "通過 benar, dibaca つうか, artinya lewat tanpa berhenti. 停車 (ていしゃ) berarti berhenti, jadi maknanya kebalikan dari kalimat ini."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti arah tujuan?"
+question: "Kata mana yang menunjukkan arah tujuan pada papan peron?"
 optionA: "方面"
 optionB: "画面"
 correct: "方面"
-explanation: "方面 benar, dibaca ほうめん, artinya arah tujuan."
+explanation: "方面 benar, dibaca ほうめん, dipakai seperti 渋谷方面 untuk arah perjalanan. 画面 (がめん) berarti layar — kanji pertamanya 画, bukan 方."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti layar?"
-optionA: "普通"
-optionB: "画面"
-correct: "画面"
-explanation: "画面 benar, dibaca がめん, artinya layar."
+question: "Kata mana yang dibaca ちかてつ?"
+optionA: "地下鉄"
+optionB: "鉄道"
+correct: "地下鉄"
+explanation: "地下鉄 benar, dibaca ちかてつ, artinya kereta bawah tanah. 鉄道 (てつどう) berarti jalur kereta secara umum."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti berhenti di setiap stasiun?"
-optionA: "各駅停車"
-optionB: "各自"
-correct: "各駅停車"
-explanation: "各駅停車 benar, dibaca かくえきていしゃ. 各自 adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+question: "Papan elektronik menunjukkan keretamu berangkat dari jalur nomor 3. Tulisan mana yang kamu cari?"
+optionA: "三番線"
+optionB: "山手線"
+correct: "三番線"
+explanation: "三番線 benar, dibaca さんばんせん: 番線 menunjuk nomor jalur/peron. 山手線 (やまのてせん) adalah nama jalur, bukan nomor peron."
 ---
 ::
 

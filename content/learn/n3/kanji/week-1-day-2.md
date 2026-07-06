@@ -128,7 +128,6 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>確 memberi rasa pasti. Pada instruksi keselamatan, kanji ini mendorong kamu memastikan keadaan, bukan sekadar melihat sekilas.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>正確な<rt>せいかく</rt></ruby></span> - akurat</li>
     <li><span class="ruby-word"><ruby>確かめる<rt>たしかめる</rt></ruby></span> - memastikan</li>
     <li><span class="ruby-word"><ruby>確かな<rt>たしかな</rt></ruby></span> - pasti, dapat dipercaya</li>
     <li><span class="ruby-word"><ruby>確認<rt>かくにん</rt></ruby></span> - konfirmasi</li>
@@ -242,51 +241,52 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti menyeberang secara melintang?"
-optionA: "横断"
-optionB: "横断歩道"
-correct: "横断"
-explanation: "横断 benar, dibaca おうだん, artinya menyeberang secara melintang. 横断歩道 adalah tempat penyeberangannya."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti penyeberangan pejalan kaki?"
-optionA: "方式"
-optionB: "横断歩道"
-correct: "横断歩道"
-explanation: "横断歩道 benar, dibaca おうだんほどう, artinya zebra cross atau penyeberangan pejalan kaki. 方式 berarti metode/sistem."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti metode atau sistem?"
-optionA: "方式"
-optionB: "押しボタン式"
-correct: "方式"
-explanation: "方式 benar, dibaca ほうしき, artinya metode atau sistem. 押しボタン式 adalah sistem tombol tekan yang lebih spesifik."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti sistem tombol tekan?"
+question: "Mari menyeberang setelah lampu jadi hijau."
+sentence: "____が青になってから渡りましょう。"
 optionA: "信号"
-optionB: "押しボタン式"
-correct: "押しボタン式"
-explanation: "押しボタン式 benar, dibaca おしぼたんしき, artinya sistem tombol tekan. 信号 adalah lampu lalu lintas/sinyal."
+optionB: "信用"
+correct: "信号"
+explanation: "信号 benar, dibaca しんごう, artinya lampu lalu lintas. 信用 (しんよう) memakai 信 yang sama, tetapi artinya kepercayaan terhadap orang atau hal."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti kepercayaan?"
-optionA: "信用"
-optionB: "一号車"
-correct: "信用"
-explanation: "信用 benar, dibaca しんよう, artinya kepercayaan. 一号車 memakai 号 untuk nomor gerbong."
+question: "Sebelum menyeberang, kamu mengecek kanan dan kiri sampai yakin aman. Kata mana untuk tindakan itu?"
+optionA: "確認"
+optionB: "自信"
+correct: "確認"
+explanation: "確認 benar, dibaca かくにん: 確 memastikan + 認 mengenali, jadi mengecek sampai yakin. 自信 (じしん) berarti percaya diri."
+---
+::
+
+::MiniPractice
+---
+question: "Kata mana yang berarti sistem tombol tekan pada penyeberangan?"
+optionA: "押しボタン式"
+optionB: "方式"
+correct: "押しボタン式"
+explanation: "押しボタン式 benar, dibaca おしぼたんしき. 式 di akhir menjelaskan cara kerja. 方式 (ほうしき) berarti metode secara umum, tanpa menyebut alatnya."
+---
+::
+
+::MiniPractice
+---
+question: "Dia berbicara di depan umum dengan penuh percaya diri. Kata mana untuk 'percaya diri'?"
+optionA: "自信"
+optionB: "信用"
+correct: "自信"
+explanation: "自信 benar, dibaca じしん: percaya pada diri sendiri (自). 信用 adalah kepercayaan yang diberikan kepada orang atau lembaga lain."
+---
+::
+
+::MiniPractice
+---
+question: "Kata mana yang dibaca おうだんほどう dan berarti zebra cross?"
+optionA: "横断歩道"
+optionB: "飛行場"
+correct: "横断歩道"
+explanation: "横断歩道 benar, dibaca おうだんほどう: 横断 menyeberang + 歩道 jalur pejalan kaki. 飛行場 (ひこうじょう) juga tempat, tetapi artinya bandara."
 ---
 ::
 

@@ -21,12 +21,12 @@ tags:
 
 ## Tujuan
 
-Mengenali delapan kanji tambahan N3 dari minggu keenam: 亡, 忙, 忘, 祭, 労, 加, 情, dan 反.
+Hari penutup minggu keenam ini mengenalkan delapan kanji tambahan: 亡, 忙, 忘, 祭, 労, 加, 情, dan 反.
 
 Di akhir pelajaran ini, kamu bisa membaca kata seperti 死亡, 忙しい, 忘れ物, 文化祭, 参加, 情報, dan 反対 dalam berita singkat, pengumuman sekolah, tempat kerja, dan percakapan sehari-hari.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> perhatikan bentuk mirip 亡, 忙, dan 忘. Maknanya berbeda: hilang/meninggal, sibuk, lalu lupa.
+  <strong>Fokus hari ini:</strong> perhatikan keluarga bentuk 亡, 忙, dan 忘. 忙 dan 忘 sama-sama memuat 亡 sebagai komponen bunyi (ketiganya berbacaan ボウ) plus radikal hati 忄/心 — bayangkan "hati yang penuh" jadi sibuk (忙), dan "hati yang kehilangan sesuatu" jadi lupa (忘).
 </div>
 
 ## Daftar Kanji
@@ -59,9 +59,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>忙 menandai kesibukan. Sering muncul dalam percakapan kerja dan alasan tidak sempat melakukan sesuatu.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>多忙(な)<rt>たぼう</rt></ruby></span> - sangat sibuk</li>
     <li><span class="ruby-word"><ruby>忙しい<rt>いそがしい</rt></ruby></span> - sibuk</li>
-    <li><span class="ruby-word"><ruby>多忙<rt>たぼう</rt></ruby></span> - sangat sibuk</li>
+    <li><span class="ruby-word"><ruby>多忙(な)<rt>たぼう</rt></ruby></span> - sangat sibuk</li>
   </ul>
 </details>
 
@@ -162,7 +161,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 ## Peta Kata
 
-Kata-kata hari ini bisa dibaca sebagai alur: kehilangan atau kesibukan → lupa → acara → kerja keras dan partisipasi → informasi atau perasaan → pendapat berlawanan. Banyak kanji hari ini muncul di berita, pengumuman sekolah, dan percakapan tentang kegiatan.
+Kanji hari ini paling mudah diingat per kelompok konteks, bukan sebagai satu cerita: berita serius (死亡, 亡くなる), kesibukan dan kelupaan sehari-hari (忙しい, 忘れ物, 忘年会), acara dan partisipasi (文化祭, お祭り, 参加), kerja keras (苦労, 労働者), lalu informasi dan opini (情報, 反対, 反応). Saat membaca, kenali dulu jenis teksnya — berita, pengumuman, atau percakapan — karena kelompok kata yang muncul biasanya mengikuti jenis teks itu.
 
 <div class="word-strip">
   <span>死亡</span>
@@ -231,9 +230,9 @@ Kata-kata hari ini bisa dibaca sebagai alur: kehilangan atau kesibukan → lupa 
 
 ## Kesalahan Umum
 
-Jangan memperlakukan クイズ⑥ sebagai halaman kuis. Di sini isinya tetap kanji tambahan untuk dibaca dalam kata nyata.
+Kesalahan paling umum minggu ini: menebak arti dari satu kanji yang dikenali, lalu salah membaca kata majemuknya. Jika kanji bentuknya mirip seperti 亡, 忙, dan 忘, baca kata majemuk utuh dulu — konteks berita, sekolah, atau percakapan biasanya langsung menunjukkan apakah yang dimaksud kematian, kesibukan, atau kelupaan.
 
-Strategi bacanya: jika kanji bentuknya mirip seperti 亡, 忙, dan 忘, baca kata majemuk utuh dulu. Konteks berita, sekolah, atau percakapan biasanya langsung menunjukkan apakah yang dimaksud kematian, kesibukan, atau kelupaan.
+Perhatikan juga komponen bunyi: karena 亡, 忙, dan 忘 semuanya bisa dibaca ボウ (死亡, 多忙, 忘年会), jangan mengandalkan bunyi untuk membedakannya. Yang membedakan adalah radikalnya dan kata utuhnya.
 
 ## Mini Practice
 
@@ -241,51 +240,52 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti kematian?"
-optionA: "死亡"
-optionB: "多忙"
-correct: "死亡"
-explanation: "死亡 benar, dibaca しぼう, artinya kematian."
+question: "Saya ikut festival budaya."
+sentence: "文化祭に____しました。"
+optionA: "参加"
+optionB: "増加"
+correct: "参加"
+explanation: "参加 benar, dibaca さんか, artinya ikut serta. 増加 (ぞうか) juga memakai 加, tetapi artinya jumlah yang bertambah — tidak bisa dipakai untuk orang yang mengikuti acara."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti sangat sibuk?"
+question: "Ketiga kanji 亡, 忙, dan 忘 bisa dibaca ボウ. Kata mana yang berarti pesta akhir tahun?"
 optionA: "忘年会"
-optionB: "多忙"
-correct: "多忙"
-explanation: "多忙 benar, dibaca たぼう, artinya sangat sibuk."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti pesta akhir tahun?"
-optionA: "忘年会"
-optionB: "忘れ物"
+optionB: "死亡"
 correct: "忘年会"
-explanation: "忘年会 benar, dibaca ぼうねんかい, artinya pesta akhir tahun."
+explanation: "忘年会 benar, dibaca ぼうねんかい — pesta untuk 'melupakan' tahun yang berlalu, jadi kanjinya 忘 (lupa). 死亡 (しぼう) memakai 亡 dan berarti kematian. Karena bunyinya sama-sama ボウ, bedakan lewat radikal dan kata utuhnya."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti barang tertinggal?"
-optionA: "文化祭"
-optionB: "忘れ物"
-correct: "忘れ物"
-explanation: "忘れ物 benar, dibaca わすれもの, artinya barang tertinggal."
+question: "Kata mana yang berarti informasi?"
+optionA: "情報"
+optionB: "表情"
+correct: "情報"
+explanation: "情報 benar, dibaca じょうほう, artinya informasi. 表情 (ひょうじょう) memakai 情 yang sama, tetapi artinya ekspresi wajah — 情 di sana berarti perasaan, bukan informasi."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti kesulitan, jerih payah?"
+question: "Penonton langsung memberi reaksi terhadap pengumuman itu. Kata mana yang tepat?"
+optionA: "反応"
+optionB: "反対"
+correct: "反応"
+explanation: "反応 benar, dibaca はんのう, artinya reaksi. 反対 (はんたい) berarti menentang — dipakai saat seseorang tidak setuju, bukan sekadar merespons."
+---
+::
+
+::MiniPractice
+---
+question: "Dia bercerita tentang jerih payahnya saat masih muda. Kata mana yang dipakai?"
 optionA: "苦労"
 optionB: "労働者"
 correct: "苦労"
-explanation: "苦労 benar, dibaca くろう. 労働者 adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+explanation: "苦労 benar, dibaca くろう, artinya kesulitan atau jerih payah. 労働者 (ろうどうしゃ) memakai 労 yang sama, tetapi artinya pekerja — orangnya, bukan pengalamannya."
 ---
 ::
 

@@ -107,9 +107,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>際 sering muncul dalam 国際 untuk hal internasional. Dalam topik lingkungan, kata ini biasanya berkaitan dengan kerja sama antarnegara.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>国際(の)<rt>こくさい</rt></ruby></span> - internasional</li>
-    <li><span class="ruby-word"><ruby>交際<rt>こうさい</rt></ruby></span> - pergaulan, hubungan sosial</li>
     <li><span class="ruby-word"><ruby>国際<rt>こくさい</rt></ruby></span> - internasional</li>
+    <li><span class="ruby-word"><ruby>国際会議<rt>こくさいかいぎ</rt></ruby></span> - konferensi internasional</li>
+    <li><span class="ruby-word"><ruby>交際<rt>こうさい</rt></ruby></span> - pergaulan, hubungan sosial</li>
   </ul>
 </details>
 
@@ -170,34 +170,36 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <span>比較</span>
   <span>原因</span>
   <span>原料</span>
-  <span>原因</span>
   <span>要因</span>
   <span>国際</span>
+  <span>会議</span>
+  <span>活動</span>
 </div>
 
-Peta kata hari ini mengikuti alur: perubahan -> perbandingan -> penyebab -> forum internasional -> kegiatan -> perubahan. Gunakan alur ini untuk melihat fungsi kata sebelum menerjemahkan satu per satu.
+Kata-kata hari ini mengikuti alur artikel lingkungan yang khas: artikel membuka dengan penyebab masalah (原因, 要因), lalu menggambarkan perubahannya (変化, 温暖化) dan membandingkan data antartahun (比較, 比べる), kemudian beralih ke respons manusia — forum antarnegara (国際, 会議) dan kegiatan nyata (活動) untuk mengubah keadaan (変える). Cari pola sebab -> perubahan -> respons ini setiap kali membaca artikel lingkungan.
 
 ## Catatan Pemakaian
 
 ### Perubahan
 
-- 変化 berarti perubahan.
-- 文化 berarti budaya.
+- 変化 adalah perubahan kondisi; akhiran 化 juga menempel pada kata lain (温暖化, 〇〇化) untuk proses "menjadi ...".
+- 変わる (berubah sendiri) dan 変える (mengubah sesuatu) dibedakan lewat okurigana-nya.
+- 文化 memakai 化 yang sama tetapi sudah menjadi satu kata tetap: budaya.
 
 ### Perbandingan
 
-- 比べる dan 比較 berkaitan membandingkan data atau kondisi.
+- 比べる (kunyomi, dengan okurigana) muncul di kalimat biasa; 比較 (onyomi) muncul di teks data dan laporan.
 
 ### Penyebab
 
-- 原因 berarti penyebab.
-- 原料 berarti bahan baku.
+- 原因 adalah penyebab masalah; 要因 adalah faktor penting yang ikut menyebabkan.
+- 原料 memakai 原 yang sama, tetapi konteksnya produksi: bahan baku.
 
-### Forum
+### Forum dan kegiatan
 
-- 国際 berarti internasional.
-- 議論 berarti diskusi.
-- 活動 berkaitan kegiatan sosial.
+- 国際 menandai hal antarnegara; gabungannya 国際会議 adalah konferensi internasional.
+- 会議 adalah rapatnya; 議員 adalah orang yang duduk di parlemen.
+- 活動 adalah kegiatan yang dilakukan; 生活 adalah kehidupan sehari-hari.
 
 ## Contoh Kalimat
 
@@ -218,7 +220,14 @@ Peta kata hari ini mengikuti alur: perubahan -> perbandingan -> penyebab -> foru
 
 ## Hal yang Mudah Tertukar
 
-Baca kata sebagai satu blok dulu, terutama pada contoh seperti 変化 atau 比べる. Setelah itu cocokkan dengan konteks pelajaran, karena satu kanji bisa berubah fungsi saat masuk kata majemuk.
+| Pasangan | Cara membedakan |
+|---|---|
+| 変化 / 文化 | Keduanya berakhiran 化 dan dibaca か. Lihat kanji depannya: 変 (berubah) menghasilkan "perubahan", 文 (tulisan/budaya) menghasilkan "budaya". |
+| 原因 / 原料 | Keduanya diawali 原 (asal). 因 berarti sebab, jadi 原因 muncul di konteks masalah; 料 berarti bahan, jadi 原料 muncul di konteks produksi. |
+| 変わる / 変える | Okurigana menentukan arah: 変わる = subjek berubah sendiri; 変える = seseorang mengubah sesuatu (butuh objek dengan を). |
+| 会議 / 議員 | 会議 adalah forum/rapatnya; 議員 adalah orangnya (員 = anggota). Kalau kalimatnya tentang tempat berdiskusi, pilih 会議. |
+
+Catatan komponen: 原 dan 因 sama-sama bisa berarti "sebab", dan justru digabung menjadi 原因. Kalau bertemu 因 sendirian dalam kata lain seperti 要因, tetap baca sebagai "faktor penyebab".
 
 ## Kesalahan Umum
 
@@ -230,21 +239,22 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti perubahan?"
-optionA: "変化"
-optionB: "文化"
-correct: "変化"
-explanation: "変化 benar, dibaca へんか, artinya perubahan."
+question: "Saya meneliti penyebab pemanasan global."
+sentence: "地球温暖化の____を調べます。"
+optionA: "原因"
+optionB: "原料"
+correct: "原因"
+explanation: "原因 benar, dibaca げんいん: 原 (asal) + 因 (sebab) = penyebab. 原料 (げんりょう) memakai 原 yang sama, tetapi 料 berarti bahan — bahan baku produksi."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti budaya?"
-optionA: "比較"
-optionB: "文化"
-correct: "文化"
-explanation: "文化 benar, dibaca ぶんか, artinya budaya."
+question: "Wakil banyak negara berkumpul membahas iklim dalam sebuah rapat. Kata mana untuk rapatnya?"
+optionA: "会議"
+optionB: "議員"
+correct: "会議"
+explanation: "会議 benar, dibaca かいぎ, artinya rapat atau konferensi. 議員 (ぎいん) memakai 議 yang sama, tetapi 員 berarti anggota — orangnya, bukan forumnya."
 ---
 ::
 
@@ -252,29 +262,29 @@ explanation: "文化 benar, dibaca ぶんか, artinya budaya."
 ---
 question: "Kata mana yang berarti perbandingan?"
 optionA: "比較"
-optionB: "原因"
+optionB: "変化"
 correct: "比較"
-explanation: "比較 benar, dibaca ひかく, artinya perbandingan."
+explanation: "比較 benar, dibaca ひかく, artinya perbandingan — biasanya perbandingan data suhu antartahun. 変化 (へんか) berarti perubahan kondisinya."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti penyebab?"
-optionA: "原料"
-optionB: "原因"
-correct: "原因"
-explanation: "原因 benar, dibaca げんいん, artinya penyebab."
+question: "Kata mana yang berarti budaya?"
+optionA: "文化"
+optionB: "化学"
+correct: "文化"
+explanation: "文化 benar, dibaca ぶんか. 化学 (かがく) memakai 化 yang sama, tetapi artinya ilmu kimia — 化 di sana menunjuk perubahan zat."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti faktor utama?"
-optionA: "要因"
-optionB: "国際"
-correct: "要因"
-explanation: "要因 benar, dibaca よういん. 国際 adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+question: "Kelompok lingkungan mengadakan kegiatan penanaman pohon. Kata mana yang tepat?"
+optionA: "活動"
+optionB: "生活"
+correct: "活動"
+explanation: "活動 benar, dibaca かつどう, artinya kegiatan atau aksi yang dilakukan. 生活 (せいかつ) memakai 活 yang sama, tetapi artinya kehidupan sehari-hari, bukan aksi tertentu."
 ---
 ::
 

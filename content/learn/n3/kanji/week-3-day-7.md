@@ -21,12 +21,12 @@ tags:
 
 ## Tujuan
 
-Mengenali tujuh kanji tambahan N3 dari minggu ketiga: 育, 種, 類, 師, 妻, 馬, dan 石.
+Hari penutup minggu ketiga ini mengenalkan tujuh kanji tambahan: 育, 種, 類, 師, 妻, 馬, dan 石.
 
 Di akhir pelajaran ini, kamu bisa membaca kata seperti 教育, 種類, 書類, 教師, 医師, 妻, 馬, 石けん, dan 石油 dalam dokumen, pengumuman sekolah, profil profesi, atau bacaan sehari-hari.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> anggap hari ini sebagai penguat bacaan lintas topik. Cari pola kata: pendidikan, klasifikasi, profesi, keluarga, hewan, dan bahan.
+  <strong>Fokus hari ini:</strong> kanji hari ini tidak berasal dari satu tempat nyata, jadi bacalah per kelompok tema: pendidikan (育), klasifikasi (種・類), profesi (師), keluarga (妻), lalu benda dan bahan (馬・石). Perhatikan juga 種類: 種 dan 類 sama-sama berarti jenis, dan pembentuknya berbeda — 種 memakai 禾 (padi) di kiri, 類 memakai 米 (beras) plus 頁.
 </div>
 
 ## Daftar Kanji
@@ -73,7 +73,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ルイ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-  <p>類 mengelompokkan benda/orang ke jenis tertentu. Sering muncul dalam dokumen dan klasifikasi.</p>
+  <p>類 mengelompokkan benda/orang ke jenis tertentu. Sering muncul pada formulir dan dokumen resmi seperti 書類.</p>
   <ul>
     <li><span class="ruby-word"><ruby>書類<rt>しょるい</rt></ruby></span> - dokumen</li>
     <li><span class="ruby-word"><ruby>分類<rt>ぶんるい</rt></ruby></span> - klasifikasi</li>
@@ -214,9 +214,9 @@ Kata-kata hari ini tersebar di beberapa konteks umum. 育 berkaitan dengan mendi
 
 ## Kesalahan Umum
 
-Jangan memperlakukan クイズ③ sebagai latihan terpisah. Tetap baca setiap kanji lewat kata umum yang akan muncul di teks N3.
+Hati-hati dengan bunyi いし: 医師 (dokter) dan 石 (batu) sama-sama dibaca いし, padahal artinya jauh berbeda. Saat mendengar atau membaca, tentukan dari konteksnya — kalau tentang rumah sakit atau pasien, itu 医師; kalau tentang benda alam atau bahan, itu 石.
 
-Strategi bacanya: lihat kata utuh lebih dulu, lalu cocokkan dengan konteks kalimat atau papan. Untuk kelompok kanji hari ini (育, 種, 類, 師, 妻, 馬, 石), konteks biasanya lebih cepat memberi jawaban daripada menebak satu bacaan kanji secara terpisah.
+Strategi bacanya: untuk kanji profesi 師, baca kata di depannya sebagai bidang keahliannya (教師 mengajar, 医師 mengobati, 看護師 merawat). Pola "bidang + 師" ini membuat kata profesi baru tetap terbaca meskipun belum pernah dihafal.
 
 ## Mini Practice
 
@@ -224,51 +224,52 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti pendidikan?"
-optionA: "教育"
-optionB: "種類"
-correct: "教育"
-explanation: "教育 benar, dibaca きょういく, artinya pendidikan."
+question: "Di rumah sakit, orang yang memeriksa dan mengobati pasien disebut apa?"
+optionA: "医師"
+optionB: "教師"
+correct: "医師"
+explanation: "医師 benar, dibaca いし; 医 berarti pengobatan, jadi 医師 adalah dokter. 教師 (きょうし) memakai 教 (mengajar), jadi artinya guru — pola “bidang + 師” menentukan profesinya."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti jenis?"
+question: "Tulis nama di dokumen ini."
+sentence: "この____に名前を書いてください。"
 optionA: "書類"
 optionB: "種類"
-correct: "種類"
-explanation: "種類 benar, dibaca しゅるい, artinya jenis."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti dokumen?"
-optionA: "書類"
-optionB: "分類"
 correct: "書類"
-explanation: "書類 benar, dibaca しょるい, artinya dokumen."
+explanation: "書類 benar, dibaca しょるい; 書 (tulisan) + 類 berarti berkas/dokumen. 種類 (しゅるい) berarti jenis atau kategori, bukan lembaran yang bisa ditulisi."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti klasifikasi?"
+question: "Kata mana yang dibaca じんるい dan berarti umat manusia?"
 optionA: "人類"
 optionB: "分類"
-correct: "分類"
-explanation: "分類 benar, dibaca ぶんるい, artinya klasifikasi."
+correct: "人類"
+explanation: "人類 benar; 人 (manusia) + 類 (golongan) berarti umat manusia. 分類 dibaca ぶんるい; 分 (membagi) membuat artinya menjadi klasifikasi atau pengelompokan."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti guru?"
-optionA: "教師"
-optionB: "医師"
-correct: "教師"
-explanation: "教師 benar, dibaca きょうし. 医師 adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+question: "Kata mana yang berarti minyak bumi?"
+optionA: "石油"
+optionB: "乗馬"
+correct: "石油"
+explanation: "石油 benar, dibaca せきゆ; 石 (batu) + 油 (minyak) berarti minyak bumi. 乗馬 (じょうば) memakai 乗 (naik) + 馬 (kuda), jadi artinya berkuda."
+---
+::
+
+::MiniPractice
+---
+question: "Kata mana yang berarti pendidikan (prosesnya), bukan orang yang mengajar?"
+optionA: "教育"
+optionB: "教師"
+correct: "教育"
+explanation: "教育 benar, dibaca きょういく; 育 (menumbuhkan) menjadikannya proses mendidik. 教師 (きょうし) memakai 師 yang menunjuk orang, jadi artinya guru."
 ---
 ::
 

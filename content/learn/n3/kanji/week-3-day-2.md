@@ -230,7 +230,7 @@ Kata-kata hari ini membentuk informasi label produk. 消費期限 dan 賞味期�
 | Pasangan | Cara membedakan |
 |---|---|
 | 消費期限 / 賞味期限 | 消費期限 berkaitan dengan batas aman konsumsi. 賞味期限 berkaitan dengan rasa/kualitas terbaik. |
-| 製 / 造 | 製 sering menandai produk buatan. 造 menekankan proses membuat/memproduksi. |
+| 製 / 造 | Lihat posisinya: 製 menempel pada hasil jadi (製品, 日本製 "buatan Jepang"), sedangkan 造 menekankan proses membuat dan punya kunyomi つくる. Dalam 製造 keduanya bergabung menjadi "produksi". |
 | 方法 / 文法 | 方法 adalah cara melakukan sesuatu. 文法 adalah tata bahasa; 文 memberi petunjuk bahasa/kalimat. |
 | 温かい / 暖かい | 温かい sering untuk makanan/minuman/suhu benda. 暖かい sering untuk cuaca atau udara. |
 
@@ -238,7 +238,7 @@ Kata-kata hari ini membentuk informasi label produk. 消費期限 dan 賞味期�
 
 Jangan menyamakan semua kata dengan 期限. Lihat kata sebelumnya: 消費 dan 賞味 memberi jenis batas waktu yang berbeda.
 
-Strategi bacanya: lihat kata utuh lebih dulu, lalu cocokkan dengan konteks kalimat atau papan. Untuk kelompok kanji hari ini (費, 期, 限, 製, 造, 賞, 法, 温), konteks biasanya lebih cepat memberi jawaban daripada menebak satu bacaan kanji secara terpisah.
+Strategi bacanya: pada kemasan, temukan dulu 期限 sebagai inti, lalu baca dua kanji di depannya. 消費期限 dipakai untuk makanan yang cepat rusak (batas aman), 賞味期限 untuk makanan tahan lama (batas rasa terbaik) — perbedaan ini yang paling sering diujikan dan paling penting saat berbelanja.
 
 ## Mini Practice
 
@@ -246,51 +246,52 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti biaya?"
-optionA: "費用"
-optionB: "旅費"
-correct: "費用"
-explanation: "費用 benar, dibaca ひよう, artinya biaya."
+question: "Label mana yang menunjukkan batas aman konsumsi pada makanan yang cepat rusak?"
+optionA: "消費期限"
+optionB: "賞味期限"
+correct: "消費期限"
+explanation: "消費期限 benar, dibaca しょうひきげん; setelah tanggal ini makanan tidak aman dikonsumsi. 賞味期限 (しょうみきげん) hanya menandai batas rasa terbaik — lewat sedikit biasanya masih aman."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti biaya perjalanan?"
-optionA: "消費者"
-optionB: "旅費"
-correct: "旅費"
-explanation: "旅費 benar, dibaca りょひ, artinya biaya perjalanan."
+question: "Produk ini bisa disimpan pada suhu ruang."
+sentence: "この製品は____で保存できます。"
+optionA: "常温"
+optionB: "温度"
+correct: "常温"
+explanation: "常温 benar, dibaca じょうおん; 常 (biasa) + 温 berarti suhu ruang, tidak perlu kulkas. 温度 (おんど) hanya berarti suhu secara umum, bukan kondisi penyimpanan."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti konsumen?"
-optionA: "消費者"
-optionB: "期間"
-correct: "消費者"
-explanation: "消費者 benar, dibaca しょうひしゃ, artinya konsumen."
+question: "Kata mana yang dibaca ほうほう dan berarti cara?"
+optionA: "方法"
+optionB: "文法"
+correct: "方法"
+explanation: "方法 benar, dibaca ほうほう, artinya cara. 文法 dibaca ぶんぽう; kanji 文 (kalimat) di depannya mengubah arti menjadi tata bahasa, dan 法 berubah bunyi menjadi ぽう."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti periode?"
-optionA: "長期"
-optionB: "期間"
-correct: "期間"
-explanation: "期間 benar, dibaca きかん, artinya periode."
+question: "Kata mana yang berarti produk (barang jadi)?"
+optionA: "製品"
+optionB: "製造"
+correct: "製品"
+explanation: "製品 benar, dibaca せいひん; 品 berarti barang, jadi 製品 adalah barang hasil produksi. 製造 (せいぞう) memakai 造 (membuat), jadi artinya proses produksinya, bukan barangnya."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti tiket langganan?"
+question: "Kamu membeli tiket kereta langganan untuk sebulan. Kata mana yang tertulis di tiketnya?"
 optionA: "定期券"
-optionB: "期限"
+optionB: "限定"
 correct: "定期券"
-explanation: "定期券 benar, dibaca ていきけん. 期限 adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+explanation: "定期券 benar, dibaca ていきけん; 定期 (periode tetap) + 券 (tiket) berarti tiket langganan. 限定 (げんてい) berarti terbatas, misalnya barang edisi terbatas, bukan jenis tiket."
 ---
 ::
 

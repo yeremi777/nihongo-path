@@ -94,7 +94,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>欲 berarti keinginan atau nafsu. Dalam 食欲, fokusnya adalah nafsu makan sebagai kondisi tubuh.</p>
   <ul>
     <li><span class="ruby-word"><ruby>食欲<rt>しょくよく</rt></ruby></span> - nafsu makan</li>
-    <li><span class="ruby-word"><ruby>意欲<rt>いよく</rt></ruby></span> - ingin, keinginan</li>
+    <li><span class="ruby-word"><ruby>意欲<rt>いよく</rt></ruby></span> - motivasi, semangat</li>
     <li><span class="ruby-word"><ruby>欲しい<rt>ほしい</rt></ruby></span> - ingin</li>
   </ul>
 </details>
@@ -111,7 +111,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>睡眠<rt>すいみん</rt></ruby></span> - tidur</li>
     <li><span class="ruby-word"><ruby>眠い<rt>ねむい</rt></ruby></span> - mengantuk</li>
-    <li><span class="ruby-word"><ruby>眠る<rt>ねむる</rt></ruby></span> - tidur, mengantuk</li>
+    <li><span class="ruby-word"><ruby>眠る<rt>ねむる</rt></ruby></span> - tertidur, tidur</li>
   </ul>
 </details>
 
@@ -126,6 +126,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>疲 menandai rasa lelah. Jika ada okurigana れる, bacalah sebagai 疲れる, yaitu menjadi lelah.</p>
   <ul>
     <li><span class="ruby-word"><ruby>疲れる<rt>つかれる</rt></ruby></span> - lelah</li>
+    <li><span class="ruby-word"><ruby>疲れ<rt>つかれ</rt></ruby></span> - rasa lelah</li>
   </ul>
 </details>
 
@@ -216,11 +217,16 @@ Peta kata hari ini mengikuti alur: data tubuh -> kebiasaan -> keinginan/nafsu ->
 
 ## Hal yang Mudah Tertukar
 
-Baca kata sebagai satu blok dulu, terutama pada contoh seperti 身長 atau お酒. Setelah itu cocokkan dengan konteks pelajaran, karena satu kanji bisa berubah fungsi saat masuk kata majemuk.
+| Pasangan | Cara membedakan |
+|---|---|
+| 吸 / 呼 | Keduanya beradikal mulut 口 dan bertemu dalam 呼吸. 吸 adalah menghirup ke dalam (吸う, termasuk merokok); 呼 adalah mengeluarkan napas atau suara, sehingga juga berarti memanggil (呼ぶ). |
+| 食欲 / 意欲 | Lihat kanji pertama: 食 berarti makan, jadi 食欲 adalah nafsu makan di formulir kesehatan. 意 berarti niat, jadi 意欲 adalah motivasi atau semangat melakukan sesuatu. |
+| 睡眠 / 眠い | 睡眠 adalah kata majemuk onyomi (すいみん) untuk tidur sebagai data kesehatan, misalnya 睡眠時間. 眠い punya okurigana い dan menjelaskan rasa mengantuk saat itu. |
+| 息 / 息子 | 息 sendiri dibaca いき dan berarti napas. Begitu diikuti 子, kata itu menjadi 息子 (むすこ), anak laki-laki — bacaannya berubah total, jadi lihat kata utuh dulu. |
 
 ## Kesalahan Umum
 
-Kesalahan umum: memaksa satu bacaan ke semua kata. Jika ada okurigana seperti る, す, atau い, biasanya bacaan kunyomi lebih mungkin muncul. Jika kata terdiri dari beberapa kanji tanpa okurigana, baca sebagai kata majemuk lebih dulu.
+Jangan memaksa satu bacaan 身 ke semua kata: dibaca しん pada 身長, tetapi み pada 身分 dan 刺身. Hal serupa terjadi pada 酒: しゅ pada 日本酒, さけ pada お酒, dan さか pada 酒屋. Untuk kata majemuk kesehatan, baca kata utuh dulu, lalu cek apakah onyomi atau kunyomi yang dipakai.
 
 ## Mini Practice
 
@@ -228,51 +234,52 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti tinggi badan?"
+question: "Tolong tulis tinggi dan berat badan."
+sentence: "____と体重を書いてください。"
 optionA: "身長"
-optionB: "独身"
+optionB: "身分"
 correct: "身長"
-explanation: "身長 benar, dibaca しんちょう, artinya tinggi badan."
+explanation: "身長 benar, dibaca しんちょう; berpasangan dengan 体重 (berat badan) di formulir kesehatan. 身分 (みぶん) berarti status atau kedudukan diri, bukan ukuran tubuh."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti lajang?"
-optionA: "日本酒"
-optionB: "独身"
-correct: "独身"
-explanation: "独身 benar, dibaca どくしん, artinya lajang."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti sake Jepang?"
-optionA: "日本酒"
-optionB: "呼吸"
-correct: "日本酒"
-explanation: "日本酒 benar, dibaca にほんしゅ, artinya sake Jepang."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti pernapasan?"
+question: "Kata mana yang berarti nafsu makan?"
 optionA: "食欲"
-optionB: "呼吸"
-correct: "呼吸"
-explanation: "呼吸 benar, dibaca こきゅう, artinya pernapasan."
+optionB: "意欲"
+correct: "食欲"
+explanation: "食欲 benar, dibaca しょくよく; kanji pertamanya 食 (makan). 意欲 (いよく) memakai 欲 yang sama, tetapi 意 berarti niat, jadi artinya motivasi."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti tidur?"
+question: "Formulir menanyakan kualitas tidurmu akhir-akhir ini. Kata mana yang dipakai di kolom itu?"
 optionA: "睡眠"
-optionB: "息切れ"
+optionB: "呼吸"
 correct: "睡眠"
-explanation: "睡眠 benar, dibaca すいみん. 息切れ adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+explanation: "睡眠 benar, dibaca すいみん, kata baku untuk tidur pada data kesehatan seperti 睡眠時間. 呼吸 (こきゅう) berarti pernapasan, kolom yang berbeda."
+---
+::
+
+::MiniPractice
+---
+question: "Kata mana yang dibaca どくしん dan berarti lajang?"
+optionA: "独身"
+optionB: "身分"
+correct: "独身"
+explanation: "独身 benar, dibaca どくしん; 独 berarti sendiri, jadi maknanya belum menikah. 身分 (みぶん) berarti status diri dan memakai kunyomi み, bukan しん."
+---
+::
+
+::MiniPractice
+---
+question: "Setelah naik tangga, napasnya jadi pendek-pendek. Kata mana yang berarti sesak napas?"
+optionA: "息切れ"
+optionB: "息子"
+correct: "息切れ"
+explanation: "息切れ benar, dibaca いきぎれ; 息 (napas) yang terputus (切れ). 息子 (むすこ) memakai kanji 息 yang sama tetapi berarti anak laki-laki, dengan bacaan yang berubah total."
 ---
 ::
 

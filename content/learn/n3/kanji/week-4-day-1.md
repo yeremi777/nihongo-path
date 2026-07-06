@@ -92,7 +92,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>緑 menunjukkan warna hijau. Dalam 緑茶, kanji ini membantu mengenali jenis teh, yaitu teh hijau.</p>
   <ul>
     <li><span class="ruby-word"><ruby>緑茶<rt>りょくちゃ</rt></ruby></span> - teh hijau</li>
-    <li><span class="ruby-word"><ruby>緑(色)<rt>みどり(しょく)</rt></ruby></span> - hijau</li>
+    <li><span class="ruby-word"><ruby>緑(色)<rt>みどり(いろ)</rt></ruby></span> - hijau, warna hijau</li>
   </ul>
 </details>
 
@@ -123,7 +123,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>〜冊<rt>〜さつ</rt></ruby></span> - ... jilid/buku</li>
     <li><span class="ruby-word"><ruby>冊数<rt>さっすう</rt></ruby></span> - jumlah buku</li>
-    <li><span class="ruby-word"><ruby>一冊<rt>いちさつ</rt></ruby></span> - satuan buku</li>
+    <li><span class="ruby-word"><ruby>一冊<rt>いっさつ</rt></ruby></span> - satu buku/jilid</li>
   </ul>
 </details>
 
@@ -164,17 +164,17 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="word-strip">
   <span>砂糖</span>
-  <span>砂</span>
   <span>食塩</span>
-  <span>塩</span>
   <span>しょう油</span>
-  <span>油</span>
   <span>緑茶</span>
-  <span>緑</span>
   <span>紅茶</span>
+  <span>口紅</span>
+  <span>一冊</span>
+  <span>一個</span>
+  <span>一枚</span>
 </div>
 
-Peta kata hari ini bergerak dari bahan makanan ke satuan jumlah. 砂糖, 食塩, しょう油, 緑茶, dan 紅茶 membantu membaca label atau daftar belanja, sedangkan 一冊, 一個, dan 一枚 membantu membaca jumlah barang.
+Peta kata hari ini terbagi dua kelompok tematik. Kelompok pertama adalah isi daftar belanja: bahan dapur (砂糖, 食塩, しょう油) dan minuman (緑茶, 紅茶). Kelompok kedua adalah satuan jumlah yang menempel pada angka: 一冊 untuk buku, 一個 untuk benda umum, dan 一枚 untuk lembaran. Saat membaca daftar belanja, temukan dulu nama barangnya, lalu baca angka plus penghitung di belakangnya.
 
 ## Catatan Pemakaian
 
@@ -200,8 +200,8 @@ Peta kata hari ini bergerak dari bahan makanan ke satuan jumlah. 砂糖, 食塩,
 
 <div class="example-list">
   <div>
-    <p class="jp">砂糖を一個買います。</p>
-    <p>Saya membeli satu gula.</p>
+    <p class="jp">スーパーで砂糖と食塩を買いました。</p>
+    <p>Saya membeli gula dan garam dapur di supermarket.</p>
   </div>
   <div>
     <p class="jp">緑茶を二本と紅茶を一箱ください。</p>
@@ -211,16 +211,20 @@ Peta kata hari ini bergerak dari bahan makanan ke satuan jumlah. 砂糖, 食塩,
     <p class="jp">この紙を三枚コピーしてください。</p>
     <p>Tolong fotokopi tiga lembar kertas ini.</p>
   </div>
+  <div>
+    <p class="jp">図書館で本を二冊借りました。</p>
+    <p>Saya meminjam dua buku di perpustakaan.</p>
+  </div>
 </div>
 
 ## Hal yang Mudah Tertukar
 
 | Pasangan | Cara membedakan |
 |---|---|
-| 砂糖 / 食塩 | 砂糖 adalah gula. 食塩 adalah garam untuk makanan atau label kandungan garam. |
-| 緑茶 / 紅茶 | 緑茶 adalah teh hijau. 紅茶 berarti teh hitam dalam bahasa Jepang modern. |
-| 冊 / 枚 | 冊 untuk buku atau jilid. 枚 untuk lembaran atau benda tipis. |
-| 個 / 枚 | 個 untuk benda umum. 枚 dipakai saat bentuknya tipis atau datar. |
+| 砂糖 / 食塩 | Lihat kanji keduanya: 糖 menunjuk gula, 塩 menunjuk garam. Jangan terkecoh oleh 砂 (pasir) di depan; 砂糖 tetap berarti gula. |
+| 緑茶 / 紅茶 | Kanji pertama menyebut warna: 緑 hijau, 紅 merah. Ingat bahwa 紅茶 diterjemahkan "teh hitam", bukan "teh merah". |
+| 冊 / 枚 | Tentukan dari bentuk benda yang dihitung: benda berjilid seperti buku dan majalah memakai 冊, benda tipis datar seperti kertas atau tiket memakai 枚. |
+| 個 / 枚 | Kalau bendanya jelas tipis dan datar, pilih 枚. Kalau bentuknya tiga dimensi atau tidak jelas, 個 adalah penghitung umum yang aman. |
 
 ## Kesalahan Umum
 
@@ -232,51 +236,52 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti gula?"
+question: "Di rak dapur ada dua bungkus putih yang mirip. Label mana yang menunjukkan gula?"
 optionA: "砂糖"
 optionB: "食塩"
 correct: "砂糖"
-explanation: "砂糖 benar, dibaca さとう, artinya gula."
+explanation: "砂糖 benar, dibaca さとう, artinya gula; kanji keduanya 糖 menunjuk gula. 食塩 (しょくえん) memakai 塩, jadi isinya garam dapur."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti garam dapur?"
-optionA: "緑茶"
-optionB: "食塩"
-correct: "食塩"
-explanation: "食塩 benar, dibaca しょくえん, artinya garam dapur."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti teh hijau?"
+question: "Kata mana yang dibaca りょくちゃ dan berarti teh hijau?"
 optionA: "緑茶"
 optionB: "紅茶"
 correct: "緑茶"
-explanation: "緑茶 benar, dibaca りょくちゃ, artinya teh hijau."
+explanation: "緑茶 benar, dibaca りょくちゃ; kanji 緑 menunjuk warna hijau. 紅茶 dibaca こうちゃ dan berarti teh hitam, meskipun kanji 紅 berarti merah."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti teh hitam?"
+question: "Kata mana yang berarti lipstik?"
 optionA: "口紅"
-optionB: "紅茶"
-correct: "紅茶"
-explanation: "紅茶 benar, dibaca こうちゃ, artinya teh hitam."
+optionB: "個数"
+correct: "口紅"
+explanation: "口紅 benar, dibaca くちべに: 口 mulut plus 紅 merah menjadi lipstik. 個数 (こすう) berarti jumlah benda, tidak berkaitan dengan kosmetik."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti satu buku?"
-optionA: "一冊"
-optionB: "冊数"
-correct: "一冊"
-explanation: "一冊 benar, dibaca いっさつ. 冊数 adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+question: "Tolong fotokopi kertas ini tiga lembar."
+sentence: "この紙を____コピーしてください。"
+optionA: "三枚"
+optionB: "三冊"
+correct: "三枚"
+explanation: "三枚 benar, dibaca さんまい; 枚 dipakai untuk benda tipis datar seperti kertas. 三冊 (さんさつ) memakai 冊 yang khusus menghitung buku atau benda berjilid."
+---
+::
+
+::MiniPractice
+---
+question: "Kamu meminjam dua buku di perpustakaan. Satuan mana yang dipakai untuk menghitungnya?"
+optionA: "二冊"
+optionB: "二個"
+correct: "二冊"
+explanation: "二冊 benar, dibaca にさつ; buku dihitung dengan 冊. 二個 (にこ) memakai penghitung umum 個, yang dipakai saat bentuk benda tidak berjilid dan tidak tipis."
 ---
 ::
 

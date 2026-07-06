@@ -93,7 +93,6 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>失礼(な)<rt>しつれい</rt></ruby></span> - tidak sopan</li>
     <li><span class="ruby-word"><ruby>失敗<rt>しっぱい</rt></ruby></span> - gagal</li>
     <li><span class="ruby-word"><ruby>失礼する<rt>しつれいする</rt></ruby></span> - permisi, bersikap tidak sopan</li>
-    <li><span class="ruby-word"><ruby>失礼<rt>しつれい</rt></ruby></span> - tidak sopan</li>
   </ul>
 </details>
 
@@ -123,8 +122,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>念 berkaitan dengan pikiran atau perasaan yang tertinggal. Dalam 残念, fokusnya adalah rasa kecewa atau sayang sekali.</p>
   <ul>
     <li><span class="ruby-word"><ruby>残念(な)<rt>ざんねん</rt></ruby></span> - sayang sekali</li>
-    <li><span class="ruby-word"><ruby>記念<rt>きねん</rt></ruby></span> - peringatan</li>
-    <li><span class="ruby-word"><ruby>残念<rt>ざんねん</rt></ruby></span> - sayang sekali</li>
+    <li><span class="ruby-word"><ruby>記念<rt>きねん</rt></ruby></span> - peringatan, kenang-kenangan</li>
   </ul>
 </details>
 
@@ -169,9 +167,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <span>お伺い</span>
   <span>遅刻</span>
   <span>遅れる</span>
-  <span>失礼</span>
   <span>失敗</span>
-  <span>汗</span>
+  <span>残念</span>
+  <span>涙</span>
+  <span>笑顔</span>
 </div>
 
 Peta kata hari ini mengikuti alur: sapaan sopan -> keterlambatan/permintaan maaf -> perasaan -> ekspresi wajah. Gunakan alur ini untuk melihat fungsi kata sebelum menerjemahkan satu per satu.
@@ -193,7 +192,8 @@ Peta kata hari ini mengikuti alur: sapaan sopan -> keterlambatan/permintaan maaf
 
 ### Ekspresi
 
-- 汗, 苦しい, 表情, dan 顔 muncul saat menyampaikan perasaan atau kondisi fisik.
+- 汗 (汗をかく), 涙 (涙を流す), dan 笑顔 muncul saat menyampaikan kondisi fisik atau perasaan: gugup, sedih, atau senyum ramah.
+- 残念 menyampaikan rasa kecewa dengan sopan, sering dipakai saat menolak undangan.
 
 ## Contoh Kalimat
 
@@ -214,7 +214,12 @@ Peta kata hari ini mengikuti alur: sapaan sopan -> keterlambatan/permintaan maaf
 
 ## Hal yang Mudah Tertukar
 
-Baca kata sebagai satu blok dulu, terutama pada contoh seperti お礼 atau 伺う. Setelah itu cocokkan dengan konteks pelajaran, karena satu kanji bisa berubah fungsi saat masuk kata majemuk.
+| Pasangan | Cara membedakan |
+|---|---|
+| 失礼 / 失敗 | Lihat kanji kedua: 礼 adalah sopan santun, jadi 失礼 berarti kehilangan sopan santun. 敗 berarti kalah, jadi 失敗 berarti gagal dalam usaha. |
+| 残念 / 記念 | Kanji pertama yang membedakan: 残 berarti tersisa, jadi 残念 adalah perasaan kecewa yang tertinggal. 記 berarti mencatat, jadi 記念 adalah sesuatu untuk mengenang. |
+| 遅刻 / 遅れる | 遅刻 adalah kata majemuk onyomi (ちこく) untuk datang terlambat ke sekolah atau kantor. 遅れる punya okurigana れる, dibaca kunyomi, dan bisa dipakai untuk apa saja yang telat, termasuk balasan email. |
+| 涙 / 汗 | Keduanya berkaitan cairan tubuh dan memakai komponen air. 涙 (氵 + 戻) untuk air mata dan emosi; 汗 (氵 + 干) untuk keringat dan kerja keras atau gugup. |
 
 ## Kesalahan Umum
 
@@ -226,51 +231,52 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti tidak sopan?"
+question: "Kamu mengetuk pintu ruangan atasan dan mengucapkan frasa sopan sebelum masuk. Ungkapan dengan kata mana yang dipakai?"
 optionA: "失礼"
 optionB: "遅刻"
 correct: "失礼"
-explanation: "失礼 benar, dibaca しつれい, artinya tidak sopan."
+explanation: "失礼 benar, dibaca しつれい; 失礼します adalah frasa sopan saat masuk atau mengganggu. 遅刻 (ちこく) berarti datang terlambat, bukan ungkapan sopan."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti terlambat?"
-optionA: "失敗"
-optionB: "遅刻"
-correct: "遅刻"
-explanation: "遅刻 benar, dibaca ちこく, artinya terlambat."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti gagal?"
+question: "Eksperimennya tidak berhasil. Kata mana yang berarti gagal?"
 optionA: "失敗"
 optionB: "残念"
 correct: "失敗"
-explanation: "失敗 benar, dibaca しっぱい, artinya gagal."
+explanation: "失敗 benar, dibaca しっぱい; kanji 敗 berarti kalah, jadi fokusnya kegagalan usaha. 残念 (ざんねん) adalah perasaan kecewa terhadap hasil, bukan kegagalannya sendiri."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti sayang sekali?"
+question: "Kata mana yang dibaca きねん dan berarti peringatan atau kenang-kenangan?"
 optionA: "記念"
-optionB: "残念"
-correct: "残念"
-explanation: "残念 benar, dibaca ざんねん, artinya sayang sekali."
+optionB: "遅刻"
+correct: "記念"
+explanation: "記念 benar, dibaca きねん; kanji 記 berarti mencatat, jadi maknanya mengenang sesuatu. 遅刻 (ちこく) berarti datang terlambat."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti meneteskan air mata?"
-optionA: "涙を流す"
-optionB: "笑顔"
-correct: "涙を流す"
-explanation: "涙を流す benar, dibaca なみだをながす. 笑顔 adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+question: "Sayang sekali, hari ini saya tidak bisa datang."
+sentence: "____ですが、今日は伺えません。"
+optionA: "残念"
+optionB: "失敗"
+correct: "残念"
+explanation: "残念 benar, dibaca ざんねん; 残念ですが adalah pembuka sopan untuk menolak atau menyampaikan kabar mengecewakan. 失敗 berarti gagal dan tidak dipakai sebagai pembuka kalimat seperti ini."
+---
+::
+
+::MiniPractice
+---
+question: "Pelayan toko menyambut tamu dengan wajah tersenyum. Kata mana yang berarti wajah tersenyum?"
+optionA: "笑顔"
+optionB: "記念"
+correct: "笑顔"
+explanation: "笑顔 benar, dibaca えがお, gabungan 笑 (senyum) dan 顔 (wajah). 記念 (きねん) berarti peringatan atau kenang-kenangan, tidak berkaitan dengan ekspresi wajah."
 ---
 ::
 

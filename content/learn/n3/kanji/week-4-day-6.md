@@ -61,7 +61,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>取る<rt>とる</rt></ruby></span> - mengambil</li>
     <li><span class="ruby-word"><ruby>受け取る<rt>うけとる</rt></ruby></span> - menerima</li>
-    <li><span class="ruby-word"><ruby>受取人<rt>うけとりじん</rt></ruby></span> - penerima</li>
+    <li><span class="ruby-word"><ruby>受取人<rt>うけとりにん</rt></ruby></span> - penerima</li>
   </ul>
 </details>
 
@@ -163,17 +163,17 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="word-strip">
   <span>不在</span>
-  <span>現在</span>
-  <span>取る</span>
   <span>受け取る</span>
-  <span>預金</span>
+  <span>受取人</span>
   <span>預ける</span>
   <span>衣類</span>
-  <span>衣服</span>
+  <span>速達</span>
+  <span>通勤</span>
+  <span>時間帯</span>
   <span>参加</span>
 </div>
 
-Peta kata hari ini mengikuti pemberitahuan paket: 不在 menjelaskan penerima tidak ada, 受け取る dan 取る menjelaskan penerimaan, 預ける menjelaskan penitipan, 衣類 memberi jenis barang, 速達 memberi cara kirim, dan 時間帯 menunjukkan rentang waktu.
+Peta kata hari ini mengikuti pemberitahuan paket: 不在 menjelaskan penerima tidak ada, 受け取る dan 受取人 menjelaskan penerimaan dan penerimanya, 預ける menjelaskan penitipan, 衣類 memberi jenis barang, 速達 memberi cara kirim, dan 時間帯 menunjukkan rentang waktu pengantaran ulang. 通勤 dan 参加 melengkapi konteks jadwal harian penerima.
 
 ## Catatan Pemakaian
 
@@ -193,7 +193,13 @@ Peta kata hari ini mengikuti pemberitahuan paket: 不在 menjelaskan penerima ti
 
 ### Pakaian
 
-- 衣類 dan 衣服 berarti pakaian.
+- 衣類 dan 衣服 berarti pakaian; di slip paket biasanya menjelaskan isi kiriman.
+
+### Cara kirim dan waktu
+
+- 速達 adalah kiriman ekspres.
+- 時間帯 adalah rentang waktu, misalnya pilihan jam pengantaran ulang.
+- 通勤 berarti pergi-pulang kerja, berguna untuk memilih 時間帯 saat kamu ada di rumah.
 
 ## Contoh Kalimat
 
@@ -216,10 +222,10 @@ Peta kata hari ini mengikuti pemberitahuan paket: 不在 menjelaskan penerima ti
 
 | Pasangan | Cara membedakan |
 |---|---|
-| 不在 / 現在 | 不在 berarti tidak ada di tempat. 現在 berarti saat ini. |
-| 取る / 受け取る | 取る berarti mengambil. 受け取る berarti menerima barang atau dokumen. |
-| 預金 / 預ける | 預金 berkaitan dengan uang simpanan. 預ける berarti menitipkan. |
-| 通勤 / 時間帯 | 通勤 adalah perjalanan kerja. 時間帯 adalah rentang waktu. |
+| 不在 / 現在 | Kanji kedua sama-sama 在 (ada). Kanji pertama yang membedakan: 不 meniadakan, jadi tidak ada di tempat; 現 berarti muncul/sekarang, jadi saat ini. |
+| 取る / 受け取る | 取る sekadar mengambil sesuatu. Tambahan 受け (menerima) menandai ada pihak yang menyerahkan, jadi 受け取る dipakai untuk menerima paket atau dokumen. |
+| 預金 / 預ける | Sama-sama memakai 預 (menitipkan). Kalau diikuti 金 (uang), artinya uang simpanan di bank; bentuk verba 預ける dipakai untuk menitipkan barang ke orang atau tempat. |
+| 速達 / 上達 | Kanji kedua sama-sama 達 (mencapai). Lihat kanji pertama: 速 (cepat) menghasilkan kiriman ekspres; 上 (naik) menghasilkan kemajuan kemampuan. |
 
 ## Kesalahan Umum
 
@@ -231,51 +237,52 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti tidak ada di tempat?"
+question: "Karena tidak ada orang di tempat, paket dibawa kembali."
+sentence: "____のため、荷物を持ち帰りました。"
 optionA: "不在"
 optionB: "現在"
 correct: "不在"
-explanation: "不在 benar, dibaca ふざい, artinya tidak ada di tempat."
+explanation: "不在 benar, dibaca ふざい; 不 meniadakan 在 (ada), jadi penerima tidak ada di tempat. 現在 (げんざい) berarti saat ini dan tidak menjelaskan alasan paket gagal diterima."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti saat ini?"
-optionA: "受け取る"
-optionB: "現在"
-correct: "現在"
-explanation: "現在 benar, dibaca げんざい, artinya saat ini."
+question: "Kamu ingin kiriman sampai secepat mungkin besok pagi. Layanan pos mana yang dipilih?"
+optionA: "速達"
+optionB: "上達"
+correct: "速達"
+explanation: "速達 benar, dibaca そくたつ; 速 (cepat) plus 達 (mencapai) berarti kiriman ekspres. 上達 (じょうたつ) memakai 達 yang sama tetapi berarti kemajuan kemampuan."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti menerima?"
-optionA: "受け取る"
-optionB: "預金"
-correct: "受け取る"
-explanation: "受け取る benar, dibaca うけとる, artinya menerima."
+question: "Kata mana yang dibaca じかんたい dan berarti rentang waktu?"
+optionA: "時間帯"
+optionB: "受取人"
+correct: "時間帯"
+explanation: "時間帯 benar, dibaca じかんたい; 帯 memberi arti zona atau rentang pada 時間. 受取人 (うけとりにん) berarti orang yang menerima kiriman."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti deposito?"
+question: "Kata mana yang berarti pakaian pada kolom isi paket?"
 optionA: "衣類"
 optionB: "預金"
-correct: "預金"
-explanation: "預金 benar, dibaca よきん, artinya deposito."
+correct: "衣類"
+explanation: "衣類 benar, dibaca いるい; 衣 (pakaian) plus 類 (jenis) berarti kelompok pakaian. 預金 (よきん) berarti uang simpanan di bank, bukan isi paket."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti pakaian?"
-optionA: "衣服"
-optionB: "参加"
-correct: "衣服"
-explanation: "衣服 benar, dibaca いふく. 参加 adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+question: "Kata mana yang berarti ikut serta dalam kegiatan?"
+optionA: "参加"
+optionB: "通勤"
+correct: "参加"
+explanation: "参加 benar, dibaca さんか; 参 (ikut) plus 加 (menambah) berarti bergabung dalam kegiatan. 通勤 (つうきん) berarti pergi-pulang ke tempat kerja."
 ---
 ::
 

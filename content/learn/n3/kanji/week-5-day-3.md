@@ -45,7 +45,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>練 muncul pada kegiatan berlatih. Di kelas, kata 練習 biasanya menandai latihan yang perlu dikerjakan, bukan sekadar teori.</p>
   <ul>
     <li><span class="ruby-word"><ruby>練習<rt>れんしゅう</rt></ruby></span> - latihan</li>
-    <li><span class="ruby-word"><ruby>練る<rt>ねる</rt></ruby></span> - menyusun matang, melatih</li>
+    <li><span class="ruby-word"><ruby>練習問題<rt>れんしゅうもんだい</rt></ruby></span> - soal latihan</li>
   </ul>
 </details>
 
@@ -76,10 +76,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>適 memberi rasa cocok atau tepat. Saat muncul dalam 最も適当, cari pilihan yang paling sesuai dengan kalimat.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>適当(な)<rt>てきとう</rt></ruby></span> - sesuai</li>
+    <li><span class="ruby-word"><ruby>適当(な)<rt>てきとう</rt></ruby></span> - sesuai, pantas</li>
     <li><span class="ruby-word"><ruby>快適(な)<rt>かいてき</rt></ruby></span> - nyaman</li>
-    <li><span class="ruby-word"><ruby>適当<rt>てきとう</rt></ruby></span> - sesuai</li>
-    <li><span class="ruby-word"><ruby>快適<rt>かいてき</rt></ruby></span> - nyaman</li>
   </ul>
 </details>
 
@@ -185,7 +183,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="word-strip">
   <span>練習</span>
-  <span>練る</span>
+  <span>宿題</span>
   <span>最近</span>
   <span>最初</span>
   <span>適当</span>
@@ -201,7 +199,7 @@ Hubungan kata hari ini bisa dibaca sebagai alur belajar: 練習 untuk latihan, �
 
 ### Latihan
 
-- 練習 dan 練る berkaitan berlatih atau membiasakan.
+- 練習 dan 練習問題 berkaitan berlatih; 宿題 adalah tugas yang dikerjakan di rumah.
 
 ### Waktu
 
@@ -255,51 +253,52 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti latihan?"
-optionA: "練習"
-optionB: "最近"
-correct: "練習"
-explanation: "練習 benar, dibaca れんしゅう, artinya latihan."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti akhir-akhir ini?"
-optionA: "最初"
-optionB: "最近"
-correct: "最近"
-explanation: "最近 benar, dibaca さいきん, artinya akhir-akhir ini."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti awal?"
-optionA: "最初"
-optionB: "適当"
-correct: "最初"
-explanation: "最初 benar, dibaca さいしょ, artinya awal."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti sesuai?"
-optionA: "快適"
-optionB: "適当"
+question: "Pilih jawaban yang paling sesuai."
+sentence: "最も____な答えを選んでください。"
+optionA: "適当"
+optionB: "快適"
 correct: "適当"
-explanation: "適当 benar, dibaca てきとう, artinya sesuai."
+explanation: "適当 benar, dibaca てきとう; 最も適当な答え adalah instruksi soal yang meminta jawaban paling sesuai. 快適 (かいてき) menilai rasa nyaman, bukan ketepatan jawaban."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti atlet?"
-optionA: "選手"
-optionB: "間違い"
-correct: "選手"
-explanation: "選手 benar, dibaca せんしゅ. 間違い adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+question: "Kata mana yang berarti mengulang pelajaran setelah kelas selesai?"
+optionA: "復習"
+optionB: "練習"
+correct: "復習"
+explanation: "復習 benar, dibaca ふくしゅう; 復 berarti kembali, jadi fokusnya mengulang materi yang sudah dipelajari. 練習 (れんしゅう) adalah berlatih keterampilan, tidak harus mengulang materi lama."
+---
+::
+
+::MiniPractice
+---
+question: "Kamu tidak tahu arti sebuah kata, lalu mencarinya sendiri. Benda mana yang kamu pakai?"
+optionA: "辞書"
+optionB: "宿題"
+correct: "辞書"
+explanation: "辞書 benar, dibaca じしょ, artinya kamus untuk mencari arti kata. 宿題 (しゅくだい) adalah tugas rumah, bukan alat untuk mencari arti."
+---
+::
+
+::MiniPractice
+---
+question: "Kata mana yang dibaca おうふく dan berarti pulang pergi?"
+optionA: "往復"
+optionB: "回復"
+correct: "往復"
+explanation: "往復 benar, dibaca おうふく; 往 berarti pergi dan 復 berarti kembali, jadi maknanya perjalanan pulang pergi. 回復 (かいふく) berarti pulih, misalnya dari sakit."
+---
+::
+
+::MiniPractice
+---
+question: "Guru menemukan bagian yang salah di karanganmu. Kata mana yang berarti kesalahan?"
+optionA: "間違い"
+optionB: "最初"
+correct: "間違い"
+explanation: "間違い benar, dibaca まちがい, artinya kesalahan yang perlu dicari lalu diperbaiki dengan 直す. 最初 (さいしょ) berarti bagian awal, bukan kesalahan."
 ---
 ::
 

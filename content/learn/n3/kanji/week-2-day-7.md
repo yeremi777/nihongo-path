@@ -140,6 +140,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>昔 menunjuk masa lampau yang terasa cukup jauh dari sekarang.</p>
   <ul>
     <li><span class="ruby-word"><ruby>昔<rt>むかし</rt></ruby></span> - dahulu</li>
+    <li><span class="ruby-word"><ruby>昔話<rt>むかしばなし</rt></ruby></span> - dongeng, cerita zaman dulu</li>
   </ul>
 </details>
 </div>
@@ -212,7 +213,7 @@ Kata-kata hari ini tidak berada pada satu tempat saja, tetapi tetap punya pola. 
 
 Jangan memperlakukan クイズ② sebagai halaman kuis. Di sini isinya tetap kanji tambahan untuk dibaca dalam kata nyata.
 
-Strategi bacanya: lihat kata utuh lebih dulu, lalu cocokkan dengan konteks kalimat atau papan. Untuk kelompok kanji hari ini (黄, 絵, 組, 束, 授, 渡, 昔), konteks biasanya lebih cepat memberi jawaban daripada menebak satu bacaan kanji secara terpisah.
+Karena kanji minggu penutup ini datang dari konteks yang berbeda-beda, kaitkan tiap kanji ke satu kata kunci yang paling sering muncul: 黄→黄色, 絵→絵本, 組→番組, 束→約束, 授→授業, 渡→渡る, 昔→昔話. Saat bertemu kata baru dengan kanji itu, mulailah dari kata kuncinya.
 
 ## Mini Practice
 
@@ -220,51 +221,53 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti warna kuning?"
-optionA: "黄色"
-optionB: "黄色い"
-correct: "黄色"
-explanation: "黄色 benar, dibaca きいろ, artinya warna kuning."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti kuning?"
-optionA: "絵画"
-optionB: "黄色い"
+question: "Tulis nama di kertas kuning."
+sentence: "____紙に名前を書いてください。"
+optionA: "黄色い"
+optionB: "黄色"
 correct: "黄色い"
-explanation: "黄色い benar, dibaca きいろい, artinya kuning."
+explanation: "黄色い benar, dibaca きいろい: bentuk kata sifat yang dipakai langsung di depan kata benda. 黄色 (きいろ) adalah kata benda untuk warnanya sendiri."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti lukisan?"
-optionA: "絵画"
-optionB: "絵本"
-correct: "絵画"
-explanation: "絵画 benar, dibaca かいが, artinya lukisan."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti buku bergambar?"
-optionA: "三組"
-optionB: "絵本"
+question: "Kamu membacakan buku penuh gambar untuk anak kecil. Kata mana untuk buku itu?"
+optionA: "絵本"
+optionB: "絵画"
 correct: "絵本"
-explanation: "絵本 benar, dibaca えほん, artinya buku bergambar."
+explanation: "絵本 benar, dibaca えほん: buku (本) bergambar (絵) untuk anak. 絵画 (かいが) berarti lukisan, biasanya yang dipajang di museum."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti program acara?"
+question: "Kata mana yang dibaca ばんぐみ dan berarti program acara TV?"
 optionA: "番組"
-optionB: "約束"
+optionB: "授業"
 correct: "番組"
-explanation: "番組 benar, dibaca ばんぐみ. 約束 adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+explanation: "番組 benar, dibaca ばんぐみ: di sini 組 dibaca ぐみ, bukan くみ. 授業 (じゅぎょう) berarti pelajaran atau kelas."
+---
+::
+
+::MiniPractice
+---
+question: "Saya berjanji bertemu teman jam tiga."
+sentence: "3時に友だちと____をしました。"
+optionA: "約束"
+optionB: "花束"
+correct: "約束"
+explanation: "約束 benar, dibaca やくそく: 束 bergabung dengan 約 menjadi janji. 花束 (はなたば) memakai 束 yang sama dengan bacaan たば, artinya buket bunga."
+---
+::
+
+::MiniPractice
+---
+question: "Kata mana yang berarti profesor?"
+optionA: "教授"
+optionB: "授業"
+correct: "教授"
+explanation: "教授 benar, dibaca きょうじゅ: orang yang mengajar di universitas. 授業 (じゅぎょう) memakai 授 yang sama, tetapi artinya pelajaran yang diikuti siswa."
 ---
 ::
 

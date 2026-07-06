@@ -26,7 +26,7 @@ Mengenali sembilan kanji N3 yang sering muncul pada label penyimpanan makanan: �
 Di akhir pelajaran ini, kamu bisa membaca kata seperti 要冷蔵, 冷蔵庫, 冷凍庫, 召し上がる, 保存, ご存じ, 必要, dan 必ず pada kemasan makanan.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca label makanan dari kebutuhan, suhu penyimpanan, tempat simpan, lalu instruksi konsumsi.
+  <strong>Fokus hari ini:</strong> baca label makanan dari kebutuhan, suhu penyimpanan, tempat simpan, lalu instruksi konsumsi. Perhatikan juga 冷 dan 凍: keduanya memakai radikal es 冫 di kiri, penanda "kelompok dingin" hari ini. Bedakan lewat pasangannya di kata utuh: 冷蔵 untuk kulkas, 冷凍 untuk freezer.
 </div>
 
 ## Daftar Kanji
@@ -47,8 +47,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>必要(な)<rt>ひつよう</rt></ruby></span> - perlu</li>
     <li><span class="ruby-word"><ruby>要る<rt>いる</rt></ruby></span> - memerlukan</li>
     <li><span class="ruby-word"><ruby>重要(な)<rt>じゅうよう</rt></ruby></span> - penting</li>
-    <li><span class="ruby-word"><ruby>必要<rt>ひつよう</rt></ruby></span> - perlu</li>
-    <li><span class="ruby-word"><ruby>重要<rt>じゅうよう</rt></ruby></span> - penting</li>
+    <li><span class="ruby-word"><ruby>要冷蔵<rt>ようれいぞう</rt></ruby></span> - perlu disimpan di kulkas</li>
   </ul>
 </details>
 
@@ -127,9 +126,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: めす</span></span>
     </span>
   </summary>
-  <p>召 dipakai dalam bentuk hormat 召し上がる untuk makan/minum.</p>
+  <p>召 dipakai dalam bentuk hormat 召し上がる untuk makan/minum. Pada kemasan makanan, bentuk permintaannya sering muncul sebagai instruksi konsumsi.</p>
   <ul>
     <li><span class="ruby-word"><ruby>召し上がる<rt>めしあがる</rt></ruby></span> - makan/minum (hormat)</li>
+    <li><span class="ruby-word"><ruby>お召し上がりください<rt>おめしあがりください</rt></ruby></span> - silakan dinikmati (instruksi kemasan)</li>
   </ul>
 </details>
 
@@ -161,7 +161,6 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>ご存じです<rt>ごぞんじです</rt></ruby></span> - mengetahui (hormat)</li>
     <li><span class="ruby-word"><ruby>存じません<rt>ぞんじません</rt></ruby></span> - tidak tahu (rendah hati)</li>
     <li><span class="ruby-word"><ruby>保存<rt>ほぞん</rt></ruby></span> - penyimpanan, pengawetan</li>
-    <li><span class="ruby-word"><ruby>ご存じ<rt>ごぞんじ</rt></ruby></span> - mengetahui (hormat)</li>
   </ul>
 </details>
 
@@ -178,7 +177,6 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>必要(な)<rt>ひつよう</rt></ruby></span> - perlu</li>
     <li><span class="ruby-word"><ruby>必ず<rt>かならず</rt></ruby></span> - pasti, harus</li>
     <li><span class="ruby-word"><ruby>必死(に)<rt>ひっし(に)</rt></ruby></span> - mati-matian, sungguh-sungguh</li>
-    <li><span class="ruby-word"><ruby>必要<rt>ひつよう</rt></ruby></span> - perlu</li>
   </ul>
 </details>
 </div>
@@ -242,7 +240,7 @@ Kata-kata hari ini membentuk instruksi pada kemasan. 要 dan 必 menandai kebutu
 
 | Pasangan | Cara membedakan |
 |---|---|
-| 必要 / 必ず | 必要 adalah “perlu/diperlukan”. 必ず berarti “pasti/harus dilakukan”. |
+| 必要 / 必ず | Lihat huruf setelah 必: kanji 要 membentuk kata benda/na-adjektiva "perlu", sedangkan okurigana ず menandai adverbia "pasti" yang menerangkan kata kerja. |
 | 冷蔵 / 冷凍 | 冷蔵 adalah penyimpanan dingin di kulkas. 冷凍 adalah pembekuan di freezer. |
 | 保存 / ご存じ | Keduanya memakai 存, tetapi 保存 berarti menyimpan, ご存じ berarti mengetahui secara hormat. |
 | 冷える / 冷める | 冷える dipakai untuk tubuh/ruangan/benda menjadi dingin. 冷める sering untuk makanan/minuman panas yang mendingin. |
@@ -251,7 +249,7 @@ Kata-kata hari ini membentuk instruksi pada kemasan. 要 dan 必 menandai kebutu
 
 Jangan mengabaikan 要 di awal label. 要冷蔵 berarti “perlu pendinginan”, bukan sekadar “dingin”.
 
-Strategi bacanya: lihat kata utuh lebih dulu, lalu cocokkan dengan konteks kalimat atau papan. Untuk kelompok kanji hari ini (要, 冷, 蔵, 凍, 庫, 召, 保, 存, 必), konteks biasanya lebih cepat memberi jawaban daripada menebak satu bacaan kanji secara terpisah.
+Strategi bacanya: saat belanja, cari 冷蔵 atau 冷凍 lebih dulu pada label kemasan, karena dua kata itu langsung menentukan tempat simpan (kulkas atau freezer). Setelah itu baru baca kata di sekitarnya seperti 保存 dan 必ず untuk tahu cara dan keharusan menyimpannya.
 
 ## Mini Practice
 
@@ -259,51 +257,52 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti perlu?"
+question: "Produk ini harus disimpan di kulkas."
+sentence: "この商品は____です。"
+optionA: "要冷蔵"
+optionB: "冷凍"
+correct: "要冷蔵"
+explanation: "要冷蔵 benar, dibaca ようれいぞう; 要 di depan berarti wajib disimpan dingin di kulkas. 冷凍 (れいとう) berarti dibekukan di freezer, bukan sekadar didinginkan."
+---
+::
+
+::MiniPractice
+---
+question: "Kamu ingin menyimpan es krim agar tetap beku. Ke mana kamu memasukkannya?"
+optionA: "冷蔵庫"
+optionB: "冷凍庫"
+correct: "冷凍庫"
+explanation: "冷凍庫 benar, dibaca れいとうこ, artinya freezer; 凍 berarti membeku. 冷蔵庫 (れいぞうこ) hanya mendinginkan tanpa membekukan, jadi es krim akan meleleh."
+---
+::
+
+::MiniPractice
+---
+question: "Kata mana yang dibaca ひつよう dan berarti perlu?"
 optionA: "必要"
 optionB: "重要"
 correct: "必要"
-explanation: "必要 benar, dibaca ひつよう, artinya perlu."
+explanation: "必要 benar, dibaca ひつよう, artinya perlu. 重要 dibaca じゅうよう dan artinya penting; kanji pertamanya 重 (berat) yang membedakannya dari 必 (pasti/harus)."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti penting?"
-optionA: "冷房"
-optionB: "重要"
-correct: "重要"
-explanation: "重要 benar, dibaca じゅうよう, artinya penting."
+question: "Kata mana yang berarti brankas?"
+optionA: "金庫"
+optionB: "車庫"
+correct: "金庫"
+explanation: "金庫 benar, dibaca きんこ; 金 (uang/emas) + 庫 (tempat simpan) = brankas. 車庫 (しゃこ) memakai 車, jadi artinya garasi untuk kendaraan."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti AC pendingin?"
-optionA: "冷房"
-optionB: "冷蔵庫"
-correct: "冷房"
-explanation: "冷房 benar, dibaca れいぼう, artinya AC pendingin."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti kulkas?"
-optionA: "冷蔵"
-optionB: "冷蔵庫"
-correct: "冷蔵庫"
-explanation: "冷蔵庫 benar, dibaca れいぞうこ, artinya kulkas."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti freezer?"
-optionA: "冷凍庫"
-optionB: "金庫"
-correct: "冷凍庫"
-explanation: "冷凍庫 benar, dibaca れいとうこ. 金庫 adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+question: "Di kemasan tertulis instruksi menyimpan makanan agar kualitasnya tetap terjaga. Kata mana yang muncul?"
+optionA: "保存"
+optionB: "冷房"
+correct: "保存"
+explanation: "保存 benar, dibaca ほぞん; 保 (menjaga) + 存 (ada) berarti menyimpan agar tetap baik. 冷房 (れいぼう) adalah AC pendingin ruangan, tidak dipakai untuk instruksi kemasan."
 ---
 ::
 

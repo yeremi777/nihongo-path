@@ -241,13 +241,13 @@ Kata-kata hari ini mengikuti langkah memasak. 材料 berisi 卵・乳・粉, 袋
 | 表 / 裏 | 表 adalah depan/permukaan yang terlihat. 裏 adalah belakang atau sisi sebaliknya. |
 | 焼く / 焼ける | 焼く adalah seseorang memanggang. 焼ける berarti sesuatu matang/terpanggang. |
 | 混ぜる / 混雑 | 混ぜる adalah mencampur bahan. 混雑 berarti ramai/padat. |
-| 材 / 料 | 材 memberi rasa bahan/material. 料 sering berkaitan dengan biaya atau bahan; 材料 sebagai kata utuh berarti bahan. |
+| 材 / 木 | 材 memakai 木 (pohon) di kiri plus 才; artinya bergeser dari kayu ke "bahan" secara umum, seperti 材料 dan 教材. Kalau hanya 木, artinya tetap pohon/kayu. |
 
 ## Kesalahan Umum
 
 Jangan menerjemahkan 焼く hanya sebagai “membakar”. Dalam resep, 焼く sering berarti memanggang atau memasak di panas.
 
-Strategi bacanya: lihat kata utuh lebih dulu, lalu cocokkan dengan konteks kalimat atau papan. Untuk kelompok kanji hari ini (材, 卵, 乳, 粉, 袋, 混, 焼, 表, 裏), konteks biasanya lebih cepat memberi jawaban daripada menebak satu bacaan kanji secara terpisah.
+Strategi bacanya: resep adalah panduan langkah demi langkah, dan kata kerjanya hampir selalu muncul dengan okurigana (混ぜる, 焼く, 裏返す), sedangkan daftar bahan berupa kata benda utuh (材料, 牛乳, 小麦粉). Pisahkan dulu mana instruksi dan mana bahan, lalu bacaan tiap kanji jadi lebih mudah ditebak dari perannya.
 
 ## Mini Practice
 
@@ -255,51 +255,52 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti bahan?"
+question: "Campur telur dan susu sapi dengan baik."
+sentence: "卵と____をよく混ぜます。"
+optionA: "牛乳"
+optionB: "小麦粉"
+correct: "牛乳"
+explanation: "牛乳 benar, dibaca ぎゅうにゅう; 牛 (sapi) + 乳 (susu) berarti susu sapi. 小麦粉 (こむぎこ) adalah tepung terigu — bahan bubuk, bukan cairan yang disebut dalam kalimat."
+---
+::
+
+::MiniPractice
+---
+question: "Kata mana yang berarti bahan (masakan)?"
 optionA: "材料"
 optionB: "教材"
 correct: "材料"
-explanation: "材料 benar, dibaca ざいりょう, artinya bahan."
+explanation: "材料 benar, dibaca ざいりょう, artinya bahan masakan atau bahan baku. 教材 (きょうざい) memakai 教 (mengajar) di depan, jadi artinya materi ajar, bukan bahan makanan."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti materi ajar?"
-optionA: "卵焼き"
-optionB: "教材"
-correct: "教材"
-explanation: "教材 benar, dibaca きょうざい, artinya materi ajar."
+question: "Informasi gizi ada di sisi belakang kemasan, bukan di permukaan depan. Kata mana yang berarti permukaan?"
+optionA: "表面"
+optionB: "代表"
+correct: "表面"
+explanation: "表面 benar, dibaca ひょうめん; 表 (depan) + 面 (muka/bidang) berarti permukaan. 代表 (だいひょう) memakai 代 (mewakili), jadi artinya perwakilan, bukan sisi benda."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti telur dadar gulung Jepang?"
-optionA: "卵焼き"
-optionB: "牛乳"
-correct: "卵焼き"
-explanation: "卵焼き benar, dibaca たまごやき, artinya telur dadar gulung Jepang."
+question: "Kata mana yang dibaca こんざつ dan berarti ramai/padat?"
+optionA: "混雑"
+optionB: "乳製品"
+correct: "混雑"
+explanation: "混雑 benar, dibaca こんざつ; di sini 混 dibaca onyomi コン dan berarti bercampur/berdesakan, bukan まぜる seperti pada 混ぜる. 乳製品 (にゅうせいひん) berarti produk susu."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti susu sapi?"
-optionA: "乳製品"
-optionB: "牛乳"
-correct: "牛乳"
-explanation: "牛乳 benar, dibaca ぎゅうにゅう, artinya susu sapi."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti tepung terigu?"
-optionA: "小麦粉"
+question: "Kata mana yang berarti sarung tangan?"
+optionA: "手袋"
 optionB: "紙袋"
-correct: "小麦粉"
-explanation: "小麦粉 benar, dibaca こむぎこ. 紙袋 adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+correct: "手袋"
+explanation: "手袋 benar, dibaca てぶくろ; 手 (tangan) + 袋 (kantong) = kantong untuk tangan, yaitu sarung tangan. 紙袋 (かみぶくろ) memakai 紙 (kertas), jadi artinya kantong kertas."
 ---
 ::
 

@@ -78,8 +78,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>空港<rt>くうこう</rt></ruby></span> - bandara</li>
     <li><span class="ruby-word"><ruby>港<rt>みなと</rt></ruby></span> - pelabuhan</li>
-    <li><span class="ruby-word"><ruby>〇〇港<rt>みなと</rt></ruby></span> - pelabuhan</li>
-    <li><span class="ruby-word"><ruby>神戸港<rt>こうべこう</rt></ruby></span> - Pelabuhan Kobe</li>
+    <li><span class="ruby-word"><ruby>神戸港<rt>こうべこう</rt></ruby></span> - Pelabuhan Kobe; pada nama pelabuhan, 港 dibaca こう</li>
   </ul>
 </details>
 
@@ -234,7 +233,7 @@ Kata-kata hari ini membantu membaca peta tempat wisata. 観光 adalah kegiatan w
 
 Jangan membaca peta hanya dari satu kanji. 美 bisa berarti indah, tetapi 美術館 sebagai kata utuh berarti museum seni.
 
-Strategi bacanya: lihat kata utuh lebih dulu, lalu cocokkan dengan konteks kalimat atau papan. Untuk kelompok kanji hari ini (観, 園, 港, 遊, 美, 術, 神, 寺), konteks biasanya lebih cepat memberi jawaban daripada menebak satu bacaan kanji secara terpisah.
+Strategi bacanya: pada peta wisata, kanji terakhir sebuah nama tempat memberi tahu jenis tempatnya: 〜館 gedung, 〜園 taman, 〜港 pelabuhan/bandara, 〜社 kuil Shinto, 〜寺 kuil Buddha. Kenali akhiran itu dulu, baru baca bagian depannya sebagai nama.
 
 ## Mini Practice
 
@@ -242,51 +241,52 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti wisata?"
-optionA: "観光"
-optionB: "観客"
-correct: "観光"
-explanation: "観光 benar, dibaca かんこう, artinya wisata."
+question: "Di pusat informasi stasiun ada peta khusus untuk turis. Apa nama peta itu?"
+optionA: "観光地図"
+optionB: "美術館"
+correct: "観光地図"
+explanation: "観光地図 benar, dibaca かんこうちず: peta (地図) untuk wisata (観光). 美術館 (びじゅつかん) adalah museum seni, salah satu tempat yang tergambar di peta itu."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Kata mana yang berarti penonton?"
-optionA: "動物園"
-optionB: "観客"
+optionA: "観客"
+optionB: "観光"
 correct: "観客"
-explanation: "観客 benar, dibaca かんきゃく, artinya penonton."
+explanation: "観客 benar, dibaca かんきゃく: 客 memberi petunjuk orang, jadi orang yang menonton. 観光 (かんこう) memakai 観 yang sama, tetapi artinya kegiatan wisata."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti kebun binatang?"
-optionA: "動物園"
-optionB: "遊園地"
-correct: "動物園"
-explanation: "動物園 benar, dibaca どうぶつえん, artinya kebun binatang."
+question: "Ada bus dari bandara ke pelabuhan."
+sentence: "____から港までバスがあります。"
+optionA: "空港"
+optionB: "動物園"
+correct: "空港"
+explanation: "空港 benar, dibaca くうこう: pelabuhan (港) udara (空), yaitu bandara. 動物園 (どうぶつえん) berarti kebun binatang, tidak cocok dengan arti kalimatnya."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Kata mana yang berarti taman bermain?"
-optionA: "空港"
-optionB: "遊園地"
+optionA: "遊園地"
+optionB: "公園"
 correct: "遊園地"
-explanation: "遊園地 benar, dibaca ゆうえんち, artinya taman bermain."
+explanation: "遊園地 benar, dibaca ゆうえんち: area (地) taman (園) untuk bermain (遊). 公園 (こうえん) memakai 園 yang sama, tetapi artinya taman umum biasa."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti Pelabuhan Kobe?"
-optionA: "神戸港"
-optionB: "美術館"
-correct: "神戸港"
-explanation: "神戸港 benar, dibaca こうべこう. 美術館 adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+question: "Kata mana yang dibaca じんじゃ dan berarti kuil Shinto?"
+optionA: "神社"
+optionB: "神様"
+correct: "神社"
+explanation: "神社 benar, dibaca じんじゃ: di sini 神 memakai bacaan ジン. Pada 神様 (かみさま), kanji yang sama dibaca かみ dan artinya dewa. Ingat juga 寺 untuk kuil Buddha."
 ---
 ::
 

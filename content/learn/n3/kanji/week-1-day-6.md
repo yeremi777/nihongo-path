@@ -241,51 +241,52 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti berhenti (kendaraan)?"
-optionA: "停車"
-optionB: "整理"
-correct: "停車"
-explanation: "停車 benar, dibaca ていしゃ, artinya berhenti (kendaraan)."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti merapikan / mengatur?"
-optionA: "整理券"
-optionB: "整理"
-correct: "整理"
-explanation: "整理 benar, dibaca せいり, artinya merapikan / mengatur."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti tiket nomor antrean?"
+question: "Saat naik bus dengan tarif berjenjang, kamu mengambil tiket kecil bernomor di pintu masuk. Tiket apa itu?"
 optionA: "整理券"
 optionB: "乗車券"
 correct: "整理券"
-explanation: "整理券 benar, dibaca せいりけん, artinya tiket nomor antrean."
+explanation: "整理券 benar, dibaca せいりけん — tiket bernomor untuk menentukan tarif saat turun. 乗車券 (じょうしゃけん) adalah tiket untuk naik yang dibeli lebih dulu."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti tiket naik?"
-optionA: "回数券"
-optionB: "乗車券"
-correct: "乗車券"
-explanation: "乗車券 benar, dibaca じょうしゃけん, artinya tiket naik."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti uang tunai?"
+question: "Saya hanya punya uang tunai, bisa tukar uang?"
+sentence: "____しかないので、両替できますか。"
 optionA: "現金"
 optionB: "現在"
 correct: "現金"
-explanation: "現金 benar, dibaca げんきん. 現在 adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+explanation: "現金 benar, dibaca げんきん, artinya uang tunai. 現在 (げんざい) memakai 現 yang sama, tetapi kanji keduanya 在 membuat arti 'saat ini'."
+---
+::
+
+::MiniPractice
+---
+question: "Yang berhenti adalah kendaraannya, bukan penumpang yang turun. Kata mana yang tepat?"
+optionA: "停車"
+optionB: "降車"
+correct: "停車"
+explanation: "停車 benar, dibaca ていしゃ: subjeknya kendaraan yang berhenti. 降車 (こうしゃ) berarti penumpang turun dari kendaraan."
+---
+::
+
+::MiniPractice
+---
+question: "Kata mana yang berarti kursi prioritas?"
+optionA: "優先席"
+optionB: "座席"
+correct: "優先席"
+explanation: "優先席 benar, dibaca ゆうせんせき, kursi yang diprioritaskan untuk yang membutuhkan. 座席 (ざせき) adalah tempat duduk biasa."
+---
+::
+
+::MiniPractice
+---
+question: "Kata mana yang dibaca りょうがえ dan berarti menukar pecahan uang?"
+optionA: "両替"
+optionB: "両親"
+correct: "両替"
+explanation: "両替 benar, dibaca りょうがえ. 両親 (りょうしん) memakai 両 yang sama, tetapi artinya kedua orang tua."
 ---
 ::
 

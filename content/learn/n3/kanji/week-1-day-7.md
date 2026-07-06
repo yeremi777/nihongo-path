@@ -1,6 +1,6 @@
 ---
 title: "クイズ①"
-description: "Review kanji N3 Minggu 1 untuk kata sehari-hari, bentuk yang mirip, waktu, tempat, dan ungkapan pertolongan."
+description: "Belajar kanji N3 tambahan penutup minggu 1: kata waktu, benda sehari-hari, bentuk yang mirip, dan ungkapan pertolongan."
 level: "N3"
 category: "kanji"
 topic: "クイズ①"
@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Review ringan Minggu 1 dengan kanji tambahan: 未, 末, 若, 晩, 島, 皿, 血, dan 助.
+Hari penutup minggu ini mengenalkan delapan kanji tambahan: 未, 末, 若, 晩, 島, 皿, 血, dan 助.
 
 Tujuan utamanya adalah memperkuat pola baca kata majemuk pendek yang sering muncul di kehidupan harian. Hari ini juga membantu kamu membedakan bentuk kanji yang mirip dan membaca kata pendek tanpa terlalu lama menebak.
 
@@ -77,6 +77,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>若 dipakai untuk usia atau kesan muda. Untuk tahap ini, bentuk paling stabil adalah 若い.</p>
   <ul>
     <li><span class="ruby-word"><ruby>若い<rt>わかい</rt></ruby></span> - muda</li>
+    <li><span class="ruby-word"><ruby>若者<rt>わかもの</rt></ruby></span> - anak muda</li>
   </ul>
 </details>
 
@@ -107,9 +108,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>島 berarti pulau dan sering muncul pada nama tempat. Bacaan nama tempat bisa khusus, jadi hafalkan sebagai kata utuh.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>〇〇島<rt>しま</rt></ruby></span> - pulau</li>
     <li><span class="ruby-word"><ruby>島<rt>しま</rt></ruby></span> - pulau</li>
-    <li><span class="ruby-word"><ruby>広島<rt>ひろしま</rt></ruby></span> - pulau</li>
+    <li><span class="ruby-word"><ruby>広島<rt>ひろしま</rt></ruby></span> - Hiroshima (nama kota)</li>
   </ul>
 </details>
 
@@ -221,51 +221,52 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti belum diputuskan?"
+question: "Jadwalnya masih belum ditentukan."
+sentence: "予定はまだ____です。"
 optionA: "未定"
 optionB: "未来"
 correct: "未定"
-explanation: "未定 benar, dibaca みてい, artinya belum diputuskan."
+explanation: "未定 benar, dibaca みてい: 未 belum + 定 ditetapkan. 未来 (みらい) berarti masa depan, tidak cocok untuk status jadwal."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti masa depan?"
+question: "Kata mana yang berarti akhir pekan? Perhatikan beda goresan 未 dan 末."
 optionA: "週末"
-optionB: "未来"
-correct: "未来"
-explanation: "未来 benar, dibaca みらい, artinya masa depan."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti akhir pekan?"
-optionA: "週末"
-optionB: "年末"
+optionB: "未満"
 correct: "週末"
-explanation: "週末 benar, dibaca しゅうまつ, artinya akhir pekan."
+explanation: "週末 benar, dibaca しゅうまつ, memakai 末 'akhir' (goresan atas lebih panjang). 未満 (みまん) memakai 未 'belum' dan berarti kurang dari suatu batas."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti akhir tahun?"
-optionA: "今晩"
-optionB: "年末"
+question: "Di meja restoran ada wadah kecil untuk abu rokok. Apa namanya?"
+optionA: "灰皿"
+optionB: "毎晩"
+correct: "灰皿"
+explanation: "灰皿 benar, dibaca はいざら: 灰 abu + 皿 piring/wadah, jadi asbak. 毎晩 (まいばん) berarti setiap malam."
+---
+::
+
+::MiniPractice
+---
+question: "Kata mana yang dibaca ねんまつ?"
+optionA: "年末"
+optionB: "月末"
 correct: "年末"
-explanation: "年末 benar, dibaca ねんまつ, artinya akhir tahun."
+explanation: "年末 benar, dibaca ねんまつ, artinya akhir tahun. 月末 (げつまつ) memakai pola yang sama tetapi artinya akhir bulan."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti setiap malam?"
-optionA: "毎晩"
-optionB: "広島"
-correct: "毎晩"
-explanation: "毎晩 benar, dibaca まいばん. 広島 adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+question: "Tim penyelamat menolong orang yang terjebak banjir. Kata mana untuk 'penyelamatan'?"
+optionA: "救助"
+optionB: "出血"
+correct: "救助"
+explanation: "救助 benar, dibaca きゅうじょ: 救 menyelamatkan + 助 menolong. 出血 (しゅっけつ) berarti pendarahan — kondisi darurat, bukan tindakan menolong."
 ---
 ::
 

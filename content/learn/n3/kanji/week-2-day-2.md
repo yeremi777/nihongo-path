@@ -79,7 +79,6 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>全部<rt>ぜんぶ</rt></ruby></span> - semua</li>
     <li><span class="ruby-word"><ruby>全席<rt>ぜんせき</rt></ruby></span> - semua kursi</li>
-    <li><span class="ruby-word"><ruby>安全な<rt>あんぜん</rt></ruby></span> - aman</li>
     <li><span class="ruby-word"><ruby>安全<rt>あんぜん</rt></ruby></span> - aman</li>
   </ul>
 </details>
@@ -110,7 +109,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>様 bisa menjadi akhiran hormat atau berarti keadaan. Bedakan dari konteks kata setelah atau sebelumnya.</p>
   <ul>
     <li><span class="ruby-word"><ruby>様子<rt>ようす</rt></ruby></span> - keadaan, situasi</li>
-    <li><span class="ruby-word"><ruby>〇〇様<rt>〇〇よう</rt></ruby></span> - Bapak/Ibu ... (hormat)</li>
+    <li><span class="ruby-word"><ruby>〇〇様<rt>〇〇さま</rt></ruby></span> - Bapak/Ibu ... (hormat)</li>
     <li><span class="ruby-word"><ruby>お客様<rt>おきゃくさま</rt></ruby></span> - pelanggan, tamu terhormat</li>
   </ul>
 </details>
@@ -230,7 +229,7 @@ Kata-kata hari ini sering muncul sebagai pengumuman sopan. 禁煙 dan 全席 men
 
 Jangan membaca 様子 dan お客様 dengan rasa yang sama. 様子 berarti keadaan/penampilan, sedangkan お客様 adalah sapaan untuk pelanggan.
 
-Strategi bacanya: lihat kata utuh lebih dulu, lalu cocokkan dengan konteks kalimat atau papan. Untuk kelompok kanji hari ini (煙, 当, 全, 客, 様, 解, 協, 願), konteks biasanya lebih cepat memberi jawaban daripada menebak satu bacaan kanji secara terpisah.
+Strategi bacanya: pada pengumuman sopan, inti permintaannya hampir selalu ada di akhir kalimat dengan pola ご〜をお願いします. Temukan dulu kata di antara ご dan を (misalnya 理解 atau 協力), maka isi pengumuman langsung terbaca tanpa menerjemahkan seluruh kalimat.
 
 ## Mini Practice
 
@@ -238,51 +237,52 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti dilarang merokok?"
-optionA: "禁煙"
-optionB: "本当"
-correct: "禁煙"
-explanation: "禁煙 benar, dibaca きんえん, artinya dilarang merokok."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti benar?"
-optionA: "当店"
-optionB: "本当"
-correct: "本当"
-explanation: "本当 benar, dibaca ほんとう, artinya benar."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti toko/restoran ini?"
-optionA: "当店"
-optionB: "全部"
-correct: "当店"
-explanation: "当店 benar, dibaca とうてん, artinya toko/restoran ini."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti semua?"
+question: "Restoran ini seluruh kursinya bebas rokok."
+sentence: "この店は____禁煙です。"
 optionA: "全席"
 optionB: "全部"
-correct: "全部"
-explanation: "全部 benar, dibaca ぜんぶ, artinya semua."
+correct: "全席"
+explanation: "全席 benar, dibaca ぜんせき: semua kursi, cocok untuk aturan area di restoran. 全部 (ぜんぶ) berarti semua secara umum dan tidak dipakai pada papan aturan kursi."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti aman?"
-optionA: "安全"
-optionB: "お客様"
-correct: "安全"
-explanation: "安全 benar, dibaca あんぜん. お客様 adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+question: "Pengumuman toko menyapa pembeli dengan hormat. Sapaan mana yang dipakai?"
+optionA: "お客様"
+optionB: "様子"
+correct: "お客様"
+explanation: "お客様 benar, dibaca おきゃくさま: sapaan hormat untuk pelanggan. 様子 (ようす) memakai 様 yang sama, tetapi artinya keadaan atau situasi."
+---
+::
+
+::MiniPractice
+---
+question: "Kata mana yang dibaca きょうりょく dan berarti kerja sama?"
+optionA: "協力"
+optionB: "理解"
+correct: "協力"
+explanation: "協力 benar, dibaca きょうりょく: bekerja (力) bersama (協). 理解 (りかい) berarti pemahaman; keduanya sering berdampingan dalam ご理解とご協力をお願いします."
+---
+::
+
+::MiniPractice
+---
+question: "Kata mana yang berarti jawaban atas soal?"
+optionA: "解答"
+optionB: "解説"
+correct: "解答"
+explanation: "解答 benar, dibaca かいとう: 解 + 答 (menjawab). 解説 (かいせつ) memakai 解 yang sama, tetapi 説 mengarah ke penjelasan, bukan jawaban."
+---
+::
+
+::MiniPractice
+---
+question: "Di pengumumannya, restoran menyebut dirinya sendiri secara sopan. Kata mana yang dipakai?"
+optionA: "当店"
+optionB: "本当"
+correct: "当店"
+explanation: "当店 benar, dibaca とうてん: 当 di depan nama tempat berarti pihak kami. 本当 (ほんとう) memakai 当 yang sama, tetapi artinya benar/sungguh."
 ---
 ::
 

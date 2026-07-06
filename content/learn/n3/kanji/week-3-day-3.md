@@ -26,7 +26,7 @@ Mengenali delapan kanji N3 yang sering muncul pada mesin penjual otomatis: 販, 
 Di akhir pelajaran ini, kamu bisa membaca kata seperti 販売, 自動販売機, 増量, 減量, 氷, 返却, dan お湯 pada mesin atau label minuman.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> perhatikan fungsi tombol dan label: jual, mesin, tambah/kurangi jumlah, es/panas, lalu pengembalian.
+  <strong>Fokus hari ini:</strong> perhatikan fungsi tombol dan label: jual, mesin, tambah/kurangi jumlah, es/panas, lalu pengembalian. Hati-hati dengan bentuk 氷: ia adalah 水 (air) dengan satu goresan tambahan di kiri atas, dan radikal es 冫 pada 減 tidak ada — 減 justru memakai radikal air 氵 karena berkaitan dengan "berkurang", bukan dingin.
 </div>
 
 ## Daftar Kanji
@@ -125,9 +125,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: こおり</span></span>
     </span>
   </summary>
-  <p>氷 menunjuk es. Pada mesin minuman, label ini membantu memilih minuman dengan atau tanpa es.</p>
+  <p>氷 menunjuk es. Pada mesin minuman, label ini membantu memilih minuman dengan atau tanpa es. Bentuknya mirip 水 (air) dengan satu goresan tambahan.</p>
   <ul>
     <li><span class="ruby-word"><ruby>氷<rt>こおり</rt></ruby></span> - es</li>
+    <li><span class="ruby-word"><ruby>氷になる<rt>こおりになる</rt></ruby></span> - menjadi es</li>
   </ul>
 </details>
 
@@ -155,10 +156,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ユ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-  <p>湯 menunjuk air panas. Bentuk sopannya sering menjadi お湯.</p>
+  <p>湯 menunjuk air panas. Bentuk sopannya sering menjadi お湯, misalnya pada tombol air panas di mesin minuman atau dispenser.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>(お)湯<rt>おゆ</rt></ruby></span> - air panas</li>
     <li><span class="ruby-word"><ruby>お湯<rt>おゆ</rt></ruby></span> - air panas</li>
+    <li><span class="ruby-word"><ruby>お湯を沸かす<rt>おゆをわかす</rt></ruby></span> - merebus air</li>
   </ul>
 </details>
 </div>
@@ -231,7 +232,7 @@ Kata-kata hari ini mengikuti cara memakai mesin. 販売機 adalah mesinnya, 増�
 
 Jangan membaca 量 sebagai “banyak” saja. 量 adalah jumlah/volume, jadi lihat kata di depannya: 増量 atau 減量.
 
-Strategi bacanya: lihat kata utuh lebih dulu, lalu cocokkan dengan konteks kalimat atau papan. Untuk kelompok kanji hari ini (販, 機, 増, 減, 量, 氷, 返, 湯), konteks biasanya lebih cepat memberi jawaban daripada menebak satu bacaan kanji secara terpisah.
+Strategi bacanya: pada pasangan 増量/減量, baca kanji pertama sebagai arah (naik atau turun) dan 量 sebagai objeknya (jumlah). Pola arah + 量 ini juga membantu saat bertemu 増加 dan 減少: kanji pertamanya selalu memberi tahu arah perubahan.
 
 ## Mini Practice
 
@@ -239,51 +240,52 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti penjualan?"
-optionA: "販売"
-optionB: "自動販売機"
-correct: "販売"
-explanation: "販売 benar, dibaca はんばい, artinya penjualan."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti mesin penjual otomatis?"
-optionA: "機械"
-optionB: "自動販売機"
-correct: "自動販売機"
-explanation: "自動販売機 benar, dibaca じどうはんばいき, artinya mesin penjual otomatis."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti mesin?"
+question: "Kata mana yang berarti mesin (alat mekanik)? Keduanya sama-sama dibaca きかい."
 optionA: "機械"
 optionB: "機会"
 correct: "機械"
-explanation: "機械 benar, dibaca きかい, artinya mesin."
+explanation: "機械 benar; kanji kedua 械 hanya muncul pada kata tentang alat/mesin. 機会 memakai 会 (bertemu), jadi artinya kesempatan — bacaannya sama-sama きかい, pembedanya hanya kanji kedua."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti kesempatan?"
-optionA: "増加"
-optionB: "機会"
-correct: "機会"
-explanation: "機会 benar, dibaca きかい, artinya kesempatan."
+question: "Ambil kembalian dari lubang pengembalian."
+sentence: "おつりは____口から取ってください。"
+optionA: "返却"
+optionB: "返事"
+correct: "返却"
+explanation: "返却 benar, dibaca へんきゃく, dipakai untuk mengembalikan uang/barang, jadi 返却口 adalah lubang pengembalian. 返事 (へんじ) berarti balasan pesan atau jawaban, tidak dipakai untuk uang."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti penurunan?"
+question: "Label minuman menuliskan bahwa isinya sedang ditambah untuk promosi. Kata mana yang tertulis?"
+optionA: "増量"
+optionB: "減量"
+correct: "増量"
+explanation: "増量 benar, dibaca ぞうりょう; 増 berarti bertambah, jadi isinya ditambah. 減量 (げんりょう) memakai 減 (berkurang), artinya justru jumlah dikurangi."
+---
+::
+
+::MiniPractice
+---
+question: "Kata mana yang berarti penurunan (jumlah menjadi lebih sedikit)?"
 optionA: "減少"
-optionB: "数量"
+optionB: "増加"
 correct: "減少"
-explanation: "減少 benar, dibaca げんしょう. 数量 adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+explanation: "減少 benar, dibaca げんしょう; 減 (berkurang) + 少 (sedikit). 増加 (ぞうか) adalah lawannya: 増 (bertambah) + 加 (menambahkan) berarti peningkatan."
+---
+::
+
+::MiniPractice
+---
+question: "Mesin di depan stasiun yang menjual minuman tanpa penjaga disebut apa?"
+optionA: "自動販売機"
+optionB: "機械"
+correct: "自動販売機"
+explanation: "自動販売機 benar, dibaca じどうはんばいき: 自動 (otomatis) + 販売 (penjualan) + 機 (mesin). 機械 (きかい) hanya berarti mesin secara umum, tanpa makna menjual."
 ---
 ::
 

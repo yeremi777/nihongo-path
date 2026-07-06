@@ -78,7 +78,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>移動<rt>いどう</rt></ruby></span> - perpindahan</li>
     <li><span class="ruby-word"><ruby>移る<rt>うつる</rt></ruby></span> - berpindah</li>
-    <li><span class="ruby-word"><ruby>移す<rt>うつす</rt></ruby></span> - berpindah, memindahkan</li>
+    <li><span class="ruby-word"><ruby>移す<rt>うつす</rt></ruby></span> - memindahkan</li>
   </ul>
 </details>
 
@@ -92,10 +92,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>難 menandai kesulitan. Saat membaca pilihan survei, cari apakah kata itu menilai tingkat susahnya tugas atau layanan.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>困難(な)<rt>こんなん</rt></ruby></span> - kesulitan</li>
-    <li><span class="ruby-word"><ruby>難問<rt>なんもん</rt></ruby></span> - sulit, susah</li>
+    <li><span class="ruby-word"><ruby>困難(な)<rt>こんなん</rt></ruby></span> - kesulitan, penuh kesulitan</li>
+    <li><span class="ruby-word"><ruby>難問<rt>なんもん</rt></ruby></span> - soal yang sulit</li>
     <li><span class="ruby-word"><ruby>難しい<rt>むずかしい</rt></ruby></span> - sulit</li>
-    <li><span class="ruby-word"><ruby>困難<rt>こんなん</rt></ruby></span> - kesulitan</li>
   </ul>
 </details>
 
@@ -109,8 +108,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>簡 muncul pada kata 簡単 untuk hal yang mudah atau sederhana. Pasangkan dengan 難しい saat membaca skala penilaian.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>簡単(な)<rt>かんたん</rt></ruby></span> - mudah</li>
-    <li><span class="ruby-word"><ruby>簡単<rt>かんたん</rt></ruby></span> - mudah</li>
+    <li><span class="ruby-word"><ruby>簡単(な)<rt>かんたん</rt></ruby></span> - mudah, sederhana</li>
+    <li><span class="ruby-word"><ruby>簡単に<rt>かんたんに</rt></ruby></span> - dengan mudah, secara singkat</li>
   </ul>
 </details>
 
@@ -167,8 +166,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 <div class="word-strip">
   <span>調査</span>
   <span>調子</span>
-  <span>調査</span>
   <span>検査</span>
+  <span>単語</span>
   <span>移動</span>
   <span>移る</span>
   <span>難しい</span>
@@ -220,7 +219,12 @@ Peta kata hari ini mengikuti alur: survei -> pemeriksaan -> perubahan -> tingkat
 
 ## Hal yang Mudah Tertukar
 
-Baca kata sebagai satu blok dulu, terutama pada pasangan 調査 / 検査 dan 感想 / 予想. 調査 meminta data lewat survei, 検査 memeriksa kondisi, 感想 adalah kesan, sedangkan 予想 adalah perkiraan.
+| Pasangan | Cara membedakan |
+|---|---|
+| 調査 / 検査 | Lihat kanji pertama: 調 mengumpulkan data lewat survei atau riset; 検 memeriksa kondisi barang atau tubuh. Di kuesioner biasanya muncul 調査, di rumah sakit atau pabrik 検査. |
+| 感想 / 予想 | Kanji pertama menentukan arah waktu: 感 merasakan sesuatu yang sudah dialami, jadi 感想 adalah kesan setelah kejadian. 予 berarti sebelumnya, jadi 予想 adalah perkiraan sebelum kejadian. |
+| 調査 / 調子 | Kanji kedua yang membedakan: 査 berarti memeriksa, jadi 調査 adalah survei. 子 di sini hanya pembentuk kata, dan 調子 berarti kondisi badan atau keadaan. |
+| 感 / 想 | Keduanya memuat komponen hati 心 di bagian bawah, jadi sama-sama soal isi hati. 感 condong ke perasaan yang diterima (感じる, 感動), 想 condong ke pikiran atau bayangan (感想, 予想). |
 
 ## Kesalahan Umum
 
@@ -232,51 +236,52 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti survei?"
-optionA: "調査"
-optionB: "調子"
-correct: "調査"
-explanation: "調査 benar, dibaca ちょうさ, artinya survei."
+question: "Saya menulis kesan di kuesioner."
+sentence: "アンケートで____を書きました。"
+optionA: "感想"
+optionB: "予想"
+correct: "感想"
+explanation: "感想 benar, dibaca かんそう; kuesioner meminta kesan setelah memakai layanan. 予想 (よそう) adalah perkiraan sebelum sesuatu terjadi, jadi tidak cocok untuk tanggapan."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti kondisi?"
-optionA: "検査"
-optionB: "調子"
-correct: "調子"
-explanation: "調子 benar, dibaca ちょうし, artinya kondisi."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti pemeriksaan?"
-optionA: "検査"
-optionB: "移動"
-correct: "検査"
-explanation: "検査 benar, dibaca けんさ, artinya pemeriksaan."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti perpindahan?"
-optionA: "困難"
-optionB: "移動"
+question: "Kata mana yang berarti perpindahan tempat?"
+optionA: "移動"
+optionB: "検査"
 correct: "移動"
-explanation: "移動 benar, dibaca いどう, artinya perpindahan."
+explanation: "移動 benar, dibaca いどう, gabungan 移 (pindah) dan 動 (bergerak). 検査 (けんさ) berarti pemeriksaan kondisi, bukan perpindahan."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti mudah?"
-optionA: "簡単"
-optionB: "簡単な"
-correct: "簡単"
-explanation: "簡単 benar, dibaca かんたん. 簡単な adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+question: "Kata mana yang dibaca ちょうし dan berarti kondisi badan atau keadaan?"
+optionA: "調子"
+optionB: "調査"
+correct: "調子"
+explanation: "調子 benar, dibaca ちょうし, menunjuk kondisi badan atau keadaan. 調査 (ちょうさ) memakai 査 (memeriksa) dan berarti survei, bukan kondisi."
+---
+::
+
+::MiniPractice
+---
+question: "Di rumah sakit, dokter memeriksa kondisi tubuh pasien dengan alat. Kata mana untuk pemeriksaan itu?"
+optionA: "検査"
+optionB: "感想"
+correct: "検査"
+explanation: "検査 benar, dibaca けんさ, dipakai untuk pemeriksaan kondisi tubuh atau barang. 感想 (かんそう) berarti kesan pribadi, bukan tindakan memeriksa."
+---
+::
+
+::MiniPractice
+---
+question: "Cuaca besok sulit ditebak, tetapi ramalan tetap dibuat. Kata mana yang berarti perkiraan?"
+optionA: "予想"
+optionB: "困難"
+correct: "予想"
+explanation: "予想 benar, dibaca よそう; 予 berarti sebelumnya, jadi maknanya memperkirakan sebelum terjadi. 困難 (こんなん) berarti kesulitan, bukan perkiraan."
 ---
 ::
 

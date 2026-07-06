@@ -93,9 +93,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: -</span><span>kunyomi: うすい</span></span>
     </span>
   </summary>
-  <p>薄 adalah lawan 濃. Pada salinan, artinya hasil cetak terlalu pucat atau tipis.</p>
+  <p>薄 adalah lawan 濃. Pada salinan, artinya hasil cetak terlalu pucat atau tipis. Kanji ini juga membentuk kata sifat gabungan seperti 薄暗い.</p>
   <ul>
     <li><span class="ruby-word"><ruby>薄い<rt>うすい</rt></ruby></span> - tipis, pucat, lemah</li>
+    <li><span class="ruby-word"><ruby>薄暗い<rt>うすぐらい</rt></ruby></span> - remang-remang</li>
   </ul>
 </details>
 
@@ -237,7 +238,7 @@ Kata-kata hari ini terbagi menjadi dua alat. 留守番電話 berkaitan dengan pe
 
 Jangan menganggap 部 selalu “departemen”. Pada mesin fotokopi, 部 sering dipakai untuk jumlah salinan seperti 三十部.
 
-Strategi bacanya: lihat kata utuh lebih dulu, lalu cocokkan dengan konteks kalimat atau papan. Untuk kelompok kanji hari ini (留, 守, 濃, 薄, 部, 数, 件, 再), konteks biasanya lebih cepat memberi jawaban daripada menebak satu bacaan kanji secara terpisah.
+Perhatikan juga bacaan tidak beraturan 留守 (るす): 留 dibaca ル dan 守 dibaca ス, bukan りゅうしゅ. Kata turunannya (留守番, 留守番電話) selalu mempertahankan bacaan るす itu, jadi hafalkan 留守 sebagai satu kata utuh, bukan dua kanji terpisah.
 
 ## Mini Practice
 
@@ -245,51 +246,52 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti belajar di luar negeri?"
-optionA: "留学"
-optionB: "留守番"
-correct: "留学"
-explanation: "留学 benar, dibaca りゅうがく, artinya belajar di luar negeri."
+question: "Telepon berdering saat tidak ada orang di rumah, dan pesan penelepon tersimpan di mesin. Alat itu disebut apa?"
+optionA: "留守番電話"
+optionB: "留学"
+correct: "留守番電話"
+explanation: "留守番電話 benar, dibaca るすばんでんわ; 留守番 (menjaga rumah) + 電話 = mesin penjawab telepon. 留学 (りゅうがく) berarti belajar di luar negeri — di sana 留 dibaca りゅう, bukan る."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti menjaga rumah saat orang pergi?"
-optionA: "留守"
-optionB: "留守番"
-correct: "留守番"
-explanation: "留守番 benar, dibaca るすばん, artinya menjaga rumah saat orang pergi."
+question: "Periksa subjek sebelum membuka email."
+sentence: "____を確認してからメールを開いてください。"
+optionA: "件名"
+optionB: "用件"
+correct: "件名"
+explanation: "件名 benar, dibaca けんめい; 件 + 名 (nama) berarti judul/subjek pesan. 用件 (ようけん) adalah isi keperluan yang ingin disampaikan, bukan barisan judulnya."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti tidak ada di rumah/kantor?"
-optionA: "留守"
-optionB: "守備"
-correct: "留守"
-explanation: "留守 benar, dibaca るす, artinya tidak ada di rumah/kantor."
+question: "Kata mana yang berarti jumlah eksemplar salinan pada mesin fotokopi?"
+optionA: "部数"
+optionB: "部分"
+correct: "部数"
+explanation: "部数 benar, dibaca ぶすう; 部 di sini satuan eksemplar dan 数 berarti jumlah. 部分 (ぶぶん) memakai 分 (pembagian), jadi artinya bagian dari sesuatu, bukan jumlah salinan."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti pertahanan?"
-optionA: "濃度"
-optionB: "守備"
-correct: "守備"
-explanation: "守備 benar, dibaca しゅび, artinya pertahanan."
+question: "Kata mana yang dibaca さらいしゅう dan berarti dua minggu lagi?"
+optionA: "再来週"
+optionB: "再生"
+correct: "再来週"
+explanation: "再来週 benar; di sini 再 memakai bacaan サ (さらいしゅう). Pada 再生 (さいせい, memutar ulang), 再 dibaca サイ — kanji sama, bacaan berbeda menurut katanya."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti bagian?"
-optionA: "部分"
-optionB: "部長"
-correct: "部分"
-explanation: "部分 benar, dibaca ぶぶん. 部長 adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+question: "Kamu mengirim dokumen penting lewat pos dengan pencatatan khusus. Layanan pos itu disebut apa?"
+optionA: "書留"
+optionB: "保留"
+correct: "書留"
+explanation: "書留 benar, dibaca かきとめ, artinya surat tercatat; 書 (menulis) + 留 (menahan/menyimpan catatan). 保留 (ほりゅう) berarti ditahan sementara atau pending, bukan layanan pos."
 ---
 ::
 

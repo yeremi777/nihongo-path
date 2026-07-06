@@ -44,7 +44,6 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>非 memberi rasa “bukan/di luar keadaan biasa”. Dalam fasilitas umum, pasangan 非常 biasanya berarti darurat.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>非常の<rt>ひじょう</rt></ruby></span> - darurat</li>
     <li><span class="ruby-word"><ruby>非常口<rt>ひじょうぐち</rt></ruby></span> - pintu darurat</li>
     <li><span class="ruby-word"><ruby>非常に<rt>ひじょうに</rt></ruby></span> - sangat</li>
     <li><span class="ruby-word"><ruby>非常<rt>ひじょう</rt></ruby></span> - darurat</li>
@@ -126,9 +125,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>危 adalah tanda risiko. Saat muncul di papan, baca sebagai sinyal untuk berhenti atau lebih hati-hati.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>危険な<rt>きけん</rt></ruby></span> - bahaya</li>
-    <li><span class="ruby-word"><ruby>危ない<rt>あぶない</rt></ruby></span> - berbahaya</li>
     <li><span class="ruby-word"><ruby>危険<rt>きけん</rt></ruby></span> - bahaya</li>
+    <li><span class="ruby-word"><ruby>危ない<rt>あぶない</rt></ruby></span> - berbahaya</li>
   </ul>
 </details>
 
@@ -142,8 +140,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>険 menguatkan rasa bahaya atau risiko. Untuk N3, kata paling pentingnya adalah 危険.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>危険な<rt>きけん</rt></ruby></span> - bahaya</li>
     <li><span class="ruby-word"><ruby>危険<rt>きけん</rt></ruby></span> - bahaya</li>
+    <li><span class="ruby-word"><ruby>保険<rt>ほけん</rt></ruby></span> - asuransi</li>
   </ul>
 </details>
 
@@ -158,6 +156,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>捨 menunjukkan tindakan membuang atau meninggalkan. Pada papan larangan, cari apakah tindakannya dilarang.</p>
   <ul>
     <li><span class="ruby-word"><ruby>捨てる<rt>すてる</rt></ruby></span> - membuang</li>
+    <li><span class="ruby-word"><ruby>使い捨て<rt>つかいすて</rt></ruby></span> - barang sekali pakai</li>
   </ul>
 </details>
 </div>
@@ -224,51 +223,52 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti darurat?"
-optionA: "非常"
-optionB: "非常口"
-correct: "非常"
-explanation: "非常 benar, dibaca ひじょう, artinya darurat."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti pintu darurat?"
-optionA: "日常"
-optionB: "非常口"
+question: "Terjadi kebakaran dan kamu harus segera keluar dari gedung. Papan mana yang kamu cari?"
+optionA: "非常口"
+optionB: "日常"
 correct: "非常口"
-explanation: "非常口 benar, dibaca ひじょうぐち, artinya pintu darurat."
+explanation: "非常口 benar, dibaca ひじょうぐち, artinya pintu darurat. 日常 (にちじょう) berarti keseharian — kanji pertamanya 日, bukan 非."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti keseharian?"
-optionA: "日常"
-optionB: "一階"
-correct: "日常"
-explanation: "日常 benar, dibaca にちじょう, artinya keseharian."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti lantai satu?"
-optionA: "階段"
-optionB: "一階"
-correct: "一階"
-explanation: "一階 benar, dibaca いっかい, artinya lantai satu."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti beda tinggi lantai?"
+question: "Ada beda tinggi lantai, jadi harap perhatikan langkah kaki."
+sentence: "____がありますから、足元に注意してください。"
 optionA: "段差"
-optionB: "危険"
+optionB: "階段"
 correct: "段差"
-explanation: "段差 benar, dibaca だんさ. 危険 adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+explanation: "段差 benar, dibaca だんさ, artinya beda tinggi lantai. 階段 (かいだん) adalah tangga sebagai fasilitas, bukan peringatan beda tinggi."
+---
+::
+
+::MiniPractice
+---
+question: "Kata mana yang dibaca にちじょう dan berarti keseharian?"
+optionA: "日常"
+optionB: "非常"
+correct: "日常"
+explanation: "日常 benar, dibaca にちじょう. Kanji pertama menentukan artinya: 日 membuat 'sehari-hari', sedangkan 非 pada 非常 (ひじょう) membuat 'di luar keadaan biasa/darurat'."
+---
+::
+
+::MiniPractice
+---
+question: "Kata mana yang berarti tangga darurat?"
+optionA: "非常階段"
+optionB: "一階"
+correct: "非常階段"
+explanation: "非常階段 benar, dibaca ひじょうかいだん: 非常 darurat + 階段 tangga. 一階 (いっかい) berarti lantai satu."
+---
+::
+
+::MiniPractice
+---
+question: "Papan kuning di dekat rel hanya berisi satu kata yang berarti bahaya. Kata mana itu?"
+optionA: "危険"
+optionB: "正常"
+correct: "危険"
+explanation: "危険 benar, dibaca きけん, sering berdiri sendiri sebagai tanda bahaya. 正常 (せいじょう) justru berarti keadaan normal."
 ---
 ::
 

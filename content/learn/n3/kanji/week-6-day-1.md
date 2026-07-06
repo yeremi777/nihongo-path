@@ -121,7 +121,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>雪<rt>ゆき</rt></ruby></span> - salju</li>
     <li><span class="ruby-word"><ruby>吹雪<rt>ふぶき</rt></ruby></span> - badai salju</li>
-    <li><span class="ruby-word"><ruby>大雪<rt>おおゆき</rt></ruby></span> - salju</li>
+    <li><span class="ruby-word"><ruby>大雪<rt>おおゆき</rt></ruby></span> - salju lebat</li>
   </ul>
 </details>
 
@@ -169,33 +169,36 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <span>吹く</span>
   <span>吹雪</span>
   <span>暖房</span>
+  <span>大雪</span>
+  <span>地震</span>
+  <span>津波</span>
 </div>
 
-Peta kata hari ini mengikuti alur: laporan -> cuaca -> suhu/angin -> salju/gempa/gelombang. Gunakan alur ini untuk melihat fungsi kata sebelum menerjemahkan satu per satu.
+Kata-kata hari ini paling mudah diingat per jenis informasi dalam siaran cuaca: laporannya sendiri (予報, 報告), kondisi langit harian (晴れ, 雲, 雨雲), angin dan suhu (吹く, 暖房, 暖かい), cuaca musim dingin (雪, 大雪, 吹雪), lalu peringatan bencana (地震, 震度, 津波). Saat membaca prakiraan, tentukan dulu bagian mana yang sedang dibaca — cuaca harian atau peringatan — karena kelompok katanya berbeda.
 
 ## Catatan Pemakaian
 
 ### Laporan cuaca
 
-- 予報 berarti prakiraan.
-- 報告 berarti laporan.
+- 予報 adalah prakiraan: 予 (sebelum) + 報 (laporan), jadi laporan yang dibuat sebelum kejadian.
+- 報告 adalah laporan setelah sesuatu terjadi atau selesai — di berita dan di kantor.
 
 ### Kondisi langit
 
-- 晴れる berarti cerah.
-- 雲 dan 雨雲 berkaitan dengan awan.
+- 晴れる (kata kerja) dan 晴れ (nomina) menandai cuaca cerah; di prakiraan biasanya muncul bentuk nominanya.
+- 雲 adalah awan secara umum; 雨雲 sudah menjadi sinyal hujan, jadi berfungsi sebagai peringatan ringan.
 
-### Angin dan dingin
+### Angin, suhu, dan salju
 
-- 吹く untuk angin bertiup.
-- 暖房 untuk pemanas.
-- 雪 untuk salju.
+- 吹く dipakai dengan angin sebagai subjek; kalau bergabung dengan 雪 menjadi 吹雪, artinya badai salju.
+- 暖房 adalah alat/sistem pemanas ruangan; 暖かい menggambarkan kondisi hangatnya.
+- 大雪 dipakai di peringatan cuaca untuk salju lebat.
 
-### Peringatan
+### Peringatan bencana
 
-- 地震 berarti gempa.
-- 津波 berarti tsunami.
-- 波 berkaitan ombak atau gelombang.
+- 地震 berarti gempa; 震度 adalah skala guncangan yang dilaporkan setelahnya.
+- 津波 adalah tsunami — selalu dibaca sebagai satu kata khusus, bukan "ombak pelabuhan".
+- 電波 memakai 波 yang sama, tetapi konteksnya sinyal radio/ponsel, bukan laut.
 
 ## Contoh Kalimat
 
@@ -216,7 +219,14 @@ Peta kata hari ini mengikuti alur: laporan -> cuaca -> suhu/angin -> salju/gempa
 
 ## Hal yang Mudah Tertukar
 
-Baca kata sebagai satu blok dulu, terutama pada contoh seperti 予報 atau 晴れる. Setelah itu cocokkan dengan konteks pelajaran, karena satu kanji bisa berubah fungsi saat masuk kata majemuk.
+| Pasangan | Cara membedakan |
+|---|---|
+| 予報 / 報告 | Keduanya memakai 報 (laporan). 予 berarti "sebelum", jadi 予報 dibuat sebelum kejadian (prakiraan); 報告 dibuat setelahnya (laporan). |
+| 吹雪 / 大雪 | Keduanya salju hebat: 吹雪 (ふぶき) ada unsur 吹 (bertiup), jadi salju plus angin kencang; 大雪 hanya jumlah saljunya yang banyak. |
+| 津波 / 電波 | Keduanya memakai 波 (gelombang). Cek kanji depannya: 津 berkaitan laut (tsunami), 電 berkaitan listrik (sinyal radio/ponsel). |
+| 暖かい / 暖房 | Ada okurigana かい berarti kata sifat kondisi (hangat); tanpa okurigana dalam kata majemuk 暖房 artinya sistem pemanasnya. |
+
+Catatan komponen: 雲, 雪, dan 震 sama-sama memakai radikal hujan 雨 di bagian atas — semuanya fenomena "yang datang dari langit/alam". Yang membedakan adalah bagian bawahnya, jadi lihat bagian bawah kanji dulu saat bentuknya mirip.
 
 ## Kesalahan Umum
 
@@ -228,51 +238,52 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti prakiraan?"
+question: "Prakiraan besok cerah."
+sentence: "明日の____は晴れです。"
 optionA: "予報"
 optionB: "報告"
 correct: "予報"
-explanation: "予報 benar, dibaca よほう, artinya prakiraan."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti laporan?"
-optionA: "雨雲"
-optionB: "報告"
-correct: "報告"
-explanation: "報告 benar, dibaca ほうこく, artinya laporan."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti awan hujan?"
-optionA: "雨雲"
-optionB: "吹雪"
-correct: "雨雲"
-explanation: "雨雲 benar, dibaca あまぐも, artinya awan hujan."
+explanation: "予報 benar, dibaca よほう. 予 (sebelum) + 報 (laporan) berarti laporan sebelum kejadian, yaitu prakiraan; 報告 adalah laporan setelah sesuatu terjadi."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Kata mana yang berarti badai salju?"
-optionA: "暖房"
-optionB: "吹雪"
+optionA: "吹雪"
+optionB: "大雪"
 correct: "吹雪"
-explanation: "吹雪 benar, dibaca ふぶき, artinya badai salju."
+explanation: "吹雪 benar, dibaca ふぶき. Unsur 吹 (bertiup) menambahkan angin kencang pada salju; 大雪 (おおゆき) hanya berarti saljunya turun sangat lebat."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti salju lebat?"
-optionA: "大雪"
+question: "Berita bencana menyebut tingkat guncangan gempa di setiap daerah. Kata mana yang dimaksud?"
+optionA: "震度"
 optionB: "地震"
-correct: "大雪"
-explanation: "大雪 benar, dibaca おおゆき. 地震 adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+correct: "震度"
+explanation: "震度 benar, dibaca しんど, yaitu skala guncangan yang dilaporkan per daerah. 地震 (じしん) adalah gempanya sendiri, bukan ukuran guncangannya."
+---
+::
+
+::MiniPractice
+---
+question: "Ponselmu kehilangan sinyal di gunung. Kata mana yang berkaitan dengan gelombang radio?"
+optionA: "電波"
+optionB: "津波"
+correct: "電波"
+explanation: "電波 benar, dibaca でんぱ, artinya gelombang radio/sinyal. 津波 (つなみ) memakai 波 yang sama, tetapi 津 mengarah ke laut — artinya tsunami."
+---
+::
+
+::MiniPractice
+---
+question: "Kata mana yang berarti pemanas ruangan?"
+optionA: "暖房"
+optionB: "報告"
+correct: "暖房"
+explanation: "暖房 benar, dibaca だんぼう, yaitu alat atau sistem pemanas ruangan. 報告 (ほうこく) berarti laporan — tidak ada hubungannya dengan suhu."
 ---
 ::
 

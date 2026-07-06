@@ -229,7 +229,7 @@ Kata-kata hari ini bergerak dari kesiapan restoran sampai reservasi. 準備 menj
 
 Jangan menerjemahkan 約 selalu sebagai “sekitar”. Dalam 予約, 約 berhubungan dengan janji/pemesanan, bukan perkiraan jumlah.
 
-Strategi bacanya: lihat kata utuh lebih dulu, lalu cocokkan dengan konteks kalimat atau papan. Untuk kelompok kanji hari ini (準, 備, 営, 閉, 案, 内, 予, 約), konteks biasanya lebih cepat memberi jawaban daripada menebak satu bacaan kanji secara terpisah.
+Strategi bacanya: perhatikan akhiran 中 pada papan restoran. 準備中 berarti toko belum bisa dimasuki, 営業中 berarti sedang melayani. Satu kanji terakhir itu sering lebih cepat memberi jawaban daripada membaca seluruh papan.
 
 ## Mini Practice
 
@@ -237,51 +237,52 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti persiapan?"
-optionA: "準備"
-optionB: "準備中"
-correct: "準備"
-explanation: "準備 benar, dibaca じゅんび, artinya persiapan."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti sedang persiapan?"
-optionA: "営業"
-optionB: "準備中"
+question: "Toko ini belum buka; masih dalam persiapan."
+sentence: "この店はまだ____です。"
+optionA: "準備中"
+optionB: "営業中"
 correct: "準備中"
-explanation: "準備中 benar, dibaca じゅんびちゅう, artinya sedang persiapan."
+explanation: "準備中 benar, dibaca じゅんびちゅう: masih disiapkan, belum bisa masuk. 営業中 (えいぎょうちゅう) justru berarti sedang buka dan melayani."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti operasi bisnis?"
-optionA: "営業"
-optionB: "営業時間"
-correct: "営業"
-explanation: "営業 benar, dibaca えいぎょう, artinya operasi bisnis."
+question: "Kamu sudah menelepon restoran dan memesan meja untuk jam tujuh. Kata mana yang tepat untuk pesanan itu?"
+optionA: "予約"
+optionB: "予定"
+correct: "予約"
+explanation: "予約 benar, dibaca よやく: tempat sudah dipesan dan dijanjikan. 予定 (よてい) hanya rencana jadwal; belum tentu ada pemesanan."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti jam operasional?"
-optionA: "開閉"
-optionB: "営業時間"
-correct: "営業時間"
-explanation: "営業時間 benar, dibaca えいぎょうじかん, artinya jam operasional."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti panduan, informasi?"
+question: "Kata mana yang berarti panduan atau informasi arah?"
 optionA: "案内"
-optionB: "店内"
+optionB: "以内"
 correct: "案内"
-explanation: "案内 benar, dibaca あんない. 店内 adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+explanation: "案内 benar, dibaca あんない: 案 (arahan) + 内 (dalam) menjadi panduan. 以内 (いない) memakai 内 yang sama, tetapi artinya dalam batas tertentu, misalnya 30分以内."
+---
+::
+
+::MiniPractice
+---
+question: "Kata mana yang dibaca てんない dan berarti area dalam toko?"
+optionA: "店内"
+optionB: "国内"
+correct: "店内"
+explanation: "店内 benar, dibaca てんない: bagian dalam toko. 国内 (こくない) memakai pola yang sama, tetapi artinya dalam negeri."
+---
+::
+
+::MiniPractice
+---
+question: "Kata mana yang cocok untuk gerakan pintu otomatis yang membuka dan menutup?"
+optionA: "開閉"
+optionB: "閉店"
+correct: "開閉"
+explanation: "開閉 benar, dibaca かいへい: pasangan buka (開) dan tutup (閉) untuk gerakan pintu. 閉店 (へいてん) berarti tokonya yang tutup, bukan pintunya."
 ---
 ::
 

@@ -265,31 +265,22 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti tempat parkir?"
-optionA: "駐車場"
-optionB: "駐車禁止"
-correct: "駐車場"
-explanation: "駐車場 benar, dibaca ちゅうしゃじょう, artinya tempat parkir. 駐車禁止 adalah larangan parkir."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti parkir penuh?"
-optionA: "満員"
-optionB: "満車"
+question: "Tempat parkir ini sekarang penuh."
+sentence: "この駐車場は今、____です。"
+optionA: "満車"
+optionB: "満員"
 correct: "満車"
-explanation: "満車 benar, dibaca まんしゃ, dipakai saat tempat parkir penuh. 満員 dipakai untuk kapasitas orang yang penuh."
+explanation: "満車 benar, dibaca まんしゃ, dipakai saat slot parkir kendaraan habis. 満員 juga berarti penuh, tetapi untuk kapasitas orang, misalnya kereta atau ruangan."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti gratis?"
-optionA: "無料"
-optionB: "無断"
-correct: "無料"
-explanation: "無料 benar, dibaca むりょう, artinya gratis. 無断 berarti tanpa izin, bukan soal biaya."
+question: "Di pintu belakang gedung ada papan 〇〇以外立入禁止 — hanya pihak tertentu yang boleh masuk. Kata mana yang mengisi bagian itu?"
+optionA: "関係者"
+optionB: "係員"
+correct: "関係者"
+explanation: "関係者 benar, dibaca かんけいしゃ, artinya pihak terkait — semua orang yang berkepentingan, bukan hanya petugas. 係員 (かかりいん) khusus menunjuk petugas yang bekerja di sana."
 ---
 ::
 
@@ -299,17 +290,27 @@ question: "Kata mana yang berarti parkir tanpa izin?"
 optionA: "無断駐車"
 optionB: "駐車禁止"
 correct: "無断駐車"
-explanation: "無断駐車 benar, artinya parkir tanpa izin. 駐車禁止 berarti dilarang parkir."
+explanation: "無断駐車 benar, dibaca むだんちゅうしゃ; masalahnya ada pada izin. 駐車禁止 berarti tindakan parkirnya sendiri yang dilarang."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti petugas?"
-optionA: "関係者"
-optionB: "係員"
-correct: "係員"
-explanation: "係員 benar, dibaca かかりいん, artinya petugas. 関係者 berarti pihak terkait."
+question: "Sebuah toko buka setiap hari tanpa hari libur. Kata mana yang muncul di papannya?"
+optionA: "無休"
+optionB: "無料"
+correct: "無休"
+explanation: "無休 benar, dibaca むきゅう, artinya tanpa hari libur. 無料 (むりょう) sama-sama memakai 無, tetapi kanji keduanya 料 menunjuk biaya, jadi artinya gratis."
+---
+::
+
+::MiniPractice
+---
+question: "Kata mana yang dibaca ほうこう dan berarti arah?"
+optionA: "方向"
+optionB: "関心"
+correct: "方向"
+explanation: "方向 benar, dibaca ほうこう, artinya arah. Di sini 向 memakai bacaan onyomi こう, bukan kunyomi むかう seperti pada 向かう. 関心 (かんしん) berarti minat."
 ---
 ::
 

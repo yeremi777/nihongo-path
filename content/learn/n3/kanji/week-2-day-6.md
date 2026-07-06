@@ -23,7 +23,7 @@ tags:
 
 Mengenali delapan kanji N3 yang sering muncul saat ada masalah atau keadaan darurat: 困, 消, 防, 救, 警, 察, 故, dan 伝.
 
-Di akhir pelajaran ini, kamu bisa membaca kata seperti 困る, 消防, 救急車, 警察, 事故, 故障, dan 伝言 dalam pengumuman atau situasi darurat.
+Di akhir pelajaran ini, kamu bisa membaca kata seperti 困る, 消防, 救急車, 警察, 事故, 故障, dan 伝言 dalam berita, pengumuman di stasiun, atau situasi darurat.
 
 <div class="lesson-callout">
   <strong>Fokus hari ini:</strong> pisahkan kata darurat menjadi masalah, bantuan, pihak berwenang, penyebab, dan pesan.
@@ -229,7 +229,7 @@ Kata-kata hari ini membentuk alur saat ada masalah. 困る adalah kondisi kesuli
 
 Jangan menunggu membaca semua detail saat pengumuman darurat. Cari kata kunci dulu: 警察, 消防, 救急車, 事故, atau 故障.
 
-Strategi bacanya: lihat kata utuh lebih dulu, lalu cocokkan dengan konteks kalimat atau papan. Untuk kelompok kanji hari ini (困, 消, 防, 救, 警, 察, 故, 伝), konteks biasanya lebih cepat memberi jawaban daripada menebak satu bacaan kanji secara terpisah.
+Perhatikan juga pasangan 事故 dan 故障: keduanya memakai 故, tetapi 事故 adalah kejadian (kecelakaan), sedangkan 故障 adalah kondisi alat yang rusak. Kalau subjeknya mesin atau kendaraan yang tidak berfungsi, hampir pasti 故障.
 
 ## Mini Practice
 
@@ -237,51 +237,53 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti saat kesulitan?"
-optionA: "困った時"
-optionB: "消防"
-correct: "困った時"
-explanation: "困った時 benar, dibaca こまったとき, artinya saat kesulitan."
+question: "Jika melihat kecelakaan, segera hubungi polisi."
+sentence: "____を見たら、すぐ警察に連絡してください。"
+optionA: "事故"
+optionB: "故障"
+correct: "事故"
+explanation: "事故 benar, dibaca じこ: kejadian atau kecelakaan yang dilihat orang. 故障 (こしょう) memakai 故 yang sama, tetapi artinya kerusakan alat atau mesin."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti pemadam kebakaran?"
-optionA: "予防"
-optionB: "消防"
-correct: "消防"
-explanation: "消防 benar, dibaca しょうぼう, artinya pemadam kebakaran."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti pencegahan?"
-optionA: "予防"
-optionB: "救急車"
-correct: "予防"
-explanation: "予防 benar, dibaca よぼう, artinya pencegahan."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti ambulans?"
-optionA: "救助"
-optionB: "救急車"
+question: "Seseorang tiba-tiba pingsan di jalan. Kendaraan mana yang kamu panggil?"
+optionA: "救急車"
+optionB: "救助"
 correct: "救急車"
-explanation: "救急車 benar, dibaca きゅうきゅうしゃ, artinya ambulans."
+explanation: "救急車 benar, dibaca きゅうきゅうしゃ: 車 di akhir menunjukkan kendaraannya, yaitu ambulans. 救助 (きゅうじょ) adalah tindakan penyelamatannya, bukan kendaraan."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti polisi?"
+question: "Kata mana yang menunjuk petugasnya sebagai orang, bukan institusinya?"
 optionA: "警官"
 optionB: "警察"
 correct: "警官"
-explanation: "警官 benar, dibaca けいかん. 警察 adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+explanation: "警官 benar, dibaca けいかん: 官 menunjuk orang yang menjabat, jadi petugas polisi. 警察 (けいさつ) adalah institusi kepolisiannya."
+---
+::
+
+::MiniPractice
+---
+question: "Kata mana yang dibaca よぼう dan berarti pencegahan?"
+optionA: "予防"
+optionB: "消防"
+correct: "予防"
+explanation: "予防 benar, dibaca よぼう: mencegah (防) sebelum terjadi (予). 消防 (しょうぼう) memakai 防 yang sama, tetapi 消 mengarah ke memadamkan kebakaran."
+---
+::
+
+::MiniPractice
+---
+question: "Saya menitipkan pesan kepada guru."
+sentence: "先生に____をお願いしました。"
+optionA: "伝言"
+optionB: "救助"
+correct: "伝言"
+explanation: "伝言 benar, dibaca でんごん: kata-kata (言) yang diteruskan (伝), yaitu pesan titipan. 救助 (きゅうじょ) berarti penyelamatan dan tidak cocok dengan arti kalimatnya."
 ---
 ::
 

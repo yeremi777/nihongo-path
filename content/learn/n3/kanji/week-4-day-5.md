@@ -61,7 +61,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>自宅<rt>じたく</rt></ruby></span> - rumah sendiri</li>
     <li><span class="ruby-word"><ruby>お宅<rt>おたく</rt></ruby></span> - rumah, kediaman</li>
-    <li><span class="ruby-word"><ruby>宅配<rt>たくはい</rt></ruby></span> - pengiriman rumah</li>
+    <li><span class="ruby-word"><ruby>宅配<rt>たくはい</rt></ruby></span> - pengiriman ke rumah</li>
   </ul>
 </details>
 
@@ -79,7 +79,6 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>配送料<rt>はいそうりょう</rt></ruby></span> - ongkos kirim</li>
     <li><span class="ruby-word"><ruby>心配<rt>しんぱい</rt></ruby></span> - khawatir</li>
     <li><span class="ruby-word"><ruby>配る<rt>くばる</rt></ruby></span> - membagikan</li>
-    <li><span class="ruby-word"><ruby>宅配<rt>たくはい</rt></ruby></span> - pengiriman rumah</li>
   </ul>
 </details>
 
@@ -167,14 +166,14 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 <div class="word-strip">
   <span>届く</span>
-  <span>届ける</span>
   <span>自宅</span>
   <span>宅配</span>
   <span>配達</span>
   <span>配送料</span>
   <span>希望</span>
-  <span>希少</span>
-  <span>希望</span>
+  <span>荷物</span>
+  <span>交換</span>
+  <span>金額</span>
 </div>
 
 Peta kata hari ini mengikuti alur: pesanan -> pengiriman -> harapan jadwal -> barang -> penukaran -> jumlah uang. Gunakan alur ini untuk melihat fungsi kata sebelum menerjemahkan satu per satu.
@@ -221,10 +220,10 @@ Peta kata hari ini mengikuti alur: pesanan -> pengiriman -> harapan jadwal -> ba
 
 | Pasangan | Cara membedakan |
 |---|---|
-| 宅配 / 配達 | 宅配 adalah layanan kirim ke rumah. 配達 adalah tindakan pengiriman. |
-| 希望 / 失望 | 希望 adalah harapan atau permintaan. 失望 berarti kecewa. |
-| 荷物 / 手荷物 | 荷物 adalah barang/paket umum. 手荷物 adalah barang bawaan tangan. |
-| 金額 / 半額 | 金額 adalah jumlah uang. 半額 berarti setengah harga. |
+| 宅配 / 配達 | Sama-sama memakai 配 (mengantar), tetapi urutan kanjinya beda: 宅配 diawali 宅 (rumah), jadi nama layanan kirim-ke-rumah; 配達 diakhiri 達 (mencapai), jadi tindakan mengantarnya. |
+| 希望 / 失望 | Kanji kedua sama-sama 望 (harap). Kanji pertama yang menentukan: 希 (mengharap) menjadi harapan; 失 (kehilangan) menjadi harapan yang hilang, yaitu kecewa. |
+| 荷物 / 手荷物 | Tambahan 手 (tangan) di depan mempersempit makna: 手荷物 adalah barang yang kamu bawa sendiri, misalnya di bandara; 荷物 adalah barang atau paket secara umum. |
+| 金額 / 半額 | Lihat kanji pertama: 金 (uang) menunjuk jumlah uang keseluruhan; 半 (setengah) menunjuk harga yang dipotong menjadi separuhnya. |
 
 ## Kesalahan Umum
 
@@ -236,51 +235,52 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti rumah sendiri?"
-optionA: "自宅"
-optionB: "宅配"
-correct: "自宅"
-explanation: "自宅 benar, dibaca じたく, artinya rumah sendiri."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti pengiriman rumah?"
-optionA: "配達"
-optionB: "宅配"
-correct: "宅配"
-explanation: "宅配 benar, dibaca たくはい, artinya pengiriman rumah."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti pengantaran?"
-optionA: "配達"
-optionB: "配送料"
-correct: "配達"
-explanation: "配達 benar, dibaca はいたつ, artinya pengantaran."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti ongkos kirim?"
-optionA: "希望"
-optionB: "配送料"
+question: "Ongkos kirim sudah termasuk dalam jumlah pembayaran."
+sentence: "____は金額に含まれています。"
+optionA: "配送料"
+optionB: "交換"
 correct: "配送料"
-explanation: "配送料 benar, dibaca はいそうりょう, artinya ongkos kirim."
+explanation: "配送料 benar, dibaca はいそうりょう; 料 di akhir menandai biaya, jadi ongkos kirim. 交換 (こうかん) berarti penukaran barang, bukan biaya."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti langka?"
-optionA: "希少"
-optionB: "荷物"
-correct: "希少"
-explanation: "希少 benar, dibaca きしょう. 荷物 adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+question: "Kamu memilih layanan agar paket diantar langsung ke rumah. Layanan mana namanya?"
+optionA: "宅配"
+optionB: "配達"
+correct: "宅配"
+explanation: "宅配 benar, dibaca たくはい; 宅 (rumah) di depan menjadikannya nama layanan kirim-ke-rumah. 配達 (はいたつ) menunjuk tindakan mengantarnya, bukan nama layanannya."
+---
+::
+
+::MiniPractice
+---
+question: "Kata mana yang dibaca きぼう dan berarti harapan atau permintaan?"
+optionA: "希望"
+optionB: "失望"
+correct: "希望"
+explanation: "希望 benar, dibaca きぼう; 希 (mengharap) plus 望 menjadi harapan. 失望 (しつぼう) diawali 失 (kehilangan), jadi artinya kecewa."
+---
+::
+
+::MiniPractice
+---
+question: "Kata mana yang berarti setengah harga?"
+optionA: "半額"
+optionB: "金額"
+correct: "半額"
+explanation: "半額 benar, dibaca はんがく; 半 berarti setengah, jadi harga dipotong separuh. 金額 (きんがく) adalah jumlah uang keseluruhan yang harus dibayar."
+---
+::
+
+::MiniPractice
+---
+question: "Barang yang datang rusak dan kamu ingin menggantinya dengan yang baru. Kata mana yang dipakai?"
+optionA: "交換"
+optionB: "乗り換え"
+correct: "交換"
+explanation: "交換 benar, dibaca こうかん, artinya menukar barang dengan yang lain. 乗り換え (のりかえ) memakai 換 yang sama tetapi khusus berarti ganti kendaraan atau jalur."
 ---
 ::
 

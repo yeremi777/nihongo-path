@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Mengenali tujuh kanji tambahan N3 dari minggu keempat: 細, 戸, 湖, 船, 角, 夫, dan 苦.
+Hari penutup minggu keempat mengenalkan tujuh kanji tambahan N3: 細, 戸, 湖, 船, 角, 夫, dan 苦.
 
 Di akhir pelajaran ini, kamu bisa membaca kata seperti 細い, 細かい, 雨戸, びわ湖, 船便, 三角形, 夫婦, dan 苦手 dalam bacaan pendek sehari-hari.
 
@@ -61,8 +61,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <ul>
     <li><span class="ruby-word"><ruby>戸<rt>と</rt></ruby></span> - pintu</li>
     <li><span class="ruby-word"><ruby>雨戸<rt>あまど</rt></ruby></span> - penutup jendela</li>
-    <li><span class="ruby-word"><ruby>戸だな<rt>とだな</rt></ruby></span> - lemari</li>
-    <li><span class="ruby-word"><ruby>戸棚<rt>とだな</rt></ruby></span> - lemari</li>
+    <li><span class="ruby-word"><ruby>戸棚<rt>とだな</rt></ruby></span> - lemari dinding (juga ditulis 戸だな)</li>
   </ul>
 </details>
 
@@ -108,7 +107,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>角 bisa berarti sudut, pojok, atau bentuk bersudut. Dalam matematika dan bentuk benda, kanji ini sering muncul.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>角度<rt>かくど</rt></ruby></span> - sudut, pojok</li>
+    <li><span class="ruby-word"><ruby>角度<rt>かくど</rt></ruby></span> - besar sudut, derajat sudut</li>
     <li><span class="ruby-word"><ruby>四角い<rt>しかくい</rt></ruby></span> - berbentuk persegi</li>
     <li><span class="ruby-word"><ruby>三角形<rt>さんかくけい</rt></ruby></span> - segitiga</li>
     <li><span class="ruby-word"><ruby>角<rt>かど</rt></ruby></span> - sudut, pojok</li>
@@ -142,17 +141,16 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>苦 bisa berarti penderitaan, rasa pahit, atau kelemahan pada suatu hal. 苦手 adalah kata penting untuk menyatakan lemah dalam sesuatu.</p>
   <ul>
     <li><span class="ruby-word"><ruby>苦労<rt>くろう</rt></ruby></span> - kesulitan, jerih payah</li>
-    <li><span class="ruby-word"><ruby>苦しい<rt>くるしい</rt></ruby></span> - penderitaan, pahit</li>
+    <li><span class="ruby-word"><ruby>苦しい<rt>くるしい</rt></ruby></span> - sesak, menderita</li>
     <li><span class="ruby-word"><ruby>苦い<rt>にがい</rt></ruby></span> - pahit</li>
-    <li><span class="ruby-word"><ruby>苦手(な)<rt>にがて</rt></ruby></span> - lemah dalam, tidak suka</li>
-    <li><span class="ruby-word"><ruby>苦手<rt>にがて</rt></ruby></span> - lemah dalam, tidak suka</li>
+    <li><span class="ruby-word"><ruby>苦手(な)<rt>にがて(な)</rt></ruby></span> - lemah dalam, tidak suka</li>
   </ul>
 </details>
 </div>
 
 ## Peta Kata
 
-Kata-kata hari ini bisa dibaca sebagai alur: bentuk benda → tempat air → transportasi → sudut/bentuk → keluarga → rasa sulit. 細 dan 角 menjelaskan bentuk, 湖 dan 船 menunjuk tempat atau alat, 夫 berkaitan dengan orang, sedangkan 苦 sering muncul pada perasaan atau kelemahan.
+Kanji hari ini tidak membentuk satu adegan nyata, jadi kelompokkan secara tematik: bentuk dan ukuran (細い, 細かい, 三角形, 四角い), rumah (雨戸, 戸棚), alam dan transportasi (びわ湖, 船便), keluarga (夫婦), serta perasaan sulit atau pahit (苦手, 苦い). Saat membacanya di teks, kelompok tema ini membantu menebak arti kata lebih cepat daripada menghafal kanji satu per satu.
 
 <div class="word-strip">
   <span>細い</span>
@@ -216,15 +214,15 @@ Kata-kata hari ini bisa dibaca sebagai alur: bentuk benda → tempat air → tra
 
 | Pasangan | Cara membedakan |
 |---|---|
-| 細い / 細かい | 細い berarti tipis secara fisik. 細かい berarti rinci, kecil, atau detail. |
-| 湖 / 海 | 湖 adalah danau di daratan. 海 adalah laut yang lebih luas. |
-| 船 / 車 | 船 berkaitan dengan air. 車 berkaitan dengan darat. |
-| 夫 / 妻 | 夫 adalah suami. 妻 adalah istri; keduanya sering muncul berpasangan. |
-| 苦い / 苦手 | 苦い berarti rasa pahit. 苦手 berarti lemah atau tidak suka pada suatu hal. |
+| 細い / 細かい | Kanjinya sama, okurigana yang membedakan bacaannya: 〜い saja dibaca ほそい (tipis, ramping secara fisik), sedangkan 〜かい dibaca こまかい (rinci, kecil-kecil). |
+| 船便 / 風船 | Keduanya memakai 船 tetapi bacaannya berbeda: pada 船便 (ふなびん) 船 di depan dibaca ふな dan artinya pos kapal; pada 風船 (ふうせん) 船 di belakang dibaca せん dan artinya balon. |
+| 湖 / 海 | Keduanya memakai radikal air 氵 di kiri. 湖 (みずうみ) adalah danau di daratan; 海 (うみ) adalah laut. Kalau ada nama tempat plus 湖, itu hampir pasti nama danau seperti びわ湖. |
+| 夫婦 / 夫妻 | Sama-sama berarti pasangan suami istri. 夫婦 (ふうふ) adalah kata umum, termasuk untuk pasangan sendiri; 夫妻 (ふさい) lebih formal dan biasanya untuk pasangan orang lain, misalnya 田中夫妻. |
+| 苦い / 苦手 | Lihat yang mengikuti 苦: okurigana い menghasilkan rasa pahit di lidah (にがい); kanji 手 menghasilkan 苦手 (にがて), yaitu lemah atau tidak suka pada suatu bidang. |
 
 ## Kesalahan Umum
 
-Jangan memperlakukan クイズ④ sebagai halaman kuis. Di sini isinya tetap kanji tambahan untuk dibaca dalam kata nyata.
+Jangan memaksakan satu bacaan untuk semua kata. Kanji hari ini banyak yang berubah bacaan menurut posisinya: 船 dibaca ふね sendirian, ふな pada 船便, dan せん pada 風船; 角 dibaca かど untuk pojok jalan tetapi かく pada 角度 dan 三角形.
 
 Strategi bacanya: lihat kata utuh lebih dulu, lalu cocokkan dengan konteks kalimat atau papan. Untuk kelompok kanji hari ini (細, 戸, 湖, 船, 角, 夫, 苦), konteks biasanya lebih cepat memberi jawaban daripada menebak satu bacaan kanji secara terpisah.
 
@@ -234,51 +232,52 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti penutup jendela?"
+question: "Tolong tutup penutup jendela."
+sentence: "____を閉めてください。"
 optionA: "雨戸"
 optionB: "戸棚"
 correct: "雨戸"
-explanation: "雨戸 benar, dibaca あまど, artinya penutup jendela."
+explanation: "雨戸 benar, dibaca あまど; 雨 (hujan) plus 戸 (pintu) menjadi penutup jendela pelindung hujan. 戸棚 (とだな) adalah lemari dinding, tidak ditutup untuk melindungi rumah dari hujan."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti lemari dinding?"
-optionA: "船便"
-optionB: "戸棚"
-correct: "戸棚"
-explanation: "戸棚 benar, dibaca とだな, artinya lemari dinding."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti pos kapal?"
+question: "Kamu mengirim buku ke luar negeri lewat laut karena lebih murah walau lama. Layanan mana yang dipilih?"
 optionA: "船便"
 optionB: "風船"
 correct: "船便"
-explanation: "船便 benar, dibaca ふなびん, artinya pos kapal."
+explanation: "船便 benar, dibaca ふなびん; 便 menandai jenis kiriman, jadi pos lewat kapal. 風船 (ふうせん) memakai 船 yang sama tetapi berarti balon; di sini 船 dibaca せん, bukan ふな."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti balon?"
+question: "Kata mana yang dibaca ふうふ dan berarti pasangan suami istri?"
+optionA: "夫婦"
+optionB: "夫妻"
+correct: "夫婦"
+explanation: "夫婦 benar, dibaca ふうふ, kata umum untuk pasangan suami istri. 夫妻 (ふさい) juga berarti suami istri tetapi lebih formal dan biasanya dipakai untuk pasangan orang lain."
+---
+::
+
+::MiniPractice
+---
+question: "Kata mana yang berarti segitiga?"
 optionA: "三角形"
-optionB: "風船"
-correct: "風船"
-explanation: "風船 benar, dibaca ふうせん, artinya balon."
+optionB: "四角い"
+correct: "三角形"
+explanation: "三角形 benar, dibaca さんかくけい; 三 (tiga) plus 角 (sudut) plus 形 (bentuk) berarti bentuk bersudut tiga. 四角い (しかくい) berarti berbentuk persegi karena diawali 四 (empat)."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti berbentuk persegi?"
-optionA: "四角い"
-optionB: "夫婦"
-correct: "四角い"
-explanation: "四角い benar, dibaca しかくい. 夫婦 adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+question: "Kamu merasa tidak pandai matematika. Kata mana yang menyatakan lemah dalam suatu bidang?"
+optionA: "苦手"
+optionB: "苦労"
+correct: "苦手"
+explanation: "苦手 benar, dibaca にがて; 苦 plus 手 dipakai untuk bidang yang kamu tidak kuasai atau tidak sukai. 苦労 (くろう) berarti kesulitan atau jerih payah dalam menjalani sesuatu."
 ---
 ::
 

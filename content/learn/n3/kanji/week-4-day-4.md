@@ -45,11 +45,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>申 sering muncul pada proses mengajukan atau mendaftar. Di formulir, cari apakah kata itu menunjuk tindakan mendaftar atau lembar pendaftarannya.</p>
   <ul>
     <li><span class="ruby-word"><ruby>申し込む<rt>もうしこむ</rt></ruby></span> - mendaftar</li>
-    <li><span class="ruby-word"><ruby>申告<rt>しんこく</rt></ruby></span> - laporan, deklarasi</li>
-    <li><span class="ruby-word"><ruby>申す<rt>もうす</rt></ruby></span> - mengatakan (rendah hati), melapor</li>
     <li><span class="ruby-word"><ruby>申込書<rt>もうしこみしょ</rt></ruby></span> - formulir pendaftaran</li>
     <li><span class="ruby-word"><ruby>申請<rt>しんせい</rt></ruby></span> - permohonan, pengajuan</li>
-    <li><span class="ruby-word"><ruby>申し上げる<rt>もうしあげる</rt></ruby></span> - mengatakan (rendah hati)</li>
+    <li><span class="ruby-word"><ruby>申告<rt>しんこく</rt></ruby></span> - laporan, deklarasi</li>
   </ul>
 </details>
 
@@ -110,9 +108,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>歳 muncul setelah angka untuk menyatakan umur. Perhatikan bacaan khusus seperti 二十歳 karena tidak selalu mengikuti pola angka biasa.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>〜歳<rt>〜とし</rt></ruby></span> - usia ... tahun</li>
-    <li><span class="ruby-word"><ruby>二十歳<rt>はたち</rt></ruby></span> - 20 tahun</li>
-    <li><span class="ruby-word"><ruby>二十歳(はたち)<rt>にじゅうさい(はたち)</rt></ruby></span> - tahun (usia)</li>
+    <li><span class="ruby-word"><ruby>〜歳<rt>〜さい</rt></ruby></span> - usia ... tahun</li>
+    <li><span class="ruby-word"><ruby>二十歳<rt>はたち</rt></ruby></span> - 20 tahun (bacaan khusus)</li>
   </ul>
 </details>
 
@@ -160,6 +157,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>絡 hampir selalu dibaca bersama 連 dalam 連絡. Kalau ada 先 setelahnya, artinya alamat atau nomor tujuan kontak.</p>
   <ul>
     <li><span class="ruby-word"><ruby>連絡<rt>れんらく</rt></ruby></span> - kontak</li>
+    <li><span class="ruby-word"><ruby>連絡先<rt>れんらくさき</rt></ruby></span> - alamat/nomor kontak</li>
   </ul>
 </details>
 </div>
@@ -170,15 +168,15 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <span>申し込む</span>
   <span>申込書</span>
   <span>記入</span>
-  <span>日記</span>
-  <span>例</span>
-  <span>例えば</span>
+  <span>記入例</span>
   <span>年齢</span>
-  <span>高齢</span>
   <span>二十歳</span>
+  <span>性別</span>
+  <span>連絡</span>
+  <span>連絡先</span>
 </div>
 
-Peta kata hari ini mengikuti alur: permohonan -> pengisian -> contoh -> data pribadi -> kontak. Gunakan alur ini untuk melihat fungsi kata sebelum menerjemahkan satu per satu.
+Peta kata hari ini mengikuti urutan mengisi formulir sungguhan: 申込書 adalah lembarnya, 記入 dan 記入例 memandu cara mengisi, lalu kolom data diri berisi 年齢 (dengan angka plus 歳) dan 性別, dan bagian akhir meminta 連絡先. Gunakan urutan ini untuk menebak fungsi kata sebelum menerjemahkan satu per satu.
 
 ## Catatan Pemakaian
 
@@ -197,8 +195,14 @@ Peta kata hari ini mengikuti alur: permohonan -> pengisian -> contoh -> data pri
 
 ### Data pribadi
 
-- 年齢 berarti usia.
+- 年齢 berarti usia; umur ditulis dengan angka plus 歳.
 - 高齢 berkaitan dengan lanjut usia.
+- 性別 meminta jenis kelamin, biasanya pilihan 男性 atau 女性.
+
+### Kontak
+
+- 連絡 berarti kontak atau menghubungi.
+- 連絡先 adalah kolom alamat, telepon, atau email yang bisa dihubungi.
 
 ## Contoh Kalimat
 
@@ -219,7 +223,12 @@ Peta kata hari ini mengikuti alur: permohonan -> pengisian -> contoh -> data pri
 
 ## Hal yang Mudah Tertukar
 
-Baca kata sebagai satu blok dulu, terutama pada contoh seperti 申し込む atau 記入. Setelah itu cocokkan dengan konteks pelajaran, karena satu kanji bisa berubah fungsi saat masuk kata majemuk.
+| Pasangan | Cara membedakan |
+|---|---|
+| 年齢 / 〜歳 | Keduanya tentang usia, tetapi 齢 hampir selalu berada dalam kata majemuk seperti 年齢 sebagai label kolom, sedangkan 歳 menempel langsung pada angka saat kamu menulis umur. Ingat bacaan khusus 二十歳 (はたち). |
+| 記入 / 日記 | Sama-sama memakai 記 (mencatat). Lihat kanji pasangannya: 入 (memasukkan) berarti mengisi kolom formulir; 日 (hari) berarti catatan harian. |
+| 申込書 / 申請 | 申込書 diakhiri 書 (lembar/dokumen), jadi ini formulirnya; 申請 tanpa 書 adalah tindakan mengajukan permohonan resmi. |
+| 連絡 / 連休 | Lihat kanji kedua: 絡 (terhubung) menghasilkan arti kontak; 休 (istirahat) menghasilkan arti libur beruntun. Kalau ada 先 di belakang 連絡, itu alamat atau nomor tujuan kontak. |
 
 ## Kesalahan Umum
 
@@ -231,51 +240,52 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti mendaftar?"
-optionA: "申し込む"
-optionB: "申込書"
-correct: "申し込む"
-explanation: "申し込む benar, dibaca もうしこむ, artinya mendaftar."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti formulir pendaftaran?"
-optionA: "記入"
-optionB: "申込書"
+question: "Tolong tulis umur di formulir pendaftaran."
+sentence: "____に年齢を書いてください。"
+optionA: "申込書"
+optionB: "記入例"
 correct: "申込書"
-explanation: "申込書 benar, dibaca もうしこみしょ, artinya formulir pendaftaran."
+explanation: "申込書 benar, dibaca もうしこみしょ; 書 di akhir menandai lembar dokumen tempat menulis. 記入例 (きにゅうれい) adalah contoh pengisian, bukan lembar yang kamu isi."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti pengisian?"
-optionA: "記入"
-optionB: "日記"
-correct: "記入"
-explanation: "記入 benar, dibaca きにゅう, artinya pengisian."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti buku harian?"
+question: "Kata mana yang dibaca ねんれい dan berarti umur?"
 optionA: "年齢"
-optionB: "日記"
-correct: "日記"
-explanation: "日記 benar, dibaca にっき, artinya buku harian."
+optionB: "高齢"
+correct: "年齢"
+explanation: "年齢 benar, dibaca ねんれい, label kolom umur di formulir. 高齢 (こうれい) memakai 高 (tinggi), jadi artinya lanjut usia, bukan umur secara umum."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti lanjut usia?"
-optionA: "高齢"
-optionB: "二十歳"
-correct: "高齢"
-explanation: "高齢 benar, dibaca こうれい. 二十歳 adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+question: "Di formulir ada kolom yang meminta kamu memilih 男 atau 女. Apa label kolom itu?"
+optionA: "性別"
+optionB: "性格"
+correct: "性別"
+explanation: "性別 benar, dibaca せいべつ; 別 (pembagian) membuatnya berarti jenis kelamin. 性格 (せいかく) berarti kepribadian, bukan kolom data formulir."
+---
+::
+
+::MiniPractice
+---
+question: "Kata mana yang berarti alamat atau nomor yang bisa dihubungi?"
+optionA: "連絡先"
+optionB: "連休"
+correct: "連絡先"
+explanation: "連絡先 benar, dibaca れんらくさき; 先 menunjuk tujuan kontak. 連休 (れんきゅう) memakai 休 (istirahat), jadi artinya libur beruntun."
+---
+::
+
+::MiniPractice
+---
+question: "Sebelum mengisi, kamu melihat contoh cara menulis jawaban. Kata mana yang menunjuk contoh pengisian itu?"
+optionA: "記入例"
+optionB: "日記"
+correct: "記入例"
+explanation: "記入例 benar, dibaca きにゅうれい; 例 di akhir berarti contoh untuk ditiru. 日記 (にっき) memakai 記 yang sama tetapi berarti buku harian."
 ---
 ::
 

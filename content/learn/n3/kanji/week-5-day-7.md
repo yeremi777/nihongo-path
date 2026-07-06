@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Mengenali enam kanji tambahan N3 dari minggu kelima: 厚, 泣, 鳴, 初, 泊, dan 葉.
+Hari penutup minggu kelima ini mengenalkan enam kanji tambahan: 厚, 泣, 鳴, 初, 泊, dan 葉.
 
 Di akhir pelajaran ini, kamu bisa membaca kata seperti 厚い, 厚着, 泣く, 鳴る, 最初, 初めて, 宿泊, dan 言葉 dalam cerita pendek, 案内 perjalanan, dan pengumuman penginapan.
 
@@ -60,7 +60,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>泣 berkaitan dengan menangis. Subjeknya biasanya manusia atau hewan yang menunjukkan emosi.</p>
   <ul>
     <li><span class="ruby-word"><ruby>泣く<rt>なく</rt></ruby></span> - menangis</li>
-    <li><span class="ruby-word"><ruby>泣き声<rt>なきごえ</rt></ruby></span> - menangis, meratap</li>
+    <li><span class="ruby-word"><ruby>泣き声<rt>なきごえ</rt></ruby></span> - suara tangis</li>
   </ul>
 </details>
 
@@ -198,17 +198,15 @@ Kata-kata hari ini bisa dibaca sebagai alur: sifat benda → emosi manusia → s
 
 | Pasangan | Cara membedakan |
 |---|---|
-| 泣く / 鳴る | 泣く untuk menangis. 鳴る untuk suara benda atau hewan yang berbunyi. |
-| 初め / 初めて | 初め menandai awal. 初めて menekankan pertama kali melakukan sesuatu. |
-| 泊まる / 泊める | 泊まる berarti subjek menginap. 泊める berarti menampung tamu menginap. |
-| 葉 / 言葉 | 葉 sendiri berarti daun. Dalam 言葉, maknanya menjadi kata atau bahasa. |
-| 厚い / 熱い | 厚い berarti tebal. 熱い berarti panas. |
+| 泣く / 鳴く | Keduanya dibaca なく. Lihat komponennya: 泣 memakai air 氵 karena ada air mata, jadi subjeknya orang. 鳴 memakai mulut 口 dan burung 鳥, jadi subjeknya hewan; bentuk 鳴る dipakai untuk bel atau alarm. |
+| 初め / 初めて | 初め menandai bagian awal dari sesuatu. 初めて menekankan pengalaman pertama kali melakukan sesuatu — cek apakah kalimatnya bercerita tentang urutan atau tentang pengalaman baru. |
+| 泊まる / 泊める | Lihat partikelnya: Xに泊まる berarti subjek menginap di X. Xを泊める berarti menampung tamu X untuk menginap. |
+| 葉 / 言葉 | 葉 sendiri dibaca は dan berarti daun. Begitu didahului 言 (berkata), kata itu menjadi 言葉 (ことば), artinya kata atau bahasa — baca dua kanji sebagai satu blok dulu. |
+| 厚い / 熱い | Keduanya dibaca あつい. 厚い menggambarkan benda yang tebal, seperti buku atau jaket. 熱い (dari pelajaran 問診票) menggambarkan suhu yang panas. Tanya dulu: yang dibahas ketebalan atau suhu? |
 
 ## Kesalahan Umum
 
-Jangan memperlakukan クイズ⑤ sebagai halaman kuis. Di sini isinya tetap kanji tambahan untuk dibaca dalam kata nyata.
-
-Strategi bacanya: perhatikan okurigana setelah kanji. 泣く dan 鳴る keduanya berakhiran る, tetapi subjek dan konteks kalimat membedakan apakah yang dimaksud menangis atau berbunyi.
+Jangan menebak arti hanya dari bunyi kata. 泣く dan 鳴く sama-sama dibaca なく, dan 厚い dan 熱い sama-sama dibaca あつい. Saat membaca, tentukan subjek atau objeknya dulu — orang menangis (泣く), hewan atau alat berbunyi (鳴く・鳴る), buku tebal (厚い), teh panas (熱い) — baru pilih kanji yang sesuai.
 
 ## Mini Practice
 
@@ -216,51 +214,51 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti berpakaian tebal?"
+question: "Karena musim dingin, kamu memakai pakaian berlapis tebal. Kata mana yang menggambarkan itu?"
 optionA: "厚着"
-optionB: "泣き声"
+optionB: "紅葉"
 correct: "厚着"
-explanation: "厚着 benar, dibaca あつぎ, artinya berpakaian tebal."
+explanation: "厚着 benar, dibaca あつぎ, artinya berpakaian tebal. 紅葉 (こうよう) berarti daun musim gugur — sama-sama soal musim, tetapi bukan pakaian."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti suara tangis?"
-optionA: "最初"
-optionB: "泣き声"
-correct: "泣き声"
-explanation: "泣き声 benar, dibaca なきごえ, artinya suara tangis."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti awal, yang pertama?"
-optionA: "最初"
-optionB: "初級"
-correct: "最初"
-explanation: "最初 benar, dibaca さいしょ, artinya awal, yang pertama."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti tingkat pemula?"
+question: "Kata mana yang dibaca しゅくはく dan berkaitan dengan menginap di hotel?"
 optionA: "宿泊"
 optionB: "初級"
-correct: "初級"
-explanation: "初級 benar, dibaca しょきゅう, artinya tingkat pemula."
+correct: "宿泊"
+explanation: "宿泊 benar, dibaca しゅくはく, gabungan 宿 (penginapan) dan 泊 (bermalam). 初級 (しょきゅう) berarti tingkat pemula, tidak berkaitan dengan menginap."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti daun musim gugur?"
-optionA: "紅葉"
-optionB: "言葉"
-correct: "紅葉"
-explanation: "紅葉 benar, dibaca こうよう. 言葉 adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+question: "Kata mana yang berarti kata atau bahasa?"
+optionA: "言葉"
+optionB: "紅葉"
+correct: "言葉"
+explanation: "言葉 benar, dibaca ことば; 言 (berkata) mengubah makna 葉 dari daun menjadi kata. 紅葉 (こうよう) tetap memakai makna daun, yaitu daun musim gugur."
+---
+::
+
+::MiniPractice
+---
+question: "Bayi di kamar sebelah menangis keras. Kata mana yang berarti suara tangis?"
+optionA: "泣き声"
+optionB: "厚着"
+correct: "泣き声"
+explanation: "泣き声 benar, dibaca なきごえ; 泣 memakai komponen air 氵 karena ada air mata, jadi subjeknya orang. 厚着 (あつぎ) berarti berpakaian tebal."
+---
+::
+
+::MiniPractice
+---
+question: "Kata mana yang berarti tingkat pemula pada kelas atau buku pelajaran?"
+optionA: "初級"
+optionB: "最初"
+correct: "初級"
+explanation: "初級 benar, dibaca しょきゅう; 級 berarti tingkat, jadi maknanya level pemula. 最初 (さいしょ) berarti bagian awal dari suatu urutan, bukan level kemampuan."
 ---
 ::
 

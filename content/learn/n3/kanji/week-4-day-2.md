@@ -59,9 +59,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>利 memberi rasa manfaat atau praktis. Pada promosi, 便利 dan 利用 sering menjelaskan keuntungan memakai layanan.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>便利(な)<rt>べんり</rt></ruby></span> - praktis</li>
+    <li><span class="ruby-word"><ruby>便利(な)<rt>べんり(な)</rt></ruby></span> - praktis</li>
     <li><span class="ruby-word"><ruby>利用<rt>りよう</rt></ruby></span> - pemakaian</li>
-    <li><span class="ruby-word"><ruby>便利<rt>べんり</rt></ruby></span> - praktis</li>
   </ul>
 </details>
 
@@ -75,8 +74,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>割 berhubungan dengan membagi atau diskon. Dalam 割引, fokusnya adalah potongan harga.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>割る<rt>われる</rt></ruby></span> - membagi, memecah</li>
-    <li><span class="ruby-word"><ruby>割れる<rt>われる</rt></ruby></span> - membagi, memecah</li>
+    <li><span class="ruby-word"><ruby>割る<rt>わる</rt></ruby></span> - membagi, memecah</li>
+    <li><span class="ruby-word"><ruby>割れる<rt>われる</rt></ruby></span> - pecah, retak (sendiri)</li>
     <li><span class="ruby-word"><ruby>割合<rt>わりあい</rt></ruby></span> - rasio</li>
     <li><span class="ruby-word"><ruby>割引<rt>わりびき</rt></ruby></span> - diskon</li>
   </ul>
@@ -92,9 +91,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>倍 menunjukkan kelipatan. Cari angka di dekatnya, seperti 二倍 atau 三倍, untuk membaca perbandingan jumlah.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>〜倍<rt>ばい</rt></ruby></span> - kali</li>
-    <li><span class="ruby-word"><ruby>倍<rt>ばい</rt></ruby></span> - kali</li>
-    <li><span class="ruby-word"><ruby>二倍<rt>にばい</rt></ruby></span> - kali lipat, dua kali</li>
+    <li><span class="ruby-word"><ruby>〜倍<rt>〜ばい</rt></ruby></span> - ... kali lipat</li>
+    <li><span class="ruby-word"><ruby>二倍<rt>にばい</rt></ruby></span> - dua kali lipat</li>
   </ul>
 </details>
 
@@ -142,7 +140,6 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>支店<rt>してん</rt></ruby></span> - cabang toko</li>
     <li><span class="ruby-word"><ruby>支社<rt>ししゃ</rt></ruby></span> - kantor cabang</li>
     <li><span class="ruby-word"><ruby>本店<rt>ほんてん</rt></ruby></span> - toko pusat</li>
-    <li><span class="ruby-word"><ruby>本社<rt>ほんしゃ</rt></ruby></span> - kantor pusat</li>
     <li><span class="ruby-word"><ruby>支払い<rt>しはらい</rt></ruby></span> - pembayaran</li>
   </ul>
 </details>
@@ -173,8 +170,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <span>割引</span>
   <span>割合</span>
   <span>二倍</span>
-  <span>倍</span>
   <span>値段</span>
+  <span>商品</span>
+  <span>支払い</span>
 </div>
 
 Peta kata hari ini mengikuti isi email promosi: 広告 memberi konteks iklan, 便利 dan 利用 menjelaskan manfaat, 割引 dan 倍 berhubungan dengan diskon atau perbandingan, 値段 dan 商品 menunjuk harga serta barang, lalu 支払い menutupnya dengan pembayaran.
@@ -221,10 +219,10 @@ Peta kata hari ini mengikuti isi email promosi: 広告 memberi konteks iklan, �
 
 | Pasangan | Cara membedakan |
 |---|---|
-| 広告 / 報告 | 広告 adalah iklan. 報告 adalah laporan atau pemberitahuan hasil. |
-| 割引 / 割合 | 割引 berarti diskon. 割合 berarti rasio atau proporsi. |
-| 値段 / 商品 | 値段 adalah harga. 商品 adalah barang yang dijual. |
-| 支店 / 支払い | 支店 menunjuk cabang toko. 支払い menunjuk tindakan atau metode pembayaran. |
+| 広告 / 報告 | Keduanya diakhiri 告 (memberitahu). Lihat kanji pertama: 広 (luas) menyebarkan informasi ke banyak orang, jadi iklan; 報 (melaporkan) menyampaikan hasil ke pihak tertentu, jadi laporan. |
+| 割引 / 割合 | Lihat kanji kedua: 引 (menarik/mengurangi) membuat harga turun, jadi diskon; 合 (gabungan/keseluruhan) menunjuk bagian dari keseluruhan, jadi rasio. |
+| 支店 / 本店 | Kanji pertama menentukan posisinya: 支 berarti cabang, 本 berarti pusat. Pola yang sama berlaku untuk 支社 dan 本社 di dunia kantor. |
+| 支店 / 支払い | Lihat bagian setelah 支: 店 adalah tempat, jadi cabang toko; 払い adalah tindakan membayar, jadi pembayaran. |
 
 ## Kesalahan Umum
 
@@ -240,47 +238,48 @@ question: "Kata mana yang berarti iklan?"
 optionA: "広告"
 optionB: "報告"
 correct: "広告"
-explanation: "広告 benar, dibaca こうこく, artinya iklan."
+explanation: "広告 benar, dibaca こうこく; 広 (luas) plus 告 (memberitahu) berarti menyebarkan informasi ke banyak orang. 報告 (ほうこく) adalah laporan hasil kepada pihak tertentu."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti laporan?"
-optionA: "便利"
-optionB: "報告"
-correct: "報告"
-explanation: "報告 benar, dibaca ほうこく, artinya laporan."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti praktis?"
-optionA: "便利"
-optionB: "利用"
-correct: "便利"
-explanation: "便利 benar, dibaca べんり, artinya praktis."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti pemakaian?"
+question: "Email toko menulis bahwa semua barang dipotong harganya minggu ini. Kata mana yang muncul di email itu?"
 optionA: "割引"
-optionB: "利用"
-correct: "利用"
-explanation: "利用 benar, dibaca りよう, artinya pemakaian."
+optionB: "割合"
+correct: "割引"
+explanation: "割引 benar, dibaca わりびき; 引 (mengurangi) membuat harga turun, jadi diskon. 割合 (わりあい) memakai 合 dan berarti rasio atau proporsi, bukan potongan harga."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti rasio?"
-optionA: "割合"
-optionB: "二倍"
-correct: "割合"
-explanation: "割合 benar, dibaca わりあい. 二倍 adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+question: "Kata mana yang dibaca ねだん dan berarti harga barang?"
+optionA: "値段"
+optionB: "値上げ"
+correct: "値段"
+explanation: "値段 benar, dibaca ねだん, artinya harga. 値上げ (ねあげ) memakai 上げ (menaikkan), jadi artinya kenaikan harga, bukan harga itu sendiri."
+---
+::
+
+::MiniPractice
+---
+question: "Kata mana yang berarti memakai layanan atau fasilitas?"
+optionA: "利用"
+optionB: "便利"
+correct: "利用"
+explanation: "利用 benar, dibaca りよう, kata benda untuk pemakaian layanan. 便利 (べんり) adalah kata sifat yang berarti praktis, jadi menggambarkan kesan, bukan tindakan memakai."
+---
+::
+
+::MiniPractice
+---
+question: "Pembayaran dilakukan di kasir."
+sentence: "____はレジでお願いします。"
+optionA: "支払い"
+optionB: "支店"
+correct: "支払い"
+explanation: "支払い benar, dibaca しはらい; 払い menunjuk tindakan membayar, cocok dengan kasir. 支店 (してん) berarti cabang toko karena kanji keduanya 店 adalah tempat."
 ---
 ::
 

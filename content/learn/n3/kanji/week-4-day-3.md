@@ -165,15 +165,15 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 ## Peta Kata
 
 <div class="word-strip">
-  <span>米</span>
   <span>米国</span>
   <span>高級</span>
-  <span>中級</span>
   <span>残り</span>
-  <span>残業</span>
   <span>新型</span>
   <span>小型</span>
   <span>消費税</span>
+  <span>税込</span>
+  <span>価格</span>
+  <span>格安</span>
 </div>
 
 Peta kata hari ini mengikuti informasi produk: 米国 dapat menunjuk asal, 高級 memberi kelas barang, 残り memberi stok, 新型 atau 小型 memberi model/ukuran, 消費税 dan 税込 menjelaskan pajak, sedangkan 価格 dan 格安 menjelaskan harga.
@@ -221,10 +221,10 @@ Peta kata hari ini mengikuti informasi produk: 米国 dapat menunjuk asal, 高�
 
 | Pasangan | Cara membedakan |
 |---|---|
-| 米 / 米国 | 米 saja bisa berarti beras. 米国 berarti Amerika Serikat. |
-| 高級 / 中級 | 高級 biasanya untuk kelas barang atau layanan. 中級 untuk tingkat menengah. |
-| 消費税 / 税込 | 消費税 adalah pajaknya. 税込 berarti harga sudah termasuk pajak. |
-| 価格 / 格安 | 価格 adalah harga. 格安 berarti murah atau harga sangat terjangkau. |
+| 米 / 米国 | Lihat kanji yang mengikutinya: 米 sendirian dekat konteks makanan dibaca こめ dan berarti beras; begitu diikuti 国, bacaannya berubah menjadi べい dan artinya Amerika Serikat. |
+| 高級 / 中級 | Kanji pertama menyebut posisinya: 高 tinggi, 中 tengah. 高級 biasanya menilai kualitas barang atau layanan (premium), sedangkan 中級 dan 上級 lebih sering untuk tingkat kemampuan. |
+| 消費税 / 税込 | Perhatikan posisi 税: di akhir kata (〜税) berarti nama pajaknya; kalau 税 berada di depan 込 (termasuk), harga yang tertulis sudah memuat pajak. |
+| 価格 / 格安 | Kanji 格 muncul di keduanya, tetapi posisinya beda: pada 価格, 格 mengikuti 価 (nilai) dan artinya harga; pada 格安, 格 mendahului 安 (murah) dan artinya sangat murah. |
 
 ## Kesalahan Umum
 
@@ -236,51 +236,51 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti Amerika Serikat?"
-optionA: "米国"
-optionB: "高級"
-correct: "米国"
-explanation: "米国 benar, dibaca べいこく, artinya Amerika Serikat."
+question: "Label harga bertuliskan 1,100円(____) — pajak sudah termasuk. Kata mana yang mengisi tanda kurung itu?"
+optionA: "税込"
+optionB: "税金"
+correct: "税込"
+explanation: "税込 benar, dibaca ぜいこみ; 込 berarti termasuk, jadi harga sudah memuat pajak. 税金 (ぜいきん) hanya berarti pajak itu sendiri dan tidak menyatakan sudah termasuk atau belum."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti kelas tinggi?"
-optionA: "中級"
-optionB: "高級"
-correct: "高級"
-explanation: "高級 benar, dibaca こうきゅう, artinya kelas tinggi."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti tingkat menengah?"
-optionA: "中級"
-optionB: "残業"
-correct: "中級"
-explanation: "中級 benar, dibaca ちゅうきゅう, artinya tingkat menengah."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti lembur?"
+question: "Kata mana yang berarti model baru?"
 optionA: "新型"
-optionB: "残業"
-correct: "残業"
-explanation: "残業 benar, dibaca ざんぎょう, artinya lembur."
+optionB: "大型"
+correct: "新型"
+explanation: "新型 benar, dibaca しんがた; 新 berarti baru, jadi model baru. 大型 (おおがた) memakai 大 dan berarti ukuran besar, bukan kebaruan modelnya."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti ukuran kecil?"
-optionA: "小型"
-optionB: "消費税"
-correct: "小型"
-explanation: "小型 benar, dibaca こがた. 消費税 adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+question: "Kata mana yang dibaca かかく dan berarti harga?"
+optionA: "価格"
+optionB: "合格"
+correct: "価格"
+explanation: "価格 benar, dibaca かかく; 価 (nilai) plus 格 menjadi harga. 合格 (ごうかく) memakai 格 yang sama tetapi berarti lulus ujian; konteksnya sekolah, bukan belanja."
+---
+::
+
+::MiniPractice
+---
+question: "Kata mana yang berarti pajak konsumsi?"
+optionA: "消費税"
+optionB: "定価"
+correct: "消費税"
+explanation: "消費税 benar, dibaca しょうひぜい; 〜税 di akhir kata menandai nama pajak. 定価 (ていか) berarti harga tetap yang ditentukan penjual, tidak berkaitan dengan pajak."
+---
+::
+
+::MiniPractice
+---
+question: "Iklan tiket pesawat murah biasanya memakai kata ini di depan harga. Kata mana itu?"
+optionA: "格安"
+optionB: "高級"
+correct: "格安"
+explanation: "格安 benar, dibaca かくやす; 安 (murah) membuat kata ini berarti sangat murah. 高級 (こうきゅう) justru sebaliknya: kelas tinggi atau premium."
 ---
 ::
 

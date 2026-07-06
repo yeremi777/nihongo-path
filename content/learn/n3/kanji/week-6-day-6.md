@@ -110,7 +110,6 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>国際的(な)<rt>こくさいてき</rt></ruby></span> - internasional</li>
     <li><span class="ruby-word"><ruby>目的<rt>もくてき</rt></ruby></span> - tujuan</li>
     <li><span class="ruby-word"><ruby>個人的(な)<rt>こじんてき(な)</rt></ruby></span> - pribadi</li>
-    <li><span class="ruby-word"><ruby>否定的<rt>ひていてき</rt></ruby></span> - negatif</li>
   </ul>
 </details>
 
@@ -174,34 +173,34 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <span>否定</span>
   <span>否定的</span>
   <span>目的</span>
+  <span>実際</span>
+  <span>欠点</span>
+  <span>専門</span>
 </div>
 
-Peta kata hari ini mengikuti alur: pemerintah -> perubahan aturan -> penolakan/sikap -> fakta/kekurangan -> keahlian. Gunakan alur ini untuk melihat fungsi kata sebelum menerjemahkan satu per satu.
+Kata-kata hari ini mengikuti alur membaca berita politik: siapa pelakunya (政府, 政治家), apa yang diubah (改正), bagaimana sikap terhadap perubahan itu (否定, 否定的), lalu penilaian faktanya (実際, 欠点) dan siapa yang menilai (専門家). Kalau kamu menemukan artikel politik, coba cari keempat peran ini dulu; struktur beritanya biasanya persis mengikuti urutan tersebut.
 
 ## Catatan Pemakaian
 
-### Politik
+### Pelaku dan lembaga
 
-- 政治 berarti politik.
-- 政治家 adalah politisi.
+- 政治家 dan 専門家 sama-sama memakai 家 (か) untuk "orang yang berkecimpung di bidang itu": politikus dan ahli.
+- 政府 adalah pemerintah sebagai lembaga pelaku kebijakan; 都道府県 adalah pembagian wilayah administratifnya.
 
-### Pemerintah
+### Tindakan revisi
 
-- 政府 berarti pemerintah.
-- 都道府県 menandai wilayah administratif.
+- 改正 dipakai saat aturan, undang-undang, atau sistem direvisi secara resmi — hampir selalu muncul bersama 法律 atau nama peraturan.
+- 改める adalah bentuk kata kerjanya; okurigana める menandakan bacaan kunyomi あらた.
 
-### Kebijakan
+### Sikap dan penilaian
 
-- 改正 berarti revisi peraturan.
-- 改める berarti mengubah.
+- 否定 adalah tindakan menyangkal; tambahkan 的(な) menjadi 否定的 untuk menggambarkan sikap atau pendapat yang negatif.
+- 的 hampir selalu dibaca てき dan mengubah nomina menjadi kata sifat, seperti 国際的 dan 個人的.
 
-### Sikap dan fakta
+### Fakta dan kekurangan
 
-- 否定 berarti penolakan.
-- 目的 berarti tujuan.
-- 実際 berarti kenyataan.
-- 欠点 berarti kekurangan.
-- 専門 berkaitan keahlian khusus.
+- 実際(に) menandai kondisi nyata sebagai lawan dari rencana atau teori; 実は membuka fakta yang belum diketahui lawan bicara.
+- 欠点 adalah kekurangan sebagai titik lemah; 欠席 adalah absen dari acara — keduanya berbagi rasa "ada yang hilang".
 
 ## Contoh Kalimat
 
@@ -218,11 +217,20 @@ Peta kata hari ini mengikuti alur: pemerintah -> perubahan aturan -> penolakan/s
     <p class="jp">実際には欠点もあります。</p>
     <p>Kenyataannya, ada juga kekurangan.</p>
   </div>
+  <div>
+    <p class="jp">政府、法律改正の目的を説明。</p>
+    <p>Pemerintah menjelaskan tujuan revisi undang-undang. (gaya judul berita)</p>
+  </div>
 </div>
 
 ## Hal yang Mudah Tertukar
 
-Baca kata sebagai satu blok dulu, terutama pada contoh seperti 政治 atau 政府. Setelah itu cocokkan dengan konteks pelajaran, karena satu kanji bisa berubah fungsi saat masuk kata majemuk.
+| Pasangan | Cara membedakan |
+|---|---|
+| 政治 / 政治家 | 政治 adalah bidangnya (politik); tambahan 家 menunjuk orangnya (politikus). Kalau kalimatnya tentang tindakan seseorang, cari 家 di akhir. |
+| 否定 / 否定的 | 否定 adalah tindakan menyangkal (nomina); 的(な) mengubahnya menjadi sifat "bernada negatif". Cek apakah kata itu menerangkan nomina lain. |
+| 欠席 / 欠点 | Keduanya "ada yang hilang": 欠席 = orangnya tidak hadir di acara, 欠点 = titik lemah pada benda/orang. Lihat apakah konteksnya kehadiran atau kualitas. |
+| 実際に / 実は | 実際に membandingkan kenyataan dengan rencana/teori; 実は membuka rahasia atau koreksi kepada lawan bicara. |
 
 ## Kesalahan Umum
 
@@ -234,51 +242,52 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti politik?"
-optionA: "政治"
-optionB: "政治家"
-correct: "政治"
-explanation: "政治 benar, dibaca せいじ, artinya politik."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti politikus?"
-optionA: "政府"
-optionB: "政治家"
-correct: "政治家"
-explanation: "政治家 benar, dibaca せいじか, artinya politikus."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti pemerintah?"
-optionA: "政府"
-optionB: "都道府県"
-correct: "政府"
-explanation: "政府 benar, dibaca せいふ, artinya pemerintah."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti prefektur Jepang?"
+question: "Pemerintah merevisi undang-undang."
+sentence: "政府は法律を____しました。"
 optionA: "改正"
-optionB: "都道府県"
-correct: "都道府県"
-explanation: "都道府県 benar, dibaca とどうふけん, artinya prefektur Jepang."
+optionB: "欠席"
+correct: "改正"
+explanation: "改正 benar, dibaca かいせい. Pasangan 法律を改正する adalah kolokasi tetap untuk revisi undang-undang; 欠席 berarti absen dari acara."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti penyangkalan?"
-optionA: "否定"
-optionB: "否定的"
-correct: "否定"
-explanation: "否定 benar, dibaca ひてい. 否定的 adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+question: "Kata mana yang menggambarkan sikap atau pendapat yang bernada negatif?"
+optionA: "否定的"
+optionB: "否定"
+correct: "否定的"
+explanation: "否定的 benar, dibaca ひていてき. Akhiran 的(な) mengubah nomina 否定 (penyangkalan) menjadi kata sifat yang menerangkan sikap atau pendapat."
+---
+::
+
+::MiniPractice
+---
+question: "Berita menyebut 'orang ahli di bidang tertentu'. Kata mana yang dimaksud?"
+optionA: "専門家"
+optionB: "政治家"
+correct: "専門家"
+explanation: "専門家 benar, dibaca せんもんか, artinya ahli. Keduanya memakai 家 untuk orang, tetapi 専門 menunjuk bidang keahlian, sedangkan 政治 menunjuk dunia politik."
+---
+::
+
+::MiniPractice
+---
+question: "Rencananya terdengar bagus, tetapi pada kenyataannya ada masalah. Kata mana untuk 'kenyataan'?"
+optionA: "実際"
+optionB: "目的"
+correct: "実際"
+explanation: "実際 benar, dibaca じっさい, menandai kondisi nyata sebagai lawan dari rencana atau teori. 目的 berarti tujuan."
+---
+::
+
+::MiniPractice
+---
+question: "Produk itu bagus, tetapi masih punya titik lemah. Kata mana yang tepat?"
+optionA: "欠点"
+optionB: "欠席"
+correct: "欠点"
+explanation: "欠点 benar, dibaca けってん, artinya kekurangan/titik lemah pada kualitas. 欠席 (けっせき) juga memakai 欠, tetapi artinya absen dari acara — konteksnya kehadiran, bukan kualitas."
 ---
 ::
 

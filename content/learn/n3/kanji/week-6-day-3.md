@@ -95,9 +95,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>対 dipakai untuk lawan, perbandingan, atau skor. Di artikel olahraga, kanji ini sering muncul antara dua tim atau angka.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>1対2<rt>1たい2</rt></ruby></span> - 1 lawan 2</li>
-    <li><span class="ruby-word"><ruby>反対<rt>はんたい</rt></ruby></span> - berlawanan</li>
-    <li><span class="ruby-word"><ruby>一対二<rt>いちたいに</rt></ruby></span> - satu lawan dua</li>
+    <li><span class="ruby-word"><ruby>1対2<rt>1たい2</rt></ruby></span> - 1 lawan 2 (skor)</li>
+    <li><span class="ruby-word"><ruby>反対<rt>はんたい</rt></ruby></span> - berlawanan, menentang</li>
   </ul>
 </details>
 
@@ -171,36 +170,35 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <span>決める</span>
   <span>勝つ</span>
   <span>優勝</span>
-  <span>一対二</span>
+  <span>勝負</span>
   <span>反対</span>
-  <span>流れる</span>
+  <span>投手</span>
+  <span>結果</span>
 </div>
 
 Hubungan kata hari ini mengikuti isi artikel olahraga: 野球 memberi cabang olahraga, 対 menunjukkan lawan atau skor, 決勝 dan 決める menandai keputusan penting, 勝つ dan 負ける menunjukkan hasil, 投手 menunjuk peran pemain, lalu 結果 merangkum akhir pertandingan.
 
 ## Catatan Pemakaian
 
-### Pertandingan
+### Cabang dan pemain
 
-- 野球 berarti baseball.
-- 球 berkaitan bola.
+- 野球 menyebut cabang olahraganya (bisbol); 投手 menunjuk peran pemain yang melempar bola.
+- 球 juga muncul di luar olahraga: 地球 (bumi) dan 電球 (bola lampu) — cek kanji pendampingnya.
 
-### Hasil
+### Skor dan babak
 
-- 勝つ berarti menang.
-- 負ける berarti kalah.
-- 優勝 berarti juara.
+- 対 di antara dua angka membentuk skor, misalnya 1対2 (satu lawan dua).
+- 決勝 adalah babak final — babak yang menentukan (決) siapa yang menang (勝).
 
-### Skor
+### Hasil pertandingan
 
-- 決勝 untuk final.
-- 一対二 menandai skor lawan.
+- 勝つ berarti menang, 負ける berarti kalah; 勝負 menggabungkan keduanya menjadi "pertandingan/duel".
+- 優勝 berarti menjadi juara; 結果 merangkum hasil akhirnya di paragraf penutup artikel.
 
-### Aksi
+### Aksi dan alur permainan
 
-- 投げる berarti melempar.
-- 流れる berarti mengalir.
-- 果たす berkaitan hasil akhir.
+- 投げる berarti melempar — aksi konkret pemain.
+- 流れる/流す dipakai untuk arus atau alur, termasuk arus permainan, bukan skor.
 
 ## Contoh Kalimat
 
@@ -238,51 +236,52 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti bisbol?"
-optionA: "野球"
-optionB: "地球"
-correct: "野球"
-explanation: "野球 benar, dibaca やきゅう, artinya bisbol."
+question: "Saya membaca hasil pertandingan di artikel."
+sentence: "試合の____を記事で読みました。"
+optionA: "結果"
+optionB: "勝負"
+correct: "結果"
+explanation: "結果 benar, dibaca けっか, artinya hasil akhir. 勝負 (しょうぶ) berarti pertandingan atau duelnya sendiri, bukan hasilnya."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti bumi?"
-optionA: "決勝"
-optionB: "地球"
-correct: "地球"
-explanation: "地球 benar, dibaca ちきゅう, artinya bumi."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti final?"
+question: "Tim itu lolos ke babak final, tetapi belum tentu menjadi juara. Kata mana yang berarti babak final?"
 optionA: "決勝"
 optionB: "優勝"
 correct: "決勝"
-explanation: "決勝 benar, dibaca けっしょう, artinya final."
+explanation: "決勝 benar, dibaca けっしょう: babak yang menentukan (決) pemenang. 優勝 (ゆうしょう) adalah hasilnya — menjadi juara setelah memenangkan babak itu."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti juara?"
-optionA: "一対二"
-optionB: "優勝"
-correct: "優勝"
-explanation: "優勝 benar, dibaca ゆうしょう, artinya juara."
+question: "Artikel bisbol menyebut pemain yang bertugas melempar bola. Siapa yang dimaksud?"
+optionA: "投手"
+optionB: "野球"
+correct: "投手"
+explanation: "投手 benar, dibaca とうしゅ: 投 (melempar) + 手 (orang/pemain), yaitu pitcher. 野球 (やきゅう) adalah nama cabang olahraganya, bukan pemainnya."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti berlawanan?"
+question: "Kata mana yang berarti bola lampu?"
+optionA: "電球"
+optionB: "地球"
+correct: "電球"
+explanation: "電球 benar, dibaca でんきゅう: 電 (listrik) + 球 (bola). 地球 (ちきゅう) memakai 球 yang sama, tetapi 地 (tanah) menjadikannya bumi."
+---
+::
+
+::MiniPractice
+---
+question: "Banyak penonton tidak setuju dengan keputusan wasit. Kata mana yang berarti menentang?"
 optionA: "反対"
-optionB: "勝負"
+optionB: "決定"
 correct: "反対"
-explanation: "反対 benar, dibaca はんたい. 勝負 adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+explanation: "反対 benar, dibaca はんたい, artinya menentang atau berlawanan. 決定 (けってい) berarti keputusan itu sendiri — hal yang ditentang, bukan sikap menentangnya."
 ---
 ::
 

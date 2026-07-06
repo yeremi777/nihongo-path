@@ -62,7 +62,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <p>募 menandai perekrutan atau pengumpulan pelamar. Dalam 募集, cari informasi posisi dan syaratnya.</p>
   <ul>
     <li><span class="ruby-word"><ruby>募集<rt>ぼしゅう</rt></ruby></span> - perekrutan</li>
-    <li><span class="ruby-word"><ruby>応募<rt>おうぼ</rt></ruby></span> - merekrut, mencari</li>
+    <li><span class="ruby-word"><ruby>応募<rt>おうぼ</rt></ruby></span> - melamar, mendaftar</li>
   </ul>
 </details>
 
@@ -171,34 +171,35 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <span>職場</span>
   <span>職業</span>
   <span>内容</span>
-  <span>美容院</span>
   <span>技術</span>
+  <span>事務</span>
+  <span>課長</span>
 </div>
 
-Peta kata hari ini mengikuti alur: permintaan/rekrutmen -> pekerjaan -> isi tugas -> kemampuan -> bagian kantor. Gunakan alur ini untuk melihat fungsi kata sebelum menerjemahkan satu per satu.
+Kata-kata hari ini mengikuti alur membaca iklan lowongan: perusahaan mencari orang (求人, 募集), pelamar merespons (応募), lalu iklan menjelaskan jenis pekerjaannya (職業, 事務, 一般), isi tugasnya (内容), keahlian yang diminta (技術), dan tempat serta struktur kerjanya (職場, 課長). Saat membaca iklan sungguhan, cari dulu bagian 募集 dan 内容 — dua bagian itu memuat informasi terpenting.
 
 ## Catatan Pemakaian
 
 ### Rekrutmen
 
-- 求人 berarti lowongan.
-- 募集 berarti perekrutan.
-- 応募 berarti melamar.
+- 求人 adalah lowongannya (perusahaan mencari orang); 募集 adalah tindakan perusahaan merekrut.
+- 応募 adalah tindakan dari sisi pelamar: merespons (応) rekrutmen (募) dengan mengirim lamaran.
+- 請求書 memakai 求 yang sama tetapi konteksnya pembayaran: dokumen tagihan.
 
-### Pekerjaan
+### Jenis dan tempat pekerjaan
 
-- 職場 dan 職業 menandai tempat atau jenis pekerjaan.
+- 職業 menunjuk jenis profesinya; 職場 menunjuk lokasi tempat bekerja; 転職 berarti pindah pekerjaan.
+- 一般 menandai posisi atau kategori umum, lawan dari posisi khusus/teknis.
 
-### Syarat
+### Isi tugas dan keahlian
 
-- 内容 menjelaskan isi tugas.
-- 技術 berarti keahlian teknis.
+- 内容 menjelaskan isi tugas — bagian iklan yang wajib dibaca sebelum melamar.
+- 技術 berarti keahlian teknis; 技術者 adalah orangnya (teknisi).
 
-### Bidang
+### Kantor dan jabatan
 
-- 美容院 untuk salon.
-- 一般 untuk pekerjaan umum.
-- 課 untuk bagian atau divisi kantor.
+- 事務 adalah pekerjaan administrasi; 事務所 tempatnya (kantor); 公務員 pegawai negeri.
+- 課 adalah bagian/divisi; 課長 adalah kepala bagiannya.
 
 ## Contoh Kalimat
 
@@ -219,7 +220,12 @@ Peta kata hari ini mengikuti alur: permintaan/rekrutmen -> pekerjaan -> isi tuga
 
 ## Hal yang Mudah Tertukar
 
-Baca kata sebagai satu blok dulu, terutama pada contoh seperti 求人 atau 募集. Setelah itu cocokkan dengan konteks pelajaran, karena satu kanji bisa berubah fungsi saat masuk kata majemuk.
+| Pasangan | Cara membedakan |
+|---|---|
+| 募集 / 応募 | Keduanya memakai 募. Arahnya berlawanan: 募集 dilakukan perusahaan (merekrut), 応募 dilakukan pelamar (melamar). Cek siapa subjek kalimatnya. |
+| 職場 / 職業 | 場 berarti tempat, 業 berarti bidang usaha. 職場 menjawab "di mana bekerja", 職業 menjawab "apa profesinya". |
+| 事務 / 事務所 | Tambahan 所 (tempat) mengubah pekerjaannya (administrasi) menjadi tempatnya (kantor). |
+| 内容 / 美容院 | Keduanya memakai 容. 内容 (isi) muncul di teks tugas dan dokumen; 美容院 (salon) adalah nama tempat usaha — 美 (cantik) jadi penandanya. |
 
 ## Kesalahan Umum
 
@@ -231,51 +237,52 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti lowongan kerja?"
-optionA: "求人"
-optionB: "募集"
-correct: "求人"
-explanation: "求人 benar, dibaca きゅうじん, artinya lowongan kerja."
+question: "Sedang merekrut teknisi."
+sentence: "____を募集しています。"
+optionA: "技術者"
+optionB: "公務員"
+correct: "技術者"
+explanation: "技術者 benar, dibaca ぎじゅつしゃ. 技術 (keahlian teknis) + 者 (orang) berarti teknisi; 公務員 (こうむいん) berarti pegawai negeri."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti perekrutan?"
+question: "Perusahaan membuka lowongan, lalu kamu mengirim lamaran. Kata mana untuk tindakanmu sebagai pelamar?"
 optionA: "応募"
 optionB: "募集"
-correct: "募集"
-explanation: "募集 benar, dibaca ぼしゅう, artinya perekrutan."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti melamar?"
-optionA: "応募"
-optionB: "職場"
 correct: "応募"
-explanation: "応募 benar, dibaca おうぼ, artinya melamar."
+explanation: "応募 benar, dibaca おうぼ: merespons (応) rekrutmen. 募集 (ぼしゅう) memakai 募 yang sama, tetapi subjeknya perusahaan yang merekrut, bukan pelamar."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti tempat kerja?"
-optionA: "職業"
-optionB: "職場"
-correct: "職場"
-explanation: "職場 benar, dibaca しょくば, artinya tempat kerja."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti isi?"
+question: "Sebelum melamar, kamu ingin tahu rincian tugas hariannya. Bagian iklan mana yang harus dibaca?"
 optionA: "内容"
-optionB: "美容院"
+optionB: "職場"
 correct: "内容"
-explanation: "内容 benar, dibaca ないよう. 美容院 adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+explanation: "内容 benar, dibaca ないよう, artinya isi — bagian yang menjelaskan rincian tugas. 職場 (しょくば) hanya memberi tahu tempat kerjanya."
+---
+::
+
+::MiniPractice
+---
+question: "Kata mana yang berarti pindah pekerjaan?"
+optionA: "転職"
+optionB: "職業"
+correct: "転職"
+explanation: "転職 benar, dibaca てんしょく: 転 (berpindah) + 職 (pekerjaan). 職業 (しょくぎょう) berarti profesi itu sendiri, bukan tindakan pindah."
+---
+::
+
+::MiniPractice
+---
+question: "Amplop dari perusahaan berisi rincian jumlah yang harus dibayar. Dokumen apa itu?"
+optionA: "請求書"
+optionB: "事務所"
+correct: "請求書"
+explanation: "請求書 benar, dibaca せいきゅうしょ, artinya tagihan — 求 di sini berarti menuntut pembayaran. 事務所 (じむしょ) berarti kantor, sebuah tempat, bukan dokumen."
 ---
 ::
 

@@ -60,9 +60,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   </summary>
   <p>君 bisa berarti “kamu” atau sapaan setelah nama. Perhatikan apakah muncul sendiri atau setelah nama orang seperti 田中君.</p>
   <ul>
-    <li><span class="ruby-word"><ruby>〇〇君<rt>きみ</rt></ruby></span> - kamu</li>
-    <li><span class="ruby-word"><ruby>君<rt>きみ</rt></ruby></span> - kamu</li>
-    <li><span class="ruby-word"><ruby>田中君<rt>たなかくん</rt></ruby></span> - Tanaka-kun</li>
+    <li><span class="ruby-word"><ruby>君<rt>きみ</rt></ruby></span> - kamu (informal)</li>
+    <li><span class="ruby-word"><ruby>田中君<rt>たなかくん</rt></ruby></span> - Tanaka-kun (sapaan akrab setelah nama, dibaca くん)</li>
   </ul>
 </details>
 
@@ -172,9 +171,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
   <span>田中君</span>
   <span>結婚</span>
   <span>結局</span>
-  <span>結婚</span>
   <span>婚約</span>
   <span>祝日</span>
+  <span>曲がる</span>
+  <span>寝る</span>
 </div>
 
 Peta kata hari ini mengikuti alur: waktu lalu -> orang/hubungan -> perayaan -> gerak/bagian dalam -> kegiatan tidur. Gunakan alur ini untuk melihat fungsi kata sebelum menerjemahkan satu per satu.
@@ -189,13 +189,15 @@ Peta kata hari ini mengikuti alur: waktu lalu -> orang/hubungan -> perayaan -> g
 
 - 君 dipakai memanggil seseorang secara akrab atau dalam tulisan.
 
-### Pernikahan
+### Pernikahan dan perayaan
 
-- 結婚, 婚約, dan 祝日 berkaitan pernikahan atau hari perayaan.
+- 結婚 dan 婚約 berkaitan hubungan pernikahan atau pertunangan.
+- 祝う dan お祝い untuk merayakan; 祝日 berarti hari libur nasional, bukan pesta pribadi.
 
 ### Narasi
 
-- 寝る dan 泳ぐ sering dipakai saat menceritakan kegiatan pribadi.
+- 寝る, 昼寝, dan 寝坊 sering dipakai saat menceritakan kegiatan atau kebiasaan pribadi.
+- 曲がる muncul saat menjelaskan rute, misalnya belok kanan atau kiri di jalan.
 
 ## Contoh Kalimat
 
@@ -216,11 +218,16 @@ Peta kata hari ini mengikuti alur: waktu lalu -> orang/hubungan -> perayaan -> g
 
 ## Hal yang Mudah Tertukar
 
-Baca kata sebagai satu blok dulu, terutama pada contoh seperti 昨日 atau 君. Setelah itu cocokkan dengan konteks pelajaran, karena satu kanji bisa berubah fungsi saat masuk kata majemuk.
+| Pasangan | Cara membedakan |
+|---|---|
+| 結婚 / 結局 | Lihat kanji kedua: 婚 (radikal perempuan 女) selalu soal pernikahan. 局 membuat 結局 menjadi kata penutup cerita, artinya akhirnya. |
+| 祝日 / 祝う | 祝日 adalah kata majemuk onyomi (しゅくじつ) untuk hari libur nasional di kalender. 祝う punya okurigana う, dibaca kunyomi いわう, dan berarti tindakan merayakan. |
+| 曲 / 曲がる | Tanpa okurigana, 曲 (きょく) biasanya berarti lagu. Dengan okurigana がる, bacaannya まがる dan artinya berbelok. Cek okurigana dulu sebelum menerjemahkan. |
+| 奥 / 奥さん | 奥 sendiri berarti bagian dalam atau belakang. Begitu diikuti さん, maknanya berubah menjadi istri orang lain, jadi perhatikan apakah ada さん di belakangnya. |
 
 ## Kesalahan Umum
 
-Kesalahan umum: memaksa satu bacaan ke semua kata. Jika ada okurigana seperti る, す, atau い, biasanya bacaan kunyomi lebih mungkin muncul. Jika kata terdiri dari beberapa kanji tanpa okurigana, baca sebagai kata majemuk lebih dulu.
+Jangan memaksa satu bacaan 曲 ke semua kata. 曲 dibaca きょく pada 曲 (lagu) dan 曲線, tetapi まがる pada 曲がる karena ada okurigana. Hal yang sama berlaku untuk 結: けっ pada 結婚 dan 結局, tetapi むすぶ pada 結ぶ. Cek okurigana dan bentuk kata utuh sebelum memilih bacaan.
 
 ## Mini Practice
 
@@ -228,51 +235,52 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti kemarin?"
-optionA: "昨日"
-optionB: "昨年"
-correct: "昨日"
-explanation: "昨日 benar, dibaca きのう, artinya kemarin."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti tahun lalu?"
-optionA: "田中君"
-optionB: "昨年"
-correct: "昨年"
-explanation: "昨年 benar, dibaca さくねん, artinya tahun lalu."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti Tanaka-kun?"
-optionA: "田中君"
-optionB: "結婚"
-correct: "田中君"
-explanation: "田中君 benar, dibaca たなかくん, artinya Tanaka-kun."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti pernikahan?"
-optionA: "結局"
-optionB: "結婚"
+question: "Kemarin saya merayakan pernikahan teman."
+sentence: "昨日、友達の____を祝いました。"
+optionA: "結婚"
+optionB: "婚約"
 correct: "結婚"
-explanation: "結婚 benar, dibaca けっこん, artinya pernikahan."
+explanation: "結婚 benar, dibaca けっこん, artinya pernikahan. 婚約 (こんやく) berarti pertunangan, tahap sebelum menikah, jadi tidak cocok dengan konteks pesta pernikahan."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti tunangan?"
-optionA: "婚約"
-optionB: "祝日"
-correct: "婚約"
-explanation: "婚約 benar, dibaca こんやく. 祝日 adalah pilihan lain dari pelajaran ini, jadi baca arti kata lengkapnya."
+question: "Kata mana yang dibaca さくねん dan berarti tahun lalu?"
+optionA: "昨年"
+optionB: "昨日"
+correct: "昨年"
+explanation: "昨年 benar, dibaca さくねん dengan onyomi 昨. 昨日 justru punya bacaan khusus きのう, jadi jangan menebak bacaannya per kanji."
+---
+::
+
+::MiniPractice
+---
+question: "Kata mana yang berarti hari libur nasional?"
+optionA: "祝日"
+optionB: "結局"
+correct: "祝日"
+explanation: "祝日 benar, dibaca しゅくじつ, artinya hari libur nasional untuk merayakan sesuatu. 結局 (けっきょく) berarti akhirnya dan dipakai untuk menutup cerita, bukan hari di kalender."
+---
+::
+
+::MiniPractice
+---
+question: "Dia tidur larut malam, lalu bangun kesiangan. Kata mana yang berarti bangun kesiangan?"
+optionA: "寝坊"
+optionB: "昼寝"
+correct: "寝坊"
+explanation: "寝坊 benar, dibaca ねぼう, artinya bangun kesiangan. 昼寝 (ひるね) berarti tidur siang yang disengaja, bukan terlambat bangun."
+---
+::
+
+::MiniPractice
+---
+question: "Setelah berpikir lama, akhirnya dia tidak jadi pergi. Kata mana yang berarti akhirnya?"
+optionA: "結局"
+optionB: "結構"
+correct: "結局"
+explanation: "結局 benar, dibaca けっきょく, dipakai untuk kesimpulan akhir sebuah cerita. 結構 (けっこう) berarti cukup baik atau lumayan, meskipun sama-sama diawali 結."
 ---
 ::
 
