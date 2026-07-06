@@ -26,7 +26,7 @@ Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat mem
 Fokus hari ini bukan hanya menghafal arti kata seperti 突然, いきなり, たいてい, dan めったに, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> semua kata ini adalah adverb yang berdiri di depan predikat, jadi baca kata setelahnya. Dua hal yang paling sering menjebak: polaritas dan pasangan yang mirip. ほとんど berubah arti tergantung kalimatnya positif atau negatif (ほとんど残っていない = hampir tidak ada), めったに hampir selalu diikuti bentuk negatif, sedangkan kelompok mendadak (突然／いきなり／とたんに) tidak sama dengan kelompok akhirnya-setelah-proses (やっと／とうとう／ついに／結局).
 </div>
 
 ## Daftar Kata
@@ -91,9 +91,7 @@ Kata keterangan hari ini menjelaskan skala: kapan terjadi, seberapa sering, sebe
   <span>いっぺんに</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang kata keterangan tingkat intensitas: kata intinya bisa berupa 突然, いきなり, dan たいてい; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
-
-
+Satu kalimat sering menumpuk beberapa lapis ini. Misalnya "たいてい朝は突然いっぱい仕事が来る": たいてい memberi frekuensi (biasanya), 突然 memberi waktu (mendadak), dan かなり／ほとんど akan mengukur derajatnya. Urutannya selalu adverb dulu, baru predikat, jadi begitu bertemu 突然, たいてい, atau かなり, langsung cari kata kerja atau kata sifat di belakangnya untuk tahu apa yang sedang diukur.
 
 ## Catatan Pemakaian
 
@@ -105,10 +103,11 @@ Bayangkan kamu sedang membaca atau mendengar situasi tentang kata keterangan tin
 
 ## Pola yang Sering Muncul
 
-- **（Adv）＋（V）:** 突然電話が鳴る.
-- **Adverb + adjective:** かなり難しい.
-- **ほとんど + negative:** ほとんど残っていない.
-- **（N）をいっぺんにV:** melakukan objek sekaligus.
+- **（Adv）＋（V）:** adverb waktu/frekuensi di depan kata kerja — 突然電話が鳴る, たいてい外食する.
+- **（Adv）＋（Adj）:** adverb derajat di depan kata sifat — かなり難しい, ものすごく痛い.
+- **ほとんど／めったに＋（V-negatif）:** polaritas negatif — ほとんど残っていない, めったに来ない.
+- **（N）をいっぺんに（V）:** memproses satu objek sekaligus — 宿題をいっぺんに片付ける.
+- **ぜひ／どうか＋（V-permintaan）:** menguatkan ajakan/permohonan — ぜひ来てください.
 
 ## Contoh Kalimat
 

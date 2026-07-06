@@ -23,36 +23,36 @@ tags:
 
 Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat membaca reservasi, menu, pesanan, rasa, layanan, dan situasi makan di luar.
 
-Fokus hari ini bukan hanya menghafal arti kata seperti ウエートレス, ウエーター, メニュー, dan 子ども連れ, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
+Fokus hari ini bukan hanya menghafal kata restoran seperti メニュー dan 満席, tetapi juga membedakan sudut pandang di sekitar kata 注文: pelanggan 注文する, pesanannya 注文が決まる, dan staf 注文を取る — tiga bentuk yang terjemahannya mirip tetapi pelakunya berbeda.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> perhatikan siapa pelakunya. 子どもを連れる adalah tindakan (membawa anak), sedangkan 子ども連れ adalah nomina untuk pelanggan yang datang bersama anak. Begitu juga 注文が決まる (pesanan sudah jelas, intransitif) vs 注文を取る (staf mengambil pesanan). Ungkapan layanan seperti 何名様ですか dan お待たせいたしました adalah rumus tetap — hafalkan utuh, jangan diterjemahkan kata per kata.
 </div>
 
 ## Daftar Kata
 
-### Istilah Utama
+### Orang, Tempat, dan Benda Restoran
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
 | ウエートレス | ウエートレス | pelayan perempuan; staf restoran |
 | ウエーター | ウエーター | pelayan laki-laki; staf restoran |
-| メニュー | メニュー | menu; sering muncul saat membaca reservasi, menu, pesanan, rasa, layanan, dan situasi makan di luar. |
+| メニュー | メニュー | menu; dibaca sambil memilih sebelum 注文する. |
 | 子ども連れ | こどもづれ | membawa anak; pelanggan dengan anak; 連れ menunjukkan orang yang ikut bersama. |
 | ランチ | ランチ | makan siang; kata serapan |
-| 満席 | まんせき | penuh; tidak ada kursi kosong; sering muncul saat membaca reservasi, menu, pesanan, rasa, layanan, dan situasi makan di luar. |
-| 禁煙席 | きんえんせき | kursi bebas rokok; sering muncul saat membaca reservasi, menu, pesanan, rasa, layanan, dan situasi makan di luar. |
-| 喫煙席 | きつえんせき | kursi merokok; sering muncul saat membaca reservasi, menu, pesanan, rasa, layanan, dan situasi makan di luar. |
+| 満席 | まんせき | penuh; tidak ada kursi kosong; lawan keadaannya すいている. |
+| 禁煙席 | きんえんせき | kursi bebas rokok; 禁 berarti dilarang. |
+| 喫煙席 | きつえんせき | kursi merokok; 喫煙 berarti merokok, lawan dari 禁煙. |
 | コーヒーのおかわり | コーヒーのおかわり | tambah kopi; isi ulang kopi; おかわり berarti tambahan porsi/minuman. |
 
-### Sifat dan Kondisi
+### Sifat, Kondisi, dan Ungkapan Layanan
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
 | 家族そろって（＝家族全員で） | かぞくそろって（＝かぞくぜんいんで） | sekeluarga; bersama seluruh keluarga; そろって berarti semuanya berkumpul. |
 | 雰囲気のいい店 | ふんいきのいいみせ | restoran dengan suasana bagus; 雰囲気 berarti suasana. |
 | 量が多い | りょうがおおい | porsinya banyak; 量 berarti jumlah atau volume. |
-| 量が少ない | りょうがすくない | porsinya sedikit; sering muncul saat membaca reservasi, menu, pesanan, rasa, layanan, dan situasi makan di luar. |
+| 量が少ない | りょうがすくない | porsinya sedikit; lawan dari 量が多い. |
 | 無料／ただ | むりょう／ただ | gratis; 無料 lebih formal daripada ただ. |
 | もったいない | もったいない | sayang; mubazir; dipakai saat sesuatu terbuang sia-sia. |
 | 何名様ですか。 | なんめいさまですか。 | Berapa orang?; ungkapan sopan yang sering dipakai di restoran |
@@ -68,69 +68,73 @@ Fokus hari ini bukan hanya menghafal arti kata seperti ウエートレス, ウ�
 |---|---|---|
 | 子どもを連れる | こどもをつれる | membawa anak; 連れる berarti membawa seseorang ikut bersama. |
 | 腹（＝おなか）がへる | はら（＝おなか）がへる | lapar; 腹 lebih kasual dan lebih langsung daripada おなか |
-| 外食をする | がいしょくをする | makan di luar; sering muncul saat membaca reservasi, menu, pesanan, rasa, layanan, dan situasi makan di luar. |
+| 外食をする | がいしょくをする | makan di luar; 外 berarti luar, 食 berarti makan. |
 | お昼を食べる／昼食をとる | おひるをたべる／ちゅうしょくをとる | makan siang; 昼食 lebih formal daripada お昼. |
 | すいている | すいている | lengang; tidak ramai; lawan kata 混んでいる. |
-| 列に並ぶ | れつにならぶ | antre; sering muncul saat membaca reservasi, menu, pesanan, rasa, layanan, dan situasi makan di luar. |
-| 行列ができる | ぎょうれつができる | antrean terbentuk; sering muncul saat membaca reservasi, menu, pesanan, rasa, layanan, dan situasi makan di luar. |
+| 列に並ぶ | れつにならぶ | antre; berdiri berbaris; に menandai barisan yang dimasuki. |
+| 行列ができる | ぎょうれつができる | antrean terbentuk; が＋できる menandakan antrean muncul dengan sendirinya. |
 | ウエートレスにおすすめを聞く | ウエートレスにおすすめをきく | menanyakan rekomendasi ke pelayan; おすすめ berarti rekomendasi. |
 | 注文が決まる | ちゅうもんがきまる | pesanan sudah diputuskan; bentuk intransitif, jadi fokusnya pada pesanan yang sudah jelas. |
-| 注文する | ちゅうもんする | memesan; sering muncul saat membaca reservasi, menu, pesanan, rasa, layanan, dan situasi makan di luar. |
+| 注文する | ちゅうもんする | memesan; tindakan pelanggan — bandingkan 注文を取る untuk staf. |
 | 注文を取る／受ける | ちゅうもんをとる／うける | menerima pesanan; tindakan yang dilakukan staf restoran. |
 | デザートを追加する | デザートをついかする | menambah pesanan makanan penutup; 追加する berarti menambahkan. |
 | 食器を下げる | しょっきをさげる | membereskan piring; 食器 berarti piring, mangkuk, dan alat makan. |
-| 料理を残す | りょうりをのこす | menyisakan makanan; sering muncul saat membaca reservasi, menu, pesanan, rasa, layanan, dan situasi makan di luar. |
+| 料理を残す | りょうりをのこす | menyisakan makanan; kalau banyak tersisa, terasa もったいない. |
 
 ## Peta Kata
 
 <div class="word-strip">
-  <span>ウエートレス</span>
-  <span>ウエーター</span>
-  <span>メニュー</span>
-  <span>家族そろって（＝家族全員で）</span>
-  <span>子どもを連れる</span>
-  <span>子ども連れ</span>
-  <span>腹（＝おなか）がへる</span>
+  <span>腹がへる</span>
   <span>外食をする</span>
-  <span>お昼を食べる／昼食をとる</span>
-  <span>ランチ</span>
+  <span>家族そろって</span>
+  <span>満席</span>
+  <span>列に並ぶ</span>
+  <span>メニュー</span>
+  <span>注文する</span>
+  <span>おかわり</span>
+  <span>食器を下げる</span>
+  <span>もったいない</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang pergi makan: kata intinya bisa berupa ウエートレス, ウエーター, dan メニュー; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
-
+Ceritanya dimulai saat 腹がへる: kamu memutuskan 外食をする, kali ini 家族そろって dan 子ども連れ. Restoran yang 雰囲気のいい店 sering 満席 sampai 行列ができる, jadi kamu 列に並ぶ — kalau beruntung, tokonya すいている. Setelah duduk di 禁煙席, kamu membuka メニュー dan ウエートレスにおすすめを聞く; begitu 注文が決まる, kamu 注文する dan staf 注文を取る. Porsinya bisa 量が多い atau 量が少ない; kalau kurang, minta コーヒーのおかわり atau デザートを追加する. Terakhir staf 食器を下げる — usahakan jangan 料理を残す, karena もったいない.
 
 ## Catatan Pemakaian
 
-### Istilah Utama
+### Datang ke Restoran
 
-- Kata seperti ウエートレス、ウエーター、メニュー membantu mengenali topik bacaan dengan cepat.
-- Jangan berhenti di arti Indonesia saja; cek apakah kata itu muncul sebagai benda, tempat, tindakan, atau kondisi.
+- Keadaan toko dibaca dari pasangan lawan: 満席 (penuh) vs すいている (lengang), dan 行列ができる saat ramai sampai harus 列に並ぶ.
+- 子ども連れ dan 家族そろって menggambarkan rombongan; keduanya sering muncul di ulasan atau papan informasi restoran.
 
-### Tindakan dan Partikel
+### Alur Pesanan: Siapa Melakukan Apa
 
-- Pola dengan を biasanya menunjukkan objek yang dikenai tindakan.
-- Pola dengan が sering menunjukkan keadaan atau kejadian pada subjek.
-- Pola dengan に atau で sering menunjukkan tujuan, lokasi, alat, atau cara.
+- Pelanggan: メニューを見る → おすすめを聞く → 注文が決まる → 注文する → デザートを追加する.
+- Staf: 注文を取る／受ける → 料理を出す → 食器を下げる.
+- Bentuk が (注文が決まる, 行列ができる) menggambarkan keadaan yang terjadi; bentuk を menggambarkan tindakan orang.
 
-### Membaca dalam Konteks
+### Porsi dan Sisa
 
-- Jika dua kata terjemahannya mirip, lihat kata di sekitarnya dan pola partikelnya.
-- Untuk kata serapan, tetap cek konteks Jepangnya karena maknanya bisa lebih sempit daripada bahasa Indonesia/Inggris.
+- 量が多い／少ない menilai porsi; kalau tidak habis, 料理を残す, dan reaksinya もったいない.
+- おかわり khusus untuk tambahan porsi/minuman yang sama, bukan pesanan baru — pesanan baru memakai 追加する.
+
+### Ungkapan Baku Staf
+
+- 何名様ですか。 dijawab dengan jumlah orang: 2人です。
+- 申し訳ありません、もう少々お待ちください、お待たせいたしました、お待ちどおさま adalah rumus layanan; kamu cukup mengenalinya, tidak perlu membedah tata bahasanya.
 
 ## Pola yang Sering Muncul
 
 | Pola | Arti praktis | Catatan membaca |
 |---|---|---|
-| 家族そろって（＝家族全員で） | sekeluarga; bersama seluruh keluarga | そろって berarti semuanya berkumpul. |
-| 子どもを連れる | membawa anak | 連れる berarti membawa seseorang ikut bersama. |
-| 腹（＝おなか）がへる | lapar | 腹 lebih kasual dan lebih langsung daripada おなか |
-| 外食をする | makan di luar | sering muncul saat membaca reservasi, menu, pesanan, rasa, layanan, dan situasi makan di luar. |
-| お昼を食べる／昼食をとる | makan siang | 昼食 lebih formal daripada お昼. |
-| 雰囲気のいい店 | restoran dengan suasana bagus | 雰囲気 berarti suasana. |
-| すいている | lengang; tidak ramai | lawan kata 混んでいる. |
-| 列に並ぶ | antre | sering muncul saat membaca reservasi, menu, pesanan, rasa, layanan, dan situasi makan di luar. |
+| 家族そろって（V） | sekeluarga melakukan （V） | 家族そろって外食をする |
+| （人）を連れる／連れて行く | membawa （人） ikut | bentuk nominanya 子ども連れ |
+| 腹（おなか）がへる | menjadi lapar | keadaan, memakai が |
+| 列に並ぶ | mengantre | に menandai barisan |
+| 行列ができる | antrean terbentuk | intransitif; antreannya yang muncul |
+| 注文が決まる | pesanan sudah jelas | intransitif, sisi pelanggan |
+| 注文を取る／受ける | menerima pesanan | を: tindakan staf |
+| （N）を追加する | menambah pesanan （N） | デザートを追加する |
 
-Perhatikan pola partikel: `を` menandai objek tindakan, `が` sering menandai keadaan, `に` menunjukkan tujuan atau arah, dan `で` menunjukkan alat, tempat, atau cara.
+Bandingkan tiga kata di sekitar pesanan: 注文する (pelanggan memesan), 注文が決まる (pesanannya sudah diputuskan), 注文を取る (staf menerima). Partikel が vs を plus siapa subjeknya adalah petunjuk utamanya.
 
 ## Contoh Kalimat
 
@@ -146,16 +150,17 @@ Perhatikan pola partikel: `を` menandai objek tindakan, `が` sering menandai k
 
 | Pasangan | Cara membedakan |
 |---|---|
-| ウエートレス / ウエーター | ウエートレス cocok untuk pelayan perempuan; ウエーター cocok untuk pelayan laki-laki. Gunakan kata sekitar dan partikel sebagai petunjuk. |
-| 子どもを連れる / 子ども連れ | 子どもを連れる cocok untuk membawa anak; 子ども連れ cocok untuk membawa anak; pelanggan dengan anak. Gunakan kata sekitar dan partikel sebagai petunjuk. |
-| 腹（＝おなか）がへる / 外食をする | 腹（＝おなか）がへる cocok untuk lapar; 外食をする cocok untuk makan di luar. Gunakan kata sekitar dan partikel sebagai petunjuk. |
-| 外食をする / お昼を食べる／昼食をとる | 外食をする cocok untuk makan di luar; お昼を食べる／昼食をとる cocok untuk makan siang. Gunakan kata sekitar dan partikel sebagai petunjuk. |
+| 子どもを連れる / 子ども連れ | を + 連れる adalah kata kerja (tindakan membawa); 連れ di belakang nomina membentuk kata benda untuk rombongannya. Kalau diikuti のお客さん atau berdiri sendiri sebagai subjek, itu 子ども連れ. |
+| 満席 / すいている | Keduanya soal keramaian tetapi berlawanan: 満席 berarti kursi habis (sering tertulis di pintu), すいている berarti lengang. Lawan sejati すいている adalah 混んでいる. |
+| 注文する / 注文を取る | Lihat subjeknya: pelanggan 注文する, staf 注文を取る／受ける. Kalimat ウエーターが〜 hampir pasti memakai 取る／受ける. |
+| 列に並ぶ / 行列ができる | 列に並ぶ dilakukan orang (kamu yang antre); 行列ができる terjadi sendiri (antreannya terbentuk). が＋できる adalah tanda keadaannya, bukan tindakanmu. |
+| 無料 / ただ | Artinya sama-sama gratis; bedanya register: 無料 dipakai di menu dan tulisan resmi (おかわり無料), ただ dipakai dalam percakapan santai. |
 
 ## Kesalahan Umum
 
-Jangan menerjemahkan kata satu per satu tanpa melihat frasa lengkap. Banyak kata terlihat mirip dalam bahasa Indonesia, tetapi berbeda saat dipasangkan dengan partikel, benda, atau kata kerja tertentu.
+Jangan menerjemahkan ungkapan layanan kata per kata. お待ちどおさま bukan kalimat tentang "jauh" (どお), dan お待たせいたしました bukan sekadar bentuk lampau — semuanya rumus tetap yang artinya "terima kasih/maaf sudah menunggu". Cukup kenali bentuk utuhnya saat membaca atau mendengar.
 
-Strategi cepat: cari dulu kata intinya, lalu cek partikel dan kata kerja di dekatnya. Jika bentuknya frasa kerja, hafalkan bersama pasangan katanya, bukan sebagai kata tunggal.
+Hati-hati juga dengan おかわり: artinya tambahan dari menu yang sama (コーヒーのおかわり), bukan memesan menu baru. Kalau memesan hal lain, kata yang tepat adalah 追加する, seperti デザートを追加する.
 
 ## Mini Practice
 
@@ -163,12 +168,12 @@ Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
 
 ::MiniPractice
 ---
-question: "Pelanggan yang membawa anak masuk."
+question: "Pelanggan yang membawa anak masuk ke restoran."
 sentence: "____のお客さんが入ってきた。"
 optionA: "子ども連れ"
 optionB: "子どもを連れる"
 correct: "子ども連れ"
-explanation: "子ども連れ benar. Ini kata benda untuk orang/kelompok yang membawa anak."
+explanation: "子ども連れ benar. Sebelum のお客さん dibutuhkan nomina; 子どもを連れる adalah bentuk kata kerja."
 ---
 ::
 
@@ -177,9 +182,9 @@ explanation: "子ども連れ benar. Ini kata benda untuk orang/kelompok yang me
 question: "Kamu membawa anak ke restoran."
 sentence: "レストランに子どもを____。"
 optionA: "連れて行く"
-optionB: "連れ"
+optionB: "並ぶ"
 correct: "連れて行く"
-explanation: "連れて行く benar. 子どもを連れて行く adalah tindakan membawa anak pergi bersama."
+explanation: "連れて行く benar. 子どもを連れて行く berarti membawa anak pergi bersama; 並ぶ tidak memakai objek を seperti ini."
 ---
 ::
 
@@ -188,31 +193,31 @@ explanation: "連れて行く benar. 子どもを連れて行く adalah tindakan
 question: "Perut lapar sebelum makan siang."
 sentence: "昼ご飯の前におなかが____。"
 optionA: "へった"
-optionB: "込んだ"
+optionB: "すいていた"
 correct: "へった"
-explanation: "おなかがへった benar. 腹／おなかがへる berarti lapar."
+explanation: "へった benar. おなかがへる berarti lapar; すいている dalam pelajaran ini dipakai untuk toko yang lengang (店がすいている)."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Makan di luar rumah malam ini."
+question: "Malam ini makan di luar rumah."
 sentence: "今夜は____をする。"
 optionA: "外食"
-optionB: "会計"
+optionB: "満席"
 correct: "外食"
-explanation: "外食をする benar. 外食 adalah makan di luar; 会計 adalah pembayaran."
+explanation: "外食をする benar. 外食 berarti makan di luar; 満席 adalah keadaan restoran yang penuh, bukan kegiatan."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pelayan perempuan datang untuk mengambil pesanan."
-sentence: "____が注文を取りに来た。"
-optionA: "ウエートレス"
-optionB: "ウエーター"
-correct: "ウエートレス"
-explanation: "ウエートレス adalah pelayan perempuan; ウエーター pelayan laki-laki."
+question: "Setelah lama melihat menu, pesanan akhirnya diputuskan."
+sentence: "メニューを見て、やっと注文が____。"
+optionA: "決まった"
+optionB: "取った"
+correct: "決まった"
+explanation: "決まった benar. 注文が決まる memakai が karena pesanannya yang menjadi jelas; 取る adalah tindakan staf dan memakai を (注文を取る)."
 ---
 ::
 

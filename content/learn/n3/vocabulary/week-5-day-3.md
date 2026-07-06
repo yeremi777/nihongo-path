@@ -26,7 +26,7 @@ Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat mem
 Fokus hari ini bukan hanya menghafal arti kata seperti かしこい, 礼儀正しい, 積極的な, dan ずるい, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> ini kosakata sifat, jadi bacalah <em>apakah nadanya memuji atau mengkritik</em> dan berhati-hatilah dengan pasangan yang mirip. Lawan kata: 積極的な ↔ 消極的な, かっこいい ↔ かっこ悪い, 頼りになる ↔ 頼りない. Mirip tapi beda: 正直な (jujur) vs 素直な (penurut/apa adanya). Dan satu jebakan: スマートな berarti langsing/stylish, <em>bukan</em> pintar.
 </div>
 
 ## Daftar Kata
@@ -116,7 +116,7 @@ Kosakata ini berhubungan dengan orang -> sifat -> tindakan -> reaksi perasaan. S
   <span>感動</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang orang seperti apa yang disukai?: kata intinya bisa berupa かしこい, まじめな, dan 素直な; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+Saat memuji seseorang, muncul kata seperti かしこい, まじめな, 礼儀正しい, atau 頼りになる, sering dirangkai sebelum nomina 人 (まじめな人, 勇気のある人). Saat mengeluh, nadanya berbalik ke 勝手な, わがままな, いいかげんな, ずるい, だらしない. Kalau si pembicara bereaksi terhadap suatu kejadian, kata sifat berganti menjadi kata kerja perasaan: sebelum ujian 不安になる, mendengar cerita bagus 感動する, hasilnya jelek がっかりする. Jadi cari dulu apakah kalimat menggambarkan sifat orang atau reaksi perasaan.
 
 
 
@@ -209,12 +209,12 @@ explanation: "かしこい人 berarti orang yang cerdas."
 
 ::MiniPractice
 ---
-question: "Sikap egois membuat orang lain kesulitan."
-sentence: "____人は困ります。"
-optionA: "わがままな"
+question: "Tubuhnya ramping dan penampilannya bagus (bukan soal pintar)."
+sentence: "彼女はスタイルがよくて____。"
+optionA: "スマートだ"
 optionB: "かしこい"
-correct: "わがままな"
-explanation: "わがままな人 berarti orang egois/manja; 困ります memberi nuansa negatif."
+correct: "スマートだ"
+explanation: "スマートな berarti langsing/stylish, bukan pintar. Petunjuk スタイルがよくて mengarah ke bentuk tubuh, jadi スマートだ yang cocok; かしこい (cerdas) adalah jebakan false friend."
 ---
 ::
 

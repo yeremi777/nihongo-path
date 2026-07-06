@@ -26,7 +26,7 @@ Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat mem
 Fokus hari ini bukan hanya menghafal arti kata seperti どきどき（する）, わくわく（する）, いらいら（する）, dan ぽろぽろ, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> ini kata tiruan (gitaigo), dan bentuk pemakaiannya menentukan artinya. Yang menggambarkan perasaan biasanya pakai する (どきどきする, いらいらする, わくわくする); yang menggambarkan perubahan menempel pada ～くなる (だんだん寒くなる, ますますおもしろくなる); さまざま justru bukan adverb biasa, melainkan na-adjective sebelum nomina (さまざまなN). Jangan tukar どきどき (gugup) dengan わくわく (antusias) — konteksnya yang membedakan.
 </div>
 
 ## Daftar Kata
@@ -85,9 +85,7 @@ Kata hari ini menjelaskan dinamika: perasaan di dalam tubuh, perubahan tingkat, 
   <span>さまざま</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang kata keterangan perubahan: kata intinya bisa berupa どきどき（する）, わくわく（する）, dan いらいら（する）; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
-
-
+Bayangkan hari wawancara: sebelumnya 胸がどきどきする (jantung berdebar), di ruang tunggu 人がうろうろする (orang mondar-mandir), pewawancara ingin kamu はきはき答える (menjawab tegas), dan setelah lulus 気分がどんどん明るくなる lalu だんだん自信がつく. Perhatikan pasangannya: perasaan → する, perubahan → ～くなる, dan さまざま selalu menempel pada nomina (さまざまな質問). Baca ekor kalimatnya untuk tahu apakah kata itu melukiskan perasaan, perubahan, atau variasi.
 
 ## Catatan Pemakaian
 
@@ -100,10 +98,11 @@ Bayangkan kamu sedang membaca atau mendengar situasi tentang kata keterangan per
 
 ## Pola yang Sering Muncul
 
-- **胸がどきどきする:** が menandai bagian/perasaan yang muncul.
-- **ますますAdjくなる:** semakin menjadi.
-- **だんだんAdjくなる:** perlahan berubah.
-- **さまざまなN:** berbagai macam N.
+- **（N）が＋（gitaigo）する:** perasaan yang muncul — 胸がどきどきする, おなかがぺこぺこする.
+- **ますます＋（Adj）くなる:** perubahan makin kuat — ますますおもしろくなる.
+- **だんだん＋（Adj）くなる:** perubahan bertahap — だんだん寒くなる.
+- **さまざまな＋（N）:** variasi benda — さまざまな商品.
+- **（gitaigo）＋（V）:** cara gerak/bicara — のろのろ走る, ぶつぶつ言う, ぴかぴかにみがく.
 
 ## Contoh Kalimat
 

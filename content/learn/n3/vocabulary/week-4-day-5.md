@@ -26,7 +26,7 @@ Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat mem
 Fokus hari ini bukan hanya menghafal arti kata seperti パソコン, ノートパソコン, デスクトップ（パソコン）, dan キーボード, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> pasangan transitif–intransitif menentukan partikel. ネットにつなぐ berarti kamu aktif menyambungkan sesuatu (transitif), sedangkan 世界中とつながる berarti koneksinya sendiri terwujud (intransitif, memakai と/が). Bedakan juga 開く lawan 閉じる untuk file, serta 新製品 (produk yang baru dirilis), 新品 (barang belum dipakai), dan 中古 (barang bekas).
 </div>
 
 ## Daftar Kata
@@ -70,17 +70,18 @@ Fokus hari ini bukan hanya menghafal arti kata seperti パソコン, ノート�
 
 ## Peta Kata
 
-Kata hari ini dimulai dari perangkat, lalu tindakan dasar, lalu koneksi internet dan kegiatan online. Dalam teks instruksi, objek dengan を biasanya benda yang dioperasikan.
+Ikuti seorang pemula yang belajar memakai komputer dari nol sampai aktif online.
 
 <div class="word-strip">
-  <span>パソコン</span>
+  <span>初心者</span>
   <span>画面</span>
+  <span>ソフト</span>
   <span>ファイル</span>
   <span>ネット</span>
   <span>ブログ</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang menggunakan komputer: kata intinya bisa berupa パソコン, ノートパソコン, dan デスクトップ（パソコン）; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+Seorang 初心者 mulai dengan 初めてパソコンをさわる dan パソコン教室に通う supaya パソコンに慣れる. Ia menyalakan パソコン, melihat 画面, スタートボタンをクリックする, lalu ソフトをインストールする. Untuk membuka berkas ia ファイルを開く dan menutupnya dengan 閉じる. Setelah ネットにつなぐ, ia 情報を得る, 世界中とつながる, ikut オークションに参加する atau 出品する, membuat ホームページ, dan akhirnya ブログを始める.
 
 
 
@@ -134,12 +135,12 @@ explanation: "開く benar karena membuka file; 閉じる menutup."
 
 ::MiniPractice
 ---
-question: "Terhubung ke internet."
-sentence: "ネットに____。"
-optionA: "つなぐ"
-optionB: "さわる"
-correct: "つなぐ"
-explanation: "ネットにつなぐ berarti menyambungkan ke internet."
+question: "Lewat internet, saya terhubung dengan seluruh dunia."
+sentence: "ネットで世界中と____。"
+optionA: "つながる"
+optionB: "つなぐ"
+correct: "つながる"
+explanation: "世界中と tanpa objek を menandai keadaan terhubung, jadi つながる (intransitif). つなぐ transitif dan butuh objek, seperti ネットにつなぐ."
 ---
 ::
 
@@ -156,12 +157,12 @@ explanation: "中古 berarti bekas; 新品 berarti baru/belum dipakai."
 
 ::MiniPractice
 ---
-question: "Laporan ditulis dengan komputer."
-sentence: "____でレポートを書く。"
-optionA: "パソコン"
-optionB: "ノートパソコン"
-correct: "パソコン"
-explanation: "パソコンで menunjukkan alat yang dipakai untuk menulis laporan."
+question: "Ini produk yang baru saja dirilis ke pasar."
+sentence: "これは発売されたばかりの____だ。"
+optionA: "新製品"
+optionB: "中古"
+correct: "新製品"
+explanation: "Petunjuk 発売されたばかり (baru dirilis) menunjuk 新製品. 中古 justru berarti barang bekas."
 ---
 ::
 

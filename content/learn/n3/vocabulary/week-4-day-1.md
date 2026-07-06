@@ -26,7 +26,7 @@ Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat mem
 Fokus hari ini bukan hanya menghafal arti kata seperti 科目, 教科, 得意な, dan 苦手な, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> banyak kata muncul sebagai pasangan berlawanan atau kembar yang mudah tertukar. 得意な科目 (pelajaran yang kamu kuasai) berlawanan dengan 苦手な科目, dan 出席する (hadir) berlawanan dengan 欠席する. Bedakan juga 通学する (ke sekolah) dari 通勤する (ke tempat kerja), serta 科目 (nama pelajaran tertentu) dari 教科 (kategori pelajaran dalam kurikulum).
 </div>
 
 ## Daftar Kata
@@ -64,9 +64,11 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 科目, 教科, 得意な
 | 欠席する | けっせきする | tidak hadir/absen. |
 | バスで通学する | バスでつうがくする | berangkat sekolah dengan bus. |
 | 通勤する | つうきんする | berangkat kerja. |
+| １／２／３学期 | いち／に／さんがっき | semester 1/2/3; pembagian caturwulan sekolah. |
 | 今学期 | こんがっき | semester ini. |
-| 前期 | ぜんき | semester/paruh pertama. |
-| 後期 | こうき | semester/paruh akhir. |
+| 前期 | ぜんき | semester/paruh pertama; sering berpasangan dengan 後期. |
+| 後期 | こうき | semester/paruh akhir; sering berpasangan dengan 前期. |
+| 同じ学年 | おなじがくねん | kelas/angkatan yang sama; 学年 berarti tingkat/tahun sekolah. |
 | 自習する | じしゅうする | belajar sendiri. |
 
 ### Alat dan Hitungan
@@ -84,17 +86,18 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 科目, 教科, 得意な
 
 ## Peta Kata
 
-Kata hari ini bergerak dari sekolah -> pelajaran -> jadwal -> tindakan kelas -> hitungan. Saat membaca kalimat, cari dulu apakah topiknya mata pelajaran, kegiatan siswa, atau operasi hitung.
+Ikuti satu hari sekolah: siswa 入学する, membuka 時間割 pagi itu, lalu 出席する ke kelas.
 
 <div class="word-strip">
-  <span>科目</span>
   <span>時間割</span>
   <span>出席する</span>
-  <span>通学する</span>
+  <span>得意な科目</span>
+  <span>昼休み</span>
   <span>計算</span>
+  <span>通学する</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang pergi ke sekolah (1): kata intinya bisa berupa 科目, 教科, dan 得意な; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+Setelah masuk kelas, pelajaran bisa terasa 得意な科目 seperti 音楽 atau 苦手な科目 seperti 理科. Saat 昼休み siswa makan お弁当 atau 給食. Di jam 算数 mereka berlatih 足し算, 引き算, かけ算, dan 割り算, mengukur dengan 定規, lalu 合計を出す. Untuk pulang-pergi, sebagian siswa バスで通学する — bandingkan dengan orang dewasa yang 通勤する ke kantor.
 
 
 
@@ -171,12 +174,12 @@ explanation: "合計を出す adalah kolokasi untuk mendapatkan total."
 
 ::MiniPractice
 ---
-question: "Mata pelajaran yang saya kuasai adalah matematika."
-sentence: "得意な____は数学です。"
+question: "Mata pelajaran yang saya kuasai adalah musik."
+sentence: "得意な____は音楽です。"
 optionA: "科目"
 optionB: "教科"
 correct: "科目"
-explanation: "科目 cocok untuk nama mata pelajaran tertentu seperti 数学."
+explanation: "科目 cocok untuk satu nama pelajaran tertentu seperti 音楽. 教科 lebih untuk kategori pelajaran dalam kurikulum."
 ---
 ::
 

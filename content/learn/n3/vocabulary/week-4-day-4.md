@@ -26,7 +26,7 @@ Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat mem
 Fokus hari ini bukan hanya menghafal arti kata seperti 仕事, レストランでバイト／アルバイト, 工場でパート, dan コンビニの店員, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> perhatikan pasangan pelaku vs penerima dan transitif vs intransitif. 雇う (mempekerjakan) adalah sudut pandang perusahaan, 雇われる (dipekerjakan) sudut pandang pekerja. Untuk uang, お金をもうける memakai を (seseorang meraih untung), sedangkan お金がもうかる memakai が (uangnya bertambah dengan sendirinya). Bandingkan juga 稼ぐ (dapat uang dari kerja) dengan もうける (fokus pada untung).
 </div>
 
 ## Daftar Kata
@@ -76,17 +76,18 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 仕事, レストラン�
 
 ## Peta Kata
 
-Urutkan kata kerja sebagai proses kerja: 仕事を探す -> 履歴書を書く -> 面接をする -> 雇われる -> 勤務する -> 給料をもらう. Kata seperti 首になる dan 辞めさせられる muncul saat hubungan kerja berakhir.
+Susun kata kerja mengikuti proses mencari dan menjalani pekerjaan.
 
 <div class="word-strip">
-  <span>仕事</span>
+  <span>仕事を探す</span>
   <span>履歴書</span>
   <span>面接</span>
+  <span>雇われる</span>
   <span>給料</span>
-  <span>勤務時間</span>
+  <span>首になる</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang bekerja: kata intinya bisa berupa 仕事, レストランでバイト／アルバイト, dan 工場でパート; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+Mula-mula seseorang 仕事を探す, menulis 履歴書, lalu 面接をする. Kalau perusahaan 雇う-nya, ia 雇われる sebagai misalnya コンビニの店員 atau ホテルの従業員. Ia bekerja pada 勤務時間 tertentu, menerima 給料 dan mungkin ボーナス, dan senang kalau 交通費が出る. Orang yang 働き者 rajin 稼ぐ, sedangkan yang suka 仕事をなまける disebut なまけ者. Kalau hubungan kerja berakhir buruk, ia bisa 首になる atau 辞めさせられる.
 
 
 
@@ -162,23 +163,23 @@ explanation: "履歴書を書く adalah kolokasi untuk menulis CV."
 
 ::MiniPractice
 ---
-question: "Seseorang sedang mencari pekerjaan baru."
-sentence: "新しい____を探す。"
-optionA: "仕事"
-optionB: "レストランでバイト／アルバイト"
-correct: "仕事"
-explanation: "仕事を探す adalah kolokasi untuk mencari pekerjaan."
+question: "Toko ini menghasilkan uang tiap bulan; uangnya bertambah sendiri."
+sentence: "この店は毎月お金が____。"
+optionA: "もうかる"
+optionB: "もうける"
+correct: "もうかる"
+explanation: "Partikel が menandai uang sebagai subjek yang bertambah sendiri, jadi memakai もうかる (intransitif). もうける butuh objek dengan を: お金をもうける."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Pada akhir pekan saya bekerja paruh waktu di restoran."
-sentence: "週末は____をしている。"
-optionA: "レストランでバイト／アルバイト"
-optionB: "仕事"
-correct: "レストランでバイト／アルバイト"
-explanation: "レストランで memberi tempat kerja, dan バイト／アルバイト menunjukkan kerja paruh waktu."
+question: "Saya dipekerjakan oleh restoran itu."
+sentence: "あのレストランに____。"
+optionA: "雇われた"
+optionB: "雇った"
+correct: "雇われた"
+explanation: "Dari sudut pandang pekerja, 雇われる (pasif) yang benar; に menandai pihak yang mempekerjakan. 雇う adalah sudut pandang perusahaan."
 ---
 ::
 

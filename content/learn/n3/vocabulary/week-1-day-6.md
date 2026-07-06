@@ -23,10 +23,10 @@ tags:
 
 Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat membaca sifat anak atau hewan peliharaan, tindakan merawat, dan situasi pengasuhan sehari-hari.
 
-Fokus hari ini bukan hanya menghafal arti kata seperti 世話, 散歩している犬, 甘やかす, dan おんぶする, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
+Fokus hari ini bukan hanya menghafal kata kerja merawat seperti 甘やかす dan かわいがる, tetapi juga membedakan kata sifat watak yang mirip bunyi atau mirip arti: かわいらしい vs かわいそうな, 利口な vs 生意気な, serta perbedaan tingkat bahasa antara えさをやる dan えさを与える.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> jangan tertipu bunyi yang mirip — かわいらしい berarti menggemaskan, tetapi かわいそうな berarti kasihan. Perhatikan juga tingkat bahasa: 犬にえさをやる wajar dalam percakapan, sedangkan 与える terasa lebih formal/tulisan; dan posisi menggendong: 抱っこする di depan, おんぶする di punggung.
 </div>
 
 ## Daftar Kata
@@ -38,20 +38,20 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 世話, 散歩してい�
 | 世話 | せわ | perawatan / mengurus; 子どもの世話をする |
 | 散歩している犬 | さんぽしているいぬ | anjing yang sedang diajak jalan; 散歩する berarti berjalan-jalan. |
 | 甘やかす | あまやかす | memanjakan; 子どもを甘やかす |
-| おんぶする | おんぶする | menggendong di punggung; baca bersama objek dan partikelnya. |
+| おんぶする | おんぶする | menggendong di punggung; pasangannya 抱っこする (di depan). |
 | 抱っこする | だっこする | menggendong di depan; biasanya untuk bayi, anak kecil, atau hewan peliharaan |
 | ほえる | ほえる | menggonggong; menggonggong seperti anjing |
 | しっぽを振る | しっぽをふる | mengibas-ngibaskan ekor; 振る berarti mengayunkan atau menggoyangkan. |
 | 人になれる | ひとになれる | jinak/terbiasa dengan manusia; 慣れる berarti menjadi terbiasa |
-| うなる | うなる | menggeram; baca bersama objek dan partikelnya. |
+| うなる | うなる | menggeram; suara ancaman anjing, kebalikan suasana dari しっぽを振る. |
 | 穴を掘る | あなをほる | menggali lubang; 掘る berarti menggali. |
 | 穴をうめる | あなをうめる | menutup lubang; juga bisa ditulis 埋める |
 | 子どもが成長する | こどもがせいちょうする | anak tumbuh; 成長する berarti tumbuh atau berkembang. |
 | 頭をなでる | あたまをなでる | mengelus kepala; なでる berarti mengusap dengan lembut. |
 | お尻をたたく | おしりをたたく | menepuk/memukul pantat; di pelajaran ini juga muncul ぶつ |
 | お尻をぶつ | おしりをぶつ | memukul pantat; ぶつ berarti memukul. |
-| いたずらをする | いたずらをする | berbuat nakal; sering muncul saat membaca sifat anak atau hewan peliharaan, tindakan merawat, dan situasi pengasuhan sehari-hari. |
-| 手をつなぐ | てをつなぐ | bergandengan tangan; baca bersama objek dan partikelnya. |
+| いたずらをする | いたずらをする | berbuat nakal / jahil; pelakunya anak atau hewan; bentuk sifatnya いたずらな. |
+| 手をつなぐ | てをつなぐ | bergandengan tangan; lawannya 手をはなす saat melepaskan. |
 | はなす | はなす | melepaskan; untuk arti ini biasanya ditulis 離す |
 | 子どもが迷子になる | こどもがまいごになる | anak tersesat; 迷子 berarti orang, terutama anak, yang tersesat. |
 | 子どもが母親の後をついていく | こどもがははおやのあとをついていく | anak mengikuti ibunya; 後をついていく berarti mengikuti dari belakang. |
@@ -64,9 +64,9 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 世話, 散歩してい�
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| 子ども | こども | anak; sering muncul saat membaca sifat anak atau hewan peliharaan, tindakan merawat, dan situasi pengasuhan sehari-hari. |
-| ペット | ペット | hewan peliharaan; sering muncul saat membaca sifat anak atau hewan peliharaan, tindakan merawat, dan situasi pengasuhan sehari-hari. |
-| 犬 | いぬ | anjing; sering muncul saat membaca sifat anak atau hewan peliharaan, tindakan merawat, dan situasi pengasuhan sehari-hari. |
+| 子ども | こども | anak; muncul dalam 子どもの世話をする dan 子どもが迷子になる. |
+| ペット | ペット | hewan peliharaan; dipakai dengan 飼う dan 世話をする. |
+| 犬 | いぬ | anjing; subjek khas untuk ほえる, うなる, dan しっぽを振る. |
 | 育児 | いくじ | pengasuhan anak; lebih formal daripada 子育て. |
 | 子育て | こそだて | membesarkan anak; lebih sehari-hari daripada 育児. |
 | 幼児 | ようじ | anak kecil / balita; 幼い子ども |
@@ -81,13 +81,13 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 世話, 散歩してい�
 | 利口な | りこうな | pintar; sering untuk anak-anak atau hewan |
 | かしこい | かしこい | pintar / cerdas; mirip dengan 利口な |
 | 人なつっこい | ひとなつっこい | mudah akrab; juga bisa ditulis 人なつこい |
-| わがままな | わがままな | egois / semaunya sendiri; sering muncul saat membaca sifat anak atau hewan peliharaan, tindakan merawat, dan situasi pengasuhan sehari-hari. |
+| わがままな | わがままな | egois / semaunya sendiri; sering muncul sebagai akibat 甘やかす: わがままに育つ. |
 | 生意気な | なまいきな | sok tahu / kurang ajar; sering bernuansa negatif |
 | 生意気な態度 | なまいきなたいど | sikap kurang ajar; 態度 berarti sikap. |
 | かわいがる | かわいがる | menyayangi; sering diarahkan kepada anak-anak atau hewan peliharaan |
 | わがままに育つ | わがままにそだつ | tumbuh manja/egois; 育つ berarti tumbuh atau dibesarkan. |
 | えらい | えらい | hebat / pintar; juga dipakai untuk memuji anak-anak |
-| いたずらな | いたずらな | nakal / jahil; sering muncul saat membaca sifat anak atau hewan peliharaan, tindakan merawat, dan situasi pengasuhan sehari-hari. |
+| いたずらな | いたずらな | nakal / jahil; bentuk kata sifat dari いたずらをする. |
 
 ## Peta Kata
 
@@ -104,41 +104,46 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 世話, 散歩してい�
   <span>かしこい</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang merawat anak dan hewan peliharaan: kata intinya bisa berupa 世話, 散歩している犬, dan 甘やかす; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+Kata payungnya adalah 世話をする. Kepada anak, bentuknya 抱っこする atau おんぶする, 頭をなでる, dan 手をつなぐ — tetapi kalau berlebihan menjadi 甘やかす, dan anaknya わがままに育つ. Kepada anjing, bentuknya 飼う, 散歩に連れていく, dan えさをやる／与える; reaksi anjingnya terbaca dari ほえる, うなる, しっぽを振る, sampai akhirnya 人になれる. Kata sifat seperti 行儀がいい, 利口な, 人なつっこい, atau 生意気な menilai hasil perawatan itu.
 
 
 ## Catatan Pemakaian
 
-### Istilah Utama
+### Kata Payung Pengasuhan
 
-- Kata seperti 世話、子ども、ペット membantu mengenali topik bacaan dengan cepat.
-- Jangan berhenti di arti Indonesia saja; cek apakah kata itu muncul sebagai benda, tempat, tindakan, atau kondisi.
+- （N）の世話をする bisa dipakai untuk anak maupun hewan; 育児 (formal) dan 子育て (sehari-hari) khusus untuk anak.
+- 幼児 lebih formal daripada 小さい子ども dan sering muncul di teks tertulis.
 
-### Tindakan dan Partikel
+### Tindakan kepada Anak
 
-- Pola dengan を biasanya menunjukkan objek yang dikenai tindakan.
-- Pola dengan が sering menunjukkan keadaan atau kejadian pada subjek.
-- Pola dengan に atau で sering menunjukkan tujuan, lokasi, alat, atau cara.
+- Menggendong dibedakan posisinya: 抱っこする di depan, おんぶする di punggung.
+- 頭をなでる dan 手をつなぐ adalah tindakan sayang; 甘やかす sudah bernuansa negatif (terlalu memanjakan), dan お尻をたたく／ぶつ adalah hukuman fisik.
 
-### Membaca dalam Konteks
+### Tindakan dan Perilaku Anjing
 
-- Jika dua kata terjemahannya mirip, lihat kata di sekitarnya dan pola partikelnya.
-- Untuk kata serapan, tetap cek konteks Jepangnya karena maknanya bisa lebih sempit daripada bahasa Indonesia/Inggris.
+- Pemiliknya: 犬を飼う, 散歩に連れていく, えさをやる／与える.
+- Anjingnya: ほえる (menggonggong), うなる (menggeram), しっぽを振る (senang), 穴を掘る, lalu lama-lama 人になれる.
+
+### Tingkat Bahasa dan Nuansa
+
+- えさをやる kasual dan normal untuk hewan; 与える lebih formal dan sering muncul di teks tertulis.
+- 利口な dan かしこい sama-sama "pintar"; 利口 sering untuk anak dan hewan yang penurut.
+- えらい dipakai orang dewasa untuk memuji anak; 生意気な sebaliknya, mengkritik sikap yang sok dewasa.
 
 ## Pola yang Sering Muncul
 
 | Pola | Arti praktis | Catatan membaca |
 |---|---|---|
-| 世話 | perawatan / mengurus | 子どもの世話をする |
-| 散歩している犬 | anjing yang sedang diajak jalan | 散歩する berarti berjalan-jalan. |
-| 行儀がいい | sopan / berperilaku baik | untuk anak-anak, hewan peliharaan, atau orang |
-| わがままな | egois / semaunya sendiri | sering muncul saat membaca sifat anak atau hewan peliharaan, tindakan merawat, dan situasi pengasuhan sehari-hari. |
-| 生意気な態度 | sikap kurang ajar | 態度 berarti sikap. |
-| 甘やかす | memanjakan | 子どもを甘やかす |
-| かわいがる | menyayangi | sering diarahkan kepada anak-anak atau hewan peliharaan |
-| おんぶする | menggendong di punggung | baca bersama objek dan partikelnya. |
+| （N）の世話をする | merawat / mengurus （N） | 子どもの世話, 犬の世話 |
+| （N）を飼う | memelihara （N） | 犬を飼う; khusus hewan |
+| 散歩に連れていく | mengajak jalan-jalan | untuk anjing atau anak |
+| （N）にえさをやる／与える | memberi makan （N） | やる kasual, 与える formal |
+| （N）を甘やかす | memanjakan （N） | akibatnya わがままに育つ |
+| しっぽを振る | mengibaskan ekor | tanda anjing senang |
+| 人になれる | jinak / terbiasa dengan manusia | に menandai sasaran pembiasaan |
+| 迷子になる | menjadi tersesat | 子どもが迷子になる |
 
-Perhatikan pola partikel: `を` menandai objek tindakan, `が` sering menandai keadaan, `に` menunjukkan tujuan atau arah, dan `で` menunjukkan alat, tempat, atau cara.
+Perhatikan pola partikel: `を` menandai pihak yang dirawat atau dikenai tindakan (犬を飼う, 子どもを甘やかす), `に` menandai penerima atau sasaran (犬にえさをやる, 人になれる), dan bentuk （N）の世話をする memakai の untuk menghubungkan siapa yang diurus.
 
 ## Contoh Kalimat
 
@@ -154,16 +159,17 @@ Perhatikan pola partikel: `を` menandai objek tindakan, `が` sering menandai k
 
 | Pasangan | Cara membedakan |
 |---|---|
-| かわいらしい / かわいそうな | かわいらしい cocok untuk lucu / menggemaskan; かわいそうな cocok untuk kasihan. Gunakan kata sekitar dan partikel sebagai petunjuk. |
-| 利口な / かしこい | 利口な cocok untuk pintar; かしこい cocok untuk pintar / cerdas. Gunakan kata sekitar dan partikel sebagai petunjuk. |
-| 生意気な / 生意気な態度 | 生意気な cocok untuk sok tahu / kurang ajar; 生意気な態度 cocok untuk sikap kurang ajar. Gunakan kata sekitar dan partikel sebagai petunjuk. |
-| 穴を掘る / 穴をうめる | 穴を掘る cocok untuk menggali lubang; 穴をうめる cocok untuk menutup lubang. Gunakan kata sekitar dan partikel sebagai petunjuk. |
+| かわいらしい / かわいそうな | Bunyinya mirip, artinya jauh: かわいらしい memuji (menggemaskan), かわいそうな berempati (kasihan). Kalau konteksnya luka, kehilangan, atau kesulitan, hampir pasti かわいそう. |
+| 抱っこする / おんぶする | Lihat posisi: 抱っこ menggendong di depan/dada, おんぶ di punggung. Kalimat tentang berbelanja atau berjalan jauh sering memakai おんぶ karena tangan tetap bebas. |
+| やる / 与える | Artinya sama (memberi ke pihak yang lebih rendah), bedanya tingkat bahasa: えさをやる untuk percakapan, えさを与える untuk tulisan atau aturan (misalnya papan larangan di taman). |
+| 利口な / かしこい | Keduanya "pintar" dan sering bisa saling menggantikan; 利口 lebih sering untuk anak atau hewan yang penurut, かしこい lebih luas sampai orang dewasa. |
+| 穴を掘る / 穴をうめる | Arahnya berlawanan: 掘る membuat lubang, うめる menutupnya kembali. Kanji 掘 berbagian tangan (扌) — pekerjaan menggali. |
 
 ## Kesalahan Umum
 
-Jangan menerjemahkan kata satu per satu tanpa melihat frasa lengkap. Banyak kata terlihat mirip dalam bahasa Indonesia, tetapi berbeda saat dipasangkan dengan partikel, benda, atau kata kerja tertentu.
+Jangan menyamakan かわいそう dengan かわいい: artinya "kasihan", bukan "imut". Kesalahan sebaliknya juga sering terjadi — memuji anak orang dengan かわいそうですね akan terdengar seperti menghina.
 
-Strategi cepat: cari dulu kata intinya, lalu cek partikel dan kata kerja di dekatnya. Jika bentuknya frasa kerja, hafalkan bersama pasangan katanya, bukan sebagai kata tunggal.
+Hati-hati juga dengan やる: wajar untuk hewan (犬にえさをやる), tetapi kasar kalau dipakai untuk orang — kepada anak biasanya ご飯をあげる. Dan 飼う hanya untuk hewan; "membesarkan anak" memakai 育てる atau 子育てをする.
 
 ## Mini Practice
 
@@ -182,23 +188,23 @@ explanation: "かわいらしい benar. Ini memuji kesan lucu/menggemaskan; か�
 
 ::MiniPractice
 ---
-question: "Anak itu pintar untuk usianya."
-sentence: "____子どもだ。"
-optionA: "利口な"
-optionB: "生意気な"
-correct: "利口な"
-explanation: "利口な benar. 利口な sering dipakai untuk anak atau hewan yang pintar."
+question: "Keluarga itu memelihara seekor anjing."
+sentence: "あの家族は犬を____います。"
+optionA: "飼って"
+optionB: "なれて"
+correct: "飼って"
+explanation: "飼って benar. 飼う adalah kata kerja khusus memelihara hewan; なれる dipakai dalam pola 犬が人になれる (anjingnya yang terbiasa)."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Itu sikap yang sok tahu dan kurang ajar."
-sentence: "____態度だ。"
-optionA: "生意気な"
-optionB: "かわいらしい"
-correct: "生意気な"
-explanation: "生意気な benar. Ini bernuansa negatif untuk sikap yang kurang ajar atau sok dewasa."
+question: "Bayi digendong di punggung supaya tangan tetap bebas saat berbelanja."
+sentence: "赤ちゃんを____して、買い物に行きました。"
+optionA: "おんぶ"
+optionB: "抱っこ"
+correct: "おんぶ"
+explanation: "おんぶ benar. Petunjuknya \"di punggung\" dan tangan yang bebas; 抱っこ berarti menggendong di depan sehingga tangan terpakai."
 ---
 ::
 

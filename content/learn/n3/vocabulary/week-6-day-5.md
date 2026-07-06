@@ -26,7 +26,7 @@ Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat mem
 Fokus hari ini bukan hanya menghafal arti kata seperti 大学を出る, 元気が出る, 運転免許を取る, dan 声をかける, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> satu kata kerja (出る, 取る, かかる, かける) berganti arti mengikuti nomina dan partikelnya, jadi baca frasa penuh, bukan kata kerjanya saja — 大学を出る = lulus, bukan sekadar "keluar". Banyak yang berpasangan intransitif–transitif: が berarti keadaannya terjadi sendiri (食事が出る, 鍵がかかる, 連絡が取れる), を berarti ada pelakunya (食事を出す, 鍵をかける, 連絡を取る).
 </div>
 
 ## Daftar Kata
@@ -97,9 +97,7 @@ Makna kata kerja ditentukan oleh pasangan: universitas + を出る, rapat + に�
   <span>声をかける</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang kata kerja bermakna ganda (1): kata intinya bisa berupa 大学を出る, 会社に入る, dan 試合に出る; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
-
-
+Perhatikan bagaimana 出る sendiri berpindah makna: 大学を出る (lulus), 会議に出る (hadir), 元気が出る (jadi bersemangat), 角を曲がると駅に出る (tembus ke stasiun) — partikel を／に／が-lah yang mengubahnya. Pola yang sama berlaku untuk 取る (免許を取る = dapat, 連絡を取る = hubungi) dan かかる／かける (時間がかかる = perlu waktu, 電話をかける = menelepon). Selalu pasangkan kata kerja dengan nomina dan partikel di depannya sebelum menebak artinya.
 
 ## Catatan Pemakaian
 
@@ -181,12 +179,12 @@ explanation: "時間がかかる berarti memerlukan waktu."
 
 ::MiniPractice
 ---
-question: "Setelah lulus universitas, kakak mulai bekerja."
-sentence: "兄は大学を____から働いた。"
-optionA: "出て"
-optionB: "入って"
-correct: "出て"
-explanation: "大学を出る berarti lulus dari universitas. Sebelum から dalam urutan peristiwa, bentuknya menjadi 出てから."
+question: "Pintunya terkunci."
+sentence: "ドアに鍵が____。"
+optionA: "かかっている"
+optionB: "かけている"
+correct: "かかっている"
+explanation: "かかっている benar karena partikel が menandai keadaan yang terjadi sendiri (鍵がかかっている = terkunci). Bentuk を-nya adalah 鍵をかける, yaitu ada orang yang mengunci."
 ---
 ::
 

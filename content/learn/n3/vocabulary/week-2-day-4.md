@@ -1,6 +1,6 @@
 ---
 title: "車に乗りましょう①"
-description: "Belajar kosakata N3 untuk membaca arah jalan, rambu, kondisi lalu lintas, parkir, dan kebiasaan naik mobil."
+description: "Belajar kosakata N3 untuk mengenali bagian-bagian mobil, persiapan berkendara, dan tindakan saat mengemudi."
 level: "N3"
 category: "vocabulary"
 topic: "車に乗りましょう①"
@@ -21,17 +21,17 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat membaca arah jalan, rambu, kondisi lalu lintas, parkir, dan kebiasaan naik mobil.
+Di akhir pelajaran ini, kamu bisa mengenali nama bagian-bagian mobil, kosakata persiapan berkendara, dan frasa tindakan yang dipakai saat mengemudi.
 
-Fokus hari ini bukan hanya menghafal arti kata seperti フロントガラス, ワイパー, ボンネット, dan ライト, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
+Fokus hari ini bukan hanya menghafal nama benda seperti フロントガラス dan ハンドル, tetapi juga menghafal pasangan kata kerjanya: エンジンをかける, シートベルトを締める, アクセルを踏む — pasangan-pasangan tetap yang tidak bisa saling ditukar.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> kata kerja "menyalakan/mengoperasikan" dalam bahasa Indonesia terpecah menjadi beberapa kata Jepang yang terikat objeknya: エンジンをかける dan ブレーキをかける (かける), ライトをつける (つける), ワイパーを動かす (動かす), アクセルを踏む (踏む). Hafalkan sebagai satu paket benda + kata kerja. Waspadai juga kata serapan palsu: ハンドル berarti setir, bukan gagang pintu.
 </div>
 
 ## Daftar Kata
 
-### Istilah Utama
+### Bagian Luar Mobil
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
@@ -39,19 +39,29 @@ Fokus hari ini bukan hanya menghafal arti kata seperti フロントガラス, �
 | ワイパー | ワイパー | wiper mobil; alat penyapu air pada kaca mobil. |
 | ボンネット | ボンネット | kap mesin; bagian depan yang menutup mesin mobil. |
 | ライト | ライト | lampu depan; bagian mobil untuk penerangan. |
-| バックミラー | バックミラー | kaca spion tengah; untuk kaca spion mobil dipakai ミラー |
+| タイヤ | タイヤ | ban; bagian mobil. |
+| トランク | トランク | bagasi mobil; ruang penyimpanan di mobil. |
 | サイドミラー | サイドミラー | kaca spion samping; untuk kaca spion mobil dipakai ミラー |
+
+### Bagian Dalam Mobil
+
+| Japanese | Reading | Arti & Catatan |
+|---|---|---|
+| バックミラー | バックミラー | kaca spion tengah; untuk kaca spion mobil dipakai ミラー |
 | 運転席 | うんてんせき | kursi pengemudi; 運転 berarti mengemudi. |
 | 助手席 | じょしゅせき | kursi penumpang depan; berada di samping pengemudi. |
-| トランク | トランク | bagasi mobil; ruang penyimpanan di mobil. |
-| タイヤ | タイヤ | ban; bagian mobil. |
 | カーナビ | カーナビ | navigasi mobil; bentuk pendek dari カーナビゲーション. |
 | ハンドル | ハンドル | setir; di konteks lain juga bisa berarti pegangan |
 | キー | キー | kunci mobil; kunci; kata serapan |
+
+### Dokumen dan Situasi
+
+| Japanese | Reading | Arti & Catatan |
+|---|---|---|
 | 運転免許証 | うんてんめんきょしょう | SIM; surat izin mengemudi; 免許証 berarti surat izin atau lisensi. |
 | 急ブレーキ | きゅうブレーキ | rem mendadak; 急 menunjukkan sesuatu yang tiba-tiba. |
 
-### Tindakan dan Pola
+### Tindakan Berkendara
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
@@ -74,53 +84,59 @@ Fokus hari ini bukan hanya menghafal arti kata seperti フロントガラス, �
 ## Peta Kata
 
 <div class="word-strip">
-  <span>フロントガラス</span>
-  <span>ワイパー</span>
-  <span>ボンネット</span>
-  <span>ライト</span>
-  <span>バックミラー</span>
-  <span>サイドミラー</span>
-  <span>運転席</span>
-  <span>助手席</span>
-  <span>トランク</span>
-  <span>タイヤ</span>
+  <span>レンタカーを借りる</span>
+  <span>トランクに荷物を積む</span>
+  <span>シートベルトを締める</span>
+  <span>エンジンをかける</span>
+  <span>バックミラーで確認する</span>
+  <span>ハンドルを握る</span>
+  <span>アクセルを踏む</span>
+  <span>ライトをつける</span>
+  <span>高速道路に乗る</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang naik mobil (1): kata intinya bisa berupa フロントガラス, ワイパー, dan ボンネット; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
-
+Kata-kata hari ini tersusun mengikuti urutan satu kali berkendara. Persiapan: レンタカーを借りる, トランクに荷物を積む, lalu 人を乗せる — pengemudi di 運転席, teman di 助手席. Sebelum jalan: シートベルトを締める, キー di tangan, エンジンをかける, dan バックミラーで確認する. Saat mengemudi: ハンドルを握る, アクセルを踏む untuk melaju, ブレーキをかける untuk berhenti (kalau mendadak: 急ブレーキ); hujan berarti ワイパーを動かす agar フロントガラス tetap jelas, malam berarti ライトをつける. Perjalanan jauh: ガソリンスタンドに寄る dulu, lalu 高速道路に乗る sambil melirik カーナビ — dan semoga tidak タイヤがパンクする di tengah jalan.
 
 ## Catatan Pemakaian
 
-### Istilah Utama
+### Bagian Mobil Hampir Semuanya Kata Serapan
 
-- Kata seperti フロントガラス、ワイパー、ボンネット membantu mengenali topik bacaan dengan cepat.
-- Jangan berhenti di arti Indonesia saja; cek apakah kata itu muncul sebagai benda, tempat, tindakan, atau kondisi.
+- フロントガラス, ワイパー, ボンネット, ライト, タイヤ, トランク, カーナビ, ハンドル, キー — semuanya dari bahasa Inggris, tetapi beberapa bergeser makna (lihat bagian tertukar).
+- Untuk kaca spion dipakai ミラー: バックミラー (tengah, melihat ke belakang) dan サイドミラー (samping).
+- Yang bukan serapan justru kata resmi: 運転席, 助手席, 運転免許証.
 
-### Tindakan dan Partikel
+### Pasangan Benda + Kata Kerja
 
-- Pola dengan を biasanya menunjukkan objek yang dikenai tindakan.
-- Pola dengan が sering menunjukkan keadaan atau kejadian pada subjek.
-- Pola dengan に atau で sering menunjukkan tujuan, lokasi, alat, atau cara.
+- かける: エンジンをかける (menyalakan mesin), ブレーキをかける (mengerem) — objek berbeda, arti berbeda.
+- つける: ライトをつける; 踏む: アクセルを踏む; 締める: シートベルトを締める; 握る: ハンドルを握る; 動かす: ワイパーを動かす.
+- Pasangan ini tetap; mengganti kata kerjanya (misalnya エンジンをつける) terdengar tidak alami.
 
-### Membaca dalam Konteks
+### Orang dan Barang di Mobil
 
-- Jika dua kata terjemahannya mirip, lihat kata di sekitarnya dan pola partikelnya.
-- Untuk kata serapan, tetap cek konteks Jepangnya karena maknanya bisa lebih sempit daripada bahasa Indonesia/Inggris.
+- 人を乗せる: pengemudi membuat orang lain ikut naik (transitif); bandingkan dengan 車に乗る (kamu sendiri yang naik).
+- 荷物を積む dipakai untuk memuat barang; tempatnya ditandai に: トランクに荷物を積む.
+
+### Kondisi dan Masalah
+
+- タイヤがパンクする memakai が karena kejadiannya menimpa ban, bukan tindakan pengemudi.
+- 急ブレーキ menggabungkan 急 (mendadak) + ブレーキ; sering muncul dalam 急ブレーキをかける.
 
 ## Pola yang Sering Muncul
 
-| Pola | Arti praktis | Catatan membaca |
+| Pola | Arti praktis | Contoh konteks |
 |---|---|---|
-| ドライブをする | berkendara; jalan-jalan naik mobil | kata serapan |
-| レンタカーを借りる | menyewa mobil | レンタカー adalah mobil sewaan. |
-| トランクに荷物を積む | memuat barang ke bagasi mobil | 積む berarti menumpuk atau memuat barang. |
-| 人を乗せる | memberi tumpangan kepada orang | 乗せる berarti membuat orang naik kendaraan. |
-| シートベルトを締める | mengencangkan sabuk pengaman | 締める berarti mengencangkan atau mengikat. |
-| エンジンをかける | menyalakan mesin | かける punya banyak makna, jadi baca bersama objeknya. |
-| バックミラーで確認する | mengecek lewat kaca spion tengah | 確認する berarti memastikan atau mengecek. |
-| ハンドルを握る | memegang setir | 握る berarti menggenggam. |
+| エンジンをかける | menyalakan mesin | pasangan tetap dengan かける |
+| ブレーキをかける | mengerem | かける lagi, tetapi objeknya rem |
+| （N）をつける | menyalakan （N） | ライトをつける |
+| （N）を踏む | menginjak （N） | アクセルを踏む |
+| （N）を締める | mengencangkan （N） | シートベルトを締める |
+| （N）で確認する | mengecek lewat （N） | バックミラーで確認する |
+| （Place）に（N）を積む | memuat （N） ke （Place） | トランクに荷物を積む |
+| （Person）を乗せる | menaikkan/memboncengkan （Person） | 友だちを乗せる |
+| （Place）に寄る | mampir ke （Place） | ガソリンスタンドに寄る |
+| （N）がパンクする | （N） bocor/kempes | タイヤがパンクする |
 
-Perhatikan pola partikel: `を` menandai objek tindakan, `が` sering menandai keadaan, `に` menunjukkan tujuan atau arah, dan `で` menunjukkan alat, tempat, atau cara.
+Perhatikan partikelnya: `を` menandai bagian mobil yang dioperasikan (アクセルを踏む) atau orang yang dinaikkan (人を乗せる), `で` menandai alat bantu (バックミラーで確認する), `に` menandai tempat memuat atau tujuan mampir (トランクに積む, ガソリンスタンドに寄る), dan `が` menandai kejadian yang menimpa benda (タイヤがパンクする).
 
 ## Contoh Kalimat
 
@@ -136,15 +152,18 @@ Perhatikan pola partikel: `を` menandai objek tindakan, `が` sering menandai k
 
 | Pasangan | Cara membedakan |
 |---|---|
-| フロントガラス / ワイパー | フロントガラス cocok untuk kaca depan mobil; ワイパー cocok untuk wiper mobil. Gunakan kata sekitar dan partikel sebagai petunjuk. |
-| ボンネット / ライト | ボンネット cocok untuk kap mesin; ライト cocok untuk lampu depan. Gunakan kata sekitar dan partikel sebagai petunjuk. |
-| バックミラー / サイドミラー | バックミラー cocok untuk kaca spion tengah; サイドミラー cocok untuk kaca spion samping. Gunakan kata sekitar dan partikel sebagai petunjuk. |
+| バックミラー / サイドミラー | Posisinya yang membedakan: バックミラー di tengah untuk melihat ke belakang (後ろ), サイドミラー di sisi pintu untuk melihat samping (横). Kalau kalimatnya 後ろを確認する, itu バックミラー. |
+| エンジンをかける / ライトをつける | Keduanya "menyalakan" dalam bahasa Indonesia, tetapi kata kerjanya terikat objek: mesin selalu かける, lampu selalu つける. Hafalkan per pasangan, jangan diterjemahkan balik. |
+| アクセルを踏む / ブレーキをかける | Sama-sama diinjak kaki, tetapi kolokasinya beda: gas dipakai dengan 踏む, rem paling umum dengan かける (急ブレーキをかける). |
+| 人を乗せる / 車に乗る | Cek partikelnya: を + orang → 乗せる, kamu yang menaikkan orang lain (transitif); に + kendaraan → 乗る, kamu sendiri yang naik. |
+| 運転席 / 助手席 | 運転 = mengemudi → kursi pengemudi; 助手 = asisten → kursi di sebelahnya. Baca dua kanji pertamanya. |
+| ハンドル / キー | Dua kata serapan yang menyempit maknanya: di konteks mobil, ハンドル adalah setir (bukan gagang) dan キー adalah kunci kontak. |
 
 ## Kesalahan Umum
 
-Jangan menerjemahkan kata satu per satu tanpa melihat frasa lengkap. Banyak kata terlihat mirip dalam bahasa Indonesia, tetapi berbeda saat dipasangkan dengan partikel, benda, atau kata kerja tertentu.
+Kesalahan khas hari ini adalah menerjemahkan "menyalakan" dan "menginjak" dengan satu kata kerja untuk semua benda. Bahasa Jepang mengikat kata kerja pada objeknya: エンジンをかける tetapi ライトをつける; アクセルを踏む tetapi ブレーキをかける. Kalau ragu, ingat contoh kalimat utuhnya, bukan kata kerjanya saja.
 
-Strategi cepat: cari dulu kata intinya, lalu cek partikel dan kata kerja di dekatnya. Jika bentuknya frasa kerja, hafalkan bersama pasangan katanya, bukan sebagai kata tunggal.
+Waspadai juga kata serapan yang bergeser makna: ハンドル berarti setir (bukan "handle" pintu), dan パンクする berasal dari "puncture" — ban kempes, bukan musik punk. Pola 高速道路に乗る juga terasa aneh kalau diterjemahkan harfiah; に乗る di sini berarti "masuk ke jalan tol", sama polanya dengan naik kendaraan.
 
 ## Mini Practice
 
@@ -153,55 +172,55 @@ Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
 ::MiniPractice
 ---
 question: "Karena hujan, saya menggerakkan wiper."
-sentence: "雨なので____を動かす。"
+sentence: "雨なので____を動かしました。"
 optionA: "ワイパー"
 optionB: "ボンネット"
 correct: "ワイパー"
-explanation: "ワイパー benar. ワイパー membersihkan kaca depan saat hujan."
+explanation: "ワイパー benar. Petunjuknya 雨 dan kata kerja 動かす — wiper digerakkan saat hujan. ボンネット adalah kap mesin dan tidak dipakai dengan 動かす dalam konteks hujan."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kaca depan mobil retak."
-sentence: "____にひびが入った。"
-optionA: "フロントガラス"
-optionB: "サイドミラー"
-correct: "フロントガラス"
-explanation: "フロントガラス benar. Ini kaca depan mobil; サイドミラー adalah kaca spion samping."
+question: "Setelah naik mobil, pertama-tama saya menyalakan mesin."
+sentence: "車に乗って、まずエンジンを____。"
+optionA: "かけました"
+optionB: "つけました"
+correct: "かけました"
+explanation: "かけました benar. エンジンをかける adalah pasangan tetap untuk menyalakan mesin; つける dipakai untuk lampu (ライトをつける), bukan mesin."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Saya mengecek belakang dengan kaca spion tengah."
-sentence: "____で後ろを確認する。"
-optionA: "バックミラー"
-optionB: "ライト"
-correct: "バックミラー"
-explanation: "バックミラー benar. バックミラー dipakai untuk melihat belakang dari dalam mobil."
----
-::
-
-::MiniPractice
----
-question: "Lampu mobil dinyalakan saat malam."
-sentence: "夜なので____をつける。"
-optionA: "ライト"
-optionB: "エンジン"
-correct: "ライト"
-explanation: "ライト benar. ライトをつける berarti menyalakan lampu."
+question: "Saat mulai jalan, injak pedal gas pelan-pelan."
+sentence: "出発するときは、ゆっくりアクセルを____。"
+optionA: "踏んでください"
+optionB: "握ってください"
+correct: "踏んでください"
+explanation: "踏んでください benar. Pedal gas diinjak dengan kaki → アクセルを踏む. 握る (menggenggam) berpasangan dengan ハンドル, bukan アクセル."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Ayah duduk di kursi pengemudi."
-sentence: "父は____に座った。"
+sentence: "父は____に座りました。"
 optionA: "運転席"
 optionB: "助手席"
 correct: "運転席"
-explanation: "運転席 adalah kursi pengemudi. に座った memberi petunjuk tempat duduk."
+explanation: "運転席 benar. 運転 berarti mengemudi, jadi 運転席 adalah kursi pengemudi; 助手席 adalah kursi penumpang di sebelahnya."
+---
+::
+
+::MiniPractice
+---
+question: "Saya mengantar teman naik mobil sampai stasiun."
+sentence: "駅まで友だちを車に____。"
+optionA: "乗せました"
+optionB: "乗りました"
+correct: "乗せました"
+explanation: "乗せました benar. Partikel を pada 友だちを menunjukkan orang lain yang dinaikkan → transitif 乗せる. Kalau kamu sendiri yang naik, polanya 車に乗りました tanpa objek orang."
 ---
 ::
 

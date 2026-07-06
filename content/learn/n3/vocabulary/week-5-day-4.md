@@ -26,7 +26,7 @@ Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat mem
 Fokus hari ini bukan hanya menghafal arti kata seperti 医師, めまいがする, 診察を受ける, dan お大事に, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> gejala tubuh punya pola partikel yang khas. Sensasi memakai 〜がする (めまいがする, 頭痛がする, 吐き気がする); gejala yang "ada/keluar" memakai が (熱がある, せきが出る, 鼻がつまる). "Berobat/terkena" memakai にかかる (歯医者にかかる, インフルエンザにかかる), sedangkan "menerima tindakan" memakai を受ける (診察を受ける, 手術を受ける). Salah partikel di sini mengubah artinya.
 </div>
 
 ## Daftar Kata
@@ -114,7 +114,7 @@ Urutan umum teks medis adalah orang/tempat -> gejala -> pemeriksaan -> obat/pera
   <span>入院</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang kondisi tubuh bagaimana?: kata intinya bisa berupa 医師, 医者, dan 看護師; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+Percakapan di klinik biasanya berjalan begini: pasien (患者) datang, dokter (医師／医者) bertanya どうしましたか, lalu pasien menyebut gejala — 熱がある, めまいがする, せきが出る. Setelah itu masuk tahap tindakan: 診察を受ける, 検査する, dan bila perlu 注射をしてもらう atau 手術を受ける. Perawatan lanjutan berupa 薬を飲む dan うがいをする. Bila serius, 入院する lalu 退院する. Penutupnya kalimat perpisahan お大事に, dan bila menjenguk orang lain, お見舞いに行く.
 
 
 
@@ -210,12 +210,12 @@ explanation: "医師 lebih formal dan cocok untuk konteks dokumen medis."
 
 ::MiniPractice
 ---
-question: "Seseorang berkonsultasi ke dokter dekat rumah."
-sentence: "近所の____に相談した。"
-optionA: "医者"
-optionB: "医師"
-correct: "医者"
-explanation: "医者 umum dipakai dalam percakapan sehari-hari untuk dokter."
+question: "Sejak pagi saya merasa pusing berputar."
+sentence: "朝から____がする。"
+optionA: "めまい"
+optionB: "けが"
+correct: "めまい"
+explanation: "めまいがする memakai pola 〜がする untuk sensasi tubuh. けが (luka) tidak dipakai dengan がする."
 ---
 ::
 

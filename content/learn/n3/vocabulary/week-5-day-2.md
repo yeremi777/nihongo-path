@@ -26,7 +26,7 @@ Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat mem
 Fokus hari ini bukan hanya menghafal arti kata seperti 握手, はじめまして, お生まれは？, dan お国はどちらですか, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> ini pelajaran ungkapan tetap (aisatsu), jadi kuncinya adalah <em>siapa berkata kepada siapa</em>, bukan partikel. Perhatikan pasangan tuan rumah ↔ tamu (どうぞお上がりください / お召し上がりください dari tuan rumah, dijawab おじゃまします / どうぞおかまいなく oleh tamu), lalu tingkat kesopanan (ご苦労さま hanya ke bawahan, お疲れさま aman untuk rekan), dan bentuk merendah (お目にかかる = 会う, 亡くなる = halus untuk meninggal).
 </div>
 
 ## Daftar Kata
@@ -97,7 +97,7 @@ Alurnya bisa berupa perkenalan -> tanya asal/pekerjaan/tempat tinggal -> kunjung
   <span>お疲れさまでした</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang memberi salam: kata intinya bisa berupa 握手, はじめまして, dan お生まれは？; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+Pertemuan pertama dibuka dengan はじめまして dan 握手, lalu digali dengan pertanyaan sopan お生まれは？, ご出身はどちらですか, お仕事は？. Saat berkunjung ke rumah, giliran bicara berpindah-pindah: tuan rumah mempersilakan どうぞお上がりください lalu どうぞお召し上がりください, sementara tamu menjawab おじゃまします dan どうぞおかまいなく. Bertemu kenalan lama dibuka ご無沙汰しています → お元気でいらっしゃいますか → dijawab おかげさまで. Terakhir, saat pulang kerja: お先に失礼します lalu お疲れさまでした dari rekan yang masih tinggal.
 
 
 

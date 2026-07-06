@@ -26,7 +26,7 @@ Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat mem
 Fokus hari ini bukan hanya menghafal arti kata seperti 花が咲く, 木が枯れる, 気味が悪い, dan くわしく説明する, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> ini kata-kata "keadaan/perubahan", jadi subjeknya biasanya benda dengan が: 花が咲く／散る, 木が枯れる, ガラスが割れる, 音が鳴る. Ada pasangan intransitif–transitif つぶれる／つぶす (箱がつぶれる vs 箱をつぶす). Pilih kata kerja sesuai bendanya: 枯れる (tumbuhan), くさる (makanan), さびる (logam). Dan bedakan false friend 気味が悪い (menyeramkan) dengan 気持ちが悪い (mual/tidak nyaman).
 </div>
 
 ## Daftar Kata
@@ -108,7 +108,7 @@ Kata hari ini menggambarkan keadaan yang terlihat: alam, benda, suara, cahaya, s
   <span>でたらめ</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang seperti apa keadaannya? (2): kata intinya bisa berupa 花が咲く, 空が曇る, dan 晴れる; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+Di alam, benda menjadi subjek dengan が: 花が咲く lalu 花が散る, 木が枯れる, 空が曇る atau 晴れる. Pindah ke benda buatan, perubahannya berupa 箱がつぶれる, ガラスが割れる, 音が鳴る, atau kerusakan bertahap さびる／くさる／かびが生える. Indra menangkap keadaan lewat 変なにおいがする dan kesan 気味が悪い atau あやしい. Kata sifat seperti 険しい, 薄暗い, まぶしい langsung menerangkan nomina (険しい山, 薄暗い部屋), sedangkan でたらめに dan くわしく menerangkan cara bertindak. Baca subjek berpartikel が untuk tahu apa yang berubah.
 
 
 
@@ -191,12 +191,12 @@ explanation: "でたらめに答える benar karena に mengubah でたらめ me
 
 ::MiniPractice
 ---
-question: "Bunga mekar di taman."
-sentence: "庭で____。"
-optionA: "花が咲く"
-optionB: "空が曇る"
-correct: "花が咲く"
-explanation: "花が咲く benar karena 庭で memberi konteks taman. 空が曇る membicarakan langit yang mendung."
+question: "Ikan di dalam kulkas sudah busuk."
+sentence: "冷蔵庫の魚が____。"
+optionA: "くさった"
+optionB: "さびた"
+correct: "くさった"
+explanation: "くさる dipakai untuk makanan yang membusuk; さびる khusus logam yang berkarat. Subjek 魚 memilih くさった."
 ---
 ::
 

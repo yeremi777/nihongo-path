@@ -26,7 +26,7 @@ Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat mem
 Fokus hari ini bukan hanya menghafal arti kata seperti 答え, 問い, 記入する, dan 見直す, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> banyak kata kerja gabungan dengan 直す berarti "melakukan ulang untuk memperbaiki": 書き直す (menulis ulang), 言い直す (mengucap ulang), 聞き直す (bertanya ulang). Bedakan 聞き直す dari 聞き取る (berhasil menangkap ucapan), dan 下書き (draf) dari 清書 (versi rapi/final).
 </div>
 
 ## Daftar Kata
@@ -80,17 +80,18 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 答え, 問い, 記入す
 
 ## Peta Kata
 
-Alurnya adalah soal -> jawaban -> pengecekan -> perbaikan -> pengumpulan. Untuk listening, alurnya mirip: dengar -> tangkap -> tulis -> cek ulang.
+Bayangkan tiga situasi belajar yang saling terkait: mengerjakan ujian, menyusun laporan, dan berlatih menyimak.
 
 <div class="word-strip">
+  <span>問い</span>
   <span>答え</span>
   <span>見直す</span>
-  <span>書き直す</span>
+  <span>下書き</span>
   <span>提出する</span>
-  <span>暗記する</span>
+  <span>聞き取る</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang pergi ke sekolah (3): kata intinya bisa berupa 答え, 問い, dan 記入する; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+Saat ujian, kamu membaca 問い, menulis 答え, 記入する ke lembar, lalu 見直す sebelum 試験が済む. Untuk laporan, kamu membuat レポートの下書き, 書き直す bagian yang salah, lalu 清書する, 仕上げる, dan 提出する sambil 提出期限を守る. Saat menyimak, kamu berusaha 聞き取る ucapan guru; kalau tidak jelas kamu 聞き直す, lalu 書き取る apa yang kamu dengar.
 
 
 
@@ -155,12 +156,12 @@ explanation: "期限を守る berarti mematuhi deadline."
 
 ::MiniPractice
 ---
-question: "Menyontek saat ujian."
-sentence: "試験で____する。"
+question: "Menyontek jawaban saat ujian berlangsung."
+sentence: "試験中に____する。"
 optionA: "カンニング"
-optionB: "自習"
+optionB: "暗記"
 correct: "カンニング"
-explanation: "カンニングする berarti menyontek dalam ujian."
+explanation: "Petunjuk 試験中 (saat ujian) mengarah ke カンニング (menyontek). 暗記 (menghafal) biasanya dilakukan sebelum ujian."
 ---
 ::
 
@@ -177,12 +178,12 @@ explanation: "答えを記入する berarti menuliskan jawaban."
 
 ::MiniPractice
 ---
-question: "Pertanyaan nomor tiga sulit."
-sentence: "三番の____は難しい。"
-optionA: "問い"
-optionB: "答え"
-correct: "問い"
-explanation: "問い berarti pertanyaan; 難しい memberi konteks soal yang sulit."
+question: "Karena tidak dapat menangkap ucapan guru, saya minta diulang."
+sentence: "先生の話が____なかったので、聞き直した。"
+optionA: "聞き取れ"
+optionB: "書き取れ"
+correct: "聞き取れ"
+explanation: "聞き取る berarti menangkap ucapan. Kalau gagal, barulah 聞き直す (minta diulang), sesuai klausa kedua. 書き取る adalah mencatat dari dikte."
 ---
 ::
 

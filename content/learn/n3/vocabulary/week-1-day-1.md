@@ -26,7 +26,7 @@ Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat mem
 Fokus hari ini bukan hanya menghafal nama benda seperti 冷蔵庫 atau エアコン, tetapi juga membaca pasangan kata kerja seperti 温める, 冷やす, 冷えている, つける, 切る, dan 敷く dalam kalimat rumah tangga sehari-hari.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata dari tempat, benda, alat elektronik, tindakan, lalu kondisi. Saat ada kata kerja, cek partikelnya: を biasanya tindakan yang dilakukan pada benda, sedangkan が sering menunjukkan keadaan benda itu sendiri.
+  <strong>Fokus hari ini:</strong> kelompokkan kata dari tempat, benda, alat elektronik, tindakan, lalu kondisi. Saat ada kata kerja, cek partikelnya: を menandai tindakan pada benda (ビールを冷やす, 部屋を暖める), sedangkan が menunjukkan keadaan benda itu sendiri (ビールが冷えている, 水が凍る).
 </div>
 
 ## Daftar Kata

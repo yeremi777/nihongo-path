@@ -26,7 +26,7 @@ Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat mem
 Fokus hari ini bukan hanya menghafal arti kata seperti 席を立つ, 予定を立てる, 雨が上がる, dan 熱が下がる, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> hampir semua kata kerja hari ini punya pasangan intransitif–transitif. Cek partikelnya dulu: が berarti keadaannya terjadi sendiri (予定が立つ, 熱が下がる, 火がつく), を berarti ada orang yang melakukannya (予定を立てる, 音を下げる, 火をつける). Satu partikel salah, arti kalimatnya ikut berubah.
 </div>
 
 ## Daftar Kata
@@ -104,9 +104,7 @@ Kata kerja hari ini harus dibaca dengan objeknya: 席を立つ bukan hanya "berd
   <span>日記をつける</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang kata kerja bermakna ganda (2): kata intinya bisa berupa 席を立つ, 雨が上がる, dan 熱が下がる; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
-
-
+Kuncinya: baca kata kerja bersama objek dan partikelnya sebagai satu blok. 立つ, 上がる, 下がる, dan つける baru punya arti pasti setelah kamu tahu pasangannya — 時間がたつ (waktu berlalu) dan うわさが立つ (rumor beredar) memakai kata kerja yang sama tetapi maknanya jauh berbeda.
 
 ## Catatan Pemakaian
 
@@ -190,23 +188,23 @@ explanation: "電気をつける berarti menyalakan lampu."
 
 ::MiniPractice
 ---
-question: "Karena sudah sampai di stasiun, saya beranjak dari kursi."
-sentence: "駅に着いたので____。"
-optionA: "席を立つ"
-optionB: "予定が立つ"
-correct: "席を立つ"
-explanation: "席を立つ berarti beranjak dari tempat duduk."
+question: "Setelah minum obat, demam saya turun."
+sentence: "薬を飲んだら、熱が____。"
+optionA: "下がりました"
+optionB: "下げました"
+correct: "下がりました"
+explanation: "下がりました benar karena partikel が menandai keadaan yang terjadi sendiri: demamnya turun. 下げる butuh を dan pelaku yang sengaja menurunkan sesuatu, seperti テレビの音を下げる."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Rencana perjalanan tersusun."
-sentence: "旅行の____。"
-optionA: "予定が立つ"
-optionB: "席を立つ"
-correct: "予定が立つ"
-explanation: "予定が立つ berarti rencana tersusun; 旅行の memberi konteks rencana."
+question: "Saya membuat rencana perjalanan."
+sentence: "旅行の予定を____。"
+optionA: "立てました"
+optionB: "立ちました"
+correct: "立てました"
+explanation: "立てました benar karena partikel を menunjukkan ada orang yang menyusun rencananya (予定を立てる). Kalau rencananya tersusun sendiri, polanya 予定が立つ."
 ---
 ::
 

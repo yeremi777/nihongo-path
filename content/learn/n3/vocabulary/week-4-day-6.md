@@ -26,7 +26,7 @@ Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat mem
 Fokus hari ini bukan hanya menghafal arti kata seperti メール, 受信トレイ, 送信トレイ, dan 送信済みアイテム, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> banyak kata email hadir sebagai pasangan berlawanan arah atau mirip. 受信 (menerima) lawan 送信 (mengirim); 差出人 (pengirim) lawan 宛先 (penerima); 返信 (membalas) lawan 転送 (meneruskan). Perhatikan juga beda bentuk perintah menu (返信, 転送) dan bentuk kata kerja dengan する (返信する, 転送する).
 </div>
 
 ## Daftar Kata
@@ -68,6 +68,7 @@ Fokus hari ini bukan hanya menghafal arti kata seperti メール, 受信トレ�
 | まとめて送る | まとめておくる | mengirim sekaligus. |
 | 整理する | せいりする | mengatur/merapikan. |
 | チェックする | チェックする | mengecek. |
+| 文字 | もじ | huruf/karakter yang tertulis. |
 | 入力する | にゅうりょくする | mengetik/memasukkan. |
 | ローマ字で入力する | ローマじでにゅうりょくする | mengetik dengan romaji. |
 | 漢字に変換する | かんじにへんかんする | mengubah menjadi kanji. |
@@ -81,17 +82,18 @@ Fokus hari ini bukan hanya menghafal arti kata seperti メール, 受信トレ�
 
 ## Peta Kata
 
-Kata email terbagi menjadi lokasi pesan, kolom informasi, dan perintah tindakan. Saat melihat tampilan email, baca kolom seperti 差出人, 宛先, 件名 sebelum memilih tindakan seperti 返信 atau 転送.
+Bayangkan kamu membuka satu email lalu memutuskan tindakan berikutnya.
 
 <div class="word-strip">
-  <span>受信</span>
-  <span>送信</span>
+  <span>受信トレイ</span>
   <span>差出人</span>
-  <span>宛先</span>
-  <span>添付</span>
+  <span>件名</span>
+  <span>添付ファイル</span>
+  <span>返信</span>
+  <span>送信</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang menulis email: kata intinya bisa berupa メール, 受信トレイ, dan 送信トレイ; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+Kamu membuka 受信トレイ dan melihat daftar pesan; tiap baris menampilkan 差出人, 件名, dan 受信日時. Setelah membaca isinya, kamu memeriksa 添付ファイル, lalu memilih tindakan: 返信 ke 差出人, 全員へ返信, atau 転送 ke orang lain. Untuk pesan baru kamu 新規作成する, mengisi 宛先 dan 件名, ローマ字で入力する lalu 漢字に変換する, 写真を添付する, dan 送信する sampai 送信が完了する. Pesan tak berguna kamu 削除する, sisanya kamu 整理する.
 
 
 
@@ -167,12 +169,12 @@ explanation: "転送する berarti meneruskan email."
 
 ::MiniPractice
 ---
-question: "Pesan dikirim melalui email."
-sentence: "____を送信する。"
-optionA: "メール"
-optionB: "受信トレイ"
-correct: "メール"
-explanation: "メールを送信する berarti mengirim email."
+question: "Saya mengirim email ke atasan."
+sentence: "上司にメールを____する。"
+optionA: "送信"
+optionB: "受信"
+correct: "送信"
+explanation: "送信 berarti mengirim; petunjuk 上司に (ke atasan) menandai arah keluar. 受信 justru menerima."
 ---
 ::
 

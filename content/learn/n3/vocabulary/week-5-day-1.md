@@ -26,7 +26,7 @@ Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat mem
 Fokus hari ini bukan hanya menghafal arti kata seperti 家族, 夫婦, 夫, dan 妻, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> hampir semua kata di sini menandai <em>posisi seseorang dalam sebuah kelompok</em>, jadi pasangan lawannya-lah yang harus dibedakan. Urutan lahir: 長男・次男・三男 lalu 末っ子. Jabatan kantor: 上司 (atasan) vs 部下 (bawahan). Lama masuk: 先輩 (lebih dulu) vs 後輩 (belakangan) — ini bukan soal jabatan. Dan hati-hati sopan santun: 夫・妻 untuk pasangan sendiri, tetapi ご主人 untuk suami orang lain.
 </div>
 
 ## Daftar Kata
@@ -95,7 +95,7 @@ Kosakata ini bergerak dari keluarga -> status sekolah -> hubungan kerja -> jabat
   <span>部下</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang hubungan seperti apa?: kata intinya bisa berupa 家族, 夫婦, dan 夫; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+Saat seseorang memperkenalkan diri, biasanya alurnya begini: ia mulai dari 家族 atau 夫婦, lalu menyebut posisinya dengan frasa seperti 6人兄弟の末っ子 atau menyebut 長男・長女. Kalau bercerita soal masa muda, muncul status 大学生・高校生. Begitu pindah ke topik kerja, urutannya berganti menjadi 職場 → peran (同僚, 上司, 部下, 先輩, 後輩) → jabatan resmi (社長, 部長, 課長). Membaca frasa 職場の上司 atau 会社の後輩, partikel の-lah yang mengikat "tempat + peran" menjadi satu kesatuan.
 
 
 
@@ -107,9 +107,9 @@ Bayangkan kamu sedang membaca atau mendengar situasi tentang hubungan seperti ap
 
 ## Pola yang Sering Muncul
 
-- **N人兄弟の末っ子:** menyebut posisi dalam jumlah saudara.
-- **職場のN／会社のN:** の menghubungkan tempat dengan peran.
-- **（N）は会社員です:** pola identitas/status.
+- **（数）人兄弟の末っ子:** menyebut posisi dalam jumlah saudara, misalnya 6人兄弟の末っ子.
+- **職場の（N）／会社の（N）:** の menghubungkan tempat dengan peran, seperti 職場の上司, 会社の後輩.
+- **（人）は（N）です:** pola identitas/status, seperti 父は会社員です.
 
 ## Contoh Kalimat
 

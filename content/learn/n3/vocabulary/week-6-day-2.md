@@ -26,7 +26,7 @@ Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat mem
 Fokus hari ini bukan hanya menghafal arti kata seperti うっかり（する）, つい, わざと, dan ちゃんと, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> banyak kata di sini bisa dipakai dua cara — sebagai adverb (ちゃんと書く) dan sebagai kata kerja dengan する (すっきりする, がっかりする, ほっとする). Perhatikan juga pasangan yang berlawanan niat: うっかり／つい (tanpa sengaja) lawan わざと (sengaja); dan satu jebakan polaritas: さっぱり positif berarti "segar/lega", tetapi dengan bentuk negatif berarti "sama sekali tidak" (さっぱりわからない).
 </div>
 
 ## Daftar Kata
@@ -85,9 +85,7 @@ Adverb hari ini menjelaskan kualitas tindakan. Sebagian menilai kesalahan, sebag
   <span>そっと</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang kata keterangan cara: kata intinya bisa berupa うっかり（する）, つい, dan わざと; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
-
-
+Bayangkan satu pagi yang berantakan lalu membaik: うっかり宿題を忘れた (ceroboh lupa PR), がっかりする (kecewa), tetapi setelah semuanya beres 部屋がすっきりして、ほっとした (kamar jadi rapi, lega), lalu malamnya ぐっすり眠る (tidur nyenyak). Kata-kata ini menilai *bagaimana* sebuah tindakan atau perasaan terjadi, jadi kuncinya selalu kata kerja yang mengikutinya: そっと閉める (menutup pelan) berbeda jauh dari はっきり言う (mengatakan dengan tegas).
 
 ## Catatan Pemakaian
 
@@ -100,10 +98,11 @@ Bayangkan kamu sedang membaca atau mendengar situasi tentang kata keterangan car
 
 ## Pola yang Sering Muncul
 
-- **うっかり（N）を忘れる:** lupa tanpa sengaja.
-- **わざとV:** sengaja melakukan.
-- **ちゃんと（N）をV:** melakukan dengan benar.
-- **そっとV:** melakukan pelan/lembut.
+- **うっかり（N）を忘れる:** lupa tanpa sengaja — うっかり宿題を忘れる.
+- **わざと（V）:** sengaja melakukan — わざと負ける.
+- **ちゃんと／きちんと（N）を（V）:** melakukan dengan benar/rapi — ちゃんと名前を書く, きちんと服をたたむ.
+- **そっと（V）:** melakukan pelan/lembut — そっとドアを閉める.
+- **（Adv）＋する:** adverb yang jadi kata kerja — がっかりする, ほっとする, すっきりする, のんびりする.
 
 ## Contoh Kalimat
 
@@ -164,12 +163,12 @@ explanation: "そっと cocok untuk gerakan pelan/lembut."
 
 ::MiniPractice
 ---
-question: "Saya tidak sengaja lupa membawa PR."
-sentence: "____宿題を忘れた。"
-optionA: "うっかり"
-optionB: "つい"
-correct: "うっかり"
-explanation: "うっかり menunjukkan kelupaan atau ceroboh tanpa sengaja."
+question: "Tadi malam saya tidur nyenyak."
+sentence: "昨夜は____眠りました。"
+optionA: "ぐっすり"
+optionB: "はっきり"
+correct: "ぐっすり"
+explanation: "ぐっすり adalah pasangan tetap untuk 眠る dan berarti tidur nyenyak. はっきり berarti jelas/tegas dan tidak dipakai untuk cara tidur."
 ---
 ::
 

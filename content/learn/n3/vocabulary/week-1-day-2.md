@@ -23,10 +23,10 @@ tags:
 
 Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat membaca bahan, alat, takaran, langkah persiapan, dan instruksi memasak sederhana.
 
-Fokus hari ini bukan hanya menghafal arti kata seperti 肉じゃが, 材料, 牛肉, dan ジャガイモ, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
+Fokus hari ini bukan hanya menghafal nama bahan seperti 牛肉 dan ジャガイモ, tetapi juga membaca resep sederhana: memahami takaran seperti 大さじ dan カップ, lalu mengikuti frasa langkah seperti 皮をむく dan 材料を刻む.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> bahasa resep. Perhatikan kata takaran seperti 大さじ, 小さじ, カップ, dan グラム, lalu frasa langkah seperti 皮をむく dan 大きめに切る. Dalam resep, を menandai bahan yang diproses (材料を刻む), sedangkan で menandai alat atau pembungkusnya (はかりで量る, ラップでくるむ).
 </div>
 
 ## Daftar Kata
@@ -37,20 +37,20 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 肉じゃが, 材料, 牛
 |---|---|---|
 | 肉じゃが | にくじゃが | semur daging dan kentang Jepang; hidangan rumahan yang umum |
 | 材料 | ざいりょう | bahan; 料理の材料 |
-| 牛肉 | ぎゅうにく | daging sapi; sering muncul saat membaca bahan, alat, takaran, langkah persiapan, dan instruksi memasak sederhana. |
+| 牛肉 | ぎゅうにく | daging sapi; bahan utama 肉じゃが bersama ジャガイモ dan 玉ネギ. |
 | ジャガイモ | ジャガイモ | kentang; juga bisa ditulis じゃがいも |
 | 玉ネギ | たまネギ | bawang bombai; juga bisa ditulis 玉ねぎ |
-| 調味料 | ちょうみりょう | bumbu / penyedap; sering muncul saat membaca bahan, alat, takaran, langkah persiapan, dan instruksi memasak sederhana. |
-| 水 | みず | air; sering muncul saat membaca bahan, alat, takaran, langkah persiapan, dan instruksi memasak sederhana. |
+| 調味料 | ちょうみりょう | bumbu / penyedap; kata payung untuk 塩, 砂糖, しょうゆ, 酢, dan 酒. |
+| 水 | みず | air; dalam resep biasanya ditulis dengan takaran, misalnya 水1カップ. |
 | 酒 | さけ | sake / alkohol masak; dalam konteks memasak, biasanya berarti sake untuk memasak |
 | しょうゆ | しょうゆ | kecap asin Jepang; juga bisa ditulis 醤油 |
-| 砂糖 | さとう | gula; sering muncul saat membaca bahan, alat, takaran, langkah persiapan, dan instruksi memasak sederhana. |
-| サラダ油 | サラダゆ | minyak goreng ringan; sering muncul saat membaca bahan, alat, takaran, langkah persiapan, dan instruksi memasak sederhana. |
-| まな板 | まないた | talenan; sering muncul saat membaca bahan, alat, takaran, langkah persiapan, dan instruksi memasak sederhana. |
+| 砂糖 | さとう | gula; dalam resep ditakar dengan 大さじ atau グラム. |
+| サラダ油 | サラダゆ | minyak goreng ringan; untuk menumis; bedakan dari 天ぷら油 yang dipakai menggoreng rendam. |
+| まな板 | まないた | talenan; alas untuk memotong bahan dengan 包丁. |
 | はかり | はかり | timbangan; はかりで量る |
-| 酢 | す | cuka; sering muncul saat membaca bahan, alat, takaran, langkah persiapan, dan instruksi memasak sederhana. |
+| 酢 | す | cuka; 調味料 yang memberi rasa asam. |
 | 天ぷら油 | てんぷらあぶら | minyak tempura; minyak untuk menggoreng rendam |
-| アルミホイル | アルミホイル | aluminium foil; sering muncul saat membaca bahan, alat, takaran, langkah persiapan, dan instruksi memasak sederhana. |
+| アルミホイル | アルミホイル | aluminium foil; untuk memanggang atau membungkus; bedakan dari ラップ untuk menyimpan. |
 
 ### Tindakan dan Pola
 
@@ -59,7 +59,7 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 肉じゃが, 材料, 牛
 | 料理 | りょうり | masakan / memasak; 料理をする |
 | 4人分 | よにんぶん | porsi untuk empat orang; 人分 berarti porsi untuk jumlah orang |
 | 夕食のおかず | ゆうしょくのおかず | lauk makan malam; おかず berarti lauk yang dimakan bersama nasi |
-| 栄養のバランスを考える | えいようのバランスをかんがえる | mempertimbangkan keseimbangan gizi; sering muncul saat membaca bahan, alat, takaran, langkah persiapan, dan instruksi memasak sederhana. |
+| 栄養のバランスを考える | えいようのバランスをかんがえる | mempertimbangkan keseimbangan gizi; sering muncul di teks tentang menu makan harian. |
 | はかりで量る | はかりではかる | menimbang dengan timbangan; 量る berarti mengukur atau menimbang |
 | 塩を少々入れる | しおをしょうしょういれる | memasukkan sedikit garam; 少々 berarti sedikit dan terasa agak formal. |
 | 皮をむく | かわをむく | mengupas kulit; dipakai untuk kulit buah atau sayur |
@@ -85,7 +85,7 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 肉じゃが, 材料, 牛
 
 | Japanese | Reading | Arti & Catatan |
 |---|---|---|
-| 包丁 | ほうちょう | pisau dapur; sering muncul saat membaca bahan, alat, takaran, langkah persiapan, dan instruksi memasak sederhana. |
+| 包丁 | ほうちょう | pisau dapur; dipakai di atas まな板; muncul dalam 包丁で切る. |
 
 ### Sifat dan Kondisi
 
@@ -108,41 +108,47 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 肉じゃが, 材料, 牛
   <span>酒</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang mari memasak (1): kata intinya bisa berupa 肉じゃが, 材料, dan 牛肉; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+Resep 肉じゃが biasanya terbaca dalam urutan tetap: judul dan porsi (肉じゃが・4人分), daftar 材料 (牛肉, ジャガイモ, 玉ネギ) dan 調味料 (しょうゆ, 砂糖, 酒) lengkap dengan takarannya (大さじ2, 100グラム, 1カップ), lalu langkah persiapan (皮をむく → 材料を刻む → 大きめに切る) yang memakai alat seperti 包丁, まな板, dan はかり. Sisa masakan berhubungan dengan ラップでくるむ dan アルミホイル. Kalau kamu hafal urutan ini, kata yang belum dikenal pun mudah ditebak perannya.
 
 
 ## Catatan Pemakaian
 
-### Istilah Utama
+### Bahan dan Bumbu
 
-- Kata seperti 肉じゃが、料理、材料 membantu mengenali topik bacaan dengan cepat.
-- Jangan berhenti di arti Indonesia saja; cek apakah kata itu muncul sebagai benda, tempat, tindakan, atau kondisi.
+- 材料 adalah kata payung untuk semua bahan; 調味料 khusus bumbu perasa seperti 塩, 砂糖, しょうゆ, 酢, dan 酒.
+- Dalam resep, 酒 hampir selalu berarti sake untuk memasak, bukan minuman.
 
-### Tindakan dan Partikel
+### Takaran
 
-- Pola dengan を biasanya menunjukkan objek yang dikenai tindakan.
-- Pola dengan が sering menunjukkan keadaan atau kejadian pada subjek.
-- Pola dengan に atau で sering menunjukkan tujuan, lokasi, alat, atau cara.
+- 大さじ (sendok makan) dan 小さじ (sendok teh) hampir selalu diikuti angka: 大さじ2, 小さじ1.
+- カップ dalam resep Jepang berarti 200 cc; リットル dan グラム dipakai untuk jumlah yang lebih besar atau lebih tepat.
+- 4人分 dan 少々 juga kata jumlah: 人分 menghitung porsi, 少々 berarti "sedikit saja".
 
-### Membaca dalam Konteks
+### Alat
 
-- Jika dua kata terjemahannya mirip, lihat kata di sekitarnya dan pola partikelnya.
-- Untuk kata serapan, tetap cek konteks Jepangnya karena maknanya bisa lebih sempit daripada bahasa Indonesia/Inggris.
+- 包丁 dan まな板 muncul berpasangan pada langkah memotong; はかり pada langkah menimbang (はかりで量る).
+- ラップ dan アルミホイル dipakai pada langkah menyimpan atau memanggang, bukan langkah memotong.
+
+### Frasa Langkah Memasak
+
+- Frasa instruksi biasanya berpola （N）を（V）: 皮をむく, 材料を刻む, 塩を少々入れる.
+- Keterangan cara memotong memakai に: 大きめに切る, 3センチ幅に切る.
 
 ## Pola yang Sering Muncul
 
-| Pola | Arti praktis | Catatan membaca |
+| Pola | Arti praktis | Contoh konteks |
 |---|---|---|
-| 肉じゃが | semur daging dan kentang Jepang | hidangan rumahan yang umum |
-| 料理 | masakan / memasak | 料理をする |
-| 4人分 | porsi untuk empat orang | 人分 berarti porsi untuk jumlah orang |
-| 夕食のおかず | lauk makan malam | おかず berarti lauk yang dimakan bersama nasi |
-| 栄養のバランスを考える | mempertimbangkan keseimbangan gizi | sering muncul saat membaca bahan, alat, takaran, langkah persiapan, dan instruksi memasak sederhana. |
-| カロリーが高い食品 | makanan tinggi kalori | 食品 berarti bahan atau produk makanan |
-| はかりで量る | menimbang dengan timbangan | 量る berarti mengukur atau menimbang |
-| 塩を少々入れる | memasukkan sedikit garam | 少々 berarti sedikit dan terasa agak formal. |
+| （N）の皮をむく | mengupas kulit （N） | ジャガイモの皮をむく |
+| （N）を刻む | mencincang （N） halus | 材料を刻む |
+| 大きめに切る | memotong agak besar | め berarti "agak/lebih" |
+| （数）センチ幅に切る | memotong selebar （数） cm | 3センチ幅に切る |
+| 塩を少々入れる | memasukkan sedikit garam | 少々 terasa agak formal |
+| はかりで量る | menimbang dengan timbangan | で menandai alat |
+| ラップをかける／かぶせる | menutup dengan plastik pembungkus | を menandai benda yang ditutup dari atas |
+| ラップでくるむ | membungkus dengan plastik pembungkus | で menandai bahan pembungkusnya |
+| （数）人分 | porsi untuk （数） orang | 肉じゃが・4人分 |
 
-Perhatikan pola partikel: `を` menandai objek tindakan, `が` sering menandai keadaan, `に` menunjukkan tujuan atau arah, dan `で` menunjukkan alat, tempat, atau cara.
+Perhatikan pola partikel dalam resep: `を` menandai bahan yang diproses (材料を刻む), `で` menandai alat atau bahan pembungkus (はかりで量る, ラップでくるむ), dan `に` menandai ukuran atau cara memotong (大きめに切る, 3センチ幅に切る).
 
 ## Contoh Kalimat
 
@@ -158,15 +164,16 @@ Perhatikan pola partikel: `を` menandai objek tindakan, `が` sering menandai k
 
 | Pasangan | Cara membedakan |
 |---|---|
-| 栄養のバランスを考える / カロリーが高い食品 | 栄養のバランスを考える cocok untuk mempertimbangkan keseimbangan gizi; カロリーが高い食品 cocok untuk makanan tinggi kalori. Gunakan kata sekitar dan partikel sebagai petunjuk. |
-| ラップをかぶせる / ラップをかける | ラップをかぶせる cocok untuk menutupi dengan plastik pembungkus; ラップをかける cocok untuk menutup dengan plastik pembungkus. Gunakan kata sekitar dan partikel sebagai petunjuk. |
-| ラップをかける / ラップでくるむ | ラップをかける cocok untuk menutup dengan plastik pembungkus; ラップでくるむ cocok untuk membungkus dengan plastik pembungkus. Gunakan kata sekitar dan partikel sebagai petunjuk. |
+| 大さじ / 小さじ | Baca kanjinya: 大さじ = sendok makan (15 ml), 小さじ = sendok teh (5 ml). Salah baca membuat takaran tiga kali lipat. |
+| 材料 / 調味料 | Keduanya berakhiran 料. 材料 mencakup semua bahan; 調味料 hanya bumbu perasa. Jika kata itu diikuti daftar daging dan sayur, itu 材料. |
+| ラップをかける・かぶせる / ラップでくるむ | Lihat partikelnya: dengan を, ラップ ditaruh menutupi wadah dari atas; dengan で, ラップ menjadi bahan yang membungkus seluruh benda (くるむ). |
+| サラダ油 / 天ぷら油 | Lihat kata di depan 油: サラダ油 untuk menumis dengan sedikit minyak, 天ぷら油 untuk menggoreng rendam seperti tempura. |
 
 ## Kesalahan Umum
 
-Jangan menerjemahkan kata satu per satu tanpa melihat frasa lengkap. Banyak kata terlihat mirip dalam bahasa Indonesia, tetapi berbeda saat dipasangkan dengan partikel, benda, atau kata kerja tertentu.
+Jangan membaca kata resep dengan arti umumnya. 酒 dalam daftar bahan berarti sake untuk memasak, bukan "minuman beralkohol"; カップ berarti takaran 200 cc, bukan sembarang cangkir; 少々 berarti "sedikit saja", bukan "agak lama".
 
-Strategi cepat: cari dulu kata intinya, lalu cek partikel dan kata kerja di dekatnya. Jika bentuknya frasa kerja, hafalkan bersama pasangan katanya, bukan sebagai kata tunggal.
+Strategi cepat: dalam kalimat langkah resep, cari dulu bahannya (…を), lalu alatnya (…で), baru kata kerjanya di akhir. Frasa seperti 皮をむく atau はかりで量る lebih mudah diingat sebagai satu paket daripada kata per kata.
 
 ## Mini Practice
 
@@ -174,12 +181,12 @@ Lengkapi kalimat Jepang agar sesuai dengan arti bahasa Indonesianya.
 
 ::MiniPractice
 ---
-question: "Bahan ditimbang dengan timbangan."
-sentence: "材料を____。"
-optionA: "はかりで量る"
-optionB: "包丁で切る"
-correct: "はかりで量る"
-explanation: "はかりで量る benar. Pola （N）でV menunjukkan alat yang dipakai; はかり adalah timbangan."
+question: "Sebelum membuat kue, bahan-bahannya ditimbang dengan timbangan."
+sentence: "材料をはかりで____。"
+optionA: "量りました"
+optionB: "刻みました"
+correct: "量りました"
+explanation: "量りました benar. はかりで menunjukkan alatnya timbangan, jadi kata kerjanya 量る (menimbang), bukan 刻む (mencincang)."
 ---
 ::
 
@@ -196,34 +203,34 @@ explanation: "少々 benar. Ini berarti sedikit; 大さじ adalah satuan sendok 
 
 ::MiniPractice
 ---
-question: "Bahan dibungkus dengan plastik pembungkus."
-sentence: "材料を____。"
-optionA: "ラップでくるむ"
-optionB: "ラップをかける"
-correct: "ラップでくるむ"
-explanation: "ラップでくるむ benar. で menandai bahan/alat pembungkus, dan くるむ berarti membungkus."
+question: "Lauk yang tersisa dibungkus rapat dengan plastik pembungkus, lalu dimasukkan ke kulkas."
+sentence: "残ったおかずをラップで____、冷蔵庫に入れました。"
+optionA: "くるんで"
+optionB: "かけて"
+correct: "くるんで"
+explanation: "くるんで benar. Partikel で menandai ラップ sebagai bahan pembungkus, jadi kata kerjanya くるむ. Kalau かける, polanya （N）にラップをかける."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Sup misonya menjadi hangat kuku."
+question: "Sup misonya sudah tidak panas lagi, hanya hangat kuku."
 sentence: "みそ汁が____。"
 optionA: "ぬるくなった"
-optionB: "大きめに切った"
+optionB: "熱くなった"
 correct: "ぬるくなった"
-explanation: "ぬるくなった benar. ぬるい dipakai untuk suhu yang hangat kuku."
+explanation: "ぬるくなった benar. ぬるい berarti hangat kuku — sudah tidak panas; 熱くなった justru berarti menjadi panas."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Saya membuat nikujaga untuk makan malam."
-sentence: "夕食に____を作る。"
-optionA: "肉じゃが"
-optionB: "材料"
-correct: "肉じゃが"
-explanation: "肉じゃが benar karena を作る cocok untuk nama masakan yang dibuat."
+question: "Kupas kulit kentangnya, lalu potong agak besar."
+sentence: "ジャガイモの皮をむいて、____切ってください。"
+optionA: "大きめに"
+optionB: "4人分に"
+correct: "大きめに"
+explanation: "大きめに benar. め pada 大きめ berarti \"agak\", jadi 大きめに切る adalah memotong agak besar; 人分 menghitung porsi, bukan ukuran potongan."
 ---
 ::
 

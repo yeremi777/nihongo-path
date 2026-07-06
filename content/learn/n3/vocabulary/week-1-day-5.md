@@ -23,10 +23,10 @@ tags:
 
 Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat membaca cucian, kondisi pakaian, tindakan menjemur, menyetrika, dan noda.
 
-Fokus hari ini bukan hanya menghafal arti kata seperti 洗濯, たまる, 乾く, dan 真っ白に仕上がる, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
+Fokus hari ini bukan hanya menghafal urutan mencuci dari 干す sampai たたむ, tetapi juga membedakan pasangan kata kerja seperti 乾かす／乾く dan 汚す／汚れる, serta tingkat basah ぬれている dan 湿っている.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> pasangan transitif–intransitif di sekitar cucian: 洗濯物をためる／たまる, 服を汚す／汚れる, 乾燥機で乾かす／乾く, dan しわを伸ばす／しわが伸びる. Bentuk を berarti ada yang melakukan, bentuk が melaporkan keadaan cucian. Perhatikan juga kolokasi tetap ワイシャツにアイロンをかける dan クリーニングに出す.
 </div>
 
 ## Daftar Kata
@@ -48,8 +48,8 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 洗濯, たまる, 乾く
 | そでが真っ黒に汚れる | そでがまっくろによごれる | lengan baju menjadi sangat kotor; 汚れる memakai が |
 | 洗剤を入れる | せんざいをいれる | memasukkan deterjen; 洗濯用洗剤 / 台所用洗剤 |
 | スーツをクリーニングに出す | スーツをクリーニングにだす | membawa jas ke laundry; 出す berarti menyerahkan sesuatu ke layanan atau tempat tertentu. |
-| コインランドリーで洗濯をする | コインランドリーでせんたくをする | mencuci di laundry koin; sering muncul saat membaca cucian, kondisi pakaian, tindakan menjemur, menyetrika, dan noda. |
-| タオルを干す | タオルをほす | menjemur handuk; sering muncul saat membaca cucian, kondisi pakaian, tindakan menjemur, menyetrika, dan noda. |
+| コインランドリーで洗濯をする | コインランドリーでせんたくをする | mencuci di laundry koin; で menandai tempat kegiatannya. |
+| タオルを干す | タオルをほす | menjemur handuk; 干す juga dipakai untuk ふとんを干す. |
 | 服をつるす | ふくをつるす | menggantung pakaian; つるす berarti menggantung dari atas. |
 | ワイシャツにアイロンをかける | ワイシャツにアイロンをかける | menyetrika kemeja; アイロンをかける kolokasi |
 | しわを伸ばす | しわをのばす | merapikan kerutan; 伸ばす memakai を |
@@ -92,41 +92,45 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 洗濯, たまる, 乾く
   <span>干す</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang mari mencuci: kata intinya bisa berupa 洗濯, たまる, dan 乾く; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+Kosakata hari ini mengikuti alur mencuci dari awal sampai akhir: 洗濯物がたまる → 洗剤を入れて洗濯をする → 干す atau つるす → 乾く (kalau belum kering betul, masih 湿っている) → たたむ → kalau ada しわ, アイロンをかける. Di sepanjang alur itu ada masalah yang bisa muncul — セーターが縮む, ジーンズの色が落ちる, そでが汚れる — dan jalan keluarnya: 乾燥機で乾かす, コインランドリーで洗濯をする, atau スーツをクリーニングに出す.
 
 
 ## Catatan Pemakaian
 
-### Istilah Utama
+### Urutan Mencuci
 
-- Kata seperti 洗濯、洗濯物、たまる membantu mengenali topik bacaan dengan cepat.
-- Jangan berhenti di arti Indonesia saja; cek apakah kata itu muncul sebagai benda, tempat, tindakan, atau kondisi.
+- Alur dasarnya: 洗剤を入れる → 洗濯をする → 干す／つるす → たたむ; setiap tahap punya kata kerjanya sendiri.
+- Menjemur memakai 干す kalau tujuannya mengeringkan (タオルを干す); つるす hanya berarti menggantung.
 
-### Tindakan dan Partikel
+### Pasangan Transitif–Intransitif
 
-- Pola dengan を biasanya menunjukkan objek yang dikenai tindakan.
-- Pola dengan が sering menunjukkan keadaan atau kejadian pada subjek.
-- Pola dengan に atau で sering menunjukkan tujuan, lokasi, alat, atau cara.
+- ためる／たまる, ぬらす／ぬれる, 乾かす／乾く, 汚す／汚れる, dan 伸ばす／伸びる semuanya berpola を (pelaku) vs が (keadaan).
+- Masalah cucian hampir selalu dilaporkan dengan bentuk keadaan: セーターが縮む, 色が落ちる, そでが汚れる.
 
-### Membaca dalam Konteks
+### Tingkat Basah dan Kering
 
-- Jika dua kata terjemahannya mirip, lihat kata di sekitarnya dan pola partikelnya.
-- Untuk kata serapan, tetap cek konteks Jepangnya karena maknanya bisa lebih sempit daripada bahasa Indonesia/Inggris.
+- ぬれている berarti basah betul; 湿っている hanya lembap, belum kering sempurna.
+- 乾く adalah hasil yang diharapkan; kalau tidak sabar, pakai 乾燥機で乾かす.
+
+### Layanan dan Produk
+
+- クリーニングに出す berarti menyerahkan ke jasa laundry; 出す di sini "menyerahkan", bukan "mengeluarkan".
+- 用 pada 台所用洗剤 menunjukkan kegunaan: deterjen khusus dapur, berbeda dari 洗濯用洗剤.
 
 ## Pola yang Sering Muncul
 
 | Pola | Arti praktis | Catatan membaca |
 |---|---|---|
-| 洗濯 | cucian / mencuci | 洗濯をする |
-| たまる | menumpuk | 洗濯物がたまる |
-| 乾く | kering | 洗濯物が乾く |
-| 真っ白に仕上がる | menjadi putih bersih | 仕上がる menunjukkan hasil akhir setelah proses selesai. |
-| 洗濯物をためる | membiarkan cucian menumpuk | ためる memakai を |
-| ぬらす | membasahi | ぬらす memakai を |
-| 干す | menjemur | 洗濯物を干す |
-| 乾燥機で乾かす | mengeringkan dengan mesin pengering | 乾かす berarti membuat sesuatu menjadi kering. |
+| 洗濯物がたまる | cucian menumpuk | pasangannya 洗濯物をためる |
+| （N）を干す | menjemur （N） | 洗濯物を干す, タオルを干す |
+| 乾燥機で乾かす | mengeringkan dengan mesin | で menandai alat; pasangannya 洗濯物が乾く |
+| （N）にアイロンをかける | menyetrika （N） | ワイシャツにアイロンをかける |
+| （N）をクリーニングに出す | membawa （N） ke jasa laundry | スーツをクリーニングに出す |
+| 真っ白に仕上がる | selesai menjadi putih bersih | 仕上がる = hasil akhir proses |
+| 色が落ちる | warnanya luntur | ジーンズの色が落ちる |
+| しわを伸ばす | merapikan kerutan | pasangannya しわが伸びる |
 
-Perhatikan pola partikel: `を` menandai objek tindakan, `が` sering menandai keadaan, `に` menunjukkan tujuan atau arah, dan `で` menunjukkan alat, tempat, atau cara.
+Perhatikan pola partikel pada pasangan kata kerja: `を` menandai tindakan pelaku (服を汚す, しわを伸ばす), `が` menandai keadaan cucian (洗濯物が乾く, そでが汚れる), dan `に` menandai sasaran atau tujuan (ワイシャツにアイロンをかける, クリーニングに出す).
 
 ## Contoh Kalimat
 
@@ -142,16 +146,17 @@ Perhatikan pola partikel: `を` menandai objek tindakan, `が` sering menandai k
 
 | Pasangan | Cara membedakan |
 |---|---|
-| 洗濯 / 洗濯物 | 洗濯 cocok untuk cucian / mencuci; 洗濯物 cocok untuk cucian. Gunakan kata sekitar dan partikel sebagai petunjuk. |
-| 乾く / 真っ白に仕上がる | 乾く cocok untuk kering; 真っ白に仕上がる cocok untuk menjadi putih bersih. Gunakan kata sekitar dan partikel sebagai petunjuk. |
-| 真っ白に仕上がる / 洗濯物をためる | 真っ白に仕上がる cocok untuk menjadi putih bersih; 洗濯物をためる cocok untuk membiarkan cucian menumpuk. Gunakan kata sekitar dan partikel sebagai petunjuk. |
-| 服を汚す / そでが真っ黒に汚れる | 服を汚す cocok untuk mengotori pakaian; そでが真っ黒に汚れる cocok untuk lengan baju menjadi sangat kotor. Gunakan kata sekitar dan partikel sebagai petunjuk. |
+| 洗濯 / 洗濯物 | 物 di akhir berarti "barang": 洗濯 adalah kegiatannya (洗濯をする), 洗濯物 adalah cuciannya (洗濯物を干す). Lihat kata kerja setelahnya. |
+| 乾かす / 乾く | Lihat partikelnya: を乾かす berarti seseorang mengeringkan (乾燥機でくつを乾かす); が乾く berarti bendanya kering sendiri (洗濯物が乾いた). |
+| ぬれている / 湿っている | Keduanya soal kadar air. ぬれている basah betul (baru kena hujan); 湿っている hanya lembap, misalnya cucian yang belum kering sempurna. |
+| 干す / つるす | 干す menyiratkan tujuan mengeringkan (タオルを干す); つるす hanya menggantung dari atas tanpa maksud mengeringkan (服をつるす di lemari). |
+| 汚す / 汚れる | 服を汚す menunjuk pelaku yang mengotori; そでが汚れる hanya melaporkan lengan bajunya kotor. Partikel を vs が memisahkannya. |
 
 ## Kesalahan Umum
 
-Jangan menerjemahkan kata satu per satu tanpa melihat frasa lengkap. Banyak kata terlihat mirip dalam bahasa Indonesia, tetapi berbeda saat dipasangkan dengan partikel, benda, atau kata kerja tertentu.
+Jangan menerjemahkan "menyetrika kemeja" menjadi ワイシャツをアイロンする: kolokasi yang benar adalah ワイシャツにアイロンをかける, dengan に pada pakaiannya. Begitu juga クリーニングに出す — 出す di sini berarti menyerahkan ke jasa, bukan mengeluarkan barang.
 
-Strategi cepat: cari dulu kata intinya, lalu cek partikel dan kata kerja di dekatnya. Jika bentuknya frasa kerja, hafalkan bersama pasangan katanya, bukan sebagai kata tunggal.
+Strategi cepat: pada kata kerja cucian, cek partikel sebelum menebak siapa yang bertindak. Bentuk が (たまる, 乾く, 汚れる, 縮む, 色が落ちる) hanya melaporkan keadaan cucian; bentuk を (ためる, 乾かす, 汚す, 伸ばす) berarti ada orangnya.
 
 ## Mini Practice
 
@@ -170,23 +175,23 @@ explanation: "たまっている benar. たまる berarti menumpuk; 乾く berar
 
 ::MiniPractice
 ---
-question: "Cucian sudah kering."
-sentence: "洗濯物が____。"
-optionA: "乾いた"
-optionB: "しわになった"
-correct: "乾いた"
-explanation: "乾いた benar. 洗濯物が乾く adalah pola untuk cucian menjadi kering."
+question: "Sepatu yang basah dikeringkan dengan mesin pengering."
+sentence: "ぬれたくつを乾燥機で____。"
+optionA: "乾かした"
+optionB: "乾いた"
+correct: "乾かした"
+explanation: "乾かした benar. Ada objek dengan を dan alat dengan で, jadi dipakai bentuk transitif 乾かす; 乾く hanya untuk keadaan (くつが乾いた)."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kemeja kusut setelah dicuci."
-sentence: "シャツが____。"
-optionA: "しわになった"
-optionB: "真っ白に仕上がった"
-correct: "しわになった"
-explanation: "しわになった benar. しわ berarti kerutan; 真っ白に仕上がる berarti jadi putih bersih."
+question: "Setelah disetrika, kerutan kemejanya menjadi rata."
+sentence: "アイロンをかけたら、しわが____。"
+optionA: "伸びた"
+optionB: "伸ばした"
+correct: "伸びた"
+explanation: "伸びた benar. しわが + keadaan memakai bentuk intransitif 伸びる; 伸ばした butuh pelaku dan partikel を (しわを伸ばした)."
 ---
 ::
 
@@ -195,20 +200,20 @@ explanation: "しわになった benar. しわ berarti kerutan; 真っ白に仕�
 question: "Kemeja putih itu selesai dicuci sampai putih bersih."
 sentence: "白いシャツが____。"
 optionA: "真っ白に仕上がった"
-optionB: "洗濯物をためた"
+optionB: "縮んだ"
 correct: "真っ白に仕上がった"
-explanation: "真っ白に仕上がった benar. 仕上がる menunjukkan hasil akhir setelah proses selesai."
+explanation: "真っ白に仕上がった benar. 仕上がる menunjukkan hasil akhir yang diharapkan; 縮む berarti menyusut — masalah cucian, bukan hasil yang bagus."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Baju kotor perlu dicuci."
-sentence: "汚れた服を____する。"
-optionA: "洗濯"
-optionB: "たまる"
-correct: "洗濯"
-explanation: "洗濯する benar karena objeknya 汚れた服. たまる berarti menumpuk."
+question: "Jas kerja dibawa ke jasa laundry."
+sentence: "スーツをクリーニングに____。"
+optionA: "出しました"
+optionB: "干しました"
+correct: "出しました"
+explanation: "出しました benar. クリーニングに出す adalah kolokasi \"menyerahkan ke jasa laundry\"; 干す berarti menjemur sendiri, tidak cocok dengan クリーニングに."
 ---
 ::
 

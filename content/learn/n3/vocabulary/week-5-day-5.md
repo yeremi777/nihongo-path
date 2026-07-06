@@ -26,7 +26,7 @@ Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat mem
 Fokus hari ini bukan hanya menghafal arti kata seperti 虫歯, ため息をつく, 汗をかく, dan 肩がこる, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> banyak kata muncul berpasangan intransitif–transitif — bandingkan が (perubahan terjadi sendiri) vs を (seseorang sengaja melakukannya): 体重が増える／体重を増やす, 体重が減る／体重を減らす. Untuk bagian tubuh, が痛む dan 顔色が悪い adalah keadaan. Ada juga kolokasi tetap yang kata kerjanya tak bisa ditukar: 汗をかく dan いびきをかく memakai かく, tetapi ため息をつく memakai つく.
 </div>
 
 ## Daftar Kata
@@ -119,7 +119,7 @@ Kata hari ini menghubungkan bagian tubuh -> kondisi -> perubahan. が sering men
   <span>髪</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang seperti apa keadaannya? (1): kata intinya bisa berupa 虫歯, 歯が痛む, dan 顔色; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
+Mulai dari bagian tubuh yang terlihat: 虫歯 yang 痛む, 顔色 yang 悪い, atau 白髪 dan しわ karena 年を取る. Lalu ada hal yang keluar dari tubuh — 涙が出る, 汗をかく, ため息をつく, せきや くしゃみが出る. Kelompok berat badan bergerak berpasangan: 体重が増える／太る lawan 体重が減る／やせる, dan versi disengajanya 体重を増やす／減らす lewat ダイエット. Terakhir soal penampilan: 背が高い, 髪が長い, lalu tindakan 髪を切る／そめる. Perhatikan apakah bagian tubuh menjadi subjek (が, keadaan) atau objek (を, tindakan).
 
 
 
@@ -181,12 +181,12 @@ explanation: "虫歯 adalah gigi berlubang; 痛む memberi petunjuk rasa sakit."
 
 ::MiniPractice
 ---
-question: "Warna wajah terlihat buruk."
-sentence: "____が悪い。"
-optionA: "顔色"
-optionB: "背"
-correct: "顔色"
-explanation: "顔色が悪い berarti tampak tidak sehat."
+question: "Akhir-akhir ini berat badannya naik dengan sendirinya (bukan disengaja)."
+sentence: "最近、体重が____。"
+optionA: "増えた"
+optionB: "増やした"
+correct: "増えた"
+explanation: "体重が増える (intransitif) menyatakan berat naik sendiri; 体重を増やす (transitif, memakai を) berarti sengaja menambah. Petunjuk partikel が memilih 増えた."
 ---
 ::
 
@@ -203,12 +203,12 @@ explanation: "髪をそめる berarti mewarnai rambut."
 
 ::MiniPractice
 ---
-question: "Gigi terasa sakit sejak pagi."
-sentence: "朝から____。"
-optionA: "歯が痛む"
-optionB: "顔色が悪い"
-correct: "歯が痛む"
-explanation: "歯が痛む menunjukkan rasa sakit pada gigi."
+question: "Karena berlari, saya banyak berkeringat."
+sentence: "走ったので、汗を____。"
+optionA: "かいた"
+optionB: "ついた"
+correct: "かいた"
+explanation: "汗をかく adalah kolokasi tetap. ため息はつく, tetapi 汗はかく — kata kerjanya tidak bisa ditukar."
 ---
 ::
 

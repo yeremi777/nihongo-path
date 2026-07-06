@@ -26,7 +26,7 @@ Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul saat men
 Fokus hari ini bukan hanya menghafal arti kata seperti 理想の人に出会う, 駅で待ち合わせる, 旅行会社に申し込む, dan 荷物を受け取る, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata dari benda, orang/tempat, tindakan, dan kondisi. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan/arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> ini kata kerja majemuk yang harus dihafal bersama partikelnya. Dua petunjuk kunci: (1) に vs と — 人に話しかける satu arah (kamu menyapa), tetapi 人と話し合う／知り合う dua arah (saling); (2) bagian kedua kata kerja menentukan arti — 取り替える (ganti), 取り消す (batal), 取り出す (keluarkan) semua dari 取る, dan 通りかかる (kebetulan lewat) berbeda dari 通り過ぎる (lewat sampai terlewat).
 </div>
 
 ## Daftar Kata
@@ -99,9 +99,7 @@ Kosakata hari ini adalah peta pasangan: orang + に出会う／に話しかけ�
   <span>飛び込む</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang kombinasi kata: kata intinya bisa berupa 理想の人に出会う, 出会い, dan 友人を招待する; kata lain membantu menunjukkan benda, orang/tempat, tindakan, atau kondisi. Mulai dari kata inti, lalu lihat pasangan kata kerja dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
-
-
+Ikuti satu alur acara: 友人を招待する (mengundang teman) → 駅で待ち合わせる (janjian di stasiun) → di jalan 寺の前を通りかかる (kebetulan lewat depan kuil) → 隣の人に話しかける (menyapa orang di sebelah) lalu 知り合う (jadi kenalan) → pulang, 客を見送る (mengantar tamu). Setiap langkah memakai partikel tetap, dan sebagian besar punya bentuk nomina (出会い, 待ち合わせ, 見送り) — begitu kamu kenali partikel dan bagian kedua kata kerjanya, seluruh frasa bisa dibaca sebagai satu blok.
 
 ## Catatan Pemakaian
 
@@ -114,13 +112,13 @@ Bayangkan kamu sedang membaca atau mendengar situasi tentang kombinasi kata: kat
 
 ## Pola yang Sering Muncul
 
-- **人に出会う・人に話しかける:** に menandai lawan tindakan.
-- **人と話し合う・人と知り合う:** と menandai mitra dua arah.
-- **場所で待ち合わせる:** で menandai tempat janji temu.
-- **場所に申し込む:** に menandai tujuan pendaftaran.
-- **物を受け取る・取り替える・取り消す:** を menandai objek yang diproses.
-- **列に並ぶ:** に menandai barisan yang dimasuki.
-- **場所に飛び込む:** に menandai arah masuk.
+- **（人）に出会う・（人）に話しかける:** に menandai lawan tindakan satu arah.
+- **（人）と話し合う・（人）と知り合う:** と menandai mitra dua arah.
+- **（場所）で待ち合わせる:** で menandai tempat janji temu.
+- **（場所）に申し込む:** に menandai tujuan pendaftaran.
+- **（物）を受け取る・取り替える・取り消す:** を menandai objek yang diproses.
+- **（列）に並ぶ:** に menandai barisan yang dimasuki.
+- **（場所）に飛び込む:** に menandai arah masuk/terjun.
 
 ## Contoh Kalimat
 
@@ -184,23 +182,23 @@ explanation: "飛び込む benar karena プールに menunjukkan tempat yang dim
 
 ::MiniPractice
 ---
-question: "Saya bertemu orang ideal di tempat perjalanan."
-sentence: "旅先で____。"
-optionA: "理想の人に出会う"
-optionB: "出会い"
-correct: "理想の人に出会う"
-explanation: "理想の人に出会う benar karena kalimat membutuhkan frasa kerja setelah 旅先で. 出会い adalah kata benda."
+question: "Saya menyapa orang di sebelah."
+sentence: "隣の人に____。"
+optionA: "話しかける"
+optionB: "話し合う"
+correct: "話しかける"
+explanation: "話しかける benar karena partikel に menandai tindakan satu arah (kamu menyapa). 話し合う bersifat dua arah dan memakai と, seperti 田中さんと話し合う."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Ada pertemuan yang indah."
-sentence: "すてきな____があった。"
-optionA: "出会い"
-optionB: "理想の人に出会う"
-correct: "出会い"
-explanation: "出会い adalah nomina pertemuan; があった memberi petunjuk kata benda."
+question: "Saya membatalkan reservasi hotel."
+sentence: "ホテルの予約を____。"
+optionA: "取り消す"
+optionB: "取り替える"
+correct: "取り消す"
+explanation: "取り消す benar karena berarti membatalkan (予約を取り消す). 取り替える berarti mengganti dengan yang lain, seperti 電池を取り替える."
 ---
 ::
 
