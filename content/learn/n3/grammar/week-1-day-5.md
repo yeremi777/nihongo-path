@@ -116,10 +116,11 @@ Di tabel ini, `（A）` adalah orang atau pihak yang memberi instruksi, `（B）
 
 <div class="example-list">
   <div><p class="jp">ご存じのように、試験の内容が変わります。</p><p>Seperti yang Anda ketahui, isi ujian akan berubah.</p></div>
-  <div><p class="jp">前に話したように、来週の予定を少し変えます。</p><p>Seperti yang sudah saya katakan sebelumnya, jadwal minggu depan akan sedikit diubah.</p></div>
+  <div><p class="jp">この図のような形を書いてください。</p><p>Tolong gambar bentuk seperti pada gambar ini.</p></div>
   <div><p class="jp">先生は学生に、明日は早く来るように言いました。</p><p>Guru memberi tahu siswa agar datang lebih awal besok.</p></div>
+  <div><p class="jp">母に、帰りに牛乳を買ってくるように頼まれました。</p><p>Saya dimintai tolong ibu untuk membeli susu dalam perjalanan pulang.</p></div>
   <div><p class="jp">ここで、たばこを吸わないように。</p><p>Harap jangan merokok di sini.</p></div>
-  <div><p class="jp">試験に合格しますように。</p><p>Semoga saya lulus ujian.</p></div>
+  <div><p class="jp">明日、雨が降りませんように。</p><p>Semoga besok tidak turun hujan.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar
@@ -127,6 +128,7 @@ Di tabel ini, `（A）` adalah orang atau pihak yang memberi instruksi, `（B）
 | Pasangan | Cara membedakan |
 |---|---|
 | 〜ように（tujuan） / 〜ように（sebagaimana） | Kalau ada target agar bisa/terjadi, artinya "supaya". Kalau merujuk ucapan, gambar, atau hal yang diketahui, artinya "seperti". |
+| 〜ように / 〜ような | `ように` menerangkan verba atau seluruh kalimat, seperti 前に話したように説明します. `ような` menerangkan nomina, seperti 図のような形. Lihat kata setelahnya: verba/kalimat atau kata benda. |
 | 〜ように。 / 〜てください | `〜ように。` terasa seperti aturan/pengingat. `〜てください` adalah permintaan langsung. |
 | 〜ますように / 〜たい | `ますように` adalah harapan atas hasil yang belum tentu bisa dikontrol. `たい` adalah keinginan pembicara untuk melakukan tindakan. |
 | 〜ように言う / 〜なと言う | `ように言う` bisa untuk melakukan atau tidak melakukan. `（Vる）なと言う` melaporkan larangan langsung. |
@@ -159,9 +161,9 @@ explanation: "のように benar karena kalimatnya berarti 'seperti yang Anda ke
 question: "Guru memberi tahu siswa agar datang lebih awal besok."
 sentence: "先生は学生に、明日は早く来る____言いました。"
 optionA: "ように"
-optionB: "ために"
+optionB: "と"
 correct: "ように"
-explanation: "来るように言いました benar untuk instruksi tidak langsung: diberi tahu agar datang."
+explanation: "来るように言いました benar untuk instruksi tidak langsung: siswa diberi tahu agar datang lebih awal. 来ると言いました berarti melaporkan isi ucapan 'akan datang', bukan menyuruh."
 ---
 ::
 
@@ -194,7 +196,7 @@ sentence: "前に話した____、来週の予定が少し変わります。"
 optionA: "ように"
 optionB: "ような"
 correct: "ように"
-explanation: "話したように benar karena merujuk pada hal yang sudah dikatakan sebelumnya."
+explanation: "話したように benar karena merujuk pada hal yang sudah dikatakan, lalu diikuti kalimat lengkap. ような hanya dipakai untuk menerangkan kata benda, seperti 図のような形."
 ---
 ::
 

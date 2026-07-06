@@ -57,31 +57,21 @@ Di akhir pelajaran ini, kamu bisa membedakan konektor untuk menambah item, menan
 | Poin pendukung | （Kalimat A）。その上、（Kalimat B） | Apakah B memperkuat A? |
 | Jumlah tambahan | あと（number） | Apakah artinya sisa/lagi sejumlah angka? |
 
-Simbol di tabel ini hanya penanda slot. `（N）` berarti nomina atau frasa nomina, `（V）` berarti verba, `（Adj）` berarti adjektiva, `（klausa）` atau `（bentuk biasa）` berarti klausa atau bentuk biasa, dan pasangan seperti `（A）／（B）` atau `（Kalimat A）／（Kalimat B）` dipakai untuk membedakan dua sisi kalimat.
+Simbol di tabel ini hanya penanda slot. `（N）` berarti nomina atau frasa nomina, `（number）` berarti angka/jumlah, `（question）` berarti kalimat tanya, dan pasangan `（Kalimat A）／（Kalimat B）` atau `（Option A）／（Option B）` dipakai untuk membedakan dua sisi kalimat.
 
 ## Cara Membentuk Pola
 
-### 1. Pilih bentuk sebelum pola
+Pola hari ini adalah konektor antar kalimat, jadi tidak ada perubahan bentuk verba. Yang perlu kamu bangun adalah posisi konektornya: selesaikan kalimat pertama, lalu buka kalimat kedua dengan konektor yang sesuai arah percakapan.
 
-| Tujuan | Bentuk | Contoh bentuk |
+| Konektor | Kerangka | Contoh bentuk |
 |---|---|---|
-| Dan paprika juga | それと（N）も | それと、ピーマンも |
-| Lalu apa lagi | あと、（question） | あと、何をすればいいですか |
-| Kopi atau teh | （Option A）か。それとも（Option B）か | コーヒーにしますか。それとも紅茶にしますか |
-| Enak dan murah | その上（Kalimat） | その上値段も安い |
-| Tiga lagi | あと（number） | あと3個 |
+| それと（N）も | tambah satu item | トマトを3個ください。それと、ピーマンも |
+| あと、（question） | tanya sisa hal | 宿題は終わりました。あと、何をすればいいですか |
+| （Option A）か。それとも（Option B）か | minta lawan bicara memilih | コーヒーにしますか。それとも紅茶にしますか |
+| （Kalimat A）。その上、（Kalimat B） | poin kedua memperkuat poin pertama | 料理はおいしいです。その上、値段も安いです |
+| あと（number） | jumlah tambahan/tersisa | すみません、あと3個ください |
 
-### 2. Masukkan ke fungsi kalimat
-
-| Bentuk | Fungsi | Contoh pendek |
-|---|---|---|
-| それと | dan juga | それとピーマンも |
-| あと | lalu / satu lagi | あと何をする？ |
-| それとも | atau pilihan | コーヒー？それとも紅茶？ |
-| その上 | selain itu memperkuat | おいしい。その上安い |
-| あと＋数量 | lagi / tersisa | あと3個ください |
-
-Saat membangun kalimat, jangan mulai dari terjemahan kata per kata. Tentukan dulu slot yang berubah, lalu cek partikel, bentuk akhir, dan hubungan antarbagian kalimat.
+Saat membangun kalimat, jangan mulai dari terjemahan kata per kata. Tentukan dulu arah percakapannya — menambah, memilih, atau memperkuat — lalu pilih konektornya.
 
 ## Bangun Kalimat Bertahap
 
@@ -109,7 +99,9 @@ Bagian ini menghubungkan rumus dan contoh kalimat. Mulai dari bahan pendeknya du
 
 ### Poin pendukung
 
-- その上 menambahkan hal yang memperkuat penilaian sebelumnya.
+- その上 menambahkan hal yang memperkuat penilaian sebelumnya, dan terasa agak formal/tertulis.
+- Kedua kalimat harus searah: sama-sama positif atau sama-sama negatif. おいしい。その上、安い。 natural; おいしい。その上、高い。 janggal karena pujian disambung keluhan.
+- しかも fungsinya mirip その上 tetapi penekanannya lebih kuat dan lebih sering muncul dalam percakapan.
 - Jika hanya daftar item, それと atau あと lebih natural.
 
 ## Pola yang Sering Muncul
@@ -130,6 +122,7 @@ Bagian ini menghubungkan rumus dan contoh kalimat. Mulai dari bahan pendeknya du
   <div><p class="jp">今週会いますか。それとも来週にしますか。</p><p>Kita bertemu minggu ini, atau minggu depan saja?</p></div>
   <div><p class="jp">このアプリは使いやすいです。その上、無料です。</p><p>Aplikasi ini mudah digunakan. Selain itu, gratis.</p></div>
   <div><p class="jp">時間はあと五分しかありません。</p><p>Waktunya hanya tersisa lima menit lagi.</p></div>
+  <div><p class="jp">今日は寒い。しかも、雨も降っている。</p><p>Hari ini dingin. Apalagi, hujan juga turun.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar
@@ -140,6 +133,7 @@ Bagian ini menghubungkan rumus dan contoh kalimat. Mulai dari bahan pendeknya du
 | それと / それとも | それと berarti dan. それとも berarti atau pilihan. |
 | それとも / または | それとも natural dalam pertanyaan percakapan. または lebih tertulis/formal. |
 | その上 / それと | その上 menambah poin yang memperkuat. それと hanya menambah item. |
+| その上 / しかも | Fungsinya sama-sama memperkuat, tetapi しかも penekanannya lebih kuat dan lebih lisan; その上 lebih halus dan cenderung tertulis/formal. |
 | あと＋数量 / あと connector | Dengan angka, あと berarti lagi atau tersisa, bukan hanya dan. |
 
 ## Kesalahan Umum
@@ -149,6 +143,7 @@ Bagian ini menghubungkan rumus dan contoh kalimat. Mulai dari bahan pendeknya du
 | トマト3個。それともピーマンもください。 | トマト3個。それとピーマンもください。 | Tambahan item belanja memakai それと, bukan それとも. |
 | コーヒーにしますか。それと紅茶にしますか。 | コーヒーにしますか。それとも紅茶にしますか。 | Pilihan alternatif memakai それとも. |
 | この店の料理はおいしい。それと値段も安い。 | この店の料理はおいしい。その上値段も安い。 | Jika poin kedua memperkuat pujian pertama, その上 lebih tepat. |
+| この料理はおいしい。その上、高い。 | この料理はおいしい。しかし、高い。 | その上 menuntut kedua kalimat searah. Pujian (おいしい) yang disambung keluhan (高い) memakai kata sambung kontras seperti しかし, bukan その上. |
 | あと3個 = dan tiga buah. | あと3個 = tiga lagi / sisa tiga lagi. | あと dengan angka menunjukkan tambahan atau sisa jumlah. |
 
 ## Mini Practice
@@ -204,9 +199,9 @@ explanation: "あと benar karena pembicara menambah pertanyaan apa lagi."
 question: "Tolong tiga lagi."
 sentence: "すみません、____ください。"
 optionA: "あと3個"
-optionB: "それとも3個"
+optionB: "それと3個"
 correct: "あと3個"
-explanation: "あと3個 benar karena あと + jumlah berarti tambahan tiga lagi."
+explanation: "あと3個 benar karena あと + jumlah berarti 'tiga lagi / tambahan tiga'. それと hanya menyambung item baru (それと、ピーマンも) dan tidak membawa makna jumlah tambahan."
 ---
 ::
 

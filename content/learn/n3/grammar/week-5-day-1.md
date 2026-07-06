@@ -32,7 +32,7 @@ Di akhir pelajaran ini, kamu bisa membedakan pola untuk menambahkan informasi, m
 | Fungsi | Pola | Arti praktis | Kapan dipakai |
 |---|---|---|---|
 | Tambahan wajar | 〜はもちろん・〜のはもちろん | tentu saja bukan hanya | item pertama sudah jelas, lalu ditambah item lain |
-| Tambahan kuat | 〜ばかりか・〜ばかりでなく | tidak hanya, bahkan juga | tambahan kedua terasa kuat atau mengejutkan |
+| Tambahan kuat | 〜ばかりか・〜ばかりか〜も | tidak hanya, bahkan juga | tambahan kedua terasa kuat; も menegaskan item tambahan |
 | Perbandingan | 〜に比べて・〜のに比べて | dibandingkan dengan | membandingkan dua benda, waktu, tindakan, atau situasi |
 | Target sikap | 〜に対して・〜に対する | terhadap / kepada | sikap, tindakan, kritik, atau respons menuju target |
 | Kontras dua sisi | 〜に対して | berbeda dengan | membandingkan dua pihak secara kontras |
@@ -128,6 +128,7 @@ Bagian ini menghubungkan rumus dan contoh kalimat. Mulai dari bahan pendeknya du
 <div class="example-list">
   <div><p class="jp">この本は子どもはもちろん、大人にも人気があります。</p><p>Buku ini populer bukan hanya di kalangan anak-anak, tetapi juga orang dewasa.</p></div>
   <div><p class="jp">この料理は安いばかりか、量も多いです。</p><p>Masakan ini bukan hanya murah, tetapi porsinya juga banyak.</p></div>
+  <div><p class="jp">私は漢字ばかりか、ひらがなもまだ書けません。</p><p>Bukan hanya kanji, bahkan hiragana pun saya belum bisa menulisnya.</p></div>
   <div><p class="jp">去年に比べて、今年は雨の日が多いです。</p><p>Dibandingkan tahun lalu, tahun ini hari hujannya lebih banyak.</p></div>
   <div><p class="jp">先生は学生に対して、いつも丁寧に説明します。</p><p>Guru selalu menjelaskan dengan sopan kepada siswa.</p></div>
   <div><p class="jp">兄が静かなのに対して、妹はとてもにぎやかです。</p><p>Berbeda dengan kakak laki-laki saya yang pendiam, adik perempuan saya sangat ramai.</p></div>
@@ -141,6 +142,8 @@ Bagian ini menghubungkan rumus dan contoh kalimat. Mulai dari bahan pendeknya du
 | はもちろん / も | も hanya juga. はもちろん menegaskan A sudah tentu termasuk. |
 | ばかりか / だけでなく | ばかりか lebih emosional dan kuat daripada だけでなく. |
 | に比べて / に対して | に比べて membandingkan. に対して bisa target sikap atau kontras. |
+| に比べて / のに比べて | に比べて menempel pada nomina. のに比べて dipakai saat membandingkan tindakan/verba, seperti 店で買うのに比べて通信販売は便利だ. |
+| に対して / に対する | に対して sebelum kata sifat atau verba (生徒に対して厳しい). に対する sebelum nomina seperti 態度・意見・反応 (生徒に対する態度). |
 | に対して / について | に対して menuju target. について membahas topik. |
 
 ## Kesalahan Umum
@@ -163,7 +166,7 @@ sentence: "彼は勉強____、スポーツもよくできます。"
 optionA: "はもちろん"
 optionB: "に対して"
 correct: "はもちろん"
-explanation: "はもちろん benar karena 勉強 adalah hal yang sudah jelas lalu スポーツ ditambahkan."
+explanation: "はもちろん benar karena 勉強 adalah hal yang sudah jelas, lalu スポーツ ditambahkan. に対して salah karena menandai target sikap (terhadap sesuatu), bukan menambahkan poin kedua."
 ---
 ::
 
@@ -172,9 +175,9 @@ explanation: "はもちろん benar karena 勉強 adalah hal yang sudah jelas la
 question: "Makanan restoran itu buruk, dan sikap pegawainya juga parah."
 sentence: "あの店は味が悪い____、店員の態度もひどいです。"
 optionA: "ばかりか"
-optionB: "に比べて"
+optionB: "ばかりに"
 correct: "ばかりか"
-explanation: "ばかりか benar karena tambahan kedua memperkuat penilaian negatif."
+explanation: "ばかりか benar karena menambahkan poin kedua yang searah dan lebih kuat (rasa buruk + sikap buruk). ばかりに salah karena berarti 'gara-gara' sebuah sebab menimbulkan akibat buruk, bukan menambah poin."
 ---
 ::
 
@@ -185,7 +188,7 @@ sentence: "試験問題は昨年____易しくなりました。"
 optionA: "に比べて"
 optionB: "に対して"
 correct: "に比べて"
-explanation: "に比べて benar karena 昨年 menjadi standar perbandingan."
+explanation: "に比べて benar karena 昨年 menjadi standar perbandingan. に対して salah karena menandai target sikap, bukan pembanding ukuran."
 ---
 ::
 
@@ -196,7 +199,7 @@ sentence: "先生は生徒____厳しいです。"
 optionA: "に対して"
 optionB: "に比べて"
 correct: "に対して"
-explanation: "に対して benar karena 生徒 adalah target sikap 厳しい."
+explanation: "に対して benar karena 生徒 adalah target sikap 厳しい. に比べて salah karena berarti membandingkan siswa dengan sesuatu, bukan menunjukkan sikap terhadap siswa."
 ---
 ::
 
@@ -207,7 +210,7 @@ sentence: "キャベツは炒めて食べる____、生で食べてもおいし�
 optionA: "のはもちろん"
 optionB: "はもちろん"
 correct: "のはもちろん"
-explanation: "のはもちろん benar karena bagian sebelum はもちろん berupa klausa tindakan."
+explanation: "のはもちろん benar karena bagian sebelum はもちろん berupa klausa tindakan (炒めて食べる), sehingga butuh の. はもちろん tanpa の salah karena tidak boleh langsung menempel pada klausa verba."
 ---
 ::
 

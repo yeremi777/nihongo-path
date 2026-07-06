@@ -166,12 +166,12 @@ Pilih jawaban yang paling tepat. Perhatikan konteks, bentuk sebelum pola, dan nu
 
 ::MiniPractice
 ---
-question: "Saya merasa panas."
-sentence: "私は____。"
-optionA: "暑いです"
-optionB: "暑がっています"
-correct: "暑いです"
-explanation: "暑いです benar karena perasaan diri sendiri dinyatakan langsung, bukan dengan がる."
+question: "Saya ingin kamu tidak menelepon larut malam."
+sentence: "夜遅くに____です。"
+optionA: "電話しないでほしい"
+optionB: "電話したくない"
+correct: "電話しないでほしい"
+explanation: "電話しないでほしい benar karena pembicara berharap ORANG LAIN tidak menelepon (〜ないでほしい). 電話したくない berarti pembicara sendiri yang tidak ingin menelepon — pelakunya berubah."
 ---
 ::
 
@@ -182,7 +182,7 @@ sentence: "子どもが____。"
 optionA: "暑がっています"
 optionB: "暑いです"
 correct: "暑がっています"
-explanation: "暑がっています benar karena がる dipakai untuk tanda perasaan orang lain yang terlihat."
+explanation: "暑がっています benar karena がる dipakai untuk tanda perasaan orang lain yang terlihat dari luar. 子どもが暑いです terdengar seolah pembicara tahu langsung isi hati anak itu, dan itu dihindari dalam bahasa Jepang."
 ---
 ::
 
@@ -193,7 +193,7 @@ sentence: "弟は____。"
 optionA: "帰りたがっています"
 optionB: "帰りたいです"
 correct: "帰りたがっています"
-explanation: "帰りたがっています benar karena keinginan orang lain biasanya dinyatakan dengan たがる."
+explanation: "帰りたがっています benar karena keinginan orang lain yang tampak dinyatakan dengan たがる. 帰りたいです hanya untuk keinginan pembicara sendiri, padahal subjeknya 弟."
 ---
 ::
 
@@ -204,7 +204,7 @@ sentence: "教科書を____。"
 optionA: "見せてほしいです"
 optionB: "見せるほしいです"
 correct: "見せてほしいです"
-explanation: "見せてほしいです benar karena ほしい untuk tindakan orang lain memakai bentuk て."
+explanation: "見せてほしいです benar karena ほしい untuk tindakan orang lain menempel pada bentuk て. Bentuk kamus seperti 見せる tidak bisa disambung langsung dengan ほしい."
 ---
 ::
 
@@ -215,7 +215,7 @@ sentence: "田中さんは独身____しています。"
 optionA: "のふりを"
 optionB: "なふりを"
 correct: "のふりを"
-explanation: "独身のふりをしています benar karena nomina sebelum ふりをする memakai の."
+explanation: "独身のふりをしています benar karena 独身 adalah nomina, dan nomina sebelum ふりをする memakai の. な hanya dipakai untuk adjektiva-na seperti 元気なふり."
 ---
 ::
 

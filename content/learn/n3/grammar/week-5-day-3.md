@@ -138,6 +138,7 @@ Bagian ini menghubungkan rumus dan contoh kalimat. Mulai dari bahan pendeknya du
 | Pasangan | Cara membedakan |
 |---|---|
 | といいなあ / たらいいなあ | といいなあ untuk harapan keadaan. たらいいなあ lebih terasa "andai kondisi itu terjadi". |
+| たらいいなあ / ばいいなあ | Keduanya harapan yang belum pasti. ばいいなあ memakai bentuk 〜ば, sering untuk kondisi yang diharapkan (試験に受かればいいなあ). |
 | たらいいなあ / ばよかった | たらいいなあ masih harapan. ばよかった adalah penyesalan masa lalu. |
 | ばよかった / ばよかったのに | のに menambah rasa kecewa atau menyayangkan orang/situasi. |
 | ないかなあ / かなあ | ないかなあ sering berharap sesuatu terjadi. かなあ hanya bertanya-tanya. |
@@ -163,18 +164,18 @@ sentence: "明日の面接がうまく____。"
 optionA: "いくといいなあ"
 optionB: "いけばよかった"
 correct: "いくといいなあ"
-explanation: "いくといいなあ benar karena ini harapan untuk masa depan."
+explanation: "いくといいなあ benar karena ini harapan untuk masa depan (wawancara belum terjadi). いけばよかった salah karena menyatakan penyesalan masa lalu ('seharusnya tadi lancar')."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Andai saya bisa berbicara bahasa Jepang dengan lancar."
-sentence: "日本語がうまく____いいなあ。"
-optionA: "話せたら"
-optionB: "話せばよかったら"
-correct: "話せたら"
-explanation: "話せたらいいなあ benar karena pembicara mengharapkan kemampuan yang belum pasti."
+sentence: "もっと日本語がうまく____なあ。"
+optionA: "話せたらいい"
+optionB: "話せればよかった"
+correct: "話せたらいい"
+explanation: "話せたらいい benar karena pembicara masih mengharapkan kemampuan yang belum tercapai. 話せればよかった salah karena itu penyesalan masa lalu ('seharusnya tadi bisa'), bukan harapan ke depan."
 ---
 ::
 
@@ -185,7 +186,7 @@ sentence: "もっと早く家を____。"
 optionA: "出ればよかった"
 optionB: "出るといいなあ"
 correct: "出ればよかった"
-explanation: "出ればよかった benar karena ini penyesalan masa lalu."
+explanation: "出ればよかった benar karena ini penyesalan masa lalu (jalanan sudah terlanjur macet). 出るといいなあ salah karena itu harapan untuk keadaan yang belum terjadi."
 ---
 ::
 
@@ -196,7 +197,7 @@ sentence: "君も____。"
 optionA: "行けばよかったのに"
 optionB: "行くといいなあ"
 correct: "行けばよかったのに"
-explanation: "行けばよかったのに benar karena のに menambah rasa menyayangkan terhadap orang lain."
+explanation: "行けばよかったのに benar karena のに menambah rasa menyayangkan terhadap orang lain (sayang kamu tidak ikut). 行くといいなあ salah karena itu harapan ke depan, bukan penyesalan atas apa yang sudah lewat."
 ---
 ::
 
@@ -207,7 +208,7 @@ sentence: "バス、早く____。"
 optionA: "来ないかなあ"
 optionB: "来なかったらよかった"
 correct: "来ないかなあ"
-explanation: "来ないかなあ benar karena bentuk ini sering menyatakan harapan agar sesuatu segera terjadi."
+explanation: "来ないかなあ benar karena bentuk ini sering menyatakan harapan agar sesuatu segera terjadi (semoga bus cepat datang). 来なかったらよかった salah karena justru berarti 'seandainya tadi bus tidak datang', kebalikan dari harapan di sini."
 ---
 ::
 

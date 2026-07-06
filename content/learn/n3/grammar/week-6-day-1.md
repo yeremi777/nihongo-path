@@ -141,6 +141,7 @@ Bagian ini menghubungkan rumus dan contoh kalimat. Mulai dari bahan pendeknya du
 | もし〜たなら / もし〜なら | たなら melihat kondisi masa lalu yang tidak terjadi. |
 | としても / ても | としても lebih kuat sebagai konsesi hipotetis. ても lebih umum. |
 | としても / にしても | としても menerima asumsi. にしても lebih luas untuk evaluasi atau alternatif. |
+| としても / としたって | Arti sama. としたって adalah versi percakapan yang lebih santai, mis. 決勝に残ったとしたって、優勝は難しい。 |
 
 ## Kesalahan Umum
 
@@ -162,7 +163,7 @@ sentence: "行く____、早く行きましょう。"
 optionA: "なら"
 optionB: "としても"
 correct: "なら"
-explanation: "なら benar karena pembicara bereaksi pada asumsi bahwa lawan bicara pergi."
+explanation: "なら benar karena pembicara bereaksi pada asumsi bahwa lawan bicara pergi. としても berarti 'walaupun pergi', jadi menolak asumsi, bukan bereaksi padanya."
 ---
 ::
 
@@ -173,7 +174,7 @@ sentence: "参加しない____、今日中に連絡してください。"
 optionA: "のなら"
 optionB: "としても"
 correct: "のなら"
-explanation: "のなら benar karena kalimatnya berarti kalau memang situasinya tidak ikut."
+explanation: "のなら benar karena kalimatnya berarti 'kalau memang situasinya tidak ikut'. としても berarti 'walaupun tidak ikut', sehingga meminta konfirmasi tetap tidak masuk akal di sini."
 ---
 ::
 
@@ -184,7 +185,7 @@ sentence: "____生まれ変われるなら、男になりたいです。"
 optionA: "もしも"
 optionB: "そのため"
 correct: "もしも"
-explanation: "もしも benar karena kondisi ini hipotetis dan imajinatif."
+explanation: "もしも benar karena memperkuat rasa pengandaian pada kondisi imajinatif. そのため berarti 'oleh karena itu', konektor sebab-akibat yang tidak cocok untuk memperkenalkan pengandaian."
 ---
 ::
 
@@ -195,7 +196,7 @@ sentence: "もし試験を____、合格していたと思います。"
 optionA: "受けていたなら"
 optionB: "受けるなら"
 correct: "受けていたなら"
-explanation: "受けていたなら benar karena kalimatnya kontrafaktual masa lalu."
+explanation: "受けていたなら benar karena hasil 合格していた menunjukkan kontrafaktual masa lalu, jadi kondisinya harus bentuk lampau ていた. 受けるなら hanya syarat umum dan tidak cocok dengan hasil lampau itu."
 ---
 ::
 
@@ -206,7 +207,7 @@ sentence: "もし休みが取れた____、旅行には行かないつもりで�
 optionA: "としても"
 optionB: "なら"
 correct: "としても"
-explanation: "としても benar karena hasilnya tetap tidak berubah walau kondisi cuti terpenuhi."
+explanation: "としても benar karena hasilnya (tidak bepergian) tetap sama walau asumsi cuti terpenuhi. なら hanya syarat biasa dan tidak menegaskan bahwa hasil tidak berubah."
 ---
 ::
 

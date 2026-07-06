@@ -153,7 +153,7 @@ sentence: "命の大切____を教えなければなりません。"
 optionA: "さ"
 optionB: "み"
 correct: "さ"
-explanation: "大切さ benar karena menunjukkan tingkat atau pentingnya suatu sifat."
+explanation: "大切さ benar karena tingkat sifat yang objektif memakai さ. み hanya bisa menempel pada kata terbatas seperti 強み atau 苦しみ; 大切み bukan kata yang lazim."
 ---
 ::
 
@@ -164,7 +164,7 @@ sentence: "田中さんの____は、2か国語が話せることです。"
 optionA: "強み"
 optionB: "強さ"
 correct: "強み"
-explanation: "強み benar karena berarti sisi kuat atau kelebihan seseorang."
+explanation: "強み benar karena berarti sisi kuat atau kelebihan seseorang (rasa/sisi sifat). 強さ juga kata yang benar, tetapi artinya tingkat kekuatan yang diukur, bukan 'kelebihan'."
 ---
 ::
 
@@ -175,7 +175,7 @@ sentence: "田中さんが入院した____を知っていますか。"
 optionA: "こと"
 optionB: "の"
 correct: "こと"
-explanation: "こと benar karena kalimatnya menanyakan fakta bahwa Tanaka-san dirawat."
+explanation: "こと benar karena 知る membicarakan fakta abstrak, dan fakta memakai こと. の lebih cocok untuk tindakan konkret yang dilihat, didengar, atau dilupakan."
 ---
 ::
 
@@ -186,7 +186,7 @@ sentence: "電話する____をすっかり忘れていました。"
 optionA: "の"
 optionB: "こと"
 correct: "の"
-explanation: "の benar karena tindakan konkret yang dilupakan sering dinominalkan dengan の."
+explanation: "の benar karena 忘れる termasuk verba (bersama 見る dan 聞く) yang memilih の untuk tindakan konkret yang lupa dilakukan. こと akan menggeser makna ke fakta abstrak, bukan tindakan meneleponnya."
 ---
 ::
 
@@ -197,7 +197,7 @@ sentence: "日曜日に混んだところへ行く____は好きではありま�
 optionA: "の"
 optionB: "もの"
 correct: "の"
-explanation: "の benar karena menominakan tindakan pergi ke tempat ramai."
+explanation: "の benar karena yang tidak disukai adalah tindakan 'pergi', dan preferensi terhadap tindakan memakai の. もの dipakai untuk benda atau hal konkret（甘いもの）, bukan untuk menominakan klausa verba."
 ---
 ::
 

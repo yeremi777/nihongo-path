@@ -172,9 +172,9 @@ explanation: "聞こえるように benar karena targetnya keadaan 'terdengar', 
 question: "Setelah diperbaiki, alat ini sudah bisa dipakai."
 sentence: "直してもらったから、____。"
 optionA: "使えるようになりました"
-optionB: "使うためになりました"
+optionB: "使うようになりました"
 correct: "使えるようになりました"
-explanation: "使えるようになりました benar karena menunjukkan perubahan menjadi bisa dipakai."
+explanation: "使えるようになりました benar karena targetnya perubahan kemampuan: alat itu menjadi bisa dipakai, jadi perlu bentuk potensial 使える. 使うようになりました berarti perubahan kebiasaan (mulai terbiasa memakai), bukan menjadi bisa dipakai."
 ---
 ::
 

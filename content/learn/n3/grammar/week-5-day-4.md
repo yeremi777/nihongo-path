@@ -163,7 +163,7 @@ sentence: "連絡がある____待っています。"
 optionA: "まで"
 optionB: "までに"
 correct: "まで"
-explanation: "まで benar karena tindakan menunggu berlanjut sampai kabar datang."
+explanation: "まで benar karena tindakan menunggu berlanjut terus sampai titik kabar datang. までに salah karena itu untuk batas waktu penyelesaian (deadline), padahal di sini keadaannya berlanjut, bukan diselesaikan sebelum tenggat."
 ---
 ::
 
@@ -172,9 +172,9 @@ explanation: "まで benar karena tindakan menunggu berlanjut sampai kabar datan
 question: "Sayuran ini bahkan daunnya bisa dimakan."
 sentence: "この野菜は葉____食べられます。"
 optionA: "まで"
-optionB: "までに"
+optionB: "だけ"
 correct: "まで"
-explanation: "まで benar karena 葉 adalah contoh ekstrem yang ikut bisa dimakan."
+explanation: "まで benar karena 葉 adalah contoh ekstrem yang bahkan ikut bisa dimakan. だけ salah karena berarti 'hanya daunnya', menghilangkan nuansa 'bahkan/sampai'."
 ---
 ::
 
@@ -183,9 +183,9 @@ explanation: "まで benar karena 葉 adalah contoh ekstrem yang ikut bisa dimak
 question: "Katanya besok hujan dari siang sampai sekitar sore."
 sentence: "明日は昼から夕方____雨でしょう。"
 optionA: "にかけて"
-optionB: "までに"
+optionB: "まで"
 correct: "にかけて"
-explanation: "にかけて benar karena menunjukkan rentang waktu yang luas."
+explanation: "にかけて benar karena prakiraan hujan mencakup rentang waktu yang luas dan tidak bertepi tajam. まで salah karena menandai batas akhir yang jelas, kurang cocok untuk rentang perkiraan yang samar."
 ---
 ::
 
@@ -196,7 +196,7 @@ sentence: "大阪____、国際会議が行われました。"
 optionA: "において"
 optionB: "について"
 correct: "において"
-explanation: "において benar karena konteksnya formal dan menunjukkan tempat acara."
+explanation: "において benar karena konteksnya formal dan menunjukkan tempat berlangsungnya acara. について salah karena berarti 'tentang Osaka' (topik), bukan tempat acara diadakan."
 ---
 ::
 
@@ -207,7 +207,7 @@ sentence: "教育____問題は重要です。"
 optionA: "における"
 optionB: "にかけて"
 correct: "における"
-explanation: "における benar karena pola ini menerangkan nomina 問題."
+explanation: "における benar karena bentuk ini menerangkan nomina 問題 (masalah dalam bidang pendidikan). にかけて salah karena menandai rentang waktu/tempat, tidak menerangkan nomina."
 ---
 ::
 

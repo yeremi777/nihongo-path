@@ -163,18 +163,18 @@ sentence: "この絵は____、好きになります。"
 optionA: "見れば見るほど"
 optionB: "見るほど見れば"
 correct: "見れば見るほど"
-explanation: "見れば見るほど benar karena pola semakin-semakin memakai bentuk ば lalu bentuk kamus + ほど."
+explanation: "見れば見るほど benar karena pola semakin-semakin memakai bentuk ば dulu lalu bentuk kamus + ほど. Urutan 見るほど見れば terbalik dan tidak dipakai."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Tidak ada orang yang sebaik dia."
-sentence: "彼女____親切な人はいません。"
-optionA: "ほど"
-optionB: "くらいに"
-correct: "ほど"
-explanation: "彼女ほど benar karena superlatif negatif memakai Nほど...はない."
+question: "Di kota ini, tidak ada orang yang sebaik dia."
+sentence: "この町に、彼女ほど親切な人は____。"
+optionA: "いません"
+optionB: "います"
+correct: "いません"
+explanation: "いません benar karena superlatif ほど〜はない harus diakhiri bentuk negatif. います (bentuk positif) membuat maknanya terbalik menjadi 'ada orang sebaik dia'."
 ---
 ::
 
@@ -185,18 +185,18 @@ sentence: "部屋は____いいです。"
 optionA: "静かなら静かなほど"
 optionB: "静かければ静かなほど"
 correct: "静かなら静かなほど"
-explanation: "静かなら静かなほど benar karena 静か adalah adjektiva-na."
+explanation: "静かなら静かなほど benar karena 静か adalah adjektiva-na. Bentuk 静かければ salah karena ければ hanya untuk adjektiva-i."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Hari ini saya sibuk sampai ingin menangis."
-sentence: "今日は泣きたい____忙しいです。"
+question: "Orang yang lebih muda justru cenderung bangun kesiangan."
+sentence: "若い人____、朝寝坊をしがちです。"
 optionA: "ほど"
-optionB: "ば"
+optionB: "ばかり"
 correct: "ほど"
-explanation: "泣きたいほど benar karena ほど menunjukkan tingkat intensitas."
+explanation: "若い人ほど benar karena pola （N）ほど menunjukkan kecenderungan yang makin kuat pada kelompok itu. ばかり berarti 'hanya', bukan kecenderungan bertingkat."
 ---
 ::
 

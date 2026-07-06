@@ -112,6 +112,8 @@ Di tabel ini, `（A）` adalah orang atau pihak yang menjadi topik/subjek kalima
 - `さえ` menyorot contoh ekstrem: "bahkan X".
 - `さえ〜ば` berarti "asalkan X, yang lain tidak penting".
 - `こそ` menekankan kata sebelumnya: "justru/tepat X".
+- `（klausa）からこそ` menekankan alasannya: "justru karena X". Bandingkan: 明日こそ menekankan nomina 明日, sedangkan 好きだからこそ menekankan alasan 好きだ.
+- `だけしか〜ない` terasa lebih ketat lagi daripada `しか〜ない` biasa.
 
 ## Pola yang Sering Muncul
 
@@ -144,6 +146,7 @@ Di tabel ini, `（A）` adalah orang atau pihak yang menjadi topik/subjek kalima
 | だけ / しか〜ない | `だけ` netral dan bisa positif. `しか` selalu butuh predikat negatif. |
 | さえ / こそ | `さえ` berarti bahkan, biasanya contoh ekstrem. `こそ` menekankan "justru/tepat inilah". |
 | さえ〜ば / ば | `さえ〜ば` menyatakan syarat minimum. `ば` hanya syarat biasa. |
+| こそ / からこそ | `こそ` menempel pada nomina yang ditekankan（明日こそ）. `からこそ` menempel pada klausa alasan: 心配だからこそ、注意するんです（justru karena khawatir）. |
 
 ## Kesalahan Umum
 
@@ -161,33 +164,33 @@ Pilih jawaban yang paling tepat. Perhatikan konteks, bentuk sebelum pola, dan nu
 ::MiniPractice
 ---
 question: "Pelanggan toko ini hampir semuanya perempuan."
-sentence: "この店のお客さんは女性____ですね。"
-optionA: "ばかり"
-optionB: "しか"
-correct: "ばかり"
-explanation: "女性ばかり benar karena kalimatnya menunjukkan banyak pelanggan dari jenis yang sama."
+sentence: "この店のお客さんは____ね。"
+optionA: "女性ばかりです"
+optionB: "女性しかいません"
+correct: "女性ばかりです"
+explanation: "女性ばかりです benar karena kalimatnya melihat banyak pelanggan yang jenisnya sama (hampir semuanya perempuan). 女性しかいません memang benar secara tata bahasa, tetapi artinya membatasi dengan ketat 'tidak ada selain perempuan', bukan 'hampir semuanya'."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Adik laki-laki saya terus-menerus menonton TV saja."
-sentence: "弟はテレビを____います。"
-optionA: "見てばかり"
-optionB: "見たばかり"
-correct: "見てばかり"
-explanation: "見てばかりいます benar karena menunjukkan tindakan yang terus diulang."
+sentence: "弟はテレビを____。"
+optionA: "見てばかりいます"
+optionB: "見たばかりです"
+correct: "見てばかりいます"
+explanation: "見てばかりいます benar karena kebiasaan yang terus diulang memakai （Vて）ばかりいる. 見たばかりです berarti 'baru saja menonton', padahal kalimatnya mengkritik kebiasaan, bukan bicara soal waktu."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Saya baru saja pulang sekarang."
-sentence: "今、帰ってきた____です。"
-optionA: "ばかり"
+question: "Bahkan hiragana pun saya tidak bisa menulisnya."
+sentence: "ひらがな____書けません。"
+optionA: "さえ"
 optionB: "しか"
-correct: "ばかり"
-explanation: "帰ってきたばかり benar karena tindakan pulang baru saja selesai."
+correct: "さえ"
+explanation: "ひらがなさえ書けません benar karena さえ menyorot contoh ekstrem: 'bahkan hiragana pun tidak bisa'. ひらがなしか書けません juga kalimat yang benar, tetapi artinya berubah menjadi 'hanya bisa menulis hiragana'."
 ---
 ::
 
@@ -207,9 +210,9 @@ explanation: "入れません benar karena しか harus dipakai dengan predikat 
 question: "Asalkan kamu ada, saya tidak membutuhkan apa pun lagi."
 sentence: "君____いれば、何もいりません。"
 optionA: "さえ"
-optionB: "こそ"
+optionB: "だけ"
 correct: "さえ"
-explanation: "君さえいれば benar karena menunjukkan syarat minimum: cukup kamu ada."
+explanation: "君さえいれば benar karena syarat minimum 'asalkan' memakai さえ〜ば. 君だけいれば terdengar seperti membatasi jumlah orang, bukan menyatakan 'satu syarat ini saja sudah cukup'."
 ---
 ::
 

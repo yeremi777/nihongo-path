@@ -147,6 +147,7 @@ Di tabel ini, `（V）` adalah verba/kata kerja. `（bentuk biasa）` berarti be
 | はずだ / べきだ | `はずだ` berdasarkan logika. `べきだ` berdasarkan kewajiban, nilai, atau saran kuat. |
 | はずがない / わけがない | Keduanya berarti tidak mungkin, tetapi `わけがない` sering terdengar lebih emosional/tegas. |
 | たものだ / ことがある | `たものだ` untuk kebiasaan masa lalu yang bernuansa nostalgia. `ことがある` untuk pengalaman pernah melakukan. |
+| べきではない / ものではない | `べきではない` saran/larangan kuat untuk kasus tertentu. `ものではない` nasihat umum tentang kewajaran: 人の悪口を言うものではありません（orang memang tidak sepatutnya menjelek-jelekkan orang lain）. |
 
 ## Kesalahan Umum
 
@@ -168,7 +169,7 @@ sentence: "明日はテストだから、勉強____。"
 optionA: "するべきです"
 optionB: "するはずです"
 correct: "するべきです"
-explanation: "するべきです benar karena kalimat ini memberi saran/kewajiban moral, bukan dugaan logis."
+explanation: "するべきです benar karena kalimat ini memberi saran/kewajiban: 'kamu seharusnya belajar'. するはずです akan berubah menjadi dugaan logis 'dia pasti akan belajar', bukan nasihat."
 ---
 ::
 
@@ -179,7 +180,7 @@ sentence: "田中さんは旅行中____はずです。"
 optionA: "の"
 optionB: "な"
 correct: "の"
-explanation: "旅行中のはずです benar karena nomina sebelum はずだ memakai の."
+explanation: "旅行中のはずです benar karena 旅行中 adalah nomina, dan nomina sebelum はずだ memakai の. な hanya dipakai untuk adjektiva-na seperti 静かなはずです."
 ---
 ::
 
@@ -190,7 +191,7 @@ sentence: "この部屋は静か____はずです。"
 optionA: "な"
 optionB: "の"
 correct: "な"
-explanation: "静かなはずです benar karena 静か adalah adjektiva-na, jadi memakai な sebelum はずだ."
+explanation: "静かなはずです benar karena 静か adalah adjektiva-na, jadi memakai な sebelum はずだ. の hanya dipakai untuk nomina seperti 旅行中のはずです."
 ---
 ::
 
@@ -201,7 +202,7 @@ sentence: "約束は____べきです。"
 optionA: "守る"
 optionB: "守ります"
 correct: "守る"
-explanation: "守るべきです benar karena べき menempel pada bentuk kamus."
+explanation: "守るべきです benar karena べき menempel pada bentuk kamus. 守ります adalah bentuk sopan yang tidak bisa disambung langsung dengan べき."
 ---
 ::
 
@@ -212,7 +213,7 @@ sentence: "子どものころはよく川で____ものです。"
 optionA: "遊んだ"
 optionB: "遊ぶ"
 correct: "遊んだ"
-explanation: "遊んだものです benar karena Vたものだ menyatakan kebiasaan masa lalu bernuansa nostalgia."
+explanation: "遊んだものです benar karena 子どものころはよく menunjukkan kenangan kebiasaan masa lalu, jadi bentuknya （Vた）ものだ. 遊ぶものです akan berarti norma umum 'memang sewajarnya bermain', bukan nostalgia."
 ---
 ::
 

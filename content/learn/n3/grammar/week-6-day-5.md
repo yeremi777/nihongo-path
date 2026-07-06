@@ -163,7 +163,7 @@ sentence: "私は決して夢を____。"
 optionA: "あきらめません"
 optionB: "あきらめます"
 correct: "あきらめません"
-explanation: "あきらめません benar karena 決して harus diikuti bentuk negatif."
+explanation: "あきらめません benar karena 決して wajib diikuti akhir negatif. あきらめます berbentuk positif, sehingga 決してあきらめます bukan Jepang yang benar."
 ---
 ::
 
@@ -174,7 +174,7 @@ sentence: "こんなチャンスは____ありません。"
 optionA: "めったに"
 optionB: "あまり"
 correct: "めったに"
-explanation: "めったにありません benar karena frekuensinya sangat rendah, bukan nol mutlak."
+explanation: "めったにありません benar karena menegaskan frekuensi sangat rendah ('jarang sekali'). あまりありません hanya berarti 'tidak terlalu sering', terlalu lemah untuk kesempatan langka seperti ini."
 ---
 ::
 
@@ -185,7 +185,7 @@ sentence: "私は____泳げません。"
 optionA: "まったく"
 optionB: "めったに"
 correct: "まったく"
-explanation: "まったく泳げません benar karena kemampuan berenang nol."
+explanation: "まったく benar karena menyatakan kemampuan berenang benar-benar nol ('sama sekali tidak'). めったに berarti frekuensi rendah ('jarang'), tidak cocok untuk menyatakan tingkat kemampuan."
 ---
 ::
 
@@ -196,7 +196,7 @@ sentence: "あの人が話す英語は____わかりません。"
 optionA: "少しも"
 optionB: "少ししか"
 correct: "少しも"
-explanation: "少しもわかりません benar karena pemahaman benar-benar nol."
+explanation: "少しも benar karena pemahaman benar-benar nol ('sedikit pun tidak paham'). 少ししか berarti 'hanya paham sedikit', jadi masih ada pemahaman, bertentangan dengan makna nol di sini."
 ---
 ::
 
@@ -205,9 +205,9 @@ explanation: "少しもわかりません benar karena pemahaman benar-benar nol
 question: "Film itu sama sekali tidak menarik."
 sentence: "その映画は____おもしろくありません。"
 optionA: "ちっとも"
-optionB: "少ししか"
+optionB: "あまり"
 correct: "ちっとも"
-explanation: "ちっともおもしろくありません benar karena gaya kasual untuk sama sekali tidak."
+explanation: "ちっとも benar karena menegaskan 'sama sekali tidak menarik'. あまり hanya berarti 'tidak terlalu menarik', jadi terlalu lemah untuk konteks kesan yang benar-benar nol ini."
 ---
 ::
 

@@ -164,7 +164,7 @@ sentence: "明日、会議が行われる____。"
 optionA: "ことになっています"
 optionB: "ことにしています"
 correct: "ことになっています"
-explanation: "ことになっています benar karena jadwal rapat ditentukan dari luar."
+explanation: "ことになっています benar karena jadwal rapat ditentukan dari luar (aturan/organisasi). ことにしています berarti kebiasaan pribadi pembicara, tidak cocok untuk jadwal rapat."
 ---
 ::
 
@@ -175,7 +175,7 @@ sentence: "毎朝ジョギングする____。"
 optionA: "ことにしています"
 optionB: "ことになっています"
 correct: "ことにしています"
-explanation: "ことにしています benar karena ini aturan pribadi pembicara."
+explanation: "ことにしています benar karena jogging setiap pagi adalah kebiasaan yang ditetapkan sendiri. ことになっています berarti aturan dari luar, padahal ini keputusan pribadi."
 ---
 ::
 
@@ -186,7 +186,7 @@ sentence: "ピアノは弾ける____、うまくありません。"
 optionA: "ことは弾けますが"
 optionB: "ことはが"
 correct: "ことは弾けますが"
-explanation: "ことは弾けますが benar karena predikat 弾ける diulang sebelum が."
+explanation: "ことは弾けますが benar karena pola ことは〜が menuntut predikat 弾ける diulang sebelum が. ことはが tidak punya predikat ulang, jadi bukan Jepang yang benar."
 ---
 ::
 
@@ -197,7 +197,7 @@ sentence: "鶏肉は食べない____、あまり好きではありません。"
 optionA: "ことはないですが"
 optionB: "ことになっていますが"
 correct: "ことはないですが"
-explanation: "食べないことはないですが benar karena ini negasi ganda untuk afirmasi lemah."
+explanation: "食べないことはないですが benar karena negasi ganda ini berarti 'bukannya tidak makan' (afirmasi lemah). ことになっていますが berarti 'sudah diatur untuk tidak makan', konteks aturan yang tidak sesuai di sini."
 ---
 ::
 
@@ -208,7 +208,7 @@ sentence: "来月から大阪で働く____。"
 optionA: "ことになりました"
 optionB: "ことにしました"
 correct: "ことになりました"
-explanation: "ことになりました benar karena keputusan pekerjaan terasa ditentukan oleh situasi/organisasi."
+explanation: "ことになりました benar karena kepindahan kerja diputuskan oleh perusahaan, bukan semata kehendak pribadi. ことにしました berarti pembicara sendiri yang memutuskan, nuansa yang tidak pas untuk pindah tugas kantor."
 ---
 ::
 

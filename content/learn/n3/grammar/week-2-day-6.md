@@ -130,6 +130,7 @@ Di tabel ini, `（A）` adalah orang yang memberi saran, instruksi, larangan, at
   <div><p class="jp">医者に酒を飲むなと言われました。</p><p>Dokter melarang saya minum alkohol.</p></div>
   <div><p class="jp">父にもっと勉強しろと言われました。</p><p>Saya disuruh ayah untuk belajar lebih banyak.</p></div>
   <div><p class="jp">友達に、田中さんの電話番号を教えてくれと頼まれました。</p><p>Teman saya meminta saya memberikan nomor telepon Tanaka-san.</p></div>
+  <div><p class="jp">母に、駅まで迎えに来るように頼みました。</p><p>Saya meminta ibu agar menjemput saya di stasiun.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar
@@ -141,6 +142,8 @@ Di tabel ini, `（A）` adalah orang yang memberi saran, instruksi, larangan, at
 | ように言われる / なと言われる | `（Vない）ように言われる` instruksi halus agar tidak. `（Vる）なと言われる` larangan langsung. |
 | ろと言われる / ように言われる | `ろと言われる` melaporkan perintah langsung/keras. `ように言われる` lebih tidak langsung. |
 | てくれと頼まれる / てくださいと頼まれる | `てくれと` kasual/langsung. `てくださいと` sopan. |
+| ように言う / ように頼む | `ように言う` menyuruh/memberi tahu. `ように頼む` meminta tolong, lebih rendah hati: 迎えに来るように頼みました. |
+| てくれと頼まれる / ないでくれと言われる | `てくれと` melaporkan permintaan agar melakukan. `ないでくれと` melaporkan permintaan agar TIDAK melakukan: ここに車を止めないでくれと言われました. |
 
 ## Kesalahan Umum
 
@@ -160,9 +163,9 @@ Pilih jawaban yang paling tepat. Perhatikan konteks, bentuk sebelum pola, dan nu
 question: "Kalau tidak mengerti, coba tanyakan kepada guru."
 sentence: "わからなかったら、先生に____。"
 optionA: "聞いてごらん"
-optionB: "聞くごらん"
+optionB: "聞いてくれ"
 correct: "聞いてごらん"
-explanation: "聞いてごらん benar karena ごらん menempel pada bentuk て."
+explanation: "聞いてごらん benar karena ini saran lembut 'coba tanyakan' demi kebaikan lawan bicara. 聞いてくれ berarti pembicara meminta tolong demi kepentingannya sendiri, bukan memberi saran."
 ---
 ::
 
@@ -171,9 +174,9 @@ explanation: "聞いてごらん benar karena ごらん menempel pada bentuk て
 question: "Tolong beri tahu Tanaka-san agar datang ke kamar saya."
 sentence: "田中さんに、私の部屋に____言ってください。"
 optionA: "来るように"
-optionB: "来てように"
+optionB: "来いと"
 correct: "来るように"
-explanation: "来るように benar karena instruksi tidak langsung memakai bentuk kamus sebelum ように."
+explanation: "来るように benar karena instruksi dilaporkan secara halus dengan bentuk kamus + ように. 来いと mengutip perintah langsung yang kasar, tidak cocok dengan permintaan sopan 言ってください di kalimat ini."
 ---
 ::
 
@@ -184,7 +187,7 @@ sentence: "医者に酒を____と言われました。"
 optionA: "飲むな"
 optionB: "飲まないな"
 correct: "飲むな"
-explanation: "飲むな benar karena larangan langsung memakai bentuk kamus + な."
+explanation: "飲むな benar karena larangan langsung memakai bentuk kamus + な. 飲まないな bukan larangan — bentuk negatif + な hanya terdengar seperti gumaman 'dia tidak minum, ya'."
 ---
 ::
 
@@ -193,9 +196,9 @@ explanation: "飲むな benar karena larangan langsung memakai bentuk kamus + �
 question: "Teman saya meminta saya memberikan nomor telepon Tanaka-san."
 sentence: "友達に、田中さんの電話番号を____と頼まれました。"
 optionA: "教えてくれ"
-optionB: "教えるくれ"
+optionB: "教えろ"
 correct: "教えてくれ"
-explanation: "教えてくれ benar karena permintaan dengan くれ memakai bentuk て."
+explanation: "教えてくれ benar karena permintaan dengan くれ memakai bentuk て, dan cocok dengan 頼まれました (diminta). 教えろ adalah perintah kasar, tidak cocok dilaporkan sebagai permintaan dengan 頼む."
 ---
 ::
 
@@ -206,7 +209,7 @@ sentence: "父にもっと勉強____と言われました。"
 optionA: "しろ"
 optionB: "するな"
 correct: "しろ"
-explanation: "勉強しろと言われました benar karena melaporkan perintah langsung untuk belajar."
+explanation: "勉強しろ benar karena ayah memerintahkan langsung agar belajar (bentuk perintah + と言われる). するな justru larangan 'jangan belajar', kebalikan dari maksud kalimatnya."
 ---
 ::
 

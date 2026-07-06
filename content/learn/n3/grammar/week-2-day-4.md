@@ -158,7 +158,7 @@ sentence: "木村さん____人から電話がありました。"
 optionA: "という"
 optionB: "の"
 correct: "という"
-explanation: "木村さんという人 benar karena memperkenalkan orang yang bernama Kimura-san."
+explanation: "木村さんという人 benar karena memperkenalkan nama orang yang mungkin belum dikenal lawan bicara. 木村さんの人 salah karena の menyatakan kepemilikan/kategori, bukan 'yang bernama'."
 ---
 ::
 
@@ -167,9 +167,9 @@ explanation: "木村さんという人 benar karena memperkenalkan orang yang be
 question: "\"Dejikame\" adalah singkatan dari kamera digital."
 sentence: "「デジカメ」____、デジタルカメラを短くした言い方です。"
 optionA: "というのは"
-optionB: "といった"
+optionB: "といっても"
 correct: "というのは"
-explanation: "というのは benar karena kalimatnya mendefinisikan istilah デジカメ."
+explanation: "というのは benar karena kalimatnya mendefinisikan arti istilah デジカメ. といっても berarti 'meskipun disebut...', jadi kalimatnya berubah menjadi pengakuan bahwa kenyataannya berbeda, bukan definisi."
 ---
 ::
 
@@ -180,7 +180,7 @@ sentence: "テニス、サッカー、野球____スポーツが盛んです。"
 optionA: "といった"
 optionB: "という"
 correct: "といった"
-explanation: "といったスポーツ benar karena daftar itu adalah contoh olahraga."
+explanation: "といったスポーツ benar karena テニス、サッカー、野球 adalah contoh perwakilan dari kelompok olahraga. という dipakai untuk satu nama/istilah tertentu, bukan untuk daftar contoh."
 ---
 ::
 
@@ -189,9 +189,9 @@ explanation: "といったスポーツ benar karena daftar itu adalah contoh ola
 question: "Saya terkejut mendengar bahwa Lin-san akan pulang ke negaranya."
 sentence: "リンさんが帰国する____を聞いて驚きました。"
 optionA: "ということ"
-optionB: "というのは"
+optionB: "こと"
 correct: "ということ"
-explanation: "ということ benar karena membungkus isi kalimat 'Lin-san akan pulang' sebagai fakta yang didengar."
+explanation: "ということ benar karena isi berita yang didengar dan mengejutkan dilaporkan secara eksplisit dengan ということ. 帰国すること memang mungkin, tetapi kurang tepat untuk isi kabar yang dilaporkan — こと hanya menominakan fakta secara sederhana."
 ---
 ::
 
@@ -202,7 +202,7 @@ sentence: "尺八____楽器を見たことがありますか。"
 optionA: "という"
 optionB: "といった"
 correct: "という"
-explanation: "尺八という楽器 benar karena memperkenalkan nama alat musik."
+explanation: "尺八という楽器 benar karena hanya ada satu nama yang diperkenalkan. 尺八といった楽器 berarti 'alat musik seperti shakuhachi' (contoh dari kelompok), padahal kalimatnya menanyakan satu alat musik tertentu."
 ---
 ::
 

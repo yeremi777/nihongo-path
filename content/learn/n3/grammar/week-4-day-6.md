@@ -61,27 +61,15 @@ Simbol di tabel ini hanya penanda slot. `（N）` berarti nomina atau frasa nomi
 
 ## Cara Membentuk Pola
 
-### 1. Pilih bentuk sebelum pola
+Semua pola hari ini adalah konektor antar kalimat, jadi tidak ada perubahan bentuk verba. Cukup pilih konektor sesuai hubungan logika, taruh di awal kalimat kedua, lalu ingat bahwa なぜなら harus ditutup dengan からだ／からです.
 
-| Tujuan | Bentuk | Contoh bentuk |
+| Konektor | Kerangka | Contoh bentuk |
 |---|---|---|
-| Dengan kata lain paman | （Kalimat）。つまり、（Kalimat） | 父の兄。つまり、伯父 |
-| Yakni Tokyo | （N）、すなわち（N） | 首都、すなわち東京 |
-| Ada kecelakaan, karena itu terlambat | （Sebab）。そのため、（Hasil） | 事故。そのため遅れる |
-| Diet tiga bulan, hasilnya turun | （Aksi）。その結果、（Hasil） | ダイエット。その結果やせた |
-| Saya pulang, alasannya ada pernikahan | （Hasil）。なぜなら（Alasan）からです | 帰ります。なぜなら出席するからです |
-
-### 2. Masukkan ke fungsi kalimat
-
-| Bentuk | Fungsi | Contoh pendek |
-|---|---|---|
-| つまり | menyatakan ulang | つまり無理です |
-| すなわち | yaitu secara formal | すなわち東京 |
-| そのため | sebab → akibat | 事故。そのため遅れた |
-| その結果 | proses → hasil | 練習した。その結果勝った |
-| なぜなら〜からだ | kesimpulan → alasan | 行けません。なぜなら忙しいからです |
-
-Saat membangun kalimat, jangan mulai dari terjemahan kata per kata. Tentukan dulu slot yang berubah, lalu cek partikel, bentuk akhir, dan hubungan antarbagian kalimat.
+| つまり | （Kalimat A）。つまり、（Kalimat B） | 会員は半額、つまり500円です。 |
+| すなわち | （Kalimat A）。すなわち、（Kalimat B） | 会の代表、すなわち会長が話します。 |
+| そのため | （Sebab）。そのため、（Hasil） | 台風が来た。そのため、店は閉まった。 |
+| その結果 | （Aksi/proses）。その結果、（Hasil） | 毎日走った。その結果、健康になった。 |
+| なぜなら | （Hasil）。なぜなら、（Alasan）からだ | 参加できません。なぜなら、仕事があるからです。 |
 
 ## Bangun Kalimat Bertahap
 
@@ -162,7 +150,7 @@ sentence: "隣の駅で事故がありました。____、電車が遅れてい�
 optionA: "そのため"
 optionB: "つまり"
 correct: "そのため"
-explanation: "そのため benar karena kecelakaan menjadi sebab keterlambatan."
+explanation: "そのため benar karena kecelakaan menjadi sebab keterlambatan. つまり salah karena itu menyatakan ulang, bukan menunjukkan sebab-akibat."
 ---
 ::
 
@@ -173,7 +161,7 @@ sentence: "３か月ダイエットを続けました。____、５キロやせ�
 optionA: "その結果"
 optionB: "つまり"
 correct: "その結果"
-explanation: "その結果 benar karena turun berat badan adalah hasil dari proses diet."
+explanation: "その結果 benar karena turun berat badan adalah hasil dari proses diet. つまり salah karena itu menyatakan ulang, bukan menyebut hasil sebuah usaha."
 ---
 ::
 
@@ -184,7 +172,7 @@ sentence: "父の父、____私の祖父は京都に住んでいます。"
 optionA: "つまり"
 optionB: "そのため"
 correct: "つまり"
-explanation: "つまり benar karena frasa kedua menyatakan ulang makna 父の父."
+explanation: "つまり benar karena frasa kedua menyatakan ulang makna 父の父. そのため salah karena tidak ada hubungan sebab-akibat di sini."
 ---
 ::
 
@@ -195,7 +183,7 @@ sentence: "国に帰ります。____、親友の結婚式に出席するから�
 optionA: "なぜなら"
 optionB: "だから"
 correct: "なぜなら"
-explanation: "なぜなら benar karena alasan diberikan setelah kesimpulan."
+explanation: "なぜなら benar karena alasan diberikan setelah kesimpulan dan ditutup からです. だから salah karena itu menghubungkan alasan ke hasil secara langsung, bukan menjelaskan alasan sesudah kesimpulan."
 ---
 ::
 
@@ -206,7 +194,7 @@ sentence: "日本の首都、____東京は大きな都市です。"
 optionA: "すなわち"
 optionB: "その結果"
 correct: "すなわち"
-explanation: "すなわち cocok untuk penyataan ulang yang formal atau definisional."
+explanation: "すなわち cocok untuk penyataan ulang yang formal atau definisional. その結果 salah karena Tokyo bukan hasil sebuah proses, melainkan nama lain dari ibu kota."
 ---
 ::
 

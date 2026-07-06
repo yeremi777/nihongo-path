@@ -169,7 +169,7 @@ sentence: "____、雪が降りました。"
 optionA: "予報どおり"
 optionB: "予報とおり"
 correct: "予報どおり"
-explanation: "予報どおり benar karena どおり bisa langsung menempel pada nomina seperti 予報."
+explanation: "予報どおり benar karena bentuk yang menempel langsung pada nomina adalah どおり (dengan bunyi ど). とおり hanya dipakai lewat の: 予報のとおり."
 ---
 ::
 
@@ -180,7 +180,7 @@ sentence: "窓を____で出てきました。"
 optionA: "開けっぱなし"
 optionB: "開けたっぱなし"
 correct: "開けっぱなし"
-explanation: "開けっぱなし benar karena っぱなし menempel pada stem bentukます, yaitu 開け."
+explanation: "開けっぱなし benar karena っぱなし menempel pada stem bentukます (開け). Bentuk た seperti 開けた hanya dipakai untuk まま (開けたまま), bukan untuk っぱなし."
 ---
 ::
 
@@ -191,7 +191,7 @@ sentence: "テレビを____寝ました。"
 optionA: "つけたまま"
 optionB: "つけっぱなしまま"
 correct: "つけたまま"
-explanation: "つけたまま benar karena まま memakai Vたまま untuk keadaan yang tetap berlanjut."
+explanation: "つけたまま benar karena まま memakai （Vた）まま. っぱなし dan まま tidak boleh digabung — kalau mau memakai っぱなし, bentuknya つけっぱなしで tanpa まま."
 ---
 ::
 
@@ -202,7 +202,7 @@ sentence: "____話したいです。"
 optionA: "二人きりで"
 optionB: "二人きり人で"
 correct: "二人きりで"
-explanation: "二人きりで benar karena 二人きり sudah berarti hanya berdua."
+explanation: "二人きりで benar karena 二人きり sudah lengkap berarti 'hanya berdua'. Menambah 人 setelah きり berlebihan — kata bantu bilangan 人 sudah terkandung di 二人."
 ---
 ::
 
@@ -213,7 +213,7 @@ sentence: "彼とは去年____、連絡していません。"
 optionA: "会ったきり"
 optionB: "会うきり"
 correct: "会ったきり"
-explanation: "会ったきり benar karena Vたきり menunjukkan setelah tindakan itu tidak ada kelanjutan lagi."
+explanation: "会ったきり benar karena arti 'sejak itu tidak lagi' memakai bentuk lampau （Vた）きり — petunjuknya 連絡していません. 会うきり bukan bentuk yang dipakai untuk makna ini."
 ---
 ::
 

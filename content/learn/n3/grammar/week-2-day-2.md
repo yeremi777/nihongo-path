@@ -106,6 +106,8 @@ Di tabel ini, `（N）` adalah nomina atau frasa nomina, termasuk orang, tempat,
 - `によって` sangat bergantung konteks.
 - Jika sebelum nomina, bentuknya biasanya `による（N）`: `事故による渋滞`.
 - Jika hasil berbeda sesuai orang/kasus, artinya "tergantung pada".
+- `によって` juga menandai pelaku dalam kalimat pasif formal: 台風によって屋根が飛ばされました（atap diterbangkan oleh topan）.
+- `によって` terasa formal/tertulis; untuk alat atau sebab sederhana sehari-hari, orang cukup memakai `で`（バスで行きます）.
 
 ## Pola yang Sering Muncul
 
@@ -158,7 +160,7 @@ sentence: "日本文化____勉強します。"
 optionA: "について"
 optionB: "によって"
 correct: "について"
-explanation: "について benar karena 日本文化 adalah topik yang dipelajari."
+explanation: "について benar karena 日本文化 adalah topik yang dipelajari. 日本文化によって akan berarti 'dengan/karena budaya Jepang', bukan 'tentang budaya Jepang'."
 ---
 ::
 
@@ -169,7 +171,7 @@ sentence: "天気予報____、明日は晴れるそうです。"
 optionA: "によれば"
 optionB: "によって"
 correct: "によれば"
-explanation: "によれば benar karena 天気予報 adalah sumber informasi."
+explanation: "によれば benar karena 天気予報 adalah sumber informasi yang dikutip, dan ujungnya ada そうです (kabarnya). によって dipakai untuk sebab, cara, atau pelaku, bukan untuk mengutip sumber."
 ---
 ::
 
@@ -180,7 +182,7 @@ sentence: "事故など____渋滞はありません。"
 optionA: "による"
 optionB: "によって"
 correct: "による"
-explanation: "による benar karena langsung menerangkan nomina 渋滞."
+explanation: "による benar karena langsung menerangkan nomina 渋滞: 'kemacetan yang disebabkan kecelakaan'. によって hanya bisa dipakai sebelum predikat, bukan langsung sebelum nomina."
 ---
 ::
 
@@ -191,7 +193,7 @@ sentence: "人____考え方が違います。"
 optionA: "によって"
 optionB: "に関して"
 correct: "によって"
-explanation: "によって benar karena hasilnya berbeda tergantung orang."
+explanation: "によって benar karena hasilnya (cara berpikir) berbeda tergantung orangnya, ditandai predikat 違います. 人に関して berarti 'mengenai orang', jadi tidak cocok dengan makna 'tergantung'."
 ---
 ::
 
@@ -202,7 +204,7 @@ sentence: "この問題____、ご意見ありませんか。"
 optionA: "に関して"
 optionB: "によれば"
 correct: "に関して"
-explanation: "に関して benar karena meminta pendapat tentang topik formal."
+explanation: "に関して benar karena ご意見 diminta mengenai topik formal この問題. によれば berarti 'menurut', padahal この問題 bukan sumber informasi yang dikutip."
 ---
 ::
 

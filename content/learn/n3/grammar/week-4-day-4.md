@@ -35,7 +35,7 @@ Di akhir pelajaran ini, kamu bisa membedakan pola untuk memberi saran, menenangk
 | Saran | 〜ことだ | sebaiknya ~ | nasihat praktis |
 | Rangkuman arti | 〜ということだ | artinya ~ | menyimpulkan informasi |
 | Laporan | 〜ということだ・〜とのことだ | katanya / terdengar bahwa | kabar atau informasi yang dilaporkan |
-| Seruan emosi | 〜ことか・〜ことだろう | betapa ~ | emosi kuat, sering dengan どんなに atau 何度 |
+| Seruan emosi | 〜ことか | betapa ~ | emosi kuat, sering dengan どんなに atau 何度 |
 
 ## Peta Pola
 
@@ -163,7 +163,7 @@ sentence: "まだ時間がありますから、急ぐ____。"
 optionA: "ことはありません"
 optionB: "ことです"
 correct: "ことはありません"
-explanation: "ことはありません benar karena kalimatnya mengatakan tindakan buru-buru tidak perlu."
+explanation: "ことはありません benar karena kalimatnya mengatakan tindakan buru-buru tidak perlu. ことです salah karena itu memberi saran untuk bergegas, padahal maksudnya menenangkan."
 ---
 ::
 
@@ -174,7 +174,7 @@ sentence: "疲れているなら、休む____。"
 optionA: "ことです"
 optionB: "ことはありません"
 correct: "ことです"
-explanation: "ことです benar karena pembicara memberi saran praktis."
+explanation: "ことです benar karena pembicara memberi saran praktis untuk beristirahat. ことはありません salah karena itu berarti 'tidak perlu', kebalikan dari saran."
 ---
 ::
 
@@ -196,7 +196,7 @@ sentence: "田中さんは少し遅れる____。"
 optionA: "ということです"
 optionB: "ことです"
 correct: "ということです"
-explanation: "ということです benar karena kalimatnya merangkum atau melaporkan isi informasi."
+explanation: "ということです benar karena kalimatnya merangkum atau melaporkan isi informasi. ことです salah karena itu berarti saran, bukan penyampaian isi kabar."
 ---
 ::
 
@@ -207,7 +207,7 @@ sentence: "合格できたら、____うれしいことか。"
 optionA: "どんなに"
 optionB: "つまり"
 correct: "どんなに"
-explanation: "どんなに benar karena ことか untuk seruan emosi biasanya memakai kata pemicu seperti どんなに."
+explanation: "どんなに benar karena ことか untuk seruan emosi biasanya memakai kata pemicu seperti どんなに. つまり salah karena itu konektor 'dengan kata lain', bukan pemicu emosi."
 ---
 ::
 

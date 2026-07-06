@@ -142,6 +142,8 @@ Di tabel ini, `（N）` adalah nomina atau frasa nomina, `（V）` adalah verba/
 | にしても / それにしても | `にしても` ditempel pada kondisi. `それにしても` mengomentari situasi yang sudah disebut sebelumnya. |
 | にしても / ても | `にしても` lebih terasa sebagai penalaran/evaluasi. `ても` lebih umum dan netral. |
 | としたら / なら | `としたら` menekankan asumsi "jika dianggap begitu". `なら` lebih luas untuk kondisi atau topik. |
+| にしても / にしろ | Artinya sama, tetapi `にしろ` terasa lebih tegas dan tertulis: 子どもにしろ、失礼です. |
+| としたら / とすれば | Keduanya membuka asumsi. `とすれば` terasa sedikit lebih formal dan logis: その話が本当だとすれば、大変です. |
 
 ## Kesalahan Umum
 
@@ -163,7 +165,7 @@ sentence: "彼は日本代表____試合に出ます。"
 optionA: "として"
 optionB: "にしては"
 correct: "として"
-explanation: "として benar karena 日本代表 adalah peran atau kapasitasnya dalam pertandingan."
+explanation: "として benar karena 日本代表 adalah peran/kapasitasnya dalam pertandingan. にしては berarti 'untuk ukuran wakil Jepang', yang menuntut penilaian tak terduga, padahal kalimat ini hanya menyatakan peran."
 ---
 ::
 
@@ -174,7 +176,7 @@ sentence: "外国人____日本語が上手です。"
 optionA: "にしては"
 optionB: "としては"
 correct: "にしては"
-explanation: "にしては benar karena kalimatnya menilai hasil yang terasa di luar ekspektasi untuk ukuran orang asing."
+explanation: "にしては benar karena kalimatnya menilai hasil di luar ekspektasi: 'untuk ukuran orang asing'. としては hanya berarti 'dari sudut pandang orang asing', tanpa rasa 'melebihi dugaan'."
 ---
 ::
 
@@ -196,7 +198,7 @@ sentence: "遅れるとは聞いていたけど、____田中さん、遅いね�
 optionA: "それにしても"
 optionB: "それにしては"
 correct: "それにしても"
-explanation: "それにしても benar karena pembicara menerima informasi sebelumnya, lalu tetap menilai keterlambatannya berlebihan."
+explanation: "それにしても benar karena pembicara sudah menerima info 'akan terlambat', lalu tetap berkomentar 'tetap saja terlalu lambat'. それにしては berarti 'untuk ukuran itu', yang justru membandingkan hasil dengan ekspektasi, bukan menambahkan komentar."
 ---
 ::
 
@@ -207,7 +209,7 @@ sentence: "これは100円____、高いと思います。"
 optionA: "にしても"
 optionB: "として"
 correct: "にしても"
-explanation: "100円にしても benar karena artinya bahkan jika harganya 100 yen, kesimpulannya tetap mahal."
+explanation: "100円にしても benar karena artinya 'bahkan jika harganya 100 yen', dan kesimpulan 高い tetap tidak berubah. 100円として berarti 'sebagai/dianggap 100 yen', yang tidak menyatakan konsesi."
 ---
 ::
 

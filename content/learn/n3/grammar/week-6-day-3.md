@@ -164,7 +164,7 @@ sentence: "先生にテストの範囲を聞いた____、10課までだと言わ
 optionA: "ところ"
 optionB: "ところだ"
 correct: "ところ"
-explanation: "聞いたところ benar karena ada hasil/informasi setelah bertanya."
+explanation: "聞いたところ benar karena menyampaikan hasil/informasi yang muncul setelah bertanya. 聞いたところだ berarti 'baru saja bertanya', bukan 'setelah bertanya lalu diberi tahu hasilnya'."
 ---
 ::
 
@@ -175,7 +175,7 @@ sentence: "もう少しで遅刻____。"
 optionA: "するところでした"
 optionB: "したところでした"
 correct: "するところでした"
-explanation: "するところでした benar karena hampir terjadi memakai bentuk kamus sebelum ところだった."
+explanation: "するところでした benar karena 'hampir terjadi' memakai bentuk kamus 遅刻する sebelum ところだった. したところでした memakai bentuk lampau, yang justru berarti sudah terjadi, bukan hampir."
 ---
 ::
 
@@ -184,9 +184,9 @@ explanation: "するところでした benar karena hampir terjadi memakai bentu
 question: "Baru setelah guru menegur, saya menyadari kesalahan itu."
 sentence: "先生に注意されて____、間違いに気が付きました。"
 optionA: "はじめて"
-optionB: "からだけ"
+optionB: "から"
 correct: "はじめて"
-explanation: "てはじめて benar karena pengalaman ditegur membuat pembicara baru sadar."
+explanation: "てはじめて benar karena menegaskan pembicara BARU sadar setelah ditegur. てから hanya berarti 'setelah', kehilangan nuansa 'baru setelah itu akhirnya sadar'."
 ---
 ::
 
@@ -195,9 +195,9 @@ explanation: "てはじめて benar karena pengalaman ditegur membuat pembicara 
 question: "Pulanglah selagi masih terang."
 sentence: "____帰ってきなさい。"
 optionA: "明るいうちに"
-optionB: "明るいまでに"
+optionB: "明るい時に"
 correct: "明るいうちに"
-explanation: "明るいうちに benar karena kesempatan pulang sebelum gelap bisa hilang."
+explanation: "明るいうちに benar karena menekankan 'selagi masih terang, sebelum keadaan berubah jadi gelap'. 明るい時に hanya berarti 'saat terang' tanpa nuansa kesempatan yang bisa hilang."
 ---
 ::
 
@@ -208,7 +208,7 @@ sentence: "____、メモをしておきます。"
 optionA: "忘れないうちに"
 optionB: "忘れるところだった"
 correct: "忘れないうちに"
-explanation: "忘れないうちに benar karena tindakan dilakukan sebelum lupa terjadi."
+explanation: "忘れないうちに benar karena tindakan mencatat dilakukan sebelum lupa terjadi. 忘れるところだった berarti 'hampir lupa', menceritakan kejadian yang nyaris terjadi, bukan menandai batas waktu untuk bertindak."
 ---
 ::
 

@@ -127,6 +127,7 @@ Bagian ini menghubungkan rumus dan contoh kalimat. Mulai dari bahan pendeknya du
 
 <div class="example-list">
   <div><p class="jp">先輩のおかげで、仕事のやり方がわかりました。</p><p>Berkat senior, saya paham cara melakukan pekerjaan.</p></div>
+  <div><p class="jp">試験に合格できたのは、先生のおかげです。</p><p>Saya bisa lulus ujian itu berkat guru.</p></div>
   <div><p class="jp">雨のせいで、楽しみにしていた試合が中止になりました。</p><p>Gara-gara hujan, pertandingan yang saya nantikan dibatalkan.</p></div>
   <div><p class="jp">寝不足のせいか、今日は集中できません。</p><p>Mungkin karena kurang tidur, hari ini saya tidak bisa fokus.</p></div>
   <div><p class="jp">映画に行くかわりに、家でゆっくり休みました。</p><p>Alih-alih pergi menonton film, saya beristirahat santai di rumah.</p></div>
@@ -163,7 +164,7 @@ sentence: "先生____、試験に合格できました。"
 optionA: "のおかげで"
 optionB: "のせいで"
 correct: "のおかげで"
-explanation: "のおかげで benar karena lulus adalah hasil baik dan guru diberi kredit."
+explanation: "のおかげで benar karena lulus adalah hasil baik dan guru diberi kredit. のせいで salah karena menyalahkan sebab buruk, padahal hasilnya positif."
 ---
 ::
 
@@ -174,7 +175,7 @@ sentence: "雨____、ピクニックが中止になりました。"
 optionA: "のせいで"
 optionB: "のおかげで"
 correct: "のせいで"
-explanation: "のせいで benar karena pembatalan adalah hasil buruk."
+explanation: "のせいで benar karena pembatalan adalah hasil buruk. のおかげで salah karena memberi kredit positif, padahal hasilnya merugikan."
 ---
 ::
 
@@ -183,9 +184,9 @@ explanation: "のせいで benar karena pembatalan adalah hasil buruk."
 question: "Mungkin karena kurang tidur, hari ini saya mengantuk."
 sentence: "寝不足____、今日は眠いです。"
 optionA: "のせいか"
-optionB: "のおかげだ"
+optionB: "のおかげで"
 correct: "のせいか"
-explanation: "のせいか benar karena pembicara menebak sebab rasa kantuk."
+explanation: "のせいか benar karena pembicara masih menebak sebab rasa kantuk (mungkin karena). のおかげで salah karena mengantuk bukan hasil baik yang pantas dikreditkan."
 ---
 ::
 
@@ -196,7 +197,7 @@ sentence: "コーヒー____、お茶をください。"
 optionA: "のかわりに"
 optionB: "にかわって"
 correct: "のかわりに"
-explanation: "のかわりに benar karena kopi diganti dengan teh sebagai pilihan benda."
+explanation: "のかわりに benar karena kopi diganti dengan teh sebagai pilihan benda. にかわって salah karena itu untuk menggantikan peran orang, bukan menukar benda."
 ---
 ::
 
@@ -207,7 +208,7 @@ sentence: "部長____、私がごあいさつします。"
 optionA: "にかわって"
 optionB: "のせいで"
 correct: "にかわって"
-explanation: "にかわって benar karena pembicara menggantikan peran kepala bagian."
+explanation: "にかわって benar karena pembicara menggantikan peran kepala bagian. のせいで salah karena itu menandai sebab buruk, bukan penggantian peran."
 ---
 ::
 

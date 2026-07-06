@@ -128,6 +128,7 @@ Bagian ini menghubungkan rumus dan contoh kalimat. Mulai dari bahan pendeknya du
 
 <div class="example-list">
   <div><p class="jp">駅まで一時間も歩いたんですか。疲れているわけですね。</p><p>Kamu berjalan sampai stasiun selama satu jam? Pantas saja lelah.</p></div>
+  <div><p class="jp">彼は昨日から寝ていません。だから元気がないというわけです。</p><p>Dia tidak tidur sejak kemarin. Jadi itulah sebabnya dia tidak bersemangat.</p></div>
   <div><p class="jp">甘いものがきらいなわけではありませんが、今日は食べたくありません。</p><p>Bukan berarti saya tidak suka makanan manis, tetapi hari ini saya tidak ingin makan.</p></div>
   <div><p class="jp">一日でこの仕事が終わるわけがありません。</p><p>Tidak mungkin pekerjaan ini selesai dalam satu hari.</p></div>
   <div><p class="jp">約束がありますから、今帰るわけにはいきません。</p><p>Karena ada janji, saya tidak bisa pulang sekarang begitu saja.</p></div>
@@ -140,6 +141,7 @@ Bagian ini menghubungkan rumus dan contoh kalimat. Mulai dari bahan pendeknya du
 |---|---|
 | わけだ / はずだ | わけだ setelah alasan diketahui. はずだ untuk ekspektasi logis. |
 | わけではない / ない | わけではない adalah negasi sebagian dan lebih halus. ない menyangkal langsung. |
+| わけではない / わけでもない | Keduanya negasi sebagian. わけでもない terasa sedikit lebih lembut, sering dipakai saat masih ada beberapa kemungkinan lain (mis. 見ないわけでもない). |
 | わけがない / はずがない | Keduanya tidak mungkin, tetapi わけがない terasa kuat dalam percakapan. |
 | わけがない / わけにはいかない | わけがない mustahil. わけにはいかない tidak bisa karena tanggung jawab/situasi. |
 | わけにはいかない / ことができない | わけにはいかない bukan kemampuan, tetapi kendala sosial/etis. |
@@ -164,7 +166,7 @@ sentence: "気温が36度もあります。暑い____。"
 optionA: "わけです"
 optionB: "わけではありません"
 correct: "わけです"
-explanation: "わけです benar karena alasan suhu membuat rasa panas masuk akal."
+explanation: "わけです benar karena alasan suhu 36 derajat membuat rasa panas jadi masuk akal ('pantas saja'). わけではありません justru menyangkal ('bukan berarti panas'), bertentangan dengan konteksnya."
 ---
 ::
 
@@ -175,7 +177,7 @@ sentence: "きらいな____が、肉はあまり食べません。"
 optionA: "わけではありません"
 optionB: "わけがありません"
 correct: "わけではありません"
-explanation: "わけではありません benar karena kalimatnya menyangkal sebagian, bukan total."
+explanation: "わけではありません benar karena kalimatnya menyangkal sebagian ('bukan berarti benci'), bukan total. わけがありません berarti 'tidak mungkin benci', penyangkalan kemungkinan yang terlalu kuat di sini."
 ---
 ::
 
@@ -184,9 +186,9 @@ explanation: "わけではありません benar karena kalimatnya menyangkal seb
 question: "Tidak mungkin saya bisa menang melawan lawan sekuat itu."
 sentence: "あの強い相手に勝てる____。"
 optionA: "わけがありません"
-optionB: "わけにはいきません"
+optionB: "わけではありません"
 correct: "わけがありません"
-explanation: "わけがありません benar karena pembicara menyangkal kemungkinan menang."
+explanation: "わけがありません benar karena pembicara menyangkal kemungkinan menang secara total ('tidak mungkin'). わけではありません hanya negasi sebagian ('bukan berarti bisa menang'), terlalu lemah untuk konteks pesimis ini."
 ---
 ::
 
@@ -197,18 +199,18 @@ sentence: "大事な会議があるので、休む____。"
 optionA: "わけにはいきません"
 optionB: "わけがありません"
 correct: "わけにはいきません"
-explanation: "わけにはいきません benar karena kendalanya tanggung jawab/situasi sosial."
+explanation: "わけにはいきません benar karena secara fisik bisa absen, tetapi tanggung jawab rapat membuatnya tidak pantas. わけがありません berarti 'tidak mungkin absen secara logis', padahal di sini absen itu mungkin, hanya terhalang tanggung jawab."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Karena perintah direktur, mau tidak mau saya harus patuh."
-sentence: "社長の命令だから、従わない____。"
-optionA: "わけにはいきません"
+question: "Dia tidak tidur sejak kemarin. Jadi itulah sebabnya dia tidak bersemangat."
+sentence: "彼は昨日から寝ていない。だから元気がない____。"
+optionA: "というわけです"
 optionB: "わけがありません"
-correct: "わけにはいきません"
-explanation: "従わないわけにはいきません benar karena tidak bisa menghindari tindakan patuh."
+correct: "というわけです"
+explanation: "というわけです benar karena kalimat merangkum kesimpulan logis dari fakta 'tidak tidur sejak kemarin'. わけがありません berarti 'tidak mungkin', justru menyangkal fakta yang sudah jelas."
 ---
 ::
 

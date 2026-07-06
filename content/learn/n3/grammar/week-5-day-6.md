@@ -61,27 +61,15 @@ Simbol di tabel ini hanya penanda slot. `（N）` berarti nomina atau frasa nomi
 
 ## Cara Membentuk Pola
 
-### 1. Pilih bentuk sebelum pola
+Pola hari ini adalah konektor antar kalimat, jadi tidak ada perubahan bentuk verba. Yang menentukan pilihan bukan konjugasi, melainkan hubungan antara kalimat pertama (A) dan kalimat kedua (B). Cek dulu apakah B melawan A, menjadi akibat A, atau membuka topik baru.
 
-| Tujuan | Bentuk | Contoh bentuk |
+| Konektor | Hubungan A → B | Contoh bentuk |
 |---|---|---|
-| Ingin pergi tapi tidak bisa | （Kalimat）。だけど、（Kalimat） | 行きたい。だけど行けない |
-| Hujan, jadi perlu payung | （Alasan）。だから、（Hasil） | 雨だ。だから傘がいる |
-| Rencana pergi, tetapi sakit | （Expected）。ところが、（Unexpected） | 行く予定だった。ところが病気になった |
-| Ngomong-ngomong minggu depan kosong? | ところで（question） | ところで来週は空いてる？ |
-| Namun secara formal | しかし | 行きたい。しかし行けない |
-
-### 2. Masukkan ke fungsi kalimat
-
-| Bentuk | Fungsi | Contoh pendek |
-|---|---|---|
-| だけど | tapi kasual | 行きたい。だけど忙しい |
-| しかし | namun formal | 行きたい。しかし難しい |
-| だから／ですから | alasan ke akibat | 雨だ。だから中止 |
-| ところが | tetapi ternyata | 行く予定だった。ところが病気 |
-| ところで | ngomong-ngomong | ところで来週は？ |
-
-Saat membangun kalimat, jangan mulai dari terjemahan kata per kata. Tentukan dulu slot yang berubah, lalu cek partikel, bentuk akhir, dan hubungan antarbagian kalimat.
+| だけど | (keinginan/fakta) → (kontras kasual) | 行きたい。だけど、行けない。 |
+| けれども・しかし | (fakta) → (kontras formal/tertulis) | 行きたい。しかし、行けない。 |
+| だから・ですから | (alasan) → (akibat) | 雨だ。だから、傘がいる。 |
+| ところが | (dugaan/rencana) → (hasil tak terduga) | 行く予定だった。ところが、病気になった。 |
+| ところで | (kalimat apa pun) → (topik baru) | 明日は試験だ。ところで、来週は？ |
 
 ## Bangun Kalimat Bertahap
 
@@ -137,7 +125,7 @@ Bagian ini menghubungkan rumus dan contoh kalimat. Mulai dari bahan pendeknya du
 
 | Pasangan | Cara membedakan |
 |---|---|
-| だけど / しかし | だけど kasual. しかし formal atau tertulis. |
+| だけど / けれども・しかし | だけど kasual (percakapan). けれども dan しかし lebih formal/tertulis; しかし paling tegas. |
 | だから / なぜなら | だから alasan ke akibat. なぜなら kesimpulan dulu lalu alasan. |
 | ところが / だけど | ところが untuk hasil tak terduga. だけど untuk kontras biasa. |
 | ところが / ところで | ところが melanjutkan cerita. ところで pindah topik. |
@@ -163,7 +151,7 @@ sentence: "明日は試験だ。____、来週は空いてる？"
 optionA: "ところで"
 optionB: "ところが"
 correct: "ところで"
-explanation: "ところで benar karena pembicara mengganti topik ke jadwal minggu depan."
+explanation: "ところで benar karena pembicara mengganti topik dari ujian ke jadwal minggu depan. ところが salah karena itu untuk hasil yang berlawanan dengan dugaan, bukan pergantian topik."
 ---
 ::
 
@@ -174,7 +162,7 @@ sentence: "行く予定だった。____、病気で行けなくなった。"
 optionA: "ところが"
 optionB: "ところで"
 correct: "ところが"
-explanation: "ところが benar karena hasilnya di luar dugaan dari rencana awal."
+explanation: "ところが benar karena sakit adalah hasil di luar dugaan dari rencana pergi. ところで salah karena itu untuk pindah topik, padahal di sini cerita berlanjut dengan hasil tak terduga."
 ---
 ::
 
@@ -185,7 +173,7 @@ sentence: "雨です。____、傘がいります。"
 optionA: "ですから"
 optionB: "なぜなら"
 correct: "ですから"
-explanation: "ですから benar karena alasan 雨 mengarah ke akibat 傘がいる."
+explanation: "ですから benar karena alasan 雨 mengarah ke akibat 傘がいる (alasan → akibat). なぜなら salah karena polanya kebalikan: なぜなら menyebut kesimpulan dulu baru alasan, jadi tidak cocok setelah 雨です."
 ---
 ::
 
@@ -196,7 +184,7 @@ sentence: "行きたい。____、行けない。"
 optionA: "しかし"
 optionB: "ところで"
 correct: "しかし"
-explanation: "しかし benar karena ini kontras biasa dalam gaya rapi."
+explanation: "しかし benar karena ini kontras (ingin pergi tetapi tidak bisa) dalam gaya rapi. ところで salah karena itu untuk pindah topik, padahal kalimat kedua masih berlawanan dengan kalimat pertama."
 ---
 ::
 

@@ -161,12 +161,12 @@ Pilih jawaban yang paling tepat. Perhatikan konteks, bentuk sebelum pola, dan nu
 
 ::MiniPractice
 ---
-question: "Meskipun kamar ini tenang, saya tidak bisa tidur."
+question: "Seandainya kamar ini tenang pun, saya tetap tidak bisa tidur."
 sentence: "この部屋は____、眠れません。"
 optionA: "静かでも"
-optionB: "静かくても"
+optionB: "静かなのに"
 correct: "静かでも"
-explanation: "静かでも benar karena 静か adalah adjektiva-na, jadi bentuk konsesinya memakai でも."
+explanation: "静かでも benar karena adjektiva-na memakai でも untuk konsesi 'meskipun/seandainya pun'. 静かなのに dipakai untuk fakta yang sudah terjadi dengan rasa 'padahal', bukan untuk pengandaian."
 ---
 ::
 
@@ -175,20 +175,20 @@ explanation: "静かでも benar karena 静か adalah adjektiva-na, jadi bentuk 
 question: "Saya tidur tanpa mengerjakan PR."
 sentence: "宿題を____寝ました。"
 optionA: "せずに"
-optionB: "しずに"
+optionB: "しなくて"
 correct: "せずに"
-explanation: "せずに benar karena する berubah menjadi せずに untuk arti tanpa melakukan."
+explanation: "せずに benar karena kalimatnya menerangkan cara: tidur TANPA mengerjakan PR (ingat, する menjadi せずに, bukan しずに). しなくて menyatakan alasan/penyebab, jadi tidak cocok untuk arti 'tanpa melakukan'."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Saya menulis karangan itu tanpa memakai kamus."
+question: "Dalam laporan tertulis yang formal: saya menulis karangan itu tanpa memakai kamus."
 sentence: "辞書を____作文を書きました。"
 optionA: "使わずに"
-optionB: "使わずにで"
+optionB: "使わないで"
 correct: "使わずに"
-explanation: "使わずに benar karena ずに sudah berarti tanpa melakukan; tidak perlu menambah で."
+explanation: "使わずに benar karena konteksnya tulisan formal, dan ずに adalah bentuk yang lebih tertulis/formal. 使わないで juga benar secara tata bahasa, tetapi nuansanya percakapan sehari-hari."
 ---
 ::
 
@@ -199,7 +199,7 @@ sentence: "どんなに____、全然うまくなりません。"
 optionA: "練習しても"
 optionB: "練習して"
 correct: "練習しても"
-explanation: "練習しても benar karena どんなに membutuhkan bentuk konsesi 〜ても."
+explanation: "練習しても benar karena どんなに wajib berpasangan dengan bentuk konsesi 〜ても. 練習して hanya menyambung tindakan biasa, sehingga tidak menutup pola 'seberapa pun'."
 ---
 ::
 
@@ -208,9 +208,9 @@ explanation: "練習しても benar karena どんなに membutuhkan bentuk konse
 question: "Semurah apa pun barang itu, saya tidak ingin membelinya."
 sentence: "いくら____、買いたくありません。"
 optionA: "安くても"
-optionB: "安いでも"
+optionB: "安かったら"
 correct: "安くても"
-explanation: "安くても benar karena 安い adalah adjektiva-i; bentuk konsesinya adalah stem くても."
+explanation: "安くても benar karena いくら〜ても menyatakan 'berapa pun murahnya, hasil tidak berubah' (adjektiva-i menjadi 〜くても). 安かったら adalah syarat 'kalau murah', yang justru berarti hasilnya bisa berubah."
 ---
 ::
 

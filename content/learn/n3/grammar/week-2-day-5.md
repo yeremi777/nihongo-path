@@ -152,7 +152,7 @@ sentence: "今日は涼しい____寒いくらいでした。"
 optionA: "というより"
 optionB: "といっても"
 correct: "というより"
-explanation: "というより benar karena pembicara mengoreksi label: bukan sekadar sejuk, lebih tepat dingin."
+explanation: "というより benar karena pembicara mengoreksi label: bukan sekadar sejuk, lebih tepat dingin. といっても justru membatasi kesan label menjadi lebih kecil, kebalikan dari arah kalimat ini."
 ---
 ::
 
@@ -161,9 +161,9 @@ explanation: "というより benar karena pembicara mengoreksi label: bukan sek
 question: "Kalau bicara makanan Jepang, sushi itu terkenal."
 sentence: "日本の食べ物____、おすしが有名です。"
 optionA: "といえば"
-optionB: "といっても"
+optionB: "について"
 correct: "といえば"
-explanation: "といえば benar karena makanan Jepang memunculkan asosiasi sushi."
+explanation: "といえば benar karena topik 'makanan Jepang' memunculkan asosiasi khas: sushi. について hanya berarti 'tentang' dan tidak membuka asosiasi 'kalau bicara soal..., pasti...'."
 ---
 ::
 
@@ -174,7 +174,7 @@ sentence: "夏の果物____、やっぱりスイカですね。"
 optionA: "といったら"
 optionB: "というより"
 correct: "といったら"
-explanation: "といったら benar karena スイカ disebut sebagai contoh paling khas."
+explanation: "といったら benar karena やっぱり menandakan スイカ adalah contoh yang paling khas dan langsung terpikir. というより dipakai untuk mengoreksi label, padahal di sini tidak ada label yang diperbaiki."
 ---
 ::
 
@@ -183,9 +183,9 @@ explanation: "といったら benar karena スイカ disebut sebagai contoh pali
 question: "Walaupun disebut perjalanan, sebenarnya saya hanya pergi ke onsen dekat sini."
 sentence: "旅行____、近くの温泉に行っただけです。"
 optionA: "といっても"
-optionB: "というより"
+optionB: "といえば"
 correct: "といっても"
-explanation: "といっても benar karena label 旅行 dibatasi oleh kenyataan yang lebih sederhana."
+explanation: "といっても benar karena kenyataannya (hanya onsen dekat rumah) lebih kecil daripada kesan kata 旅行 — petunjuknya ada di 〜だけです. といえば akan membuka asosiasi topik, bukan membatasi label."
 ---
 ::
 
@@ -196,7 +196,7 @@ sentence: "彼女は美人____かわいい人です。"
 optionA: "というより"
 optionB: "より"
 correct: "というより"
-explanation: "というより benar karena kalimatnya memperbaiki label, bukan membandingkan dua orang atau dua benda."
+explanation: "というより benar karena kalimatnya memperbaiki label untuk orang yang sama: 'cantik' kurang tepat, 'imut' lebih pas. 美人より akan menjadi perbandingan biasa, seolah membandingkan dia dengan orang cantik lain."
 ---
 ::
 

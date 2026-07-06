@@ -131,6 +131,7 @@ Bagian ini adalah jembatan sebelum contoh kalimat penuh. Setelah kamu tahu bentu
 
 - `〜させてください` berarti "tolong izinkan saya melakukan".
 - Tindakan setelah pola ini dilakukan oleh pembicara, bukan oleh lawan bicara. Ini berbeda dari `〜てください`, yang meminta lawan bicara melakukan sesuatu.
+- `〜させてもらえますか` terdengar lebih halus dan lebih sopan daripada `〜させてください`. Pakai bentuk ini saat meminta izin kepada atasan, guru, atau orang yang belum akrab.
 - Contoh: ちょっと気分が悪いので、早く帰らせてください。
 
 ## Pola yang Sering Muncul

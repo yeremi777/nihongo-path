@@ -133,6 +133,7 @@ Di tabel ini, `（N）` berarti nomina atau frasa nomina, `（V）` berarti verb
 | 〜みたい / 〜らしい | `みたい` membandingkan atau memberi kesan langsung. `らしい` menunjukkan ciri yang khas dan cocok dengan gambaran umum. |
 | 〜らしい / 〜っぽい | `らしい` bisa positif/netral sebagai ciri yang cocok. `っぽい` lebih informal dan sering terasa sedikit negatif atau hanya berupa kesan permukaan. |
 | 〜みたいに / 〜みたいな | `みたいに` menerangkan verba/adjektiva. `みたいな` menerangkan nomina. |
+| 〜らしい（khas） / 〜らしい（katanya） | `らしい` hari ini menempel pada nomina dan berarti "khas/cocok dengan gambaran （N）", seperti 春らしい日. `らしい` yang berarti "kabarnya/sepertinya" menempel pada kalimat, seperti 明日は雨が降るらしい. Cek apa yang ada di depannya: nomina berciri, atau informasi yang didengar. |
 
 ## Kesalahan Umum
 
@@ -192,12 +193,12 @@ explanation: "水っぽい benar untuk kesan tekstur yang agak berair/encer."
 
 ::MiniPractice
 ---
-question: "Cara bicara seperti itu terdengar kekanak-kanakan."
+question: "Cara bicara seperti itu terdengar kekanak-kanakan, sebaiknya dihentikan."
 sentence: "そんな____話し方はやめたほうがいいです。"
 optionA: "子どもっぽい"
-optionB: "子どもみたいに"
+optionB: "子どもらしい"
 correct: "子どもっぽい"
-explanation: "子どもっぽい benar karena menerangkan kata benda 話し方 dengan kesan kekanak-kanakan."
+explanation: "子どもっぽい benar karena kalimatnya memberi kesan negatif (kekanak-kanakan) sampai disarankan berhenti. 子どもらしい justru terasa positif/netral, seperti sifat anak yang wajar, jadi tidak cocok dengan やめたほうがいい."
 ---
 ::
 

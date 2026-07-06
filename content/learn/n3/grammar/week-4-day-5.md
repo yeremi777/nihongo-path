@@ -32,7 +32,7 @@ Di akhir pelajaran ini, kamu bisa membedakan pola untuk mengingat sesuatu, menga
 | Fungsi | Pola | Arti praktis | Kapan dipakai |
 |---|---|---|---|
 | Mengingat kembali | 〜っけ・〜でしたっけ | apa tadi ya | mengecek info yang lupa |
-| Satu-satunya pilihan | 〜しかない・〜よりほかない | tidak ada pilihan selain | situasi memaksa satu tindakan |
+| Satu-satunya pilihan | 〜しかない | tidak ada pilihan selain | situasi memaksa satu tindakan |
 | Katanya kasual | 〜んだって・〜んだと | saya dengar / katanya | kabar dari orang lain dalam percakapan |
 | Kutipan kasual | 〜だって | katanya | isi ucapan atau info kasual |
 | Alasan emosional | 〜もん・〜もの | soalnya / karena | pembenaran kasual, kekanak-kanakan, atau lembut |
@@ -163,7 +163,7 @@ sentence: "会議は何時から____。"
 optionA: "でしたっけ"
 optionB: "ですか"
 correct: "でしたっけ"
-explanation: "でしたっけ benar karena pembicara sedang mencoba mengingat informasi."
+explanation: "でしたっけ benar karena pembicara sedang mencoba mengingat informasi yang lupa. ですか salah karena itu pertanyaan biasa tanpa nuansa mengingat kembali."
 ---
 ::
 
@@ -174,7 +174,7 @@ sentence: "わからないなら、先生に聞く____。"
 optionA: "しかありません"
 optionB: "だけです"
 correct: "しかありません"
-explanation: "しかありません benar karena hanya tindakan bertanya yang tersisa."
+explanation: "しかありません benar karena hanya tindakan bertanya yang tersisa dengan rasa terpaksa. だけです salah karena itu hanya membatasi secara netral, tanpa makna 'tidak ada pilihan lain'."
 ---
 ::
 
@@ -194,9 +194,9 @@ explanation: "学生なんだって benar karena nomina sebelum んだって mem
 question: "Katanya materi ujian sampai halaman 50."
 sentence: "試験の範囲は50ページまで____。"
 optionA: "だって"
-optionB: "もん"
+optionB: "だっけ"
 correct: "だって"
-explanation: "だって benar karena kalimatnya melaporkan isi informasi secara kasual."
+explanation: "だって benar karena kalimatnya melaporkan kabar yang didengar secara kasual. だっけ salah karena itu dipakai saat mengingat-ingat informasi, bukan melaporkan."
 ---
 ::
 
@@ -207,7 +207,7 @@ sentence: "その薬は飲みたくない。だって、まずい____。"
 optionA: "んだもん"
 optionB: "っけ"
 correct: "んだもん"
-explanation: "んだもん benar karena pembicara memberi alasan kasual dan emosional."
+explanation: "んだもん benar karena pembicara memberi alasan kasual dan emosional. っけ salah karena itu untuk mengecek ingatan, bukan memberi alasan."
 ---
 ::
 

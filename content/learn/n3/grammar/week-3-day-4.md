@@ -161,20 +161,20 @@ Pilih jawaban yang paling tepat. Perhatikan konteks, bentuk sebelum pola, dan nu
 question: "Saya sekalian pergi ke bank saat belanja."
 sentence: "買い物____銀行へ行きました。"
 optionA: "のついでに"
-optionB: "たびに"
+optionB: "のたびに"
 correct: "のついでに"
-explanation: "買い物のついでに benar karena belanja adalah kegiatan utama yang menjadi kesempatan untuk pergi ke bank."
+explanation: "買い物のついでに benar karena belanja adalah kegiatan utama, dan pergi ke bank hanya tindakan sampingan 'sekalian'. 買い物のたびに berarti 'setiap kali belanja', padahal kalimat ini bicara satu kesempatan saja."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Setiap kali mendengar lagu ini, saya teringat kampung halaman."
-sentence: "この曲を聞く____、ふるさとを思い出します。"
-optionA: "たびに"
-optionB: "とたんに"
-correct: "たびに"
-explanation: "聞くたびに benar karena ingatan itu muncul berulang setiap kali mendengar lagu."
+sentence: "この曲を____、ふるさとを思い出します。"
+optionA: "聞くたびに"
+optionB: "聞いたとたんに"
+correct: "聞くたびに"
+explanation: "聞くたびに benar karena ingatan itu muncul berulang setiap kali mendengar lagu. 聞いたとたんに menceritakan satu kejadian tiba-tiba sesaat setelah mendengar, bukan pengulangan 'setiap kali'."
 ---
 ::
 
@@ -185,7 +185,7 @@ sentence: "窓を____、強い風が入ってきました。"
 optionA: "開けたとたん"
 optionB: "開けるたびに"
 correct: "開けたとたん"
-explanation: "開けたとたん benar karena angin masuk langsung setelah jendela dibuka."
+explanation: "開けたとたん benar karena angin masuk langsung dan tak terduga tepat setelah jendela dibuka (satu kejadian). 開けるたびに berarti 'setiap kali membuka', yang tidak cocok dengan cerita satu kejadian lampau ini."
 ---
 ::
 
@@ -196,7 +196,7 @@ sentence: "食事____、お客さんが来ました。"
 optionA: "の最中に"
 optionB: "最中に"
 correct: "の最中に"
-explanation: "食事の最中に benar karena nomina 食事 membutuhkan の sebelum 最中."
+explanation: "食事の最中に benar karena nomina seperti 食事 membutuhkan の sebelum 最中. Bentuk tanpa の hanya mungkin setelah verba: 食べている最中に."
 ---
 ::
 

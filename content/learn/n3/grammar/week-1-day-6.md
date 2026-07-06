@@ -177,23 +177,23 @@ explanation: "聞こうとしません benar karena menunjukkan tidak ada usaha 
 
 ::MiniPractice
 ---
-question: "Tahun depan, saya berencana pulang ke negara saya."
-sentence: "来年、国に帰ろう____。"
-optionA: "と思っています"
-optionB: "としています"
-correct: "と思っています"
-explanation: "帰ろうと思っています benar karena kalimatnya tentang rencana yang sedang dipikirkan."
+question: "Tahun depan, saya berencana belajar ke Jepang."
+sentence: "来年、日本に留学____と思っています。"
+optionA: "しよう"
+optionB: "する"
+correct: "しよう"
+explanation: "留学しようと思っています benar karena niat/rencana memakai bentuk kehendak（V意向形）+ と思う. 留学すると思っています berarti perkiraan 'sepertinya akan belajar ke Jepang', bukan rencana pembicara."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Saat saya baru hendak tidur, teman saya menelepon."
-sentence: "寝よう____、友達から電話が来ました。"
-optionA: "としたときに"
-optionB: "と思っているときに"
-correct: "としたときに"
-explanation: "寝ようとしたときに benar karena kejadian telepon datang tepat saat tindakan tidur akan dimulai."
+sentence: "寝____、友達から電話が来ました。"
+optionA: "ようとしたときに"
+optionB: "たときに"
+correct: "ようとしたときに"
+explanation: "寝ようとしたときに benar karena 'baru hendak tidur' berarti tindakan tidur belum dimulai lalu terganggu telepon. 寝たときに berarti teleponnya datang setelah/saat sudah tidur."
 ---
 ::
 

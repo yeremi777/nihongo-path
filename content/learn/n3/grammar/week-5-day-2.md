@@ -142,7 +142,9 @@ Bagian ini menghubungkan rumus dan contoh kalimat. Mulai dari bahan pendeknya du
 |---|---|
 | 上げる / 上がる | 上げる saat seseorang menyelesaikan sesuatu. 上がる saat sesuatu menjadi selesai. |
 | 切る / 上げる | 切る berarti tuntas sampai habis. 上げる sering untuk menyelesaikan karya/tugas dengan usaha. |
+| 切れる / 切れない | 切れる berarti sanggup menghabiskan sepenuhnya (この量なら食べ切れる). 切れない berarti tidak sanggup sampai habis. |
 | 切れない / られない | 切れない berarti tidak sanggup menyelesaikan sepenuhnya. られない hanya tidak bisa secara umum. |
+| かける / かけの（N） | かける menekankan aksi baru mulai atau hampir terjadi (おふろに入りかけた). かけの（N） adalah nomina yang sudah dimulai tetapi belum selesai (読みかけの本). |
 | かけ / 途中 | かけ menempel pada stem verba. 途中 adalah nomina umum untuk di tengah proses/perjalanan. |
 | たて / たばかり | たて menekankan kesegaran setelah selesai. たばかり hanya baru saja terjadi. |
 
@@ -166,7 +168,7 @@ sentence: "やっとレポートを____。"
 optionA: "書き上げました"
 optionB: "書き上がりました"
 correct: "書き上げました"
-explanation: "書き上げました benar karena pembicara menyelesaikan objek レポート."
+explanation: "書き上げました benar karena partikel を menandai objek レポート, jadi butuh 上げる yang transitif. 書き上がりました salah karena 上がる intransitif dan tidak boleh mengambil objek を."
 ---
 ::
 
@@ -186,9 +188,9 @@ explanation: "が焼き上がりました benar karena 上がる intransitif dan
 question: "Nasinya terlalu banyak, jadi saya tidak bisa menghabiskannya."
 sentence: "ご飯が多くて、____。"
 optionA: "食べ切れません"
-optionB: "食べ上がりません"
+optionB: "食べられません"
 correct: "食べ切れません"
-explanation: "食べ切れません benar karena maksudnya tidak bisa makan sampai habis."
+explanation: "食べ切れません benar karena maksudnya tidak sanggup menghabiskan sampai tuntas karena jumlahnya banyak. 食べられません hanya berarti 'tidak bisa makan' secara umum, kurang tepat untuk nuansa 'tidak habis'."
 ---
 ::
 
@@ -199,7 +201,7 @@ sentence: "これは____本です。"
 optionA: "読みかけの"
 optionB: "読みたての"
 correct: "読みかけの"
-explanation: "読みかけの benar karena aksi membaca sudah mulai tetapi belum selesai."
+explanation: "読みかけの benar karena aksi membaca sudah mulai tetapi belum selesai. 読みたての salah karena たて menyatakan sesuatu yang baru selesai dan masih segar, tidak cocok untuk buku yang belum tuntas dibaca."
 ---
 ::
 
@@ -210,7 +212,7 @@ sentence: "____パンはおいしいです。"
 optionA: "焼きたての"
 optionB: "焼きかけの"
 correct: "焼きたての"
-explanation: "焼きたての benar karena roti baru selesai dipanggang dan masih segar."
+explanation: "焼きたての benar karena roti baru selesai dipanggang dan masih segar. 焼きかけの salah karena berarti roti yang setengah matang atau belum selesai dipanggang."
 ---
 ::
 

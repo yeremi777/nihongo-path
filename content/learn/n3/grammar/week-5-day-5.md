@@ -138,6 +138,7 @@ Bagian ini menghubungkan rumus dan contoh kalimat. Mulai dari bahan pendeknya du
 | Pasangan | Cara membedakan |
 |---|---|
 | たとえ〜ても / ても | たとえ menambah rasa ekstrem atau hipotetis. ても lebih umum. |
+| たとえ〜ても / たとえ〜なくても | ても saat kondisi ekstrem tetap terjadi. なくても saat hasil tetap sama walau kondisi tidak terpenuhi (たとえ元気じゃなくても、いつも笑顔だ). |
 | かもしれない / でしょう | かもしれない tidak yakin. でしょう lebih percaya diri. |
 | とは限らない / わけではない | とは限らない menolak generalisasi. わけではない menolak sebagian makna. |
 | ようだ / みたいだ | ようだ lebih rapi/formal. みたいだ lebih percakapan. |
@@ -174,7 +175,7 @@ sentence: "彼の話はうそ____。"
 optionA: "かもしれない"
 optionB: "でしょう"
 correct: "かもしれない"
-explanation: "かもしれない benar karena pembicara menyatakan kemungkinan yang belum pasti."
+explanation: "かもしれない benar karena pembicara menyatakan kemungkinan yang belum pasti. でしょう salah karena menyiratkan keyakinan/dugaan yang cukup kuat, padahal di sini pembicara tidak yakin."
 ---
 ::
 
@@ -183,9 +184,9 @@ explanation: "かもしれない benar karena pembicara menyatakan kemungkinan y
 question: "Barang mahal belum tentu barang bagus."
 sentence: "高いものがいいものだ____。"
 optionA: "とは限りません"
-optionB: "かもしれません"
+optionB: "とは思いません"
 correct: "とは限りません"
-explanation: "とは限りません benar karena kalimatnya menolak generalisasi."
+explanation: "とは限りません benar karena kalimatnya menolak generalisasi 'yang mahal pasti bagus' (belum tentu). とは思いません salah karena berarti 'saya tidak berpendapat bahwa...', sebuah penolakan pribadi yang tegas, bukan 'belum tentu'."
 ---
 ::
 
@@ -196,7 +197,7 @@ sentence: "まるで夢____。"
 optionA: "のようです"
 optionB: "かもしれません"
 correct: "のようです"
-explanation: "夢のようです benar karena まるで untuk perbandingan memakai ようだ."
+explanation: "夢のようです benar karena まるで untuk perbandingan/metafora memakai ようだ. かもしれません salah karena berarti 'mungkin mimpi' (kemungkinan), bukan perumpamaan 'seperti mimpi'."
 ---
 ::
 

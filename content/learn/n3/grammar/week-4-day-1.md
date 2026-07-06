@@ -127,6 +127,7 @@ Bagian ini menghubungkan rumus dan contoh kalimat. Mulai dari bahan pendeknya du
 
 <div class="example-list">
   <div><p class="jp">この本は、初級者にとって少し難しいです。</p><p>Buku ini agak sulit bagi pemula.</p></div>
+  <div><p class="jp">私にとっての一番の楽しみは、週末に映画を見ることです。</p><p>Kesenangan terbesar bagi saya adalah menonton film di akhir pekan.</p></div>
   <div><p class="jp">祖父は年のわりに、スマホの使い方に詳しいです。</p><p>Kakek saya paham cara memakai ponsel untuk ukuran usianya.</p></div>
   <div><p class="jp">弟は子どものくせに、大人みたいなことを言います。</p><p>Adik saya padahal masih anak-anak, tetapi berbicara seperti orang dewasa.</p></div>
   <div><p class="jp">私なんかが発表してもいいんですか。</p><p>Apakah orang seperti saya boleh presentasi?</p></div>
@@ -140,6 +141,7 @@ Bagian ini menghubungkan rumus dan contoh kalimat. Mulai dari bahan pendeknya du
 | にとって / には | にとって menilai dari sudut pandang. には lebih luas untuk target, topik, atau kepemilikan. |
 | にとって / としては | にとって berarti bagi seseorang. としては berarti sebagai peran tertentu. |
 | わりに / にしては | わりに melihat gap umum dari ekspektasi. にしては menilai untuk kategori tertentu. |
+| わりに / わりには | Keduanya menilai hasil yang berbeda dari dugaan. Bentuk わりには menambah は untuk menegaskan kontras yang mengejutkan itu lebih kuat. |
 | わりに / くせに | わりに netral. くせに terdengar menyalahkan atau kesal. |
 | なんか / など | なんか kasual dan emosional. など lebih netral atau formal. |
 
@@ -163,7 +165,7 @@ sentence: "あなた____、いちばん大切なものは何ですか。"
 optionA: "にとって"
 optionB: "に"
 correct: "にとって"
-explanation: "にとって benar karena kalimatnya meminta penilaian dari sudut pandang あなた."
+explanation: "にとって benar karena kalimatnya meminta penilaian dari sudut pandang あなた. Partikel に saja hanya menandai sasaran atau penerima, bukan sudut pandang penilaian."
 ---
 ::
 
@@ -174,7 +176,7 @@ sentence: "彼は年____若く見えます。"
 optionA: "のわりに"
 optionB: "にとって"
 correct: "のわりに"
-explanation: "年のわりに benar karena 年 adalah nomina dan hasilnya berbeda dari dugaan usia."
+explanation: "年のわりに benar karena 年 adalah nomina dan hasilnya berbeda dari dugaan usia. にとって salah karena kalimat ini membandingkan hasil dengan dugaan, bukan menilai dari sudut pandang seseorang."
 ---
 ::
 
@@ -185,7 +187,7 @@ sentence: "彼は知っている____、教えてくれません。"
 optionA: "くせに"
 optionB: "わりに"
 correct: "くせに"
-explanation: "くせに benar karena pembicara mengkritik orang yang tahu tetapi tidak memberi tahu."
+explanation: "くせに benar karena pembicara mengkritik orang yang tahu tetapi tidak memberi tahu. わりに hanya menilai hasil di luar dugaan secara netral, tanpa nada menyalahkan."
 ---
 ::
 
@@ -196,7 +198,7 @@ sentence: "日本語でスピーチ____、私にはできません。"
 optionA: "なんて"
 optionB: "など"
 correct: "なんて"
-explanation: "なんて cocok karena pembicara merendahkan diri dan bereaksi emosional pada ide pidato bahasa Jepang."
+explanation: "なんて cocok karena pembicara merendahkan diri dan bereaksi emosional pada ide pidato bahasa Jepang. など terlalu netral dan formal untuk nada emosional seperti ini."
 ---
 ::
 
@@ -207,7 +209,7 @@ sentence: "面接で、仕事の経験____について聞かれました。"
 optionA: "など"
 optionB: "なんか"
 correct: "など"
-explanation: "など benar karena konteks wawancara membutuhkan contoh yang netral."
+explanation: "など benar karena konteks wawancara formal membutuhkan contoh yang netral. なんか terdengar kasual dan meremehkan, jadi tidak cocok saat wawancara."
 ---
 ::
 
