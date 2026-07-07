@@ -27,7 +27,7 @@ Di akhir pelajaran ini, kamu bisa membedakan pasangan kata kerja untuk turun-nai
 Fokus hari ini bukan hanya menghafal arti kata seperti 下がる, 値段が下がる, 下げる, dan 値段を下げる, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan fungsinya di kalimat: benda atau orang, tindakan, keadaan, waktu, tempat, dan cara. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan atau arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> hampir semua kata muncul sebagai pasangan 自動詞／他動詞. Tanyakan satu hal — <em>bendanya berubah sendiri, atau ada yang mengubahnya?</em> Kalau berubah sendiri, pakai 自動詞 dengan が: 値段が下がる, 人が増える. Kalau seseorang yang mengubah, pakai 他動詞 dengan を: 値段を下げる, かばんから本を出す. Untuk kendaraan, hafalkan pasangan partikel yang tetap: 電車に乗る tetapi 電車を降りる.
 </div>
 
 ## Daftar Kata
@@ -89,11 +89,7 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 下がる, 値段が下�
   <span>遅れる・間に合う</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang kata kerja berpasangan: kata intinya bisa berupa 下がる, 値段が下がる, dan 下げる; kata lain memberi konteks tambahan. Mulai dari kata inti, lalu lihat pasangan kata dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
-
-
-
-Peta hari ini membentuk pasangan: harga bisa naik/turun sendiri, orang bisa menaikkan/menurunkan harga, penumpang naik atau turun kendaraan, jumlah orang bertambah/berkurang, benda dikeluarkan/dimasukkan, dan jadwal bisa terlambat atau masih sempat.
+Peta hari ini membentuk pasangan yang saling berlawanan. 値段が下がる／下げる dan 値段が上がる／上げる memisahkan "harga berubah sendiri" dari "orang mengubah harga". Untuk gerak orang, 乗る dan 降りる berpasangan lewat partikel (に vs を), sedangkan 上る／登る dan 下りる／降りる membedakan tangga dari gunung. 減る dan 増える menggambarkan jumlah yang berubah sendiri, 出す dan 入れる menggambarkan benda yang dikeluarkan atau dimasukkan, lalu 遅れる dan 間に合う menutup peta dengan urusan waktu: terlambat atau masih sempat.
 
 ## Catatan Pemakaian
 
@@ -108,6 +104,12 @@ Peta hari ini membentuk pasangan: harga bisa naik/turun sendiri, orang bisa mena
 - 電車に乗る memakai に karena masuk/naik ke kendaraan.
 - 電車を降りる memakai を karena meninggalkan kendaraan.
 - 階段を上る／下りる memakai を karena tangga adalah rute yang dilalui.
+
+### Keluar, Masuk, dan Waktu
+
+- 出す／入れる: pasangan 他動詞 untuk memindahkan benda; ingat pola arahnya, （A）から（B）を出す dan （A）に（B）を入れる.
+- 遅れる: 自動詞 untuk terlambat; acara yang dituju memakai に, seperti 授業に遅れる.
+- 間に合う: lawan konteks dari 遅れる; target waktu juga memakai に, seperti 電車に間に合う.
 
 ## Pola yang Sering Muncul
 

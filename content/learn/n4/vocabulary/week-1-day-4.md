@@ -27,7 +27,7 @@ Di akhir pelajaran ini, kamu bisa mengenali kosakata untuk menjelaskan rutinitas
 Fokus hari ini bukan hanya menghafal arti kata seperti 目が覚める, シャワーを浴びる, 顔を洗う, dan 手を洗う, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan fungsinya di kalimat: benda atau orang, tindakan, keadaan, waktu, tempat, dan cara. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan atau arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> tiga cara membersihkan yang berbeda alat — 洗う pakai air (顔を洗う), 拭く pakai kain (テーブルを拭く), 磨く menggosok sampai mengilap (歯を磨く, 靴を磨く). Perhatikan juga pasangan transitif: 目が覚める terjadi sendiri (自動詞), sedangkan 起こす butuh objek orang dengan を (人を起こす). Dan ingat frasa tetap dengan かける: アイロンをかける untuk menyetrika, 鍵をかける untuk mengunci.
 </div>
 
 ## Daftar Kata
@@ -88,10 +88,6 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 目が覚める, シャ�
   <span>支度をする</span>
   <span>出かける</span>
 </div>
-
-Bayangkan kamu sedang membaca atau mendengar situasi tentang rutinitas dan persiapan pagi: kata intinya bisa berupa 目が覚める, シャワーを浴びる, dan 顔を洗う; kata lain memberi konteks tambahan. Mulai dari kata inti, lalu lihat pasangan kata dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
-
-
 
 Urutan rutinitasnya bisa dibaca dari tubuh ke rumah lalu keluar: 目が覚める, mandi dan menyikat gigi, membereskan kamar, mencuci/menyetrika pakaian, membuang sampah, mengunci pintu, lalu 出かける.
 

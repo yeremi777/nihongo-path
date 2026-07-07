@@ -27,7 +27,7 @@ Di akhir pelajaran ini, kamu bisa memilih kata sifat berpasangan yang cocok untu
 Fokus hari ini bukan hanya menghafal arti kata seperti 濃い, 濃いコーヒー, 濃い色, dan 薄い, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan fungsinya di kalimat: benda atau orang, tindakan, keadaan, waktu, tempat, dan cara. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan atau arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> banyak kata hari ini adalah pasangan lawan, dan kata sifatnya dipilih menurut bendanya. Kopi dan warna memakai 濃い／薄い, kertas dan benda datar memakai 厚い／薄い, diameter pena atau lengan memakai 細い／太い. Hati-hati dengan あつい yang punya tiga kanji: 厚い (tebal benda), 暑い (cuaca), 熱い (benda/minuman panas) — selalu cek kanji dan benda yang diterangkan sebelum memilih arti.
 </div>
 
 ## Daftar Kata
@@ -98,10 +98,6 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 濃い, 濃いコーヒ�
   <span>弱い・強い</span>
   <span>うるさい・静かな</span>
 </div>
-
-Bayangkan kamu sedang membaca atau mendengar situasi tentang kata sifat berpasangan: kata intinya bisa berupa 濃い, 濃いコーヒー, dan 濃い色; kata lain memberi konteks tambahan. Mulai dari kata inti, lalu lihat pasangan kata dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
-
-
 
 Hubungan katanya bergantung pada benda: kopi dan warna memakai 濃い／薄い, kertas memakai 厚い／薄い, cuaca memakai 暑い, minuman memakai 熱い, sungai memakai 浅い／深い, pena memakai 細い／太い, dan tempat bisa うるさい, にぎやかな, atau 静かな.
 

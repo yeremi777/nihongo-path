@@ -27,7 +27,7 @@ Di akhir pelajaran ini, kamu bisa mengenali kosakata untuk melaporkan kejadian, 
 Fokus hari ini bukan hanya menghafal arti kata seperti どうしたの, どうしましたか, におい, dan においがする, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan fungsinya di kalimat: benda atau orang, tindakan, keadaan, waktu, tempat, dan cara. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan atau arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> dua pola untuk membaca situasi. Pertama, indra memakai がする — においがする, 味がする, 音がする — jadi cek benda yang dirasakan, bukan kata kerjanya. Kedua, keadaan hasil memakai （N）が（V）ている pada 自動詞: 枝が折れている, 窓ガラスが割れている, 道が濡れている. Bedakan juga pasangan makna 逃げる (kabur) ↔ 捕まる (tertangkap), dan 他動詞 seperti 盗む, 鳴らす, 信じる yang memakai を.
 </div>
 
 ## Daftar Kata
@@ -93,25 +93,34 @@ Fokus hari ini bukan hanya menghafal arti kata seperti どうしたの, どう�
   <span>ベルを鳴らす</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang keadaan dan kejadian: kata intinya bisa berupa どうしたの, どうしましたか, dan におい; kata lain memberi konteks tambahan. Mulai dari kata inti, lalu lihat pasangan kata dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
-
-
-
-Peta hari ini adalah laporan situasi: kamu bertanya どうしたの, mencium におい, mendengar 音, melihat kaca 割れている, melihat orang 困っている, lalu mungkin 鳴らす 非常ベル jika keadaan berbahaya.
+Peta hari ini adalah alur melaporkan kejadian. Kamu mulai dengan bertanya どうしたの atau どうしましたか, lalu menyebut apa yang tertangkap indra: 変なにおいがする, 音がする, atau 味がする. Berikutnya kamu menggambarkan keadaan benda dengan ている — 枝が折れている, 窓ガラスが割れている, 道が濡れている. Kalau kejadiannya melibatkan orang, ada 泥棒が逃げる lalu 捕まる, 人が騒いでいる, dan 人が困っている. Untuk tindakan sengaja pakai 他動詞: お金を盗む, 人をいじめる, 人を信じる, dan 非常ベルを鳴らす saat keadaan berbahaya.
 
 ## Catatan Pemakaian
 
-### がする
+### Indra memakai がする
 
-- においがする: ada bau.
-- 味がする: ada rasa/terasa seperti.
-- 音がする: terdengar bunyi.
+- においがする: ada bau (bisa 変なにおいがする).
+- 味がする: ada rasa atau terasa seperti sesuatu.
+- 音がする: terdengar bunyi dari benda.
 
-### ている sebagai Keadaan
+### Keadaan hasil memakai ている
 
-- 枝が折れている berarti ranting sudah dalam keadaan patah.
-- 窓ガラスが割れている berarti kaca sudah pecah/retak.
-- 道が濡れている berarti jalan dalam keadaan basah.
+- 枝が折れている: ranting sudah dalam keadaan patah.
+- 窓ガラスが割れている: kaca sudah pecah/retak.
+- 道が濡れている: jalan dalam keadaan basah.
+
+### Kejadian dengan orang (自動詞)
+
+- 逃げる／捕まる: 泥棒が逃げる lalu 泥棒が捕まる.
+- 騒ぐ: orang ribut, 人が騒いでいる.
+- 困る: orang kesulitan atau tidak tahu harus bagaimana, 人が困っている.
+
+### Tindakan sengaja (他動詞, memakai を)
+
+- 盗む: mencuri, お金を盗む.
+- いじめる: menindas, 人をいじめる.
+- 鳴らす: membunyikan, 非常ベルを鳴らす.
+- 信じる: mempercayai, 人を信じる.
 
 ## Pola yang Sering Muncul
 

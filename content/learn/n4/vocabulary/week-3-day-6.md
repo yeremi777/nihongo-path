@@ -27,7 +27,7 @@ Di akhir pelajaran ini, kamu bisa mengenali kosakata untuk bahasa sopan dasar, s
 Fokus hari ini bukan hanya menghafal arti kata seperti 丁寧な, 丁寧な話し方, 尊敬する, dan 遠慮する, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan fungsinya di kalimat: benda atau orang, tindakan, keadaan, waktu, tempat, dan cara. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan atau arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> sebelum memilih kata, tanyakan satu hal — <em>tindakan siapa yang dibicarakan?</em> Kalau tindakan orang yang dihormati (guru, atasan, pelanggan), pakai 尊敬語 seperti ご覧になる, おっしゃる, 召し上がる. Kalau tindakan diri sendiri, pakai 謙譲語 seperti 拝見する, 申す, 頂く. Setiap pasangan (misalnya ご覧になる／拝見する) artinya sama; yang berbeda hanya arah hormatnya.
 </div>
 
 ## Daftar Kata
@@ -80,26 +80,30 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 丁寧な, 丁寧な話�
   <span>頂く</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang bahasa sopan dasar: kata intinya bisa berupa 丁寧な, 丁寧な話し方, dan 尊敬する; kata lain memberi konteks tambahan. Mulai dari kata inti, lalu lihat pasangan kata dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
-
-
-
-Peta keigo hari ini terbagi dua arah: saat membicarakan tindakan orang lain, gunakan bentuk 尊敬語 seperti ご覧になる dan 召し上がる. Saat membicarakan tindakan diri sendiri dengan sopan, gunakan 謙譲語 seperti 申す, 伺う, 拝見する, dan 頂く.
+Peta kata hari ini bercabang dua dari ide dasar 丁寧な話し方. Cabang pertama, 尊敬語, menaikkan lawan bicara: 見る menjadi ご覧になる, 言う menjadi おっしゃる, 食べる・飲む menjadi 召し上がる, dan 行く・来る・いる menjadi おいでになる. Cabang kedua, 謙譲語, merendahkan diri sendiri: 見る menjadi 拝見する, 言う menjadi 申す, 食べる・もらう menjadi 頂く, 行く・来る menjadi 参る, dan 聞く・訪問する menjadi 伺う. Setelah dua cabang itu terasa, frasa restoran seperti こちらでお召し上がりですか dan お持ち帰り tinggal dibaca sebagai penerapan 尊敬語 kepada pelanggan.
 
 ## Catatan Pemakaian
 
-### 尊敬語
+### 尊敬語 — menaikkan tindakan pihak lain
 
-- ご覧になる: orang lain melihat.
-- おっしゃる: orang lain berkata.
-- 召し上がる: orang lain makan/minum.
+- ご覧になる: orang yang dihormati melihat (先生がご覧になる).
+- おっしゃる: orang yang dihormati berkata; bentuk masu-nya tidak beraturan, おっしゃいます.
+- 召し上がる: orang yang dihormati makan/minum; dipakai pelayan kepada pelanggan.
+- おいでになる: satu kata untuk tiga verba — 行く, 来る, dan いる milik orang yang dihormati.
 
-### 謙譲語
+### 謙譲語 — merendahkan tindakan diri sendiri
 
-- 申す: saya berkata/bernama.
-- 伺う: saya bertanya/mendengar/berkunjung.
-- 拝見する: saya melihat sesuatu milik/terkait pihak lain.
-- 頂く: saya menerima/makan/minum dengan rendah hati.
+- 申す: saya berkata; paling sering untuk memperkenalkan nama (〜と申します).
+- 伺う: saya bertanya, mendengar, atau berkunjung; satu kata dengan tiga fungsi.
+- 拝見する: saya melihat sesuatu milik/terkait pihak lain, misalnya dokumen atasan.
+- 頂く: saya menerima/makan/minum dengan rendah hati; sehari-hari sering ditulis いただく.
+- 参る dan お待ちする: saya pergi/datang dan saya menunggu; お待ちしています umum di akhir email atau di toko.
+
+### Sikap sosial dan ungkapan restoran
+
+- 遠慮する: menahan diri atau menolak dengan halus; kata sosial khas Jepang yang tidak punya padanan Indonesia yang persis — ご遠慮ください di papan pengumuman berarti "mohon tidak melakukan".
+- 尊敬する: menghormati/mengagumi seseorang; ini verba biasa, bukan bentuk keigo.
+- こちらでお召し上がりですか dan お持ち帰り: pasangan pertanyaan kasir — makan di sini atau dibawa pulang; 持って帰る adalah bentuk biasanya.
 
 ## Pola yang Sering Muncul
 
@@ -190,12 +194,12 @@ explanation: "伺います benar untuk tindakan pembicara berkunjung dengan rend
 
 ::MiniPractice
 ---
-question: "Apakah Anda makan di sini?"
-sentence: "こちらで____ですか。"
-optionA: "お召し上がり"
-optionB: "お持ち帰り"
-correct: "お召し上がり"
-explanation: "こちらでお召し上がりですか berarti apakah makan di sini. お持ち帰り adalah dibawa pulang."
+question: "Direktur akan datang ke kantor ini jam 3."
+sentence: "社長は3時にこちらへ____。"
+optionA: "おいでになります"
+optionB: "参ります"
+correct: "おいでになります"
+explanation: "おいでになります benar karena yang datang adalah 社長, orang yang dihormati. 参ります adalah bentuk rendah hati untuk kedatangan diri sendiri."
 ---
 ::
 

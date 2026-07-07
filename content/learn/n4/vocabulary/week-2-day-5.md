@@ -27,7 +27,7 @@ Di akhir pelajaran ini, kamu bisa mengenali adverbia N4 untuk dugaan, hasil yang
 Fokus hari ini bukan hanya menghafal arti kata seperti きっと, きっと合格するでしょう, やっと, dan やっとバスが来た, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan fungsinya di kalimat: benda atau orang, tindakan, keadaan, waktu, tempat, dan cara. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan atau arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> semua kata di sini adverbia, jadi kuncinya bukan partikel melainkan memilih yang tepat lewat dua sumbu. Sumbu waktu: さっき (baru saja) → 最近 (belakangan) → もうすぐ (sebentar lagi), dengan やっと untuk hasil yang akhirnya datang setelah menunggu dan ずっと untuk durasi panjang. Sumbu keyakinan: きっと (dugaan kuat) lebih lunak dari 必ず (kepastian/janji), sedangkan やっぱり menandai keputusan setelah berpikir ulang.
 </div>
 
 ## Daftar Kata
@@ -84,11 +84,7 @@ Fokus hari ini bukan hanya menghafal arti kata seperti きっと, きっと合�
   <span>やっぱり</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang kata keterangan waktu dan nuansa: kata intinya bisa berupa きっと, きっと合格するでしょう, dan やっと; kata lain memberi konteks tambahan. Mulai dari kata inti, lalu lihat pasangan kata dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
-
-
-
-Peta waktunya: さっき baru saja terjadi, 最近 menggambarkan belakangan ini, もうすぐ menuju masa depan dekat, ずっと menunjukkan durasi panjang, やっと menunjukkan akhir setelah menunggu, dan きっと／必ず／やっぱり memberi nuansa keyakinan atau keputusan.
+Peta hari ini punya dua garis yang saling menyilang. Garis waktu berjalan dari さっき (baru saja terjadi) ke 最近 (belakangan ini) lalu ke もうすぐ (masa depan dekat); ずっと menandai durasi panjang dan やっと menandai hasil yang datang setelah menunggu. Garis keyakinan berjalan dari きっと (dugaan kuat) ke 必ず (kepastian seperti janji atau aturan), sementara やっぱり menutup peta sebagai keputusan setelah 考えが変わる. たいてい dan ずいぶん melengkapi keduanya untuk kebiasaan dan perubahan yang terasa.
 
 ## Catatan Pemakaian
 
@@ -101,6 +97,12 @@ Peta waktunya: さっき baru saja terjadi, 最近 menggambarkan belakangan ini,
 
 - Perbandingan: ずっと背が高い berarti jauh lebih tinggi.
 - Durasi: 朝からずっと勉強している berarti terus belajar sejak pagi.
+
+### Waktu dan Keputusan
+
+- さっき／最近: さっき menunjuk waktu sangat dekat tadi; 最近 mencakup beberapa hari atau minggu belakangan.
+- もうすぐ: dipakai sebelum kejadian yang akan segera terjadi, もうすぐ国へ帰ります.
+- やっぱり: menandai keputusan ulang saat 考えが変わる, lewat pola やっぱり〜にする.
 
 ## Pola yang Sering Muncul
 

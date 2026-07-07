@@ -27,7 +27,7 @@ Di akhir pelajaran ini, kamu bisa mengenali kosakata untuk kehilangan barang, me
 Fokus hari ini bukan hanya menghafal arti kata seperti 落とす, 財布を落とす, 落ちる, dan 財布が落ちる, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan fungsinya di kalimat: benda atau orang, tindakan, keadaan, waktu, tempat, dan cara. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan atau arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> hampir semua kata berpasangan 他動詞（を）／自動詞（が）. Tanyakan siapa pelakunya. Kalau seseorang melakukan aksi, pakai 他動詞: 財布を落とす, スマホを壊す, パスポートをなくす, 仕事を見つける. Kalau benda berubah atau muncul sendiri sebagai keadaan, pakai 自動詞: 財布が落ちる, スマホが壊れる, パスポートがなくなる, なくした物が見つかる. Untuk "mencari", 探す untuk yang diinginkan dan 捜す untuk yang hilang.
 </div>
 
 ## Daftar Kata
@@ -91,11 +91,7 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 落とす, 財布を落�
   <span>大切にする</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang kehilangan dan menemukan: kata intinya bisa berupa 落とす, 財布を落とす, dan 落ちる; kata lain memberi konteks tambahan. Mulai dari kata inti, lalu lihat pasangan kata dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
-
-
-
-Alurnya sering berupa masalah lalu penyelesaian: 財布を落とす, パスポートがなくなる, 大変！と言う, なくした物を捜す, 誰かが拾う, なくした物が見つかる, lalu よかったね！.
+Peta hari ini berjalan dari masalah ke penyelesaian, dan tiap langkah punya pasangan 他動詞／自動詞. Mula-mula ada kejadian: 財布を落とす sehingga 財布が落ちる, atau パスポートをなくす sehingga パスポートがなくなる, lalu muncul reaksi 大変！. Berikutnya usaha mencari: なくした物を捜す, sampai 誰かが拾う atau なくした物が見つかる. Akhirnya lega, よかったね！, dengan pesan 大切な物を大切にする supaya tidak terulang.
 
 ## Catatan Pemakaian
 
@@ -108,6 +104,12 @@ Alurnya sering berupa masalah lalu penyelesaian: 財布を落とす, パスポ�
 
 - 探す lebih umum untuk mencari sesuatu yang diinginkan: 仕事を探す.
 - 捜す lebih khusus untuk orang/barang yang hilang: なくした物を捜す.
+
+### Memungut, Menjaga, dan Reaksi
+
+- 拾う: memungut barang yang jatuh, 落ちている物を拾う; kebalikan alur dari 落とす.
+- 大切にする: にする mengubah sikap menjadi menjaga/menghargai, 大切な物を大切にする.
+- Ekspresi panik pendek 大変！, いけない！, どうしよう！ lalu berubah lega di あ、あった！ dan よかったね！ saat すぐ見つかる.
 
 ## Pola yang Sering Muncul
 

@@ -27,7 +27,7 @@ Di akhir pelajaran ini, kamu bisa mengenali kosakata untuk ucapan sosial, peraya
 Fokus hari ini bukan hanya menghafal arti kata seperti 案内する, お祝い, お祝いをする, dan お見舞い, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan fungsinya di kalimat: benda atau orang, tindakan, keadaan, waktu, tempat, dan cara. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan atau arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> banyak kata sosial berawalan お — お祝い, お見舞い, お礼, お大事に — yang terikat situasi tertentu, bukan sekadar sopan. Bedakan お祝い (kabar baik) dari お見舞い (menjenguk yang sakit). Untuk kabar duka, pilih 亡くなる yang lebih halus daripada 死ぬ. Hati-hati dengan けっこうです: dalam penolakan artinya "tidak perlu", bukan "bagus". Dan untuk bekerja di suatu tempat pakai に: 会社に勤める.
 </div>
 
 ## Daftar Kata
@@ -88,23 +88,29 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 案内する, お祝い, 
   <span>お大事に</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang ucapan dan hubungan sosial: kata intinya bisa berupa 案内する, お祝い, dan お祝いをする; kata lain memberi konteks tambahan. Mulai dari kata inti, lalu lihat pasangan kata dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
-
-
-
-Peta sosialnya: kamu 案内する tamu, お祝いをする untuk kabar baik, お見舞いに行く saat orang sakit, memakai 亡くなる untuk kabar duka, memberi お礼 setelah dibantu, dan mengatakan お大事に saat seseorang sakit.
+Peta hari ini mengikuti berbagai peristiwa hidup dan cara meresponsnya. Untuk kabar baik ada 生まれる dan お祝いをする, misalnya はたちのお祝い. Untuk kabar buruk ada お見舞いに行く saat orang sakit dan 亡くなる untuk kabar duka. Perubahan hidup lain muncul lewat 勤める (会社に勤める) dan 引っ越す, lalu 荷物が届く setelah pindah. Setelah dibantu, kamu memberi お礼, dan dalam percakapan kamu memilih ungkapan yang tepat: お大事に untuk yang sakit, お気の毒に untuk kabar buruk, 喜んで untuk menerima ajakan, dan けっこうです untuk menolak halus.
 
 ## Catatan Pemakaian
 
-### Kata dengan お
+### Kata sosial berawalan お
 
-- お祝い, お見舞い, お礼, お大事に terdengar natural dalam hubungan sosial.
-- お見舞い tidak hanya sakit; 暑中見舞い adalah salam musim panas.
+- お祝い／お祝いをする: perayaan untuk kabar baik seperti kelahiran atau はたちのお祝い.
+- お見舞い／お見舞いに行く: menjenguk orang sakit; 暑中見舞い adalah salam musim panas, jadi tidak selalu soal sakit.
+- お礼: ucapan atau tanda terima kasih setelah dibantu.
 
-### Kabar Duka
+### Peristiwa hidup
 
-- 死ぬ adalah kata langsung dan bisa terasa kasar.
-- 亡くなる lebih halus untuk "meninggal dunia".
+- 生まれる／亡くなる: lahir dan meninggal dunia; 亡くなる lebih halus daripada 死ぬ yang terasa langsung.
+- 勤める: bekerja di sebuah organisasi, memakai に (会社に勤める).
+- 引っ越す／届く: pindah rumah lalu 荷物が届く di alamat baru.
+
+### Ungkapan respons
+
+- お大事に: untuk orang yang sakit atau cedera.
+- お気の毒に: saat mendengar kabar buruk.
+- 喜んで: menerima ajakan dengan senang hati.
+- けっこうです: menolak halus, "tidak perlu" — bukan berarti "bagus".
+- おかげさまで／久しぶり／ごめんください: respons dan sapaan sosial sehari-hari.
 
 ## Pola yang Sering Muncul
 

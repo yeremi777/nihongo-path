@@ -27,7 +27,7 @@ Di akhir pelajaran ini, kamu bisa mengenali kosakata untuk membicarakan jadwal, 
 Fokus hari ini bukan hanya menghafal arti kata seperti 予定, 予定がある, 予定がない, dan 都合, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan fungsinya di kalimat: benda atau orang, tindakan, keadaan, waktu, tempat, dan cara. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan atau arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> tiga kata mirip yang mudah tertukar — 予定 adalah isi jadwal, 都合 adalah cocok atau tidaknya waktu seseorang, dan 場合 berarti "dalam kasus/kalau". Lalu waspadai dua kanji berbunyi とまる: 車が止まる (mobil berhenti) dan ホテルに泊まる (menginap). Terakhir, 楽しむ dipakai saat kegiatan sedang berlangsung, sedangkan 楽しみにする untuk menantikan sesuatu yang belum terjadi.
 </div>
 
 ## Daftar Kata
@@ -87,24 +87,33 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 予定, 予定がある, 
   <span>遅れる</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang jadwal dan janji bertemu: kata intinya bisa berupa 予定, 予定がある, dan 予定がない; kata lain memberi konteks tambahan. Mulai dari kata inti, lalu lihat pasangan kata dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
-
-
-
-Alurnya adalah membuat rencana: cek 予定, tanyakan 都合, pikirkan 場合, 予約する jika perlu, 知らせる informasi baru, 泊まる di hotel, 待ち合わせる di stasiun, lalu beri kabar jika 遅れる.
+Peta kata hari ini mengikuti alur merencanakan pertemuan. Semuanya berawal dari 予定: kamu cek apakah 予定がある atau 予定がない. Kalau kosong, kamu tanyakan 都合 lawan bicara — 都合がいい atau 都合が悪い — dan siapkan 場合 tertentu seperti 雨の場合. Setelah waktu cocok, kamu 予約する hotel, 知らせる informasi baru, 泊まる di tempat menginap, lalu 待ち合わせる di stasiun. Kalau ada halangan di jalan, beri kabar 遅れる dengan pembuka 悪いけど atau すみませんが.
 
 ## Catatan Pemakaian
 
-### 予定 dan 都合
+### Rencana dan kecocokan waktu
 
-- 予定がある berarti ada kegiatan/rencana.
-- 都合がいい berarti waktunya cocok bagi seseorang.
-- 都合が悪い terdengar lebih halus daripada langsung menolak.
+- 予定: isi jadwal/kegiatan yang sudah direncanakan; 予定がある／予定がない untuk menyatakan ketersediaan.
+- 都合: cocok atau tidaknya waktu bagi seseorang; 都合が悪い terdengar lebih halus daripada menolak langsung.
+- 場合: "dalam kasus/kalau"; sering muncul sebagai 〜場合は dan terasa agak formal.
 
-### とまる Dua Kanji
+### Reservasi dan kabar
 
-- 止まる: berhenti, seperti 車が止まる.
-- 泊まる: menginap, seperti ホテルに泊まる.
+- 予約する: memesan hotel, restoran, atau tiket (（N）を予約する).
+- 知らせる: memberi tahu informasi baru kepada orang lain, misalnya 住所を知らせる.
+- 悪いけど／すみませんが: pembuka sebelum kabar kurang enak; 悪いけど kasual, すみませんが lebih sopan.
+
+### Waktu, menginap, dan bertemu
+
+- 過ぎる: melewati titik waktu, seperti 12時を過ぎる.
+- 止まる／泊まる: dua kanji berbunyi とまる — 車が止まる (berhenti) vs ホテルに泊まる (menginap).
+- 待ち合わせる: janjian bertemu; tempatnya memakai で (駅で待ち合わせる).
+- 遅れる: terlambat atau tertunda dari jadwal/janji.
+
+### Menikmati
+
+- 楽しむ: menikmati saat kegiatan berlangsung (（N）を楽しむ).
+- 楽しみにする: menantikan sesuatu sebelum terjadi.
 
 ## Pola yang Sering Muncul
 

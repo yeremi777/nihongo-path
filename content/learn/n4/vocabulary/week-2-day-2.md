@@ -27,7 +27,7 @@ Di akhir pelajaran ini, kamu bisa mengenali kosakata untuk menggambarkan penampi
 Fokus hari ini bukan hanya menghafal arti kata seperti 若い, 年を取った, 年寄り, dan お年寄り, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan fungsinya di kalimat: benda atau orang, tindakan, keadaan, waktu, tempat, dan cara. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan atau arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> untuk menggambarkan orang, bahasa Jepang memakai kata kerja "memakai" yang berbeda menurut bendanya, dan semuanya bukan 着る. Hafalkan tiga kolokasi tetap: めがねをかける (kacamata), ぼうしをかぶる (topi/di kepala), かさをさす (payung). Untuk kemiripan, ingat 母に似ている memakai に, bukan を. Sisanya adalah ciri (若い, 髪が長い) dan kegiatan (歌う, 踊る, 走る, 〜中) yang menempel pada 人.
 </div>
 
 ## Daftar Kata
@@ -88,11 +88,7 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 若い, 年を取った, 
   <span>勉強中</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang penampilan dan tindakan orang: kata intinya bisa berupa 若い, 年を取った, dan 年寄り; kata lain memberi konteks tambahan. Mulai dari kata inti, lalu lihat pasangan kata dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
-
-
-
-Untuk menemukan "orang yang mana", mulai dari ciri yang terlihat: muda/tua, kurus, rambut panjang, kacamata/topi/payung. Setelah itu tambahkan sifat atau kegiatan: まじめな人, 歌っている人, 勉強中の人.
+Untuk menemukan "orang yang mana", petanya bergerak dari ciri tubuh ke benda yang dipakai lalu ke kegiatan. Mulai dari ciri yang terlihat: 若い atau 年を取った, やせている, 髪が長い. Lanjut ke benda yang dipakai, masing-masing dengan kata kerjanya sendiri: めがねをかける, ぼうしをかぶる, かさをさす. Terakhir tambahkan sifat atau kegiatan yang membentuk frasa 人: まじめな人, 母に似ている人, カラオケで歌っている人, 勉強中の人.
 
 ## Catatan Pemakaian
 
@@ -107,6 +103,12 @@ Untuk menemukan "orang yang mana", mulai dari ciri yang terlihat: muda/tua, kuru
 - 髪が長い人 berarti "orang yang rambutnya panjang"; が menandai ciri orang itu.
 - 母に似ている memakai に untuk orang yang menjadi pembanding.
 - 〜中 membuat frasa keadaan seperti 勉強中 dan 使用中.
+
+### Kegiatan Orang
+
+- 歌う／踊る: 歌いながら踊る menunjukkan dua aksi sekaligus dengan 〜ながら.
+- カラオケで歌う memakai で untuk tempat atau sarana kegiatan.
+- 公園を走る memakai を karena taman adalah area/rute yang dilewati saat berlari.
 
 ## Pola yang Sering Muncul
 

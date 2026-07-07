@@ -27,7 +27,7 @@ Di akhir pelajaran ini, kamu bisa mengenali kosakata untuk membuat rencana, memp
 Fokus hari ini bukan hanya menghafal arti kata seperti 計画, 計画を立てる, 準備, dan 準備する, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan fungsinya di kalimat: benda atau orang, tindakan, keadaan, waktu, tempat, dan cara. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan atau arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> perhatikan pasangan transitif–intransitif dan partikelnya. 育てる memakai を (木を育てる, seseorang merawat) sedangkan 育つ memakai が (木が育つ, pohon tumbuh sendiri); begitu juga 並べる (を, menyusun benda) berbeda dari 並ぶ (berjajar/mengantre). Untuk tujuan perpindahan, 移す memakai に (椅子を隣の部屋に移す). Terakhir, kata bentuk: 丸・四角 bisa jadi 丸い・四角い, tetapi 三角 dipakai sebagai 三角の, bukan 三角い.
 </div>
 
 ## Daftar Kata
@@ -88,23 +88,31 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 計画, 計画を立て�
   <span>移す</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang rencana dan persiapan: kata intinya bisa berupa 計画, 計画を立てる, dan 準備; kata lain memberi konteks tambahan. Mulai dari kata inti, lalu lihat pasangan kata dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
-
-
-
-Peta hari ini adalah persiapan acara atau proyek: 計画を立てる, 準備する, warna/bentuk 比べる, kursi 並べる, pohon 植える dan 育てる, bunga 飾る, lalu benda 移す ke tempat yang tepat.
+Peta hari ini adalah alur menyiapkan acara atau proyek. Semua berawal dari 計画を立てる dan 準備する. Sebelum mulai, kamu 比べる pilihan — misalnya 色や形を比べる atau 今と昔を比べる. Saat menyiapkan tempat, kamu 椅子を並べる, 木を植える lalu menunggu 木が育つ, dan 花を飾る sebagai hiasan. Kalau tata letak berubah, benda seperti kursi kamu 移す ke tempat lain (椅子を隣の部屋に移す). Kata bentuk 丸・四角・三角 muncul saat menerangkan benda yang disiapkan.
 
 ## Catatan Pemakaian
 
-### 計画 dan 準備
+### Rencana dan persiapan
 
-- 計画 adalah rencana; 計画を立てる berarti menyusun rencana.
-- 準備 adalah persiapan; 準備する berarti melakukan persiapan.
+- 計画: rancangan atau proyek, lebih formal dari 予定; 計画を立てる berarti menyusun rencana.
+- 準備: persiapan; 準備する berarti melakukan persiapan.
+- 比べる: membandingkan, sering AとBを比べる atau 色や形を比べる.
 
-### Bentuk
+### Pasangan 自動詞 dan 他動詞
 
-- 丸い dan 四角い adalah kata sifat.
-- 三角 biasanya menjadi 三角の saat menerangkan kata benda.
+- 育てる (を) / 育つ (が): 木を育てる seseorang merawat; 木が育つ pohon tumbuh sendiri.
+- 並べる (を) / 並ぶ (が): 椅子を並べる menyusun benda; 並ぶ berarti berjajar atau mengantre.
+
+### Menanam, menghias, memindahkan
+
+- 植える: menanam pohon, bunga, atau sayur (木を植える).
+- 飾る: menghias atau memajang (花を飾る).
+- 移す: memindahkan benda; tujuannya memakai に (椅子を隣の部屋に移す).
+
+### Kata bentuk
+
+- 丸い／四角い: kata sifat untuk bulat dan segi empat.
+- 三角の: dipakai saat menerangkan benda berbentuk segitiga; hindari 三角い.
 
 ## Pola yang Sering Muncul
 

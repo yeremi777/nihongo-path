@@ -27,7 +27,7 @@ Di akhir pelajaran ini, kamu bisa membedakan kosakata yang mudah tertukar saat m
 Fokus hari ini bukan hanya menghafal arti kata seperti 初めは, 初めて, 初めに, dan 次に, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan fungsinya di kalimat: benda atau orang, tindakan, keadaan, waktu, tempat, dan cara. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan atau arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> pisahkan tiga はじめ — 初めは (keadaan awal), 初めて (pengalaman pertama), 初めに (langkah pertama, sering dengan 次に). Lalu waspadai pasangan transitif/intransitif: 回る／回す, 曲がる／曲げる, 並ぶ／並べる. Kalau benda menjadi objek dengan を dan ada pelakunya, pilih bentuk 他動詞 (回す, 並べる); kalau sesuatu berubah sendiri dengan が, pilih 自動詞 (回る, 並ぶ). Kata 慣れる, 座る, 触る biasanya memakai partikel に.
 </div>
 
 ## Daftar Kata
@@ -85,10 +85,6 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 初めは, 初めて, 初
   <span>思い出す</span>
   <span>慣れる</span>
 </div>
-
-Bayangkan kamu sedang membaca atau mendengar situasi tentang kosakata yang mudah tertukar: kata intinya bisa berupa 初めは, 初めて, dan 初めに; kata lain memberi konteks tambahan. Mulai dari kata inti, lalu lihat pasangan kata dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
-
-
 
 Peta hari ini mengikuti alur belajar: 初めに urutan dimulai, 初めて pengalaman pertama terjadi, 初めは keadaan awal belum mudah, lalu kamu 考える, 覚える, 思い出す, dan akhirnya 日本の生活に慣れる.
 
@@ -184,12 +180,12 @@ explanation: "と思います benar karena と menandai isi pendapat. 考える 
 
 ::MiniPractice
 ---
-question: "Belok kanan di sudut itu."
-sentence: "あの角____右に曲がってください。"
-optionA: "を"
-optionB: "に"
-correct: "を"
-explanation: "を benar dalam frasa 角を右に曲がる. Pada kata kerja gerak, を bisa menandai titik/rute yang dilewati."
+question: "Kursi-kursinya sudah berjajar rapi."
+sentence: "いすがきれいに____。"
+optionA: "並んでいます"
+optionB: "並べています"
+correct: "並んでいます"
+explanation: "並んでいます benar karena いすが memakai が: benda berjajar dengan sendirinya (自動詞). 並べる adalah 他動詞 yang butuh objek dengan を, misalnya いすを並べる."
 ---
 ::
 

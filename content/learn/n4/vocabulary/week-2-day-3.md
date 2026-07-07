@@ -27,7 +27,7 @@ Di akhir pelajaran ini, kamu bisa mengenali kosakata yang sering muncul dalam pe
 Fokus hari ini bukan hanya menghafal arti kata seperti どうやって, 洗剤, 動く, dan 機械が動く, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan fungsinya di kalimat: benda atau orang, tindakan, keadaan, waktu, tempat, dan cara. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan atau arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> petunjuk alat penuh pasangan 自動詞／他動詞. Bedakan "sesuatu terjadi sendiri" dari "seseorang melakukannya": 機械が動く／止まる dan 電気が消える memakai が, tetapi 電気を消す dan ボタンを押す memakai を. Untuk keselamatan jalan, hafalkan pola rute 道路を渡る dan beda 安全な (＋ kata benda) dari 安全に (＋ kata kerja).
 </div>
 
 ## Daftar Kata
@@ -93,11 +93,7 @@ Fokus hari ini bukan hanya menghafal arti kata seperti どうやって, 洗剤, 
   <span>信号</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang petunjuk dan keselamatan: kata intinya bisa berupa どうやって, 洗剤, dan 動く; kata lain memberi konteks tambahan. Mulai dari kata inti, lalu lihat pasangan kata dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
-
-
-
-Peta hari ini mirip urutan instruksi: tanya どうやって, tekan tombol, mesin bergerak atau berhenti, nyalakan/matikan sesuatu, buka file, lalu ikuti petunjuk keselamatan saat menyeberang.
+Peta hari ini mengikuti urutan instruksi nyata. Mulai dari pertanyaan どうやって, lalu aksi ボタンを押す, sehingga 機械が動く atau 機械が止まる. Setelah itu masuk pasangan on/off: 電気を消す membuat 電気が消える, dan ファイルを開く untuk layar. Bagian terakhir beralih ke keselamatan jalan: 信号が青になる, 右と左をよく見る, lalu 安全に道路を渡る karena 危険 kalau tidak hati-hati.
 
 ## Catatan Pemakaian
 
@@ -106,10 +102,17 @@ Peta hari ini mirip urutan instruksi: tanya どうやって, tekan tombol, mesin
 - 消える: sesuatu menjadi padam/hilang sendiri. Subjeknya memakai が.
 - 消す: seseorang mematikan, memadamkan, atau menghapus sesuatu. Objeknya memakai を.
 
+### Mesin dan Tombol
+
+- 動く／止まる: pasangan keadaan mesin; 機械が動く dan 機械が止まる, keduanya 自動詞 dengan が.
+- 押す／引く: aksi pada tombol atau pintu; ボタンを押す memakai を.
+- 開く: 他動詞 untuk membuka file, buku, atau acara, seperti ファイルを開く.
+
 ### Jalan dan Keselamatan
 
 - 道路を渡る dan 橋を渡る memakai を karena jalan/jembatan adalah rute yang diseberangi.
 - 安全な menerangkan kata benda, sedangkan 安全に menerangkan cara melakukan aksi.
+- 信号が青になる: bahasa Jepang menyebut lampu hijau dengan 青; 自動 muncul dalam 自動車, 自動販売機, dan 自動ドア.
 
 ## Pola yang Sering Muncul
 
@@ -178,12 +181,12 @@ explanation: "消えました benar karena lampu menjadi padam sendiri dan memak
 
 ::MiniPractice
 ---
-question: "Tolong matikan api."
-sentence: "火を____ください。"
-optionA: "消して"
-optionB: "消えて"
-correct: "消して"
-explanation: "火を消す berarti memadamkan api. を menjadi petunjuk 他動詞."
+question: "Kalau menekan tombol, mesinnya mulai bergerak."
+sentence: "ボタンを押すと、機械が____。"
+optionA: "動きます"
+optionB: "止まります"
+correct: "動きます"
+explanation: "機械が動く berarti mesin bergerak/berfungsi. 止まる berarti berhenti, kebalikannya."
 ---
 ::
 

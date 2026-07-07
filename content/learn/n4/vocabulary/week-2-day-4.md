@@ -27,7 +27,7 @@ Di akhir pelajaran ini, kamu bisa mengenali kosakata untuk belajar, mengecek jaw
 Fokus hari ini bukan hanya menghafal arti kata seperti 間違える, 残る, 食べ物が残る, dan 残す, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan fungsinya di kalimat: benda atau orang, tindakan, keadaan, waktu, tempat, dan cara. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan atau arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> perhatikan pasangan 残る／残す — 食べ物が残る (sisa muncul sendiri, が) berbeda dari 食べ物を残す (seseorang menyisakan, を). Lalu ingat できる berubah arti menurut kata di depannya: ごはんができた (siap), テストができた (bisa dikerjakan), 新しい店ができた (berdiri). Untuk metode belajar, kumpulkan kolokasi tempel/warna: 壁に貼る dan 色を塗る.
 </div>
 
 ## Daftar Kata
@@ -91,11 +91,7 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 間違える, 残る, 食
   <span>できる</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang cara belajar dan ujian: kata intinya bisa berupa 間違える, 残る, dan 食べ物が残る; kata lain memberi konteks tambahan. Mulai dari kata inti, lalu lihat pasangan kata dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
-
-
-
-Alur belajarnya: menemukan 間違える, チェックする jawabannya, 調べる kata yang belum tahu, 質問する ke guru, 写す catatan yang berguna, 貼る di dinding, 塗る kata penting, lalu melihat apakah テストができた.
+Alur belajarnya membentuk satu rangkaian aksi. Saat menemukan 間違える, langkah berikutnya チェックする jawabannya, 調べる kata yang belum diketahui, lalu 質問する ke guru. Untuk mengingat, 写す catatan yang berguna, 紙に書く, 壁に貼る, dan 色を塗る pada 覚えたい言葉. Di sela itu perhatikan jumlah: 時間が余る atau 足りない. Akhirnya hasil diukur lewat できる, misalnya テストができた.
 
 ## Catatan Pemakaian
 
@@ -110,6 +106,12 @@ Alur belajarnya: menemukan 間違える, チェックする jawabannya, 調べ�
 - ごはんができた: makanan sudah siap.
 - テストができた: bisa mengerjakan tes dengan baik.
 - 新しい店ができた: toko baru berdiri/dibuka.
+
+### Metode Belajar
+
+- 調べる／チェックする／質問する: mencari tahu sendiri, memeriksa ulang, lalu bertanya; orang yang ditanya memakai に, 先生に質問する.
+- 写す: menyalin dari sumber, 友だちのノートを写す, berbeda dari 書く yang menulis umum.
+- 貼る／塗る: 壁にポスターを貼る memakai に untuk permukaan; 色を塗る untuk mewarnai.
 
 ## Pola yang Sering Muncul
 
@@ -177,12 +179,12 @@ explanation: "に benar karena orang yang ditanya memakai に: （Person）に�
 
 ::MiniPractice
 ---
-question: "Saya menempelkan poster di dinding."
-sentence: "壁____ポスターを貼りました。"
-optionA: "に"
-optionB: "を"
-correct: "に"
-explanation: "に benar karena permukaan tempat menempel memakai に. Objek yang ditempel adalah ポスターを."
+question: "Masih ada makanan yang tersisa."
+sentence: "まだ食べ物が____。"
+optionA: "残っています"
+optionB: "残しています"
+correct: "残っています"
+explanation: "食べ物が残る memakai が karena sisa muncul sebagai keadaan. 残す adalah 他動詞 yang butuh objek を, misalnya 食べ物を残す."
 ---
 ::
 

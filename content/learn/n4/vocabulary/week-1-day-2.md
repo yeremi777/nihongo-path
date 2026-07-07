@@ -27,7 +27,7 @@ Di akhir pelajaran ini, kamu bisa mengenali kata untuk menyatakan perasaan, reak
 Fokus hari ini bukan hanya menghafal arti kata seperti 気持ち, うれしい, 悲しい, dan 寂しい, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan fungsinya di kalimat: benda atau orang, tindakan, keadaan, waktu, tempat, dan cara. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan atau arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> pisahkan dua jenis kata perasaan. Kata sifat seperti うれしい, 悲しい, 寂しい, 恥ずかしい langsung dipakai dengan です; kata kerja する seperti 心配する, 安心する, びっくりする, がっかりする berubah bentuk (心配しました, 安心しました). Untuk memilih kata yang tepat, baca dulu pemicunya: kabar baik → うれしい, sendirian → 寂しい, kejutan → びっくりする, dan perubahan dari khawatir ke tenang → 心配する menjadi 安心する.
 </div>
 
 ## Daftar Kata
@@ -79,10 +79,6 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 気持ち, うれしい, 
   <span>安心する</span>
   <span>びっくりする</span>
 </div>
-
-Bayangkan kamu sedang membaca atau mendengar situasi tentang kata untuk menyatakan perasaan: kata intinya bisa berupa 気持ち, うれしい, dan 悲しい; kata lain memberi konteks tambahan. Mulai dari kata inti, lalu lihat pasangan kata dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
-
-
 
 Kata-kata ini biasanya bergerak dari sebab menuju reaksi: kabar baik membuat うれしい, kabar buruk bisa 残念 atau 悲しい, sendirian membuat 寂しい, hal mengejutkan membuat びっくりする, dan informasi yang jelas bisa mengubah 心配する menjadi 安心する.
 
@@ -188,12 +184,12 @@ explanation: "びっくりしました benar karena petunjuknya adalah 大きな
 
 ::MiniPractice
 ---
-question: "Awalnya saya sedih karena tinggal sendirian."
+question: "Saya kesepian karena tinggal sendirian."
 sentence: "一人で住んでいて、____です。"
 optionA: "寂しい"
 optionB: "残念"
 correct: "寂しい"
-explanation: "寂しい benar karena konteksnya sendirian. 残念です berarti sayang sekali atau disayangkan."
+explanation: "寂しい benar karena pemicunya adalah tinggal sendirian. 残念です berarti sayang sekali atau disayangkan, bukan rasa sepi."
 ---
 ::
 

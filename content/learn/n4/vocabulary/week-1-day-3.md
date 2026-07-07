@@ -27,7 +27,7 @@ Di akhir pelajaran ini, kamu bisa mengenali kosakata untuk membicarakan kondisi 
 Fokus hari ini bukan hanya menghafal arti kata seperti 気分, 病気をする, 病気になる, dan けがをする, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan fungsinya di kalimat: benda atau orang, tindakan, keadaan, waktu, tempat, dan cara. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan atau arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> untuk kata kerja bawa-antar, tanyakan dua hal — <em>apa yang dibawa</em> dan <em>ke arah mana</em>. Orang atau hewan pakai 連れて行く／連れて来る, barang pakai 持って行く／持って来る; akhiran 行く menjauh dari pembicara, 来る menuju pembicara. Untuk kondisi badan, bedakan 病気をする (kejadian sakit) dari 病気になる (perubahan menjadi sakit), dan baca けがをする, 無理をする sebagai frasa 〜をする.
 </div>
 
 ## Daftar Kata
@@ -82,10 +82,6 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 気分, 病気をする, 
   <span>持って行く</span>
   <span>迎えに行く</span>
 </div>
-
-Bayangkan kamu sedang membaca atau mendengar situasi tentang kondisi tubuh dan antar-jemput: kata intinya bisa berupa 気分, 病気をする, dan 病気になる; kata lain memberi konteks tambahan. Mulai dari kata inti, lalu lihat pasangan kata dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
-
-
 
 Alurnya dimulai dari kondisi badan: 気分が悪い, 病気をする, atau けがをする. Dari situ muncul saran seperti 無理をしないで. Setelah itu, kegiatan praktis muncul: 着替える, membawa お弁当, menjemput teman, atau mengantar keluarga ke stasiun.
 

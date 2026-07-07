@@ -27,7 +27,7 @@ Di akhir pelajaran ini, kamu bisa mengenali kosakata untuk menanyakan ukuran, du
 Fokus hari ini bukan hanya menghafal arti kata seperti どのぐらい, 飛ぶ, 空を飛ぶ, dan 跳ぶ, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan fungsinya di kalimat: benda atau orang, tindakan, keadaan, waktu, tempat, dan cara. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan atau arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> beberapa kata kerja muncul berpasangan transitif–intransitif yang hanya berbeda partikel — 家を建てる vs 家が建つ, dan お湯を沸かす vs お湯が沸く: を untuk tindakan seseorang, が untuk kejadian yang terjadi sendiri. Waspadai juga dua kanji berbunyi とぶ: 飛ぶ (terbang di udara) dan 跳ぶ (melompat). Untuk ukuran, ingat どのぐらい bisa menanyakan waktu, jarak, berat, maupun besar, dan キロ berarti kilogram atau kilometer tergantung konteks.
 </div>
 
 ## Daftar Kata
@@ -97,25 +97,30 @@ Fokus hari ini bukan hanya menghafal arti kata seperti どのぐらい, 飛ぶ, 
   <span>大きさ</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang ukuran, jumlah, dan durasi: kata intinya bisa berupa どのぐらい, 飛ぶ, dan 空を飛ぶ; kata lain memberi konteks tambahan. Mulai dari kata inti, lalu lihat pasangan kata dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
-
-
-
-Kata-kata ukuran terhubung dari pertanyaan ke jawaban: どのぐらい menanyakan perkiraan, 何時間 untuk durasi, 何キロ untuk berat atau jarak, グラム／センチ／メートル untuk satuan, dan 重さ／広さ／大きさ／長さ／高さ／太さ untuk nama ukuran.
+Peta kata hari ini berpusat pada pertanyaan どのぐらい dan cara menjawabnya. Untuk durasi, jawabannya 何時間; untuk berat atau jarak, 何キロ; dan satuannya グラム, センチ, メートル, atau キロ. Nama ukuran dibentuk dari kata sifat: 重い→重さ, 広い→広さ, 大きい→大きさ, 長い→長さ, 高い→高さ, 太い→太さ. Di sekitar tema ini ada kata kerja berpasangan — 建てる／建つ untuk rumah dan 沸かす／沸く untuk air — serta 払う untuk 家賃 dan メモする saat mencatat 値段 di 酒屋 atau クリーニング屋.
 
 ## Catatan Pemakaian
 
-### 自動詞 dan 他動詞
+### Pasangan 自動詞 dan 他動詞
 
-- 家を建てる: seseorang membangun rumah.
-- 家が建つ: rumah terbangun/berdiri.
-- お湯が沸く: air mendidih.
-- お湯を沸かす: seseorang mendidihkan air.
+- 建てる (を) / 建つ (が): 家を建てる seseorang membangun; 家が建つ rumah berdiri sendiri.
+- 沸かす (を) / 沸く (が): お湯を沸かす seseorang mendidihkan; お湯が沸く air mendidih.
 
-### キロ Bergantung Konteks
+### Dua kanji とぶ
 
-- 体重なら 何キロ berarti berapa kilogram.
-- 距離なら 何キロ berarti berapa kilometer.
+- 飛ぶ: terbang di udara, seperti 鳥が空を飛ぶ.
+- 跳ぶ: melompat, seperti なわとび.
+
+### Menanyakan dan menyebut ukuran
+
+- どのぐらい: pertanyaan serba guna untuk durasi, jarak, berat, dan besar.
+- 何時間／何キロ: 何時間 untuk jam; 何キロ untuk kilogram (berat) atau kilometer (jarak), tergantung konteks.
+- 重さ・広さ・大きさ・長さ・高さ・太さ: nama ukuran dibentuk dari kata sifat + さ.
+
+### Satuan dan uang
+
+- グラム・センチ・メートル・キロ: satuan berat dan panjang.
+- 払う: membayar biaya seperti 家賃を払う; 値段 sebuah barang bisa dicatat dengan メモする.
 
 ## Pola yang Sering Muncul
 

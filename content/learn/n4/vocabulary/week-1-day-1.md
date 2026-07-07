@@ -27,7 +27,7 @@ Di akhir pelajaran ini, kamu bisa membedakan kata kerja yang bunyinya sama, teta
 Fokus hari ini bukan hanya menghafal arti kata seperti 引く, 風邪を引く, 辞書を引く, dan 押す, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan fungsinya di kalimat: benda atau orang, tindakan, keadaan, waktu, tempat, dan cara. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan atau arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> tiga bunyi — ひく, ふく, はく — masing-masing terbelah menjadi beberapa kanji, dan petunjuk tercepat ada pada objek sebelum kata kerjanya. ドアや辞書 → 引く, ギターやピアノ → 弾く; 風 (dengan が) → 吹く, 手やテーブル → 拭く; 庭 → 掃く, 靴や靴下 → 履く. Untuk kondisi tempat, bedakan 空く (kosong/sepi) dari 込む (padat), dan ingat 着く selalu memakai （Place）に.
 </div>
 
 ## Daftar Kata
@@ -92,10 +92,6 @@ Fokus hari ini bukan hanya menghafal arti kata seperti 引く, 風邪を引く, 
   <span>込む</span>
   <span>着く</span>
 </div>
-
-Bayangkan kamu sedang membaca atau mendengar situasi tentang kata kerja yang mirip bunyi: kata intinya bisa berupa 引く, 風邪を引く, dan 辞書を引く; kata lain memberi konteks tambahan. Mulai dari kata inti, lalu lihat pasangan kata dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
-
-
 
 Alurnya bisa dibaca seperti ini: tangan bisa menarik atau menekan benda, alat musik memakai 弾く, angin memakai 吹く, tangan atau meja memakai 拭く, halaman memakai 掃く, kondisi badan bisa berakhir dengan 吐く, pakaian bawah memakai 履く, tempat bisa 空く atau 込む, dan tujuan perjalanan memakai 着く.
 
