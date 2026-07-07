@@ -21,12 +21,12 @@ tags:
 
 ## Tujuan
 
-Mengenali kanji 英、茶、答、紙、私、dan 送 dalam kata tentang bahasa, minuman, jawaban, kertas, pribadi, dan pengiriman.
+Hari penutup minggu ini mengenalkan enam kanji tambahan: 英、茶、答、紙、私、dan 送. Keenamnya muncul di kata sehari-hari tentang bahasa, minuman, jawaban, kertas, urusan pribadi, dan pengiriman.
 
-Di akhir pelajaran ini, kamu bisa membaca 英語, 紅茶, 喫茶店, 答え, 手紙, 用紙, 私立, 放送, 送別会, dan 送る.
+Di akhir pelajaran ini, kamu bisa membaca 英語, 紅茶, 喫茶店, 答え, 手紙, 用紙, 私立, 放送, 送別会, dan 送る — kata-kata yang sering muncul di sekolah, kafe, dan kantor pos.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> fokus pada kata umum yang memakai kanji ini, bukan istilah radikal yang rumit.
+  <strong>Fokus hari ini:</strong> perhatikan bagian atas dan samping kanji sebagai penanda arti: 英 dan 茶 sama-sama beratap rumput 艹 (tumbuhan), 答 beratap bambu 竹, 紙 bersisi benang 糸, 私 bersisi padi 禾, dan 送 memakai jalur jalan ⻌ (bergerak). Kamu tidak perlu menghafal nama radikalnya — cukup pakai bagian itu untuk menebak arti dan membedakan kanji yang mirip.
 </div>
 
 ## Daftar Kanji
@@ -42,7 +42,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: エイ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-<p>英 paling sering muncul pada kata bahasa Inggris atau Inggris.</p><ul>
+<p>英 hampir selalu kamu temui dalam kata yang berkaitan dengan bahasa Inggris atau negara Inggris, seperti di jadwal pelajaran dan nama kursus. Bagian atasnya adalah atap rumput 艹, sama seperti 茶.</p><ul>
     <li><span class="ruby-word"><ruby>英語<rt>えいご</rt></ruby></span> - bahasa Inggris</li>
   </ul></details>
 
@@ -54,7 +54,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: チャ、サ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-<p>茶 muncul pada minuman teh dan tempat minum teh.</p><ul>
+<p>茶 muncul di menu minuman dan nama tempat minum teh. Perhatikan dua bacaannya: チャ pada お茶 dan 紅茶, tetapi サ pada 喫茶店 — kata ini yang paling sering keliru dibaca.</p><ul>
     <li><span class="ruby-word"><ruby>お茶<rt>おちゃ</rt></ruby></span> - teh</li>
     <li><span class="ruby-word"><ruby>紅茶<rt>こうちゃ</rt></ruby></span> - teh hitam</li>
     <li><span class="ruby-word"><ruby>喫茶店<rt>きっさてん</rt></ruby></span> - kafe</li>
@@ -68,7 +68,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: トウ</span><span>kunyomi: こたえる、こたえ</span></span>
     </span>
   </summary>
-<p>答 dipakai untuk jawaban atau kegiatan menjawab.</p><ul>
+<p>答 dipakai untuk jawaban dan kegiatan menjawab, jadi sering muncul di soal ujian dan lembar latihan. Atap bambu 竹 di bagian atasnya membedakannya dari kanji beratap rumput seperti 英 dan 茶.</p><ul>
     <li><span class="ruby-word"><ruby>答える<rt>こたえる</rt></ruby></span> - menjawab</li>
     <li><span class="ruby-word"><ruby>答え<rt>こたえ</rt></ruby></span> - jawaban</li>
   </ul></details>
@@ -81,7 +81,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: シ</span><span>kunyomi: かみ</span></span>
     </span>
   </summary>
-<p>紙 berarti kertas, tetapi 手紙 berarti surat; bedakan dari konteks kalimat.</p><ul>
+<p>紙 berarti kertas dan bersisi benang 糸 di kiri. Bacaannya berubah-ubah: かみ saat berdiri sendiri, がみ dalam 手紙, dan シ dalam 用紙 — baca kata utuhnya dulu sebelum menentukan bacaan.</p><ul>
     <li><span class="ruby-word"><ruby>紙<rt>かみ</rt></ruby></span> - kertas</li>
     <li><span class="ruby-word"><ruby>手紙<rt>てがみ</rt></ruby></span> - surat</li>
     <li><span class="ruby-word"><ruby>用紙<rt>ようし</rt></ruby></span> - formulir/kertas isian</li>
@@ -95,7 +95,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: シ</span><span>kunyomi: わたし、わたくし</span></span>
     </span>
   </summary>
-<p>私 menunjuk diri sendiri atau sesuatu yang privat.</p><ul>
+<p>私 kamu kenal sebagai わたし (saya), tetapi dalam kata majemuk dibaca シ dan artinya bergeser menjadi "pribadi/swasta", seperti 私立 dan 私用. Sisi kirinya padi 禾, bukan benang 糸 seperti pada 紙.</p><ul>
     <li><span class="ruby-word"><ruby>私<rt>わたし</rt></ruby></span> - saya</li>
     <li><span class="ruby-word"><ruby>私立<rt>しりつ</rt></ruby></span> - swasta</li>
     <li><span class="ruby-word"><ruby>私用<rt>しよう</rt></ruby></span> - urusan pribadi</li>
@@ -109,7 +109,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ソウ</span><span>kunyomi: おくる</span></span>
     </span>
   </summary>
-<p>送 muncul pada pengiriman, siaran, dan acara perpisahan.</p><ul>
+<p>送 memakai jalur jalan ⻌ yang menandakan sesuatu bergerak atau dipindahkan: mengirim surat, memancarkan siaran, sampai mengantar orang yang pindah dalam 送別会.</p><ul>
     <li><span class="ruby-word"><ruby>放送<rt>ほうそう</rt></ruby></span> - siaran</li>
     <li><span class="ruby-word"><ruby>送る<rt>おくる</rt></ruby></span> - mengirim, mengantar</li>
     <li><span class="ruby-word"><ruby>送別会<rt>そうべつかい</rt></ruby></span> - acara perpisahan</li>
@@ -119,11 +119,14 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 ## Peta Kata
 
-英語 dan 英会話 berkaitan dengan bahasa. 紅茶, 喫茶店, dan 茶色 memakai 茶 dalam minuman atau warna. 手紙, 用紙, 私立, 放送, 送別会, dan 郵送 sering muncul di sekolah, kantor, atau komunikasi.
+Kanji hari ini tidak membentuk satu adegan tunggal, jadi kelompokkan berdasarkan tempat kamu menemuinya. Di sekolah: 英語 (pelajaran), 答え dan 用紙 (mengerjakan soal di lembar jawaban), lalu 私立 (jenis sekolahnya). Di kafe: 紅茶 diminum di 喫茶店. Di dunia kirim-mengirim: 手紙 dikirim lewat 郵送, informasi disebarkan lewat 放送, dan orang yang pergi dilepas di 送別会 — tiga kata terakhir sama-sama memakai 送.
 
 ## Catatan Pemakaian
 
-紙 berarti kertas, tetapi 手紙 berarti surat. 私 berarti saya/pribadi, dan dalam 私立 berarti swasta. 送 membantu membaca kata pengiriman atau siaran.
+- **Benda tulis-menulis:** 紙 (kertas), 用紙 (kertas isian/formulir), 手紙 (surat) — semuanya benda kertas, tetapi fungsinya berbeda: menulis bebas, mengisi kolom, atau berkirim kabar.
+- **Tindakan dan hasil:** 答える adalah tindakan menjawab, 答え adalah jawabannya; 送る adalah tindakan mengirim, 郵送 dan 放送 adalah cara pengirimannya (lewat pos, lewat siaran).
+- **Status/kepemilikan:** 私立 (dikelola swasta) dan 私用 (untuk urusan pribadi) memakai makna "pribadi" dari 私, bukan makna "saya".
+- **Tempat dan acara:** 喫茶店 adalah tempat minum 紅茶; 送別会 adalah acara melepas orang yang pindah atau pergi.
 
 ## Contoh Kalimat
 
@@ -137,11 +140,14 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 ## Hal yang Mudah Tertukar
 
-手紙 bukan "kertas tangan" secara harfiah, melainkan surat. 用紙 adalah kertas/formulir yang dipakai untuk mengisi sesuatu.
+- **紙 vs 私** — keduanya dibaca シ dalam kata majemuk, dan bentuknya mirip sekilas. Cek sisi kirinya: 紙 bersisi benang 糸 (kertas dibuat dari serat), 私 bersisi padi 禾. Kalau kalimatnya tentang benda tulis, pilih 紙; kalau tentang orang atau kepemilikan, pilih 私.
+- **英 vs 茶** — sama-sama beratap rumput 艹, jadi mudah tertukar saat membaca cepat. Bagian bawahnya yang menentukan: 英 muncul bersama 語 (bahasa), 茶 muncul di konteks minuman. Baca kata utuhnya: 英語 pasti bahasa, お茶・紅茶 pasti minuman.
+- **手紙 vs 用紙** — dua-duanya berakhiran 紙, tetapi 手紙 adalah surat (dikirim ke orang), sedangkan 用紙 adalah kertas isian (diisi lalu diserahkan). Kata di depannya jadi petunjuk: 手 mengarah ke tulisan tangan untuk orang lain, 用 mengarah ke keperluan/formulir.
+- **放送 vs 郵送** — sama-sama berakhiran 送 (mengirim), tetapi 放送 mengirimkan suara/gambar (siaran), 郵送 mengirimkan barang lewat pos. Kalau ada TV, radio, atau pengumuman, pilih 放送; kalau ada surat atau paket, pilih 郵送.
 
 ## Kesalahan Umum
 
-私立 dan 私用 sama-sama memakai 私, tetapi 私立 berarti swasta, sedangkan 私用 berarti urusan pribadi.
+Jangan memaksakan bacaan kunyomi ke dalam kata majemuk. 紙 memang dibaca かみ saat berdiri sendiri, tetapi 用紙 dibaca ようし, bukan ようかみ; 私 dibaca わたし sendiri, tetapi 私立 dibaca しりつ. Strateginya: baca kata majemuk sebagai satu kesatuan dengan onyomi dulu, lalu cek apakah ada perkecualian seperti 手紙 (てがみ) yang justru memakai kunyomi dengan perubahan bunyi.
 
 ## Mini Practice
 
@@ -149,51 +155,53 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti bahasa Inggris?"
-optionA: "英語"
-optionB: "紅茶"
-correct: "英語"
-explanation: "英語 berarti bahasa Inggris. 紅茶 berarti teh hitam."
+question: "Saya mengirim surat lewat pos."
+sentence: "手紙を____します。"
+optionA: "郵送"
+optionB: "放送"
+correct: "郵送"
+explanation: "郵送 benar karena surat dikirim lewat pos. 放送 juga memakai 送, tetapi artinya siaran TV/radio."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti kafe?"
-optionA: "喫茶店"
-optionB: "送別会"
-correct: "喫茶店"
-explanation: "喫茶店 berarti kafe. 送別会 berarti acara perpisahan."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti formulir/kertas isian?"
-optionA: "用紙"
-optionB: "手紙"
-correct: "用紙"
-explanation: "用紙 berarti formulir atau kertas isian. 手紙 berarti surat."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti swasta?"
+question: "Pilih kata untuk arti: sekolah yang dikelola swasta."
 optionA: "私立"
 optionB: "私用"
 correct: "私立"
-explanation: "私立 berarti swasta. 私用 berarti urusan pribadi."
+explanation: "私立 benar, dibaca しりつ, artinya swasta. 私用 berarti urusan pribadi, bukan jenis sekolah."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti siaran?"
+question: "Di kata mana 茶 dibaca さ, bukan ちゃ?"
+optionA: "喫茶店"
+optionB: "紅茶"
+correct: "喫茶店"
+explanation: "喫茶店 dibaca きっさてん, jadi 茶 dibaca さ. Dalam 紅茶 (こうちゃ), 茶 tetap dibaca ちゃ."
+---
+::
+
+::MiniPractice
+---
+question: "Kamu mengisi lembar pendaftaran di kantor. Kertas isian itu disebut apa?"
+optionA: "用紙"
+optionB: "手紙"
+correct: "用紙"
+explanation: "用紙 benar karena 用 menunjukkan kertas untuk keperluan mengisi. 手紙 adalah surat yang dikirim ke orang lain."
+---
+::
+
+::MiniPractice
+---
+question: "Setiap pagi saya mendengarkan siaran sekolah."
+sentence: "毎朝、学校の____を聞きます。"
 optionA: "放送"
-optionB: "郵送"
+optionB: "送別会"
 correct: "放送"
-explanation: "放送 berarti siaran. 郵送 berarti pengiriman pos."
+explanation: "放送 benar karena yang didengarkan adalah siaran. 送別会 adalah acara perpisahan, bukan sesuatu yang didengarkan tiap pagi."
 ---
 ::
 

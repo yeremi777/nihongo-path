@@ -42,7 +42,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ツウ</span><span>kunyomi: とおる、とおす、かよう</span></span>
     </span>
   </summary>
-<p>通 sering muncul pada lalu lintas dan kebiasaan pergi ke suatu tempat secara rutin.</p><ul>
+<p>通 punya banyak bacaan: ツウ di kata majemuk seperti 交通 dan 普通, とおる saat lewat jalan (通る), dan かよう untuk pergi rutin ke sekolah atau kerja (通う). Pilih bacaan dari okurigana dan konteksnya.</p><ul>
     <li><span class="ruby-word"><ruby>交通<rt>こうつう</rt></ruby></span> - lalu lintas</li>
     <li><span class="ruby-word"><ruby>普通<rt>ふつう</rt></ruby></span> - kereta lokal/biasa</li>
     <li><span class="ruby-word"><ruby>通る<rt>とおる</rt></ruby></span> - lewat, melewati</li>
@@ -58,7 +58,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: コウ</span><span>kunyomi: おりる、ふる</span></span>
     </span>
   </summary>
-<p>降 dipakai untuk turun dari kendaraan atau sesuatu yang turun dari langit.</p><ul>
+<p>降 punya dua kunyomi yang artinya jauh berbeda: おりる kalau yang turun orang dari kendaraan (降りる), dan ふる kalau yang turun hujan atau salju (降る). Objek kalimat jadi penentu bacaannya.</p><ul>
     <li><span class="ruby-word"><ruby>降る<rt>ふる</rt></ruby></span> - turun (hujan/salju)</li>
     <li><span class="ruby-word"><ruby>降りる<rt>おりる</rt></ruby></span> - turun dari kendaraan/tempat</li>
     <li><span class="ruby-word"><ruby>降車<rt>こうしゃ</rt></ruby></span> - turun dari kendaraan</li>
@@ -72,7 +72,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ヒン</span><span>kunyomi: しな</span></span>
     </span>
   </summary>
-<p>品 memberi rasa barang atau produk, terutama pada label belanja.</p><ul>
+<p>品 dibaca ヒン di kata majemuk seperti 食料品, tetapi しな saat berdiri sendiri seperti 品物 (しなもの). Sering kamu temui di rak toko dan label barang belanja.</p><ul>
     <li><span class="ruby-word"><ruby>食料品<rt>しょくりょうひん</rt></ruby></span> - bahan makanan</li>
     <li><span class="ruby-word"><ruby>品物<rt>しなもの</rt></ruby></span> - barang</li>
   </ul></details>
@@ -85,7 +85,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: チャク</span><span>kunyomi: きる、つく</span></span>
     </span>
   </summary>
-<p>着 sering berarti memakai pakaian atau tiba di suatu tempat.</p><ul>
+<p>着 dibaca き- untuk memakai pakaian (着る、着物) dan つく untuk tiba (着く). Perhatikan bentuknya agar tidak tertukar dengan 建 pada 建物 — 着物 adalah pakaian, 建物 adalah bangunan.</p><ul>
     <li><span class="ruby-word"><ruby>着る<rt>きる</rt></ruby></span> - memakai pakaian</li>
     <li><span class="ruby-word"><ruby>着物<rt>きもの</rt></ruby></span> - kimono</li>
     <li><span class="ruby-word"><ruby>着く<rt>つく</rt></ruby></span> - tiba, sampai</li>
@@ -99,7 +99,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ブツ、モツ</span><span>kunyomi: もの</span></span>
     </span>
   </summary>
-<p>物 adalah kanji umum untuk benda, barang, makanan, hewan, dan bangunan.</p><ul>
+<p>物 menandai "benda", jadi kanji di depannya yang menentukan bendanya apa: もの pada 建物, 食べ物, dan 荷物, tetapi ブツ pada 動物. Baca pasangan kanjinya sebagai satu kata.</p><ul>
     <li><span class="ruby-word"><ruby>動物<rt>どうぶつ</rt></ruby></span> - hewan</li>
     <li><span class="ruby-word"><ruby>荷物<rt>にもつ</rt></ruby></span> - barang bawaan</li>
     <li><span class="ruby-word"><ruby>物<rt>もの</rt></ruby></span> - benda, barang</li>
@@ -115,7 +115,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ドウ</span><span>kunyomi: うごく、うごかす</span></span>
     </span>
   </summary>
-<p>動 memberi rasa gerakan, aktivitas, atau sesuatu yang hidup bergerak.</p><ul>
+<p>動 memakai 力 (tenaga) di kanan dan selalu tentang gerak: 運動 (olahraga), 動く (bergerak). Dalam 動物 ia berpasangan dengan 物 sehingga artinya "makhluk yang bergerak", yaitu hewan.</p><ul>
     <li><span class="ruby-word"><ruby>動物<rt>どうぶつ</rt></ruby></span> - hewan</li>
     <li><span class="ruby-word"><ruby>運動<rt>うんどう</rt></ruby></span> - olahraga</li>
     <li><span class="ruby-word"><ruby>動く<rt>うごく</rt></ruby></span> - bergerak</li>
@@ -129,7 +129,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ケン</span><span>kunyomi: たてる、たつ</span></span>
     </span>
   </summary>
-<p>建 sering muncul pada kata tentang bangunan dan konstruksi.</p><ul>
+<p>建 dibaca たてる/たつ untuk mendirikan, dan tetap memakai kunyomi pada 建物 (たてもの), bukan onyomi. Muncul di papan konstruksi dan keterangan gedung.</p><ul>
     <li><span class="ruby-word"><ruby>建てる<rt>たてる</rt></ruby></span> - membangun</li>
     <li><span class="ruby-word"><ruby>建物<rt>たてもの</rt></ruby></span> - bangunan</li>
     <li><span class="ruby-word"><ruby>二階建て<rt>にかいだて</rt></ruby></span> - bangunan dua lantai</li>
@@ -143,7 +143,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ヤ</span><span>kunyomi: よ、よる</span></span>
     </span>
   </summary>
-<p>夜 dipakai untuk waktu malam dalam jadwal dan percakapan harian.</p><ul>
+<p>夜 dibaca ヤ di kata majemuk seperti 今夜 (こんや), tetapi よる saat berdiri sendiri. Sering muncul di jadwal dan keterangan waktu malam.</p><ul>
     <li><span class="ruby-word"><ruby>今夜<rt>こんや</rt></ruby></span> - malam ini</li>
     <li><span class="ruby-word"><ruby>夜<rt>よる</rt></ruby></span> - malam</li>
   </ul></details>
@@ -156,7 +156,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: フウ</span><span>kunyomi: かぜ</span></span>
     </span>
   </summary>
-<p>風 muncul pada cuaca, gaya, dan kata 風邪 yang berarti masuk angin.</p><ul>
+<p>風 dibaca フウ pada 台風 (たいふう), tetapi かぜ pada 風 (angin) dan 風邪 (masuk angin). 風邪 adalah bacaan khusus untuk sakit pilek, bukan diterjemahkan harfiah "angin jahat".</p><ul>
     <li><span class="ruby-word"><ruby>台風<rt>たいふう</rt></ruby></span> - topan</li>
     <li><span class="ruby-word"><ruby>風邪<rt>かぜ</rt></ruby></span> - masuk angin</li>
     <li><span class="ruby-word"><ruby>風<rt>かぜ</rt></ruby></span> - angin</li>
@@ -170,7 +170,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ダイ、タイ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-<p>台 dipakai untuk dapur, platform, dan penghitung benda seperti kendaraan atau mesin.</p><ul>
+<p>台 berganti bacaan: タイ pada 台風 (たいふう), tetapi ダイ pada 台所 (だいどころ) dan penghitung mesin 1台 (いちだい). Baca kata utuh dulu untuk memilih タイ atau ダイ.</p><ul>
     <li><span class="ruby-word"><ruby>台所<rt>だいどころ</rt></ruby></span> - dapur</li>
     <li><span class="ruby-word"><ruby>1台<rt>いちだい</rt></ruby></span> - satu unit mesin/kendaraan</li>
     <li><span class="ruby-word"><ruby>台風<rt>たいふう</rt></ruby></span> - topan</li>
@@ -179,11 +179,14 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 ## Peta Kata
 
-Kata 交通 dan 通学 berkaitan dengan perpindahan rutin. 降車 menjelaskan tindakan di transportasi. 食料品, 品物, 荷物, dan 建物 mengelompokkan benda nyata, sementara 台風 dan 風邪 masuk ke cuaca atau kondisi tubuh.
+Kanji hari ini punya banyak bacaan, jadi kelompokkan berdasarkan tempat kamu menemuinya. Di transportasi: 交通 mengatur perpindahan, lalu 降車 adalah tindakan turun dari kendaraan. Di belanja dan rumah: 食料品 dan 品物 adalah barang, 荷物 dibawa, dan 建物 tempat semuanya berada. Di keterangan cuaca dan tubuh: 台風 datang saat cuaca buruk, sementara 風邪 justru soal kesehatan — dua-duanya memakai 風 tetapi dibaca berbeda.
 
 ## Catatan Pemakaian
 
-Untuk tindakan, cari 通, 降, 動, dan 建. Untuk benda atau barang, cari 品 dan 物. Untuk waktu dan cuaca, cari 夜, 風, dan 台. Strategi ini membantu kamu menebak fungsi kata sebelum menerjemahkannya.
+- **Tindakan/gerakan:** 通る dan 通う (lewat, pergi rutin), 降りる (turun kendaraan), 動く (bergerak), 建てる (mendirikan) — perhatikan okuriganya untuk memilih bacaan kunyomi.
+- **Benda dan barang:** 食料品 (bahan makanan), 品物 (barang), 荷物 (barang bawaan), 建物 (bangunan) — kanji di depan menentukan jenis bendanya.
+- **Cuaca dan kondisi tubuh:** 台風 (topan) dan 風邪 (masuk angin) sama-sama memakai 風; 風邪 adalah bacaan khusus かぜ untuk sakit.
+- **Waktu dan satuan:** 今夜 (malam ini), 台所 (dapur), 1台 (satu unit mesin/kendaraan) — 台 berganti antara タイ dan ダイ tergantung katanya.
 
 ## Contoh Kalimat
 
@@ -197,11 +200,14 @@ Untuk tindakan, cari 通, 降, 動, dan 建. Untuk benda atau barang, cari 品 d
 
 ## Hal yang Mudah Tertukar
 
-着物 adalah benda yang dipakai, sedangkan 建物 adalah bangunan. Keduanya berakhir dengan 物, jadi lihat kanji pertama untuk menentukan jenis bendanya.
+- **着物 vs 建物** — keduanya berakhiran 物 tetapi dibaca berbeda: 着物 (きもの) adalah pakaian yang dipakai, 建物 (たてもの) adalah bangunan. Cek kanji depannya: 着 berarti memakai, 建 berarti mendirikan.
+- **降りる vs 降る** — kanjinya sama (降) tetapi kunyomi dan artinya berbeda. Kalau objeknya orang atau kendaraan, baca おりる (turun); kalau objeknya hujan atau salju, baca ふる.
+- **台風 vs 風邪** — dua-duanya memakai 風. Kalau soal cuaca dan angin kencang, itu 台風 (たいふう); kalau soal badan yang sakit, itu 風邪 (かぜ) dengan bacaan khusus.
+- **台風 vs 台所** — sama-sama diawali 台, tetapi 台風 dibaca タイ dan 台所 dibaca ダイ. Bacaan 台 tidak tetap, jadi kenali kata utuhnya, bukan kanji sendirian.
 
 ## Kesalahan Umum
 
-Jangan membaca 風邪 sebagai "angin jahat" secara harfiah. Di konteks kesehatan, kata ini berarti masuk angin atau pilek, dan harus dibaca sebagai satu kata.
+Jangan memaksakan satu bacaan untuk kanji yang punya banyak bacaan. 台 bisa タイ atau ダイ, 通 bisa ツウ、とおる、atau かよう, dan 降 bisa おりる atau ふる. Strateginya: baca kata majemuk sebagai satu kesatuan lebih dulu, lalu pakai okurigana dan objek kalimat untuk memutuskan bacaan kunyomi yang tepat.
 
 ## Mini Practice
 
@@ -209,21 +215,43 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti lalu lintas?"
-optionA: "交通"
-optionB: "降車"
-correct: "交通"
-explanation: "交通 berarti lalu lintas. 降車 berarti turun dari kendaraan."
+question: "Di kata mana 台 dibaca タイ, bukan ダイ?"
+optionA: "台風"
+optionB: "台所"
+correct: "台風"
+explanation: "台風 dibaca たいふう, jadi 台 dibaca タイ. Dalam 台所 (だいどころ), 台 dibaca ダイ."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti bahan makanan?"
-optionA: "食料品"
+question: "Di stasiun saya turun dari kereta lalu naik tangga."
+sentence: "駅で電車から____して、階段を上がります。"
+optionA: "降車"
+optionB: "交通"
+correct: "降車"
+explanation: "降車 benar karena artinya turun dari kendaraan. 交通 berarti lalu lintas secara umum."
+---
+::
+
+::MiniPractice
+---
+question: "Pakaian tradisional Jepang yang dikenakan disebut apa?"
+optionA: "着物"
 optionB: "建物"
-correct: "食料品"
-explanation: "食料品 adalah bahan makanan atau groceries. 建物 adalah bangunan."
+correct: "着物"
+explanation: "着物 (きもの) adalah pakaian. 建物 (たてもの) adalah bangunan — bedakan lewat kanji depannya."
+---
+::
+
+::MiniPractice
+---
+question: "Angin kencang dan hujan deras membuat kereta berhenti. Cuaca ini disebut apa?"
+sentence: "強い風と大雨で電車が止まりました。これは____です。"
+optionA: "台風"
+optionB: "風邪"
+correct: "台風"
+explanation: "台風 adalah topan. 風邪 juga memakai 風, tetapi artinya masuk angin pada tubuh."
 ---
 ::
 
@@ -233,27 +261,7 @@ question: "Kata mana yang berarti barang bawaan?"
 optionA: "荷物"
 optionB: "動物"
 correct: "荷物"
-explanation: "荷物 berarti barang bawaan. 動物 berarti hewan."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti topan?"
-optionA: "台風"
-optionB: "風邪"
-correct: "台風"
-explanation: "台風 berarti topan. 風邪 berarti masuk angin atau pilek."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti bangunan?"
-optionA: "建物"
-optionB: "着物"
-correct: "建物"
-explanation: "建物 berarti bangunan. 着物 berarti kimono."
+explanation: "荷物 berarti barang bawaan. 動物 berarti hewan — dua-duanya memakai 物 tetapi kanji depannya berbeda."
 ---
 ::
 

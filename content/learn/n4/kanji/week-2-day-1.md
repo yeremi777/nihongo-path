@@ -42,7 +42,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ガ、カク</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-<p>画 muncul pada gambar bergerak, komik, dan rencana.</p><ul>
+<p>画 punya dua bacaan: ガ pada 映画 dan 漫画 (bermakna gambar), tetapi カク pada 計画 (bermakna goresan/rencana). Baca kata utuhnya dulu untuk memilih bacaan yang tepat.</p><ul>
     <li><span class="ruby-word"><ruby>映画<rt>えいが</rt></ruby></span> - film</li>
     <li><span class="ruby-word"><ruby>漫画<rt>まんが</rt></ruby></span> - komik</li>
     <li><span class="ruby-word"><ruby>計画<rt>けいかく</rt></ruby></span> - rencana</li>
@@ -56,7 +56,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: エイ</span><span>kunyomi: うつる、うつす、はえる</span></span>
     </span>
   </summary>
-<p>映 dipakai untuk gambar yang diproyeksikan atau terlihat di layar.</p><ul>
+<p>映 selalu dibaca エイ dalam gabungan dan dipakai untuk gambar yang dipantulkan atau diproyeksikan ke layar, seperti pada 映画 dan 映画館.</p><ul>
     <li><span class="ruby-word"><ruby>映画<rt>えいが</rt></ruby></span> - film</li>
     <li><span class="ruby-word"><ruby>映画館<rt>えいがかん</rt></ruby></span> - bioskop</li>
   </ul></details>
@@ -69,7 +69,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ケイ</span><span>kunyomi: はかる</span></span>
     </span>
   </summary>
-<p>計 muncul pada alat ukur waktu, jadwal, dan perencanaan aktivitas harian.</p><ul>
+<p>計 berarti mengukur/menghitung dan menjadi rencana pada 計画. Perhatikan 時計 yang dibaca とけい, sebuah bacaan gabungan yang perlu dihafal, bukan じけい.</p><ul>
     <li><span class="ruby-word"><ruby>時計<rt>とけい</rt></ruby></span> - jam</li>
     <li><span class="ruby-word"><ruby>計画<rt>けいかく</rt></ruby></span> - rencana</li>
   </ul></details>
@@ -82,7 +82,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ズ、ト</span><span>kunyomi: はかる</span></span>
     </span>
   </summary>
-<p>図 memberi rasa gambar penjelas, peta, atau tempat buku.</p><ul>
+<p>図 dibaca ズ pada 地図 (peta), tetapi ト pada 図書館 (perpustakaan) — dua bacaan yang sama-sama muncul di kata sehari-hari, jadi kenali kata utuhnya.</p><ul>
     <li><span class="ruby-word"><ruby>地図<rt>ちず</rt></ruby></span> - peta</li>
     <li><span class="ruby-word"><ruby>図書館<rt>としょかん</rt></ruby></span> - perpustakaan</li>
   </ul></details>
@@ -95,7 +95,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ジ</span><span>kunyomi: こと</span></span>
     </span>
   </summary>
-<p>事 muncul pada urusan, pekerjaan, dan makan sebagai kegiatan.</p><ul>
+<p>事 berarti hal atau urusan dan dibaca ジ dalam gabungan seperti 食事 dan 用事. Namun pada 仕事 ia dibaca ごと — perubahan bunyi yang khas.</p><ul>
     <li><span class="ruby-word"><ruby>食事<rt>しょくじ</rt></ruby></span> - makan</li>
     <li><span class="ruby-word"><ruby>用事<rt>ようじ</rt></ruby></span> - urusan</li>
     <li><span class="ruby-word"><ruby>仕事<rt>しごと</rt></ruby></span> - pekerjaan</li>
@@ -109,7 +109,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: シ</span><span>kunyomi: つかえる</span></span>
     </span>
   </summary>
-<p>仕 sering muncul dalam kata kerja dan cara melakukan sesuatu.</p><ul>
+<p>仕 hampir tak pernah berdiri sendiri; ia menempel membentuk 仕事 (pekerjaan) dan 仕方 (cara). Ingat pasangannya dengan 事 agar tidak keliru menulis 仕事.</p><ul>
     <li><span class="ruby-word"><ruby>仕事<rt>しごと</rt></ruby></span> - pekerjaan</li>
     <li><span class="ruby-word"><ruby>仕方<rt>しかた</rt></ruby></span> - cara</li>
   </ul></details>
@@ -122,7 +122,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ヨウ</span><span>kunyomi: もちいる</span></span>
     </span>
   </summary>
-<p>用 menunjukkan keperluan, persiapan, atau penggunaan.</p><ul>
+<p>用 berkaitan dengan keperluan dan penggunaan, muncul di 用事 (urusan), 用意 (persiapan), dan 利用 (memanfaatkan sesuatu).</p><ul>
     <li><span class="ruby-word"><ruby>用事<rt>ようじ</rt></ruby></span> - urusan</li>
     <li><span class="ruby-word"><ruby>用意<rt>ようい</rt></ruby></span> - persiapan</li>
     <li><span class="ruby-word"><ruby>利用する<rt>りようする</rt></ruby></span> - menggunakan, memanfaatkan</li>
@@ -136,7 +136,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: チ、ジ</span><span>kunyomi: つち</span></span>
     </span>
   </summary>
-<p>地 muncul pada peta, geografi, bawah tanah, dan tempat.</p><ul>
+<p>地 dibaca チ pada 地図, 地理, dan 地下鉄, tetapi ジ pada 地震 — perhatikan pergeseran bacaan meski kanjinya sama persis.</p><ul>
     <li><span class="ruby-word"><ruby>地図<rt>ちず</rt></ruby></span> - peta</li>
     <li><span class="ruby-word"><ruby>地理<rt>ちり</rt></ruby></span> - geografi</li>
     <li><span class="ruby-word"><ruby>地震<rt>じしん</rt></ruby></span> - gempa bumi</li>
@@ -151,7 +151,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: テツ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-<p>鉄 berarti besi dan sering muncul dalam kata kereta.</p><ul>
+<p>鉄 berarti besi dan menjadi lambang jalur rel, sehingga muncul di 地下鉄 (kereta bawah tanah) dan 鉄道 (jalur kereta).</p><ul>
     <li><span class="ruby-word"><ruby>地下鉄<rt>ちかてつ</rt></ruby></span> - kereta bawah tanah</li>
     <li><span class="ruby-word"><ruby>鉄<rt>てつ</rt></ruby></span> - besi, baja</li>
     <li><span class="ruby-word"><ruby>鉄道<rt>てつどう</rt></ruby></span> - jalur kereta</li>
@@ -160,11 +160,15 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 ## Peta Kata
 
-映画, 映画館, 漫画, dan 計画 memakai 画 dengan konteks berbeda. 地図, 地理, 地下鉄, dan 鉄道 mengarah ke tempat dan transportasi. 仕事, 用事, dan 用意 sering muncul dalam jadwal harian.
+Kanji hari ini menyebar ke beberapa tema, jadi kelompokkan menurut tempat kamu menemuinya. **Hiburan visual:** 映画 diputar di 映画館, sejenis dengan 漫画. **Rencana dan waktu:** 計画 disusun sambil melihat 時計. **Peta dan tempat:** 地図 dibaca untuk memahami 地理, dan disimpan di 図書館. **Transportasi:** 地下鉄 berjalan di atas jalur 鉄道. **Kegiatan harian:** 仕事 dan 用事 adalah hal yang perlu diurus, sementara 用意 adalah persiapannya. Perhatikan bahwa 画, 事, dan 地 masing-masing muncul di beberapa kelompok dengan bacaan yang bisa berubah.
 
 ## Catatan Pemakaian
 
-Untuk media visual, cari 映 dan 画. Untuk rencana atau hitungan, cari 計. Untuk tempat dan peta, cari 図 dan 地. Untuk kegiatan harian, cari 事, 仕, dan 用.
+- **Media dan gambar:** 映 dan 画 membentuk 映画; 漫画 juga memakai 画 dengan bacaan ガ.
+- **Rencana dan pengukuran:** 計 muncul di 計画 (rencana) dan 時計 (alat ukur waktu); 画 pada 計画 dibaca カク.
+- **Tempat dan arah:** 図 dan 地 mengarah ke 地図, 地理, dan 図書館 — kata yang membantu membaca peta atau denah.
+- **Transportasi:** 地 dan 鉄 bertemu di 地下鉄; 鉄道 memakai 鉄 untuk jalur kereta.
+- **Kegiatan harian:** 事, 仕, dan 用 membentuk 仕事, 用事, dan 用意 — urusan dan persiapan yang muncul di jadwal.
 
 ## Contoh Kalimat
 
@@ -178,11 +182,13 @@ Untuk media visual, cari 映 dan 画. Untuk rencana atau hitungan, cari 計. Unt
 
 ## Hal yang Mudah Tertukar
 
-映画 dan 計画 sama-sama memakai 画, tetapi 映画 adalah film, sedangkan 計画 adalah rencana. Kanji pertama memberi petunjuk utama.
+- **映画 vs 計画** — keduanya berakhiran 画, tetapi bacaan 画 berbeda: がえい→えいが (映画, ガ) berarti film, sedangkan けいかく (計画, カク) berarti rencana. Lihat kanji depannya: 映 (memantul/layar) menuju film, 計 (mengukur) menuju rencana.
+- **地図 vs 地理** — dua-duanya memakai 地, tetapi kanji kedua yang menentukan: 図 (gambar/peta) menghasilkan "peta", 理 (logika/ilmu) menghasilkan "geografi" sebagai bidang ilmu.
+- **用事 vs 仕事** — sama-sama berakhiran 事, tetapi 用事 (urusan singkat yang perlu diselesaikan) berbeda dari 仕事 (pekerjaan tetap). Ingat 事 di 仕事 dibaca ごと, sedangkan di 用事 dibaca じ.
 
 ## Kesalahan Umum
 
-Jangan menyamakan 用事 dan 仕事. 用事 adalah urusan yang perlu dilakukan, sedangkan 仕事 adalah pekerjaan.
+Jangan memaksakan satu bacaan tetap untuk kanji yang punya lebih dari satu on-yomi. 画 dibaca ガ pada 映画 tetapi カク pada 計画; 地 dibaca チ pada 地図 tetapi ジ pada 地震. Strateginya: kenali kata majemuk sebagai satu unit yang sudah dihafal bacaannya, bukan menebak dari satu kanji.
 
 ## Mini Practice
 
@@ -190,51 +196,53 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti film?"
+question: "Saya menonton film baru di bioskop."
+sentence: "映画館で新しい____を見ました。"
 optionA: "映画"
 optionB: "計画"
 correct: "映画"
-explanation: "映画 berarti film. 計画 berarti rencana."
+explanation: "映画 (film) benar karena yang ditonton di bioskop. 計画 berarti rencana."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti peta?"
-optionA: "地図"
-optionB: "時計"
-correct: "地図"
-explanation: "地図 berarti peta. 時計 berarti jam."
+question: "Di kata mana 地 dibaca じ, bukan ち?"
+optionA: "地震"
+optionB: "地下鉄"
+correct: "地震"
+explanation: "地震 dibaca じしん, jadi 地 dibaca じ. Pada 地下鉄 (ちかてつ), 地 dibaca ち."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti pekerjaan?"
-optionA: "仕事"
-optionB: "用事"
-correct: "仕事"
-explanation: "仕事 berarti pekerjaan. 用事 berarti urusan."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti perpustakaan?"
+question: "Pilih kata untuk arti: perpustakaan."
 optionA: "図書館"
 optionB: "映画館"
 correct: "図書館"
-explanation: "図書館 adalah perpustakaan. 映画館 adalah bioskop."
+explanation: "図書館 benar; 図 dibaca ト di sini. 映画館 adalah bioskop tempat menonton film."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti kereta bawah tanah?"
+question: "Kamu menyusun langkah-langkah untuk kegiatan minggu depan. Apa yang kamu buat?"
+optionA: "計画"
+optionB: "時計"
+correct: "計画"
+explanation: "計画 (rencana) benar. 時計 memakai 計 juga, tetapi artinya alat penunjuk waktu."
+---
+::
+
+::MiniPractice
+---
+question: "Perpustakaan itu dekat dengan stasiun kereta bawah tanah."
+sentence: "図書館は____の駅に近いです。"
 optionA: "地下鉄"
 optionB: "鉄道"
 correct: "地下鉄"
-explanation: "地下鉄 berarti kereta bawah tanah. 鉄道 berarti jalur kereta."
+explanation: "地下鉄 (kereta bawah tanah) benar. 鉄道 berarti jalur kereta secara umum, bukan yang di bawah tanah."
 ---
 ::
 

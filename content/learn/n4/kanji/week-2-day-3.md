@@ -54,7 +54,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ショ</span><span>kunyomi: あつい</span></span>
     </span>
   </summary>
-<p>暑 khusus untuk panas cuaca, bukan benda panas.</p><ul>
+<p>暑 khusus untuk panas cuaca dan kelembapan (蒸し暑い), bukan benda panas. Untuk teh atau air panas dipakai 熱い, yang berbeda kanjinya.</p><ul>
     <li><span class="ruby-word"><ruby>暑い<rt>あつい</rt></ruby></span> - panas (cuaca)</li>
     <li><span class="ruby-word"><ruby>蒸し暑い<rt>むしあつい</rt></ruby></span> - panas lembap</li>
   </ul></details>
@@ -67,7 +67,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ジュウ、チョウ</span><span>kunyomi: おもい、かさなる</span></span>
     </span>
   </summary>
-<p>重 menjelaskan berat fisik atau pentingnya suatu hal.</p><ul>
+<p>重 menjelaskan berat fisik (重い, 体重) sekaligus makna "penting" atau "bertumpuk". Pada 体重 dibaca ジュウ, jadi cek kata utuhnya.</p><ul>
     <li><span class="ruby-word"><ruby>重い<rt>おもい</rt></ruby></span> - berat</li>
     <li><span class="ruby-word"><ruby>体重<rt>たいじゅう</rt></ruby></span> - berat badan</li>
   </ul></details>
@@ -93,7 +93,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: コウ</span><span>kunyomi: ひろい、ひろがる</span></span>
     </span>
   </summary>
-<p>広 muncul untuk ruang yang luas atau penyebaran.</p><ul>
+<p>広 dipakai untuk ruang yang luas (広い, 広場) maupun hal yang menyebar (広がる). Radikal atap 广 di luarnya menandai area atau bangunan.</p><ul>
     <li><span class="ruby-word"><ruby>広い<rt>ひろい</rt></ruby></span> - luas</li>
     <li><span class="ruby-word"><ruby>広場<rt>ひろば</rt></ruby></span> - lapangan</li>
   </ul></details>
@@ -106,7 +106,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ゲン、ガン</span><span>kunyomi: もと</span></span>
     </span>
   </summary>
-<p>元 dapat berarti asal, semula, atau sehat pada 元気.</p><ul>
+<p>元 dapat berarti asal atau semula (もと), tetapi paling sering kamu temui pada 元気 yang berarti sehat dan bersemangat.</p><ul>
     <li><span class="ruby-word"><ruby>元気な<rt>げんきな</rt></ruby></span> - sehat, bersemangat</li>
   </ul></details>
 
@@ -118,7 +118,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ビョウ</span><span>kunyomi: やまい</span></span>
     </span>
   </summary>
-<p>病 muncul pada penyakit dan fasilitas kesehatan.</p><ul>
+<p>病 memakai radikal penyakit 疒 dan muncul pada 病気 (sakit) serta 病院 (rumah sakit) — kata yang wajib dikenali di klinik.</p><ul>
     <li><span class="ruby-word"><ruby>病院<rt>びょういん</rt></ruby></span> - rumah sakit</li>
     <li><span class="ruby-word"><ruby>病気<rt>びょうき</rt></ruby></span> - sakit/penyakit</li>
   </ul></details>
@@ -131,7 +131,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: キ</span><span>kunyomi: おきる、おこす</span></span>
     </span>
   </summary>
-<p>起 dipakai untuk bangun tidur atau sesuatu yang terjadi.</p><ul>
+<p>起 memakai radikal lari 走 dan berarti bangkit: 起きる (bangun/terjadi), 起こす (membangunkan), dan 起床 (bangun tidur pada jadwal).</p><ul>
     <li><span class="ruby-word"><ruby>起きる<rt>おきる</rt></ruby></span> - bangun, terjadi</li>
     <li><span class="ruby-word"><ruby>起こす<rt>おこす</rt></ruby></span> - membangunkan, menyebabkan</li>
     <li><span class="ruby-word"><ruby>起床<rt>きしょう</rt></ruby></span> - bangun tidur</li>
@@ -184,11 +184,15 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 ## Peta Kata
 
-寒中 dan 暑中 berhubungan dengan musim. 体重, 軽食, dan 広場 menjelaskan kondisi benda atau tempat. 元気, 病院, 起床, 寝室, 始業, dan 終電 sering muncul dalam jadwal dan rutinitas.
+Tema hari ini adalah pasangan yang berlawanan, jadi ingat kanjinya berdua-dua. **Suhu:** 寒い (dingin) ↔ 暑い (panas). **Bobot:** 重い dan 体重 (berat) ↔ 軽い dan 軽食 (ringan). **Awal–akhir hari:** 起きる/起床 (bangun) ↔ 寝る/寝室 (tidur). **Awal–akhir kegiatan:** 始まる/始業 (mulai) ↔ 終わる/終電 (selesai). Di antara pasangan itu ada 広場 (tempat luas), 元気 (kondisi sehat), dan 病院 (tempat berobat) yang melengkapi cerita rutinitas harian: bangun sehat, beraktivitas, lalu naik 終電 pulang.
 
 ## Catatan Pemakaian
 
-Untuk kondisi tubuh, cari 元 dan 病. Untuk rutinitas pagi-malam, cari 起 dan 寝. Untuk awal dan akhir jadwal, cari 始 dan 終.
+- **Suhu dan cuaca:** 寒 untuk dingin, 暑 khusus panas cuaca (bukan benda panas → 熱い).
+- **Bobot dan ukuran:** 重 untuk berat (体重), 軽 untuk ringan (軽食), 広 untuk luas (広場).
+- **Kondisi tubuh:** 元 pada 元気 (sehat/bersemangat), 病 pada 病気 dan 病院.
+- **Rutinitas pagi–malam:** 起 untuk bangun (起床) ↔ 寝 untuk tidur (寝室, 寝坊).
+- **Awal–akhir jadwal:** 始 untuk memulai (始業) ↔ 終 untuk mengakhiri (終電, 終点).
 
 ## Contoh Kalimat
 
@@ -202,11 +206,13 @@ Untuk kondisi tubuh, cari 元 dan 病. Untuk rutinitas pagi-malam, cari 起 dan 
 
 ## Hal yang Mudah Tertukar
 
-暑い hanya untuk cuaca panas. Untuk benda panas seperti teh atau air, biasanya gunakan 熱い, bukan 暑い.
+- **暑い vs 熱い** — dua-duanya dibaca あつい, tetapi 暑い hanya untuk suhu udara/cuaca, sedangkan 熱い untuk benda panas (teh, sup) dan demam. Tanya dulu: yang panas itu cuaca atau benda? Cuaca → 暑い, benda → 熱い.
+- **始業 vs 終電** — keduanya soal jadwal, tetapi arahnya berlawanan: 始 menandai awal (始業 = mulai kerja/sekolah), 終 menandai akhir (終電 = kereta terakhir). Kanji pertama menentukan awal atau akhir.
+- **重い vs 軽い** — bentuknya tidak mirip, tetapi maknanya sepasang: 重 (berat, penting) ↔ 軽 (ringan, tidak serius). 体重 pakai 重 karena mengukur berat; jangan tertukar dengan 軽食 (makanan ringan).
 
 ## Kesalahan Umum
 
-Jangan membaca 元気 sebagai "asal udara". Ini kata tetap yang berarti sehat atau bersemangat.
+Banyak kata di sini adalah gabungan tetap yang tidak boleh diterjemahkan kata demi kata. 元気 bukan "asal + udara" melainkan "sehat/bersemangat"; 起床 (bangun tidur) memakai 床 yang biasanya berarti lantai. Strateginya: hafal gabungan seperti 元気, 起床, dan 終電 sebagai satu kata utuh, lalu baru pahami kanji pembentuknya.
 
 ## Mini Practice
 
@@ -214,51 +220,52 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti berat badan?"
+question: "Pilih kata untuk arti: berat badan."
 optionA: "体重"
 optionB: "軽食"
 correct: "体重"
-explanation: "体重 berarti berat badan. 軽食 berarti makanan ringan."
+explanation: "体重 (berat badan) memakai 重 (berat). 軽食 memakai 軽 (ringan) dan berarti makanan ringan."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti lapangan?"
-optionA: "広場"
-optionB: "病院"
-correct: "広場"
-explanation: "広場 berarti lapangan. 病院 berarti rumah sakit."
+question: "始 menandai awal, 終 menandai akhir. Mana yang berarti kereta terakhir malam?"
+optionA: "終電"
+optionB: "始業"
+correct: "終電"
+explanation: "終電 (kereta terakhir) memakai 終. 始業 memakai 始 dan berarti mulai kerja/sekolah."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti bangun tidur?"
+question: "Kamu baru bangun dari tidur pagi ini. Waktu bangun tidurmu disebut apa?"
 optionA: "起床"
 optionB: "寝室"
 correct: "起床"
-explanation: "起床 berarti bangun tidur. 寝室 berarti kamar tidur."
+explanation: "起床 (bangun tidur) memakai 起. 寝室 memakai 寝 dan berarti kamar tidur."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti mulai kerja atau sekolah?"
-optionA: "始業"
-optionB: "終了"
-correct: "始業"
-explanation: "始業 berarti mulai kerja/sekolah. 終了 berarti selesai."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti kereta terakhir?"
-optionA: "終電"
+question: "Ada lapangan luas dekat rumah sakit."
+sentence: "病院の近くに____があります。"
+optionA: "広場"
 optionB: "終点"
-correct: "終電"
-explanation: "終電 berarti kereta terakhir. 終点 berarti titik akhir/stasiun akhir."
+correct: "広場"
+explanation: "広場 (lapangan luas) benar; 広 berarti luas. 終点 berarti stasiun/titik akhir."
+---
+::
+
+::MiniPractice
+---
+question: "Pilih kata untuk arti: sehat dan bersemangat."
+optionA: "元気"
+optionB: "病気"
+correct: "元気"
+explanation: "元気 (sehat/bersemangat) memakai 元. 病気 memakai 病 dan justru berarti sakit."
 ---
 ::
 

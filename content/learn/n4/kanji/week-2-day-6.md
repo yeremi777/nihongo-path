@@ -81,7 +81,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: セキ</span><span>kunyomi: あか、あかい</span></span>
     </span>
   </summary>
-<p>赤 berarti merah, tetapi muncul juga pada kata geografis seperti 赤道.</p><ul>
+<p>赤 dibaca あか untuk warna merah (赤い, 赤ちゃん), tetapi せき pada 赤道 (khatulistiwa) — perhatikan bacaan on-yomi yang muncul di istilah geografi.</p><ul>
     <li><span class="ruby-word"><ruby>赤<rt>あか</rt></ruby></span> - merah</li>
     <li><span class="ruby-word"><ruby>赤ちゃん<rt>あかちゃん</rt></ruby></span> - bayi</li>
     <li><span class="ruby-word"><ruby>赤い<rt>あかい</rt></ruby></span> - merah</li>
@@ -123,7 +123,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: コク</span><span>kunyomi: くろ、くろい</span></span>
     </span>
   </summary>
-<p>黒 berarti hitam dan sering muncul pada benda sekolah.</p><ul>
+<p>黒 berarti hitam dan membentuk 黒板 (papan tulis, dulunya berwarna hitam). Onyomi コク pada 黒板, kunyomi くろ/くろい untuk warnanya.</p><ul>
     <li><span class="ruby-word"><ruby>黒<rt>くろ</rt></ruby></span> - hitam</li>
     <li><span class="ruby-word"><ruby>黒い<rt>くろい</rt></ruby></span> - hitam</li>
     <li><span class="ruby-word"><ruby>黒板<rt>こくばん</rt></ruby></span> - papan tulis</li>
@@ -137,7 +137,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: シュ</span><span>kunyomi: くび</span></span>
     </span>
   </summary>
-<p>首 berarti leher, tetapi dalam 首都 berarti ibu kota.</p><ul>
+<p>首 berarti leher (首, 手首), tetapi pada 首都 (ibu kota) maknanya bergeser jadi "kepala/pemimpin" sebuah negara. Dibaca くび sendiri, シュ pada 首都.</p><ul>
     <li><span class="ruby-word"><ruby>首<rt>くび</rt></ruby></span> - leher</li>
     <li><span class="ruby-word"><ruby>首都<rt>しゅと</rt></ruby></span> - ibu kota</li>
     <li><span class="ruby-word"><ruby>手首<rt>てくび</rt></ruby></span> - pergelangan tangan</li>
@@ -164,7 +164,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: トウ、ズ</span><span>kunyomi: あたま、かしら</span></span>
     </span>
   </summary>
-<p>頭 muncul pada kepala, posisi awal, dan ungkapan tentang bagian depan.</p><ul>
+<p>頭 berarti kepala (頭, あたま) dan muncul pada 頭痛 (sakit kepala), tempat 頭 dibaca ず. Ada 頁 (radikal kepala) di sisi kanannya, sama seperti 顔.</p><ul>
     <li><span class="ruby-word"><ruby>頭<rt>あたま</rt></ruby></span> - kepala</li>
     <li><span class="ruby-word"><ruby>頭痛<rt>ずつう</rt></ruby></span> - sakit kepala</li>
   </ul></details>
@@ -172,11 +172,15 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 ## Peta Kata
 
-姉妹, 兄弟, 好き, dan 大好き dekat dengan keluarga dan perasaan. 赤道, 黄色, 茶色, dan 黒板 mengelompokkan warna. 首都, 笑顔, 顔色, dan 頭痛 berkaitan dengan tubuh atau gambaran orang.
+Kanji hari ini terbagi tiga tema. **Keluarga dan perasaan:** 妹 dan 弟 adalah adik, digabung menjadi 姉妹 (saudari) dan 兄弟 (saudara); 好き menyatakan rasa suka terhadap mereka. **Warna:** 赤, 黄, 黒 menempel pada 色 membentuk 黄色 dan 茶色, sedangkan 黒板 dan 赤道 memakai warna sebagai bagian nama benda/tempat. **Bagian tubuh:** 首 (leher), 顔 (wajah), 頭 (kepala) menggambarkan bagian atas tubuh, lalu meluas ke 笑顔 (ekspresi), 頭痛 (keluhan), dan 首都 (ibu kota, "kepala" negara). Perhatikan bahwa 赤 dan 首 sama-sama meloncat dari makna dasarnya ke istilah khusus (赤道, 首都).
 
 ## Catatan Pemakaian
 
-Untuk keluarga, cari 妹 dan 弟. Untuk warna, cari 赤, 黄, 色, dan 黒. Untuk tubuh, cari 首, 顔, dan 頭.
+- **Keluarga:** 妹 (adik perempuan) dan 弟 (adik laki-laki); 姉妹 dan 兄弟 mencakup kakak-adik.
+- **Perasaan:** 好 pada 好き dan 大好き untuk menyatakan suka.
+- **Warna dasar:** 赤 (merah), 黄 (kuning), 黒 (hitam), semuanya bisa + 色.
+- **Warna dalam nama benda:** 黒板 (papan tulis), 赤道 (khatulistiwa) — warnanya jadi bagian nama.
+- **Bagian tubuh:** 首 (leher), 顔 (wajah), 頭 (kepala); meluas ke 笑顔, 頭痛, 首都.
 
 ## Contoh Kalimat
 
@@ -190,11 +194,13 @@ Untuk keluarga, cari 妹 dan 弟. Untuk warna, cari 赤, 黄, 色, dan 黒. Untu
 
 ## Hal yang Mudah Tertukar
 
-首は leher, tetapi 首都 berarti ibu kota. Kalau 首 diikuti 都, jangan terjemahkan sebagai leher.
+- **首 vs 頭** — dua-duanya bagian atas tubuh, tetapi 首 adalah leher (penghubung) dan 頭 adalah kepala (bagian teratas, tempat otak). Kalau soal sakit karena berpikir/pusing pilih 頭 (頭痛); kalau soal leher atau pergelangan (手首) pilih 首.
+- **姉妹 vs 兄弟** — sama-sama kata "saudara", tetapi 姉妹 memakai kanji perempuan (姉・妹) untuk saudari, 兄弟 memakai kanji laki-laki (兄・弟) untuk saudara. Lihat kanji pembentuknya untuk tahu jenis kelaminnya.
+- **首 + 都 = 首都** — bila 首 diikuti 都 (kota), jangan baca sebagai leher: 首都 berarti ibu kota, "kota kepala" sebuah negara.
 
 ## Kesalahan Umum
 
-赤字 dan 黒字 tidak hanya tentang warna. Dalam uang atau laporan, 赤字 berarti defisit, 黒字 berarti surplus.
+Beberapa kata warna tidak selalu tentang warna harfiah. 赤字 dan 黒字 dalam laporan keuangan berarti defisit dan surplus, bukan "huruf merah/hitam". Begitu pula 赤道 (khatulistiwa) memakai 赤 dengan bacaan せき. Strateginya: saat melihat kanji warna dalam istilah teknis atau geografi, jangan langsung menerjemahkan warnanya — cek makna gabungan yang sudah baku.
 
 ## Mini Practice
 
@@ -202,51 +208,52 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti saudara perempuan?"
+question: "姉妹 dan 兄弟 sama-sama 'saudara'. Mana yang khusus saudara perempuan?"
 optionA: "姉妹"
 optionB: "兄弟"
 correct: "姉妹"
-explanation: "姉妹 berarti saudara perempuan. 兄弟 berarti saudara laki-laki atau saudara."
+explanation: "姉妹 memakai kanji perempuan (姉・妹). 兄弟 memakai kanji laki-laki (兄・弟)."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti kuning?"
+question: "Pilih kata untuk arti: warna kuning."
 optionA: "黄色"
 optionB: "茶色"
 correct: "黄色"
-explanation: "黄色 berarti kuning. 茶色 berarti cokelat."
+explanation: "黄色 memakai 黄 (kuning). 茶色 memakai 茶 dan berarti cokelat."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti papan tulis?"
+question: "Guru menulis dengan kapur di papan besar berwarna gelap di depan kelas. Papan itu disebut apa?"
 optionA: "黒板"
 optionB: "赤道"
 correct: "黒板"
-explanation: "黒板 berarti papan tulis. 赤道 berarti khatulistiwa."
+explanation: "黒板 (papan tulis) memakai 黒 (hitam). 赤道 berarti khatulistiwa."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti wajah tersenyum?"
-optionA: "笑顔"
-optionB: "頭痛"
-correct: "笑顔"
-explanation: "笑顔 berarti wajah tersenyum. 頭痛 berarti sakit kepala."
+question: "Karena kepalanya sakit, dia pulang lebih awal."
+sentence: "____があるので早く帰ります。"
+optionA: "頭痛"
+optionB: "笑顔"
+correct: "頭痛"
+explanation: "頭痛 (sakit kepala) benar. 笑顔 berarti wajah tersenyum."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti ibu kota?"
+question: "首 berarti leher, tetapi bila digabung 都 maknanya berubah. 首都 berarti apa?"
 optionA: "首都"
 optionB: "手首"
 correct: "首都"
-explanation: "首都 berarti ibu kota. 手首 berarti pergelangan tangan."
+explanation: "首都 berarti ibu kota (kota kepala negara). 手首 berarti pergelangan tangan."
 ---
 ::
 

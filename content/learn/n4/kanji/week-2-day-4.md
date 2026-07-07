@@ -55,7 +55,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: キュウ</span><span>kunyomi: きわめる</span></span>
     </span>
   </summary>
-<p>究 sering berpasangan dengan 研 dalam kata penelitian.</p><ul>
+<p>究 hampir selalu berpasangan dengan 研 membentuk 研究; jarang berdiri sendiri. Kunyomi きわめる berarti mendalami sesuatu sampai tuntas.</p><ul>
     <li><span class="ruby-word"><ruby>研究室<rt>けんきゅうしつ</rt></ruby></span> - ruang penelitian</li>
     <li><span class="ruby-word"><ruby>研究生<rt>けんきゅうせい</rt></ruby></span> - mahasiswa peneliti</li>
     <li><span class="ruby-word"><ruby>研究者<rt>けんきゅうしゃ</rt></ruby></span> - peneliti</li>
@@ -112,7 +112,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: イ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-<p>意 berhubungan dengan makna, niat, atau pendapat.</p><ul>
+<p>意 berhubungan dengan makna dan isi pikiran: 意味 (arti), 意見 (pendapat), dan 注意 (perhatian). Radikal hati 心 ada di bagian bawahnya.</p><ul>
     <li><span class="ruby-word"><ruby>意味<rt>いみ</rt></ruby></span> - arti</li>
     <li><span class="ruby-word"><ruby>意見<rt>いけん</rt></ruby></span> - pendapat</li>
     <li><span class="ruby-word"><ruby>注意<rt>ちゅうい</rt></ruby></span> - perhatian/hati-hati</li>
@@ -140,7 +140,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ハツ、ホツ</span><span>kunyomi: たつ</span></span>
     </span>
   </summary>
-<p>発 muncul pada keberangkatan, pengucapan, dan sesuatu yang dimulai.</p><ul>
+<p>発 berarti memancar atau memulai: 発音 (pengucapan, bunyi yang keluar) dan 出発 (berangkat). Pada 出発 bacaannya berubah jadi しゅっぱつ dengan bunyi rangkap.</p><ul>
     <li><span class="ruby-word"><ruby>発音<rt>はつおん</rt></ruby></span> - pengucapan</li>
     <li><span class="ruby-word"><ruby>出発する<rt>しゅっぱつする</rt></ruby></span> - berangkat</li>
   </ul></details>
@@ -181,7 +181,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ギョウ、ゴウ</span><span>kunyomi: わざ</span></span>
     </span>
   </summary>
-<p>業 muncul pada pelajaran, kelulusan, bisnis, dan industri.</p><ul>
+<p>業 muncul pada pelajaran (授業), kelulusan (卒業), dan industri (工業). Bentuknya padat dan mudah tertukar dengan 楽; perhatikan garis-garis horizontalnya.</p><ul>
     <li><span class="ruby-word"><ruby>授業<rt>じゅぎょう</rt></ruby></span> - pelajaran, kelas</li>
     <li><span class="ruby-word"><ruby>卒業<rt>そつぎょう</rt></ruby></span> - kelulusan</li>
     <li><span class="ruby-word"><ruby>工業<rt>こうぎょう</rt></ruby></span> - industri</li>
@@ -190,11 +190,16 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 ## Peta Kata
 
-研究, 研究室, dan 研究者 berkaitan dengan penelitian. 住所, 場所, dan 台所 menunjuk tempat. 注意, 注文, 意味, 意見, 教室, 授業, 発音, 音楽, 工場, dan 卒業 sering muncul di sekolah, pekerjaan, atau fasilitas umum.
+Kata hari ini banyak berkumpul di dunia sekolah dan penelitian, jadi kelompokkan menurut tempatnya. **Penelitian:** 研究 dilakukan di 研究室 oleh 研究者. **Alamat dan tempat:** 住所 menunjuk lokasi rumah, 場所 tempat umum, 台所 dapur. **Kelas dan pelajaran:** 教室 adalah ruang untuk 授業, dan tujuannya 卒業. **Perhatian dan pesanan:** 注意 (hati-hati) dan 注文 (memesan) sama-sama memakai 注. **Bunyi dan bahasa:** 発音 dilatih agar 音楽 dan ucapan terdengar jelas. **Industri:** 工場 adalah tempat 工業 berlangsung.
 
 ## Catatan Pemakaian
 
-Untuk lokasi, cari 住 dan 所. Untuk peringatan dan pesanan, cari 注. Untuk sekolah, cari 教 dan 業. Untuk bunyi atau pengucapan, cari 発 dan 音.
+- **Penelitian:** 研 dan 究 selalu bergandengan (研究); 研究室 dan 研究者 menambah tempat dan pelakunya.
+- **Lokasi:** 住 dan 所 membentuk 住所 (alamat), 場所 (tempat), 台所 (dapur).
+- **Peringatan dan pesanan:** 注 pada 注意 (perhatian/hati-hati) dan 注文 (pesanan); 意 juga muncul di 意味 dan 意見.
+- **Sekolah:** 教 pada 教室 dan 教育, 業 pada 授業 dan 卒業.
+- **Bunyi dan keberangkatan:** 発 pada 発音 dan 出発, 音 pada 音楽 dan 発音.
+- **Industri:** 工 dan 業 bertemu di 工業; 工場 adalah tempatnya.
 
 ## Contoh Kalimat
 
@@ -208,11 +213,13 @@ Untuk lokasi, cari 住 dan 所. Untuk peringatan dan pesanan, cari 注. Untuk se
 
 ## Hal yang Mudah Tertukar
 
-注意 dan 注文 sama-sama memakai 注, tetapi 注意 adalah peringatan atau perhatian, sedangkan 注文 adalah pesanan.
+- **注意 vs 注文** — keduanya berawalan 注, tetapi kanji kedua menentukan: 意 (pikiran) → 注意 (perhatian/hati-hati), 文 (kalimat/pesan) → 注文 (memesan). Di restoran kamu 注文; di papan peringatan tertulis 注意.
+- **工業 vs 授業** — dua-duanya berakhiran 業, tetapi 工 (kerajinan/pabrik) → industri, sedangkan 授 (memberi) → pelajaran. Kalau konteksnya pabrik pilih 工業; kalau konteksnya kelas pilih 授業.
+- **教室 vs 研究室** — sama-sama berakhiran 室 (ruangan). 教 (mengajar) → ruang kelas, 研究 (penelitian) → ruang lab. Lihat kata di depan 室 untuk tahu ruang apa.
 
 ## Kesalahan Umum
 
-住所 dan 場所 sama-sama menunjuk tempat, tetapi 住所 adalah alamat, bukan sekadar lokasi umum.
+Waspadai perubahan bunyi saat kanji digabung. 出発 tidak dibaca しゅつはつ melainkan しゅっぱつ (bunyi rangkap っ + ぱ); 卒業 dibaca そつぎょう dengan 業 → ぎょう. Strateginya: setelah menyusun bacaan on-yomi, ucapkan kata utuhnya dan sesuaikan bila ada bunyi rangkap atau dakuten seperti pada 出発 dan 授業.
 
 ## Mini Practice
 
@@ -220,51 +227,52 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti penelitian?"
-optionA: "研究"
-optionB: "住所"
-correct: "研究"
-explanation: "研究 berarti penelitian. 住所 berarti alamat."
+question: "Di restoran kamu meminta makanan kepada pelayan. Tindakan itu disebut apa?"
+optionA: "注文"
+optionB: "注意"
+correct: "注文"
+explanation: "注文 (memesan) memakai 文. 注意 memakai 意 dan berarti perhatian/hati-hati."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti hati-hati/perhatian?"
-optionA: "注意"
-optionB: "注文"
-correct: "注意"
-explanation: "注意 berarti perhatian atau hati-hati. 注文 berarti pesanan."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti kelas?"
-optionA: "教室"
-optionB: "研究室"
-correct: "教室"
-explanation: "教室 adalah kelas. 研究室 adalah ruang penelitian."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti pengucapan?"
+question: "Saya berlatih pelafalan di kelas."
+sentence: "教室で____を練習します。"
 optionA: "発音"
 optionB: "音楽"
 correct: "発音"
-explanation: "発音 berarti pengucapan. 音楽 berarti musik."
+explanation: "発音 (pengucapan) benar. 音楽 berarti musik, bukan yang dilatih di sini."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti pabrik?"
-optionA: "工場"
+question: "工業 dan 授業 sama-sama berakhiran 業. Mana yang berarti pelajaran/kelas?"
+optionA: "授業"
 optionB: "工業"
+correct: "授業"
+explanation: "授業 (pelajaran) memakai 授 (memberi). 工業 memakai 工 dan berarti industri."
+---
+::
+
+::MiniPractice
+---
+question: "Kamu bekerja di tempat barang diproduksi dengan mesin besar. Tempat itu disebut apa?"
+optionA: "工場"
+optionB: "教室"
 correct: "工場"
-explanation: "工場 berarti pabrik. 工業 berarti industri."
+explanation: "工場 (pabrik) benar. 教室 adalah ruang kelas di sekolah."
+---
+::
+
+::MiniPractice
+---
+question: "Pilih kata untuk arti: alamat tempat tinggal."
+optionA: "住所"
+optionB: "場所"
+correct: "住所"
+explanation: "住所 (alamat) memakai 住 (tinggal). 場所 berarti tempat/lokasi secara umum."
 ---
 ::
 

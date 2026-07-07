@@ -42,7 +42,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: イ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-<p>以 sering muncul pada batas angka atau cakupan.</p><ul>
+<p>以 selalu berpasangan membentuk kata batas: 以下 (ke bawah), 以上 (ke atas), 以内 (dalam batas), 以外 (di luar). Hampir selalu muncul bersama angka atau patokan.</p><ul>
     <li><span class="ruby-word"><ruby>以下<rt>いか</rt></ruby></span> - di bawah/berikut</li>
     <li><span class="ruby-word"><ruby>以上<rt>いじょう</rt></ruby></span> - lebih dari/sekian ke atas</li>
     <li><span class="ruby-word"><ruby>以内<rt>いない</rt></ruby></span> - dalam batas ...</li>
@@ -72,7 +72,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ダイ、タイ</span><span>kunyomi: かわる、かえる</span></span>
     </span>
   </summary>
-<p>代 bisa berarti zaman, biaya, atau menggantikan.</p><ul>
+<p>代 punya tiga makna yang dipilih dari konteks: zaman (時代), biaya/ongkos (バス代), dan pengganti (代わりに). Sebagai akhiran harga dibaca だい.</p><ul>
     <li><span class="ruby-word"><ruby>時代<rt>じだい</rt></ruby></span> - zaman</li>
     <li><span class="ruby-word"><ruby>バス代<rt>バスだい</rt></ruby></span> - ongkos bus</li>
     <li><span class="ruby-word"><ruby>代わりに<rt>かわりに</rt></ruby></span> - sebagai pengganti</li>
@@ -86,7 +86,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ゴウ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-<p>号 muncul pada nomor kamar, edisi, dan sinyal.</p><ul>
+<p>号 dipakai untuk penomoran: 番号 (nomor urut), 102号室 (kamar nomor), dan edisi majalah. Selalu menempel pada angka atau nomor identitas.</p><ul>
     <li><span class="ruby-word"><ruby>番号<rt>ばんごう</rt></ruby></span> - nomor</li>
     <li><span class="ruby-word"><ruby>102号室<rt>ひゃくにごうしつ</rt></ruby></span> - kamar nomor 102</li>
   </ul></details>
@@ -114,7 +114,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ド、タク</span><span>kunyomi: たび</span></span>
     </span>
   </summary>
-<p>度 menunjukkan frekuensi, derajat, atau kesempatan.</p><ul>
+<p>度 menghitung frekuensi (一度 = sekali, 今度 = kali ini/nanti) dan derajat suhu atau sudut. Perhatikan 支度 yang dibaca したく (bersiap-siap), bacaan タク yang khusus.</p><ul>
     <li><span class="ruby-word"><ruby>一度<rt>いちど</rt></ruby></span> - sekali</li>
     <li><span class="ruby-word"><ruby>今度<rt>こんど</rt></ruby></span> - kali ini/lain kali</li>
     <li><span class="ruby-word"><ruby>支度する<rt>したくする</rt></ruby></span> - bersiap-siap</li>
@@ -128,7 +128,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ゼン</span><span>kunyomi: まったく</span></span>
     </span>
   </summary>
-<p>全 memberi rasa keseluruhan atau aman pada kata tertentu.</p><ul>
+<p>全 berarti seluruh atau utuh: 全部 (semua), 安全 (aman/utuh dari bahaya), dan 全然〜ない (sama sekali tidak). Selalu mengarah ke "lengkap tanpa kurang".</p><ul>
     <li><span class="ruby-word"><ruby>全部<rt>ぜんぶ</rt></ruby></span> - semua</li>
     <li><span class="ruby-word"><ruby>安全な<rt>あんぜんな</rt></ruby></span> - aman</li>
     <li><span class="ruby-word"><ruby>全然〜ない<rt>ぜんぜん〜ない</rt></ruby></span> - sama sekali tidak ...</li>
@@ -157,7 +157,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: フク</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-<p>服 berarti pakaian dan muncul pada jenis pakaian.</p><ul>
+<p>服 berarti pakaian dan menjadi akhiran jenis busana: 洋服 (pakaian Barat), 和服 (pakaian Jepang), dan 制服 (seragam).</p><ul>
     <li><span class="ruby-word"><ruby>服<rt>ふく</rt></ruby></span> - pakaian</li>
     <li><span class="ruby-word"><ruby>洋服<rt>ようふく</rt></ruby></span> - pakaian Barat</li>
     <li><span class="ruby-word"><ruby>和服<rt>わふく</rt></ruby></span> - pakaian Jepang</li>
@@ -166,16 +166,21 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 ## Peta Kata
 
-以下, 以上, 以内, dan 室内 berkaitan dengan batas atau bagian dalam. 番号, 交番, 号室, dan 番線 sering muncul di tempat umum. 西洋, 東洋, 洋服, 和服, dan 制服 berkaitan dengan gaya atau pakaian.
+Kanji hari ini adalah "bahan pembentuk kata", jadi kelompokkan menurut fungsinya. **Batas dan cakupan:** 以下, 以上, 以内, 以外 memakai 以 dengan angka; 内 juga membentuk 室内 (dalam ruang). **Nomor dan urutan:** 番号 (nomor), 交番 (pos polisi), 号室 (nomor kamar), dan 番線 (jalur peron) muncul di tempat umum. **Frekuensi:** 一度 dan 今度 memakai 度. **Keseluruhan:** 全部 dan 安全 memakai 全. **Pakaian dan gaya:** 西洋 dan 東洋 menandai arah budaya, lalu 洋服 (Barat) berpasangan dengan 和服 (Jepang). Alurnya: dari batas angka → nomor → jumlah utuh → jenis pakaian.
 
 ## Catatan Pemakaian
 
-Untuk angka dan batas, cari 以, 号, 番, dan 度. Untuk ruang, cari 内. Untuk keseluruhan atau keamanan, cari 全. Untuk pakaian dan gaya Barat/Jepang, cari 洋 dan 服.
+- **Batas dan cakupan:** 以 pada 以下/以上/以内/以外; 内 pada 室内 dan 内側.
+- **Nomor dan urutan:** 号 pada 番号 dan 号室; 番 pada 交番, 番線, dan giliran.
+- **Frekuensi dan derajat:** 度 pada 一度 (sekali), 今度 (lain kali), dan derajat suhu.
+- **Zaman dan biaya:** 代 pada 時代 (zaman), バス代 (ongkos), 代わりに (pengganti).
+- **Keseluruhan dan keamanan:** 全 pada 全部 (semua) dan 安全 (aman).
+- **Pakaian dan gaya:** 洋 pada 西洋/東洋/洋服; 服 pada 洋服, 和服, 制服.
 
 ## Contoh Kalimat
 
 <div class="example-list">
-  <div><p class="jp">102号室は三階以内にあります。</p><p>Ruang 102 berada paling jauh di lantai tiga.</p></div>
+  <div><p class="jp">この映画は18歳以上が見られます。</p><p>Film ini boleh ditonton usia 18 tahun ke atas.</p></div>
   <div><p class="jp">交番で電話番号を聞きました。</p><p>Saya menanyakan nomor telepon di pos polisi.</p></div>
   <div><p class="jp">今度、洋服を買いに行きます。</p><p>Lain kali saya akan pergi membeli pakaian Barat.</p></div>
   <div><p class="jp">室内では安全に注意します。</p><p>Di dalam ruangan, saya memperhatikan keselamatan.</p></div>
@@ -184,11 +189,13 @@ Untuk angka dan batas, cari 以, 号, 番, dan 度. Untuk ruang, cari 内. Untuk
 
 ## Hal yang Mudah Tertukar
 
-番号 adalah nomor, sedangkan 交番 adalah pos polisi. Keduanya memakai 番, tetapi kanji pertama menentukan konteksnya.
+- **以上 vs 以下 vs 以内** — ketiganya memakai 以 dengan angka, tetapi arahnya beda: 上 (atas) → "sekian ke atas", 下 (bawah) → "sekian ke bawah", 内 (dalam) → "dalam batas/tidak lebih dari". Lihat kanji kedua untuk tahu arah batasnya.
+- **番号 vs 交番** — sama-sama memakai 番, tetapi kanji pengiringnya menentukan: 号 (nomor) → 番号 (nomor urut), 交 (silang/jaga) → 交番 (pos polisi). Kalau soal deretan angka pilih 番号, kalau soal tempat petugas pilih 交番.
+- **洋服 vs 和服** — dua-duanya berakhiran 服 (pakaian). 洋 (Barat) → busana Barat sehari-hari, 和 (Jepang) → kimono/busana tradisional. Kanji pertama menentukan gaya pakaiannya.
 
 ## Kesalahan Umum
 
-以内, 以下, dan 以上 sering muncul dengan angka. Jangan menerjemahkan 以 sendiri; baca kata batasnya sebagai satu unit.
+Kata batas dengan 以 tidak bisa diterjemahkan per kanji; baca 以上/以下/以内/以外 sebagai satu unit yang sudah bermakna tetap dan selalu dipasangkan dengan angka atau patokan. Contoh: "18歳以上" berarti "18 tahun ke atas", bukan "18 + tahun + di atas". Strateginya: begitu melihat 以, cari angka atau kata patokan di depannya lalu baca seluruh frasa sekaligus.
 
 ## Mini Practice
 
@@ -196,51 +203,52 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti dalam batas?"
+question: "以 selalu dipakai dengan angka. Mana yang berarti 'dalam batas / tidak lebih dari'?"
 optionA: "以内"
 optionB: "以上"
 correct: "以内"
-explanation: "以内 berarti dalam batas. 以上 berarti sekian ke atas atau lebih dari."
+explanation: "以内 (内 = dalam) berarti dalam batas. 以上 (上 = atas) berarti sekian ke atas."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti nomor?"
-optionA: "番号"
-optionB: "交番"
-correct: "番号"
-explanation: "番号 berarti nomor. 交番 berarti pos polisi."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti kali ini/lain kali?"
-optionA: "今度"
-optionB: "一度"
-correct: "今度"
-explanation: "今度 berarti kali ini atau lain kali. 一度 berarti sekali."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti aman?"
-optionA: "安全"
-optionB: "全部"
-correct: "安全"
-explanation: "安全 berarti aman. 全部 berarti semua."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti pakaian Barat?"
+question: "Pilih kata untuk arti: pakaian Barat sehari-hari."
 optionA: "洋服"
 optionB: "和服"
 correct: "洋服"
-explanation: "洋服 berarti pakaian Barat. 和服 berarti pakaian Jepang."
+explanation: "洋服 memakai 洋 (Barat). 和服 memakai 和 (Jepang) dan berarti busana tradisional."
+---
+::
+
+::MiniPractice
+---
+question: "番号 dan 交番 sama-sama memakai 番. Mana yang berarti pos polisi?"
+optionA: "交番"
+optionB: "番号"
+correct: "交番"
+explanation: "交番 (交 = jaga) adalah pos polisi. 番号 (号 = nomor) berarti nomor urut."
+---
+::
+
+::MiniPractice
+---
+question: "Kamu berencana beli baju nanti, bukan sekarang, dan bukan cuma satu kali. Kata mana yang tepat?"
+optionA: "今度"
+optionB: "一度"
+correct: "今度"
+explanation: "今度 berarti lain kali/nanti. 一度 berarti sekali saja."
+---
+::
+
+::MiniPractice
+---
+question: "Saya memasukkan semua pakaian ke dalam tas."
+sentence: "____の服をかばんに入れました。"
+optionA: "全部"
+optionB: "安全"
+correct: "全部"
+explanation: "全部 (semua) benar. 安全 juga memakai 全, tetapi berarti aman."
 ---
 ::
 

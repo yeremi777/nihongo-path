@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Mengenali kanji 取、押、引、開、閉、dan 止 pada tanda di gedung, pintu, tombol, dan instruksi keselamatan.
+Hari penutup minggu ini mengenalkan enam kanji tambahan: 取、押、引、開、閉、dan 止. Keenamnya muncul di kata sehari-hari pada tanda di gedung, pintu, tombol, dan instruksi keselamatan.
 
 Di akhir pelajaran ini, kamu bisa membaca kata seperti 取替, 押入れ, 引出し, 開店, 閉店, 中止, 禁止, dan 停止.
 
@@ -42,7 +42,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: シュ</span><span>kunyomi: とる</span></span>
     </span>
   </summary>
-<p>取 muncul pada tindakan mengambil, menerima, atau mengganti.</p><ul>
+<p>取 dipakai untuk mengambil atau menerima: 取る (mengambil), 取り替える (menukar), 受取 (tanda terima). Radikal telinga 耳 + tangan 又 (tangan meraih).</p><ul>
     <li><span class="ruby-word"><ruby>取る<rt>とる</rt></ruby></span> - mengambil</li>
     <li><span class="ruby-word"><ruby>取り替える<rt>とりかえる</rt></ruby></span> - menukar, mengganti</li>
     <li><span class="ruby-word"><ruby>受取<rt>うけとり</rt></ruby></span> - penerimaan</li>
@@ -56,10 +56,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: オウ</span><span>kunyomi: おす、おさえる</span></span>
     </span>
   </summary>
-<p>押 sering muncul pada tombol atau instruksi untuk mendorong/menekan.</p><ul>
-    <li><span class="ruby-word"><ruby>押す<rt>おす</rt></ruby></span> - menekan</li>
-    <li><span class="ruby-word"><ruby>押し入れ<rt>おしいれ</rt></ruby></span> - lemari penyimpanan</li>
-    <li><span class="ruby-word"><ruby>押入れ<rt>おしいれ</rt></ruby></span> - lemari dinding</li>
+<p>押 muncul pada tombol dan pintu dengan instruksi 押す (dorong), lawan dari 引く (tarik) di sisi pintu yang lain. Kunyomi おす/おさえる.</p><ul>
+    <li><span class="ruby-word"><ruby>押す<rt>おす</rt></ruby></span> - menekan, mendorong</li>
+    <li><span class="ruby-word"><ruby>押し入れ<rt>おしいれ</rt></ruby></span> - lemari dinding</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -70,10 +69,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: イン</span><span>kunyomi: ひく、ひける</span></span>
     </span>
   </summary>
-<p>引 berarti menarik, tetapi juga muncul pada laci dan diskon.</p><ul>
+<p>引 berarti menarik (引く), pasangan dari 押 di pintu. Maknanya meluas ke 引き出し (laci yang ditarik) dan 割引 (potongan/diskon harga).</p><ul>
     <li><span class="ruby-word"><ruby>引く<rt>ひく</rt></ruby></span> - menarik</li>
     <li><span class="ruby-word"><ruby>引き出し<rt>ひきだし</rt></ruby></span> - laci</li>
-    <li><span class="ruby-word"><ruby>引出し<rt>ひきだし</rt></ruby></span> - laci</li>
     <li><span class="ruby-word"><ruby>割引<rt>わりびき</rt></ruby></span> - diskon</li>
   </ul></details>
 
@@ -85,10 +83,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: カイ</span><span>kunyomi: あく、あける、ひらく</span></span>
     </span>
   </summary>
-<p>開 muncul pada pintu, toko buka, dan kegiatan dimulai.</p><ul>
-    <li><span class="ruby-word"><ruby>開く<rt>ひらく</rt></ruby></span> - terbuka, membuka</li>
-    <li><span class="ruby-word"><ruby>開ける<rt>あける</rt></ruby></span> - membuka</li>
-    <li><span class="ruby-word"><ruby>ファイルを開く<rt>ファイルをひらく</rt></ruby></span> - membuka berkas</li>
+<p>開 punya pasangan bacaan penting: 開く (あく, terbuka sendiri) vs 開ける (あける, seseorang membukanya). Pada tanda toko dibaca カイ (開店 = buka).</p><ul>
+    <li><span class="ruby-word"><ruby>開く<rt>あく</rt></ruby></span> - terbuka (dengan sendirinya)</li>
+    <li><span class="ruby-word"><ruby>開ける<rt>あける</rt></ruby></span> - membuka (sesuatu)</li>
     <li><span class="ruby-word"><ruby>開店<rt>かいてん</rt></ruby></span> - toko buka</li>
     <li><span class="ruby-word"><ruby>開始<rt>かいし</rt></ruby></span> - mulai</li>
   </ul></details>
@@ -101,10 +98,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ヘイ</span><span>kunyomi: しまる、しめる、とじる</span></span>
     </span>
   </summary>
-<p>閉 muncul pada pintu tertutup, toko tutup, dan penutupan.</p><ul>
-    <li><span class="ruby-word"><ruby>閉まる<rt>しまる</rt></ruby></span> - tertutup</li>
-    <li><span class="ruby-word"><ruby>閉める<rt>しめる</rt></ruby></span> - menutup</li>
-    <li><span class="ruby-word"><ruby>ドアが閉まる<rt>ドアがしまる</rt></ruby></span> - pintu tertutup</li>
+<p>閉 adalah lawan dari 開, dengan pasangan bacaan serupa: 閉まる (しまる, tertutup sendiri) vs 閉める (しめる, seseorang menutupnya). Pada tanda toko dibaca ヘイ (閉店 = tutup).</p><ul>
+    <li><span class="ruby-word"><ruby>閉まる<rt>しまる</rt></ruby></span> - tertutup (dengan sendirinya)</li>
+    <li><span class="ruby-word"><ruby>閉める<rt>しめる</rt></ruby></span> - menutup (sesuatu)</li>
     <li><span class="ruby-word"><ruby>閉店<rt>へいてん</rt></ruby></span> - toko tutup</li>
   </ul></details>
 
@@ -116,7 +112,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: シ</span><span>kunyomi: とまる、とめる</span></span>
     </span>
   </summary>
-<p>止 muncul pada larangan, pembatalan, dan penghentian layanan.</p><ul>
+<p>止 memakai pasangan 止まる (とまる, berhenti sendiri) vs 止める (とめる, menghentikan sesuatu). Pada tanda dibaca シ: 中止 (batal), 禁止 (dilarang), 停止 (berhenti).</p><ul>
     <li><span class="ruby-word"><ruby>中止する<rt>ちゅうしする</rt></ruby></span> - membatalkan, menghentikan</li>
     <li><span class="ruby-word"><ruby>使用中止<rt>しようちゅうし</rt></ruby></span> - penggunaan dihentikan</li>
     <li><span class="ruby-word"><ruby>止まる<rt>とまる</rt></ruby></span> - berhenti</li>
@@ -127,11 +123,15 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 ## Peta Kata
 
-押入れ dan 引出し adalah benda di dalam ruangan. 開店 dan 閉店 adalah status toko. 中止, 禁止, dan 停止 sering muncul pada pengumuman atau papan peringatan.
+Semua kanji hari ini muncul sebagai tanda di gedung, jadi kelompokkan menurut jenis tandanya. **Instruksi di pintu:** 押す (dorong) ↔ 引く (tarik) tertulis di daun pintu; 開ける ↔ 閉める untuk membuka/menutup. **Status toko:** 開店 (buka) ↔ 閉店 (tutup) di papan depan. **Larangan dan penghentian:** 中止 (dibatalkan), 禁止 (dilarang), 停止 (dihentikan) di pengumuman. **Furnitur dan aksi:** 押入れ (lemari dinding) dan 引き出し (laci) memakai 押/引, sedangkan 取り替える dan 割引 memakai 取/引 untuk aksi mengambil dan memotong harga. Perhatikan tiap pasangan berlawanan: 押↔引, 開↔閉.
 
 ## Catatan Pemakaian
 
-Untuk instruksi pintu, cari 押, 引, 開, dan 閉. Untuk pengumuman peringatan, cari 止. Untuk penggantian atau pengambilan, cari 取.
+- **Instruksi pintu:** 押 (dorong) ↔ 引 (tarik); 開 (buka) ↔ 閉 (tutup).
+- **Status buka-tutup:** 開店/閉店 untuk toko, 開始 untuk mulai kegiatan.
+- **Larangan dan berhenti:** 止 pada 中止 (batal), 禁止 (larangan), 停止 (penghentian).
+- **Furnitur:** 押入れ (lemari dinding), 引き出し (laci).
+- **Aksi mengambil/harga:** 取る dan 取り替える (mengambil/menukar), 割引 (diskon).
 
 ## Contoh Kalimat
 
@@ -145,11 +145,13 @@ Untuk instruksi pintu, cari 押, 引, 開, dan 閉. Untuk pengumuman peringatan,
 
 ## Hal yang Mudah Tertukar
 
-開店 dan 閉店 adalah lawan kata. 開 berarti buka, 閉 berarti tutup. Cek kanji pertama sebelum membaca papan toko.
+- **開店 vs 閉店** — kedua papan toko ini hanya beda kanji pertama: 開 (buka) vs 閉 (tutup). Bentuknya pun mirip karena sama-sama berbingkai pintu 門. Lihat isi di dalam bingkai: 開 ada 开, 閉 ada 才.
+- **押 vs 引** — di pintu kaca, 押 berarti dorong dan 引 berarti tarik. Aturan praktis: 押 (お**す**) mendorong menjauh, 引 (ひ**く**) menarik mendekat. Salah baca berarti salah arah membuka pintu.
+- **禁止 vs 中止 vs 停止** — ketiganya berakhiran 止 (berhenti), tetapi kanji depan menentukan: 禁 (melarang) → 禁止 (dilarang selamanya), 中 (tengah) → 中止 (acara dibatalkan), 停 (berhenti sejenak) → 停止 (dihentikan sementara).
 
 ## Kesalahan Umum
 
-禁止 dan 中止 sama-sama memakai 止, tetapi 禁止 adalah larangan, sedangkan 中止 adalah pembatalan atau penghentian acara.
+Jangan tertukar antara bacaan "berhenti sendiri" dan "menghentikan sesuatu". Kanji buka-tutup-berhenti punya pasangan intransitif/transitif: 開く/開ける, 閉まる/閉める, 止まる/止める. Yang berakhiran -aru berarti terjadi sendiri (ドアが閉まる = pintu tertutup), yang berakhiran -eru berarti ada pelakunya (ドアを閉める = menutup pintu). Strateginya: cek apakah ada partikel を (ada pelaku → -eru) atau が (terjadi sendiri → -aru).
 
 ## Mini Practice
 
@@ -157,51 +159,52 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti lemari dinding?"
+question: "Pilih kata untuk arti: lemari dinding tempat menyimpan futon."
 optionA: "押入れ"
-optionB: "引出し"
+optionB: "引き出し"
 correct: "押入れ"
-explanation: "押入れ adalah lemari dinding. 引出し adalah laci."
+explanation: "押入れ memakai 押 (dorong). 引き出し memakai 引 (tarik) dan berarti laci."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti toko buka?"
-optionA: "開店"
-optionB: "閉店"
-correct: "開店"
-explanation: "開店 berarti toko buka. 閉店 berarti toko tutup."
+question: "Papan di depan toko menandakan toko sudah selesai melayani hari ini. Kata apa yang tertulis?"
+optionA: "閉店"
+optionB: "開店"
+correct: "閉店"
+explanation: "閉店 (tutup) memakai 閉. 開店 memakai 開 dan berarti toko buka."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti larangan?"
+question: "禁止, 中止, dan 停止 sama-sama memakai 止. Mana yang berarti 'dilarang'?"
 optionA: "禁止"
-optionB: "中止"
+optionB: "停止"
 correct: "禁止"
-explanation: "禁止 berarti larangan. 中止 berarti pembatalan."
+explanation: "禁止 (禁 = melarang) berarti dilarang. 停止 berarti dihentikan sementara."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti penghentian?"
-optionA: "停止"
+question: "Acara dibatalkan karena hujan."
+sentence: "雨でイベントは____です。"
+optionA: "中止"
 optionB: "開始"
-correct: "停止"
-explanation: "停止 berarti penghentian. 開始 berarti mulai."
+correct: "中止"
+explanation: "中止 (dibatalkan) benar. 開始 justru berarti mulai."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti diskon?"
+question: "Pilih kata untuk arti: potongan harga."
 optionA: "割引"
 optionB: "受取"
 correct: "割引"
-explanation: "割引 berarti diskon. 受取 berarti penerimaan."
+explanation: "割引 (diskon) memakai 引. 受取 berarti tanda terima/penerimaan."
 ---
 ::
 

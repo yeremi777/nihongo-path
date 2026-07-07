@@ -42,7 +42,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ダイ、タイ</span><span>kunyomi: おおきい</span></span>
     </span>
   </summary>
-<p>大 muncul pada ukuran besar dan nama institusi.</p><ul>
+<p>大 dibaca だい pada 大学, tetapi punya bacaan khusus おとな pada 大人. Bentuknya tanpa titik sama sekali, jadi inilah patokan untuk membedakannya dari 犬 dan 太.</p><ul>
     <li><span class="ruby-word"><ruby>大きい<rt>おおきい</rt></ruby></span> - besar</li>
     <li><span class="ruby-word"><ruby>大学<rt>だいがく</rt></ruby></span> - universitas</li>
     <li><span class="ruby-word"><ruby>大人<rt>おとな</rt></ruby></span> - orang dewasa</li>
@@ -56,7 +56,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ケン</span><span>kunyomi: いぬ</span></span>
     </span>
   </summary>
-<p>犬 mirip 大, tetapi ada titik kecil yang mengubah makna.</p><ul>
+<p>犬 sama persis dengan 大 tetapi diberi titik di kanan atas; titik kecil itulah satu-satunya pembeda antara "besar" dan "anjing".</p><ul>
     <li><span class="ruby-word"><ruby>犬<rt>いぬ</rt></ruby></span> - anjing</li>
   </ul></details>
 
@@ -68,7 +68,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: タイ、タ</span><span>kunyomi: ふとい、ふとる</span></span>
     </span>
   </summary>
-<p>太 mirip 大, tetapi titik di bawah sering muncul pada kata seperti matahari.</p><ul>
+<p>太 menaruh titiknya di bawah tengah, bukan di kanan atas seperti 犬. Artinya tebal atau gemuk (太い, 太る), dan muncul pada 太陽 (matahari).</p><ul>
     <li><span class="ruby-word"><ruby>太い<rt>ふとい</rt></ruby></span> - tebal, besar</li>
     <li><span class="ruby-word"><ruby>太る<rt>ふとる</rt></ruby></span> - menjadi gemuk</li>
     <li><span class="ruby-word"><ruby>太陽<rt>たいよう</rt></ruby></span> - matahari</li>
@@ -108,7 +108,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: チ</span><span>kunyomi: しる、しらせる</span></span>
     </span>
   </summary>
-<p>知 muncul pada pengetahuan dan orang yang dikenal.</p><ul>
+<p>知 berkaitan dengan mengetahui dan memberitahukan: 知る (tahu), 知らせる (memberi tahu), dan 知人 (kenalan). Sisi kirinya 矢 (panah), sisi kanannya 口 (mulut).</p><ul>
     <li><span class="ruby-word"><ruby>知る<rt>しる</rt></ruby></span> - tahu</li>
     <li><span class="ruby-word"><ruby>知らせる<rt>しらせる</rt></ruby></span> - memberi tahu</li>
     <li><span class="ruby-word"><ruby>知人<rt>ちじん</rt></ruby></span> - kenalan</li>
@@ -122,7 +122,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ワ</span><span>kunyomi: やわらぐ、なごむ</span></span>
     </span>
   </summary>
-<p>和 sering menunjuk gaya Jepang atau keadaan damai.</p><ul>
+<p>和 menandai gaya Jepang pada 和室 dan 和菓子, tetapi berarti damai/harmoni pada 平和. Satu kanji dengan dua nuansa yang dipilih dari konteksnya.</p><ul>
     <li><span class="ruby-word"><ruby>和室<rt>わしつ</rt></ruby></span> - ruang gaya Jepang</li>
     <li><span class="ruby-word"><ruby>和菓子<rt>わがし</rt></ruby></span> - kue tradisional Jepang</li>
     <li><span class="ruby-word"><ruby>平和<rt>へいわ</rt></ruby></span> - damai</li>
@@ -149,7 +149,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: セイ、ショウ</span><span>kunyomi: あお、あおい</span></span>
     </span>
   </summary>
-<p>青 dipakai untuk warna biru atau hijau kebiruan.</p><ul>
+<p>青 dipakai untuk warna biru, termasuk lampu lalu lintas "hijau" yang di Jepang justru disebut 青. Muncul pada 青空 (langit biru) dan sifat 青い.</p><ul>
     <li><span class="ruby-word"><ruby>青<rt>あお</rt></ruby></span> - biru/hijau lampu</li>
     <li><span class="ruby-word"><ruby>青い<rt>あおい</rt></ruby></span> - biru</li>
     <li><span class="ruby-word"><ruby>青空<rt>あおぞら</rt></ruby></span> - langit biru</li>
@@ -176,7 +176,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: チ</span><span>kunyomi: いけ</span></span>
     </span>
   </summary>
-<p>池 berarti kolam, tetapi dalam 電池 berarti baterai.</p><ul>
+<p>池 berarti kolam dan bersisi air 氵 di kiri, tetapi pada 電池 maknanya bergeser jadi baterai. Bedakan dari 地 (bersisi tanah 土) yang sangat mirip di bagian kanannya.</p><ul>
     <li><span class="ruby-word"><ruby>電池<rt>でんち</rt></ruby></span> - baterai</li>
     <li><span class="ruby-word"><ruby>池<rt>いけ</rt></ruby></span> - kolam</li>
   </ul></details>
@@ -189,7 +189,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ベツ</span><span>kunyomi: わかれる</span></span>
     </span>
   </summary>
-<p>別 menunjukkan hal lain, pemisahan, atau sesuatu yang khusus.</p><ul>
+<p>別 menunjukkan hal lain (別の), pemisahan (別れる), atau sesuatu yang khusus (特別). Baca kata pengiringnya untuk memilih nuansa yang tepat.</p><ul>
     <li><span class="ruby-word"><ruby>別の<rt>べつの</rt></ruby></span> - yang lain, berbeda</li>
     <li><span class="ruby-word"><ruby>特別な<rt>とくべつな</rt></ruby></span> - khusus, istimewa</li>
     <li><span class="ruby-word"><ruby>別れる<rt>わかれる</rt></ruby></span> - berpisah</li>
@@ -199,11 +199,15 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 ## Peta Kata
 
-大学, 大人, 犬小屋, dan 太陽 membantu membedakan bentuk 大, 犬, dan 太. 和室, 家族, 水族館, 青空, 日光, 電池, dan 特別 adalah kata benda harian yang perlu dibaca sebagai satu unit.
+Kanji hari ini tidak membentuk satu adegan, jadi kelompokkan menurut fungsinya. **Trio bentuk mirip:** 大学 dan 大人 (大), 犬 (anjing), 太陽 dan 太い (太) — bedanya hanya letak titik. **Pikiran dan ingatan:** 思い出 (kenangan) dan 知人 (kenalan) sama-sama soal isi kepala. **Rumah dan keluarga:** 和室 adalah ruang gaya Jepang tempat 家族 berkumpul; 水族館 memakai 族 juga. **Warna dan cahaya:** 青空 (langit biru) memantulkan 光 (cahaya). **Benda sehari-hari:** 電池 (baterai) dan 特別 (istimewa) muncul di percakapan biasa.
 
 ## Catatan Pemakaian
 
-Untuk bentuk mirip, jangan lihat garis besar saja. Cek titik pada 犬 dan 太. Untuk konteks keluarga atau kelompok, cari 族. Untuk warna dan cahaya, cari 青 dan 光.
+- **Bentuk mirip (patokan titik):** 大 tanpa titik, 犬 titik di kanan atas, 太 titik di bawah tengah — cek titiknya dulu sebelum membaca.
+- **Pikiran dan tahu:** 思 untuk merasa/mengingat (思い出す), 知 untuk mengetahui/memberi tahu (知らせる).
+- **Orang dan kelompok:** 族 menandai kumpulan orang di 家族 dan 水族館.
+- **Warna dan cahaya:** 青 untuk biru (termasuk lampu hijau), 光 untuk cahaya dan bersinar.
+- **Benda dan sifat:** 池 pada 電池 (baterai), 別 pada 特別 (istimewa) dan 別れる (berpisah).
 
 ## Contoh Kalimat
 
@@ -217,11 +221,13 @@ Untuk bentuk mirip, jangan lihat garis besar saja. Cek titik pada 犬 dan 太. U
 
 ## Hal yang Mudah Tertukar
 
-大, 犬, dan 太 sangat mirip. 大 tidak punya titik, 犬 punya titik di kanan atas, dan 太 punya titik di bawah.
+- **大 vs 犬 vs 太** — ketiganya berbagi rangka 大. Aturannya dari letak titik: tanpa titik = 大 (besar), titik di kanan atas = 犬 (anjing), titik di bawah tengah = 太 (tebal). Baca titiknya lebih dulu, jangan tebak dari siluet.
+- **池 vs 地** — sisi kanannya sama, tetapi sisi kirinya berbeda: 池 bersisi air 氵 (kolam, dan baterai pada 電池), 地 bersisi tanah 土 (tanah, tempat). Kalau kalimatnya tentang air atau listrik pilih 池, kalau tentang tempat pilih 地.
+- **和室 vs 家族** — dua-duanya kata rumah tangga, tetapi 和室 adalah ruangan bergaya Jepang, sedangkan 家族 adalah anggota keluarganya. 室 (ruang) vs 族 (kelompok orang) jadi penentu.
 
 ## Kesalahan Umum
 
-Jangan membaca 電池 sebagai kolam listrik secara harfiah. 電池 adalah kata tetap untuk baterai.
+Jangan menerjemahkan kata majemuk kata demi kata. 電池 secara harfiah "kolam listrik", tetapi maknanya sudah tetap: baterai. Begitu pula 大人 tidak dibaca だいじん melainkan おとな (orang dewasa). Strateginya: perlakukan gabungan seperti 電池 dan 大人 sebagai satu kata yang bacaannya dihafal utuh.
 
 ## Mini Practice
 
@@ -229,51 +235,52 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti universitas?"
-optionA: "大学"
-optionB: "太陽"
-correct: "大学"
-explanation: "大学 berarti universitas. 太陽 berarti matahari."
+question: "Kanji 大, 犬, dan 太 mirip. Kata mana yang memakai 太 (titik di bawah, arti tebal/gemuk)?"
+optionA: "太陽"
+optionB: "大学"
+correct: "太陽"
+explanation: "太陽 (matahari) memakai 太. 大学 memakai 大 tanpa titik."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti kenangan?"
+question: "Pilih kata untuk arti: kenangan."
 optionA: "思い出"
 optionB: "知人"
 correct: "思い出"
-explanation: "思い出 berarti kenangan. 知人 berarti kenalan."
+explanation: "思い出 (kenangan) memakai 思 (merasa/mengingat). 知人 memakai 知 dan berarti kenalan."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti ruang gaya Jepang?"
+question: "Kamu menginap di kamar bertatami bergaya Jepang. Kamar itu disebut apa?"
 optionA: "和室"
 optionB: "家族"
 correct: "和室"
-explanation: "和室 berarti ruang gaya Jepang. 家族 berarti keluarga."
+explanation: "和室 (ruang gaya Jepang) benar; 室 berarti ruangan. 家族 berarti anggota keluarga."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti baterai?"
-optionA: "電池"
-optionB: "青空"
-correct: "電池"
-explanation: "電池 berarti baterai. 青空 berarti langit biru."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti spesial?"
+question: "Hari ini adalah kenangan yang istimewa."
+sentence: "この日は____な思い出です。"
 optionA: "特別"
 optionB: "平和"
 correct: "特別"
-explanation: "特別 berarti spesial. 平和 berarti damai."
+explanation: "特別 (istimewa) benar. 平和 juga memakai bacaan tenang, tetapi artinya damai."
+---
+::
+
+::MiniPractice
+---
+question: "Remote-mu mati dan perlu diganti sumber dayanya. Apa yang kamu ganti?"
+optionA: "電池"
+optionB: "青空"
+correct: "電池"
+explanation: "電池 (baterai) memakai 池 dengan sisi air 氵. 青空 berarti langit biru."
 ---
 ::
 

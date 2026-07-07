@@ -42,7 +42,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: チョウ</span><span>kunyomi: あさ</span></span>
     </span>
   </summary>
-<p>朝 menunjuk pagi dan sering muncul pada jadwal makan.</p><ul>
+<p>朝 dibaca チョウ (朝食) dan あさ, menunjuk pagi. Perhatikan 今朝 yang dibaca けさ — bacaan khusus, bukan いまあさ.</p><ul>
     <li><span class="ruby-word"><ruby>朝食<rt>ちょうしょく</rt></ruby></span> - sarapan</li>
     <li><span class="ruby-word"><ruby>今朝<rt>けさ</rt></ruby></span> - pagi ini</li>
   </ul></details>
@@ -55,7 +55,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: チュウ</span><span>kunyomi: ひる</span></span>
     </span>
   </summary>
-<p>昼 dipakai untuk tengah hari dan waktu makan siang.</p><ul>
+<p>昼 dibaca チュウ (昼食) dan ひる, menunjuk tengah hari dan waktu makan siang. 昼間 berarti "siang hari" atau saat matahari masih ada.</p><ul>
     <li><span class="ruby-word"><ruby>昼食<rt>ちゅうしょく</rt></ruby></span> - makan siang</li>
     <li><span class="ruby-word"><ruby>昼<rt>ひる</rt></ruby></span> - siang</li>
     <li><span class="ruby-word"><ruby>昼間<rt>ひるま</rt></ruby></span> - siang hari</li>
@@ -69,7 +69,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: シュン</span><span>kunyomi: はる</span></span>
     </span>
   </summary>
-<p>Saat membaca kalender sekolah Jepang, 春 membantu mengenali musim semi, libur, dan istilah awal tahun.</p><ul>
+<p>春 dibaca シュン dan はる. Di kalender sekolah Jepang muncul pada 春休み (libur musim semi) dan penanda awal tahun ajaran.</p><ul>
     <li><span class="ruby-word"><ruby>春<rt>はる</rt></ruby></span> - musim semi</li>
     <li><span class="ruby-word"><ruby>春休み<rt>はるやすみ</rt></ruby></span> - libur musim semi</li>
   </ul></details>
@@ -82,7 +82,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: カ、ゲ</span><span>kunyomi: なつ</span></span>
     </span>
   </summary>
-<p>夏 biasanya muncul di pengumuman sekolah, kalender, dan rencana perjalanan yang berkaitan dengan musim panas.</p><ul>
+<p>夏 dibaca なつ (juga カ/ゲ) untuk musim panas. Paling sering kamu temui di 夏休み pada pengumuman sekolah dan rencana liburan.</p><ul>
     <li><span class="ruby-word"><ruby>夏<rt>なつ</rt></ruby></span> - musim panas</li>
     <li><span class="ruby-word"><ruby>夏休み<rt>なつやすみ</rt></ruby></span> - libur musim panas</li>
   </ul></details>
@@ -95,7 +95,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: シュウ</span><span>kunyomi: あき</span></span>
     </span>
   </summary>
-<p>秋 menunjuk musim gugur dan sering muncul di kalender.</p><ul>
+<p>秋 dibaca シュウ dan あき, menunjuk musim gugur. Bersisi 禾 (padi) karena musim panen, sering muncul di kalender dan acara musiman.</p><ul>
     <li><span class="ruby-word"><ruby>秋<rt>あき</rt></ruby></span> - musim gugur</li>
   </ul></details>
 
@@ -107,7 +107,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: トウ</span><span>kunyomi: ふゆ</span></span>
     </span>
   </summary>
-<p>冬 sering muncul pada liburan dan musim dingin.</p><ul>
+<p>冬 dibaca トウ dan ふゆ untuk musim dingin, sering pada 冬休み. Dengan ini lengkap empat musim: 春・夏・秋・冬.</p><ul>
     <li><span class="ruby-word"><ruby>冬<rt>ふゆ</rt></ruby></span> - musim dingin</li>
     <li><span class="ruby-word"><ruby>冬休み<rt>ふゆやすみ</rt></ruby></span> - libur musim dingin</li>
   </ul></details>
@@ -120,7 +120,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: キョウ、ケイ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-<p>京 muncul dalam nama kota besar seperti Kyoto dan Tokyo.</p><ul>
+<p>京 dibaca キョウ/ケイ dan muncul di nama kota besar: 京都 (Kyoto), 東京 (Tokyo). Ia unsur pembentuk nama, jarang berdiri sendiri.</p><ul>
     <li><span class="ruby-word"><ruby>京都<rt>きょうと</rt></ruby></span> - Kyoto</li>
     <li><span class="ruby-word"><ruby>東京<rt>とうきょう</rt></ruby></span> - Tokyo</li>
   </ul></details>
@@ -133,7 +133,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ト、ツ</span><span>kunyomi: みやこ</span></span>
     </span>
   </summary>
-<p>都 dipakai untuk wilayah metropolitan, ibu kota, dan juga kata seperti 都合.</p><ul>
+<p>都 dibaca ト (東京都) dan ツ (都合), berarti wilayah metropolitan atau ibu kota. 東京都 adalah satu-satunya wilayah ber-都 di Jepang.</p><ul>
     <li><span class="ruby-word"><ruby>都<rt>と</rt></ruby></span> - wilayah metropolitan, ibu kota</li>
     <li><span class="ruby-word"><ruby>東京都<rt>とうきょうと</rt></ruby></span> - wilayah metropolitan Tokyo</li>
     <li><span class="ruby-word"><ruby>都合がいい<rt>つごうがいい</rt></ruby></span> - kondisinya cocok</li>
@@ -147,7 +147,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: フ</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-<p>府 muncul pada nama prefektur khusus seperti Osaka dan Kyoto.</p><ul>
+<p>府 dibaca フ dan hanya dipakai untuk dua wilayah khusus: 大阪府 dan 京都府. Ia bagian dari urutan resmi 都道府県.</p><ul>
     <li><span class="ruby-word"><ruby>都道府県<rt>とどうふけん</rt></ruby></span> - prefektur Jepang</li>
     <li><span class="ruby-word"><ruby>京都府<rt>きょうとふ</rt></ruby></span> - Prefektur Kyoto</li>
   </ul></details>
@@ -160,7 +160,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ケン</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-<p>県 adalah penanda prefektur biasa di alamat Jepang.</p><ul>
+<p>県 dibaca ケン, penanda prefektur biasa di alamat Jepang: 青森県, 県庁 (kantor prefektur), 県民 (warganya). Paling banyak jumlahnya di antara wilayah Jepang.</p><ul>
     <li><span class="ruby-word"><ruby>県<rt>けん</rt></ruby></span> - prefektur</li>
     <li><span class="ruby-word"><ruby>青森県<rt>あおもりけん</rt></ruby></span> - Prefektur Aomori</li>
     <li><span class="ruby-word"><ruby>県庁<rt>けんちょう</rt></ruby></span> - kantor prefektur</li>
@@ -175,7 +175,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: シ</span><span>kunyomi: いち</span></span>
     </span>
   </summary>
-<p>市 muncul pada kota, warga kota, dan kantor kota.</p><ul>
+<p>市 dibaca シ (市民、市役所) dan いち, menunjuk kota dalam sistem alamat. 市役所 adalah balai kota tempat mengurus dokumen warga.</p><ul>
     <li><span class="ruby-word"><ruby>市民<rt>しみん</rt></ruby></span> - warga kota</li>
     <li><span class="ruby-word"><ruby>市<rt>し</rt></ruby></span> - kota</li>
     <li><span class="ruby-word"><ruby>市役所<rt>しやくしょ</rt></ruby></span> - kantor kota</li>
@@ -189,7 +189,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: チョウ</span><span>kunyomi: まち</span></span>
     </span>
   </summary>
-<p>町 menunjuk kota kecil, distrik, atau lingkungan.</p><ul>
+<p>町 dibaca チョウ dan まち, menunjuk kota kecil atau kawasan — unit terkecil setelah 市 dalam alamat. Bacaan チョウ-nya sama seperti 朝.</p><ul>
     <li><span class="ruby-word"><ruby>〜町<rt>〜まち</rt></ruby></span> - kota/kawasan bernama ...</li>
     <li><span class="ruby-word"><ruby>町<rt>まち</rt></ruby></span> - kota kecil, kawasan</li>
   </ul></details>
@@ -197,11 +197,14 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 ## Peta Kata
 
-朝食, 昼食, 春休み, 夏休み, dan 冬休み mengelompokkan waktu. 京都, 東京都, 大阪府, 青森県, 市役所, dan 町内 mengelompokkan alamat atau wilayah.
+Kanji hari ini terbagi dua kelompok besar. Kelompok waktu: 朝食 dan 昼食 (waktu makan), 今朝 (pagi ini), lalu musim yang bergandengan dengan 休み — 春休み, 夏休み, 冬休み. Kelompok alamat: dibaca dari besar ke kecil sebagai 都 → 府 → 県 → 市 → 町. Jadi 東京都, 京都府, 青森県, dan sebuah 市 dengan 市役所-nya berada dalam satu tangga sistem alamat yang sama.
 
 ## Catatan Pemakaian
 
-Untuk membaca alamat Jepang, cari urutan besar ke kecil: 都, 府, 県, 市, lalu 町. Untuk kalender sekolah, cari musim dan kata 休み.
+- **Waktu harian:** 朝食 (sarapan), 昼食 (makan siang), 今朝 (pagi ini, dibaca けさ) — penanda bagian hari.
+- **Musim dan libur:** 春休み, 夏休み, 冬休み memakai nama musim + 休み. Empat musim: 春・夏・秋・冬.
+- **Tingkatan alamat (besar → kecil):** 都 (hanya Tokyo) → 府 (hanya Osaka/Kyoto) → 県 (prefektur umum) → 市 (kota) → 町 (kawasan).
+- **Kantor pemerintahan:** 市役所 (balai kota) dan 県庁 (kantor prefektur) — tempat mengurus dokumen 市民 dan 県民.
 
 ## Contoh Kalimat
 
@@ -215,11 +218,14 @@ Untuk membaca alamat Jepang, cari urutan besar ke kecil: 都, 府, 県, 市, lal
 
 ## Hal yang Mudah Tertukar
 
-都, 府, dan 県 sama-sama muncul pada nama wilayah, tetapi fungsinya berbeda dalam sistem alamat Jepang. Jangan mengganti satu dengan yang lain saat membaca nama tempat.
+- **都 vs 府 vs 県** — ketiganya penanda wilayah tetapi tingkatnya berbeda dan tidak bisa ditukar. 都 hanya untuk 東京都, 府 hanya untuk 大阪府 dan 京都府, sedangkan 県 untuk prefektur biasa (青森県). Kenali nama wilayahnya, bukan sekadar kanji akhirnya.
+- **京都 vs 東京都** — sama-sama memuat 京 dan 都. 京都 (きょうと) adalah kota Kyoto; 東京都 (とうきょうと) adalah wilayah metropolitan Tokyo. Adanya 東 di depan mengubah maknanya total, jadi baca sebagai satu unit.
+- **今朝 vs 朝食** — sama-sama memakai 朝. 今朝 dibaca けさ (bacaan khusus, "pagi ini"), sedangkan 朝食 dibaca ちょうしょく (sarapan). Jangan memaksakan あさ pada 今朝.
+- **市民 vs 県民** — sama-sama berakhiran 民 (warga). 市民 adalah warga kota (市), 県民 adalah warga prefektur (県). Kanji depannya menentukan cakupan wilayahnya.
 
 ## Kesalahan Umum
 
-京都 dan 東京都 sama-sama memakai 京/都, tetapi 京都 adalah Kyoto, sedangkan 東京都 adalah wilayah metropolitan Tokyo. Baca nama tempat sebagai satu unit.
+Jangan membaca nama tempat kanji demi kanji. 今朝 dibaca けさ (bukan いまあさ), dan 東京都 adalah satu unit "Tokyo metropolitan", bukan gabungan bebas 東 + 京 + 都. Strateginya: untuk nama tempat dan waktu yang sering muncul, hafalkan bunyi utuhnya, lalu pakai urutan 都→府→県→市→町 untuk memahami tingkat wilayahnya.
 
 ## Mini Practice
 
@@ -227,51 +233,53 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti sarapan?"
-optionA: "朝食"
-optionB: "昼食"
-correct: "朝食"
-explanation: "朝食 berarti sarapan. 昼食 berarti makan siang."
+question: "Di kata mana 朝 dibaca けさ (bacaan khusus untuk 'pagi ini')?"
+optionA: "今朝"
+optionB: "朝食"
+correct: "今朝"
+explanation: "今朝 dibaca けさ. 朝食 dibaca ちょうしょく (sarapan), memakai bacaan onyomi チョウ."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti libur musim panas?"
-optionA: "夏休み"
-optionB: "春休み"
-correct: "夏休み"
-explanation: "夏休み adalah libur musim panas. 春休み adalah libur musim semi."
+question: "Saat libur musim dingin saya berlibur ke Kyoto bersama keluarga."
+sentence: "冬休みに家族と____へ旅行します。"
+optionA: "京都"
+optionB: "市役所"
+correct: "京都"
+explanation: "京都 (Kyoto) adalah tujuan wisata. 市役所 adalah balai kota, bukan tempat berlibur."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti wilayah metropolitan Tokyo?"
+question: "Kata mana yang menunjuk wilayah metropolitan Tokyo?"
 optionA: "東京都"
 optionB: "京都府"
 correct: "東京都"
-explanation: "東京都 adalah wilayah metropolitan Tokyo. 京都府 adalah Prefektur Kyoto."
+explanation: "東京都 adalah wilayah metropolitan Tokyo (都). 京都府 adalah Prefektur Kyoto (府)."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti balai kota?"
+question: "Untuk mengubah alamat setelah pindah, saya pergi ke..."
+sentence: "引っ越しの住所変更をしに____へ行きました。"
 optionA: "市役所"
-optionB: "県庁"
+optionB: "昼食"
 correct: "市役所"
-explanation: "市役所 adalah balai kota. 県庁 adalah kantor prefektur."
+explanation: "市役所 adalah balai kota tempat mengurus dokumen. 昼食 berarti makan siang."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti warga kota?"
+question: "Kata mana yang berarti warga kota, bukan warga prefektur?"
 optionA: "市民"
 optionB: "県民"
 correct: "市民"
-explanation: "市民 berarti warga kota. 県民 berarti warga prefektur."
+explanation: "市民 berarti warga kota (市). 県民 berarti warga prefektur (県)."
 ---
 ::
 

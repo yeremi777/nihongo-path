@@ -26,7 +26,7 @@ Mengenali kanji 同、回、晩、勉、進、集、文、作、使、dan 便 da
 Di akhir pelajaran ini, kamu bisa membaca kata seperti 同時, 何回, 毎晩, 勉強, 作文, 大使館, 郵便局, dan 航空便 dalam kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata menjadi jumlah, waktu, belajar/tulisan, gerakan kegiatan, dan layanan.
+  <strong>Fokus hari ini:</strong> topiknya kanji yang mirip bentuknya, jadi perhatikan bagian pembedanya. 同 dan 回 sama-sama kotak (bedakan isinya), sedangkan 晩 dan 勉 sama-sama memuat 免 (晩 bersisi 日/hari, 勉 berbawah 力/tenaga). Sisanya kelompokkan menjadi jumlah, waktu, belajar/tulisan, kegiatan, dan layanan.
 </div>
 
 ## Daftar Kanji
@@ -42,7 +42,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ドウ</span><span>kunyomi: おなじ</span></span>
     </span>
   </summary>
-<p>同 menandai kesamaan waktu, kelas, atau kondisi.</p><ul>
+<p>同 dibaca おなじ saat berdiri sendiri (同じ) dan ドウ di kata majemuk (同時、同級生). Perhatikan kotak 口 di dalamnya agar tidak tertukar dengan 回 yang kotaknya berlapis.</p><ul>
     <li><span class="ruby-word"><ruby>同じ<rt>おなじ</rt></ruby></span> - sama</li>
     <li><span class="ruby-word"><ruby>同時<rt>どうじ</rt></ruby></span> - bersamaan</li>
     <li><span class="ruby-word"><ruby>同級生<rt>どうきゅうせい</rt></ruby></span> - teman sekelas</li>
@@ -56,7 +56,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: カイ</span><span>kunyomi: まわる、まわす</span></span>
     </span>
   </summary>
-<p>Saat melihat 回 setelah angka atau 何, baca sebagai jumlah frekuensi dalam jadwal, latihan, atau instruksi.</p><ul>
+<p>回 dibaca カイ sebagai penghitung "kali" setelah angka atau 何 (一回、何回), dan まわる saat berputar. Bentuk kotak-dalam-kotaknya mirip 同, jadi bedakan dari isi kotaknya.</p><ul>
     <li><span class="ruby-word"><ruby>一回<rt>いちかい</rt></ruby></span> - satu kali</li>
     <li><span class="ruby-word"><ruby>何回<rt>なんかい</rt></ruby></span> - berapa kali</li>
     <li><span class="ruby-word"><ruby>回る<rt>まわる</rt></ruby></span> - berputar, berkeliling</li>
@@ -70,7 +70,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: バン</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-<p>晩 dipakai untuk malam dalam percakapan harian.</p><ul>
+<p>晩 dibaca バン dan selalu tentang malam (今晩、毎晩). Sisi kirinya 日 (hari/matahari), membedakannya dari 勉 yang bagian bawahnya 力 (tenaga).</p><ul>
     <li><span class="ruby-word"><ruby>晩<rt>ばん</rt></ruby></span> - malam, petang</li>
     <li><span class="ruby-word"><ruby>今晩<rt>こんばん</rt></ruby></span> - malam ini</li>
     <li><span class="ruby-word"><ruby>毎晩<rt>まいばん</rt></ruby></span> - setiap malam</li>
@@ -84,7 +84,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ベン</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-<p>勉 hampir selalu muncul dalam kata belajar pada level ini.</p><ul>
+<p>勉 hampir selalu muncul di 勉強 (belajar). Bagian bawahnya 力 (tenaga), jadi jangan tertukar dengan 晩 yang bersisi 日 — 勉 soal usaha, 晩 soal waktu malam.</p><ul>
     <li><span class="ruby-word"><ruby>勉強する<rt>べんきょうする</rt></ruby></span> - belajar</li>
     <li><span class="ruby-word"><ruby>勉強<rt>べんきょう</rt></ruby></span> - belajar</li>
   </ul></details>
@@ -97,7 +97,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: シン</span><span>kunyomi: すすむ、すすめる</span></span>
     </span>
   </summary>
-<p>進 memberi rasa maju atau melanjutkan sesuatu.</p><ul>
+<p>進 memakai jalur jalan ⻌ yang menandakan bergerak maju: 進む (maju), 進める (melanjutkan). Cocok untuk kemajuan rencana atau langkah ke depan.</p><ul>
     <li><span class="ruby-word"><ruby>進む<rt>すすむ</rt></ruby></span> - maju, berlanjut</li>
     <li><span class="ruby-word"><ruby>進める<rt>すすめる</rt></ruby></span> - memajukan, melanjutkan</li>
     <li><span class="ruby-word"><ruby>前に進む<rt>まえにすすむ</rt></ruby></span> - maju ke depan</li>
@@ -112,7 +112,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: シュウ</span><span>kunyomi: あつまる、あつめる</span></span>
     </span>
   </summary>
-<p>集 dipakai untuk orang atau benda yang berkumpul/dikumpulkan.</p><ul>
+<p>集 tentang berkumpul atau mengumpulkan orang dan benda: 集まる, 集める, 集合. Sering muncul di pengumuman soal tempat dan waktu berkumpul.</p><ul>
     <li><span class="ruby-word"><ruby>集まる<rt>あつまる</rt></ruby></span> - berkumpul</li>
     <li><span class="ruby-word"><ruby>集める<rt>あつめる</rt></ruby></span> - mengumpulkan</li>
     <li><span class="ruby-word"><ruby>駅前に集まる<rt>えきまえにあつまる</rt></ruby></span> - berkumpul di depan stasiun</li>
@@ -127,7 +127,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ブン、モン</span><span>kunyomi: -</span></span>
     </span>
   </summary>
-<p>文 berhubungan dengan kalimat, teks, atau budaya tulisan.</p><ul>
+<p>文 dibaca ブン (文章) atau モン, dan berkaitan dengan kalimat serta tulisan. Ia menjadi bagian inti dari 作文 (karangan).</p><ul>
     <li><span class="ruby-word"><ruby>文<rt>ぶん</rt></ruby></span> - kalimat, tulisan</li>
     <li><span class="ruby-word"><ruby>文章<rt>ぶんしょう</rt></ruby></span> - teks</li>
   </ul></details>
@@ -140,7 +140,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: サク、サ</span><span>kunyomi: つくる</span></span>
     </span>
   </summary>
-<p>作 muncul saat membuat tulisan, karya, atau benda.</p><ul>
+<p>作 dibaca サク (作文) dan つくる (作る) untuk membuat karya atau benda. Bersisi orang 亻 seperti 使, jadi bedakan dari bagian kanannya.</p><ul>
     <li><span class="ruby-word"><ruby>作文<rt>さくぶん</rt></ruby></span> - karangan</li>
     <li><span class="ruby-word"><ruby>作る<rt>つくる</rt></ruby></span> - membuat</li>
   </ul></details>
@@ -153,7 +153,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: シ</span><span>kunyomi: つかう</span></span>
     </span>
   </summary>
-<p>使 berarti menggunakan; dalam 大使館, artinya berkaitan dengan utusan negara.</p><ul>
+<p>使 dibaca つかう (memakai) dan シ; dalam 大使館 artinya bergeser jadi "utusan negara". Bersisi orang 亻 seperti 作 — bedakan lewat bagian kanannya.</p><ul>
     <li><span class="ruby-word"><ruby>大使館<rt>たいしかん</rt></ruby></span> - kedutaan</li>
     <li><span class="ruby-word"><ruby>使う<rt>つかう</rt></ruby></span> - menggunakan</li>
   </ul></details>
@@ -166,7 +166,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ベン、ビン</span><span>kunyomi: たより</span></span>
     </span>
   </summary>
-<p>便 muncul pada kata praktis, pos, dan layanan pengiriman.</p><ul>
+<p>便 punya dua onyomi: ベン pada 便利 (praktis) dan ビン pada 郵便局 serta 航空便 (pos/penerbangan). Baca kata utuh untuk memilih ベン atau ビン.</p><ul>
     <li><span class="ruby-word"><ruby>便利な<rt>べんりな</rt></ruby></span> - praktis, nyaman</li>
     <li><span class="ruby-word"><ruby>郵便局<rt>ゆうびんきょく</rt></ruby></span> - kantor pos</li>
     <li><span class="ruby-word"><ruby>航空便<rt>こうくうびん</rt></ruby></span> - pos udara</li>
@@ -175,11 +175,14 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 ## Peta Kata
 
-同時 dan 同級生 memakai 同 untuk kesamaan. 一回, 何回, dan 今回 menunjukkan jumlah atau giliran. 文章, 作文, dan 作品 berhubungan dengan tulisan, sedangkan 郵便局 dan 航空便 berkaitan dengan layanan.
+Topik hari ini adalah kanji yang bentuknya mirip, jadi kelompokkan sambil memperhatikan bagiannya. Untuk waktu dan jumlah: 同時 (bersamaan), 何回 (berapa kali), dan 毎晩 (setiap malam). Untuk belajar dan tulisan: 勉強, lalu 作文 dan 文章 yang sama-sama memakai 文. Untuk kegiatan: 進む dan 集まる. Untuk layanan publik: 郵便局 dan 航空便 (memakai 便), serta 大使館 (memakai 使).
 
 ## Catatan Pemakaian
 
-同, 回, dan 晩 sering membantu membaca keterangan waktu atau jumlah. 勉, 文, dan 作 dekat dengan kegiatan belajar. 使 dan 便 sering muncul pada fasilitas publik atau layanan.
+- **Waktu dan jumlah:** 同時 (waktu yang sama), 何回・一回 (frekuensi), 今晩・毎晩 (waktu malam) — 回 muncul setelah angka atau 何.
+- **Belajar dan tulisan:** 勉強 (belajar), 作文 (mengarang), 文章 (teks) — 勉 soal usaha, 文 soal kalimat.
+- **Tindakan berkumpul/maju:** 進む (maju melangkah), 集まる・集める (berkumpul, mengumpulkan).
+- **Layanan publik:** 郵便局 dan 航空便 memakai 便 (dibaca ビン untuk pos), 大使館 memakai 使 (utusan negara).
 
 ## Contoh Kalimat
 
@@ -193,11 +196,14 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 ## Hal yang Mudah Tertukar
 
-便利 dan 郵便局 sama-sama memakai 便, tetapi 便利 berarti praktis, sedangkan 郵便局 adalah tempat layanan pos. Lihat kanji di sekitarnya.
+- **晩 vs 勉** — bentuknya mirip karena sama-sama memuat 免. Bedakan bagian yang menempel: 晩 bersisi 日 (hari) dan soal malam (今晩), 勉 berbawah 力 (tenaga) dan soal usaha belajar (勉強).
+- **同 vs 回** — dua-duanya berbentuk kotak. 同 punya satu 口 di dalam dan berarti "sama" (同じ), 回 berbentuk kotak berlapis dan menjadi penghitung "kali" (一回).
+- **便利 vs 郵便局** — sama-sama memakai 便 tetapi dibaca berbeda: 便利 (べんり) berarti praktis, 郵便局 (ゆうびんきょく) adalah kantor pos. Kalau soal kemudahan pilih ベン, kalau soal pos pilih ビン.
+- **作 vs 使** — dua-duanya bersisi orang 亻 di kiri. Bagian kanan pembedanya: 作 untuk membuat (作る), 使 untuk memakai atau utusan (使う、大使館).
 
 ## Kesalahan Umum
 
-Jangan menganggap semua 回 berarti berputar. Jika ada angka atau kata tanya seperti 何, biasanya 回 berarti jumlah kali.
+Jangan menganggap semua 回 berarti berputar. Jika ada angka atau kata tanya 何 di depannya (一回、何回), 回 berarti jumlah kali, bukan gerakan memutar. Strateginya: lihat dulu apa yang menempel di depan 回 sebelum memutuskan artinya.
 
 ## Mini Practice
 
@@ -205,51 +211,53 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti bersamaan?"
-optionA: "同時"
-optionB: "何回"
-correct: "同時"
-explanation: "同時 berarti pada waktu yang sama. 何回 berarti berapa kali."
+question: "Di kata mana 便 dibaca ビン, bukan ベン?"
+optionA: "航空便"
+optionB: "便利"
+correct: "航空便"
+explanation: "航空便 (こうくうびん) memakai bacaan ビン untuk pos/penerbangan. 便利 (べんり) memakai ベン dan berarti praktis."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti setiap malam?"
+question: "Bentuknya mirip. Kata mana yang berarti setiap malam?"
 optionA: "毎晩"
-optionB: "同級生"
+optionB: "勉強"
 correct: "毎晩"
-explanation: "毎晩 berarti setiap malam. 同級生 berarti teman sekelas."
+explanation: "毎晩 memakai 晩 (bersisi 日) untuk malam. 勉強 memakai 勉 (berbawah 力) untuk belajar."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti karangan?"
+question: "Sudah berapa kali Anda membaca kalimat ini?"
+sentence: "この文を____読みましたか。"
+optionA: "何回"
+optionB: "同時"
+correct: "何回"
+explanation: "何回 berarti berapa kali. 同時 berarti pada waktu yang sama, tidak cocok untuk menanyakan jumlah."
+---
+::
+
+::MiniPractice
+---
+question: "Kata mana yang berarti karangan yang ditulis, bukan teks secara umum?"
 optionA: "作文"
 optionB: "文章"
 correct: "作文"
-explanation: "作文 adalah karangan yang dibuat. 文章 adalah teks atau kalimat tertulis."
+explanation: "作文 adalah karangan yang dibuat (作 = membuat). 文章 adalah teks atau rangkaian kalimat secara umum."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti kantor pos?"
+question: "Saya ingin mengirim surat, jadi saya pergi ke..."
+sentence: "手紙を送りたいので____へ行きます。"
 optionA: "郵便局"
 optionB: "大使館"
 correct: "郵便局"
-explanation: "郵便局 adalah kantor pos. 大使館 adalah kedutaan."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti belajar?"
-optionA: "勉強"
-optionB: "集合"
-correct: "勉強"
-explanation: "勉強 berarti belajar. 集合 berarti berkumpul."
+explanation: "郵便局 adalah kantor pos, tempat mengirim surat. 大使館 adalah kedutaan besar."
 ---
 ::
 
