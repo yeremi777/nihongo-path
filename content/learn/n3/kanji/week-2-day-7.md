@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Mengenali tujuh kanji tambahan N3 dari minggu kedua: 黄, 絵, 組, 束, 授, 渡, dan 昔.
+Hari penutup minggu ini mengenalkan tujuh kanji tambahan: 黄, 絵, 組, 束, 授, 渡, dan 昔. Ketujuhnya muncul di kata sehari-hari tentang warna, gambar, kelompok, janji, kelas, perpindahan, dan waktu lampau.
 
 Di akhir pelajaran ini, kamu bisa membaca kata seperti 黄色, 絵本, 番組, 約束, 授業, 渡る, dan 昔 dalam bacaan pendek sehari-hari.
 

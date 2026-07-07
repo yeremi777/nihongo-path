@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Hari penutup minggu keempat mengenalkan tujuh kanji tambahan N3: 細, 戸, 湖, 船, 角, 夫, dan 苦.
+Hari penutup minggu ini mengenalkan tujuh kanji tambahan: 細, 戸, 湖, 船, 角, 夫, dan 苦.
 
 Di akhir pelajaran ini, kamu bisa membaca kata seperti 細い, 細かい, 雨戸, びわ湖, 船便, 三角形, 夫婦, dan 苦手 dalam bacaan pendek sehari-hari.
 

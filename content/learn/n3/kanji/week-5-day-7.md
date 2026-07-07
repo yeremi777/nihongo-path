@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Hari penutup minggu kelima ini mengenalkan enam kanji tambahan: 厚, 泣, 鳴, 初, 泊, dan 葉.
+Hari penutup minggu ini mengenalkan enam kanji tambahan: 厚, 泣, 鳴, 初, 泊, dan 葉.
 
 Di akhir pelajaran ini, kamu bisa membaca kata seperti 厚い, 厚着, 泣く, 鳴る, 最初, 初めて, 宿泊, dan 言葉 dalam cerita pendek, 案内 perjalanan, dan pengumuman penginapan.
 

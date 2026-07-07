@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Hari penutup minggu keenam ini mengenalkan delapan kanji tambahan: 亡, 忙, 忘, 祭, 労, 加, 情, dan 反.
+Hari penutup minggu ini mengenalkan delapan kanji tambahan: 亡, 忙, 忘, 祭, 労, 加, 情, dan 反.
 
 Di akhir pelajaran ini, kamu bisa membaca kata seperti 死亡, 忙しい, 忘れ物, 文化祭, 参加, 情報, dan 反対 dalam berita singkat, pengumuman sekolah, tempat kerja, dan percakapan sehari-hari.
 

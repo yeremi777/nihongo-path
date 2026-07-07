@@ -21,7 +21,7 @@ tags:
 
 ## Tujuan
 
-Hari penutup minggu ketiga ini mengenalkan tujuh kanji tambahan: 育, 種, 類, 師, 妻, 馬, dan 石.
+Hari penutup minggu ini mengenalkan tujuh kanji tambahan: 育, 種, 類, 師, 妻, 馬, dan 石.
 
 Di akhir pelajaran ini, kamu bisa membaca kata seperti 教育, 種類, 書類, 教師, 医師, 妻, 馬, 石けん, dan 石油 dalam dokumen, pengumuman sekolah, profil profesi, atau bacaan sehari-hari.
 
