@@ -22,26 +22,26 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membedakan cara menyatakan harus, boleh, tidak perlu, tidak boleh, dan saran sederhana dalam situasi sehari-hari.
+Di akhir pelajaran ini, kamu bisa memilih cara yang tepat untuk berkata harus, boleh, tidak perlu, tidak boleh, dan sebaiknya sesuai lawan bicara dan tingkat kesopanan.
 
 Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya bergantung pada terjemahan bahasa Indonesia.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca fungsi kalimatnya dulu. Setelah itu cek partikel, bentuk verba, dan nuansa yang membuat satu pola lebih tepat daripada pola lain.
+  <strong>Fokus hari ini:</strong> banyak pola berarti sama, "harus". Yang membedakan bukan artinya, melainkan seberapa formal atau santai kalimatnya. Untuk izin dan larangan, cek apakah tindakan hanya tidak wajib atau benar-benar dilarang.
 </div>
 
 ## Pola Hari Ini
 
 | Fungsi | Pola | Arti praktis | Kapan dipakai |
 |---|---|---|---|
-| Harus | 〜なければならない | Harus; wajib | dipakai saat harus; wajib; bentuknya （Vないstem） + なければならない. |
-| Harus | 〜なくてはいけない | Harus; wajib | dipakai saat harus; wajib; bentuknya （Vない形） + なくてはいけない. |
-| Harus | 〜ないといけない | Harus; wajib | dipakai saat harus; wajib; bentuknya （Vない形） + といけない. |
-| Bentuk kasual “harus” | 〜なきゃ・〜なくちゃ・〜ないと | Bentuk kasual “harus” | dipakai saat bentuk kasual “harus”; bentuknya （Vないstem） + なきゃ／なくちゃ / （Vない形） + と. |
-| Boleh melakukan | 〜てもいい | Boleh melakukan ~ | dipakai saat boleh melakukan ~; bentuknya （V）て + もいい. |
-| Tidak perlu melakukan | 〜なくてもいい | Tidak perlu melakukan ~ | dipakai saat tidak perlu melakukan ~; bentuknya （Vない形） + なくてもいい. |
-| Tidak boleh | 〜てはいけない | Tidak boleh; jangan ~ | dipakai saat tidak boleh; jangan ~; bentuknya （V）て + はいけない. |
-| Sebaiknya | 〜といい・〜たらいい・〜ばいい | Sebaiknya ~; bagus kalau ~ | dipakai saat sebaiknya ~; bagus kalau ~; bentuknya （V辞書形） + といい / （V）たら + いい / （V）ば + いい. |
+| Wajib (formal) | 〜なければならない | harus, mau tak mau | aturan, tulisan, atau situasi resmi; terdengar tegas |
+| Wajib (standar) | 〜なくてはいけない | harus | percakapan sopan sehari-hari |
+| Wajib (percakapan) | 〜ないといけない | harus | obrolan biasa; terdengar ringan dan alami |
+| Wajib (kasual) | 〜なきゃ・〜なくちゃ・〜ないと | harus (santai) | dengan teman/keluarga atau gumaman; いけない sering dilepas |
+| Izin | 〜てもいい | boleh | meminta atau memberi izin |
+| Tidak perlu | 〜なくてもいい | tidak perlu | tindakan tidak wajib dilakukan |
+| Larangan | 〜てはいけない | tidak boleh | aturan, larangan, peringatan |
+| Saran/harapan | 〜といい・〜たらいい・〜ばいい | sebaiknya; semoga | saran lembut atau harapan |
 
 ## Peta Pola
 
@@ -56,150 +56,96 @@ Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya ber
   <span>〜といい・〜たらいい・〜ばいい</span>
 </div>
 
-Pola hari ini sama-sama dipakai untuk **kewajiban dan izin**, tetapi petunjuknya berbeda. Perhatikan partikel, bentuk negatif/lampau, bentuk kamus, dan siapa yang menjadi fokus kalimat.
+Empat pola pertama semuanya berarti **harus**, jadi bedanya bukan makna melainkan register: なければならない paling formal (aturan, tulisan), lalu なくてはいけない, lalu ないといけない, sampai なきゃ／なくちゃ／ないと yang paling santai. Tiga pola berikutnya membentuk **poros izin**: 〜てもいい memberi izin, 〜なくてもいい berkata tidak wajib, 〜てはいけない melarang. Perhatikan bahwa なくてもいい dan てはいけない berlawanan arah, bukan sinonim. Terakhir, 〜といい・〜たらいい・〜ばいい hanya menawarkan saran atau harapan yang lembut, tanpa paksaan.
 
 ## Cara Membentuk Pola
 
-Simbol utama: （N） berarti nomina, （V） berarti verba, （Klausa） berarti klausa, （いAdj） berarti kata sifat-i, dan （なAdj） berarti kata sifat-na.
+Simbol: （V）て = verba bentuk te, （Vない形） = verba bentuk negatif (misalnya 行かない), （Vないstem） = akar negatif tanpa い (行かな-), （V辞書形） = verba bentuk kamus, （V）た = verba bentuk lampau, （V）ば = verba bentuk ば.
 
-| Pola | Bentuk dasar | Catatan bentuk |
+| Pola | Bentuk dasar | Yang perlu dicek |
 |---|---|---|
-| 〜なければならない | （Vないstem） + なければならない | dipakai untuk harus; wajib. |
-| 〜なくてはいけない | （Vない形） + なくてはいけない | dipakai untuk harus; wajib. |
-| 〜ないといけない | （Vない形） + といけない | dipakai untuk harus; wajib. |
-| 〜なきゃ・〜なくちゃ・〜ないと | （Vないstem） + なきゃ／なくちゃ / （Vない形） + と | dipakai untuk bentuk kasual “harus”. |
-| 〜てもいい | （V）て + もいい | dipakai untuk boleh melakukan ~. |
-| 〜なくてもいい | （Vない形） + なくてもいい | dipakai untuk tidak perlu melakukan ~. |
-| 〜てはいけない | （V）て + はいけない | dipakai untuk tidak boleh; jangan ~. |
-| 〜といい・〜たらいい・〜ばいい | （V辞書形） + といい / （V）たら + いい / （V）ば + いい | dipakai untuk sebaiknya ~; bagus kalau ~. |
+| 〜なければならない | （Vないstem） + なければならない | dari 行かない, ambil 行かな- lalu +ければならない; diakhiri なりません saat sopan |
+| 〜なくてはいけない | （Vない形） + くてはいけない | 行かない → 行かなくてはいけない; kontraksinya なくちゃ |
+| 〜ないといけない | （Vない形） + と + いけない | 行かない + といけない; paling sering muncul di percakapan |
+| 〜なきゃ・〜なくちゃ | ringkasan なければ／なくては | 行かなきゃ、行かなくちゃ; いけない biasa dilepas |
+| 〜てもいい | （V）て + もいい | pakai bentuk て utuh: 捨てて + もいい |
+| 〜なくてもいい | （Vない形） + くてもいい | 来ない → 来なくてもいい |
+| 〜てはいけない | （V）て + はいけない | 使って + はいけない; kontraksi santai ちゃいけない |
+| 〜といい・〜たらいい・〜ばいい | （V辞書形）といい / （V）たら+いい / （V）ば+いい | 飲むといい、飲んだらいい、飲めばいい |
 
 ## Bangun Kalimat Bertahap
 
+Dua contoh: satu kewajiban, satu izin.
+
 | Langkah | Jepang | Fungsi |
 |---|---|---|
-| Bahan | （Vないstem） + なければならない | bentuk untuk harus |
-| Kalimat | 明日は早く起きなければなりません。 | Harus; wajib |
-| Bahan | （Vない形） + なくてはいけない | bentuk untuk harus |
-| Kalimat | 今週は日曜日も会社に行かなくてはいけません。 | Harus; wajib |
-| Bahan | （Vない形） + といけない | bentuk untuk harus |
-| Kalimat | 食後に薬を飲まないといけません。 | Harus; wajib |
-| Bahan | （Vないstem） + なきゃ／なくちゃ / （Vない形） + と | bentuk untuk bentuk kasual “harus” |
-| Kalimat | 洗濯しなきゃ。 | Bentuk kasual “harus” |
-| Bahan | （V）て + もいい | bentuk untuk boleh melakukan |
-| Kalimat | これ、捨ててもいいですか。 | Boleh melakukan ~ |
+| Bahan | 早く起きる | tindakan yang wajib dilakukan |
+| Bentuk | 早く起きなければならない | ubah ke bentuk wajib formal |
+| Kalimat | 明日は早く起きなければなりません。 | "Besok saya harus bangun pagi." |
+| Bahan | これを捨てる | tindakan yang ingin diizinkan |
+| Bentuk | 捨ててもいい | bentuk て + もいい = minta izin |
+| Kalimat | これ、捨ててもいいですか。 | "Boleh saya buang ini?" |
 
-Bagian ini menghubungkan rumus dan kalimat penuh. Mulai dari bentuk pendeknya dulu, lalu cek fungsi pola sebelum membaca contoh lengkap.
+Perhatikan: dari sebuah tindakan biasa, kamu tinggal menambahkan ekor pola untuk mengubahnya menjadi kewajiban atau izin.
 
 ## Catatan Pemakaian
 
-### 〜なければならない
+### Empat cara berkata "harus"
 
-Gunakan pola ini untuk **harus; wajib**. Bentuk dasarnya: （Vないstem） + なければならない.
+Keempat pola kewajiban menunjuk arah yang sama, jadi pilihlah berdasarkan **register**, bukan makna. 〜なければならない terdengar paling tegas dan sering muncul dalam aturan tertulis atau situasi resmi. 〜なくてはいけない adalah pilihan sopan sehari-hari. 〜ないといけない terasa lebih santai dan alami dalam percakapan. 〜なきゃ／〜なくちゃ／〜ないと adalah bentuk kasual untuk teman, keluarga, atau gumaman sendiri, dan bagian いけない biasanya dihilangkan (洗濯しなきゃ).
 
-Catatan praktis: Formal/common obligation. Dipakai saat sesuatu wajib dilakukan.
+### Izin, tidak perlu, dan larangan
 
-Contoh inti: 明日は早く起きなければなりません。
+〜てもいい dipakai untuk meminta atau memberi izin ("boleh ...?"). 〜なくてもいい berkata suatu tindakan **tidak wajib** — orang boleh tidak melakukannya. 〜てはいけない adalah **larangan** — tidak boleh sama sekali. Jangan tertukar: 明日来なくてもいい ("tidak perlu datang") sangat berbeda dari 来てはいけない ("tidak boleh datang").
 
-### 〜なくてはいけない
+### Saran lembut: 〜といい・〜たらいい・〜ばいい
 
-Gunakan pola ini untuk **harus; wajib**. Bentuk dasarnya: （Vない形） + なくてはいけない.
-
-Catatan praktis: Bentuk kewajiban yang umum dalam percakapan. Nuansanya mirip dengan 〜なければならない, tetapi terasa sedikit lebih sehari-hari.
-
-Contoh inti: 今週は日曜日も会社に行かなくてはいけません。
-
-### 〜ないといけない
-
-Gunakan pola ini untuk **harus; wajib**. Bentuk dasarnya: （Vない形） + といけない.
-
-Catatan praktis: Bentuk kewajiban yang sering dipakai dalam percakapan sehari-hari.
-
-Contoh inti: 食後に薬を飲まないといけません。
-
-### 〜なきゃ・〜なくちゃ・〜ないと
-
-Gunakan pola ini untuk **bentuk kasual “harus”**. Bentuk dasarnya: （Vないstem） + なきゃ／なくちゃ / （Vない形） + と.
-
-Catatan praktis: Bentuk santai untuk “harus”. Bagian いけない sering dihilangkan dalam percakapan.
-
-Contoh inti: 洗濯しなきゃ。
-
-### 〜てもいい
-
-Gunakan pola ini untuk **boleh melakukan ~**. Bentuk dasarnya: （V）て + もいい.
-
-Catatan praktis: Dipakai untuk meminta izin atau memberi izin.
-
-Contoh inti: これ、捨ててもいいですか。
-
-### 〜なくてもいい
-
-Gunakan pola ini untuk **tidak perlu melakukan ~**. Bentuk dasarnya: （Vない形） + なくてもいい.
-
-Catatan praktis: berarti suatu tindakan tidak perlu dilakukan.
-
-Contoh inti: 明日、来なくてもいいです。
-
-### 〜てはいけない
-
-Gunakan pola ini untuk **tidak boleh; jangan ~**. Bentuk dasarnya: （V）て + はいけない.
-
-Catatan praktis: Dipakai untuk larangan, aturan, dan peringatan.
-
-Contoh inti: テストのとき、ペンを使ってはいけません。
-
-### 〜といい・〜たらいい・〜ばいい
-
-Gunakan pola ini untuk **sebaiknya ~; bagus kalau ~**. Bentuk dasarnya: （V辞書形） + といい / （V）たら + いい / （V）ば + いい.
-
-Catatan praktis: Dipakai untuk saran atau harapan yang terasa lebih lembut.
-
-Contoh inti: 頭が痛いとき、この薬を飲むといいです。
+Ketiganya menawarkan saran atau harapan tanpa menekan. Nadanya lebih lembut daripada 〜たほうがいい, jadi cocok untuk usulan ringan atau harapan ("頭が痛いとき、この薬を飲むといいです").
 
 ## Pola yang Sering Muncul
 
 | Pola | Arti praktis | Contoh konteks |
 |---|---|---|
-| （Vないstem） + なければならない | Harus; wajib | 明日は早く起きなければなりません。 |
-| （Vない形） + なくてはいけない | Harus; wajib | 今週は日曜日も会社に行かなくてはいけません。 |
-| （Vない形） + といけない | Harus; wajib | 食後に薬を飲まないといけません。 |
-| （Vないstem） + なきゃ／なくちゃ / （Vない形） + と | Bentuk kasual “harus” | 洗濯しなきゃ。 |
-| （V）て + もいい | Boleh melakukan ~ | これ、捨ててもいいですか。 |
-| （Vない形） + なくてもいい | Tidak perlu melakukan ~ | 明日、来なくてもいいです。 |
-| （V）て + はいけない | Tidak boleh; jangan ~ | テストのとき、ペンを使ってはいけません。 |
-| （V辞書形） + といい / （V）たら + いい / （V）ば + いい | Sebaiknya ~; bagus kalau ~ | 頭が痛いとき、この薬を飲むといいです。 |
+| （Vないstem） + なければならない | Wajib, terkesan resmi | 明日は早く起きなければなりません。 |
+| （Vない形） + なくてはいけない | Wajib, sopan sehari-hari | 今週は日曜日も会社に行かなくてはいけません。 |
+| （Vない形） + といけない | Wajib, percakapan | 食後に薬を飲まないといけません。 |
+| （Vないstem） + なきゃ／なくちゃ | Wajib, kasual | 洗濯しなきゃ。 |
+| （V）て + もいい | Izin: boleh ~ | これ、捨ててもいいですか。 |
+| （Vない形） + なくてもいい | Tidak wajib | 明日、来なくてもいいです。 |
+| （V）て + はいけない | Larangan: tidak boleh ~ | ペンを使ってはいけません。 |
+| （V辞書形） + といい | Saran/harapan lembut | この薬を飲むといいです。 |
 
 ## Contoh Kalimat
 
 <div class="example-list">
-  <div><p class="jp">宿題をしなければなりません。</p><p>Saya harus mengerjakan PR.</p></div>
-  <div><p class="jp">明日、来なくてもいいです。</p><p>Kamu tidak perlu datang besok.</p></div>
-  <div><p class="jp">テストのとき、ペンを使ってはいけません。</p><p>Tidak boleh memakai pena saat ujian.</p></div>
-  <div><p class="jp">洗濯しなきゃ。</p><p>Saya harus mencuci pakaian.</p></div>
   <div><p class="jp">明日は早く起きなければなりません。</p><p>Besok saya harus bangun pagi.</p></div>
   <div><p class="jp">今週は日曜日も会社に行かなくてはいけません。</p><p>Minggu ini, hari Minggu pun saya harus pergi ke kantor.</p></div>
+  <div><p class="jp">食後に薬を飲まないといけません。</p><p>Saya harus minum obat sesudah makan.</p></div>
+  <div><p class="jp">あ、洗濯しなきゃ。</p><p>Ah, saya harus mencuci pakaian.</p></div>
+  <div><p class="jp">これ、捨ててもいいですか。</p><p>Boleh saya buang ini?</p></div>
+  <div><p class="jp">テストのとき、ペンを使ってはいけません。</p><p>Saat ujian, tidak boleh memakai pena.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar
 
 | Pasangan | Cara membedakan |
 |---|---|
-| 〜なければならない / 〜なくてはいけない | Bedakan dari fungsi utamanya: Keduanya berarti “harus”, tetapi 〜なければならない terdengar lebih formal. Petunjuk pilihan: Gunakan keduanya untuk kewajiban. Gunakan pola kedua untuk situasi yang lebih formal. |
-| 〜なくてはいけない / 〜ないといけない | Bedakan dari fungsi utamanya: kewajiban standar dibanding kewajiban yang lebih percakapan. Petunjuk pilihan: Gunakan 〜ないといけない dalam percakapan sehari-hari. |
-| 〜なければならない / 〜なきゃ・〜なくちゃ | Bedakan dari fungsi utamanya: bentuk lengkap dibanding bentuk pendek santai. Petunjuk pilihan: Gunakan bentuk pendek dengan teman, keluarga, atau pikiran dalam hati. |
-| 〜なくてもいい / 〜てはいけない | Bedakan dari fungsi utamanya: Tidak perlu dibanding dilarang. Petunjuk pilihan: Gunakan pola pertama untuk “tidak harus/tidak perlu”. Gunakan pola kedua untuk “tidak boleh”. |
-| 〜たほうがいい / 〜といい・〜たらいい・〜ばいい | Bedakan dari fungsi utamanya: Nasihat langsung dibanding saran atau harapan yang lebih lembut. Petunjuk pilihan: Gunakan 〜たほうがいい untuk nasihat yang lebih kuat. Gunakan pola kedua untuk nasihat atau harapan yang lebih lembut. |
+| 〜なければならない / 〜なくてはいけない | Artinya sama "harus". Bedanya register: なければならない lebih formal dan tegas (aturan, tulisan), なくてはいけない lebih sehari-hari. |
+| 〜なくてはいけない / 〜ないといけない | Sama-sama "harus", tetapi ないといけない terasa lebih santai dan lebih sering muncul dalam percakapan biasa. |
+| 〜なくてもいい / 〜てはいけない | Berlawanan. なくてもいい = tidak perlu (boleh tidak dilakukan); てはいけない = tidak boleh (dilarang). Tanya: tindakannya dilarang atau sekadar tidak wajib? |
+| 〜てもいい / 〜てはいけない | Sama-sama bentuk て, beda ekornya: もいい memberi izin, はいけない melarang. |
+| 〜といい・〜たらいい・〜ばいい / 〜たほうがいい | Keduanya saran, tapi たほうがいい lebih tegas; といい／たらいい／ばいい lebih lembut, sering berupa harapan. |
 
 ## Kesalahan Umum
 
 | Salah | Benar | Kenapa |
 |---|---|---|
-| 宿題をするなければなりません。 | 宿題をしなければなりません。 | Kewajiban memakai dasar bentuk negatif |
-| 明日、来なくてもいけません。 | 明日、来なくてもいいです。 | 〜なくてもいい berarti “tidak perlu” |
-| テストのとき、ペンを使わなくてもいいです。 | テストのとき、ペンを使ってはいけません。 | Larangan memakai Vてはいけない |
-| 洗濯しなきゃいけないです。 | 洗濯しなきゃ。 | Bentuk santai “harus” sering menghilangkan いけない |
+| 宿題をするなければなりません。 | 宿題をしなければなりません。 | Kewajiban dibentuk dari bentuk negatif (しない → しなければ), bukan bentuk kamus |
+| 明日、来なくてもいけません。 | 明日、来なくてもいいです。 | "Tidak perlu" adalah 〜なくてもいい, bukan いけません |
+| テストのとき、ペンを使わなくてもいいです。 | テストのとき、ペンを使ってはいけません。 | Ini larangan (tidak boleh), jadi pakai 〜てはいけない, bukan "tidak perlu" |
+| 洗濯しなきゃいけないです。 | 洗濯しなきゃ。 | Dalam bentuk kasual, いけない biasa dihilangkan |
 
-Catatan untuk pembelajar Indonesia: “Harus” dalam bahasa Indonesia bisa menjadi beberapa bentuk Jepang. 〜なければならない = harus, formal; 〜なくてはいけない = harus, standar; 〜ないといけない = harus, percakapan; 〜なきゃ／〜なくちゃ = harus, santai; 〜なくてもいい = tidak perlu; 〜てはいけない = tidak boleh.
+Catatan untuk pembelajar Indonesia: satu kata "harus" dalam bahasa Indonesia bercabang menjadi banyak bentuk Jepang yang bertingkat kesopanan — 〜なければならない (formal), 〜なくてはいけない (standar), 〜ないといけない (percakapan), 〜なきゃ／〜なくちゃ (santai). Sementara itu, "tidak perlu" (〜なくてもいい) dan "tidak boleh" (〜てはいけない) sering tertukar karena keduanya mengandung "tidak", padahal maknanya berlawanan.
 
 ## Mini Practice
 
@@ -207,56 +153,56 @@ Pilih jawaban yang paling tepat. Perhatikan petunjuk partikel, bentuk kata, dan 
 
 ::MiniPractice
 ---
-question: "Saya harus mengerjakan PR."
-sentence: "宿題を____なければなりません。"
-optionA: "し"
-optionB: "する"
-correct: "し"
-explanation: "し benar. Kewajiban memakai dasar bentuk negatif"
----
-::
-
-::MiniPractice
----
-question: "Kamu tidak perlu datang besok."
-sentence: "明日、来なくてもい____。"
-optionA: "いです"
-optionB: "けません"
-correct: "いです"
-explanation: "いです benar. 〜なくてもいい berarti “tidak perlu”"
----
-::
-
-::MiniPractice
----
-question: "Tidak boleh memakai pena saat ujian."
-sentence: "テストのとき、ペンを使____。"
-optionA: "ってはいけません"
-optionB: "わなくてもいいです"
-correct: "ってはいけません"
-explanation: "ってはいけません benar. Larangan memakai Vてはいけない"
----
-::
-
-::MiniPractice
----
-question: "Besok saya harus bangun pagi."
+question: "Besok saya harus bangun pagi karena ada rapat penting."
 sentence: "明日は早く起き____なりません。"
 optionA: "なければ"
 optionB: "なくても"
 correct: "なければ"
-explanation: "なければなりません benar untuk kewajiban formal: harus melakukan."
+explanation: "なければなりません menyatakan kewajiban formal 'harus'. なくてもなりません tidak bermakna; bentuk 'tidak perlu' adalah なくてもいいです."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Minggu ini, hari Minggu pun saya harus pergi ke kantor."
-sentence: "今週は日曜日も会社に行か____いけません。"
-optionA: "なくては"
-optionB: "なくても"
-correct: "なくては"
-explanation: "なくてはいけません benar untuk kewajiban. なくてもいい berarti tidak perlu."
+question: "Sampah ini sudah tidak dipakai — kamu bertanya apakah boleh membuangnya."
+sentence: "これ、捨てて____ですか。"
+optionA: "もいい"
+optionB: "はいけない"
+correct: "もいい"
+explanation: "捨ててもいいですか meminta izin 'boleh saya buang?'. 捨ててはいけないですか justru menanyakan larangan, tidak cocok saat kamu minta izin."
+---
+::
+
+::MiniPractice
+---
+question: "Besok kamu tidak perlu datang; libur pun tidak apa-apa."
+sentence: "明日は____です。"
+optionA: "来なくてもいい"
+optionB: "来てはいけない"
+correct: "来なくてもいい"
+explanation: "来なくてもいい berarti 'tidak perlu datang' (boleh tidak). 来てはいけない berarti 'tidak boleh datang' (dilarang), maknanya berlawanan dengan konteks."
+---
+::
+
+::MiniPractice
+---
+question: "Saat ujian, memakai pena dilarang oleh aturan."
+sentence: "テストのとき、ペンを使って____。"
+optionA: "はいけません"
+optionB: "もいいです"
+correct: "はいけません"
+explanation: "使ってはいけません = larangan sesuai aturan ujian. 使ってもいいです justru memberi izin, bertentangan dengan 'dilarang'."
+---
+::
+
+::MiniPractice
+---
+question: "Saat kepala sakit, saran ringannya adalah sebaiknya minum obat ini."
+sentence: "頭が痛いとき、この薬を____いいです。"
+optionA: "飲むと"
+optionB: "飲んでも"
+correct: "飲むと"
+explanation: "飲むといいです memberi saran lembut 'sebaiknya minum'. 飲んでもいいです berarti 'boleh minum' (izin), bukan saran yang diminta prompt."
 ---
 ::
 

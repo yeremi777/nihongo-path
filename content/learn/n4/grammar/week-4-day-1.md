@@ -22,22 +22,22 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membedakan たら, ば, なら, dan と berdasarkan jenis kondisi: kejadian, syarat umum, topik pembicaraan, atau hasil otomatis.
+Di akhir pelajaran ini, kamu bisa membedakan たら, ば, なら, dan と berdasarkan jenis kondisinya: kejadian yang ditindaklanjuti, syarat umum, tanggapan atas topik, atau hasil otomatis.
 
-Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya bergantung pada terjemahan bahasa Indonesia.
+Kamu juga akan tahu satu aturan penting: klausa akhir kalimat (perintah, ajakan, atau kehendak pribadi) ikut menentukan pola mana yang boleh dipakai.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca fungsi kalimatnya dulu. Setelah itu cek partikel, bentuk verba, dan nuansa yang membuat satu pola lebih tepat daripada pola lain.
+  <strong>Fokus hari ini:</strong> keempat pola sama-sama berarti "kalau". Jangan pilih dari terjemahan; tanyakan dulu apakah kalimatnya hukum otomatis, syarat umum, kejadian yang ditindaklanjuti, atau tanggapan atas topik.
 </div>
 
 ## Pola Hari Ini
 
 | Fungsi | Pola | Arti praktis | Kapan dipakai |
 |---|---|---|---|
-| Kalau/ketika | 〜たら | Kalau/ketika ~; setelah ~ terjadi | dipakai saat kalau/ketika ~; setelah ~ terjadi; bentuknya （Vた） + ら / （いAdj）-かったら / （なAdj）・（N） + だったら. |
-| Jika | 〜ば | Jika ~; kalau ~ | dipakai saat jika ~; kalau ~; bentuknya （V）ば / （いAdj）-ければ. |
-| Kalau soal | 〜なら | Kalau soal ~; kalau begitu | dipakai saat kalau soal ~; kalau begitu; bentuknya （N）・bentuk biasa + なら. |
-| Kalau , maka secara alami/otomatis | 〜と | Kalau ~, maka secara alami/otomatis ~ | dipakai saat kalau ~, maka secara alami/otomatis ~; bentuknya （V辞書形） + と. |
+| Kejadian + tindak lanjut | 〜たら | "kalau/ketika ~; setelah ~" | satu kejadian masa depan; boleh diikuti kehendak, perintah, atau ajakan |
+| Syarat umum | 〜ば | "jika ~; asalkan ~" | syarat yang berlaku umum, saran, atau sebab-akibat logis |
+| Menanggapi topik | 〜なら | "kalau soal ~; kalau begitu" | menanggapi topik yang baru disebut, lalu memberi saran/pendapat |
+| Hasil otomatis | 〜と | "kalau ~, otomatis ~" | mekanisme alat, petunjuk arah, atau fakta yang selalu berlaku; bukan kehendak pribadi |
 
 ## Peta Pola
 
@@ -48,109 +48,96 @@ Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya ber
   <span>〜と</span>
 </div>
 
-Pola hari ini sama-sama dipakai untuk **kalau dan kondisi**, tetapi petunjuknya berbeda. Perhatikan partikel, bentuk negatif/lampau, bentuk kamus, dan siapa yang menjadi fokus kalimat.
+Keempat pola menerjemahkan "kalau", tetapi masing-masing menyorot hal berbeda. 〜と paling kaku: satu sebab selalu memicu satu akibat otomatis, seperti tombol atau petunjuk arah. 〜ば menyorot **syarat** — "asalkan syaratnya terpenuhi". 〜たら paling luwes: satu kejadian di masa depan, lalu "setelah itu" sesuatu terjadi, dan boleh diikuti kehendak pribadi (帰ります、〜てください、〜ましょう). 〜なら berbeda arah — ia menanggapi topik yang baru disebut lawan bicara, lalu memberi saran. Jadi pertanyaan kuncinya: ini hukum otomatis (と), syarat umum (ば), kejadian yang ditindaklanjuti (たら), atau tanggapan atas topik (なら)?
 
 ## Cara Membentuk Pola
 
-Simbol utama: （N） berarti nomina, （V） berarti verba, （Klausa） berarti klausa, （いAdj） berarti kata sifat-i, dan （なAdj） berarti kata sifat-na.
+Simbol yang dipakai: （Vた） bentuk lampau biasa, （V辞書形） bentuk kamus, （いAdj） kata sifat-i, （なAdj） kata sifat-na, （N） nomina.
 
-| Pola | Bentuk dasar | Catatan bentuk |
+| Pola | Cara membentuk | Contoh bentuk |
 |---|---|---|
-| 〜たら | （Vた） + ら / （いAdj）-かったら / （なAdj）・（N） + だったら | dipakai untuk kalau/ketika ~; setelah ~ terjadi. |
-| 〜ば | （V）ば / （いAdj）-ければ | dipakai untuk jika ~; kalau ~. |
-| 〜なら | （N）・bentuk biasa + なら | dipakai untuk kalau soal ~; kalau begitu. |
-| 〜と | （V辞書形） + と | dipakai untuk kalau ~, maka secara alami/otomatis ~. |
+| 〜たら | （Vた） + ら；（いAdj）→ 〜かったら；（なAdj）・（N） + だったら | 降ったら、安かったら、暇だったら |
+| 〜ば | （V）→ 〜えば；（いAdj）→ 〜ければ | 押せば、安ければ |
+| 〜なら | （V辞書形）・（N） + なら | 行くなら、ラーメンなら |
+| 〜と | （V辞書形） + と | 押すと、曲がると |
+
+Perhatikan klausa akhir kalimat. 〜と **tidak boleh** diikuti perintah, ajakan, atau kehendak pribadi — hanya hasil otomatis. 〜たら dan 〜ば relatif bebas. 〜なら hampir selalu diikuti saran atau pendapat.
 
 ## Bangun Kalimat Bertahap
 
+Dua contoh pembangunan, dari bahan sampai kalimat dengan fungsi yang jelas:
+
 | Langkah | Jepang | Fungsi |
 |---|---|---|
-| Bahan | （Vた） + ら / （いAdj）-かったら / （なAdj）・（N） + だったら | bentuk untuk kalau/ketika |
-| Kalimat | 雨が降ったら、試合は中止です。 | Kalau/ketika ~; setelah ~ terjadi |
-| Bahan | （V）ば / （いAdj）-ければ | bentuk untuk jika |
-| Kalimat | 安ければ、買います。 | Jika ~; kalau ~ |
-| Bahan | （N）・bentuk biasa + なら | bentuk untuk kalau soal |
-| Kalimat | 東京駅に行くなら、地下鉄が便利です。 | Kalau soal ~; kalau begitu |
-| Bahan | （V辞書形） + と | bentuk untuk kalau, maka secara alami/otomatis |
-| Kalimat | このボタンを押すと、ドアが開きます。 | Kalau ~, maka secara alami/otomatis ~ |
+| Bahan | このボタンを押す | tindakan: menekan tombol |
+| Bentuk | 押すと | sebab yang selalu memicu akibat otomatis |
+| Kalimat | このボタンを押すと、ドアが開きます。 | "Kalau tombol ini ditekan, pintunya otomatis terbuka." |
+| Bahan | 東京駅に行く | topik: mau ke Stasiun Tokyo |
+| Bentuk | 行くなら | menanggapi topik itu |
+| Kalimat | 東京駅に行くなら、地下鉄が便利です。 | "Kalau soal ke Stasiun Tokyo, kereta bawah tanah praktis." |
 
-Bagian ini menghubungkan rumus dan kalimat penuh. Mulai dari bentuk pendeknya dulu, lalu cek fungsi pola sebelum membaca contoh lengkap.
+Bandingkan langkah kedua: 〜と menutup kalimat dengan hasil otomatis, sedangkan 〜なら menutupnya dengan saran.
 
 ## Catatan Pemakaian
 
-### 〜たら
+### Hasil otomatis: 〜と
 
-Gunakan pola ini untuk **kalau/ketika ~; setelah ~ terjadi**. Bentuk dasarnya: （Vた） + ら / （いAdj）-かったら / （なAdj）・（N） + だったら.
+Pakai 〜と saat satu hal selalu memicu hal lain: mekanisme alat, arah jalan, atau fakta berulang (右に曲がると、銀行があります). Klausa akhirnya tidak boleh berupa kehendak, ajakan, atau perintah. Register netral; sering muncul di manual dan papan petunjuk.
 
-Catatan praktis: Kondisi yang fleksibel. Sering dipakai untuk kejadian masa depan satu kali atau makna “setelah hal itu terjadi”.
+### Syarat umum dan saran: 〜ば
 
-Contoh inti: 雨が降ったら、試合は中止です。
+Pakai 〜ば untuk syarat yang berlaku umum atau saran: "asalkan murah, saya beli" (安ければ、買います). Cocok juga untuk sebab-akibat logis. Untuk kata sifat-i, い berubah jadi ければ.
 
-### 〜ば
+### Kejadian yang ditindaklanjuti: 〜たら
 
-Gunakan pola ini untuk **jika ~; kalau ~**. Bentuk dasarnya: （V）ば / （いAdj）-ければ.
+〜たら paling luwes dan paling sering muncul dalam percakapan. Maknanya "setelah/begitu ~ terjadi, baru ~", dan boleh diikuti kehendak pribadi, perintah, atau ajakan (家に帰ったら、電話します). Untuk satu rencana masa depan, 〜たら lebih alami daripada 〜と.
 
-Catatan praktis: Sering dipakai untuk syarat umum, saran, atau kondisi yang perlu terpenuhi.
+### Menanggapi topik: 〜なら
 
-Contoh inti: 安ければ、買います。
-
-### 〜なら
-
-Gunakan pola ini untuk **kalau soal ~; kalau begitu**. Bentuk dasarnya: （N）・bentuk biasa + なら.
-
-Catatan praktis: Dipakai saat menanggapi topik atau memberi saran berdasarkan hal yang baru dibicarakan.
-
-Contoh inti: 東京駅に行くなら、地下鉄が便利です。
-
-### 〜と
-
-Gunakan pola ini untuk **kalau ~, maka secara alami/otomatis ~**. Bentuk dasarnya: （V辞書形） + と.
-
-Catatan praktis: Dipakai untuk hasil yang muncul secara alami, cara kerja alat, petunjuk arah, atau fakta berulang. Jangan dipakai untuk keputusan pribadi.
-
-Contoh inti: このボタンを押すと、ドアが開きます。
+〜なら unik karena menanggapi hal yang baru disebut lawan bicara, lalu memberi saran atau pendapat atasnya. "Kalau soal ramen, warung depan stasiun enak" (ラーメンなら、駅前の店がいいです). Berbeda dari 〜たら: 〜なら tidak menunggu kejadiannya benar-benar terjadi, ia hanya menanggapi topiknya.
 
 ## Pola yang Sering Muncul
 
 | Pola | Arti praktis | Contoh konteks |
 |---|---|---|
-| （Vた） + ら / （いAdj）-かったら / （なAdj）・（N） + だったら | Kalau/ketika ~; setelah ~ terjadi | 雨が降ったら、試合は中止です。 |
-| （V）ば / （いAdj）-ければ | Jika ~; kalau ~ | 安ければ、買います。 |
-| （N）・bentuk biasa + なら | Kalau soal ~; kalau begitu | 東京駅に行くなら、地下鉄が便利です。 |
-| （V辞書形） + と | Kalau ~, maka secara alami/otomatis ~ | このボタンを押すと、ドアが開きます。 |
+| （Vた） + ら | Kalau/ketika ~; setelah ~ terjadi | 雨が降ったら、試合は中止です。 |
+| （いAdj）-ければ / （V）えば | Jika ~; asalkan ~ | 安ければ、買います。 |
+| （V辞書形）・（N） + なら | Kalau soal ~; menanggapi topik | 東京駅に行くなら、地下鉄が便利です。 |
+| （V辞書形） + と | Kalau ~, otomatis ~ | このボタンを押すと、ドアが開きます。 |
 
 ## Contoh Kalimat
 
 <div class="example-list">
   <div><p class="jp">夏休みになったら、国に帰ります。</p><p>Kalau libur musim panas tiba, saya akan pulang ke negara saya.</p></div>
-  <div><p class="jp">東京駅に行くなら、地下鉄が便利です。</p><p>Kalau mau ke Stasiun Tokyo, kereta bawah tanah praktis.</p></div>
-  <div><p class="jp">このボタンを押すと、ドアが開きます。</p><p>Kalau tombol ini ditekan, pintunya terbuka.</p></div>
-  <div><p class="jp">雨が降ったら、試合は中止です。</p><p>Kalau hujan turun, pertandingan dibatalkan.</p></div>
-  <div><p class="jp">安ければ、買います。</p><p>Kalau murah, saya akan membelinya.</p></div>
+  <div><p class="jp">東京駅に行くなら、地下鉄が便利です。</p><p>Kalau soal ke Stasiun Tokyo, kereta bawah tanah praktis.</p></div>
+  <div><p class="jp">このボタンを押すと、ドアが開きます。</p><p>Kalau tombol ini ditekan, pintunya otomatis terbuka.</p></div>
+  <div><p class="jp">雨が降ったら、試合は中止です。</p><p>Kalau nanti hujan turun, pertandingan dibatalkan.</p></div>
+  <div><p class="jp">安ければ、買います。</p><p>Asalkan murah, saya akan membelinya.</p></div>
+  <div><p class="jp">右に曲がると、銀行があります。</p><p>Kalau belok kanan, ada bank di situ.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar
 
 | Pasangan | Cara membedakan |
 |---|---|
-| 〜たら / 〜と | Bedakan dari fungsi utamanya: kondisi kejadian yang fleksibel dibanding hasil otomatis atau alami. Petunjuk pilihan: Gunakan 〜たら untuk kejadian masa depan atau respons pribadi. Gunakan 〜と untuk hasil otomatis. |
-| 〜ば / 〜たら | Bedakan dari fungsi utamanya: Syarat umum dibanding syarat berbasis kejadian. Petunjuk pilihan: Gunakan 〜ば untuk “kalau syaratnya benar/terpenuhi”. Gunakan 〜たら untuk “ketika/setelah hal itu terjadi”. |
-| 〜なら / 〜たら | Bedakan dari fungsi utamanya: “Kalau soal ~” berbasis topik dibanding syarat kejadian. Petunjuk pilihan: Gunakan 〜なら saat menanggapi topik. Gunakan 〜たら saat tindakan/kejadian itu benar-benar terjadi. |
-| 〜と / 〜なら | Bedakan dari fungsi utamanya: Hasil otomatis dibanding saran berdasarkan topik. Petunjuk pilihan: Gunakan 〜と untuk arah atau mekanisme. Gunakan 〜なら untuk saran. |
+| 〜たら / 〜と | Cek klausa akhir. Kehendak pribadi, ajakan, atau perintah → 〜たら. Hasil otomatis atau mekanisme yang selalu berlaku → 〜と. |
+| 〜ば / 〜たら | 〜ば untuk syarat umum "asalkan begini". 〜たら untuk "setelah/begitu satu kejadian benar-benar terjadi". |
+| 〜なら / 〜たら | 〜なら menanggapi topik yang baru disebut lalu memberi saran; kejadiannya belum tentu terjadi. 〜たら menunggu kejadian itu benar-benar terjadi dulu. |
+| 〜と / 〜なら | 〜と untuk arah/mekanisme otomatis. 〜なら untuk saran berdasarkan topik. |
 
 ## Kesalahan Umum
 
 | Salah | Benar | Kenapa |
 |---|---|---|
-| 夏休みになると、国に帰ります。 | 夏休みになったら、国に帰ります。 | Tindakan pribadi masa depan biasanya memakai 〜たら, bukan 〜と |
+| 夏休みになると、国に帰ります。 | 夏休みになったら、国に帰ります。 | Rencana pribadi masa depan memakai 〜たら, bukan 〜と (と tidak boleh diikuti kehendak) |
 | 東京駅に行くと、地下鉄が便利です。 | 東京駅に行くなら、地下鉄が便利です。 | Saran berdasarkan topik memakai 〜なら |
-| このボタンを押したら、ドアがいつも開きます。 | このボタンを押すと、ドアが開きます。 | Hasil otomatis memakai 〜と |
+| このボタンを押したら、ドアがいつも開きます。 | このボタンを押すと、ドアが開きます。 | Mekanisme yang selalu berlaku memakai 〜と |
 
-Catatan untuk pembelajar Indonesia: “Kalau” dalam bahasa Indonesia bisa menjadi 〜たら, 〜ば, 〜なら, atau 〜と, tetapi bahasa Jepang membedakannya. Pakai 〜たら untuk “ketika/setelah terjadi”. Pakai 〜ば untuk syarat umum. Pakai 〜なら untuk “kalau soal ~ / kalau begitu”. Pakai 〜と untuk hasil otomatis.
+Catatan untuk pembelajar Indonesia: "Kalau" dalam bahasa Indonesia bisa menjadi 〜たら, 〜ば, 〜なら, atau 〜と, tetapi bahasa Jepang membedakannya. Pakai 〜たら untuk "ketika/setelah terjadi", 〜ば untuk syarat umum, 〜なら untuk "kalau soal ~ / kalau begitu", dan 〜と untuk hasil otomatis.
 
 ## Mini Practice
 
-Pilih jawaban yang paling tepat. Perhatikan petunjuk partikel, bentuk kata, dan konteks kalimat sebelum memilih.
+Pilih jawaban yang paling tepat. Perhatikan klausa akhir kalimat dan jenis kondisinya sebelum memilih.
 
 ::MiniPractice
 ---
@@ -159,51 +146,51 @@ sentence: "夏休みにな____、国に帰ります。"
 optionA: "ったら"
 optionB: "ると"
 correct: "ったら"
-explanation: "ったら benar. Tindakan pribadi masa depan biasanya memakai 〜たら, bukan 〜と"
+explanation: "〜たら benar: pulang ke negara sendiri adalah rencana pribadi untuk satu kejadian masa depan. 〜と dipakai untuk hasil otomatis dan tidak boleh diikuti kehendak seperti 帰ります。"
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kalau mau ke Stasiun Tokyo, kereta bawah tanah praktis."
+question: "Kalau soal ke Stasiun Tokyo, kereta bawah tanah praktis."
 sentence: "東京駅に行く____、地下鉄が便利です。"
 optionA: "なら"
 optionB: "と"
 correct: "なら"
-explanation: "なら benar. Saran berdasarkan topik memakai 〜なら"
+explanation: "〜なら benar karena kalimat menanggapi topik 'mau ke Stasiun Tokyo' lalu memberi saran. 〜と dipakai untuk hasil otomatis, bukan saran."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kalau tombol ini ditekan, pintunya terbuka."
-sentence: "このボタンを押____開きます。"
-optionA: "すと、ドアが"
-optionB: "したら、ドアがいつも"
-correct: "すと、ドアが"
-explanation: "すと、ドアが benar. Hasil otomatis memakai 〜と"
+question: "Kalau tombol ini ditekan, pintunya otomatis terbuka."
+sentence: "このボタンを押す____、ドアが開きます。"
+optionA: "と"
+optionB: "たら"
+correct: "と"
+explanation: "〜と benar karena menekan tombol selalu memicu pintu terbuka secara otomatis — sebuah mekanisme tetap. 〜たら lebih cocok untuk satu kejadian, bukan hukum sebab-akibat yang selalu berlaku."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kalau hujan turun, pertandingan dibatalkan."
-sentence: "雨が降っ____、試合は中止です。"
-optionA: "たら"
-optionB: "ば"
-correct: "たら"
-explanation: "たら benar untuk kondisi setelah sesuatu terjadi atau kalau terjadi."
+question: "Kalau nanti hujan turun, pertandingan dibatalkan."
+sentence: "雨が____、試合は中止です。"
+optionA: "降ったら"
+optionB: "降ると"
+correct: "降ったら"
+explanation: "〜たら benar untuk satu kejadian bersyarat di masa depan yang diikuti keputusan (dibatalkan). 〜と menyiratkan hukum otomatis yang selalu berlaku, kurang cocok untuk keputusan pembatalan."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kalau murah, saya akan membelinya."
+question: "Asalkan harganya murah, saya akan beli."
 sentence: "安____、買います。"
 optionA: "ければ"
-optionB: "かったら"
+optionB: "いと"
 correct: "ければ"
-explanation: "ければ benar sebagai bentuk ば untuk kata sifat-i."
+explanation: "〜ければ (bentuk ば dari 安い) benar untuk menyatakan syarat sebelum keputusan membeli. 安いと (〜と) tidak boleh diikuti kehendak seperti 買います, karena と hanya untuk hasil otomatis."
 ---
 ::
 

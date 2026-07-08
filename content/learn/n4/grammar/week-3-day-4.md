@@ -1,6 +1,6 @@
 ---
 title: "この漢字の読み方はむずかしいです。"
-description: "Belajar pola grammar N4 untuk menjelaskan cara, menghubungkan tindakan, dan menyatakan keadaan tanpa melakukan sesuatu."
+description: "Belajar pola grammar N4 untuk menyambung kalimat dengan konektor, menyatakan tingkat sifat, dan menjelaskan cara melakukan sesuatu."
 level: "N4"
 category: "grammar"
 topic: "この漢字の読み方はむずかしいです。"
@@ -22,23 +22,23 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa menjelaskan cara melakukan sesuatu, menghubungkan tindakan, dan menyatakan keadaan tanpa tindakan tertentu.
+Di akhir pelajaran ini, kamu bisa menyambung dua kalimat dengan konektor yang tepat (tambahan, akibat, atau kejutan), mengubah kata sifat menjadi nomina tingkat/ukuran, dan membuat nomina "cara melakukan ~".
 
 Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya bergantung pada terjemahan bahasa Indonesia.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca fungsi kalimatnya dulu. Setelah itu cek partikel, bentuk verba, dan nuansa yang membuat satu pola lebih tepat daripada pola lain.
+  <strong>Fokus hari ini:</strong> untuk konektor, tanyakan hubungan antar-kalimat — menambah (それに), menghasilkan (それで), atau mengejutkan (ところが)? Untuk 〜さ dan 〜方, perhatikan bentuk kata yang menempel.
 </div>
 
 ## Pola Hari Ini
 
 | Fungsi | Pola | Arti praktis | Kapan dipakai |
 |---|---|---|---|
-| Selain itu | それに・そのうえ | Selain itu; terlebih lagi | dipakai saat selain itu; terlebih lagi; bentuknya Kalimat A。それに／そのうえ + Kalimat B. |
-| Karena itu | それで・だから | Karena itu; jadi | dipakai saat karena itu; jadi; bentuknya Alasan。 それで／だから + hasil. |
-| Namun | ところが | Namun; ternyata | dipakai saat namun; ternyata; bentuknya Dugaan。ところが + hasil tak terduga. |
-| Tingkat / ukuran sifat | 〜さ | Tingkat / ukuran sifat | dipakai saat tingkat / ukuran sifat; bentuknya （いAdj） stem + さ / （なAdj） + さ. |
-| Cara melakukan | （Vますstem）方 | Cara melakukan ~ | dipakai saat cara melakukan ~; bentuknya （Vますstem） + 方. |
+| Menambah poin | それに・そのうえ | selain itu; terlebih lagi | menambah poin searah; そのうえ terasa sedikit lebih formal |
+| Menyatakan akibat | それで・だから | karena itu; jadi | menyambung alasan ke hasil; だから lebih langsung |
+| Kejutan/di luar dugaan | ところが | namun; ternyata | hasil berbeda dari yang diharapkan |
+| Tingkat/ukuran sifat | 〜さ | tinggi/besar/... -nya | mengubah kata sifat menjadi nomina yang bisa diukur |
+| Cara melakukan | （Vますstem）方 | cara melakukan ~ | membuat nomina "cara/metode melakukan （V）" |
 
 ## Peta Pola
 
@@ -50,118 +50,83 @@ Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya ber
   <span>（Vますstem）方</span>
 </div>
 
-Pola hari ini sama-sama dipakai untuk **penghubung dan cara**, tetapi petunjuknya berbeda. Perhatikan partikel, bentuk negatif/lampau, bentuk kamus, dan siapa yang menjadi fokus kalimat.
+Pola hari ini dibagi dua kelompok. Tiga yang pertama adalah **konektor antar-kalimat** yang berbeda arah: それに／そのうえ **menumpuk poin searah** (murah + enak), それで／だから **menghubungkan sebab ke akibat** (ada kecelakaan → terlambat), dan ところが **membalik dugaan** (harusnya ujian → ternyata sakit). Dua yang terakhir adalah **akhiran pembentuk nomina**: 〜さ mengubah kata sifat menjadi ukuran/tingkat (高い → 高さ), dan （Vますstem）方 mengubah verba menjadi "cara melakukannya" (読む → 読み方). Jadi tanyakan dulu: ini menyambung dua kalimat, atau membentuk satu nomina baru?
 
 ## Cara Membentuk Pola
 
-Simbol utama: （N） berarti nomina, （V） berarti verba, （Klausa） berarti klausa, （いAdj） berarti kata sifat-i, dan （なAdj） berarti kata sifat-na.
+それに, それで, dan ところが adalah konektor antar-kalimat, jadi **tidak mengubah bentuk verba** — cukup taruh di awal kalimat kedua. Yang perlu dilatih adalah dua akhiran pembentuk nomina. Simbol: （いAdj） kata sifat-i, （なAdj） kata sifat-na, （Vますstem） akar verba sebelum ます.
 
-| Pola | Bentuk dasar | Catatan bentuk |
+| Pola | Cara membentuk | Yang sering keliru |
 |---|---|---|
-| それに・そのうえ | Kalimat A。それに／そのうえ + Kalimat B | dipakai untuk selain itu; terlebih lagi. |
-| それで・だから | Alasan。 それで／だから + hasil | dipakai untuk karena itu; jadi. |
-| ところが | Dugaan。ところが + hasil tak terduga | dipakai untuk namun; ternyata. |
-| 〜さ | （いAdj） stem + さ / （なAdj） + さ | dipakai untuk tingkat / ukuran sifat. |
-| （Vますstem）方 | （Vますstem） + 方 | dipakai untuk cara melakukan ~. |
+| 〜さ | （いAdj） stem + さ: 高い → 高**さ**; （なAdj） + さ: 便利 → 便利**さ** | memakai bentuk penuh: 高い**さ** → 高**さ** |
+| （Vますstem）方 | ambil akar 〜ます lalu tambah 方: 読みます → 読み**方** | memakai bentuk kamus: 読む方 → 読み**方** |
 
 ## Bangun Kalimat Bertahap
 
 | Langkah | Jepang | Fungsi |
 |---|---|---|
-| Bahan | Kalimat A。それに／そのうえ + Kalimat B | bentuk untuk selain itu |
-| Kalimat | この店は安いです。それに、おいしいです。 | Selain itu; terlebih lagi |
-| Bahan | Alasan。 それで／だから + hasil | bentuk untuk karena itu |
-| Kalimat | 電車で事故がありました。それで、遅れました。 | Karena itu; jadi |
-| Bahan | Dugaan。ところが + hasil tak terduga | bentuk untuk namun |
-| Kalimat | 昨日は試験の日でした。ところが、病気で受けられませんでした。 | Namun; ternyata |
-| Bahan | （いAdj） stem + さ / （なAdj） + さ | bentuk untuk tingkat / ukuran sifat |
-| Kalimat | あの山の高さを知っていますか。 | Tingkat / ukuran sifat |
-| Bahan | （Vますstem） + 方 | bentuk untuk cara melakukan |
-| Kalimat | この漢字の読み方を教えてください。 | Cara melakukan ~ |
+| Bahan | 高い | kata sifat: tinggi |
+| Bentuk | 高さ | jadi nomina "ketinggian" yang bisa diukur |
+| Kalimat | あの山の高さを知っていますか。 | "Apakah kamu tahu tinggi gunung itu?" |
+| Bahan | 読みます | verba: membaca |
+| Bentuk | 読み方 | jadi nomina "cara membaca" |
+| Kalimat | この漢字の読み方を教えてください。 | "Tolong ajari saya cara membaca kanji ini." |
 
-Bagian ini menghubungkan rumus dan kalimat penuh. Mulai dari bentuk pendeknya dulu, lalu cek fungsi pola sebelum membaca contoh lengkap.
+Perhatikan langkah tengah: dari kata sifat/verba, buang ekor aslinya (い／ます) sebelum menempelkan さ atau 方.
 
 ## Catatan Pemakaian
 
-### それに・そのうえ
+### Menambah poin: それに・そのうえ
 
-Gunakan pola ini untuk **selain itu; terlebih lagi**. Bentuk dasarnya: Kalimat A。それに／そのうえ + Kalimat B.
+Keduanya menumpuk poin yang **searah** (sama-sama positif atau sama-sama negatif): この店は安いです。**それに**、おいしいです。 Jangan pakai untuk membalik arah. そのうえ terdengar sedikit lebih formal/tertulis, それに lebih santai.
 
-Catatan praktis: Menambahkan poin sejenis. そのうえ terdengar sedikit lebih formal.
+### Sebab-akibat vs kejutan: それで・だから vs ところが
 
-Contoh inti: この店は安いです。それに、おいしいです。
+それで／だから menyambung **alasan → hasil** (電車で事故がありました。**それで**、遅れました). だから lebih tegas dan langsung sebagai kesimpulan. Sebaliknya, ところが memasang **hasil yang mengejutkan**, berlawanan dari dugaan (試験の日でした。**ところが**、病気で受けられませんでした). Ini yang paling mudah tertukar dengan それで di ujian.
 
-### それで・だから
+### Membentuk nomina: 〜さ dan （Vますstem）方
 
-Gunakan pola ini untuk **karena itu; jadi**. Bentuk dasarnya: Alasan。 それで／だから + hasil.
-
-Catatan praktis: Menghubungkan alasan dan hasil. だから lebih langsung.
-
-Contoh inti: 電車で事故がありました。それで、遅れました。
-
-### ところが
-
-Gunakan pola ini untuk **namun; ternyata**. Bentuk dasarnya: Dugaan。ところが + hasil tak terduga.
-
-Catatan praktis: Dipakai saat hasilnya berbeda dari dugaan.
-
-Contoh inti: 昨日は試験の日でした。ところが、病気で受けられませんでした。
-
-### 〜さ
-
-Gunakan pola ini untuk **tingkat / ukuran sifat**. Bentuk dasarnya: （いAdj） stem + さ / （なAdj） + さ.
-
-Catatan praktis: Mengubah kata sifat menjadi nomina yang menunjukkan tingkat atau ukuran.
-
-Contoh inti: あの山の高さを知っていますか。
-
-### （Vますstem）方
-
-Gunakan pola ini untuk **cara melakukan ~**. Bentuk dasarnya: （Vますstem） + 方.
-
-Catatan praktis: Membuat nomina bermakna “cara melakukan V”.
-
-Contoh inti: この漢字の読み方を教えてください。
+〜さ mengubah kata sifat menjadi **ukuran/tingkat yang bisa dihitung atau ditanyakan** (高**さ**, 重**さ**, 便利**さ**). （Vますstem）方 mengubah verba menjadi **"cara melakukan"** (読み**方**, 使い**方**, 作り**方**). Keduanya menghasilkan nomina, jadi sering diikuti を, は, atau が.
 
 ## Pola yang Sering Muncul
 
-| Pola | Arti praktis | Contoh konteks |
+| Petunjuk di kalimat | Pola yang cocok | Contoh |
 |---|---|---|
-| Kalimat A。それに／そのうえ + Kalimat B | Selain itu; terlebih lagi | この店は安いです。それに、おいしいです。 |
-| Alasan。 それで／だから + hasil | Karena itu; jadi | 電車で事故がありました。それで、遅れました。 |
-| Dugaan。ところが + hasil tak terduga | Namun; ternyata | 昨日は試験の日でした。ところが、病気で受けられませんでした。 |
-| （いAdj） stem + さ / （なAdj） + さ | Tingkat / ukuran sifat | あの山の高さを知っていますか。 |
-| （Vますstem） + 方 | Cara melakukan ~ | この漢字の読み方を教えてください。 |
+| Poin kedua searah, memperkuat | それに・そのうえ | 安いです。それに、近いです。 |
+| Kalimat pertama adalah alasan | それで・だから | 事故がありました。それで、遅れました。 |
+| Kalimat kedua mengejutkan | ところが | 晴れる予定でした。ところが、雨でした。 |
+| Ada を／は setelah kata sifat | 〜さ | 山の高さを調べます。 |
+| Bertanya "bagaimana cara ~" | （Vますstem）方 | 使い方を教えてください。 |
 
 ## Contoh Kalimat
 
 <div class="example-list">
-  <div><p class="jp">電車で事故がありました。それで、遅れました。</p><p>Ada kecelakaan kereta, jadi saya terlambat.</p></div>
-  <div><p class="jp">試験の日でした。ところが、病気で受けられませんでした。</p><p>Hari itu hari ujian. Namun, ternyata saya tidak bisa ikut karena sakit.</p></div>
-  <div><p class="jp">この漢字の読み方を教えてください。</p><p>Tolong beri tahu saya cara membaca kanji ini.</p></div>
   <div><p class="jp">この店は安いです。それに、おいしいです。</p><p>Toko ini murah. Selain itu, makanannya enak.</p></div>
-  <div><p class="jp">昨日は試験の日でした。ところが、病気で受けられませんでした。</p><p>Kemarin adalah hari ujian. Namun ternyata, saya sakit dan tidak bisa mengikutinya.</p></div>
+  <div><p class="jp">この部屋は広いです。そのうえ、駅に近いです。</p><p>Kamar ini luas. Terlebih lagi, dekat dengan stasiun.</p></div>
+  <div><p class="jp">電車で事故がありました。それで、遅れました。</p><p>Ada kecelakaan kereta, jadi saya terlambat.</p></div>
+  <div><p class="jp">昨日は試験の日でした。ところが、病気で受けられませんでした。</p><p>Kemarin hari ujian. Namun ternyata, saya sakit dan tidak bisa ikut.</p></div>
   <div><p class="jp">あの山の高さを知っていますか。</p><p>Apakah kamu tahu tinggi gunung itu?</p></div>
+  <div><p class="jp">この漢字の読み方を教えてください。</p><p>Tolong ajari saya cara membaca kanji ini.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar
 
 | Pasangan | Cara membedakan |
 |---|---|
-| それに / そのうえ | Bedakan dari fungsi utamanya: Tambahan santai dibanding tambahan yang sedikit lebih formal. Petunjuk pilihan: Gunakan keduanya untuk makna “selain itu”. Gunakan そのうえ dalam tulisan atau ucapan yang lebih hati-hati. |
-| それで / だから | Bedakan dari fungsi utamanya: Hasil dari situasi dibanding kesimpulan langsung. Petunjuk pilihan: Gunakan それで untuk hasil yang muncul secara alami. Gunakan だから untuk hubungan alasan-kesimpulan yang jelas. |
-| ところが / でも | Bedakan dari fungsi utamanya: Hasil tak terduga dibanding “tetapi” biasa. Petunjuk pilihan: Gunakan ところが saat kenyataan berbeda dari dugaan. Gunakan でも untuk kontras biasa. |
-| 〜さ / （Vますstem）方 | Bedakan dari fungsi utamanya: Nomina tingkat/ukuran dibanding nomina cara. Petunjuk pilihan: Gunakan 〜さ untuk ukuran/tingkat. Gunakan （Vますstem）方 untuk cara melakukan sesuatu. |
+| それに / そのうえ | Sama-sama "selain itu" dan searah. Pakai そのうえ dalam tulisan atau ucapan yang lebih formal. |
+| それで / だから | それで = akibat yang muncul dari situasi. だから = kesimpulan/alasan yang lebih tegas ("makanya"). |
+| それで / ところが | Kalimat kedua sesuai dugaan → それで. Kalimat kedua mengejutkan/berlawanan → ところが. |
+| 〜さ / （Vますstem）方 | 〜さ untuk ukuran atau tingkat sifat (高さ). 〜方 untuk cara melakukan sesuatu (読み方). |
 
 ## Kesalahan Umum
 
 | Salah | Benar | Kenapa |
 |---|---|---|
-| 電車で事故がありました。それに、遅れました。 | 電車で事故がありました。それで、遅れました。 | それで／だから menghubungkan alasan ke hasil |
-| 試験の日でした。それで、病気で受けられませんでした。 | 試験の日でした。ところが、病気で受けられませんでした。 | ところが menunjukkan hasil yang tidak sesuai dugaan |
-| この漢字の読む方を教えてください。 | この漢字の読み方を教えてください。 | V方 memakai bentuk sebelum ます |
+| 電車で事故がありました。それに、遅れました。 | 電車で事故がありました。それで、遅れました。 | Sebab → akibat memakai それで, bukan それに (yang hanya menambah poin) |
+| 試験の日でした。それで、病気で受けられませんでした。 | 試験の日でした。ところが、病気で受けられませんでした。 | Hasil yang mengejutkan memakai ところが, bukan それで |
+| この漢字の読む方を教えてください。 | この漢字の読み方を教えてください。 | V方 memakai akar 〜ます (読み), bukan bentuk kamus 読む |
 
-Catatan untuk pembelajar Indonesia: “Jadi” dalam bahasa Indonesia bisa menjadi それで atau だから, tetapi nuansa Jepangnya sedikit berbeda. それで = karena situasi itu, hal ini terjadi; だから = karena itu; ところが = tetapi ternyata; それに／そのうえ = selain itu.
+Catatan untuk pembelajar Indonesia: "Jadi" bisa menjadi それで atau だから, tetapi nuansanya berbeda. それで = karena situasi itu, hal ini terjadi; だから = makanya/oleh karena itu (lebih tegas); ところが = tetapi ternyata; それに／そのうえ = selain itu.
 
 ## Mini Practice
 
@@ -174,7 +139,7 @@ sentence: "電車で事故がありました。それ____、遅れました。"
 optionA: "で"
 optionB: "に"
 correct: "で"
-explanation: "で benar. それで／だから menghubungkan alasan ke hasil"
+explanation: "それで benar karena kalimat pertama adalah alasan keterlambatan (sebab → akibat). それに hanya menambah poin searah, bukan menyatakan akibat."
 ---
 ::
 
@@ -185,18 +150,18 @@ sentence: "試験の日でした。____、病気で受けられませんでし�
 optionA: "ところが"
 optionB: "それで"
 correct: "ところが"
-explanation: "ところが benar. ところが menunjukkan hasil yang tidak sesuai dugaan"
+explanation: "ところが benar karena hasilnya mengejutkan dan berlawanan dari dugaan (harusnya ikut ujian, ternyata sakit). それで dipakai bila hasilnya wajar."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Tolong beri tahu saya cara membaca kanji ini."
+question: "Tolong ajari saya cara membaca kanji ini."
 sentence: "この漢字の読____方を教えてください。"
 optionA: "み"
 optionB: "む"
 correct: "み"
-explanation: "み benar. V方 memakai bentuk sebelum ます"
+explanation: "読み方 benar: 〜方 memakai akar bentuk ます (読み). 読む方 salah karena memakai bentuk kamus."
 ---
 ::
 
@@ -207,18 +172,18 @@ sentence: "この店は安いです。____、おいしいです。"
 optionA: "それに"
 optionB: "それで"
 correct: "それに"
-explanation: "それに benar untuk menambahkan informasi pendukung."
+explanation: "それに benar karena menambah poin searah (murah + enak). それで berarti 'karena itu', padahal enak bukan akibat dari murah."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kemarin hari ujian. Namun ternyata, saya sakit dan tidak bisa ikut."
-sentence: "昨日は試験の日でした。____、病気で受けられませんでした。"
-optionA: "ところが"
-optionB: "それで"
-correct: "ところが"
-explanation: "ところが benar karena hasilnya berlawanan dengan dugaan awal."
+question: "Apakah kamu tahu tinggi gunung itu?"
+sentence: "あの山の高____を知っていますか。"
+optionA: "さ"
+optionB: "み"
+correct: "さ"
+explanation: "高さ benar: 〜さ membentuk nomina ukuran/tingkat (ketinggian yang bisa diukur). 高み berarti 'tempat tinggi/puncak', bukan ukuran tinggi."
 ---
 ::
 

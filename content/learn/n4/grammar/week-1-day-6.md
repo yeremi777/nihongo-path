@@ -27,22 +27,22 @@ Di akhir pelajaran ini, kamu bisa membicarakan pengalaman, keputusan pribadi, ke
 Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya bergantung pada terjemahan bahasa Indonesia.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca fungsi kalimatnya dulu. Setelah itu cek partikel, bentuk verba, dan nuansa yang membuat satu pola lebih tepat daripada pola lain.
+  <strong>Fokus hari ini:</strong> banyak pola hanya berbeda pada する vs なる. する = ada pelaku yang sengaja memilih/mengubah; なる = perubahan terjadi atau diputuskan dengan sendirinya. Tentukan dulu siapa yang bertindak.
 </div>
 
 ## Pola Hari Ini
 
 | Fungsi | Pola | Arti praktis | Kapan dipakai |
 |---|---|---|---|
-| Pernah / tidak pernah melakukan | 〜たことがある・ない | Pernah / tidak pernah melakukan ~ | dipakai saat pernah / tidak pernah melakukan ~; bentuknya （Vた） + ことがある／ない. |
-| Kadang-kadang  terjadi | 〜ことがある | Kadang-kadang ~ terjadi; kadang melakukan ~ | dipakai saat kadang-kadang ~ terjadi; kadang melakukan ~; bentuknya （V辞書形／Vない形） + ことがある. |
-| Memilih | 〜にする | Memilih ~; memutuskan ~ | dipakai saat memilih ~; memutuskan ~; bentuknya （N） + にする. |
-| Memutuskan untuk melakukan / tidak melakukan | 〜ことにする | Memutuskan untuk melakukan / tidak melakukan ~ | dipakai saat memutuskan untuk melakukan / tidak melakukan ~; bentuknya （V辞書形／Vない形） + ことにする. |
-| Membiasakan / membuat aturan pribadi untuk | 〜ことにしている | Membiasakan / membuat aturan pribadi untuk ~ | dipakai saat membiasakan / membuat aturan pribadi untuk ~; bentuknya （V辞書形／Vない形） + ことにしている. |
-| Menjadi | 〜になる | Menjadi ~; diputuskan menjadi ~ | dipakai saat menjadi ~; diputuskan menjadi ~; bentuknya （N） + になる. |
-| Diputuskan bahwa | 〜ことになる | Diputuskan bahwa ~ | dipakai saat diputuskan bahwa ~; bentuknya （V辞書形／Vない形） + ことになる. |
-| Membuat sesuatu menjadi | 〜くする・〜にする | Membuat sesuatu menjadi ~ | dipakai saat membuat sesuatu menjadi ~; bentuknya （いAdj）-くする / （なAdj） + にする. |
-| Menjadi | 〜くなる・〜になる | Menjadi ~ | dipakai saat menjadi ~; bentuknya （いAdj）-くなる / （なAdj） + になる. |
+| Pengalaman | 〜たことがある・ない | pernah / tidak pernah melakukan ~ | menyebut pengalaman masa lalu |
+| Kadang-kadang | 〜ことがある | kadang ~ terjadi/dilakukan | kegiatan yang sesekali muncul |
+| Memilih item | 〜にする | memilih ~ | memilih dari opsi (makanan, minuman, rencana) |
+| Keputusan sendiri | 〜ことにする | memutuskan untuk (tidak) melakukan ~ | subjek sengaja memutuskan suatu tindakan |
+| Kebiasaan pribadi | 〜ことにしている | membiasakan / aturan pribadi untuk ~ | aturan atau rutinitas yang sedang dijalankan |
+| Menjadi (nomina) | 〜になる | menjadi ~ | perubahan menuju status/nomina baru |
+| Diputuskan dari luar | 〜ことになる | diputuskan bahwa ~ | keputusan dibuat aturan, situasi, atau orang lain |
+| Membuat berubah | 〜くする・〜にする | membuat sesuatu menjadi ~ | pelaku sengaja mengubah keadaan |
+| Menjadi berubah | 〜くなる・〜になる | menjadi ~ | perubahan terjadi atau menjadi hasil |
 
 ## Peta Pola
 
@@ -58,137 +58,82 @@ Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya ber
   <span>〜くなる・〜になる</span>
 </div>
 
-Pola hari ini sama-sama dipakai untuk **pengalaman, keputusan, perubahan**, tetapi petunjuknya berbeda. Perhatikan partikel, bentuk negatif/lampau, bentuk kamus, dan siapa yang menjadi fokus kalimat.
+Pola hari ini terbagi tiga kelompok. **Pengalaman**: Vたことがある (pernah) vs Vることがある (kadang) — bentuk verbanya yang membedakan. **Keputusan**: にする memilih item, ことにする keputusan sendiri, ことにしている kebiasaan yang berjalan, ことになる keputusan dari luar. **Perubahan**: になる berubah jadi nomina, sedangkan pasangan くする/にする (pelaku sengaja, objek pakai を) berlawanan dengan くなる/になる (perubahan alami, subjek pakai が). Benang merahnya: する berarti ada pelaku yang sengaja, なる berarti terjadi/diputuskan dengan sendirinya.
 
 ## Cara Membentuk Pola
 
-Simbol utama: （N） berarti nomina, （V） berarti verba, （Klausa） berarti klausa, （いAdj） berarti kata sifat-i, dan （なAdj） berarti kata sifat-na.
+Simbol: （N）= nomina, （V）= verba, （いAdj）= kata sifat-i, （なAdj）= kata sifat-na. Bentuk verba ditulis eksplisit seperti （Vた） dan （V辞書形／Vない形）.
 
-| Pola | Bentuk dasar | Catatan bentuk |
+| Pola | Bentuk dasar | Yang perlu dicek |
 |---|---|---|
-| 〜たことがある・ない | （Vた） + ことがある／ない | dipakai untuk pernah / tidak pernah melakukan ~. |
-| 〜ことがある | （V辞書形／Vない形） + ことがある | dipakai untuk kadang-kadang ~ terjadi; kadang melakukan ~. |
-| 〜にする | （N） + にする | dipakai untuk memilih ~; memutuskan ~. |
-| 〜ことにする | （V辞書形／Vない形） + ことにする | dipakai untuk memutuskan untuk melakukan / tidak melakukan ~. |
-| 〜ことにしている | （V辞書形／Vない形） + ことにしている | dipakai untuk membiasakan / membuat aturan pribadi untuk ~. |
-| 〜になる | （N） + になる | dipakai untuk menjadi ~; diputuskan menjadi ~. |
-| 〜ことになる | （V辞書形／Vない形） + ことになる | dipakai untuk diputuskan bahwa ~. |
-| 〜くする・〜にする | （いAdj）-くする / （なAdj） + にする | dipakai untuk membuat sesuatu menjadi ~. |
-| 〜くなる・〜になる | （いAdj）-くなる / （なAdj） + になる | dipakai untuk menjadi ~. |
+| 〜たことがある・ない | （Vた）ことがある／ない | wajib bentuk た untuk pengalaman |
+| 〜ことがある | （V辞書形／Vない形）ことがある | bentuk kamus/nai untuk "kadang" |
+| 〜にする | （N）にする | memilih nomina atau opsi |
+| 〜ことにする | （V辞書形／Vない形）ことにする | keputusan sendiri, sengaja |
+| 〜ことにしている | （V辞書形／Vない形）ことにしている | kebiasaan/aturan yang berjalan |
+| 〜になる | （N）になる | perubahan atau hasil menuju nomina |
+| 〜ことになる | （V辞書形／Vない形）ことになる | keputusan dari luar/situasi |
+| 〜くする・〜にする | （いAdj）くする／（なAdj）にする | pelaku sengaja; objek pakai を |
+| 〜くなる・〜になる | （いAdj）くなる／（なAdj）になる | perubahan alami; subjek pakai が |
 
 ## Bangun Kalimat Bertahap
 
 | Langkah | Jepang | Fungsi |
 |---|---|---|
-| Bahan | （Vた） + ことがある／ない | bentuk untuk pernah / tidak pernah melakukan |
-| Kalimat | 富士山に登ったことがあります。 | Pernah / tidak pernah melakukan ~ |
-| Bahan | （V辞書形／Vない形） + ことがある | bentuk untuk kadang-kadang terjadi |
-| Kalimat | 休みの日に料理することがあります。 | Kadang-kadang ~ terjadi; kadang melakukan ~ |
-| Bahan | （N） + にする | bentuk untuk memilih |
-| Kalimat | コーヒーにします。 | Memilih ~; memutuskan ~ |
-| Bahan | （V辞書形／Vない形） + ことにする | bentuk untuk memutuskan untuk melakukan / tidak melakukan |
-| Kalimat | 毎日勉強することにしました。 | Memutuskan untuk melakukan / tidak melakukan ~ |
-| Bahan | （V辞書形／Vない形） + ことにしている | bentuk untuk membiasakan / membuat aturan pribadi untuk |
-| Kalimat | 夜は甘いものを食べないことにしています。 | Membiasakan / membuat aturan pribadi untuk ~ |
+| Bahan | 富士山に登る | tindakan sebagai pengalaman |
+| Bentuk | 登ったことがある | た + ことがある (pernah) |
+| Kalimat | 富士山に登ったことがあります。 | Saya pernah mendaki Gunung Fuji. |
+| Bahan | 毎日勉強する | tindakan yang diputuskan |
+| Bentuk | 勉強することにする | keputusan sendiri |
+| Kalimat | 毎日勉強することにしました。 | Saya memutuskan untuk belajar setiap hari. |
+| Bahan | 明るい | sifat yang dituju |
+| Bentuk | 明るくする | pelaku mengubah (objek pakai を) |
+| Kalimat | 部屋を明るくしました。 | Saya membuat kamar menjadi terang. |
 
-Bagian ini menghubungkan rumus dan kalimat penuh. Mulai dari bentuk pendeknya dulu, lalu cek fungsi pola sebelum membaca contoh lengkap.
+Perhatikan langkah tengah: た/辞書形 menentukan makna pengalaman, dan する vs なる menentukan siapa yang bertindak.
 
 ## Catatan Pemakaian
 
-### 〜たことがある・ない
+### Pengalaman: たことがある vs ことがある
 
-Gunakan pola ini untuk **pernah / tidak pernah melakukan ~**. Bentuk dasarnya: （Vた） + ことがある／ない.
+- **Vたことがある／ない** menyatakan pengalaman pernah/tidak pernah, bukan tindakan yang baru selesai: 富士山に登ったことがあります。
+- **Vる／Vないことがある** menyatakan kegiatan yang kadang-kadang terjadi: 休みの日に料理することがあります。Beda bentuk verba, beda makna.
 
-Catatan praktis: Menyatakan pengalaman masa lalu, bukan tindakan yang baru saja selesai.
+### Keputusan: にする, ことにする, ことにしている, ことになる
 
-Contoh inti: 富士山に登ったことがあります。
+- **N + にする** memilih dari opsi seperti makanan atau rencana: コーヒーにします。
+- **Vることにする** = subjek sengaja memutuskan suatu tindakan: 毎日勉強することにしました。
+- **Vることにしている** = kebiasaan atau aturan pribadi yang sedang dijalankan: 夜は甘いものを食べないことにしています。
+- **Vることになる** = keputusan dibuat oleh aturan, situasi, atau orang lain: 学校で来月、動物園へ行くことになりました。
 
-### 〜ことがある
+### Perubahan: なる vs する
 
-Gunakan pola ini untuk **kadang-kadang ~ terjadi; kadang melakukan ~**. Bentuk dasarnya: （V辞書形／Vない形） + ことがある.
-
-Catatan praktis: berbeda dari Vたことがある. This berarti “sometimes.”
-
-Contoh inti: 休みの日に料理することがあります。
-
-### 〜にする
-
-Gunakan pola ini untuk **memilih ~; memutuskan ~**. Bentuk dasarnya: （N） + にする.
-
-Catatan praktis: Dipakai saat memilih dari opsi seperti makanan, minuman, atau rencana.
-
-Contoh inti: コーヒーにします。
-
-### 〜ことにする
-
-Gunakan pola ini untuk **memutuskan untuk melakukan / tidak melakukan ~**. Bentuk dasarnya: （V辞書形／Vない形） + ことにする.
-
-Catatan praktis: Pembicara atau subjek memutuskan dengan sengaja.
-
-Contoh inti: 毎日勉強することにしました。
-
-### 〜ことにしている
-
-Gunakan pola ini untuk **membiasakan / membuat aturan pribadi untuk ~**. Bentuk dasarnya: （V辞書形／Vない形） + ことにしている.
-
-Catatan praktis: menunjukkan a personal habit, rule, atau routine.
-
-Contoh inti: 夜は甘いものを食べないことにしています。
-
-### 〜になる
-
-Gunakan pola ini untuk **menjadi ~; diputuskan menjadi ~**. Bentuk dasarnya: （N） + になる.
-
-Catatan praktis: menunjukkan perubahan atau hasil yang terjadi secara alami/karena situasi.
-
-Contoh inti: 来年、中学生になります。
-
-### 〜ことになる
-
-Gunakan pola ini untuk **diputuskan bahwa ~**. Bentuk dasarnya: （V辞書形／Vない形） + ことになる.
-
-Catatan praktis: The decision is made by others, rules, atau circumstances.
-
-Contoh inti: 学校で来月、動物園へ行くことになりました。
-
-### 〜くする・〜にする
-
-Gunakan pola ini untuk **membuat sesuatu menjadi ~**. Bentuk dasarnya: （いAdj）-くする / （なAdj） + にする.
-
-Catatan praktis: する menunjukkan perubahan sengaja oleh seseorang.
-
-Contoh inti: 部屋を明るくしました。
-
-### 〜くなる・〜になる
-
-Gunakan pola ini untuk **menjadi ~**. Bentuk dasarnya: （いAdj）-くなる / （なAdj） + になる.
-
-Catatan praktis: なる menunjukkan perubahan alami atau keadaan hasil.
-
-Contoh inti: 日本語が上手になりました。
+- **N + になる** menandai perubahan menuju status baru: 来年、中学生になります。
+- **いAdjくする / なAdjにする** = pelaku sengaja mengubah keadaan; objeknya pakai を: 部屋を明るくしました。
+- **いAdjくなる / なAdjになる** = perubahan terjadi sendiri atau menjadi hasil; subjeknya pakai が: 部屋が明るくなりました。
 
 ## Pola yang Sering Muncul
 
 | Pola | Arti praktis | Contoh konteks |
 |---|---|---|
-| （Vた） + ことがある／ない | Pernah / tidak pernah melakukan ~ | 富士山に登ったことがあります。 |
-| （V辞書形／Vない形） + ことがある | Kadang-kadang ~ terjadi; kadang melakukan ~ | 休みの日に料理することがあります。 |
-| （N） + にする | Memilih ~; memutuskan ~ | コーヒーにします。 |
-| （V辞書形／Vない形） + ことにする | Memutuskan untuk melakukan / tidak melakukan ~ | 毎日勉強することにしました。 |
-| （V辞書形／Vない形） + ことにしている | Membiasakan / membuat aturan pribadi untuk ~ | 夜は甘いものを食べないことにしています。 |
-| （N） + になる | Menjadi ~; diputuskan menjadi ~ | 来年、中学生になります。 |
-| （V辞書形／Vない形） + ことになる | Diputuskan bahwa ~ | 学校で来月、動物園へ行くことになりました。 |
-| （いAdj）-くする / （なAdj） + にする | Membuat sesuatu menjadi ~ | 部屋を明るくしました。 |
-| （いAdj）-くなる / （なAdj） + になる | Menjadi ~ | 日本語が上手になりました。 |
+| （Vた）ことがある／ない | Pernah / tidak pernah ~ | 富士山に登ったことがあります。 |
+| （V辞書形／Vない形）ことがある | Kadang-kadang ~ | 休みの日に料理することがあります。 |
+| （N）にする | Memilih ~ | コーヒーにします。 |
+| （V辞書形／Vない形）ことにする | Memutuskan sendiri untuk ~ | 毎日勉強することにしました。 |
+| （V辞書形／Vない形）ことにしている | Kebiasaan/aturan pribadi | 夜は甘いものを食べないことにしています。 |
+| （N）になる | Menjadi ~ | 来年、中学生になります。 |
+| （V辞書形／Vない形）ことになる | Diputuskan dari luar | 動物園へ行くことになりました。 |
+| （いAdj）くする／（なAdj）にする | Membuat sesuatu menjadi ~ | 部屋を明るくしました。 |
+| （いAdj）くなる／（なAdj）になる | Menjadi ~ (alami) | 部屋が明るくなりました。 |
 
 ## Contoh Kalimat
 
 <div class="example-list">
   <div><p class="jp">富士山に登ったことがあります。</p><p>Saya pernah mendaki Gunung Fuji.</p></div>
   <div><p class="jp">休みの日に料理することがあります。</p><p>Saya kadang-kadang memasak saat libur.</p></div>
-  <div><p class="jp">毎日勉強することにしました。</p><p>Saya memutuskan untuk belajar setiap hari.</p></div>
-  <div><p class="jp">学校で来月、動物園へ行くことになりました。</p><p>Diputuskan bahwa bulan depan kami akan pergi ke kebun binatang dari sekolah.</p></div>
-  <div><p class="jp">部屋を明るくしました。</p><p>Saya membuat kamar menjadi terang.</p></div>
+  <div><p class="jp">飲み物はコーヒーにします。</p><p>Untuk minumannya, saya pilih kopi.</p></div>
+  <div><p class="jp">夜は甘いものを食べないことにしています。</p><p>Saya membiasakan diri tidak makan yang manis di malam hari.</p></div>
+  <div><p class="jp">来年、中学生になります。</p><p>Tahun depan saya menjadi murid SMP.</p></div>
   <div><p class="jp">部屋が明るくなりました。</p><p>Kamar menjadi terang.</p></div>
 </div>
 
@@ -196,24 +141,24 @@ Contoh inti: 日本語が上手になりました。
 
 | Pasangan | Cara membedakan |
 |---|---|
-| （Vた）ことがある / （Vる）ことがある | Bedakan dari fungsi utamanya: Pengalaman lampau dibanding tindakan sesekali. Petunjuk pilihan: Gunakan （Vた）ことがある untuk “pernah melakukan”. Gunakan （Vる）ことがある untuk “kadang melakukan”. |
-| 〜にする / 〜ことにする | Bedakan dari fungsi utamanya: Memilih nomina dibanding memutuskan melakukan tindakan. Petunjuk pilihan: Gunakan にする untuk memilih item. Gunakan ことにする untuk memutuskan tindakan. |
-| 〜ことにする / 〜ことになる | Bedakan dari fungsi utamanya: Keputusan pribadi dibanding keputusan dari luar. Petunjuk pilihan: Gunakan ことにする saat subjeknya memutuskan sendiri. Gunakan ことになる saat keputusan dibuat oleh situasi, aturan, atau orang lain. |
-| 〜ことにしている / 〜ことにする | Bedakan dari fungsi utamanya: kebiasaan atau aturan pribadi dibanding keputusan satu kali. Petunjuk pilihan: Gunakan ことにしている untuk aturan pribadi yang masih berjalan. Gunakan ことにする untuk keputusan yang dibuat saat itu. |
-| 〜くする／〜にする / 〜くなる／〜になる | Bedakan dari fungsi utamanya: Membuat sesuatu berubah dibanding menjadi berubah. Petunjuk pilihan: Gunakan する saat seseorang menyebabkan perubahan. Gunakan なる saat perubahan terjadi atau menjadi hasil. |
+| （Vた）ことがある / （Vる）ことがある | （Vた）ことがある untuk "pernah melakukan" (pengalaman); （Vる）ことがある untuk "kadang melakukan". |
+| 〜にする / 〜ことにする | にする untuk memilih item/opsi; ことにする untuk memutuskan suatu tindakan. |
+| 〜ことにする / 〜ことになる | ことにする saat subjek memutuskan sendiri; ことになる saat keputusan datang dari situasi, aturan, atau orang lain. |
+| 〜ことにしている / 〜ことにする | ことにしている untuk aturan pribadi yang masih berjalan; ことにする untuk keputusan yang dibuat saat itu. |
+| 〜くする／〜にする / 〜くなる／〜になる | する saat ada pelaku yang mengubah (objek pakai を); なる saat perubahan terjadi sendiri (subjek pakai が). |
 
 ## Kesalahan Umum
 
 | Salah | Benar | Kenapa |
 |---|---|---|
 | 富士山に登ることがあります。 | 富士山に登ったことがあります。 | Pengalaman masa lalu memakai Vたことがある |
-| 休みの日に料理したことがあります。 | 休みの日に料理することがあります。 | Kebiasaan kadang-kadang memakai Vることがある |
+| 休みの日に料理したことがあります。 | 休みの日に料理することがあります。 | Kebiasaan "kadang-kadang" memakai Vることがある |
 | 毎日勉強することになります。 | 毎日勉強することにしました。 | Keputusan pribadi memakai ことにする |
 | 学校で来月、動物園へ行くことにしました。 | 学校で来月、動物園へ行くことになりました。 | Keputusan dari luar memakai ことになる |
-| 部屋が明るくしました。 | 部屋を明るくしました。 | Objek yang diubah seseorang memakai を dengan 〜くする |
+| 部屋が明るくしました。 | 部屋を明るくしました。 | Objek yang diubah pelaku memakai を dengan 〜くする |
 | 部屋を明るくなりました。 | 部屋が明るくなりました。 | Perubahan alami memakai が dengan 〜くなる／〜になる |
 
-Catatan untuk pembelajar Indonesia: “Menjadi” dan “membuat menjadi” perlu dibedakan jelas dalam bahasa Jepang. なる = menjadi; する = membuat sesuatu menjadi. Selain itu, “pernah” adalah **Vたことがある**, sedangkan “kadang-kadang” adalah **Vることがある**.
+Catatan untuk pembelajar Indonesia: "Menjadi" dan "membuat menjadi" perlu dibedakan jelas dalam bahasa Jepang. なる = menjadi; する = membuat sesuatu menjadi. Selain itu, "pernah" adalah Vたことがある, sedangkan "kadang-kadang" adalah Vることがある.
 
 ## Mini Practice
 
@@ -226,7 +171,7 @@ sentence: "富士山に登____ことがあります。"
 optionA: "った"
 optionB: "る"
 correct: "った"
-explanation: "った benar. Pengalaman masa lalu memakai Vたことがある"
+explanation: "った benar karena pengalaman masa lalu memakai Vたことがある. 登ることがあります berarti 'kadang-kadang mendaki', makna yang berbeda."
 ---
 ::
 
@@ -237,7 +182,7 @@ sentence: "休みの日に料理____ことがあります。"
 optionA: "する"
 optionB: "した"
 correct: "する"
-explanation: "する benar. Kebiasaan kadang-kadang memakai Vることがある"
+explanation: "する benar karena 'kadang-kadang melakukan' memakai Vることがある. 料理したことがあります berarti 'pernah memasak' (pengalaman), bukan kebiasaan sesekali."
 ---
 ::
 
@@ -246,9 +191,9 @@ explanation: "する benar. Kebiasaan kadang-kadang memakai Vることがある"
 question: "Saya memutuskan untuk belajar setiap hari."
 sentence: "毎日勉強することに____。"
 optionA: "しました"
-optionB: "なります"
+optionB: "なりました"
 correct: "しました"
-explanation: "しました benar. Keputusan pribadi memakai ことにする"
+explanation: "しました benar karena keputusan pribadi memakai ことにする. ことになりました berarti keputusan itu dibuat oleh pihak/situasi lain, bukan oleh diri sendiri."
 ---
 ::
 
@@ -259,7 +204,7 @@ sentence: "学校で来月、動物園へ行くことに____ました。"
 optionA: "なり"
 optionB: "し"
 correct: "なり"
-explanation: "なり benar. Keputusan dari luar memakai ことになる"
+explanation: "なり benar karena keputusan dibuat oleh sekolah (dari luar), jadi memakai ことになる. ことにしました berarti pembicara sendiri yang memutuskan."
 ---
 ::
 
@@ -270,7 +215,7 @@ sentence: "部屋____明るくしました。"
 optionA: "を"
 optionB: "が"
 correct: "を"
-explanation: "を benar. Objek yang diubah seseorang memakai を dengan 〜くする"
+explanation: "を benar karena ada pelaku yang sengaja mengubah kamar (〜くする memakai を). 部屋が明るくなりました baru memakai が, untuk perubahan yang terjadi sendiri."
 ---
 ::
 

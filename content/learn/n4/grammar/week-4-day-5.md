@@ -22,23 +22,23 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membedakan hasil yang masih terlihat, keadaan yang sengaja dibiarkan, dan perubahan menuju keadaan tertentu.
+Di akhir pelajaran ini, kamu bisa membedakan verba intransitif dan transitif lewat partikel が／を, lalu memakainya untuk menyatakan keadaan hasil (〜ている, 〜てある) dan arah perubahan (〜てくる, 〜ていく).
 
-Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya bergantung pada terjemahan bahasa Indonesia.
+Kunci hari ini adalah pasangan verba: kenali dulu mana 自動詞 dan mana 他動詞, karena pilihan itu menentukan seluruh pola lainnya.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca fungsi kalimatnya dulu. Setelah itu cek partikel, bentuk verba, dan nuansa yang membuat satu pola lebih tepat daripada pola lain.
+  <strong>Fokus hari ini:</strong> partikel adalah petunjuk utama. が + 自動詞 = terjadi sendiri. を + 他動詞 = ada yang melakukan. Dari sini, 〜ている dan 〜てある menyimpan jejaknya.
 </div>
 
 ## Pola Hari Ini
 
 | Fungsi | Pola | Arti praktis | Kapan dipakai |
 |---|---|---|---|
-| Kata kerja intransitif dan transitif | 自動詞・他動詞 | Kata kerja intransitif dan transitif | dipakai saat kata kerja intransitif dan transitif; bentuknya （N）が + 自動詞 / （N）を + 他動詞. |
-| Keadaan hasil | 〜ている（結果の状態） | Keadaan hasil; sesuatu dalam kondisi sudah ~ | dipakai saat keadaan hasil; sesuatu dalam kondisi sudah ~; bentuknya 自動詞（Vて） + いる. |
-| Keadaan hasil dari tindakan yang sengaja dilakukan | 〜てある | Keadaan hasil dari tindakan yang sengaja dilakukan | dipakai saat keadaan hasil dari tindakan yang sengaja dilakukan; bentuknya 他動詞（Vて） + ある. |
-| Datang melakukan | 〜てくる | Datang melakukan ~; mulai menjadi ~ mendekati titik sekarang | dipakai saat datang melakukan ~; mulai menjadi ~ mendekati titik sekarang; bentuknya （Vて） + くる. |
-| Pergi melakukan | 〜ていく | Pergi melakukan ~; terus menjadi ~ ke depannya | dipakai saat pergi melakukan ~; terus menjadi ~ ke depannya; bentuknya （Vて） + いく. |
+| Terjadi sendiri vs dilakukan | 自動詞・他動詞 | "tertutup" vs "menutup" | 自動詞 fokus pada kejadian; 他動詞 fokus pada pelaku |
+| Keadaan hasil (alami) | 〜ている（結果の状態） | "dalam keadaan sudah ~" | keadaan yang tersisa setelah perubahan; pakai 自動詞 |
+| Keadaan hasil (disengaja) | 〜てある | "sudah di-... (dengan sengaja)" | keadaan hasil tindakan yang sengaja disiapkan; pakai 他動詞 |
+| Perubahan menuju sekarang | 〜てくる | "mulai jadi ~" | gerakan/perubahan mendekat ke titik sekarang |
+| Perubahan ke depan | 〜ていく | "makin jadi ~" | gerakan/perubahan menjauh, berlanjut ke masa depan |
 
 ## Peta Pola
 
@@ -50,174 +50,155 @@ Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya ber
   <span>〜ていく</span>
 </div>
 
-Pola hari ini sama-sama dipakai untuk **keadaan hasil dan arah perubahan**, tetapi petunjuknya berbeda. Perhatikan partikel, bentuk negatif/lampau, bentuk kamus, dan siapa yang menjadi fokus kalimat.
+Semua bertumpu pada satu fondasi: pasangan 自動詞／他動詞. 自動詞 (が) menyatakan sesuatu terjadi sendiri; 他動詞 (を) menyatakan ada yang melakukannya. Fondasi itu bercabang ke keadaan hasil: 自動詞 + 〜ている menyimpan keadaan alami (窓が閉まっている), sedangkan 他動詞 + 〜てある menyimpan keadaan yang **sengaja** disiapkan (窓が閉めてある). Dua pola terakhir bergeser ke sumbu arah: 〜てくる (perubahan mendekat ke sekarang) lawan 〜ていく (perubahan menjauh ke depan).
 
 ## Cara Membentuk Pola
 
-Simbol utama: （N） berarti nomina, （V） berarti verba, （Klausa） berarti klausa, （いAdj） berarti kata sifat-i, dan （なAdj） berarti kata sifat-na.
+Simbol yang dipakai: （N） nomina, （Vて） bentuk-te verba. 自動詞 = verba intransitif (tanpa objek), 他動詞 = verba transitif (dengan objek を).
 
-| Pola | Bentuk dasar | Catatan bentuk |
+Kenali dulu pasangannya:
+
+| 自動詞 (が) | 他動詞 (を) |
+|---|---|
+| 閉まる (tertutup) | 閉める (menutup) |
+| 開く (terbuka) | 開ける (membuka) |
+| つく (menyala) | つける (menyalakan) |
+| 消える (padam) | 消す (mematikan) |
+
+Lalu pasang ke pola:
+
+| Pola | Bentuk | Contoh |
 |---|---|---|
-| 自動詞・他動詞 | （N）が + 自動詞 / （N）を + 他動詞 | dipakai untuk kata kerja intransitif dan transitif. |
-| 〜ている（結果の状態） | 自動詞（Vて） + いる | dipakai untuk keadaan hasil; sesuatu dalam kondisi sudah ~. |
-| 〜てある | 他動詞（Vて） + ある | dipakai untuk keadaan hasil dari tindakan yang sengaja dilakukan. |
-| 〜てくる | （Vて） + くる | dipakai untuk datang melakukan ~; mulai menjadi ~ mendekati titik sekarang. |
-| 〜ていく | （Vて） + いく | dipakai untuk pergi melakukan ~; terus menjadi ~ ke depannya. |
+| 結果の状態 | 自動詞（Vて） + いる | 窓が閉まっている |
+| 〜てある | 他動詞（Vて） + ある | 窓が閉めてある |
+| 〜てくる | （Vて） + くる | 寒くなってくる |
+| 〜ていく | （Vて） + いく | 寒くなっていく |
 
 ## Bangun Kalimat Bertahap
 
+Dua contoh, memakai satu adegan yang sama (jendela tertutup) agar kontras 〜ている vs 〜てある terlihat jelas:
+
 | Langkah | Jepang | Fungsi |
 |---|---|---|
-| Bahan | （N）が + 自動詞 / （N）を + 他動詞 | bentuk untuk kata kerja intransitif dan transitif |
-| Kalimat | ドアが閉まります。／ドアを閉めます。 | Kata kerja intransitif dan transitif |
-| Bahan | 自動詞（Vて） + いる | bentuk untuk keadaan hasil |
-| Kalimat | 窓が閉まっています。 | Keadaan hasil; sesuatu dalam kondisi sudah ~ |
-| Bahan | 他動詞（Vて） + ある | bentuk untuk keadaan hasil dari tindakan yang sengaja dilakukan |
-| Kalimat | テーブルの上に花がかざってあります。 | Keadaan hasil dari tindakan yang sengaja dilakukan |
-| Bahan | （Vて） + くる | bentuk untuk datang melakukan |
-| Kalimat | 雨が降ってきました。 | Datang melakukan ~; mulai menjadi ~ mendekati titik sekarang |
-| Bahan | （Vて） + いく | bentuk untuk pergi melakukan |
-| Kalimat | これからもっと寒くなっていくでしょう。 | Pergi melakukan ~; terus menjadi ~ ke depannya |
+| Bahan | 窓が閉まる | 自動詞: jendela tertutup |
+| Bentuk | 閉まっている | 自動詞 + ている → keadaan alami |
+| Kalimat | 窓が閉まっています。 | "Jendelanya tertutup." (sekadar keadaan) |
+| Bahan | 窓を閉める | 他動詞: menutup jendela |
+| Bentuk | 閉めてある | 他動詞 + てある → sengaja disiapkan |
+| Kalimat | 窓が閉めてあります。 | "Jendelanya sudah ditutup (sengaja)." |
 
-Bagian ini menghubungkan rumus dan kalimat penuh. Mulai dari bentuk pendeknya dulu, lalu cek fungsi pola sebelum membaca contoh lengkap.
+Perhatikan langkah kedua: verba yang dipilih (自動詞 閉まる vs 他動詞 閉める) menentukan いる atau ある.
 
 ## Catatan Pemakaian
 
-### 自動詞・他動詞
+### Fondasi: 自動詞・他動詞
 
-Gunakan pola ini untuk **kata kerja intransitif dan transitif**. Bentuk dasarnya: （N）が + 自動詞 / （N）を + 他動詞.
+自動詞 memakai が dan menyorot kejadian yang seolah terjadi sendiri (ドアが閉まる). 他動詞 memakai を dan menyorot pelaku yang bertindak pada objek (ドアを閉める). Banyak verba N4 datang berpasangan, jadi menghafalnya berpasangan sangat menghemat waktu.
 
-Catatan praktis: 自動詞 berfokus pada apa yang terjadi. 他動詞 berfokus pada seseorang yang melakukan sesuatu pada objek.
+### Keadaan hasil: 〜ている vs 〜てある
 
-Contoh inti: ドアが閉まります。／ドアを閉めます。
+Keduanya menyatakan hasil yang masih ada, bedanya pada niat. 自動詞 + 〜ている hanya melaporkan keadaan, tanpa peduli siapa penyebabnya (電気がついている, lampu menyala). 他動詞 + 〜てある menyiratkan **seseorang sengaja** menyiapkannya untuk suatu tujuan (電気がつけてある, lampu sengaja dinyalakan). Ingat: 自動詞+ている ≠ 他動詞+ている; keadaan hasil yang alami memakai 自動詞, bukan 他動詞.
 
-### 〜ている（結果の状態）
+### Arah perubahan: 〜てくる vs 〜ていく
 
-Gunakan pola ini untuk **keadaan hasil; sesuatu dalam kondisi sudah ~**. Bentuk dasarnya: 自動詞（Vて） + いる.
-
-Catatan praktis: menunjukkan keadaan yang tersisa setelah perubahan. Bukan hanya berarti “sedang melakukan”.
-
-Contoh inti: 窓が閉まっています。
-
-### 〜てある
-
-Gunakan pola ini untuk **keadaan hasil dari tindakan yang sengaja dilakukan**. Bentuk dasarnya: 他動詞（Vて） + ある.
-
-Catatan praktis: menunjukkan bahwa seseorang sengaja melakukan sesuatu dan hasilnya masih ada.
-
-Contoh inti: テーブルの上に花がかざってあります。
-
-### 〜てくる
-
-Gunakan pola ini untuk **datang melakukan ~; mulai menjadi ~ mendekati titik sekarang**. Bentuk dasarnya: （Vて） + くる.
-
-Catatan praktis: menunjukkan gerakan menuju sini/sekarang, atau perubahan sampai masa kini.
-
-Contoh inti: 雨が降ってきました。
-
-### 〜ていく
-
-Gunakan pola ini untuk **pergi melakukan ~; terus menjadi ~ ke depannya**. Bentuk dasarnya: （Vて） + いく.
-
-Catatan praktis: menunjukkan gerakan menjauh dari sini/sekarang, atau perubahan yang berlanjut ke masa depan.
-
-Contoh inti: これからもっと寒くなっていくでしょう。
+Sumbu waktu dan ruangnya berlawanan. 〜てくる = gerakan/perubahan yang **mendekat** ke sini/sekarang, termasuk perubahan yang sudah mulai terasa (雨が降ってきた, hujan mulai turun). 〜ていく = gerakan/perubahan yang **menjauh** atau berlanjut ke depan (これから寒くなっていく, ke depan makin dingin).
 
 ## Pola yang Sering Muncul
 
 | Pola | Arti praktis | Contoh konteks |
 |---|---|---|
-| （N）が + 自動詞 / （N）を + 他動詞 | Kata kerja intransitif dan transitif | ドアが閉まります。／ドアを閉めます。 |
-| 自動詞（Vて） + いる | Keadaan hasil; sesuatu dalam kondisi sudah ~ | 窓が閉まっています。 |
-| 他動詞（Vて） + ある | Keadaan hasil dari tindakan yang sengaja dilakukan | テーブルの上に花がかざってあります。 |
-| （Vて） + くる | Datang melakukan ~; mulai menjadi ~ mendekati titik sekarang | 雨が降ってきました。 |
-| （Vて） + いく | Pergi melakukan ~; terus menjadi ~ ke depannya | これからもっと寒くなっていくでしょう。 |
+| （N）が + 自動詞 | Terjadi sendiri | ドアが閉まります。 |
+| （N）を + 他動詞 | Ada yang melakukan | ドアを閉めます。 |
+| 自動詞（Vて） + いる | Keadaan hasil alami | 窓が閉まっています。 |
+| 他動詞（Vて） + ある | Keadaan hasil disengaja | 花がかざってあります。 |
+| （Vて） + くる／いく | Perubahan mendekat / menjauh | 寒くなってきた／寒くなっていく |
 
 ## Contoh Kalimat
 
 <div class="example-list">
-  <div><p class="jp">ドアが閉まります。／ドアを閉めます。</p><p>Pintunya tertutup. / Saya menutup pintu.</p></div>
-  <div><p class="jp">窓が閉まっています。</p><p>Jendelanya tertutup.</p></div>
-  <div><p class="jp">テーブルの上に花がかざってあります。</p><p>Bunga sudah dihias/diletakkan di atas meja.</p></div>
-  <div><p class="jp">雨が降ってきました。</p><p>Hujan mulai turun.</p></div>
-  <div><p class="jp">これからもっと寒くなっていくでしょう。</p><p>Mulai sekarang, cuaca mungkin akan terus menjadi lebih dingin.</p></div>
+  <div><p class="jp">ドアが閉まります。</p><p>Pintunya menutup (dengan sendirinya).</p></div>
+  <div><p class="jp">窓が閉まっています。</p><p>Jendelanya dalam keadaan tertutup.</p></div>
+  <div><p class="jp">テーブルの上に花がかざってあります。</p><p>Bunga sudah sengaja ditata di atas meja.</p></div>
+  <div><p class="jp">急に雨が降ってきました。</p><p>Tiba-tiba hujan mulai turun.</p></div>
+  <div><p class="jp">これからもっと寒くなっていくでしょう。</p><p>Mulai sekarang cuaca mungkin akan terus jadi lebih dingin.</p></div>
+  <div><p class="jp">かぎがかかっています。</p><p>Pintunya terkunci.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar
 
 | Pasangan | Cara membedakan |
 |---|---|
-| 自動詞 / 他動詞 | Bedakan dari fungsi utamanya: Sesuatu terjadi sendiri dibanding seseorang melakukan sesuatu. Petunjuk pilihan: Gunakan が dengan 自動詞. Gunakan を dengan 他動詞. |
-| 〜ている / 〜てある | Bedakan dari fungsi utamanya: Keadaan hasil dibanding keadaan yang disiapkan lewat tindakan sengaja. Petunjuk pilihan: Gunakan 〜ている untuk keadaannya sendiri. Gunakan 〜てある saat seseorang sengaja menyiapkannya. |
-| 〜てくる / 〜ていく | Bedakan dari fungsi utamanya: Menuju sekarang/sini dibanding menjauh dari sekarang/sini. Petunjuk pilihan: Gunakan 〜てくる untuk perubahan sampai sekarang. Gunakan 〜ていく untuk perubahan mulai sekarang ke depan. |
-| 〜ている / 〜ている（aksi berlangsung） | Bedakan dari fungsi utamanya: keadaan hasil dibanding tindakan yang sedang berlangsung. Petunjuk pilihan: Gunakan 〜ている sebagai keadaan hasil dengan 自動詞 seperti 開く, 閉まる, 消える. Gunakan 〜ている progresif untuk tindakan yang sedang berlangsung. |
+| 自動詞 / 他動詞 | Cek partikel. が + verba tanpa objek → 自動詞 (terjadi sendiri). を + verba berobjek → 他動詞 (ada pelaku). |
+| 〜ている / 〜てある | 自動詞+ている hanya melaporkan keadaan. 他動詞+てある menyiratkan ada yang sengaja menyiapkannya untuk tujuan tertentu. |
+| 〜てくる / 〜ていく | 〜てくる untuk perubahan yang mendekat/sudah mulai terasa sampai sekarang. 〜ていく untuk perubahan yang menjauh/berlanjut ke depan. |
+| 自動詞+ている / 他動詞+ている | Keadaan hasil alami memakai 自動詞+ている (閉まっている). 他動詞+ている justru menandai aksi berlangsung (今、窓を閉めている, sedang menutup). |
 
 ## Kesalahan Umum
 
 | Salah | Benar | Kenapa |
 |---|---|---|
 | ドアを閉まります。 | ドアが閉まります。／ドアを閉めます。 | 自動詞 memakai が, 他動詞 memakai を |
-| 窓が閉めています。 | 窓が閉まっています。 | Keadaan hasil memakai 自動詞+ている |
-| テーブルの上に花がかざっています。 | テーブルの上に花がかざってあります。 | Keadaan yang disiapkan sengaja memakai 他動詞+てある |
+| 窓が閉めています。 | 窓が閉まっています。 | Keadaan hasil alami memakai 自動詞 + ている |
+| テーブルの上に花がかざっています。 | テーブルの上に花がかざってあります。 | Keadaan yang sengaja disiapkan memakai 他動詞 + てある |
 
-Catatan untuk pembelajar Indonesia: 自動詞 dan 他動詞 penting untuk pembelajar Indonesia karena bahasa Indonesia sering memakai ide verba yang sama. ドアが閉まる = pintunya tertutup; ドアを閉める = menutup pintu; 窓が閉まっている = jendela dalam keadaan tertutup; 窓が閉めてある = jendela sudah ditutup dengan sengaja.
+Catatan untuk pembelajar Indonesia: bahasa Indonesia sering memakai ide verba yang sama, jadi pasangannya perlu dihafal. ドアが閉まる = pintunya tertutup; ドアを閉める = menutup pintu; 窓が閉まっている = jendela dalam keadaan tertutup; 窓が閉めてある = jendela sudah ditutup dengan sengaja.
 
 ## Mini Practice
 
-Pilih jawaban yang paling tepat. Perhatikan petunjuk partikel, bentuk kata, dan konteks kalimat sebelum memilih.
+Pilih jawaban yang paling tepat. Perhatikan partikel dan pasangan verba (自動詞/他動詞) sebelum memilih.
 
 ::MiniPractice
 ---
-question: "Pintunya tertutup. / Saya menutup pintu."
+question: "Pintunya menutup dengan sendirinya."
 sentence: "ドア____閉まります。"
 optionA: "が"
 optionB: "を"
 correct: "が"
-explanation: "が benar karena 自動詞 memakai が, 他動詞 memakai を."
+explanation: "が benar karena 閉まる adalah 自動詞 (terjadi sendiri). を dipakai dengan 他動詞 seperti 閉める (menutup)."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Jendelanya tertutup."
+question: "Jendelanya sekarang dalam keadaan tertutup."
 sentence: "窓が閉____ています。"
 optionA: "まっ"
 optionB: "め"
 correct: "まっ"
-explanation: "まっ benar. Keadaan hasil memakai 自動詞+ている"
+explanation: "閉まっている (自動詞 + ている) benar untuk keadaan hasil alami. 閉めている (他動詞 + ている) berarti 'sedang menutup', aksi yang berlangsung."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Bunga sudah dihias/diletakkan di atas meja."
+question: "Bunga sudah sengaja ditata di atas meja."
 sentence: "テーブルの上に花がかざって____ます。"
 optionA: "あり"
 optionB: "い"
 correct: "あり"
-explanation: "あり benar. Keadaan yang disiapkan sengaja memakai 他動詞+てある"
+explanation: "かざってある (他動詞 + てある) benar untuk keadaan yang sengaja disiapkan. かざっている hanya melaporkan keadaan tanpa menekankan niat."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Lampunya sudah dinyalakan."
-sentence: "電気がつけて____ます。"
-optionA: "あり"
-optionB: "い"
-correct: "あり"
-explanation: "他動詞 + てある benar untuk keadaan yang sengaja disiapkan."
----
-::
-
-::MiniPractice
----
-question: "Hujan mulai turun."
-sentence: "雨が降って____ました。"
+question: "Tiba-tiba hujan mulai turun (terasa sampai sekarang)."
+sentence: "急に雨が降って____ました。"
 optionA: "き"
 optionB: "いき"
 correct: "き"
-explanation: "てきました benar untuk perubahan yang mulai terasa menuju titik sekarang."
+explanation: "降ってき (〜てくる) benar untuk perubahan yang mendekat dan mulai terasa sampai sekarang. 〜ていく menandai perubahan yang menjauh ke depan."
+---
+::
+
+::MiniPractice
+---
+question: "Mulai sekarang, cuaca akan terus jadi lebih dingin ke depannya."
+sentence: "これから寒くなって____でしょう。"
+optionA: "いく"
+optionB: "くる"
+correct: "いく"
+explanation: "なっていく (〜ていく) benar untuk perubahan yang berlanjut ke masa depan, cocok dengan これから. 〜てくる justru menyoroti perubahan sampai titik sekarang."
 ---
 ::
 

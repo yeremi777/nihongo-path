@@ -1,6 +1,6 @@
 ---
 title: "今日はお酒を飲まないつもりです。"
-description: "Belajar pola grammar N4 untuk mengutip ucapan, menyampaikan pikiran, menyatakan rencana, dan menjelaskan maksud tindakan."
+description: "Belajar pola grammar N4 untuk mengutip ucapan, menyampaikan pikiran, menyatakan niat, dan menegaskan rencana."
 level: "N4"
 category: "grammar"
 topic: "今日はお酒を飲まないつもりです。"
@@ -22,24 +22,24 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa mengutip ucapan, menyampaikan pikiran, menyatakan rencana, dan menjelaskan tujuan atau maksud tindakan.
+Di akhir pelajaran ini, kamu bisa mengutip ucapan orang, menyampaikan pikiran dengan と思う, mengajak dengan bentuk 意向形, dan membedakan niat yang samar dari rencana yang jelas.
 
 Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya bergantung pada terjemahan bahasa Indonesia.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca fungsi kalimatnya dulu. Setelah itu cek partikel, bentuk verba, dan nuansa yang membuat satu pola lebih tepat daripada pola lain.
+  <strong>Fokus hari ini:</strong> apa yang dilaporkan kalimatnya — ucapan orang lain (と言う／と言われる), pikiran (と思う), atau rencana pembicara sendiri (Vよう・ようと思う・つもり)?
 </div>
 
 ## Pola Hari Ini
 
 | Fungsi | Pola | Arti praktis | Kapan dipakai |
 |---|---|---|---|
-| Mengatakan bahwa | 〜と言う・〜って言う | Mengatakan bahwa ~; kutipan lisan | dipakai saat mengatakan bahwa ~; kutipan lisan; bentuknya （Klausa） + と言う／って言う. |
-| Diberi tahu bahwa | 〜と言われる | Diberi tahu bahwa ~; dikatakan bahwa ~ | dipakai saat diberi tahu bahwa ~; dikatakan bahwa ~; bentuknya （Kutipan/（Klausa）） + と言われる. |
-| Saya pikir bahwa | 〜と思う | Saya pikir bahwa ~ | dipakai saat saya pikir bahwa ~; bentuknya （Klausa bentuk biasa） + と思う. |
-| Ayo | （V意向形） | Ayo ~; bentuk kemauan/ajakan | dipakai saat ayo ~; bentuk kemauan/ajakan; bentuknya （V意向形）. |
-| Saya berniat / berpikir akan | 〜ようと思う | Saya berniat / berpikir akan ~ | dipakai saat saya berniat / berpikir akan ~; bentuknya （V意向形） + と思う. |
-| Berencana / berniat untuk | 〜つもり | Berencana / berniat untuk ~ | dipakai saat berencana / berniat untuk ~; bentuknya （V辞書形）／（Vない形） + つもり. |
+| Mengutip ucapan | 〜と言う・〜って言う | (dia) berkata bahwa ~ | melaporkan apa yang dikatakan seseorang; って lebih santai |
+| Menerima ucapan | 〜と言われる | dikatakan/disuruh bahwa ~ | subjek menerima pesan atau perintah dari orang lain |
+| Menyampaikan pikiran | 〜と思う | saya pikir ~ | menyatakan pendapat atau perkiraan pembicara |
+| Mengajak/berkehendak | （V意向形） | ayo ~; aku akan ~ | bentuk santai dari 〜ましょう; juga dipakai sebelum と思う |
+| Niat (samar) | 〜ようと思う | berniat/sedang berpikir akan ~ | niat pembicara yang baru terpikir atau belum pasti |
+| Rencana (jelas) | 〜つもり | berencana untuk ~ | rencana yang sudah lebih tegas dan pasti |
 
 ## Peta Pola
 
@@ -52,129 +52,88 @@ Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya ber
   <span>〜つもり</span>
 </div>
 
-Pola hari ini sama-sama dipakai untuk **kutipan, pikiran, rencana**, tetapi petunjuknya berbeda. Perhatikan partikel, bentuk negatif/lampau, bentuk kamus, dan siapa yang menjadi fokus kalimat.
+Semua pola melaporkan sesuatu, tetapi sumber dan kepastiannya berbeda. 〜と言う melaporkan **ucapan orang lain**, dan 〜と言われる membalik arahnya menjadi **pihak yang menerima** ucapan atau perintah. 〜と思う melaporkan **pikiran pembicara sendiri**. Untuk rencana, ada tangga kepastian: （V意向形） mengajak atau menyatakan kehendak spontan (行こう), 〜ようと思う menambahkan "sedang berpikir akan" sehingga masih **samar**, dan 〜つもり menegaskan rencana yang **sudah jelas**. Jadi tanyakan: ini ucapan orang, pikiranku, atau rencanaku — dan seberapa pasti?
 
 ## Cara Membentuk Pola
 
-Simbol utama: （N） berarti nomina, （V） berarti verba, （Klausa） berarti klausa, （いAdj） berarti kata sifat-i, dan （なAdj） berarti kata sifat-na.
+Simbol: （Klausa） klausa bentuk biasa, （V意向形） bentuk kehendak (行こう・飲もう), （V辞書形） bentuk kamus, （Vない形） bentuk negatif biasa.
 
-| Pola | Bentuk dasar | Catatan bentuk |
+| Pola | Bentuk dasar | Yang sering keliru |
 |---|---|---|
-| 〜と言う・〜って言う | （Klausa） + と言う／って言う | dipakai untuk mengatakan bahwa ~; kutipan lisan. |
-| 〜と言われる | （Kutipan/（Klausa）） + と言われる | dipakai untuk diberi tahu bahwa ~; dikatakan bahwa ~. |
-| 〜と思う | （Klausa bentuk biasa） + と思う | dipakai untuk saya pikir bahwa ~. |
-| （V意向形） | （V意向形） | dipakai untuk ayo ~; bentuk kemauan/ajakan. |
-| 〜ようと思う | （V意向形） + と思う | dipakai untuk saya berniat / berpikir akan ~. |
-| 〜つもり | （V辞書形）／（Vない形） + つもり | dipakai untuk berencana / berniat untuk ~. |
+| 〜と言う・〜って言う | （Klausa bentuk biasa） + と言う | memakai bentuk sopan sebelum と: 来ません → 来**ない**と言う |
+| 〜と言われる | （Klausa／perintah） + と言われる | lupa と: お酒を飲むな**と**言われました |
+| 〜と思う | （Klausa bentuk biasa） + と思う | （N）・（なAdj） pakai だ: 雨**だ**と思います |
+| （V意向形） | 五段 -おう / 一段 -よう / する→しよう / 来る→来よう | memakai bentuk kamus untuk mengajak: 行く → 行**こう** |
+| 〜ようと思う | （V意向形） + と思う | memakai bentuk kamus: 行く → 行**こう**と思う |
+| 〜つもり | （V辞書形）／（Vない形） + つもり | menumpuk と思う: 飲まない~~と思う~~つもり → 飲まない**つもり** |
 
 ## Bangun Kalimat Bertahap
 
 | Langkah | Jepang | Fungsi |
 |---|---|---|
-| Bahan | （Klausa） + と言う／って言う | bentuk untuk mengatakan bahwa |
-| Kalimat | 田中さんは明日は来ないと言っていました。 | Mengatakan bahwa ~; kutipan lisan |
-| Bahan | （Kutipan/（Klausa）） + と言われる | bentuk untuk diberi tahu bahwa |
-| Kalimat | 医者にお酒を飲むなと言われました。 | Diberi tahu bahwa ~; dikatakan bahwa ~ |
-| Bahan | （Klausa bentuk biasa） + と思う | bentuk untuk saya pikir bahwa |
-| Kalimat | 明日は雨だと思います。 | Saya pikir bahwa ~ |
-| Bahan | （V意向形） | bentuk untuk ayo |
-| Kalimat | 飲みに行こう。 | Ayo ~; bentuk kemauan/ajakan |
-| Bahan | （V意向形） + と思う | bentuk untuk saya berniat / berpikir akan |
-| Kalimat | 明日買い物に行こうと思っています。 | Saya berniat / berpikir akan ~ |
+| Bahan | 明日は来ない | isi ucapan: besok tidak datang |
+| Bentuk | 来ないと言っていました | dikutip dengan と言う (bentuk biasa sebelum と) |
+| Kalimat | 田中さんは明日は来ないと言っていました。 | "Tanaka bilang besok dia tidak datang." |
+| Bahan | 買い物に行く | rencana: pergi belanja |
+| Bentuk | 行こうと思っている | niat dengan 意向形 + と思う |
+| Kalimat | 明日買い物に行こうと思っています。 | "Saya berniat pergi belanja besok." |
 
-Bagian ini menghubungkan rumus dan kalimat penuh. Mulai dari bentuk pendeknya dulu, lalu cek fungsi pola sebelum membaca contoh lengkap.
+Perhatikan langkah tengah: sebelum と, ucapan dan pikiran memakai bentuk biasa; sedangkan niat memakai 意向形 (行こう) lebih dulu, baru と思う.
 
 ## Catatan Pemakaian
 
-### 〜と言う・〜って言う
+### Mengutip vs menerima: 〜と言う dan 〜と言われる
 
-Gunakan pola ini untuk **mengatakan bahwa ~; kutipan lisan**. Bentuk dasarnya: （Klausa） + と言う／って言う.
+〜と言う melaporkan ucapan orang lain, dengan klausa bentuk biasa sebelum と (来**ない**と言っていました). って言う adalah versi santai dalam percakapan. 〜と言われる membalik arah: subjeknya adalah **pihak yang diberi tahu atau disuruh** (医者にお酒を飲むな**と言われました** = "dokter menyuruh saya jangan minum").
 
-Catatan praktis: って adalah gaya lisan santai.
+### Menyampaikan pikiran: 〜と思う
 
-Contoh inti: 田中さんは明日は来ないと言っていました。
+〜と思う menyatakan pendapat atau perkiraan pembicara (明日は雨**だと思います**). Ingat, （N） dan （なAdj） menambahkan だ sebelum と思う.
 
-### 〜と言われる
+### Kehendak dan rencana: （V意向形）, 〜ようと思う, 〜つもり
 
-Gunakan pola ini untuk **diberi tahu bahwa ~; dikatakan bahwa ~**. Bentuk dasarnya: （Kutipan/（Klausa）） + と言われる.
-
-Catatan praktis: Dipakai untuk reported speech atau being told something.
-
-Contoh inti: 医者にお酒を飲むなと言われました。
-
-### 〜と思う
-
-Gunakan pola ini untuk **saya pikir bahwa ~**. Bentuk dasarnya: （Klausa bentuk biasa） + と思う.
-
-Catatan praktis: Menyatakan pikiran atau pendapat pembicara.
-
-Contoh inti: 明日は雨だと思います。
-
-### （V意向形）
-
-Gunakan pola ini untuk **ayo ~; bentuk kemauan/ajakan**. Bentuk dasarnya: （V意向形）.
-
-Catatan praktis: Santai form of 〜ましょう; also used sebelum と思う.
-
-Contoh inti: 飲みに行こう。
-
-### 〜ようと思う
-
-Gunakan pola ini untuk **saya berniat / berpikir akan ~**. Bentuk dasarnya: （V意向形） + と思う.
-
-Catatan praktis: menunjukkan niat, biasanya rencana pembicara sendiri.
-
-Contoh inti: 明日買い物に行こうと思っています。
-
-### 〜つもり
-
-Gunakan pola ini untuk **berencana / berniat untuk ~**. Bentuk dasarnya: （V辞書形）／（Vない形） + つもり.
-
-Catatan praktis: Lebih kuat dan rencana yang lebih jelas daripada 〜ようと思う.
-
-Contoh inti: 来年日本に留学するつもりです。
+（V意向形） adalah bentuk santai dari 〜ましょう untuk mengajak atau menyatakan kehendak (飲みに**行こう**). Tambah と思う menjadi 〜ようと思う untuk niat yang **masih samar/baru terpikir** (行こう**と思っています**). 〜つもり dipakai untuk rencana yang **sudah jelas dan tegas** (来年日本に留学する**つもり**です), dan menempel pada bentuk kamus atau bentuk negatif — jangan disisipi と思う.
 
 ## Pola yang Sering Muncul
 
-| Pola | Arti praktis | Contoh konteks |
+| Petunjuk di kalimat | Pola yang cocok | Contoh |
 |---|---|---|
-| （Klausa） + と言う／って言う | Mengatakan bahwa ~; kutipan lisan | 田中さんは明日は来ないと言っていました。 |
-| （Kutipan/（Klausa）） + と言われる | Diberi tahu bahwa ~; dikatakan bahwa ~ | 医者にお酒を飲むなと言われました。 |
-| （Klausa bentuk biasa） + と思う | Saya pikir bahwa ~ | 明日は雨だと思います。 |
-| （V意向形） | Ayo ~; bentuk kemauan/ajakan | 飲みに行こう。 |
-| （V意向形） + と思う | Saya berniat / berpikir akan ~ | 明日買い物に行こうと思っています。 |
-| （V辞書形）／（Vない形） + つもり | Berencana / berniat untuk ~ | 来年日本に留学するつもりです。 |
+| Melaporkan ucapan orang | （Klausa biasa） + と言う | 来ないと言っていました。 |
+| Subjek menerima perintah/pesan | （Klausa） + と言われる | 飲むなと言われました。 |
+| Menyatakan pendapat sendiri | （Klausa biasa） + と思う | 雨だと思います。 |
+| Mengajak/niat spontan | （V意向形）（+ と思う） | 行こう／行こうと思う。 |
+| Rencana yang sudah pasti | （V辞書形）／（Vない形） + つもり | 留学するつもりです。 |
 
 ## Contoh Kalimat
 
 <div class="example-list">
   <div><p class="jp">田中さんは明日は来ないと言っていました。</p><p>Tanaka-san berkata bahwa besok dia tidak akan datang.</p></div>
-  <div><p class="jp">明日買い物に行こうと思っています。</p><p>Saya sedang berpikir untuk pergi berbelanja besok.</p></div>
-  <div><p class="jp">今日はお酒を飲まないつもりです。</p><p>Hari ini saya berniat tidak minum alkohol.</p></div>
-  <div><p class="jp">医者にお酒を飲むなと言われました。</p><p>Dokter berkata kepada saya agar jangan minum alkohol.</p></div>
+  <div><p class="jp">医者にお酒を飲むなと言われました。</p><p>Dokter menyuruh saya agar jangan minum alkohol.</p></div>
   <div><p class="jp">明日は雨だと思います。</p><p>Saya pikir besok akan hujan.</p></div>
   <div><p class="jp">飲みに行こう。</p><p>Ayo pergi minum.</p></div>
+  <div><p class="jp">明日買い物に行こうと思っています。</p><p>Saya sedang berpikir untuk pergi berbelanja besok.</p></div>
+  <div><p class="jp">今日はお酒を飲まないつもりです。</p><p>Hari ini saya berniat tidak minum alkohol.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar
 
 | Pasangan | Cara membedakan |
 |---|---|
-| 〜と言う / 〜って言う | Bedakan dari fungsi utamanya: Kutipan standar dibanding kutipan lisan santai. Petunjuk pilihan: Gunakan と言う secara umum. Gunakan って言う dalam percakapan santai. |
-| 〜と言う / 〜と言われる | Bedakan dari fungsi utamanya: Seseorang berkata dibanding seseorang diberi tahu / katanya. Petunjuk pilihan: Gunakan pola pertama untuk pembicara dalam kutipan. Gunakan pola kedua saat subjek menerima pesan. |
-| 〜と思う / 〜ようと思う | Bedakan dari fungsi utamanya: Pendapat/pikiran dibanding niat. Petunjuk pilihan: Gunakan と思う untuk hal yang menurutmu benar. Gunakan ようと思う untuk hal yang kamu rencanakan untuk dilakukan. |
-| （V意向形） / 〜つもり | Bedakan dari fungsi utamanya: Bentuk ajakan/niat dibanding rencana yang lebih jelas. Petunjuk pilihan: Gunakan （V意向形） untuk “ayo/saya akan.” Gunakan つもり untuk rencana yang sudah lebih jelas. |
-| 〜ようと思う / 〜つもり | Bedakan dari fungsi utamanya: Niat yang lebih lembut dibanding rencana yang lebih jelas. Petunjuk pilihan: Gunakan ようと思う saat sedang terpikir untuk melakukan. Gunakan つもり saat rencananya lebih jelas. |
+| 〜と言う / 〜って言う | Isi sama, hanya gaya. と言う untuk umum; って言う untuk percakapan santai. |
+| 〜と言う / 〜と言われる | Subjek yang berbicara → と言う. Subjek yang menerima ucapan/perintah → と言われる. |
+| 〜と思う / 〜ようと思う | Pendapat tentang apa yang benar → と思う. Niat melakukan sesuatu → ようと思う (pakai 意向形). |
+| （V意向形） / 〜つもり | Ajakan atau kehendak spontan → 行こう. Rencana yang sudah jelas → 行くつもり. |
+| 〜ようと思う / 〜つもり | Niat yang masih samar/baru terpikir → ようと思う. Rencana yang lebih pasti → つもり. |
 
 ## Kesalahan Umum
 
 | Salah | Benar | Kenapa |
 |---|---|---|
-| 田中さんは明日は来ませんと言っていました。 | 田中さんは明日は来ないと言っていました。 | Kutipan sebelum と memakai bentuk biasa |
-| 明日買い物に行くと思っています。 | 明日買い物に行こうと思っています。 | Niat memakai bentuk 意向形 + と思う |
-| 今日はお酒を飲まないと思うつもりです。 | 今日はお酒を飲まないつもりです。 | つもり memakai bentuk kamus atau bentuk negatif |
+| 田中さんは明日は来ませんと言っていました。 | 田中さんは明日は来ないと言っていました。 | Kutipan sebelum と memakai bentuk biasa (来ない), bukan bentuk sopan |
+| 明日買い物に行くと思っています。 | 明日買い物に行こうと思っています。 | Niat memakai 意向形 (行こう) + と思う, bukan bentuk kamus |
+| 今日はお酒を飲まないと思うつもりです。 | 今日はお酒を飲まないつもりです。 | つもり langsung menempel pada bentuk negatif; jangan sisipkan と思う |
 
-Catatan untuk pembelajar Indonesia: “Mau” dalam bahasa Indonesia bisa diterjemahkan menjadi beberapa pola Jepang, tetapi nuansanya berbeda. - Vよう = ayo / ayo / saya akan - 〜ようと思う = berniat / sedang berpikir akan - 〜つもり = berencana dengan lebih jelas - 〜と思う = saya pikir, tidak selalu berarti “mau”
+Catatan untuk pembelajar Indonesia: "Mau" bisa diterjemahkan ke beberapa pola dengan nuansa berbeda. Vよう = ayo/aku akan; 〜ようと思う = berniat/sedang berpikir akan; 〜つもり = berencana dengan lebih jelas; 〜と思う = saya pikir (tidak selalu berarti "mau").
 
 ## Mini Practice
 
@@ -187,40 +146,18 @@ sentence: "田中さんは明日は来____と言っていました。"
 optionA: "ない"
 optionB: "ません"
 correct: "ない"
-explanation: "ない benar. Kutipan sebelum と memakai bentuk biasa"
+explanation: "来ない benar: kutipan sebelum と memakai bentuk biasa. 来ません adalah bentuk sopan dan tidak boleh berdiri langsung sebelum と言う."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Saya sedang berpikir untuk pergi berbelanja besok."
-sentence: "明日買い物に行____と思っています。"
-optionA: "こう"
-optionB: "く"
-correct: "こう"
-explanation: "こう benar. Niat memakai bentuk 意向形 + と思う"
----
-::
-
-::MiniPractice
----
-question: "Saya berniat tidak minum alkohol hari ini."
-sentence: "今日はお酒を飲まない____です。"
-optionA: "つもり"
-optionB: "と思う"
-correct: "つもり"
-explanation: "つもりです benar untuk rencana atau niat yang lebih jelas."
----
-::
-
-::MiniPractice
----
-question: "Dokter berkata kepada saya agar jangan minum alkohol."
+question: "Dokter menyuruh saya agar jangan minum alkohol."
 sentence: "医者にお酒を飲むな____言われました。"
 optionA: "と"
 optionB: "を"
 correct: "と"
-explanation: "と言われました benar untuk menyampaikan perintah atau pesan yang diterima dari orang lain."
+explanation: "と言われました benar karena melaporkan pesan/perintah yang diterima dari orang lain. を tidak dipakai untuk menandai isi kutipan."
 ---
 ::
 
@@ -231,7 +168,29 @@ sentence: "明日は雨だ____思います。"
 optionA: "と"
 optionB: "に"
 correct: "と"
-explanation: "と思います benar untuk menyampaikan pikiran atau pendapat."
+explanation: "と思います benar untuk menyampaikan pendapat/perkiraan. Perhatikan だ pada 雨だ, dan と menandai isi pikiran."
+---
+::
+
+::MiniPractice
+---
+question: "Saya sedang berpikir untuk pergi berbelanja besok."
+sentence: "明日買い物に行____と思っています。"
+optionA: "こう"
+optionB: "く"
+correct: "こう"
+explanation: "行こうと思う benar: niat memakai bentuk 意向形 (行こう) + と思う. 行くと思う hanya berarti perkiraan 'saya rasa (dia) akan pergi', bukan niat sendiri."
+---
+::
+
+::MiniPractice
+---
+question: "Hari ini saya berniat tidak minum alkohol."
+sentence: "今日はお酒を飲まない____です。"
+optionA: "つもり"
+optionB: "と思う"
+correct: "つもり"
+explanation: "つもりです benar untuk rencana yang tegas dan jelas. 飲まないと思うです bukan bentuk yang benar; と思う tidak menempel begitu di sini."
 ---
 ::
 

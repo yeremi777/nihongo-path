@@ -22,23 +22,23 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa membedakan kemampuan melakukan sesuatu, hal yang terlihat atau terdengar, dan keadaan yang terasa dari tanda luar.
+Di akhir pelajaran ini, kamu bisa membedakan kemampuan melakukan sesuatu, hal yang terlihat atau terdengar dengan sendirinya, dan tindakan yang sengaja kamu lihat atau dengar.
 
 Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya bergantung pada terjemahan bahasa Indonesia.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca fungsi kalimatnya dulu. Setelah itu cek partikel, bentuk verba, dan nuansa yang membuat satu pola lebih tepat daripada pola lain.
+  <strong>Fokus hari ini:</strong> tanyakan siapa yang mengendalikan. Kemampuan yang dilatih (可能形・聞ける・見られる) atau kesan yang datang sendiri ke indra (聞こえる・見える・のが見える)?
 </div>
 
 ## Pola Hari Ini
 
 | Fungsi | Pola | Arti praktis | Kapan dipakai |
 |---|---|---|---|
-| Bentuk potensial | 可能形 | Bentuk potensial; bisa melakukan ~ | dipakai saat bentuk potensial; bisa melakukan ~; bentuknya （V可能形）. |
-| Terdengar / bisa mendengar atau mendengarkan | 聞こえる・聞ける | Terdengar / bisa mendengar atau mendengarkan | dipakai saat terdengar / bisa mendengar atau mendengarkan; bentuknya （N）が聞こえる / （N）を聞ける. |
-| Terlihat / bisa melihat atau menonton | 見える・見られる | Terlihat / bisa melihat atau menonton | dipakai saat terlihat / bisa melihat atau menonton; bentuknya （N）が見える / （N）を見られる. |
-| Terlihat/terdengar bahwa sesuatu sedang terjadi | 〜のが見える・〜のが聞こえる | Terlihat/terdengar bahwa sesuatu sedang terjadi | dipakai saat terlihat/terdengar bahwa sesuatu sedang terjadi; bentuknya （V）ている + のが見える／聞こえる. |
-| Melihat/mendengar seseorang melakukan ~ dengan sengaja | 〜のを見る・〜のを聞く | Melihat/mendengar seseorang melakukan ~ dengan sengaja | dipakai saat melihat/mendengar seseorang melakukan ~ dengan sengaja; bentuknya （V）ている + のを見る／聞く. |
+| Kemampuan umum | 可能形 | bisa melakukan ~ | menyatakan kemampuan atau kemungkinan; objek sering memakai が |
+| Suara: alami vs sengaja | 聞こえる・聞ける | terdengar / bisa mendengarkan | 聞こえる saat suara datang sendiri; 聞ける saat ada kemampuan/kesempatan mendengarkan |
+| Pandangan: alami vs sengaja | 見える・見られる | terlihat / bisa menonton | 見える saat sesuatu masuk ke mata sendiri; 見られる saat ada kemampuan/kesempatan melihat |
+| Persepsi sebuah aksi | 〜のが見える・〜のが聞こえる | terlihat/terdengar bahwa ~ | menangkap tanpa sengaja sebuah aksi yang sedang terjadi |
+| Mengamati aksi | 〜のを見る・〜のを聞く | melihat/mendengar ~ | sengaja menonton atau menyimak sebuah aksi |
 
 ## Peta Pola
 
@@ -50,122 +50,101 @@ Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya ber
   <span>〜のを見る・〜のを聞く</span>
 </div>
 
-Pola hari ini sama-sama dipakai untuk **kemampuan dan persepsi**, tetapi petunjuknya berbeda. Perhatikan partikel, bentuk negatif/lampau, bentuk kamus, dan siapa yang menjadi fokus kalimat.
+Pola hari ini terbelah menjadi dua arah. Di satu sisi ada **kemampuan yang dilatih atau diusahakan**: 可能形 (話せる, 読める), 聞ける, dan 見られる — pembicara bisa melakukannya. Di sisi lain ada **kesan yang datang sendiri ke indra**: 聞こえる (suara masuk telinga) dan 見える (pemandangan masuk mata), tanpa usaha. Ketika yang ditangkap bukan benda melainkan sebuah aksi, tambahkan の: 〜のが見える／聞こえる untuk tangkapan tak sengaja, dan 〜のを見る／聞く saat pembicara **sengaja** mengamati. Jadi tanyakan: ini kemampuan, kesan spontan, atau pengamatan yang disengaja?
 
 ## Cara Membentuk Pola
 
-Simbol utama: （N） berarti nomina, （V） berarti verba, （Klausa） berarti klausa, （いAdj） berarti kata sifat-i, dan （なAdj） berarti kata sifat-na.
+Simbol yang dipakai: （N） berarti nomina, （V可能形） berarti verba bentuk potensial, dan （V）ている berarti verba bentuk sedang.
 
-| Pola | Bentuk dasar | Catatan bentuk |
+| Pola | Bentuk dasar | Yang sering keliru |
 |---|---|---|
-| 可能形 | （V可能形） | dipakai untuk bentuk potensial; bisa melakukan ~. |
-| 聞こえる・聞ける | （N）が聞こえる / （N）を聞ける | dipakai untuk terdengar / bisa mendengar atau mendengarkan. |
-| 見える・見られる | （N）が見える / （N）を見られる | dipakai untuk terlihat / bisa melihat atau menonton. |
-| 〜のが見える・〜のが聞こえる | （V）ている + のが見える／聞こえる | dipakai untuk terlihat/terdengar bahwa sesuatu sedang terjadi. |
-| 〜のを見る・〜のを聞く | （V）ている + のを見る／聞く | dipakai untuk melihat/mendengar seseorang melakukan ~ dengan sengaja. |
+| 可能形 | （V可能形）; objek pakai が | memakai を padahal potensial umumnya が: 日本語**が**話せます |
+| 聞こえる・聞ける | （N）が聞こえる / （N）を聞ける | memakai 聞ける untuk suara yang datang sendiri: 音**が**聞こえる |
+| 見える・見られる | （N）が見える / （N）を見られる | memakai 見られる untuk pemandangan alami: 山**が**見える |
+| 〜のが見える・〜のが聞こえる | （V）ている + のが見える／聞こえる | memakai こと: 遊んでいる**の**が見えます |
+| 〜のを見る・〜のを聞く | （V）ている + のを見る／聞く | tertukar arah: のが (spontan) vs のを (sengaja mengamati) |
 
 ## Bangun Kalimat Bertahap
 
 | Langkah | Jepang | Fungsi |
 |---|---|---|
-| Bahan | （V可能形） | bentuk untuk bentuk potensial |
-| Kalimat | 私は日本語が少し話せます。 | Bentuk potensial; bisa melakukan ~ |
-| Bahan | （N）が聞こえる / （N）を聞ける | bentuk untuk terdengar / bisa mendengar atau mendengarkan |
-| Kalimat | 隣の部屋から音が聞こえます。 | Terdengar / bisa mendengar atau mendengarkan |
-| Bahan | （N）が見える / （N）を見られる | bentuk untuk terlihat / bisa melihat atau menonton |
-| Kalimat | ここから海が見えます。 | Terlihat / bisa melihat atau menonton |
-| Bahan | （V）ている + のが見える／聞こえる | bentuk untuk terlihat/terdengar bahwa sesuatu sedang terjadi |
-| Kalimat | 公園で子どもが遊んでいるのが見えます。 | Terlihat/terdengar bahwa sesuatu sedang terjadi |
-| Bahan | （V）ている + のを見る／聞く | bentuk untuk melihat/mendengar seseorang melakukan ~ dengan sengaja |
-| Kalimat | 鳥が飛んでいるのを見ました。 | Melihat/mendengar seseorang melakukan ~ dengan sengaja |
+| Bahan | 山 | benda: gunung |
+| Bentuk | 山が見える | gunung masuk ke pandangan dengan sendirinya |
+| Kalimat | この窓から山が見えます。 | "Dari jendela ini terlihat gunung." |
+| Bahan | 子どもが遊んでいる | aksi: anak sedang bermain |
+| Bentuk | 遊んでいるのが見える | aksi itu tertangkap mata tanpa sengaja |
+| Kalimat | 公園で子どもが遊んでいるのが見えます。 | "Terlihat anak-anak sedang bermain di taman." |
 
-Bagian ini menghubungkan rumus dan kalimat penuh. Mulai dari bentuk pendeknya dulu, lalu cek fungsi pola sebelum membaca contoh lengkap.
+Perhatikan langkah tengah: untuk benda cukup （N）が見える, tetapi untuk sebuah aksi perlu の agar aksi itu bisa menjadi hal yang terlihat.
 
 ## Catatan Pemakaian
 
-### 可能形
+### Kemampuan yang diusahakan: 可能形, 聞ける, 見られる
 
-Gunakan pola ini untuk **bentuk potensial; bisa melakukan ~**. Bentuk dasarnya: （V可能形）.
+可能形 menyatakan kemampuan atau kemungkinan, dan objeknya biasanya memakai が (日本語**が**話せます). 聞ける dan 見られる adalah versi "punya kemampuan atau kesempatan" untuk mendengarkan/menonton — misalnya karena ada akses (このラジオは聞けます、この映画はネットで見られます).
 
-Catatan praktis: menunjukkan kemampuan atau kemungkinan. Objek sering memakai が.
+### Kesan yang datang sendiri: 聞こえる, 見える
 
-Contoh inti: 私は日本語が少し話せます。
+聞こえる dan 見える dipakai saat suara atau pemandangan **masuk ke indra tanpa usaha**. 隣の部屋から音が聞こえます berarti suaranya sampai ke telinga dengan sendirinya, bukan karena kamu memilih mendengarkan. Inilah bedanya dengan 聞ける／見られる yang menekankan kemampuan.
 
-### 聞こえる・聞ける
+### Persepsi sebuah aksi: 〜のが見える／聞こえる vs 〜のを見る／聞く
 
-Gunakan pola ini untuk **terdengar / bisa mendengar atau mendengarkan**. Bentuk dasarnya: （N）が聞こえる / （N）を聞ける.
-
-Catatan praktis: 聞こえる berarti suara terdengar secara alami. 聞ける berarti kemampuan atau kesempatan untuk mendengarkan.
-
-Contoh inti: 隣の部屋から音が聞こえます。
-
-### 見える・見られる
-
-Gunakan pola ini untuk **terlihat / bisa melihat atau menonton**. Bentuk dasarnya: （N）が見える / （N）を見られる.
-
-Catatan praktis: 見える berarti terlihat secara alami. 見られる berarti kemampuan atau kesempatan untuk melihat.
-
-Contoh inti: ここから海が見えます。
-
-### 〜のが見える・〜のが聞こえる
-
-Gunakan pola ini untuk **terlihat/terdengar bahwa sesuatu sedang terjadi**. Bentuk dasarnya: （V）ている + のが見える／聞こえる.
-
-Catatan praktis: Menjelaskan persepsi alami terhadap tindakan atau peristiwa.
-
-Contoh inti: 公園で子どもが遊んでいるのが見えます。
-
-### 〜のを見る・〜のを聞く
-
-Gunakan pola ini untuk **melihat/mendengar seseorang melakukan ~ dengan sengaja**. Bentuk dasarnya: （V）ている + のを見る／聞く.
-
-Catatan praktis: Dipakai saat pembicara sengaja melihat atau mendengarkan.
-
-Contoh inti: 鳥が飛んでいるのを見ました。
+Saat yang ditangkap adalah sebuah aksi (bukan benda), aksi itu diberi の. Pakai **〜のが見える／聞こえる** saat aksi itu masuk ke indra tanpa sengaja (子どもが遊んでいる**の**が見えます). Pakai **〜のを見る／聞く** saat pembicara **sengaja** mengamati atau menyimak (鳥が飛んでいる**の**を見ました). Perhatikan partikelnya: が untuk kesan spontan, を untuk pengamatan aktif.
 
 ## Pola yang Sering Muncul
 
 | Pola | Arti praktis | Contoh konteks |
 |---|---|---|
-| （V可能形） | Bentuk potensial; bisa melakukan ~ | 私は日本語が少し話せます。 |
-| （N）が聞こえる / （N）を聞ける | Terdengar / bisa mendengar atau mendengarkan | 隣の部屋から音が聞こえます。 |
-| （N）が見える / （N）を見られる | Terlihat / bisa melihat atau menonton | ここから海が見えます。 |
-| （V）ている + のが見える／聞こえる | Terlihat/terdengar bahwa sesuatu sedang terjadi | 公園で子どもが遊んでいるのが見えます。 |
-| （V）ている + のを見る／聞く | Melihat/mendengar seseorang melakukan ~ dengan sengaja | 鳥が飛んでいるのを見ました。 |
+| （V可能形）; （N）が | Bisa melakukan ~ | 私は日本語が少し話せます。 |
+| （N）が聞こえる | Suara datang sendiri | 隣の部屋から音が聞こえます。 |
+| （N）が見える | Pemandangan datang sendiri | ここから海が見えます。 |
+| （V）ている + のが見える／聞こえる | Menangkap aksi tanpa sengaja | 子どもが遊んでいるのが見えます。 |
+| （V）ている + のを見る／聞く | Sengaja mengamati aksi | 鳥が飛んでいるのを見ました。 |
 
 ## Contoh Kalimat
 
 <div class="example-list">
   <div><p class="jp">隣の部屋から音が聞こえます。</p><p>Terdengar suara dari kamar sebelah.</p></div>
   <div><p class="jp">この窓から山が見えます。</p><p>Dari jendela ini terlihat gunung.</p></div>
-  <div><p class="jp">子どもが遊んでいるのが見えます。</p><p>Terlihat anak-anak sedang bermain.</p></div>
   <div><p class="jp">私は日本語が少し話せます。</p><p>Saya bisa berbicara bahasa Jepang sedikit.</p></div>
-  <div><p class="jp">ここから海が見えます。</p><p>Dari sini laut terlihat.</p></div>
-  <div><p class="jp">公園で子どもが遊んでいるのが見えます。</p><p>Saya bisa melihat anak-anak sedang bermain di taman.</p></div>
+  <div><p class="jp">この映画はネットで見られますよ。</p><p>Film ini bisa ditonton lewat internet, lho.</p></div>
+  <div><p class="jp">公園で子どもが遊んでいるのが見えます。</p><p>Terlihat anak-anak sedang bermain di taman.</p></div>
+  <div><p class="jp">鳥が飛んでいるのを見ました。</p><p>Saya melihat burung sedang terbang.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar
 
 | Pasangan | Cara membedakan |
 |---|---|
-| 聞こえる / 聞ける | Bedakan dari fungsi utamanya: Suara terdengar secara alami dibanding kemampuan/kesempatan mendengarkan. Petunjuk pilihan: Gunakan 聞こえる untuk suara. Gunakan 聞ける untuk akses atau kemampuan. |
-| 見える / 見られる | Bedakan dari fungsi utamanya: Sesuatu terlihat dibanding kamu bisa melihat/menonton. Petunjuk pilihan: Gunakan 見える untuk keterlihatan alami. Gunakan 見られる untuk kemampuan atau izin. |
-| 〜のが見える / 〜のを見る | Bedakan dari fungsi utamanya: Persepsi alami dibanding pengamatan yang sengaja dilakukan. Petunjuk pilihan: Gunakan のが見える saat sesuatu terlihat dengan sendirinya. Gunakan のを見る saat kamu sengaja melihat atau mengamati. |
-| 可能形 / 聞こえる・見える | Bedakan dari fungsi utamanya: Kemampuan umum dibanding persepsi alami. Petunjuk pilihan: Gunakan bentuk potensial untuk kemampuan. Gunakan 聞こえる／見える saat suara terdengar atau sesuatu terlihat secara alami. |
+| 聞こえる / 聞ける | Suara datang sendiri ke telinga → 聞こえる. Punya kemampuan atau kesempatan mendengarkan → 聞ける. |
+| 見える / 見られる | Pemandangan masuk mata dengan sendirinya → 見える. Punya kemampuan atau izin menonton → 見られる. |
+| 〜のが見える / 〜のを見る | Aksi tertangkap tanpa sengaja (が) → のが見える. Kamu sengaja mengamatinya (を) → のを見る. |
+| 可能形 / 聞こえる・見える | Kemampuan umum yang dilatih → 可能形. Suara/pemandangan yang datang sendiri → 聞こえる／見える. |
 
 ## Kesalahan Umum
 
 | Salah | Benar | Kenapa |
 |---|---|---|
-| 隣の部屋から音が聞けます。 | 隣の部屋から音が聞こえます。 | Suara yang terdengar alami memakai 聞こえる |
-| この窓から山が見られます。 | この窓から山が見えます。 | Sesuatu yang terlihat alami memakai 見える |
-| 子どもが遊んでいることが見えます。 | 子どもが遊んでいるのが見えます。 | Tindakan persepsi memakai 〜のが／〜のを |
+| 隣の部屋から音が聞けます。 | 隣の部屋から音が聞こえます。 | Suara yang datang sendiri memakai 聞こえる, bukan 聞ける |
+| この窓から山が見られます。 | この窓から山が見えます。 | Pemandangan alami memakai 見える, bukan 見られる |
+| 子どもが遊んでいることが見えます。 | 子どもが遊んでいるのが見えます。 | Persepsi sebuah aksi memakai の, bukan こと |
 
-Catatan untuk pembelajar Indonesia: “Bisa dengar” dan “bisa lihat” dalam bahasa Indonesia bisa berarti kemampuan atau persepsi alami. 聞こえる = terdengar secara alami; 聞ける = bisa mendengarkan; 見える = terlihat secara alami; 見られる = bisa melihat/menonton.
+Catatan untuk pembelajar Indonesia: "Bisa dengar" dan "bisa lihat" dalam bahasa Indonesia bisa berarti kemampuan atau kesan spontan. 聞こえる = terdengar dengan sendirinya; 聞ける = bisa mendengarkan (ada akses); 見える = terlihat dengan sendirinya; 見られる = bisa menonton (ada akses).
 
 ## Mini Practice
 
 Pilih jawaban yang paling tepat. Perhatikan petunjuk partikel, bentuk kata, dan konteks kalimat sebelum memilih.
+
+::MiniPractice
+---
+question: "Saya bisa berbicara bahasa Jepang sedikit."
+sentence: "私は日本語が少し話____ます。"
+optionA: "せ"
+optionB: "し"
+correct: "せ"
+explanation: "話せます benar sebagai bentuk potensial dari 話す (kemampuan). 話します hanya berarti 'berbicara', bukan 'bisa berbicara'."
+---
+::
 
 ::MiniPractice
 ---
@@ -174,7 +153,7 @@ sentence: "隣の部屋から音が聞____ます。"
 optionA: "こえ"
 optionB: "け"
 correct: "こえ"
-explanation: "こえ benar. Suara yang terdengar alami memakai 聞こえる"
+explanation: "聞こえます benar karena suara datang sendiri ke telinga. 聞けます berarti punya kemampuan/kesempatan mendengarkan, bukan suara yang muncul spontan."
 ---
 ::
 
@@ -185,40 +164,29 @@ sentence: "この窓から山が見____ます。"
 optionA: "え"
 optionB: "られ"
 correct: "え"
-explanation: "え benar. Sesuatu yang terlihat alami memakai 見える"
+explanation: "見えます benar karena gunung masuk ke pandangan dengan sendirinya. 見られます dipakai untuk kemampuan atau izin menonton sesuatu."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Terlihat anak-anak sedang bermain."
-sentence: "子どもが遊んでいる____が見えます。"
+question: "Terlihat anak-anak sedang bermain di taman."
+sentence: "公園で子どもが遊んでいる____が見えます。"
 optionA: "の"
 optionB: "こと"
 correct: "の"
-explanation: "の benar. Tindakan persepsi memakai 〜のが／〜のを"
+explanation: "の benar: persepsi sebuah aksi memakai 〜のが見える. こと dipakai untuk fakta abstrak, bukan sesuatu yang tertangkap mata."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Saya bisa berbicara bahasa Jepang sedikit."
-sentence: "私は日本語が少し話____ます。"
-optionA: "せ"
-optionB: "し"
-correct: "せ"
-explanation: "話せます benar sebagai bentuk potensial dari 話す."
----
-::
-
-::MiniPractice
----
-question: "Dari sini laut terlihat."
-sentence: "ここから海が見____ます。"
-optionA: "え"
-optionB: "られ"
-correct: "え"
-explanation: "見えます benar karena laut terlihat secara alami dari posisi pembicara."
+question: "Saya sengaja melihat burung yang sedang terbang."
+sentence: "鳥が飛んでいる____見ました。"
+optionA: "のを"
+optionB: "のが"
+correct: "のを"
+explanation: "のを見ました benar karena pembicara sengaja mengamati aksinya (partikel を). のが見える dipakai saat aksi tertangkap tanpa sengaja."
 ---
 ::
 

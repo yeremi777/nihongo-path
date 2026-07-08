@@ -22,134 +22,121 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa menghubungkan sebab, cara melakukan sesuatu, keadaan yang menyertai, dan dua tindakan yang berlangsung bersamaan.
+Di akhir pelajaran ini, kamu bisa menghubungkan sebab, cara melakukan sesuatu, keadaan yang dibiarkan tetap, dan dua tindakan yang berlangsung bersamaan.
 
 Kamu juga akan membedakan pola yang mirip supaya pilihan jawaban tidak hanya bergantung pada terjemahan bahasa Indonesia.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca fungsi kalimatnya dulu. Setelah itu cek partikel, bentuk verba, dan nuansa yang membuat satu pola lebih tepat daripada pola lain.
+  <strong>Fokus hari ini:</strong> bentuk て punya banyak fungsi. Tanyakan apakah kalimatnya menyatakan sebab, cara, keadaan tetap, atau dua aksi sekaligus — dan ingat sebab sebelum permintaan justru memakai から／ので, bukan て.
 </div>
 
 ## Pola Hari Ini
 
 | Fungsi | Pola | Arti praktis | Kapan dipakai |
 |---|---|---|---|
-| Karena | 〜て・〜で（原因） | Karena ~; sebab atau alasan | dipakai saat karena ~; sebab atau alasan; bentuknya （Vて） / （Adjくて） / （N） + で. |
-| Dengan melakukan | 〜て・〜ないで（方法） | Dengan melakukan ~; tanpa melakukan ~ | dipakai saat dengan melakukan ~; tanpa melakukan ~; bentuknya （Vて） / （V ないで）. |
-| Tetap dalam keadaan | 〜まま | Tetap dalam keadaan ~; keadaan tidak berubah | dipakai saat tetap dalam keadaan ~; keadaan tidak berubah; bentuknya （Vた） + まま / （N） + のまま. |
-| Sambil melakukan | 〜ながら | Sambil melakukan ~ | dipakai saat sambil melakukan ~; bentuknya （Vますstem） + ながら. |
+| Sebab alami | 〜て・〜で（原因） | karena ~ | sebab yang menghasilkan akibat alami |
+| Cara / tanpa | 〜て・〜ないで（方法） | dengan / tanpa melakukan ~ | menandai cara atau kondisi tindakan |
+| Keadaan tetap | 〜まま | tetap dalam keadaan ~ | keadaan asal dibiarkan tidak berubah |
+| Dua aksi bersamaan | 〜ながら | sambil melakukan ~ | satu subjek melakukan dua aksi sekaligus |
 
 ## Peta Pola
 
 <div class="word-strip">
-  <span>〜て・〜で</span>
-  <span>〜て・〜ないで</span>
+  <span>〜て・〜で（原因）</span>
+  <span>〜て・〜ないで（方法）</span>
   <span>〜まま</span>
   <span>〜ながら</span>
 </div>
 
-Pola hari ini sama-sama dipakai untuk **sebab, cara, keadaan, sambil**, tetapi petunjuknya berbeda. Perhatikan partikel, bentuk negatif/lampau, bentuk kamus, dan siapa yang menjadi fokus kalimat.
+Bentuk て muncul dua kali dengan fungsi berbeda: sebagai **sebab alami** (かぜをひいて、学校を休みました) dan sebagai **cara** (辞書を使って調べました). Pasangannya ないで berarti "tanpa melakukan". Dua pola sisanya soal keadaan saat aksi: まま menahan satu keadaan tetap tidak berubah (窓を開けたまま), sedangkan ながら menandai dua aksi yang dilakukan bersamaan oleh subjek yang sama (聞きながら). Pertanyaan kunci: sebab, cara, keadaan tetap, atau dua aksi sekaligus? Dan kalau di depan permintaan/perintah, pakai から／ので, bukan て.
 
 ## Cara Membentuk Pola
 
-Simbol utama: （N） berarti nomina, （V） berarti verba, （Klausa） berarti klausa, （いAdj） berarti kata sifat-i, dan （なAdj） berarti kata sifat-na.
+Simbol: （V）= verba, （Adj）= kata sifat, （N）= nomina. Bentuk verba ditulis eksplisit seperti （Vて）, （Vないで）, （Vた）, dan （Vますstem）.
 
-| Pola | Bentuk dasar | Catatan bentuk |
+| Pola | Bentuk dasar | Yang perlu dicek |
 |---|---|---|
-| 〜て・〜で（原因） | （Vて） / （Adjくて） / （N） + で | dipakai untuk karena ~; sebab atau alasan. |
-| 〜て・〜ないで（方法） | （Vて） / （V ないで） | dipakai untuk dengan melakukan ~; tanpa melakukan ~. |
-| 〜まま | （Vた） + まま / （N） + のまま | dipakai untuk tetap dalam keadaan ~; keadaan tidak berubah. |
-| 〜ながら | （Vますstem） + ながら | dipakai untuk sambil melakukan ~. |
+| 〜て・〜で（原因） | （Vて）/（Adjくて）/（N）で | hanya untuk akibat alami, bukan sebelum permintaan |
+| 〜て・〜ないで（方法） | （Vて）/（Vないで） | ないで = tanpa melakukan (bukan なくて) |
+| 〜まま | （Vた）まま / （N）のまま | verba memakai bentuk た |
+| 〜ながら | （Vますstem）ながら | menempel pada akar sebelum ます |
 
 ## Bangun Kalimat Bertahap
 
 | Langkah | Jepang | Fungsi |
 |---|---|---|
-| Bahan | （Vて） / （Adjくて） / （N） + で | bentuk untuk karena |
-| Kalimat | かぜをひいて、学校を休みました。 | Karena ~; sebab atau alasan |
-| Bahan | （Vて） / （V ないで） | bentuk untuk dengan melakukan |
-| Kalimat | 辞書を使って調べました。 | Dengan melakukan ~; tanpa melakukan ~ |
-| Bahan | （Vた） + まま / （N） + のまま | bentuk untuk tetap dalam keadaan |
-| Kalimat | 窓を開けたまま寝ました。 | Tetap dalam keadaan ~; keadaan tidak berubah |
-| Bahan | （Vますstem） + ながら | bentuk untuk sambil melakukan |
-| Kalimat | 音楽を聞きながら勉強しています。 | Sambil melakukan ~ |
+| Bahan | かぜをひく | sebab |
+| Bentuk | かぜをひいて | sebab + bentuk て |
+| Kalimat | かぜをひいて、学校を休みました。 | Karena masuk angin, saya tidak masuk sekolah. |
+| Bahan | 食べない | aksi yang tidak dilakukan |
+| Bentuk | 食べないで | tanpa melakukan |
+| Kalimat | 朝ご飯を食べないで学校へ行きました。 | Saya pergi ke sekolah tanpa sarapan. |
+| Bahan | 聞く | aksi kedua yang berbarengan |
+| Bentuk | 聞きながら | akar ます + ながら |
+| Kalimat | 音楽を聞きながら勉強しています。 | Saya belajar sambil mendengarkan musik. |
 
-Bagian ini menghubungkan rumus dan kalimat penuh. Mulai dari bentuk pendeknya dulu, lalu cek fungsi pola sebelum membaca contoh lengkap.
+Perhatikan langkah tengah: fungsi ditentukan oleh bentuknya — て (sebab/cara), ないで (tanpa), た + まま (keadaan tetap), akar + ながら (dua aksi).
 
 ## Catatan Pemakaian
 
-### 〜て・〜で（原因）
+### Sebab alami: て・で
 
-Gunakan pola ini untuk **karena ~; sebab atau alasan**. Bentuk dasarnya: （Vて） / （Adjくて） / （N） + で.
+- **Vて / Adjくて / Nで** menyatakan sebab yang menghasilkan akibat alami: かぜをひいて、学校を休みました。
+- Jangan pakai て di depan permintaan, perintah, atau harapan; di situ pakai から／ので: 暑いから、窓を開けてください。
 
-Catatan praktis: Dipakai untuk sebab/hasil alami. Hindari sebelum permintaan, perintah, atau harapan.
+### Cara dan "tanpa": て・ないで
 
-Contoh inti: かぜをひいて、学校を休みました。
+- **Vて** = dengan melakukan / caranya: 辞書を使って調べました。
+- **Vないで** = tanpa melakukan: 朝ご飯を食べないで学校へ行きました。Ingat, ないで (cara/tanpa) berbeda dari なくて (sebab/alasan).
 
-### 〜て・〜ないで（方法）
+### Keadaan tetap: まま
 
-Gunakan pola ini untuk **dengan melakukan ~; tanpa melakukan ~**. Bentuk dasarnya: （Vて） / （V ないで）.
+- **Vた + まま / N + のまま** menahan satu keadaan tetap tidak berubah: 窓を開けたまま寝ました。
 
-Catatan praktis: menunjukkan condition, method, manner, atau procedure.
+### Dua aksi sekaligus: ながら
 
-Contoh inti: 辞書を使って調べました。
-
-### 〜まま
-
-Gunakan pola ini untuk **tetap dalam keadaan ~; keadaan tidak berubah**. Bentuk dasarnya: （Vた） + まま / （N） + のまま.
-
-Catatan praktis: Keadaan asal tetap tidak berubah.
-
-Contoh inti: 窓を開けたまま寝ました。
-
-### 〜ながら
-
-Gunakan pola ini untuk **sambil melakukan ~**. Bentuk dasarnya: （Vますstem） + ながら.
-
-Catatan praktis: Biasanya subjek yang sama melakukan dua tindakan pada waktu yang sama.
-
-Contoh inti: 音楽を聞きながら勉強しています。
+- **Vますstem + ながら** menandai satu subjek yang melakukan dua aksi bersamaan: 音楽を聞きながら勉強しています。Ini berbeda dari 間に, yang justru menandai peristiwa lain di dalam suatu periode.
 
 ## Pola yang Sering Muncul
 
 | Pola | Arti praktis | Contoh konteks |
 |---|---|---|
-| （Vて） / （Adjくて） / （N） + で | Karena ~; sebab atau alasan | かぜをひいて、学校を休みました。 |
-| （Vて） / （V ないで） | Dengan melakukan ~; tanpa melakukan ~ | 辞書を使って調べました。 |
-| （Vた） + まま / （N） + のまま | Tetap dalam keadaan ~; keadaan tidak berubah | 窓を開けたまま寝ました。 |
-| （Vますstem） + ながら | Sambil melakukan ~ | 音楽を聞きながら勉強しています。 |
+| （Vて）/（Adjくて）/（N）で | Karena ~ (sebab alami) | かぜをひいて、学校を休みました。 |
+| （Vて）/（Vないで） | Dengan / tanpa melakukan ~ | 辞書を使って調べました。 |
+| （Vた）まま / （N）のまま | Tetap dalam keadaan ~ | 窓を開けたまま寝ました。 |
+| （Vますstem）ながら | Sambil melakukan ~ | 音楽を聞きながら勉強しています。 |
 
 ## Contoh Kalimat
 
 <div class="example-list">
-  <div><p class="jp">暑いから、窓を開けてください。</p><p>Karena panas, tolong buka jendelanya.</p></div>
+  <div><p class="jp">かぜをひいて、学校を休みました。</p><p>Karena masuk angin, saya tidak masuk sekolah.</p></div>
+  <div><p class="jp">辞書を使って調べました。</p><p>Saya mencari tahu dengan memakai kamus.</p></div>
   <div><p class="jp">朝ご飯を食べないで学校へ行きました。</p><p>Saya pergi ke sekolah tanpa sarapan.</p></div>
   <div><p class="jp">窓を開けたまま寝ました。</p><p>Saya tidur dengan jendela tetap terbuka.</p></div>
   <div><p class="jp">音楽を聞きながら勉強しています。</p><p>Saya belajar sambil mendengarkan musik.</p></div>
-  <div><p class="jp">かぜをひいて、学校を休みました。</p><p>Karena masuk angin, saya tidak masuk sekolah.</p></div>
-  <div><p class="jp">辞書を使って調べました。</p><p>Saya mencari tahu dengan mengGunakan kamus.</p></div>
+  <div><p class="jp">暑いから、窓を開けてください。</p><p>Karena panas, tolong buka jendelanya.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar
 
 | Pasangan | Cara membedakan |
 |---|---|
-| 〜て／〜で cause / 〜から／〜ので | Bedakan dari fungsi utamanya: Sebab alami dibanding alasan eksplisit. Petunjuk pilihan: Gunakan て／で untuk hasil yang muncul secara alami. Gunakan から／ので sebelum permintaan, perintah, atau harapan. |
-| 〜て method / 〜ないで method | Bedakan dari fungsi utamanya: Dengan melakukan dibanding tanpa melakukan. Petunjuk pilihan: Gunakan て untuk cara/tindakan yang dilakukan. Gunakan ないで untuk tindakan yang tidak dilakukan. |
-| 〜ないで / 〜なくて | Bedakan dari fungsi utamanya: Without doing dibanding cause/reason. Petunjuk pilihan: Gunakan ないで untuk manner. Gunakan なくて untuk reason atau cause. |
-| 〜まま / 〜ながら | Bedakan dari fungsi utamanya: Keadaan tetap dibanding tindakan bersamaan. Petunjuk pilihan: Gunakan まま saat keadaan tidak berubah. Gunakan ながら saat melakukan dua tindakan bersamaan. |
-| 〜ながら / 〜間に | Bedakan dari fungsi utamanya: Tindakan bersamaan oleh subjek yang sama dibanding peristiwa dalam suatu periode. Petunjuk pilihan: Gunakan ながら saat satu subjek melakukan dua tindakan. Gunakan 間に saat peristiwa lain terjadi dalam suatu periode. |
+| 〜て／〜で (sebab) / 〜から／〜ので | て／で untuk akibat alami; から／ので dipakai sebelum permintaan, perintah, atau harapan. |
+| 〜て (cara) / 〜ないで (tanpa) | て untuk cara/tindakan yang dilakukan; ないで untuk tindakan yang tidak dilakukan. |
+| 〜ないで / 〜なくて | ないで untuk cara/kondisi ("tanpa melakukan"); なくて untuk sebab atau alasan. |
+| 〜まま / 〜ながら | まま saat satu keadaan dibiarkan tetap; ながら saat dua aksi dilakukan bersamaan. |
+| 〜ながら / 〜間に | ながら saat satu subjek melakukan dua aksi; 間に saat peristiwa lain terjadi di dalam suatu periode. |
 
 ## Kesalahan Umum
 
 | Salah | Benar | Kenapa |
 |---|---|---|
-| 暑くて、窓を開けてください。 | 暑いから、窓を開けてください。 | Gunakan から／ので sebelum permintaan |
-| 朝ご飯を食べなくて学校へ行きました。 | 朝ご飯を食べないで学校へ行きました。 | Tanpa melakukan memakai ないで |
-| 窓を開けながら寝ました。 | 窓を開けたまま寝ました。 | まま menjaga keadaan tetap tidak berubah |
-| 音楽を聞いてながら勉強しています。 | 音楽を聞きながら勉強しています。 | ながら menempel pada bentuk sebelum ます |
+| 暑くて、窓を開けてください。 | 暑いから、窓を開けてください。 | Sebelum permintaan pakai から／ので |
+| 朝ご飯を食べなくて学校へ行きました。 | 朝ご飯を食べないで学校へ行きました。 | "Tanpa melakukan" memakai ないで |
+| 窓を開けながら寝ました。 | 窓を開けたまま寝ました。 | Keadaan yang dibiarkan tetap memakai まま |
+| 音楽を聞いてながら勉強しています。 | 音楽を聞きながら勉強しています。 | ながら menempel pada akar sebelum ます |
 
-Catatan untuk pembelajar Indonesia: “Sambil” dalam bahasa Indonesia sering menjadi **〜ながら**, tetapi tidak selalu. Pakai **〜ながら** saat orang yang sama melakukan dua tindakan bersamaan. Pakai **〜まま** saat suatu keadaan dibiarkan tetap, misalnya “dengan jendela tetap terbuka”.
+Catatan untuk pembelajar Indonesia: "Sambil" dalam bahasa Indonesia sering menjadi 〜ながら, tetapi tidak selalu. Pakai 〜ながら saat orang yang sama melakukan dua tindakan bersamaan. Pakai 〜まま saat suatu keadaan dibiarkan tetap, misalnya "dengan jendela tetap terbuka".
 
 ## Mini Practice
 
@@ -162,18 +149,18 @@ sentence: "暑____、窓を開けてください。"
 optionA: "いから"
 optionB: "くて"
 correct: "いから"
-explanation: "いから benar. Gunakan から／ので sebelum permintaan"
+explanation: "いから benar karena di depan permintaan (開けてください) sebab dinyatakan dengan から／ので. 暑くて tidak boleh dipakai langsung sebelum sebuah permintaan."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Saya pergi ke sekolah tanpa sarapan."
-sentence: "朝ご飯を食べな____学校へ行きました。"
-optionA: "いで"
-optionB: "くて"
-correct: "いで"
-explanation: "いで benar. Tanpa melakukan memakai ないで"
+sentence: "朝ご飯を食べ____学校へ行きました。"
+optionA: "ないで"
+optionB: "なくて"
+correct: "ないで"
+explanation: "ないで benar karena menyatakan cara/kondisi 'tanpa melakukan'. なくて menyatakan sebab/alasan, bukan 'tanpa sarapan lalu berangkat'."
 ---
 ::
 
@@ -184,29 +171,29 @@ sentence: "窓を開け____寝ました。"
 optionA: "たまま"
 optionB: "ながら"
 correct: "たまま"
-explanation: "たまま benar. まま menjaga keadaan tetap tidak berubah"
+explanation: "たまま benar karena jendela dibiarkan dalam keadaan terbuka. 開けながら寝る berarti membuka jendela sambil tidur secara bersamaan, yang tidak masuk akal."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Saya belajar sambil mendengarkan musik."
-sentence: "音楽を聞____ながら勉強しています。"
-optionA: "き"
-optionB: "いて"
-correct: "き"
-explanation: "き benar. ながら menempel pada bentuk sebelum ます"
+sentence: "音楽を____勉強しています。"
+optionA: "聞きながら"
+optionB: "聞いてから"
+correct: "聞きながら"
+explanation: "聞きながら benar karena dua aksi berlangsung bersamaan. 聞いてから berarti 'setelah selesai mendengarkan, baru belajar', urutan yang berbeda."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Karena masuk angin, saya tidak masuk sekolah."
-sentence: "かぜをひい____、学校を休みました。"
-optionA: "て"
-optionB: "ながら"
-correct: "て"
-explanation: "て benar karena bentuk te bisa menghubungkan sebab dengan akibat dalam kalimat ini."
+question: "Saya mencari tahu dengan memakai kamus."
+sentence: "辞書を____調べました。"
+optionA: "使って"
+optionB: "使わないで"
+correct: "使って"
+explanation: "使って benar karena menyatakan cara 'dengan memakai kamus'. 使わないで berarti 'tanpa memakai kamus', kebalikan dari maksud kalimat."
 ---
 ::
 
