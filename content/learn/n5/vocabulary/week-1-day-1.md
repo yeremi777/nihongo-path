@@ -27,7 +27,7 @@ Di akhir pelajaran ini, kamu bisa membedakan kosakata dasar untuk rasa, suhu, uk
 Fokus hari ini bukan hanya menghafal arti kata seperti あまい, からい, にがい, dan あつい, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan fungsinya di kalimat: benda atau orang, tindakan, keadaan, waktu, tempat, dan cara. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan atau arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> hampir semua kata hari ini adalah kata sifat, dan ada dua jenisnya. Kata sifat-i seperti あまい, つめたい, dan むずかしい langsung menempel ke kata benda (あまいおかし). Kata sifat-na seperti ひまな, すきな, dan きらいな butuh な dulu (すきな食べもの). Selain itu, dua kata bisa sama-sama berarti "dingin": pilih つめたい untuk benda/minuman dan さむい untuk cuaca/udara.
 </div>
 
 ## Daftar Kata
@@ -91,9 +91,7 @@ Kata hari ini mudah dipelajari sebagai pasangan. Rasa membantu kamu menjelaskan 
   <span>すきな ↔ きらいな</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang rasa, suhu, ukuran, dan kesukaan: kata intinya bisa berupa あまい, からい, dan にがい; kata lain memberi konteks tambahan. Mulai dari kata inti, lalu lihat pasangan kata dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
-
-
+Hampir semua pasangan di atas adalah lawan kata: あつい lawan つめたい untuk suhu benda, せまい lawan ひろい untuk ruang, とおい lawan ちかい untuk jarak, dan おもしろい lawan つまらない untuk kesan. Belajarlah per pasangan, bukan satu per satu. Perhatikan juga bahwa さむい dan つめたい sama-sama "dingin" tetapi tidak saling menggantikan: さむい untuk cuaca, つめたい untuk benda dan minuman.
 
 ## Catatan Pemakaian
 

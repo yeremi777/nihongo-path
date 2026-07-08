@@ -27,7 +27,7 @@ Di akhir pelajaran ini, kamu bisa mengenali kosakata dasar untuk menyebut musim,
 Fokus hari ini bukan hanya menghafal arti kata seperti きせつ, はる, なつ, dan あき, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan fungsinya di kalimat: benda atau orang, tindakan, keadaan, waktu, tempat, dan cara. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan atau arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> setiap kelompok punya satu kata kategori (きせつ, いろ, スポーツ, くだもの, のりもの) diikuti anggotanya. Untuk menyatakan kesukaan pakai （N）がすきです dan （N）がほしいです — bukan を. Dua pasangan mudah tertukar: カップ (cangkir bergagang) vs コップ (gelas minum), dan かぐ (perabot: ベッド, つくえ) vs peralatan elektronik (テレビ, エアコン, れいぞうこ).
 </div>
 
 ## Daftar Kata
@@ -145,9 +145,7 @@ Kata hari ini dipakai untuk menjawab pertanyaan sederhana: musim apa yang kamu s
   <span>かぐ → ベッド／つくえ</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang musim, warna, tempat, dan benda: kata intinya bisa berupa きせつ, はる, dan なつ; kata lain memberi konteks tambahan. Mulai dari kata inti, lalu lihat pasangan kata dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
-
-
+Setiap chip mengikuti pola yang sama: kata kategori di kiri panah, lalu anggotanya di kanan (きせつ → はる, いろ → あか, のりもの → くるま). Saat berlatih, mulai dari kata kategori untuk mengingat kelompoknya, lalu sebutkan anggota yang kamu suka dengan （N）がすきです atau tujuan yang kamu tuju dengan （Place）に行きます.
 
 ## Catatan Pemakaian
 

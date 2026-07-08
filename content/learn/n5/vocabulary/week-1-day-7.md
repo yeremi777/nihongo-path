@@ -27,7 +27,7 @@ Di akhir pelajaran ini, kamu bisa mengenali kosakata dasar untuk bagian tubuh, c
 Fokus hari ini bukan hanya menghafal arti kata seperti からだ, かお, あたま, dan くび, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan fungsinya di kalimat: benda atau orang, tindakan, keadaan, waktu, tempat, dan cara. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan atau arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> bahasa Jepang tidak punya satu kata "memakai". Kata kerjanya mengikuti bagian tubuh: シャツをきる (atas), ズボンをはく (bawah), ぼうしをかぶる (kepala), めがねをかける (kacamata), ネクタイをする (aksesori). Kata hitung juga mengikuti bentuk benda: 〜まい untuk lembaran, 〜ほん untuk benda panjang, 〜さつ untuk buku. Cek dulu bendanya, baru pilih kata kerjanya atau penghitungnya.
 </div>
 
 ## Daftar Kata
@@ -164,9 +164,7 @@ Pelajaran ini punya tiga peta besar. Pertama, tubuh: kepala sampai kaki. Kedua, 
   <span>〜まい／〜だい／〜ほん／〜さつ</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang tubuh, pakaian, dan kata hitung: kata intinya bisa berupa からだ, かお, dan あたま; kata lain memberi konteks tambahan. Mulai dari kata inti, lalu lihat pasangan kata dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
-
-
+Tiga kelompok ini saling terhubung lewat tubuh. Urutkan dari atas ke bawah seperti berpakaian di pagi hari: あたま memakai ぼうし (かぶる), め memakai めがね (かける), tubuh atas memakai シャツ atau セーター (きる), tubuh bawah dan あし memakai ズボン, くつした, dan くつ (はく). Kata hitung lalu mengikuti bentuk benda yang sama: シャツ tipis seperti lembaran dihitung 〜まい, sedangkan orang yang memakainya dihitung ひとり, ふたり.
 
 ## Catatan Pemakaian
 
@@ -185,7 +183,7 @@ Bayangkan kamu sedang membaca atau mendengar situasi tentang tubuh, pakaian, dan
 | （Clothing）をきる／はく／かぶる | memakai pakaian sesuai jenis | シャツをきます |
 | （Accessory）をする | memakai aksesori | ネクタイをします |
 | （N）を（Counter）ください | minta jumlah tertentu | りんごを三つください |
-| （N）が何＋counterありますか | bertanya jumlah | 車が何台ありますか |
+| （N）が何（Counter）ありますか | bertanya jumlah | 車が何台ありますか |
 
 ## Contoh Kalimat
 
@@ -224,12 +222,12 @@ explanation: "シャツ adalah pakaian tubuh bagian atas, jadi memakai きる."
 
 ::MiniPractice
 ---
-question: "Saya memakai sepatu."
-sentence: "くつを____。"
-optionA: "はきます"
-optionB: "かぶります"
-correct: "はきます"
-explanation: "くつ memakai はく. かぶる dipakai untuk topi."
+question: "Kepala saya sakit, jadi hari ini saya istirahat."
+sentence: "____がいたいですから、今日は休みます。"
+optionA: "あたま"
+optionB: "あし"
+correct: "あたま"
+explanation: "あたま berarti kepala, sesuai konteks sakit kepala. あし berarti kaki."
 ---
 ::
 
@@ -247,7 +245,7 @@ explanation: "Orang dihitung dengan ひとり, ふたり, さんにん. ふた�
 ::MiniPractice
 ---
 question: "Saya membeli tiga buku."
-sentence: "本を____買います。"
+sentence: "本を____買いました。"
 optionA: "三さつ"
 optionB: "三台"
 correct: "三さつ"

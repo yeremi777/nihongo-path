@@ -27,7 +27,7 @@ Di akhir pelajaran ini, kamu bisa mengenali kosakata dasar untuk menyebut keluar
 Fokus hari ini bukan hanya menghafal arti kata seperti わたしの, あなたの, あの人の, dan そふ, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan fungsinya di kalimat: benda atau orang, tindakan, keadaan, waktu, tempat, dan cara. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan atau arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> setiap anggota keluarga punya dua bentuk. Untuk keluarga sendiri pakai kata polos (ちち, はは, あに, つま); untuk keluarga orang lain pakai bentuk sopan dengan お／ご／さん (おとうさん, ごりょうしん, おくさん). Hati-hati dengan pasangan yang bunyinya mirip tetapi beda arti: おじ (paman) vs おじいさん (kakek), おば (bibi) vs おばあさん (nenek).
 </div>
 
 ## Daftar Kata
@@ -113,9 +113,7 @@ Pelajaran ini bergerak dari keluarga inti ke keluarga besar. Pola utamanya adala
   <span>おっと／しゅじん ↔ ごしゅじん</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang keluarga sendiri dan orang lain: kata intinya bisa berupa わたしの, あなたの, dan あの人の; kata lain memberi konteks tambahan. Mulai dari kata inti, lalu lihat pasangan kata dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
-
-
+Setiap panah di atas menghubungkan bentuk keluarga sendiri (kiri) dengan bentuk sopan untuk keluarga orang lain (kanan): ちち menjadi おとうさん, はは menjadi おかあさん, りょうしん menjadi ごりょうしん. Saat memperkenalkan keluargamu ke orang lain, pilih sisi kiri; saat menyebut atau bertanya tentang keluarga lawan bicara, pilih sisi kanan.
 
 ## Catatan Pemakaian
 

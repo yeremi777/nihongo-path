@@ -27,7 +27,7 @@ Di akhir pelajaran ini, kamu bisa mengenali kosakata dasar untuk membicarakan wa
 Fokus hari ini bukan hanya menghafal arti kata seperti かかる, あける, しめる, dan つける, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan fungsinya di kalimat: benda atau orang, tindakan, keadaan, waktu, tempat, dan cara. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan atau arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> beberapa kata kerja datang berpasangan transitif–intransitif. ドアをあける (seseorang membuka) berpasangan dengan ドアがあく (pintu terbuka); begitu pula しめる／しまる. Petunjuknya ada di partikel: を untuk aksi pada benda, が untuk keadaan benda. Satu kata kerja, かける, berubah arti sesuai objeknya: メガネをかける, かぎをかける, 電話をかける.
 </div>
 
 ## Daftar Kata
@@ -81,9 +81,7 @@ Kata hari ini banyak berupa pasangan aksi dan keadaan. Kamu membuka pintu dengan
   <span>おなかがすく</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang waktu, biaya, dan kondisi: kata intinya bisa berupa かかる, あける, dan しめる; kata lain memberi konteks tambahan. Mulai dari kata inti, lalu lihat pasangan kata dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
-
-
+Kunci hari ini ada di kolom を versus が. ドアをあける dan まどをしめる memakai を karena seseorang bertindak pada benda; ドアがあく dan ドアがしまる memakai が karena bendanya sendiri yang berubah keadaan. のどがかわく dan おなかがすく juga memakai が karena menyatakan keadaan tubuh, bukan aksi yang kamu lakukan.
 
 ## Catatan Pemakaian
 

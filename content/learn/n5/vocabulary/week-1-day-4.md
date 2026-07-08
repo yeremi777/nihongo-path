@@ -27,7 +27,7 @@ Di akhir pelajaran ini, kamu bisa mengenali kosakata dasar untuk frekuensi, ting
 Fokus hari ini bukan hanya menghafal arti kata seperti いつも, たいてい, ときどき, dan よく, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan fungsinya di kalimat: benda atau orang, tindakan, keadaan, waktu, tempat, dan cara. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan atau arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> kata keterangan hari ini punya tiga pola. Pertama, tangga frekuensi いつも → たいてい → ときどき. Kedua, dua kata yang hampir selalu butuh bentuk negatif: あまり〜ない dan ぜんぜん〜ない. Ketiga, pasangan もう (sudah) dan まだ (belum/masih), plus keluarga もう一つ／もう一度／もう少し yang berarti "satu/sekali/sedikit lagi".
 </div>
 
 ## Daftar Kata
@@ -81,9 +81,7 @@ Kata hari ini membantu memberi ukuran pada kalimat. いつも, たいてい, と
   <span>ちょっと</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang frekuensi, tingkat, dan jumlah: kata intinya bisa berupa いつも, たいてい, dan ときどき; kata lain memberi konteks tambahan. Mulai dari kata inti, lalu lihat pasangan kata dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
-
-
+Tiga kelompok ini menjawab pertanyaan berbeda: seberapa sering (いつも, たいてい, ときどき, よく), seberapa kuat (とても, あまり, ぜんぜん), dan sudah/belum (もう, まだ). Ingat bahwa あまり dan ぜんぜん hampir selalu ditutup dengan bentuk negatif, sedangkan もう sering berpasangan dengan bentuk lampau seperti もう食べました.
 
 ## Catatan Pemakaian
 

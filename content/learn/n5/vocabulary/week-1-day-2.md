@@ -27,7 +27,7 @@ Di akhir pelajaran ini, kamu bisa mengenali kosakata dasar untuk menceritakan te
 Fokus hari ini bukan hanya menghafal arti kata seperti すむ, つとめる, はたらく, dan けっこんする, tetapi juga membaca kata-kata itu sebagai bagian dari situasi nyata, pasangan kata, dan kalimat pendek.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kelompokkan kata berdasarkan fungsinya di kalimat: benda atau orang, tindakan, keadaan, waktu, tempat, dan cara. Saat ada kata kerja atau frasa, cek partikelnya: を biasanya menandai objek tindakan, が sering menunjukkan keadaan, に menunjukkan tujuan atau arah, dan で menunjukkan alat, tempat, atau cara.
+  <strong>Fokus hari ini:</strong> kata kerja tempat tinggal dan kerja memilih partikel yang berbeda: すむ dan つとめる memakai に (日本にすむ, 会社につとめる), tetapi はたらく memakai で (工場ではたらく). Hati-hati juga dengan dua kata mirip: つくる = membuat/memasak, つかう = memakai. Banyak kata kerja di sini muncul dalam bentuk ています untuk keadaan sekarang (すんでいます, けっこんしています).
 </div>
 
 ## Daftar Kata
@@ -78,9 +78,7 @@ Kata kerja hari ini bisa dibaca sebagai alur satu hari: tinggal di suatu tempat,
   <span>家にかえる</span>
 </div>
 
-Bayangkan kamu sedang membaca atau mendengar situasi tentang kegiatan harian dan pekerjaan: kata intinya bisa berupa すむ, つとめる, dan はたらく; kata lain memberi konteks tambahan. Mulai dari kata inti, lalu lihat pasangan kata dan partikelnya supaya arti kalimat tidak dibaca satu kata satu kata.
-
-
+Perhatikan partikel di tiap chip: 場所に untuk すむ, 会社に untuk つとめる, tetapi 会社で untuk はたらく. Sisi objek (つくる, うる, つかう, おく) semuanya memakai を karena ada benda yang dikerjakan, sedangkan rutinitas おきる, ねる, dan かえる berdiri sendiri tanpa objek dan sering dipasangkan dengan kata waktu seperti あさ atau 11時.
 
 ## Catatan Pemakaian
 
