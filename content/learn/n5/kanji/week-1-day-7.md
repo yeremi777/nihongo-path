@@ -57,7 +57,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ニ</span><span>kunyomi: ふた、ふたつ</span></span>
     </span>
   </summary>
-<p>二 adalah angka dua dan sering muncul pada jumlah benda, tanggal, atau urutan dasar.</p><ul>
+<p>二 adalah angka dua. Perhatikan bacaan tanggalnya: 二日 dibaca ふつか, bukan ににち, jadi hafalkan sebagai kata utuh.</p><ul>
     <li><span class="ruby-word"><ruby>二<rt>に</rt></ruby></span> - dua</li>
     <li><span class="ruby-word"><ruby>二つ<rt>ふたつ</rt></ruby></span> - dua buah</li>
     <li><span class="ruby-word"><ruby>二日<rt>ふつか</rt></ruby></span> - tanggal dua, dua hari</li>
@@ -72,7 +72,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: サン</span><span>kunyomi: み、みっつ</span></span>
     </span>
   </summary>
-<p>三 adalah angka tiga dan sering muncul pada jumlah benda, tanggal, atau hitungan sederhana.</p><ul>
+<p>三 adalah angka tiga. Pada tanggal, 三日 dibaca みっか dengan bunyi rangkap kecil っ, mirip pola 六日 dan 十日 yang juga punya bacaan khusus.</p><ul>
     <li><span class="ruby-word"><ruby>三<rt>さん</rt></ruby></span> - tiga</li>
     <li><span class="ruby-word"><ruby>三つ<rt>みっつ</rt></ruby></span> - tiga buah</li>
     <li><span class="ruby-word"><ruby>三日<rt>みっか</rt></ruby></span> - tanggal tiga, tiga hari</li>
@@ -102,7 +102,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ゴ</span><span>kunyomi: いつ、いつつ</span></span>
     </span>
   </summary>
-<p>五 adalah angka lima dan sering muncul pada hitungan, tanggal, bulan, atau harga.</p><ul>
+<p>五 adalah angka lima. Bacaannya stabil: ご di hampir semua kata, seperti 五月 dan ごひゃく, jadi kanji ini enak dijadikan pegangan saat membaca harga.</p><ul>
     <li><span class="ruby-word"><ruby>五<rt>ご</rt></ruby></span> - lima</li>
     <li><span class="ruby-word"><ruby>五つ<rt>いつつ</rt></ruby></span> - lima buah</li>
     <li><span class="ruby-word"><ruby>五日<rt>いつか</rt></ruby></span> - tanggal lima, lima hari</li>
@@ -117,7 +117,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ロク</span><span>kunyomi: む、むっつ</span></span>
     </span>
   </summary>
-<p>六 adalah angka enam dan sering muncul pada hitungan, tanggal, bulan, atau jadwal.</p><ul>
+<p>六 adalah angka enam. Bacaan tanggalnya tidak beraturan: 六日 dibaca むいか, bukan ろくにち, jadi hafalkan bersama tanggal khusus lainnya.</p><ul>
     <li><span class="ruby-word"><ruby>六<rt>ろく</rt></ruby></span> - enam</li>
     <li><span class="ruby-word"><ruby>六つ<rt>むっつ</rt></ruby></span> - enam buah</li>
     <li><span class="ruby-word"><ruby>六日<rt>むいか</rt></ruby></span> - tanggal enam, enam hari</li>
@@ -147,7 +147,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ハチ</span><span>kunyomi: や、やっつ</span></span>
     </span>
   </summary>
-<p>八 adalah angka delapan dan sering muncul pada hitungan, tanggal, bulan, atau harga.</p><ul>
+<p>八 adalah angka delapan. Hati-hati: 八日 dibaca ようか, terdengar mirip 四日 (よっか). Bedakan dari panjang bunyi よう dan よっ.</p><ul>
     <li><span class="ruby-word"><ruby>八<rt>はち</rt></ruby></span> - delapan</li>
     <li><span class="ruby-word"><ruby>八つ<rt>やっつ</rt></ruby></span> - delapan buah</li>
     <li><span class="ruby-word"><ruby>八日<rt>ようか</rt></ruby></span> - tanggal delapan, delapan hari</li>
@@ -162,7 +162,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: キュウ、ク</span><span>kunyomi: ここの、ここのつ</span></span>
     </span>
   </summary>
-<p>九 adalah angka sembilan dan sering muncul pada hitungan, tanggal, bulan, atau jam.</p><ul>
+<p>九 adalah angka sembilan dengan dua onyomi: きゅう untuk hitungan umum, tetapi く pada 九月 dan く atau きゅう pada jam sembilan.</p><ul>
     <li><span class="ruby-word"><ruby>九<rt>きゅう</rt></ruby></span> - sembilan</li>
     <li><span class="ruby-word"><ruby>九つ<rt>ここのつ</rt></ruby></span> - sembilan buah</li>
     <li><span class="ruby-word"><ruby>九日<rt>ここのか</rt></ruby></span> - tanggal sembilan, sembilan hari</li>
@@ -191,7 +191,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ヒャク</span><span>kunyomi: もも</span></span>
     </span>
   </summary>
-<p>百 adalah seratus dan sering muncul pada harga, jumlah, atau hitungan uang yen.</p><ul>
+<p>百 adalah seratus dan sering muncul pada label harga. Bunyinya bisa berubah: にひゃく tetapi さんびゃく, jadi baca angka ratusan sebagai satu kata.</p><ul>
     <li><span class="ruby-word"><ruby>百<rt>ひゃく</rt></ruby></span> - seratus</li>
     <li><span class="ruby-word"><ruby>二百<rt>にひゃく</rt></ruby></span> - dua ratus</li>
     <li><span class="ruby-word"><ruby>三百<rt>さんびゃく</rt></ruby></span> - tiga ratus</li>
@@ -205,7 +205,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: セン</span><span>kunyomi: ち</span></span>
     </span>
   </summary>
-<p>千 adalah seribu dan sering muncul pada harga atau jumlah besar dalam kalender dan toko.</p><ul>
+<p>千 adalah seribu dan sering muncul pada harga di toko. Seperti 百, bunyinya bisa berubah: にせん tetapi さんぜん pada tiga ribu.</p><ul>
     <li><span class="ruby-word"><ruby>千<rt>せん</rt></ruby></span> - seribu</li>
     <li><span class="ruby-word"><ruby>二千<rt>にせん</rt></ruby></span> - dua ribu</li>
     <li><span class="ruby-word"><ruby>三千<rt>さんぜん</rt></ruby></span> - tiga ribu</li>
@@ -262,7 +262,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: カ</span><span>kunyomi: ひ、ほ</span></span>
     </span>
   </summary>
-<p>火 berarti api dan dipakai untuk hari Selasa dalam nama hari kalender.</p><ul>
+<p>火 berarti api dan dipakai untuk hari Selasa. Sebagai kata sendiri dibaca ひ, tetapi dalam 火曜日 dibaca か.</p><ul>
     <li><span class="ruby-word"><ruby>火<rt>ひ</rt></ruby></span> - api</li>
     <li><span class="ruby-word"><ruby>火曜日<rt>かようび</rt></ruby></span> - hari Selasa</li>
   </ul></details>
@@ -275,7 +275,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: スイ</span><span>kunyomi: みず</span></span>
     </span>
   </summary>
-<p>水 berarti air dan dipakai untuk hari Rabu dalam nama hari kalender.</p><ul>
+<p>水 berarti air, kata yang sering terlihat di restoran dan botol minuman, lalu dipakai untuk hari Rabu dalam 水曜日.</p><ul>
     <li><span class="ruby-word"><ruby>水<rt>みず</rt></ruby></span> - air</li>
     <li><span class="ruby-word"><ruby>水曜日<rt>すいようび</rt></ruby></span> - hari Rabu</li>
   </ul></details>
@@ -288,7 +288,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: モク、ボク</span><span>kunyomi: き、こ</span></span>
     </span>
   </summary>
-<p>木 berarti pohon atau kayu, dan dipakai untuk hari Kamis dalam kalender.</p><ul>
+<p>木 berarti pohon atau kayu, dan dipakai untuk hari Kamis. Bentuknya mirip 水, jadi cek dulu goresan tengahnya sebelum membaca nama hari.</p><ul>
     <li><span class="ruby-word"><ruby>木<rt>き</rt></ruby></span> - pohon, kayu</li>
     <li><span class="ruby-word"><ruby>木曜日<rt>もくようび</rt></ruby></span> - hari Kamis</li>
   </ul></details>
@@ -315,7 +315,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
       <span class="kanji-reading"><span>onyomi: ド、ト</span><span>kunyomi: つち</span></span>
     </span>
   </summary>
-<p>土 berarti tanah dan dipakai untuk hari Sabtu dalam nama hari kalender.</p><ul>
+<p>土 berarti tanah dan dipakai untuk hari Sabtu. Jangan tertukar dengan 十: garis mendatar bawah 土 lebih lebar dan menjadi alasnya.</p><ul>
     <li><span class="ruby-word"><ruby>土<rt>つち</rt></ruby></span> - tanah</li>
     <li><span class="ruby-word"><ruby>土曜日<rt>どようび</rt></ruby></span> - hari Sabtu</li>
   </ul></details>
@@ -328,11 +328,14 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 - bulan dan tanggal: 一月, 二月, 一日, 今日
 - hari: 月曜日, 火曜日, 水曜日, 木曜日, 金曜日, 土曜日, 日曜日
 
+Semua kata di hari ini dibangun dari blok yang sama. Angka kecil menjadi bulan kalau ditempel 月 (一月, 二月) dan menjadi tanggal kalau ditempel 日 (一日, 二日). Untuk harga, angka kecil naik tingkat lewat 百, 千, dan 万. Nama hari memakai pola tetap: satu kanji alam seperti 火 atau 水 ditambah 曜日.
+
 ## Catatan Pemakaian
 
-- angka: 四 bisa dibaca し atau よん, 七 bisa dibaca しち atau なな.
-- kalender: 月 dibaca がつ untuk bulan dalam kalender, seperti 一月.
-- hari: 曜日 biasanya dipakai setelah kanji hari, seperti 火曜日.
+- angka dan harga: 四 bisa dibaca し atau よん, 七 bisa dibaca しち atau なな. Di harga, urutannya selalu 万 → 千 → 百, seperti 一万二千円.
+- tanggal: angka + 日 punya bacaan khusus dari tanggal 1 sampai 10, misalnya 一日 (ついたち), 二日 (ふつか), 十日 (とおか).
+- bulan: 月 dibaca がつ setelah angka, seperti 一月 (いちがつ) untuk Januari.
+- hari: kanji hari selalu diikuti 曜日, seperti 火曜日. Kalau melihat 曜日, baca kanji di depannya dengan onyomi (か, すい, もく).
 
 ## Contoh Kalimat
 
@@ -345,7 +348,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 ## Hal yang Mudah Tertukar
 
-月 bisa berarti bulan atau hari Senin dalam 月曜日. 日 bisa berarti hari, tanggal, atau hari Minggu dalam 日曜日.
+- 月 sebagai bulan atau Senin: lihat kata di sekitarnya. Angka + 月 adalah bulan kalender (一月 = Januari), sedangkan 月曜日 selalu hari Senin. Kalau berdiri sendiri, 月 (つき) berarti bulan di langit.
+- 日 sebagai tanggal, hari, atau Minggu: angka + 日 adalah tanggal (三日), 日曜日 adalah hari Minggu, dan 今日 adalah kata khusus yang dibaca きょう.
+- 千 dan 十 bentuknya mirip: 千 punya goresan miring pendek di atas, 十 hanya dua garis lurus bersilang. Di harga, 千 hampir selalu muncul sebelum 円.
+- 四日 (よっか) dan 八日 (ようか) terdengar mirip. Bedakan dari panjang bunyinya: よっか pendek dengan っ, ようか panjang dengan う.
 
 ## Kesalahan Umum
 
@@ -357,51 +363,53 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti hari Senin?"
+question: "Saya pergi ke sekolah pada hari Senin."
+sentence: "____に学校へ行きます。"
 optionA: "月曜日"
-optionB: "木曜日"
+optionB: "日曜日"
 correct: "月曜日"
-explanation: "月曜日 berarti hari Senin. 木曜日 berarti hari Kamis."
+explanation: "月曜日 berarti hari Senin: 月 + 曜日. 日曜日 berarti hari Minggu."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti hari ini?"
-optionA: "今日"
-optionB: "一日"
-correct: "今日"
-explanation: "今日 berarti hari ini. 一日 bisa berarti tanggal satu atau satu hari."
+question: "一日 di kalender berarti tanggal satu. Bagaimana bacaannya?"
+optionA: "ついたち"
+optionB: "いちにち"
+correct: "ついたち"
+explanation: "Untuk tanggal satu, 一日 dibaca ついたち. Bacaan いちにち dipakai saat artinya satu hari penuh."
 ---
 ::
 
 ::MiniPractice
 ---
 question: "Kata mana yang berarti sepuluh ribu?"
-optionA: "万"
-optionB: "千"
-correct: "万"
-explanation: "万 berarti sepuluh ribu. 千 berarti seribu."
+optionA: "一万"
+optionB: "十万"
+correct: "一万"
+explanation: "一万 berarti sepuluh ribu. 十万 berarti seratus ribu karena 十 mengalikan 万."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti hari Jumat?"
-optionA: "金曜日"
-optionB: "土曜日"
-correct: "金曜日"
-explanation: "金曜日 berarti hari Jumat. 土曜日 berarti hari Sabtu."
+question: "Buku ini harganya seribu yen."
+sentence: "この本は____です。"
+optionA: "千円"
+optionB: "百円"
+correct: "千円"
+explanation: "千 berarti seribu, jadi 千円 adalah seribu yen. 百円 hanya seratus yen."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti air?"
-optionA: "水"
-optionB: "火"
-correct: "水"
-explanation: "水 berarti air. 火 berarti api."
+question: "Kata mana yang berarti hari ini, bukan tanggal satu?"
+optionA: "今日"
+optionB: "一日"
+correct: "今日"
+explanation: "今日 (きょう) berarti hari ini. 一日 berarti tanggal satu atau satu hari."
 ---
 ::
 

@@ -58,7 +58,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 <p>口 berarti mulut, tetapi pada tanda tempat sering berarti pintu, gerbang, atau akses masuk-keluar.</p><ul>
     <li><span class="ruby-word"><ruby>口<rt>くち</rt></ruby></span> - mulut</li>
     <li><span class="ruby-word"><ruby>入口<rt>いりぐち</rt></ruby></span> - pintu masuk</li>
-    <li><span class="ruby-word"><ruby>出口<rt>いでぐち</rt></ruby></span> - pintu keluar</li>
+    <li><span class="ruby-word"><ruby>出口<rt>でぐち</rt></ruby></span> - pintu keluar</li>
     <li><span class="ruby-word"><ruby>東口<rt>ひがしぐち</rt></ruby></span> - pintu timur</li>
   </ul></details>
 
@@ -74,7 +74,7 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
     <li><span class="ruby-word"><ruby>出る<rt>でる</rt></ruby></span> - keluar</li>
     <li><span class="ruby-word"><ruby>出す<rt>だす</rt></ruby></span> - mengeluarkan</li>
     <li><span class="ruby-word"><ruby>出かける<rt>でかける</rt></ruby></span> - pergi keluar</li>
-    <li><span class="ruby-word"><ruby>出口<rt>いでぐち</rt></ruby></span> - pintu keluar</li>
+    <li><span class="ruby-word"><ruby>出口<rt>でぐち</rt></ruby></span> - pintu keluar</li>
   </ul></details>
 
 <details class="kanji-card kanji-card--large">
@@ -222,6 +222,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 - posisi: 上, 下, 外
 - gerak: 出る, 入る, 出かける
 
+Kata-kata ini terhubung lewat tanda tempat. Di stasiun kamu mencari 口 (pintu), lalu arah menempel di depannya: 東口, 西口, 南口, 北口, atau 入口 dan 出口. Kanji arah dan posisi (東西南北, 上下左右) juga muncul sendiri saat menunjuk letak sesuatu.
+
 ## Catatan Pemakaian
 
 - tempat: 口 bisa berarti mulut, tetapi pada tanda tempat sering berarti pintu atau akses.
@@ -239,7 +241,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 ## Hal yang Mudah Tertukar
 
-入口 dan 出口 sama-sama memakai 口. 入 berarti masuk, 出 berarti keluar.
+- 入口 dan 出口 sama-sama memakai 口. Lihat kanji pertama: 入 (masuk) menandai pintu masuk, 出 (keluar) menandai pintu keluar.
+- 入 dan 人 bentuknya mirip. Pada 入 goresan kanan berangkat dari puncak yang sama; pada 人 kedua goresan menyilang lebih ke atas. Ingat 入口 (pintu masuk) memakai 入, bukan 人.
+- 左 dan 右 sama-sama arah dengan bentuk mirip. Bedakan dari coretan bawahnya: 左 memakai 工, 右 memakai 口. Jadi kalau ada 口 di bawah, itu 右 (kanan).
+- 上手 dan 下手 memakai 手 tetapi artinya berlawanan: 上手な (じょうず) berarti pandai, 下手な (へた) berarti kurang pandai. Baca kanji pertamanya dulu.
 
 ## Kesalahan Umum
 
@@ -251,17 +256,18 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti pintu masuk?"
-optionA: "入口"
-optionB: "出口"
-correct: "入口"
-explanation: "入口 berarti pintu masuk. 出口 berarti pintu keluar."
+question: "Pintu keluar ada di kiri."
+sentence: "____は左にあります。"
+optionA: "出口"
+optionB: "入口"
+correct: "出口"
+explanation: "出口 berarti pintu keluar (出 = keluar). 入口 berarti pintu masuk."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti pintu timur?"
+question: "Kata mana yang berarti pintu timur, bukan pintu barat?"
 optionA: "東口"
 optionB: "西口"
 correct: "東口"
@@ -271,17 +277,17 @@ explanation: "東口 berarti pintu timur. 西口 berarti pintu barat."
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti bawah?"
-optionA: "下"
-optionB: "上"
-correct: "下"
-explanation: "下 berarti bawah. 上 berarti atas."
+question: "上手 berarti pandai atau mahir. Bagaimana bacaannya?"
+optionA: "じょうず"
+optionB: "うえて"
+correct: "じょうず"
+explanation: "上手 dibaca じょうず dengan bacaan khusus, bukan うえて."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti tangan kiri?"
+question: "Kata mana yang berarti tangan kiri, bukan tangan kanan?"
 optionA: "左手"
 optionB: "右手"
 correct: "左手"
@@ -291,11 +297,12 @@ explanation: "左手 berarti tangan kiri. 右手 berarti tangan kanan."
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti luar negeri?"
-optionA: "外国"
-optionB: "駅前"
-correct: "外国"
-explanation: "外国 berarti luar negeri. 駅前 berarti depan stasiun."
+question: "Teman saya adalah orang asing."
+sentence: "友だちは____です。"
+optionA: "外国人"
+optionB: "外国"
+correct: "外国人"
+explanation: "外国人 berarti orang asing. 外国 hanya berarti luar negeri, tanpa 人 (orang)."
 ---
 ::
 

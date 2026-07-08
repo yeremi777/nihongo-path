@@ -270,6 +270,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 - makanan dan toko: 牛, 牛肉, 牛乳, 魚, 魚屋, 店
 - tempat dan jalan: 道, 道路, 門
 
+Kanji hari ini menggambarkan lingkungan sehari-hari. Bagian tubuh (手, 足, 目, 耳) sering dipakai sendiri, sedangkan kanji alam bergabung menjadi kata cuaca (天気, 空気). Untuk makanan, kanji hewan naik jadi produknya lewat gabungan: 牛 → 牛肉 (daging) atau 牛乳 (susu), 魚 → 魚屋 (toko ikan).
+
 ## Catatan Pemakaian
 
 - tubuh: 手 dan 足 sering dipakai sendiri, tetapi juga muncul dalam kata seperti 上手 dan 下手.
@@ -287,7 +289,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 ## Hal yang Mudah Tertukar
 
-天気 dan 電気 sama-sama memakai 気. 天気 adalah cuaca, 電気 adalah listrik.
+- 天気 dan 電気 sama-sama memakai 気. Kanji pertama yang membedakan: 天 (langit) untuk cuaca, 電 (listrik) untuk listrik/lampu.
+- 目 (mata) dan 日 (matahari/hari) mirip. Bedanya, 目 punya dua garis mendatar di tengah, sedangkan 日 hanya satu. Jadi kalau ada dua garis di dalam, itu 目.
+- 牛 (sapi) dan 午 (tengah hari) mirip. Pada 牛 goresan mendatar atas menembus ke atas seperti tanduk; pada 午 tidak. Kalau ada "tanduk" di atas, itu 牛.
+- 天 (langit) dan 大 (besar) mirip; 天 adalah 大 dengan satu garis mendatar tambahan di atas. Garis atas itu penanda 天.
 
 ## Kesalahan Umum
 
@@ -299,27 +304,39 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti cuaca?"
+question: "Cuaca hari ini cerah."
+sentence: "今日は____がいいです。"
 optionA: "天気"
 optionB: "電気"
 correct: "天気"
-explanation: "天気 berarti cuaca. 電気 berarti listrik."
+explanation: "天気 berarti cuaca (天 = langit). 電気 berarti listrik (電 = listrik)."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti susu?"
+question: "Kata mana yang berarti susu, bukan daging sapi?"
 optionA: "牛乳"
 optionB: "牛肉"
 correct: "牛乳"
-explanation: "牛乳 berarti susu. 牛肉 berarti daging sapi."
+explanation: "牛乳 berarti susu sapi. 牛肉 berarti daging sapi. Keduanya memakai 牛."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti toko ikan?"
+question: "元気 berarti sehat/bersemangat. Bagaimana bacaannya?"
+optionA: "げんき"
+optionB: "てんき"
+correct: "げんき"
+explanation: "元気 dibaca げんき. 天気 (てんき) berarti cuaca; jangan tertukar karena sama-sama memakai 気."
+---
+::
+
+::MiniPractice
+---
+question: "Saya membeli ikan di toko ikan."
+sentence: "____で魚を買います。"
 optionA: "魚屋"
 optionB: "喫茶店"
 correct: "魚屋"
@@ -329,21 +346,11 @@ explanation: "魚屋 berarti toko ikan. 喫茶店 berarti kafe."
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti tangan?"
-optionA: "手"
-optionB: "足"
-correct: "手"
-explanation: "手 berarti tangan. 足 berarti kaki."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti putih?"
-optionA: "白い"
+question: "Kata mana yang berarti udara, bukan langit?"
+optionA: "空気"
 optionB: "空"
-correct: "白い"
-explanation: "白い berarti putih. 空 berarti langit atau kosong."
+correct: "空気"
+explanation: "空気 berarti udara. 空 sendiri berarti langit atau kosong."
 ---
 ::
 

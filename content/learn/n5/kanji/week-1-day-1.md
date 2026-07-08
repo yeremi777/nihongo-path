@@ -260,6 +260,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 - nama dan asal: 名前, 名, 田中さん, 山田さん, 日本
 - bahasa dan benda belajar: 日本語, 英語, 本
 
+Semua kata hari ini muncul saat memperkenalkan orang. Mulai dari statusnya (先生, 学生), lalu nama dan asalnya (名前, 田中さん, 日本), sampai bahasa yang dipakai (日本語, 英語). Kanji 生, 人, dan 名 sering muncul berulang, jadi kenali dulu kanji keduanya untuk menebak arti kata.
+
 ## Catatan Pemakaian
 
 - orang: 人 dapat dibaca じん pada 日本人. 一人 dan 二人 punya bacaan khusus: ひとり dan ふたり.
@@ -277,7 +279,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 ## Hal yang Mudah Tertukar
 
-先生 dan 学生 sama-sama memakai 生. 先生 berarti guru, sedangkan 学生 berarti murid atau mahasiswa. Baca kata lengkap dulu.
+- 先生 dan 学生 sama-sama memakai 生. Lihat kanji pertamanya untuk memutuskan: 先 (lebih dulu) menandai guru, 学 (belajar) menandai murid atau mahasiswa.
+- 母 dan 女 bentuknya mirip karena 母 dibentuk dari 女. Bedanya, 母 punya dua titik di bagian tengah; 女 tidak. Jadi jika ada dua titik, itu 母 (ibu).
+- 名 muncul di 名前 (nama) dan 有名な (terkenal). Karena kanji pertamanya sama, baca sampai kanji kedua sebelum menebak artinya.
 
 ## Kesalahan Umum
 
@@ -289,17 +293,18 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti guru?"
-optionA: "先生"
-optionB: "学生"
-correct: "先生"
-explanation: "先生 berarti guru. 学生 berarti murid atau mahasiswa."
+question: "Tanaka adalah seorang pelajar."
+sentence: "田中さんは____です。"
+optionA: "学生"
+optionB: "先生"
+correct: "学生"
+explanation: "学生 berarti pelajar atau mahasiswa. 先生 berarti guru."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti bahasa Jepang?"
+question: "Kata mana yang berarti bahasa Jepang, bukan bahasa Inggris?"
 optionA: "日本語"
 optionB: "英語"
 correct: "日本語"
@@ -309,7 +314,18 @@ explanation: "日本語 berarti bahasa Jepang. 英語 berarti bahasa Inggris."
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti nama?"
+question: "一人 berarti satu orang. Bagaimana bacaannya?"
+optionA: "ひとり"
+optionB: "いちにん"
+correct: "ひとり"
+explanation: "一人 dibaca ひとり dengan bacaan khusus, sama seperti 二人 (ふたり)."
+---
+::
+
+::MiniPractice
+---
+question: "Ini adalah nama saya."
+sentence: "これは私の____です。"
 optionA: "名前"
 optionB: "有名な"
 correct: "名前"
@@ -319,21 +335,11 @@ explanation: "名前 berarti nama. 有名な berarti terkenal."
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti teman?"
-optionA: "友だち"
-optionB: "子ども"
-correct: "友だち"
-explanation: "友だち berarti teman. 子ども berarti anak."
----
-::
-
-::MiniPractice
----
-question: "Kata mana yang berarti orang Jepang?"
-optionA: "日本人"
-optionB: "外国人"
-correct: "日本人"
-explanation: "日本人 berarti orang Jepang. 外国人 berarti orang asing."
+question: "大人 berarti orang dewasa. Bagaimana bacaannya?"
+optionA: "おとな"
+optionB: "だいじん"
+correct: "おとな"
+explanation: "大人 dibaca おとな dengan bacaan khusus, bukan だいじん."
 ---
 ::
 

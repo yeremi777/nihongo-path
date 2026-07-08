@@ -244,6 +244,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 - waktu atau posisi: 早い, 長い, 中, 一日中
 - bacaan: 新聞, 聞く
 
+Banyak kata hari ini datang berpasangan sebagai lawan kata: 大きい ↔ 小さい, 多い ↔ 少ない, 安い ↔ 高い, 新しい ↔ 古い. Menghafal per pasangan lebih mudah daripada satu per satu. Kanji 校 dan 社 lalu mengikat kelompok sekolah dan kerja (学校, 校長, 会社, 社員).
+
 ## Catatan Pemakaian
 
 - ukuran: 大きい dan 小さい adalah pasangan paling dasar.
@@ -261,7 +263,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 ## Hal yang Mudah Tertukar
 
-高い bisa berarti tinggi atau mahal. Lihat bendanya: 山が高い adalah tinggi, 値段が高い adalah mahal.
+- 高い bisa berarti tinggi atau mahal. Lihat bendanya: 山が高い adalah tinggi, 値段が高い adalah mahal.
+- 小 dan 少 mirip bentuk dan sama-sama dibaca しょう. Bedakan dari goresannya: 小 hanya tiga goresan (kecil), 少 punya satu goresan miring tambahan di atas (sedikit).
+- 大 dan 太 mirip; 太 (gemuk) adalah 大 dengan satu titik tambahan di tengah. Di pelajaran ini yang muncul hanya 大, jadi jika tidak ada titik, itu 大 (besar).
+- 校 dan 社 sama-sama dipakai untuk tempat, tetapi 校 selalu soal sekolah (学校, 校長) dan 社 soal perusahaan atau kuil (会社, 社員).
 
 ## Kesalahan Umum
 
@@ -273,7 +278,8 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti murah?"
+question: "Toko ini murah."
+sentence: "この店は____です。"
 optionA: "安い"
 optionB: "高い"
 correct: "安い"
@@ -283,41 +289,42 @@ explanation: "安い berarti murah. 高い berarti tinggi atau mahal."
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti sekolah dasar?"
+question: "Kata mana yang berarti sekolah dasar, bukan SMP?"
 optionA: "小学校"
 optionB: "中学校"
 correct: "小学校"
-explanation: "小学校 berarti sekolah dasar. 中学校 berarti SMP."
+explanation: "小学校 berarti sekolah dasar. 中学校 berarti SMP (中 = tengah)."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti koran?"
+question: "Saya membaca koran setiap pagi."
+sentence: "毎朝____を読みます。"
 optionA: "新聞"
-optionB: "聞く"
+optionB: "辞書"
 correct: "新聞"
-explanation: "新聞 berarti koran. 聞く berarti mendengar atau bertanya."
+explanation: "新聞 berarti koran. 辞書 berarti kamus."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti perusahaan?"
-optionA: "会社"
-optionB: "社員"
-correct: "会社"
-explanation: "会社 berarti perusahaan. 社員 berarti pegawai perusahaan."
+question: "高校 berarti SMA. Bagaimana bacaannya?"
+optionA: "こうこう"
+optionB: "たかこう"
+correct: "こうこう"
+explanation: "高校 dibaca こうこう; di sini 高 memakai onyomi こう, bukan kunyomi たか."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti sedikit?"
-optionA: "少し"
+question: "Kata mana yang berarti sedikit, bukan banyak?"
+optionA: "少ない"
 optionB: "多い"
-correct: "少し"
-explanation: "少し berarti sedikit. 多い berarti banyak."
+correct: "少ない"
+explanation: "少ない berarti sedikit. 多い berarti banyak. Perhatikan goresan miring tambahan pada 少."
 ---
 ::
 

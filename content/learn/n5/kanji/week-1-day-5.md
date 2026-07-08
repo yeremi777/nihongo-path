@@ -254,6 +254,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 - komunikasi: 会う, 会話, 電話, 話す
 - transportasi: 車, 電車, 自転車
 
+Sebagian besar kanji hari ini adalah kata kerja: tempel okurigana dan langsung jadi tindakan (読む, 買う, 行く). Beberapa kanji lalu bergabung menjadi kata benda kegiatan (読書, 食事, 会話). Kanji 電 dan 車 mengikat kelompok komunikasi dan transportasi (電話, 電車, 自転車).
+
 ## Catatan Pemakaian
 
 - aktivitas: banyak kanji hari ini langsung menjadi kata kerja dengan okurigana, seperti 読む dan 買う.
@@ -271,7 +273,10 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 ## Hal yang Mudah Tertukar
 
-電車 dan 電話 sama-sama memakai 電. 電車 adalah kereta listrik, 電話 adalah telepon.
+- 電車 dan 電話 sama-sama memakai 電 (listrik). Kanji keduanya yang membedakan: 車 (kendaraan) untuk kereta, 話 (bicara) untuk telepon.
+- 買 (membeli) dan 見 (melihat) bentuknya mirip di bagian bawah. Bedanya, 買 punya 罒 (seperti mata terbaring) di atas, sedangkan 見 punya 目 tegak di atas. Bagian atas itu penanda utamanya.
+- 会話 dan 電話 memakai 話, tetapi 会 (bertemu) menandai percakapan langsung, sedangkan 電 (listrik) menandai telepon.
+- 言, 話, 語, dan 読 sama-sama memakai radikal 言 (kata) di kiri. Kalau melihat 言 di sisi kiri, kata itu biasanya berhubungan dengan berbicara, bahasa, atau membaca.
 
 ## Kesalahan Umum
 
@@ -283,51 +288,53 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti membaca?"
-optionA: "読む"
-optionB: "書く"
-correct: "読む"
+question: "Saya membaca buku."
+sentence: "私は本を____。"
+optionA: "読みます"
+optionB: "書きます"
+correct: "読みます"
 explanation: "読む berarti membaca. 書く berarti menulis."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti telepon?"
+question: "Kata mana yang berarti telepon, bukan kereta listrik?"
 optionA: "電話"
 optionB: "電車"
 correct: "電話"
-explanation: "電話 berarti telepon. 電車 berarti kereta listrik."
+explanation: "電話 berarti telepon (話 = bicara). 電車 berarti kereta listrik (車 = kendaraan)."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti membeli?"
-optionA: "買う"
-optionB: "飲む"
-correct: "買う"
-explanation: "買う berarti membeli. 飲む berarti minum."
+question: "Saya bertemu teman di stasiun."
+sentence: "駅で友だちに____。"
+optionA: "会います"
+optionB: "買います"
+correct: "会います"
+explanation: "会う berarti bertemu. 買う berarti membeli."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti minggu depan?"
-optionA: "来週"
-optionB: "来月"
-correct: "来週"
-explanation: "来週 berarti minggu depan. 来月 berarti bulan depan."
+question: "銀行 berarti bank. Bagaimana bacaannya?"
+optionA: "ぎんこう"
+optionB: "ぎんぎょう"
+correct: "ぎんこう"
+explanation: "銀行 dibaca ぎんこう; di sini 行 memakai onyomi こう, bukan ぎょう."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti percakapan?"
+question: "Kata mana yang berarti percakapan, bukan perusahaan?"
 optionA: "会話"
 optionB: "会社"
 correct: "会話"
-explanation: "会話 berarti percakapan. 会社 berarti perusahaan."
+explanation: "会話 berarti percakapan (話 = bicara). 会社 berarti perusahaan (社 = perusahaan)."
 ---
 ::
 

@@ -219,6 +219,8 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 - minggu dan tahun: 今週, 先週, 来週, 一年, 今年, 毎年
 - kebiasaan: 毎日, 毎月, 毎週
 
+Waktu dibangun dari blok yang sama. 時 dan 分 memberi jam dan menit, 午前 dan 午後 membagi pagi dan sore, lalu 先・今・来 menggeser 週 dan 年 ke masa lalu, sekarang, atau depan (先週 → 今週 → 来週). Untuk kebiasaan, 毎 ditempel di depan satuan waktu (毎日, 毎週, 毎年).
+
 ## Catatan Pemakaian
 
 - waktu: 時 dibaca じ untuk jam, sedangkan 時間 dipakai untuk durasi.
@@ -236,7 +238,9 @@ Klik setiap kartu untuk membuka atau menutup catatan singkat tiap kanji.
 
 ## Hal yang Mudah Tertukar
 
-午前 dan 午後 hanya beda kanji kedua. 前 berarti sebelum/depan, 後 berarti setelah/belakang.
+- 午前 dan 午後 hanya beda kanji kedua. 前 berarti sebelum, jadi 午前 adalah pagi; 後 berarti setelah, jadi 午後 adalah siang/sore.
+- 先週, 今週, dan 来週 memakai 週 yang sama. Kanji pertamanya yang menentukan waktu: 先 (lalu), 今 (ini), 来 (depan). Pola yang sama berlaku untuk 先月・今月・来月.
+- 午 (tengah hari) mirip dengan 牛 (sapi). Bedanya, goresan mendatar atas pada 牛 menembus ke atas seperti tanduk, sedangkan 午 tidak. Tanpa tanduk di atas, itu 午.
 
 ## Kesalahan Umum
 
@@ -248,17 +252,18 @@ Pilih kata yang paling tepat. Perhatikan konteks, kanji pembentuk kata, dan arti
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti jam berapa?"
-optionA: "何時"
-optionB: "何語"
-correct: "何時"
-explanation: "何時 berarti jam berapa. 何語 berarti bahasa apa."
+question: "Sekarang jam sembilan."
+sentence: "今は____です。"
+optionA: "九時"
+optionB: "九分"
+correct: "九時"
+explanation: "九時 berarti jam sembilan (titik jam). 九分 berarti sembilan menit."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti setengah?"
+question: "Kata mana yang berarti setengah, bukan lima menit?"
 optionA: "半分"
 optionB: "五分"
 correct: "半分"
@@ -268,31 +273,32 @@ explanation: "半分 berarti setengah. 五分 berarti lima menit."
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti minggu ini?"
-optionA: "今週"
+question: "Minggu depan ada tes."
+sentence: "____テストがあります。"
+optionA: "来週"
 optionB: "先週"
-correct: "今週"
-explanation: "今週 berarti minggu ini. 先週 berarti minggu lalu."
+correct: "来週"
+explanation: "来週 berarti minggu depan. 先週 berarti minggu lalu."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti setiap hari?"
-optionA: "毎日"
-optionB: "毎年"
-correct: "毎日"
-explanation: "毎日 berarti setiap hari. 毎年 berarti setiap tahun."
+question: "今年 berarti tahun ini. Bagaimana bacaannya?"
+optionA: "ことし"
+optionB: "こんねん"
+correct: "ことし"
+explanation: "今年 dibaca ことし dengan bacaan khusus, bukan こんねん."
 ---
 ::
 
 ::MiniPractice
 ---
-question: "Kata mana yang berarti sore/PM?"
-optionA: "午後"
-optionB: "午前"
-correct: "午後"
-explanation: "午後 berarti setelah tengah hari. 午前 berarti sebelum tengah hari."
+question: "Kata mana yang dipakai untuk waktu pagi/AM, sebelum tengah hari?"
+optionA: "午前"
+optionB: "午後"
+correct: "午前"
+explanation: "午前 adalah sebelum tengah hari (AM). 午後 adalah setelah tengah hari (PM)."
 ---
 ::
 
