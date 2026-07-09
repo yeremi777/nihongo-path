@@ -23,76 +23,87 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa memakai は untuk topik atau kontras, が untuk ciri yang diperhatikan, を untuk objek, dan から untuk asal.
+Di akhir pelajaran ini, kamu bisa memakai は untuk topik atau kontras, が untuk ciri yang diperhatikan, を untuk objek, dan と untuk teman beraktivitas.
 
 Fokusnya adalah memilih partikel dari fungsi kalimat, bukan dari satu terjemahan bahasa Indonesia.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca kalimat pelan-pelan. Tandai partikel, bentuk kata, atau kata penghubung, lalu cocokkan dengan situasi yang sedang dibicarakan.
+  <strong>Fokus hari ini:</strong> pilih partikel dari fungsinya. は membuka topik atau mengontraskan (肉は食べますが、魚は食べません), が menandai subjek atau jawaban kata tanya (どこがいいですか), dan pola AはBが memisahkan topik dari cirinya (兄は背が高いです). を menandai objek atau tempat yang ditinggalkan, dan と menandai teman.
 </div>
 
 ## Pola Hari Ini
 
 | Fungsi | Pola | Arti praktis | Kapan dipakai |
 |---|---|---|---|
-| Penanda topik | （N） + は + predikat | Penanda topik | Menandai topik yang sedang dibicarakan |
-| Penanda kontras atau penekanan | （N）は., （N）は.／Partikel + は | Penanda kontras atau penekanan | Dipakai untuk membandingkan dua topik atau menekankan bagian yang sudah diberi partikel, seperti には, では, へは, までは |
-| A memiliki B yang ~ | （A）は（B）が（Adj）です | A memiliki B yang ~ | Dipakai untuk menjelaskan bagian, ciri, kemampuan, atau kesukaan dari topik |
-| Kata tanya sebagai subjek | （Kata tanya） + が + predikat | Kata tanya sebagai subjek | Gunakan が saat kata tanya menjadi subjek, dan gunakan juga pada jawabannya |
-| Penanda objek | （N） + を + （V） | Penanda objek; tempat yang dilewati atau ditinggalkan | Menandai objek langsung |
-| Dengan seseorang | （Orang） + と + （V） | Dengan seseorang; lawan/interaksi | Menunjukkan tindakan bersama seseorang atau interaksi dengan orang itu |
+| Penanda topik | （N）は＋predikat | “kalau tentang ...” | membuka apa yang dibicarakan |
+| Kontras / penekanan | （N）は…、（N）は… | membandingkan dua topik | 肉は…、魚は…, atau には／では |
+| A memiliki ciri B | （A）は（B）が（Adj）です | ciri, bagian, atau kemampuan A | badan, kesukaan, kemampuan |
+| Kata tanya subjek | （疑問詞）が＋predikat | menanyakan “yang mana/di mana” | jawabannya juga memakai が |
+| Penanda objek / jalur | （N）を＋（V） | objek atau tempat dilewati/ditinggalkan | 本を読む, 家を出る |
+| Teman beraktivitas | （Orang）と＋（V） | bersama seseorang | 友だちと行く |
 
 ## Peta Pola
 
-Pola hari ini saling terhubung sebagai alat beginner untuk partikel dasar kalimat. Mulai dari bentuk yang paling mudah terlihat, lalu cocokkan dengan konteks kalimat.
+は dan が adalah inti hari ini: は menetapkan topik atau kontras, が menyorot subjek atau jawaban kata tanya. Pola AはBが menggabungkan keduanya untuk ciri tubuh atau kemampuan (兄は背が高いです). を menandai objek atau tempat yang dilewati/ditinggalkan (家を出ます), sedangkan と menandai teman beraktivitas (友だちと映画に行きました).
 
 <div class="word-strip">
-  <span>〜は（話題）</span>
-  <span>〜は（対比・強調）</span>
-  <span>（A）は（B）が〜</span>
-  <span>疑問詞＋が</span>
-  <span>〜を（対象・通過点）</span>
-  <span>〜と（相手・一緒）</span>
+  <span>来週はテストがあります</span>
+  <span>肉は…魚は…</span>
+  <span>兄は背が高いです</span>
+  <span>どこがいいですか</span>
+  <span>家を出ます</span>
+  <span>友だちと</span>
 </div>
 
 ## Cara Membentuk Pola
 
-Simbol utama: （N）= nomina, （V）= verba, （Adj）= kata sifat, （Tempat）= tempat, （Orang）= orang, dan （Waktu）= waktu.
+Simbol yang dipakai: （N）= nomina, （V）= verba, （Adj）= kata sifat, （疑問詞）= kata tanya, （Orang）= orang.
 
-| Pola | Bentuk dasar | Catatan bentuk |
+### 1. は dan が
+
+| Fungsi | Pola | Contoh |
 |---|---|---|
-| 〜は（話題） | （N） + は + predikat | Menandai topik yang sedang dibicarakan |
-| 〜は（対比・強調） | （N）は., （N）は.／Partikel + は | Dipakai untuk membandingkan dua topik atau menekankan bagian yang sudah diberi partikel, seperti には, では, へは, までは |
-| （A）は（B）が〜 | （A）は（B）が（Adj）です | Dipakai untuk menjelaskan bagian, ciri, kemampuan, atau kesukaan dari topik |
-| 疑問詞＋が | （Kata tanya） + が + predikat | Gunakan が saat kata tanya menjadi subjek, dan gunakan juga pada jawabannya |
-| 〜を（対象・通過点） | （N） + を + （V） | Menandai objek langsung |
-| 〜と（相手・一緒） | （Orang） + と + （V） | Menunjukkan tindakan bersama seseorang atau interaksi dengan orang itu |
+| Topik | （N）は … | 来週はテストがあります |
+| Kontras / penekanan | （N）は…、（N）は… | 肉は食べますが、魚は食べません |
+| Subjek / jawaban kata tanya | （疑問詞）が … | どこがいいですか |
+
+### 2. Pola AはBが
+
+| Bagian | Isi | Contoh |
+|---|---|---|
+| Topik (A) | （N）は | 兄は |
+| Ciri (B) | （N）が（Adj）です | 背が高いです |
+| Kalimat | — | 兄は背が高いです |
+
+### 3. を dan と
+
+| Partikel | Fungsi | Contoh |
+|---|---|---|
+| を | objek langsung | 本を読みます |
+| を | tempat dilewati / ditinggalkan | 家を出ます |
+| と | bersama seseorang | 友だちと行きます |
 
 ## Bangun Kalimat Bertahap
 
 | Langkah | Jepang | Fungsi |
 |---|---|---|
-| Bahan | （N） + は + predikat | bentuk untuk penanda topik |
-| Kalimat | 来週はテストがあります。 | Penanda topik |
-| Bahan | （N）は., （N）は.／Partikel + は | bentuk untuk penanda kontras atau penekanan |
-| Kalimat | 私は肉は食べますが、魚は食べません。 | Penanda kontras atau penekanan |
-| Bahan | （A）は（B）が（Adj）です | bentuk untuk a memiliki b yang ~ |
-| Kalimat | 兄は背が高いです。 | A memiliki B yang ~ |
-| Bahan | （Kata tanya） + が + predikat | bentuk untuk kata tanya sebagai subjek |
-| Kalimat | どこがいいですか。 | Kata tanya sebagai subjek |
-| Bahan | （N） + を + （V） | bentuk untuk penanda objek |
-| Kalimat | 毎朝、家を出ます。 | Penanda objek; tempat yang dilewati atau ditinggalkan |
+| Bahan | 背が高い | ciri: tinggi badan |
+| Topik | 兄は | topik: kakak laki-laki |
+| Kalimat | 兄は背が高いです。 | Kakak laki-laki saya tinggi. |
+| Bahan | 家 | nomina: rumah |
+| Bentuk | 家を出る | tempat yang ditinggalkan ＋ を |
+| Kalimat | 毎朝、家を出ます。 | Setiap pagi saya keluar rumah. |
 
 ## Catatan Pemakaian
 
-- Penanda topik: Menandai topik yang sedang dibicarakan. Dalam latihan awal, bisa dibayangkan sebagai “kalau tentang ...”.
-- Penanda kontras atau penekanan: Dipakai untuk membandingkan dua topik atau menekankan bagian yang sudah diberi partikel, seperti には, では, へは, までは.
-- A memiliki B yang ~: Dipakai untuk menjelaskan bagian, ciri, kemampuan, atau kesukaan dari topik.
-- Kata tanya sebagai subjek: Gunakan が saat kata tanya menjadi subjek, dan gunakan juga pada jawabannya.
-- Penanda objek: Menandai objek langsung. Dengan verba gerak, を juga bisa menandai tempat yang dilewati atau ditinggalkan.
-- Dengan seseorang: Menunjukkan tindakan bersama seseorang atau interaksi dengan orang itu.
+- Penanda topik: は menandai apa yang dibicarakan. Bayangkan sebagai “kalau tentang ...”.
+- Kontras / penekanan: は juga dipakai untuk membandingkan atau menekankan, termasuk setelah partikel lain: には, では, へは, までは.
+- A memiliki ciri B: pola AはBが dipakai untuk bagian tubuh, ciri, kemampuan, atau kesukaan. Bukan 兄の背が高いです.
+- Kata tanya subjek: pakai が saat kata tanya menjadi subjek, dan juga pada jawabannya.
+- Penanda objek: を menandai objek langsung. Dengan verba gerak, を juga menandai tempat yang dilewati atau ditinggalkan (公園を散歩する, 家を出る).
+- Teman beraktivitas: と menandai orang yang beraktivitas bersama kita; lawannya 一人で (sendiri).
 
-Dalam bahasa Indonesia, topik dan subjek sering tidak dibedakan jelas. Dalam bahasa Jepang, pakai jalan pintas ini:
+Dalam bahasa Indonesia, topik dan subjek sering tidak dibedakan. Dalam bahasa Jepang, pakai jalan pintas ini:
 
 - は = “kalau membahas topik ini”
 - が = “inilah subjek/jawaban/fokusnya”
@@ -102,12 +113,12 @@ Dalam bahasa Indonesia, topik dan subjek sering tidak dibedakan jelas. Dalam bah
 
 | Pola | Arti praktis | Contoh konteks |
 |---|---|---|
-| （N） + は + predikat | Penanda topik | 来週はテストがあります。 |
-| （N）は., （N）は.／Partikel + は | Penanda kontras atau penekanan | 私は肉は食べますが、魚は食べません。 |
-| （A）は（B）が（Adj）です | A memiliki B yang ~ | 兄は背が高いです。 |
-| （Kata tanya） + が + predikat | Kata tanya sebagai subjek | どこがいいですか。 |
-| （N） + を + （V） | Penanda objek; tempat yang dilewati atau ditinggalkan | 毎朝、家を出ます。 |
-| （Orang） + と + （V） | Dengan seseorang; lawan/interaksi | 友だちと映画に行きました。 |
+| （N）は＋predikat | membuka topik | 来週はテストがあります。 |
+| （N）は…、（N）は… | kontras dua topik | 私は肉は食べますが、魚は食べません。 |
+| （A）は（B）が（Adj）です | ciri atau bagian A | 兄は背が高いです。 |
+| （疑問詞）が＋predikat | kata tanya sebagai subjek | どこがいいですか。 |
+| （N）を＋（V） | objek atau tempat ditinggalkan | 毎朝、家を出ます。 |
+| （Orang）と＋（V） | bersama seseorang | 友だちと映画に行きました。 |
 
 ## Contoh Kalimat
 
@@ -124,20 +135,20 @@ Dalam bahasa Indonesia, topik dan subjek sering tidak dibedakan jelas. Dalam bah
 
 | Pasangan | Cara membedakan |
 |---|---|
-| は topik / は kontras | Topik vs kontras/penekanan. Pakai は untuk membuka topik. Pakai は juga saat membandingkan atau menekankan bagian tertentu. |
-| は / が | Topik vs fokus subjek. Pakai は untuk topik yang sudah menjadi pembahasan. Pakai が untuk menunjukkan jawaban yang dicari atau subjek dari kata tanya. |
-| （A）は（B）が〜 / （A）の（B）は〜 | Deskripsi ciri alami vs frasa kepemilikan eksplisit. Pakai AはBが〜 untuk bagian tubuh, ciri, kemampuan, dan kesukaan. |
-| を objek / を jalur gerak | Objek langsung vs tempat yang dilewati atau ditinggalkan. Pakai を dengan 食べる, 飲む, 読む, dan sejenisnya. を juga dipakai dengan 出る, 通る, 曲がる dalam konteks perpindahan. |
-| と / 一人で | Bersama seseorang vs sendiri. Pakai と saat melakukan sesuatu bersama orang lain. Pakai 一人で untuk “sendiri”. |
+| は topik / は kontras | Membuka topik vs membandingkan. は yang sama bisa memperkenalkan topik (来週は) atau mengontraskan (肉は…、魚は…). |
+| は / が | Topik yang sudah dibahas vs subjek/jawaban yang dicari. Pakai が pada kata tanya subjek dan jawabannya (どこがいいですか → ここがいいです). |
+| （A）は（B）が〜 / （A）の（B）は〜 | Ciri alami vs milik eksplisit. Pakai AはBが untuk bagian tubuh, ciri, kemampuan, kesukaan (兄は背が高いです). |
+| を objek / を jalur gerak | Objek langsung vs tempat dilewati/ditinggalkan. Pakai を dengan 食べる, 読む, dan juga 出る, 通る, 曲がる. |
+| と / 一人で | Bersama seseorang vs sendiri. Pakai と saat beraktivitas bersama orang lain. |
 
 ## Kesalahan Umum
 
 | Titik salah | Kurang tepat | Lebih tepat | Petunjuk |
 |---|---|---|---|
-| Pola AはBが untuk ciri tubuh | 兄の背が高いです。 | 兄は背が高いです。 | Kakak laki-laki saya tinggi. |
-| Kata tanya sebagai subjek memakai が | どこはいいですか。 | どこがいいですか。 | Di mana yang bagus? |
-| Titik keluar memakai を | 毎朝、家に出ます。 | 毎朝、家を出ます。 | Saya keluar rumah setiap pagi. |
-| と berarti “bersama” atau pasangan tindakan | 友だちに映画に行きました。 | 友だちと映画に行きました。 | Saya pergi menonton film bersama teman. |
+| Pola AはBが untuk ciri tubuh | 兄の背が高いです。 | 兄は背が高いです。 | Ciri tubuh pakai pola AはBが, bukan AのB. |
+| Kata tanya subjek memakai が | どこはいいですか。 | どこがいいですか。 | Kata tanya sebagai subjek memakai が, bukan は. |
+| Titik keluar memakai を | 毎朝、家に出ます。 | 毎朝、家を出ます。 | 出る memakai を untuk tempat yang ditinggalkan. |
+| と berarti “bersama” | 友だちに映画に行きました。 | 友だちと映画に行きました。 | Teman beraktivitas ditandai と, bukan に. |
 
 ## Mini Practice
 
@@ -150,7 +161,7 @@ sentence: "来週____テストがあります。"
 optionA: "は"
 optionB: "を"
 correct: "は"
-explanation: "は benar karena 来週 menjadi topik waktu yang sedang dibicarakan. を dipakai untuk objek langsung atau jalur gerak."
+explanation: "は benar karena 来週 menjadi topik waktu yang dibicarakan. を menandai objek atau jalur gerak, bukan topik."
 ---
 ::
 
@@ -161,7 +172,7 @@ sentence: "私は肉____食べますが、魚____食べません。"
 optionA: "は / は"
 optionB: "を / を"
 correct: "は / は"
-explanation: "は / は benar karena dua makanan sedang dikontraskan. を hanya menandai objek tanpa nuansa kontras yang kuat."
+explanation: "は / は benar karena dua makanan sedang dikontraskan. を hanya menandai objek tanpa nuansa kontras."
 ---
 ::
 
@@ -172,7 +183,7 @@ sentence: "兄は背____高いです。"
 optionA: "が"
 optionB: "を"
 correct: "が"
-explanation: "が benar dalam pola AはBが〜 untuk menjelaskan ciri atau bagian dari topik A."
+explanation: "が benar dalam pola AはBが〜: 背 adalah ciri dari topik 兄. を hanya untuk objek verba."
 ---
 ::
 
@@ -183,7 +194,7 @@ sentence: "どこ____いいですか。"
 optionA: "が"
 optionB: "は"
 correct: "が"
-explanation: "が benar karena kata tanya yang menjadi fokus/subjek biasanya memakai が, bukan は."
+explanation: "が benar karena kata tanya どこ menjadi subjek/fokus. は dipakai untuk topik yang sudah diketahui."
 ---
 ::
 
@@ -194,7 +205,7 @@ sentence: "毎朝、家____出ます。"
 optionA: "を"
 optionB: "に"
 correct: "を"
-explanation: "を benar karena 出ます memakai を untuk tempat yang ditinggalkan. に akan terdengar seperti tujuan."
+explanation: "を benar karena 出る memakai を untuk tempat yang ditinggalkan. に akan terdengar seperti tujuan (家に = ke rumah)."
 ---
 ::
 

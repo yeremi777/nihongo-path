@@ -28,7 +28,7 @@ Di akhir pelajaran ini, kamu bisa mengenali bentuk dasar kata sifat-i, bentuk kh
 Fokusnya adalah melihat bagian mana yang berubah saat kalimat menjadi negatif atau lampau.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> kata sifat bahasa Jepang bisa berubah bentuk. Jangan menerjemahkan kata per kata dari bahasa Indonesia; lihat dulu apakah kata itu kata sifat-i, kata sifat-na, atau bentuk khusus seperti いい.
+  <strong>Fokus hari ini:</strong> kata sifat-i berubah di dalam katanya (おもしろい → おもしろかった／おもしろくなかった), tetapi kata sifat-na berubah lewat です (きれいです → きれいではありません). いい tidak ikut pola itu: bentuk lampaunya よかった, bukan いいかった. 来ます juga berubah bacaan: くる, こない, きた.
 </div>
 
 ## Pola Hari Ini
@@ -104,11 +104,8 @@ Untuk 来ます, perhatikan bacaan berubah: 来ます = きます, 来る = く�
 | Bahan | おもしろい | kata sifat-i: menarik |
 | Bentuk | おもしろくなかったです | lampau negatif: tidak menarik tadi |
 | Kalimat | えいがはおもしろくなかったです。 | Filmnya tidak menarik. |
-
-| Langkah | Jepang | Fungsi |
-|---|---|---|
 | Bahan | いい | bentuk dasar: baik/bagus |
-| Bentuk | よかったです | lampau positif khusus dari いい |
+| Bentuk | よかったです | lampau positif khusus dari いい (akar よい) |
 | Kalimat | コンサートはよかったです。 | Konsernya bagus. |
 
 ## Catatan Pemakaian

@@ -23,26 +23,26 @@ tags:
 
 ## Tujuan
 
-Di akhir pelajaran ini, kamu bisa memperkuat kata sifat dengan とても／すごく, membuat makna negatif dengan あまり／ぜんぜん, dan menyebut frekuensi tindakan.
+Di akhir pelajaran ini, kamu bisa memperkuat kata sifat dengan とても／すごく, membuat makna negatif bertingkat dengan あまり／ぜんぜん, dan menyebut seberapa sering sesuatu terjadi.
 
-Fokusnya adalah melihat kata yang muncul sebelum kata sifat atau verba.
+Semua kata ini diletakkan di depan kata sifat atau verba, jadi kuncinya adalah membaca kata pertama sebelum inti kalimat.
 
 <div class="lesson-callout">
-  <strong>Fokus hari ini:</strong> baca kalimat pelan-pelan. Tandai partikel, bentuk kata, atau kata penghubung, lalu cocokkan dengan situasi yang sedang dibicarakan.
+  <strong>Fokus hari ini:</strong> penguat seperti とても寒い dan すごく上手 memperkuat kata sifat, tetapi あまり／ぜんぜん wajib berpasangan dengan bentuk negatif (あまり寒くない、ぜんぜんできない). Adverbia frekuensi いつも・ときどき・たいてい・よく menyatakan seberapa sering sebuah tindakan dilakukan.
 </div>
 
 ## Pola Hari Ini
 
 | Fungsi | Pola | Arti praktis | Kapan dipakai |
 |---|---|---|---|
-| Sangat | とても／たいへん + （Adj） | Sangat; amat | Keduanya memperkuat kata sifat |
-| Sangat | すごく／ほんとうに + （Adj） | Sangat; benar-benar | すごく sering dipakai dalam percakapan |
-| Tidak begitu | あまり／ぜんぜん + bentuk negatif | Tidak begitu; sama sekali tidak | Biasanya dipakai bersama bentuk negatif |
-| Selalu | Adverbia frekuensi + （V） | Selalu; kadang-kadang; biasanya; sering | Menunjukkan seberapa sering sesuatu terjadi |
+| Penguat kata sifat | とても／たいへん + （Adj） | sangat; amat | memperkuat kata sifat; たいへん bisa juga berarti "berat/sulit" |
+| Penguat kata sifat | すごく／ほんとうに + （Adj） | sangat; benar-benar | すごく untuk percakapan, ほんとうに untuk menekankan kenyataan |
+| Penyangkalan bertingkat | あまり／ぜんぜん + bentuk negatif | tidak begitu; sama sekali tidak | selalu dengan akhiran negatif |
+| Frekuensi | いつも／ときどき／たいてい／よく + （V） | selalu; kadang; biasanya; sering | menyatakan seberapa sering |
 
 ## Peta Pola
 
-Pola hari ini membantu kamu menyatakan tingkat dan frekuensi. Sebagian pola memperkuat kata sifat, sebagian lagi perlu bentuk negatif, dan sebagian menunjukkan seberapa sering sesuatu terjadi.
+Penguat positif (とても・たいへん・すごく・ほんとうに) berdiri di depan kata sifat untuk menaikkan tingkatnya. Berbeda dengan itu, あまり・ぜんぜん hanya bekerja jika akhir kalimatnya negatif, jadi keduanya adalah "penyangkal bertingkat". Terakhir, adverbia frekuensi いつも・ときどき・たいてい・よく menempel pada verba untuk mengatakan seberapa sering, seperti いつもこんでいます.
 
 <div class="word-strip">
   <span>とても・たいへん</span>
@@ -53,43 +53,44 @@ Pola hari ini membantu kamu menyatakan tingkat dan frekuensi. Sebagian pola memp
 
 ## Cara Membentuk Pola
 
-Simbol utama: （N）= nomina, （V）= verba, （Adj）= kata sifat, （Tempat）= tempat, （Orang）= orang, dan （Waktu）= waktu.
+Simbol yang dipakai: （Adj）= kata sifat, （V）= verba.
 
-| Pola | Bentuk dasar | Catatan bentuk |
+| Pola | Cara membentuk | Contoh bentuk |
 |---|---|---|
-| とても・たいへん | とても／たいへん + （Adj） | Keduanya memperkuat kata sifat |
-| すごく・ほんとうに | すごく／ほんとうに + （Adj） | すごく sering dipakai dalam percakapan |
-| あまり・ぜんぜん〜ない | あまり／ぜんぜん + bentuk negatif | Biasanya dipakai bersama bentuk negatif |
-| いつも・ときどき・たいてい・よく | Adverbia frekuensi + （V） | Menunjukkan seberapa sering sesuatu terjadi |
+| とても／たいへん + （Adj） | letakkan penguat sebelum kata sifat | とても寒い、たいへんおいしい |
+| すごく／ほんとうに + （Adj） | letakkan penguat sebelum kata sifat | すごく上手、ほんとうにきれい |
+| あまり／ぜんぜん + bentuk negatif | adverbia + kata sifat/verba negatif | あまり寒くない、ぜんぜんできない |
+| いつも／ときどき／たいてい／よく + （V） | letakkan adverbia frekuensi sebelum verba | いつもこむ、ときどき見る |
 
 ## Bangun Kalimat Bertahap
 
 | Langkah | Jepang | Fungsi |
 |---|---|---|
-| Bahan | とても／たいへん + （Adj） | bentuk untuk sangat |
-| Kalimat | きのうはとても寒かったです。 | Sangat; amat |
-| Bahan | すごく／ほんとうに + （Adj） | bentuk untuk sangat |
-| Kalimat | 日本語がすごく上手ですね。 | Sangat; benar-benar |
-| Bahan | あまり／ぜんぜん + bentuk negatif | bentuk untuk tidak begitu |
-| Kalimat | 今日はあまり寒くありません。 | Tidak begitu; sama sekali tidak |
-| Bahan | Adverbia frekuensi + （V） | bentuk untuk selalu |
-| Kalimat | あの店はいつもこんでいます。 | Selalu; kadang-kadang; biasanya; sering |
+| Bahan | 寒い | kata sifat-i: dingin |
+| Bentuk | とても寒かった | diperkuat, bentuk lampau |
+| Kalimat | きのうはとても寒かったです。 | Kemarin sangat dingin. |
+| Bahan | 寒い | kata sifat-i: dingin |
+| Bentuk | あまり寒くない | dengan penyangkalan |
+| Kalimat | 今日はあまり寒くありません。 | Hari ini tidak terlalu dingin. |
+| Bahan | こむ | verba: menjadi ramai |
+| Bentuk | いつもこんでいる | dengan frekuensi |
+| Kalimat | あの店はいつもこんでいます。 | Toko itu selalu ramai. |
 
 ## Catatan Pemakaian
 
-- Sangat: Keduanya memperkuat kata sifat. たいへん juga bisa berarti “berat/sulit” seperti dalam たいへんです.
-- Sangat: すごく sering dipakai dalam percakapan. ほんとうに menekankan bahwa sesuatu benar-benar terasa atau benar-benar terjadi.
-- Tidak begitu: Biasanya dipakai bersama bentuk negatif. ぜんぜん lebih kuat daripada あまり. Dalam percakapan santai, ぜんぜん bisa muncul dengan kata positif, tetapi penggunaan negatif paling aman untuk N5.
-- Selalu: Menunjukkan seberapa sering sesuatu terjadi. よく bisa berarti “sering” atau “dengan baik”, tergantung konteks.
+- Penguat kata sifat: とても netral dan aman. たいへん terasa lebih berat atau serius, dan bisa berarti "berat/sulit" seperti dalam それはたいへんですね.
+- Penguat percakapan: すごく sering muncul dalam obrolan. ほんとうに menekankan bahwa sesuatu benar-benar terasa atau benar-benar terjadi.
+- Penyangkalan bertingkat: あまり dan ぜんぜん hampir selalu butuh bentuk negatif. ぜんぜん lebih kuat daripada あまり.
+- Frekuensi: いつも (selalu), ときどき (kadang), たいてい (biasanya), よく (sering). よく bisa juga berarti "dengan baik", tergantung konteks.
 
-“Sangat” dalam bahasa Indonesia bisa menjadi beberapa adverbia Jepang:
+"Sangat" dalam bahasa Indonesia bisa menjadi beberapa adverbia Jepang:
 
-- とても = very, general and safe
-- たいへん = sangat, tetapi sering terasa serius, berat, atau sulit
-- すごく = very, conversational
-- ほんとうに = really/truly
+- とても = sangat, umum dan aman
+- たいへん = sangat/amat, sering terasa serius atau sulit
+- すごく = sangat, gaya percakapan
+- ほんとうに = benar-benar
 
-Untuk tingkat negatif, ingat pola ini:
+Untuk tingkat negatif, ingat pasangan ini:
 
 - あまり〜ない = tidak terlalu / tidak begitu
 - ぜんぜん〜ない = sama sekali tidak
@@ -98,38 +99,38 @@ Untuk tingkat negatif, ingat pola ini:
 
 | Pola | Arti praktis | Contoh konteks |
 |---|---|---|
-| とても／たいへん + （Adj） | Sangat; amat | きのうはとても寒かったです。 |
-| すごく／ほんとうに + （Adj） | Sangat; benar-benar | 日本語がすごく上手ですね。 |
-| あまり／ぜんぜん + bentuk negatif | Tidak begitu; sama sekali tidak | 今日はあまり寒くありません。 |
-| Adverbia frekuensi + （V） | Selalu; kadang-kadang; biasanya; sering | あの店はいつもこんでいます。 |
+| とても／たいへん + （Adj） | sangat; amat | きのうはとても寒かったです。 |
+| すごく／ほんとうに + （Adj） | sangat; benar-benar | 日本語がすごく上手ですね。 |
+| あまり／ぜんぜん + bentuk negatif | tidak begitu; sama sekali tidak | 今日はあまり寒くありません。 |
+| いつも／ときどき／たいてい／よく + （V） | seberapa sering | あの店はいつもこんでいます。 |
 
 ## Contoh Kalimat
 
 <div class="example-list">
   <div><p class="jp">きのうはとても寒かったです。</p><p>Kemarin sangat dingin.</p></div>
-  <div><p class="jp">日本語がすごく上手ですね。</p><p>Bahasa Jepangmu sangat bagus ya.</p></div>
+  <div><p class="jp">日本語がすごく上手ですね。</p><p>Bahasa Jepangmu sangat bagus, ya.</p></div>
   <div><p class="jp">今日はあまり寒くありません。</p><p>Hari ini tidak terlalu dingin.</p></div>
   <div><p class="jp">あの店はいつもこんでいます。</p><p>Toko itu selalu ramai.</p></div>
-  <div><p class="jp">今日はいい天気です。</p><p>Hari ini cuacanya bagus.</p></div>
+  <div><p class="jp">日本語の勉強はたいへんです。</p><p>Belajar bahasa Jepang itu berat.</p></div>
 </div>
 
 ## Hal yang Mudah Tertukar
 
 | Pasangan | Cara membedakan |
 |---|---|
-| とても / たいへん | “Sangat” yang netral vs “sangat” yang terasa berat, serius, atau sulit. Pakai とても secara umum. Pakai たいへん saat tingkatnya terasa berat atau serius. |
-| すごく / ほんとうに | Penekanan percakapan vs penekanan “benar-benar”. Pakai すごく dalam percakapan sehari-hari. Pakai ほんとうに saat menekankan kesungguhan atau kenyataan. |
-| あまり〜ない / ぜんぜん〜ない | Tidak begitu vs sama sekali tidak. Pakai あまり untuk penyangkalan yang lebih ringan. Pakai ぜんぜん untuk penyangkalan yang kuat atau total. |
+| とても / たいへん | "Sangat" yang netral vs "sangat" yang terasa berat, serius, atau sulit. Pakai とても secara umum. Pakai たいへん saat tingkatnya terasa berat atau serius. |
+| すごく / ほんとうに | Penekanan percakapan vs penekanan "benar-benar". Pakai すごく dalam percakapan sehari-hari. Pakai ほんとうに saat menekankan kesungguhan atau kenyataan. |
+| あまり〜ない / ぜんぜん〜ない | Tidak begitu vs sama sekali tidak. Pakai あまり untuk penyangkalan ringan. Pakai ぜんぜん untuk penyangkalan yang kuat atau total. |
 | いつも / ときどき | Selalu vs kadang-kadang. Pakai いつも untuk kebiasaan yang rutin. Pakai ときどき untuk tindakan yang sesekali terjadi. |
-| たいてい / よく | Biasanya vs sering/baik. Pakai たいてい untuk hal yang biasanya terjadi. Pakai よく untuk tindakan yang sering dilakukan atau kemampuan/kualitas yang baik. |
+| たいてい / よく | Biasanya vs sering/baik. Pakai たいてい untuk hal yang biasanya terjadi. Pakai よく untuk tindakan yang sering dilakukan atau kualitas yang baik. |
 
 ## Kesalahan Umum
 
 | Titik salah | Kurang tepat | Lebih tepat | Petunjuk |
 |---|---|---|---|
-| あまり perlu akhir kalimat negatif | 今日はあまり寒いです。 | 今日はあまり寒くありません。 | Hari ini tidak terlalu dingin. |
-| Di N5, ぜんぜん paling kuat saat dipakai bersama bentuk negatif | テストはぜんぜんできました。 | テストはぜんぜんできませんでした。 | Saya sama sekali tidak bisa mengerjakan tesnya. |
-| よく bisa berarti “sering” atau “dengan baik” | ひろは上手にラーメンを食べます。 | — | Hiro sering makan ramen. |
+| あまり perlu akhir negatif | 今日はあまり寒いです。 | 今日はあまり寒くありません。 | あまり harus berpasangan dengan bentuk negatif seperti 〜くありません. |
+| ぜんぜん paling kuat dengan bentuk negatif | テストはぜんぜんできました。 | テストはぜんぜんできませんでした。 | Untuk N5, ぜんぜん butuh akhiran negatif seperti できませんでした. |
+| よく berarti "sering", bukan 上手に | ひろは上手にラーメンを食べます。 | ひろはよくラーメンを食べます。 | Untuk frekuensi "sering" pakai よく; 上手に berarti "dengan mahir". |
 
 ## Mini Practice
 
@@ -142,7 +143,7 @@ sentence: "きのうは____寒かったです。"
 optionA: "とても"
 optionB: "あまり"
 correct: "とても"
-explanation: "とても benar untuk menekankan sifat. あまり biasanya perlu bentuk negatif."
+explanation: "とても memperkuat kata sifat pada kalimat positif. あまり butuh akhiran negatif, jadi tidak cocok dengan 寒かったです."
 ---
 ::
 
@@ -153,7 +154,7 @@ sentence: "日本語が____上手ですね。"
 optionA: "すごく"
 optionB: "まだ"
 correct: "すごく"
-explanation: "すごく benar untuk menekankan sifat secara percakapan. まだ berarti masih/belum, tergantung kalimat."
+explanation: "すごく memperkuat kata sifat 上手 secara percakapan. まだ berarti 'masih', jadi maknanya melenceng dari pujian."
 ---
 ::
 
@@ -164,7 +165,7 @@ sentence: "今日は____寒くありません。"
 optionA: "あまり"
 optionB: "とても"
 correct: "あまり"
-explanation: "あまり benar karena dipakai dengan bentuk negatif untuk 'tidak begitu'."
+explanation: "Akhiran negatif 寒くありません adalah petunjuknya: あまり〜ない berarti 'tidak begitu'. とても tidak dipakai dengan bentuk negatif."
 ---
 ::
 
@@ -175,7 +176,7 @@ sentence: "あの店は____こんでいます。"
 optionA: "いつも"
 optionB: "もう"
 correct: "いつも"
-explanation: "いつも benar untuk frekuensi 'selalu'. もう berarti sudah."
+explanation: "いつも adalah adverbia frekuensi 'selalu' untuk verba こんでいます. もう berarti 'sudah', bukan frekuensi."
 ---
 ::
 
@@ -186,7 +187,7 @@ sentence: "____図書館で勉強します。"
 optionA: "ときどき"
 optionB: "ぜんぜん"
 correct: "ときどき"
-explanation: "ときどき benar untuk 'kadang-kadang'. ぜんぜん biasanya dipakai dengan bentuk negatif."
+explanation: "ときどき berarti 'kadang-kadang' untuk kalimat positif. ぜんぜん menuntut akhiran negatif, jadi tidak cocok dengan 勉強します."
 ---
 ::
 
